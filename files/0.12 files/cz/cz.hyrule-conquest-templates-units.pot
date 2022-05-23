@@ -546,12 +546,12 @@ msgstr ""
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_giant_b.xml:75
 msgid "Create Tank Gohma."
-msgstr ""
+msgstr "Vytvořit Gómu Drtiče"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_hive_b.xml:41
 #: simulation/templates/units/gohma/gohma_larva_hive_b.xml:53
 msgid "Hive Larva"
-msgstr ""
+msgstr "Úlní Larva"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_hive_b.xml:42
 #: simulation/templates/units/gohma/gohma_larva_hive_b.xml:54
@@ -570,20 +570,20 @@ msgstr ""
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_hive_b.xml:89
 msgid "Create Hive Keeper."
-msgstr ""
+msgstr "Vytvořit Správce Úlu"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_hive_b.xml:99
 msgid "Create Caretaker."
-msgstr ""
+msgstr "Vytvořit Domovníka"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_hive_b.xml:110
 msgid "Create Shroud Walker."
-msgstr ""
+msgstr "Vytvořit Mlhochodce"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_royal_b.xml:29
 #: simulation/templates/units/gohma/gohma_larva_royal_b.xml:32
 msgid "Royal Larva"
-msgstr ""
+msgstr "Královská Larva"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_royal_b.xml:30
 #: simulation/templates/units/gohma/gohma_larva_royal_b.xml:33
@@ -600,12 +600,12 @@ msgstr ""
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_royal_b.xml:71
 msgid "Create Gohma Queen."
-msgstr ""
+msgstr "Vytvořit Královnu Góm"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_soldier_b.xml:33
 #: simulation/templates/units/gohma/gohma_larva_soldier_b.xml:34
 msgid "Soldier Larva"
-msgstr ""
+msgstr "Vojenská Larva"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_soldier_b.xml:34
 #: simulation/templates/units/gohma/gohma_larva_soldier_b.xml:35
@@ -622,16 +622,16 @@ msgstr ""
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_soldier_b.xml:74
 msgid "Create Pincergohma."
-msgstr ""
+msgstr "Vytvořit Kleštěgómu"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_soldier_b.xml:84
 msgid "Create Spinalgohma."
-msgstr ""
+msgstr "Vytvořit Hřbetogómu"
 
 #: simulation/templates/units/campaign/FS_01/gohma_queen_b.xml:40
 #: simulation/templates/units/gohma/gohma_queen_b.xml:38
 msgid "Gohma Queen"
-msgstr ""
+msgstr "Královna Góm"
 
 #: simulation/templates/units/campaign/FS_01/gohma_queen_b.xml:41
 #: simulation/templates/units/gohma/gohma_queen_b.xml:39
@@ -651,17 +651,17 @@ msgstr ""
 
 #: simulation/templates/units/combat_dummy.xml:46
 msgid "Combat Dummy"
-msgstr ""
+msgstr "Bojová Figurína"
 
 #: simulation/templates/units/combat_dummy.xml:47
 #: simulation/templates/units/combat_dummy.xml:52
 msgid "For Testing Purposes."
-msgstr ""
+msgstr "Pro testování."
 
 #: simulation/templates/units/combat_dummy.xml:51
 #: simulation/templates/units/dummy_unit.xml:31
 msgid "Dummy"
-msgstr ""
+msgstr "Figurína"
 
 #: simulation/templates/units/darknut/darknut_aries_b.xml:4
 #: simulation/templates/units/deku/deku_scrubram_b.xml:4
@@ -674,22 +674,22 @@ msgstr ""
 #: simulation/templates/units/ordona/ordona_siegeram_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Ram"
-msgstr ""
+msgstr "Beranidlo"
 
 #: simulation/templates/units/darknut/darknut_aries_b.xml:43
 msgid "Aries"
-msgstr ""
+msgstr "Skopec"
 
 #: simulation/templates/units/darknut/darknut_aries_b.xml:44
 msgid ""
 "Small but very durable rams built by the Legion to tear down enemy walls. The metal "
 "plating of these engines made them extremely resistant to most ranged attacks, often "
 "forcing the enemy to halt them in a melee or bombard them with magics.﻿﻿"
-msgstr ""
+msgstr "Malé ale velmi odolné beranidlo postavené Legií na boření nepřátelských zdí. Ocelové brnění těhto strojů je dělalo extrémně odolné vůči většině střelných útoků, což často donutilo nepřátele je zastavit v boji na blízko nebo je bombardovat magií."
 
 #: simulation/templates/units/darknut/darknut_aries_b.xml:47
 msgid "Siege unit that bashes enemy buildings into dust."
-msgstr ""
+msgstr "Obléhací stroj který mlátí nepřátelské budovy na prach."
 
 #: simulation/templates/units/darknut/darknut_aries_b.xml:48
 #: simulation/templates/units/darknut/darknut_fokkalista_b.xml:48
@@ -741,12 +741,12 @@ msgstr ""
 #: simulation/templates/units/zora/zora_hydrodemolish_b.xml:43
 #: simulation/templates/units/zora/zora_magecannon_b.xml:61
 msgid "Siege"
-msgstr ""
+msgstr "Obléhací"
 
 #: simulation/templates/units/darknut/darknut_civilianA.xml:8
 #: simulation/templates/units/darknut/darknut_thrallA.xml:44
 msgid "Darknut Thrall"
-msgstr ""
+msgstr "Temnářský Otrok"
 
 #: simulation/templates/units/darknut/darknut_civilianA.xml:9
 #: simulation/templates/units/darknut/darknut_thrallA.xml:45
