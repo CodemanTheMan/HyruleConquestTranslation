@@ -775,11 +775,11 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_battleforged_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Mace"
-msgstr ""
+msgstr "Palcát"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_b.xml:54
 msgid "Doomknocker"
-msgstr ""
+msgstr "Zkázomlat"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_b.xml:55
 msgid ""
@@ -788,27 +788,27 @@ msgid ""
 "relentlessly march at their targets, shrugging off arrow fire without missing a beat. "
 "When in a melee they could pulverize and pummel just about any foe, even those with "
 "durable armor."
-msgstr ""
+msgstr "Zkázomlati byli velcí a mocní Temnářští bojovníci, s mnoha lety zkušeností k jejich jménu. Se svým obřím palcátem a odolným štítem, Zkázomlati pomalu a bez ustání pochodovali ke svým cílům a odolávali sršícím šípům jako nic. V boji na blízko bušili a drtili jakéhokoliv nepřítele, i ty s odolným brněním."
 
 #: simulation/templates/units/darknut/darknut_doomknocker_b.xml:59
 msgid "Huge Melee unit armed with an armor crushing mace."
-msgstr ""
+msgstr "Velká jednotka pro boj zblízka vyzbrojená brněním-drtícím palcátem."
 
 #: simulation/templates/units/darknut/darknut_doomknocker_legendary.xml:47
 msgid "Legendary Doomknocker"
-msgstr ""
+msgstr "Legendární Zkázomlat"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_master.xml:43
 msgid "Master Doomknocker"
-msgstr ""
+msgstr "Mistrovský Zkázomlat"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_mighty.xml:44
 msgid "Mighty Doomknocker"
-msgstr ""
+msgstr "Mocný Zkázomlat"
 
 #: simulation/templates/units/darknut/darknut_dux_b.xml:58
 msgid "Dux"
-msgstr ""
+msgstr "Průvodce"
 
 #: simulation/templates/units/darknut/darknut_dux_b.xml:59
 msgid ""
@@ -816,13 +816,13 @@ msgid ""
 "raised generations of Darknut warriors. A lone Dux was often attached to scores of "
 "soldiers to not only to command them, but to show them how to become even better "
 "fighters."
-msgstr ""
+msgstr "Expertní válečníci a ještě lepší učitelé, Průvodci byli velitelé kteří vedli příkladem a vychovali generace Temnářských bojovníků. Jediný Průvodce byl často přiřazen několika jednotkám vojáků nejen aby je vedl, ale aby jim ukázal jak se stát lepšími válečníky."
 
 #: simulation/templates/units/darknut/darknut_dux_b.xml:63
 msgid ""
 "Commander unit that leads fellow soldiers into battle and improves their rate of "
 "gaining experience."
-msgstr ""
+msgstr "Velitel který vede jiné vojáky do bitvy a zlepšuje jejich míru získávání zkušenosti."
 
 #: simulation/templates/units/darknut/darknut_dux_b.xml:64
 #: simulation/templates/units/darknut/darknut_idolthrone_b.xml:39
@@ -842,19 +842,19 @@ msgstr ""
 #: simulation/templates/units/ordona/ordona_goatlord_b.xml:42
 #: simulation/templates/units/zora/zora_domsupreme_b.xml:47
 msgid "Commander"
-msgstr ""
+msgstr "Velitel"
 
 #: simulation/templates/units/darknut/darknut_dux_legendary.xml:43
 msgid "Legendary Dux"
-msgstr ""
+msgstr "Legendární Průvodce"
 
 #: simulation/templates/units/darknut/darknut_dux_master.xml:43
 msgid "Master Dux"
-msgstr ""
+msgstr "Mistrovský Průvodce"
 
 #: simulation/templates/units/darknut/darknut_dux_mighty.xml:44
 msgid "Mighty Dux"
-msgstr ""
+msgstr "Mocný Průvodce"
 
 #: simulation/templates/units/darknut/darknut_fokkalista_b.xml:4
 #: simulation/templates/units/hylian/hylian_crossbowman_b.xml:4
@@ -868,11 +868,11 @@ msgstr ""
 #: simulation/templates/units/ordona/ordona_hero_ilia_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Bolts"
-msgstr ""
+msgstr "Šipky"
 
 #: simulation/templates/units/darknut/darknut_fokkalista_b.xml:44
 msgid "Fokkalista"
-msgstr ""
+msgstr "Fokalista"
 
 #: simulation/templates/units/darknut/darknut_fokkalista_b.xml:45
 msgid ""
@@ -880,33 +880,33 @@ msgid ""
 "supplies across the canyons and cliffs of their homeland. It was later converted into a"
 " mobile siege weapon, lobbing rocks and boulders great distances to shatter enemy "
 "fortifications and defenses."
-msgstr ""
+msgstr "Vyvinutá Fokskými spojenci, Fokalista byla původně určena k odpalování zásob přez kaňony a útesy jejich domova. Později byla konvertována na mobilní obléhací stroj, házející kamení a balvany přes velké vzdálenosti ke tříštění nepřátelských opevnění."
 
 #: simulation/templates/units/darknut/darknut_fokkalista_b.xml:47
 msgid "Ranged Siege weapon that launches boulders at its targets."
-msgstr ""
+msgstr "Dálkový obléhací stroj který odpaluje balvany na své cíle."
 
 #: simulation/templates/units/darknut/darknut_glasswitch_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Glass Shards"
-msgstr ""
+msgstr "Skleněné Střepy"
 
 #: simulation/templates/units/darknut/darknut_glasswitch_b.xml:43
 msgid "Glass Witch"
-msgstr ""
+msgstr "Skleněná Čarodejnice"
 
 #: simulation/templates/units/darknut/darknut_glasswitch_b.xml:45
 msgid ""
 "A fringe convent of lady Darknuts known for their unmatched crafting of all manner of "
 "jewelry and stained glass. In a battle the Glass Witches toss razor sharp bolts of "
 "crystal at their enemies, shredding their armor and knocking them off their feet."
-msgstr ""
+msgstr "Krajní klášter Temnářek známý pro jejich bezkonkurenční řemeslnictví ve tvorbě šperků a barevného skla. V bitvě hází Skleněné Čarodejnice na břitvu ostré šipky z krystalu na své nepřátele, čímž jim drtí brnění a rozhazují jim balanc."
 
 #: simulation/templates/units/darknut/darknut_glasswitch_b.xml:50
 msgid ""
 "Yaraxonal's Unique Unit. A Missile unit that hurls wicked shards of glass into their "
 "enemies."
-msgstr ""
+msgstr "Jednotka, kterou může verbovat pouze Jaraxonal. Jednotka na dálku která mrští skleněné střepy na své nepřátele."
 
 #: simulation/templates/units/darknut/darknut_gymnatai_b.xml:4
 #: simulation/templates/units/darknut/darknut_gymnatai_mighty.xml:4
@@ -914,30 +914,30 @@ msgstr ""
 #: simulation/templates/units/gerudo/gerudo_serpentkeep_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Khopesh"
-msgstr ""
+msgstr "Chopeš"
 
 #: simulation/templates/units/darknut/darknut_gymnatai_b.xml:33
 msgid "Gymnatai"
-msgstr ""
+msgstr "Kymnitis"
 
 #: simulation/templates/units/darknut/darknut_gymnatai_b.xml:34
 msgid ""
 "These young and eager warriors had yet to become trained by the Legion, and therefore "
 "attempted to prove themselves as volunteer soldiers. Those that survived combat or "
 "showed exceptional skill would be adopted into the Legion without question."
-msgstr ""
+msgstr "Tihle mladí a dychtiví válečníci se ještě nedočkali tréninku od Legie, a proto se snažili prokázat jako dobrovolní vojáci. Ti kteří přežili boj nebo prokázali mimořádnou zručnost byli přijati do Legie bez otázek."
 
 #: simulation/templates/units/darknut/darknut_gymnatai_b.xml:38
 msgid "Fast Melee unit armed with a khopesh."
-msgstr ""
+msgstr "Rychlá jednotka pro boj na blízko ozbrojená chopešem."
 
 #: simulation/templates/units/darknut/darknut_gymnatai_mighty.xml:19
 msgid "Mighty Gymnatai"
-msgstr ""
+msgstr "Mocný Kymnitis"
 
 #: simulation/templates/units/darknut/darknut_hero_alros.xml:58
 msgid "Prince of Mercenaries"
-msgstr ""
+msgstr "Princ Žoldáků"
 
 #: simulation/templates/units/darknut/darknut_hero_alros.xml:60
 msgid ""
@@ -947,35 +947,35 @@ msgid ""
 "outcasts. For years he has ravaged the desert with his fellow reavers; his ultimate "
 "goal is nothing short of taking the Darknut throne and replacing Zalunbar a﻿s the "
 "living god of the Legion."
-msgstr ""
+msgstr "Bývalý fanatik Zalunbarův, Alros utekl do Gerudské pouště po pádu svého bývalého idola a opustil kód Legie. Po desetiletích žalu, Alros znovu našel odhodlání a začal shromažďovat armádu žoldáků a Temnářských psanců. Roku pustošil poušť se svými Lupiči; jeho konečný cíl je nic míň než se zmocnit Temnářského trůnu a nahradit Zalunbara jakožto živoucího boha Legie."
 
 #: simulation/templates/units/darknut/darknut_hero_alros.xml:64
 msgid "Alros"
-msgstr ""
+msgstr "Alros"
 
 #: simulation/templates/units/darknut/darknut_hero_alros.xml:65
 msgid "Swift Mercenary Hero that attacks enemies with his blade."
-msgstr ""
+msgstr "Hbitý žoldácký hrdina který útočí na nepřátele se svou čepelí."
 
 #: simulation/templates/units/darknut/darknut_hero_militron.xml:58
 msgid "Darknut Warlord"
-msgstr ""
+msgstr "Temnářský Vojevůdce"
 
 #: simulation/templates/units/darknut/darknut_hero_militron.xml:60
 msgid ""
 "A young Darknut commander who lead the reconquest of the southern Mesas. Militron is "
 "utterly ruthless and has resorted to tactics that some consider outside the Legion "
 "code."
-msgstr ""
+msgstr "Mladý Temnářský velitel který vedl znovudobytí jižních stolových hor. Militron je naprosto nemilosrdný a uchyluje se k taktikám jenž někteří považují za mimo Legii."
 
 #: simulation/templates/units/darknut/darknut_hero_militron.xml:64
 msgid "Militron"
-msgstr ""
+msgstr "Militron"
 
 #: simulation/templates/units/darknut/darknut_hero_militron.xml:65
 #: simulation/templates/units/stalfos/stalfos_hero_gabora.xml:44
 msgid "Melee Hero with decent armor and splash damage."
-msgstr ""
+msgstr "Hrdina na boj zblízka s decentním brněním a plošným poškozením."
 
 #: simulation/templates/units/darknut/darknut_hero_onon.xml:4
 #: simulation/templates/units/darknut/darknut_hoplite_b.xml:4
@@ -1016,30 +1016,30 @@ msgstr ""
 #: simulation/templates/units/zora/zora_riverpatrol_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Spear"
-msgstr ""
+msgstr "Kopí"
 
 #: simulation/templates/units/darknut/darknut_hero_onon.xml:47
 msgid "The Darknut Prime"
-msgstr ""
+msgstr "Temnářský Náčelník"
 
 #: simulation/templates/units/darknut/darknut_hero_onon.xml:49
 msgid ""
 "Known as the Darknut Prime, Onon lead the successful defense of Ontheon and several "
 "other cities against the Gerudo. He has become a popular hero figure amongst the "
 "Darknut people despite him refusing to join the Legion proper."
-msgstr ""
+msgstr "Známý jako Termnářský Náčelník, Onon vedl úspěšnou obranu Ontheonu a několika dalších měst proti Gerudám. Stal se z něho lidový hrdina mezi Temnářským lidem přesto že odmítá se připojit k Legii."
 
 #: simulation/templates/units/darknut/darknut_hero_onon.xml:53
 msgid "Onon"
-msgstr ""
+msgstr "Onon"
 
 #: simulation/templates/units/darknut/darknut_hero_onon.xml:54
 msgid "Ranged hero that can impale enemies with his Javelin."
-msgstr ""
+msgstr "Hrdina bojujicí na dálku který může propíchnout nepřátele svými oštěpy."
 
 #: simulation/templates/units/darknut/darknut_hero_senturon.xml:58
 msgid "The Black Knight"
-msgstr ""
+msgstr "Černý Rytíř"
 
 #: simulation/templates/units/darknut/darknut_hero_senturon.xml:60
 msgid ""
