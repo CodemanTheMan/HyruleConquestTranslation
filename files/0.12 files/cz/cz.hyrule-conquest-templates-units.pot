@@ -46,19 +46,19 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_stalhound_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fangs"
-msgstr ""
+msgstr "Tesáky"
 
 #: simulation/templates/template_unit_dog.xml:32
 msgid "War Dog"
-msgstr ""
+msgstr "Válečný Pes"
 
 #: simulation/templates/template_unit_dog.xml:33
 msgid "Cannot attack Structures, Ships, or Siege Engines."
-msgstr ""
+msgstr "Nemůže zaútočit na Budovy, Lodě, nebo Obléhací Stroje."
 
 #: simulation/templates/template_unit_dog.xml:34
 msgid "Dog"
-msgstr ""
+msgstr "Pes"
 
 #: simulation/templates/template_unit_dog.xml:34
 #: simulation/templates/template_unit_scout.xml:15
@@ -354,7 +354,7 @@ msgstr ""
 #: simulation/templates/units/zora/zora_shocktroop_b.xml:40
 #: simulation/templates/units/zora/zora_stormbolter_b.xml:43
 msgid "Melee"
-msgstr ""
+msgstr "Boj Zblízka"
 
 #: simulation/templates/template_unit_scout.xml:4
 #: simulation/templates/units/campaign/FS_01/gohma_larva_giant_b.xml:4
@@ -394,15 +394,15 @@ msgstr ""
 
 #: simulation/templates/template_unit_scout.xml:14
 msgid "Melee Cavalry"
-msgstr ""
+msgstr "Jezdectvo"
 
 #: simulation/templates/template_unit_unselectable.xml:46
 msgid "Unit"
-msgstr ""
+msgstr "Jednotka"
 
 #: simulation/templates/units/armos/armos_alttp_b.xml:4
 msgid "Ancient Armos"
-msgstr ""
+msgstr "Starověký Armos"
 
 #: simulation/templates/units/armos/armos_alttp_b.xml:5
 msgid ""
@@ -410,18 +410,18 @@ msgid ""
 "are still a mystery to this day. What can be surmised is that they were intended to "
 "guard passages and other important locations, as those found active will begin to "
 "rampage and defend the immediate area."
-msgstr ""
+msgstr "Většinou nalézány v lesních zříceninách, tyhle sochy, a jejich tvůrci, jsou dodnes záhadou. Co se dá předpokládat je že byly určeny strážit průchody a podobná důležitá místa, neboť ty nalezené aktivní začnou řádit a bránit bezprostřední okolí."
 
 #: simulation/templates/units/armos/armos_alttp_b.xml:7
 #: simulation/templates/units/armos/armos_dm_b.xml:7
 #: simulation/templates/units/armos/armos_fsa_b.xml:7
 #: simulation/templates/units/armos/armos_tarm_b.xml:7
 msgid "Armos Melee unit that rams into targets."
-msgstr ""
+msgstr "Armos bojující zblízka který buší do cíle."
 
 #: simulation/templates/units/armos/armos_dm_b.xml:4
 msgid "Death Mountain Armos"
-msgstr ""
+msgstr "Armos z Hory smrti"
 
 #: simulation/templates/units/armos/armos_dm_b.xml:5
 msgid ""
@@ -429,11 +429,11 @@ msgid ""
 "creators, are still a mystery to this day. What can be surmised is that they were "
 "intended to guard passages and other important locations, as those found active will "
 "begin to rampage and defend the immediate area."
-msgstr ""
+msgstr "Většinou nalézány podél Pohoří smrti, tyhle sochy, a jejich tvůrci, jsou dodnes záhadou. Co se dá předpokládat je že byly určeny strážit průchody a podobná důležitá místa, neboť ty nalezené aktivní začnou řádit a bránit bezprostřední okolí."
 
 #: simulation/templates/units/armos/armos_fsa_b.xml:4
 msgid "Desert Armos"
-msgstr ""
+msgstr "Pouštní Armos"
 
 #: simulation/templates/units/armos/armos_fsa_b.xml:5
 msgid ""
@@ -441,11 +441,11 @@ msgid ""
 "still a mystery to this day. What can be surmised is that they were intended to guard "
 "passages and other important locations, as those found active will begin to rampage and"
 " defend the immediate area."
-msgstr ""
+msgstr "Většinou nalézány v pouštních zříceninách, tyhle sochy, a jejich tvůrci, jsou dodnes záhadou. Co se dá předpokládat je že byly určeny strážit průchody a podobná důležitá místa, neboť ty nalezené aktivní začnou řádit a bránit bezprostřední okolí."
 
 #: simulation/templates/units/armos/armos_tarm_b.xml:4
 msgid "Tarminian Armos"
-msgstr ""
+msgstr "Tarmský Armos"
 
 #: simulation/templates/units/armos/armos_tarm_b.xml:5
 msgid ""
@@ -453,39 +453,39 @@ msgid ""
 " still a mystery to this day. What can be surmised is that they were intended to guard "
 "passages and other important locations, as those found active will begin to rampage and"
 " defend the immediate area."
-msgstr ""
+msgstr "Většinou nalézány ve zříceninách dávno zapomenutých a mystických míst, tyhle sochy, a jejich tvůrci, jsou dodnes záhadou. Co se dá předpokládat je že byly určeny strážit průchody a podobná důležitá místa, neboť ty nalezené aktivní začnou řádit a bránit bezprostřední okolí."
 
 #: simulation/templates/units/boss/boss_madmanhandla.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Teeth and Claws"
-msgstr ""
+msgstr "Zuby a Drápy"
 
 #: simulation/templates/units/boss/boss_madmanhandla.xml:60
 msgid ""
 "Sometimes called the Sea of Trees, this oversized Manhandla has been infected by the "
 "Mad Scrub disease and has long gone on a rampage throughout the Deku Woods."
-msgstr ""
+msgstr "Občas nazýván Mořem stromů, tenhle přerostlý Trnochod byl nakažen nemocí vzteklých rostů a dávno začal řádit v Dekuho lesech."
 
 #: simulation/templates/units/boss/boss_madmanhandla.xml:62
 msgid "Giant Mad Manhandla"
-msgstr ""
+msgstr "Obří Vzteklý Trnochod"
 
 #: simulation/templates/units/boss/boss_madmanhandla.xml:63
 msgid "Massive Creature Boss that can attack entire armies from all sides."
-msgstr ""
+msgstr "Masivný Netvor který může útočit na celé armády ze všech směrů."
 
 #: simulation/templates/units/boss/boss_madmanhandla.xml:64
 #: simulation/templates/units/boss/boss_moldarach.xml:64
 #: simulation/templates/units/boss/boss_molgera.xml:66
 msgid "Boss"
-msgstr ""
+msgstr "Netvor"
 
 #: simulation/templates/units/boss/boss_moldarach.xml:4
 #: simulation/templates/units/lanayru/lanayru_arachdervish_b.xml:4
 #: simulation/templates/units/lanayru/lanayru_aruroda_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Claws and Stinger"
-msgstr ""
+msgstr "Klepeta a Žihadlo"
 
 #: simulation/templates/units/boss/boss_moldarach.xml:60
 msgid ""
@@ -494,15 +494,15 @@ msgid ""
 "grown to a truely massive size as a result. Fortunately the creature spends most of its"
 " time slumbering, but when hungry or angry it will seek out anything that moves and "
 "make a meal out of its victim."
-msgstr ""
+msgstr "Masivní Arach který terorizuje Lanajrijské pláže po desetiletí. Arachové se jen vzácně dožívají tak pokročilého věku, ale Moldarach je možná stovky let starý a dosáhl díky tomu masivní velikosti. Naštěstí tenhle tvor tráví většinu svého času dřímotou, ale pokud je hladový nebo rozlícený, vyhledá cokoliv co se hýbe a udělá ze své oběti žrádlo."
 
 #: simulation/templates/units/boss/boss_moldarach.xml:62
 msgid "Moldarach"
-msgstr ""
+msgstr "Moldarach"
 
 #: simulation/templates/units/boss/boss_moldarach.xml:63
 msgid "Giant Boss that destroys armies with its huge claws and venomous tail."
-msgstr ""
+msgstr "Obří Netvor který ničí armády svými obrovskými klepety a jedovatým žihadlem."
 
 #: simulation/templates/units/boss/boss_molgera.xml:4
 #: simulation/templates/units/fairy/fairy_drove_all.xml:4
@@ -510,7 +510,7 @@ msgstr ""
 #: simulation/templates/units/fairy/fairy_drove_summer.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Teeth"
-msgstr ""
+msgstr "Zuby"
 
 #: simulation/templates/units/boss/boss_molgera.xml:62
 msgid ""
@@ -519,19 +519,19 @@ msgid ""
 "and became the top of the food chain. Despite this, they seem to be going the way of "
 "their rivals as their number dwindle over the ages. Pnly through the efforts of the "
 "Darknuts have these magestic but deadly monsters lived on."
-msgstr ""
+msgstr "Jedna z posledních svého druhu, tahle obří Molgera je pravděpodobně stovky let stará. Kdysi menší predátor v Gerudské poušti, Molgery přežily své lovce a prorazily se na vrchol potravního řetězce. Přesto se zdá že jdou stezkou svých rivalů a jejich počet věky ubývá. Přežívají pouze díky snahám Temnářů."
 
 #: simulation/templates/units/boss/boss_molgera.xml:64
 msgid "Molgera"
-msgstr ""
+msgstr "Molgera"
 
 #: simulation/templates/units/boss/boss_molgera.xml:65
 msgid "Boss monster that can burrow into the ground and surprise attack entire armies."
-msgstr ""
+msgstr "Netvor který je schopen se zavrtat do země a překvapit celé armády."
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_giant_b.xml:29
 msgid "Giant Larva"
-msgstr ""
+msgstr "Obří Larva"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_giant_b.xml:30
 msgid ""
