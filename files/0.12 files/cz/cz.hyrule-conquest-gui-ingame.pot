@@ -1,0 +1,377 @@
+# Translation template for Hyrule Conquest.
+# Copyright (C) 2022 UndyingNephalim
+# This file is distributed under the same license as the Hyrule Conquest project.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hyrule Conquest\n"
+"POT-Creation-Date: 2022-05-23 17:26+0058\n"
+"PO-Revision-Date: 2022-05-23 17:26+0058\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#: gui/session/dialogs/campaign_end.xml:(caption):8
+msgid "Resume"
+msgstr ""
+
+#: gui/session/dialogs/campaign_end.xml:(caption):12
+msgid "Leave"
+msgstr ""
+
+#: gui/session/dialogs/campaign_window.xml:(caption):12
+msgid "Skip"
+msgstr ""
+
+#: gui/session/dialogs/cinematic_window.xml:(caption):11
+msgid "Confirm"
+msgstr ""
+
+#: gui/session/dialogs/cinematic_window.xml:(caption):18
+msgid "Yes"
+msgstr ""
+
+#: gui/session/dialogs/cinematic_window.xml:(caption):22
+msgid "No"
+msgstr ""
+
+#: gui/session/input.js:208
+#, javascript-format
+msgid "Basic range: %(range)s meter"
+msgid_plural "Basic range: %(range)s meters"
+msgstr[0] ""
+msgstr[1] ""
+
+#: gui/session/input.js:209
+#, javascript-format
+msgid "Average bonus range: %(range)s meter"
+msgid_plural "Average bonus range: %(range)s meters"
+msgstr[0] ""
+msgstr[1] ""
+
+#: gui/session/input.js:767
+msgid "Cannot build wall here!"
+msgstr ""
+
+#: gui/session/messages.js:112
+msgid "You have won!"
+msgstr ""
+
+#: gui/session/messages.js:113
+msgid "You have been defeated!"
+msgstr ""
+
+#: gui/session/messages.js:464
+msgid "Click to quit this tutorial."
+msgstr ""
+
+#: gui/session/messages.js:465
+msgid "Quit"
+msgstr ""
+
+#: gui/session/messages.js:469
+msgid "Click when ready."
+msgstr ""
+
+#: gui/session/messages.js:473
+msgid "Follow the instructions."
+msgstr ""
+
+#: gui/session/messages.js:599
+msgid "Unknown Player"
+msgstr ""
+
+#: gui/session/selection_details.js:70
+#, javascript-format
+msgid "%(secondaryName)s — Packed"
+msgstr ""
+
+#: gui/session/selection_details.js:72
+msgid "Packed"
+msgstr ""
+
+#: gui/session/selection_details.js:84
+#, javascript-format
+msgid "\\[OFFLINE] %(player)s"
+msgstr ""
+
+#: gui/session/selection_details.js:90
+#, javascript-format
+msgid "%(rank)s Rank"
+msgstr ""
+
+#: gui/session/selection_details.js:148
+#, javascript-format
+msgid "%(hitpoints)s / %(maxHitpoints)s"
+msgstr ""
+
+#: gui/session/selection_details.js:191
+#, javascript-format
+msgid "%(capturePoints)s / %(maxCapturePoints)s"
+msgstr ""
+
+#: gui/session/selection_details.js:212
+#, javascript-format
+msgid "%(experience)s %(current)s / %(required)s"
+msgstr ""
+
+#: gui/session/selection_details.js:213 gui/session/selection_details.js:219
+msgid "Experience:"
+msgstr ""
+
+#: gui/session/selection_details.js:218
+#, javascript-format
+msgid "%(experience)s %(current)s"
+msgstr ""
+
+#: gui/session/selection_details.js:229
+msgid "∞"
+msgstr ""
+
+#: gui/session/selection_details.js:231 gui/session/selection_details.js:263
+#: gui/session/selection_details.js:295
+#, javascript-format
+msgid "%(amount)s / %(max)s"
+msgstr ""
+
+#: gui/session/selection_details.js:243
+#, javascript-format
+msgid "%(resource)s:"
+msgstr ""
+
+#: gui/session/selection_details.js:277
+#, javascript-format
+msgid "Gain: %(gain)s"
+msgstr ""
+
+#: gui/session/selection_details.js:287 gui/session/selection_details.js:305
+#, javascript-format
+msgid ""
+"(%(number)s)\n"
+"%(time)s"
+msgstr ""
+
+#: gui/session/selection_details.js:289 gui/session/selection_details.js:307
+#: gui/session/selection_panels.js:612
+msgctxt "countdown format"
+msgid "m:ss"
+msgstr ""
+
+#: gui/session/selection_details.js:299
+msgid "Current/max gatherers"
+msgstr ""
+
+#: gui/session/selection_details.js:323
+#, javascript-format
+msgid "(%(secondaryName)s)"
+msgstr ""
+
+#: gui/session/selection_details.js:473
+msgid "Capture Points:"
+msgstr ""
+
+#: gui/session/selection_details.js:481
+#, javascript-format
+msgid "%(label)s: %(details)s\n"
+msgstr ""
+
+#: gui/session/selection_details.js:482
+msgid "Garrison Size"
+msgstr ""
+
+#: gui/session/selection_details.js:487
+#, javascript-format
+msgid "%(label)s %(details)s\n"
+msgstr ""
+
+#: gui/session/selection_details.js:488
+msgid "Carrying:"
+msgstr ""
+
+#: gui/session/selection_details.js:491 gui/session/selection_details.js:500
+#, javascript-format
+msgid "%(type)s %(amount)s"
+msgstr ""
+
+#: gui/session/selection_details.js:496
+#, javascript-format
+msgid "%(label)s %(details)s"
+msgstr ""
+
+#: gui/session/selection_details.js:497
+msgid "Loot:"
+msgstr ""
+
+#: gui/session/selection_details.js:576
+#, javascript-format
+msgid "%(gain)s (%(player)s)"
+msgstr ""
+
+#: gui/session/selection_details.js:601
+msgid "+"
+msgstr ""
+
+#: gui/session/selection_details.js:608
+msgctxt "Separation mark in an enumeration"
+msgid ", "
+msgstr ""
+
+#: gui/session/selection_panels.js:67
+msgid "Raise an alert!"
+msgstr ""
+
+#: gui/session/selection_panels.js:70
+msgid "End of alert."
+msgstr ""
+
+#: gui/session/selection_panels.js:302
+msgid "Default formation is disabled."
+msgstr ""
+
+#: gui/session/selection_panels.js:303
+msgid "Right-click to disable the default formation feature."
+msgstr ""
+
+#: gui/session/selection_panels.js:306
+msgid "This is the default formation, used for movement orders."
+msgstr ""
+
+#: gui/session/selection_panels.js:307
+msgid "Right-click to set this as the default formation."
+msgstr ""
+
+#: gui/session/selection_panels.js:363
+#, javascript-format
+msgid "Unload %(name)s"
+msgstr ""
+
+#: gui/session/selection_panels.js:364
+msgid "Single-click to unload 1. Shift-click to unload all of this type."
+msgstr ""
+
+#: gui/session/selection_panels.js:366 gui/session/selection_panels.js:938
+#, javascript-format
+msgid "Player: %(playername)s"
+msgstr ""
+
+#: gui/session/selection_panels.js:404
+msgid "Lock Gate"
+msgstr ""
+
+#: gui/session/selection_panels.js:410
+msgid "Unlock Gate"
+msgstr ""
+
+#: gui/session/selection_panels.js:461
+msgid "Pack"
+msgstr ""
+
+#: gui/session/selection_panels.js:469
+msgid "Unpack"
+msgstr ""
+
+#: gui/session/selection_panels.js:477
+msgid "Cancel Packing"
+msgstr ""
+
+#: gui/session/selection_panels.js:485
+msgid "Cancel Unpacking"
+msgstr ""
+
+#: gui/session/selection_panels.js:587
+msgid "The auto-queue will try to train this item later."
+msgstr ""
+
+#: gui/session/selection_panels.js:590
+msgid "Insufficient population capacity:"
+msgstr ""
+
+#: gui/session/selection_panels.js:591
+#, javascript-format
+msgid "%(population)s %(neededSlots)s"
+msgstr ""
+
+#: gui/session/selection_panels.js:801
+#, javascript-format
+msgid "%(number)s entity of class %(class)s"
+msgid_plural "%(number)s entities of class %(class)s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: gui/session/selection_panels.js:807
+#, javascript-format
+msgid "Remaining: %(entityCounts)s"
+msgstr ""
+
+#: gui/session/selection_panels.js:808
+msgctxt "Separator for a list of entity counts"
+msgid ", "
+msgstr ""
+
+#: gui/session/selection_panels.js:861
+msgid "Cannot research while upgrading."
+msgstr ""
+
+#: gui/session/selection_panels.js:1087
+msgid "Cannot train while upgrading."
+msgstr ""
+
+#: gui/session/selection_panels.js:1157
+#, javascript-format
+msgid "Upgrade to a %(primaryName)s (%(secondaryName)s). %(tooltip)s"
+msgstr ""
+
+#: gui/session/selection_panels.js:1163
+#, javascript-format
+msgid "Upgrade to a %(primaryName)s (%(secondaryName)s)."
+msgstr ""
+
+#: gui/session/selection_panels.js:1171
+#, javascript-format
+msgid "Upgrade to a %(primaryName)s. %(tooltip)s"
+msgstr ""
+
+#: gui/session/selection_panels.js:1176
+#, javascript-format
+msgid "Upgrade to a %(primaryName)s."
+msgstr ""
+
+#: gui/session/selection_panels.js:1213
+msgid "Cancel Upgrading"
+msgstr ""
+
+#: gui/session/selection_panels.js:1229
+msgid "Cannot upgrade when the entity is training, researching or already upgrading."
+msgid_plural "Cannot upgrade when all entities are training, researching or already upgrading."
+msgstr[0] ""
+msgstr[1] ""
+
+#: gui/session/selection_panels_middle/single_details_area.xml:(tooltip):38
+msgid "Health:"
+msgstr ""
+
+#: gui/session/selection_panels_middle/single_details_area.xml:(tooltip):52
+msgid "Capture points:"
+msgstr ""
+
+#: gui/session/selection_panels_middle/single_details_area.xml:(tooltip):90
+msgid "Attack and Resistance"
+msgstr ""
+
+#: gui/session/selection_panels_middle/single_details_area.xml:(tooltip):95
+msgid "Experience"
+msgstr ""
+
+#: gui/session/selection_panels_middle/single_details_area.xml:(tooltip):103
+msgid "Rank"
+msgstr ""
+
+#: gui/session/session_objects/selection_group_icons.xml:(tooltip):8
+msgid ""
+"Click to select grouped units, double-click to focus the grouped units and right-click "
+"to disband the group."
+msgstr ""
+
+#: gui/session/top_panel/PlayerViewControl.js:131
+msgid "Observer"
+msgstr ""
