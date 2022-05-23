@@ -1,0 +1,1536 @@
+# Translation template for Hyrule Conquest.
+# Copyright (C) 2022 UndyingNephalim
+# This file is distributed under the same license as the Hyrule Conquest project.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hyrule Conquest\n"
+"POT-Creation-Date: 2022-05-23 17:26+0058\n"
+"PO-Revision-Date: 2022-05-23 17:26+0058\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#: simulation/data/auras/factionbonus/gerudo_bonus_1.json:auraDescription
+msgid "(+25% Loot drop from enemies - all Units)"
+msgstr ""
+
+#: simulation/data/auras/factionbonus/gerudo_bonus_1.json:auraName
+msgid "Ransack"
+msgstr ""
+
+#: simulation/data/auras/other/camp_aura.json:auraDescription
+#: simulation/data/auras/other/outpost_aura.json:auraDescription
+#: simulation/data/auras/other/storehouse_aura.json:auraDescription
+msgid "(Radius that this Outpost can gather resources.)"
+msgstr ""
+
+#: simulation/data/auras/other/camp_aura.json:auraName
+#: simulation/data/auras/other/outpost_aura.json:auraName
+#: simulation/data/auras/other/resourcenode_aura.json:auraName
+#: simulation/data/auras/other/settlement_aura.json:auraName
+#: simulation/data/auras/other/storehouse_aura.json:auraName
+msgid "Gathering Radius"
+msgstr ""
+
+#: simulation/data/auras/other/dustcloud_aura_1.json:auraDescription
+msgid "{-75% Vision Range, -100% Enemy Ranged Attack Accuracy, -25% Movement Speed)"
+msgstr ""
+
+#: simulation/data/auras/other/dustcloud_aura_1.json:auraName
+#: simulation/data/auras/other/thickfog_aura_1.json:auraName
+msgid "Thick Fog"
+msgstr ""
+
+#: simulation/data/auras/other/resourcenode_aura.json:auraDescription
+msgid "(Radius that this structure can gather resources.)"
+msgstr ""
+
+#: simulation/data/auras/other/ruin_getter_aura.json:auraDescription
+msgid "(Kills Ruin Guardians for Ruin Factions.)"
+msgstr ""
+
+#: simulation/data/auras/other/ruin_getter_aura.json:auraName
+msgid "Ruin Getter"
+msgstr ""
+
+#: simulation/data/auras/other/ruingetter_killer_aura.json:auraDescription
+msgid "(This Structure is a Ruin.)"
+msgstr ""
+
+#: simulation/data/auras/other/ruingetter_killer_aura.json:auraName
+msgid "Ruin"
+msgstr ""
+
+#: simulation/data/auras/other/settlement_aura.json:auraDescription
+msgid "(Radius that this Settlement can gather resources.)"
+msgstr ""
+
+#: simulation/data/auras/other/thickfog_aura_1.json:auraDescription
+msgid "{-50% Vision Range, -100% Enemy Ranged Attack Accuracy, -25% Movement Speed)"
+msgstr ""
+
+#: simulation/data/auras/structures/aqueduct.json:auraDescription
+msgid "Area with which Aqueducts provide water for Dominion buildings."
+msgstr ""
+
+#: simulation/data/auras/structures/aqueduct.json:auraName
+msgid "Aqueduct Water"
+msgstr ""
+
+#: simulation/data/auras/structures/bar_aura.json:auraDescription
+msgid "(Heal 0.1 health/second, +5% Build Rate, Gather Rate, and Walk/Run Speed - Worker)"
+msgstr ""
+
+#: simulation/data/auras/structures/bar_aura.json:auraName
+msgid "Bar Sales"
+msgstr ""
+
+#: simulation/data/auras/structures/bimaristan_heal.json:auraDescription
+msgid "(Requires 'Siege Shelters' researched. Heal 0.5 health/second - Humanoid)"
+msgstr ""
+
+#: simulation/data/auras/structures/bimaristan_heal.json:auraName
+msgid "Siege Shelters"
+msgstr ""
+
+#: simulation/data/auras/structures/colossus1.json:auraDescription
+#: simulation/data/auras/structures/jabu1.json:auraDescription
+#: simulation/data/auras/structures/tot1.json:auraDescription
+#: simulation/data/auras/structures/urn1.json:auraDescription
+msgid "(+50% Territory Influence)"
+msgstr ""
+
+#: simulation/data/auras/structures/colossus1.json:auraName
+msgid "Desert Colossus"
+msgstr ""
+
+#: simulation/data/auras/structures/commclutch_aura_1.json:auraDescription
+#: simulation/data/auras/structures/incubator_aura_1.json:auraDescription
+#: simulation/data/auras/structures/solarium_aura_1.json:auraDescription
+msgid "(-10% Batch Build Time - Building)"
+msgstr ""
+
+#: simulation/data/auras/structures/commclutch_aura_1.json:auraName
+msgid "Community Clutches"
+msgstr ""
+
+#: simulation/data/auras/structures/fairy_season_autumn.json:auraDescription
+msgid "It is now Autumntime for the Fairies of Tarm."
+msgstr ""
+
+#: simulation/data/auras/structures/fairy_season_autumn.json:auraName
+msgid "Autumntime"
+msgstr ""
+
+#: simulation/data/auras/structures/fairy_season_spring.json:auraDescription
+msgid "It is now Springtime for the Fairies of Tarm."
+msgstr ""
+
+#: simulation/data/auras/structures/fairy_season_spring.json:auraName
+msgid "Springtime"
+msgstr ""
+
+#: simulation/data/auras/structures/fairy_season_summer.json:auraDescription
+msgid "It is now Summertime for the Fairies of Tarm."
+msgstr ""
+
+#: simulation/data/auras/structures/fairy_season_summer.json:auraName
+msgid "Summertime"
+msgstr ""
+
+#: simulation/data/auras/structures/fairy_season_winter.json:auraDescription
+msgid "It is now Wintertime for the Fairies of Tarm."
+msgstr ""
+
+#: simulation/data/auras/structures/fairy_season_winter.json:auraName
+msgid "Wintertime"
+msgstr ""
+
+#: simulation/data/auras/structures/hanging_aura.json:auraDescription
+msgid "(+10% Build Rate, Gather Rate, and Walk/Run Speed - Worker)"
+msgstr ""
+
+#: simulation/data/auras/structures/hanging_aura.json:auraName
+msgid "Public Hangings"
+msgstr ""
+
+#: simulation/data/auras/structures/hivecreep.json:auraDescription
+msgid "Projection of the Gohma's will, a radius which Gohma structures must be built within."
+msgstr ""
+
+#: simulation/data/auras/structures/hivecreep.json:auraName
+msgid "Hive Projection"
+msgstr ""
+
+#: simulation/data/auras/structures/hylian_statue_church.json:auraDescription
+msgid "(Gives 5 Magic Armor to anyone nearby)"
+msgstr ""
+
+#: simulation/data/auras/structures/hylian_statue_church.json:auraName
+msgid "Holy Protection"
+msgstr ""
+
+#: simulation/data/auras/structures/incubator_aura_1.json:auraName
+msgid "Incubation"
+msgstr ""
+
+#: simulation/data/auras/structures/incubator_aura_2.json:auraDescription
+msgid "(Requires 'Regimented Schools' researched. -20% Batch Build Time - Building)"
+msgstr ""
+
+#: simulation/data/auras/structures/incubator_aura_2.json:auraName
+msgid "Regimented Schools"
+msgstr ""
+
+#: simulation/data/auras/structures/jabu1.json:auraName
+msgid "Shrine of Jabu"
+msgstr ""
+
+#: simulation/data/auras/structures/lavawall_aura_1.json:auraDescription
+msgid "(-0.8 Health/second - Enemy Unit)"
+msgstr ""
+
+#: simulation/data/auras/structures/lavawall_aura_1.json:auraName
+#: simulation/data/auras/structures/lavawallbig_aura_1.json:auraName
+msgid "Lava Moat"
+msgstr ""
+
+#: simulation/data/auras/structures/lavawall_aura_2.json:auraDescription
+msgid "(Requires 'Superheated Lava' researched. -1.6 Health/second - Enemy Unit)."
+msgstr ""
+
+#: simulation/data/auras/structures/lavawall_aura_2.json:auraName
+#: simulation/data/auras/structures/lavawallbig_aura_2.json:auraName
+msgid "Superheated Lava"
+msgstr ""
+
+#: simulation/data/auras/structures/lavawallbig_aura_1.json:auraDescription
+msgid "(-0.8 Health/second - Enemy Unit)."
+msgstr ""
+
+#: simulation/data/auras/structures/lavawallbig_aura_2.json:auraDescription
+msgid "(Requires 'Superheated Lava' researched. -1.6 Health/second - Enemy Unit)"
+msgstr ""
+
+#: simulation/data/auras/structures/menhir_gather.json:auraDescription
+msgid "Area which the Magic Menhir can gather resources."
+msgstr ""
+
+#: simulation/data/auras/structures/menhir_gather.json:auraName
+msgid "Magic Gathering"
+msgstr ""
+
+#: simulation/data/auras/structures/palace_heal.json:auraDescription
+msgid ""
+"(Requires Princess Mikeela Riju and 'Desert Haven' researched. Heal 0.5 health/second -"
+" Humanoid)"
+msgstr ""
+
+#: simulation/data/auras/structures/palace_heal.json:auraName
+msgid "Desert Haven"
+msgstr ""
+
+#: simulation/data/auras/structures/poisontrap_aura_1.json:auraDescription
+msgid "{-2.0 HP per second)"
+msgstr ""
+
+#: simulation/data/auras/structures/poisontrap_aura_1.json:auraName
+msgid "Poison Trap"
+msgstr ""
+
+#: simulation/data/auras/structures/religious_territory_1.json:auraDescription
+msgid "Extends the range of territory that your Civil Centers can generate."
+msgstr ""
+
+#: simulation/data/auras/structures/religious_territory_1.json:auraName
+msgid "Territory Influence"
+msgstr ""
+
+#: simulation/data/auras/structures/silvercoordination.json:auraDescription
+msgid ""
+"Royal Hubs, Guard Posts, and Silver Keeps within the Silver Tower's aura have a +25% "
+"increase in their fire rate and deal +30% Pierce Damage. Does not stack."
+msgstr ""
+
+#: simulation/data/auras/structures/silvercoordination.json:auraName
+msgid "Tower Coordination"
+msgstr ""
+
+#: simulation/data/auras/structures/solarium_aura_1.json:auraName
+msgid "Solarium Growth"
+msgstr ""
+
+#: simulation/data/auras/structures/spikedwall_aura_1.json:auraDescription
+msgid "(Requires 'Spiked Walls' researched. -1.0 Health/second - Enemy Unit)."
+msgstr ""
+
+#: simulation/data/auras/structures/spikedwall_aura_1.json:auraName
+msgid "Spiked Walls"
+msgstr ""
+
+#: simulation/data/auras/structures/theater_aura_1.json:auraDescription
+msgid "{+5% Build Rate, Gather Rate, and Walk/Run Speed - Worker)"
+msgstr ""
+
+#: simulation/data/auras/structures/theater_aura_1.json:auraName
+msgid "Theater Plays"
+msgstr ""
+
+#: simulation/data/auras/structures/theater_aura_2.json:auraDescription
+msgid ""
+"(Requires 'Epic War Plays' researched. +5% Build Rate, Gather Rate, and Walk/Run Speed "
+"- Soldier)"
+msgstr ""
+
+#: simulation/data/auras/structures/theater_aura_2.json:auraName
+msgid "Epic War Plays"
+msgstr ""
+
+#: simulation/data/auras/structures/thermae_aura_1.json:auraDescription
+msgid "(Improves the production rate of Darknut bases and structural integrity by 10%)"
+msgstr ""
+
+#: simulation/data/auras/structures/thermae_aura_1.json:auraName
+msgid "Water System"
+msgstr ""
+
+#: simulation/data/auras/structures/thermae_aura_2.json:auraDescription
+msgid "(Improves the HP of all units by 10%)"
+msgstr ""
+
+#: simulation/data/auras/structures/thermae_aura_2.json:auraName
+msgid "Refreshing Waters"
+msgstr ""
+
+#: simulation/data/auras/structures/tot1.json:auraName
+msgid "Temple of Time"
+msgstr ""
+
+#: simulation/data/auras/structures/totem_aura_1.json:auraDescription
+msgid "(Requires Ghirahim as a Hero. -2.0 Health/second - Enemy Unit)."
+msgstr ""
+
+#: simulation/data/auras/structures/totem_aura_1.json:auraName
+msgid "Demonblight Corruption"
+msgstr ""
+
+#: simulation/data/auras/structures/urn1.json:auraName
+msgid "Urn of Maphaeus"
+msgstr ""
+
+#: simulation/data/auras/teambonuses/gerudo_player_teambonus.json:auraDescription
+msgid "(+10% allied Loot from enemies)"
+msgstr ""
+
+#: simulation/data/auras/teambonuses/gerudo_player_teambonus.json:auraName
+msgid "Spoils of War"
+msgstr ""
+
+#: simulation/data/auras/teambonuses/goron_player_teambonus.json:auraDescription
+msgid "(+10% Health - all Allied Buildings)"
+msgstr ""
+
+#: simulation/data/auras/teambonuses/goron_player_teambonus.json:auraName
+msgid "Mountain Masonry"
+msgstr ""
+
+#: simulation/data/auras/teambonuses/hylian_player_teambonus.json:auraDescription
+msgid "(+10% ally Territory Influence - Civil Centers)"
+msgstr ""
+
+#: simulation/data/auras/teambonuses/hylian_player_teambonus.json:auraName
+msgid "Vassals"
+msgstr ""
+
+#: simulation/data/auras/teambonuses/kokiri_player_teambonus.json:auraDescription
+msgid "(Allies gain a slow trickle of materials)"
+msgstr ""
+
+#: simulation/data/auras/teambonuses/kokiri_player_teambonus.json:auraName
+msgid "Kin of the Forest"
+msgstr ""
+
+#: simulation/data/auras/teambonuses/lanayru_player_teambonus.json:auraDescription
+msgid "(Allies gain a slow trickle of Currency Resources)"
+msgstr ""
+
+#: simulation/data/auras/teambonuses/lanayru_player_teambonus.json:auraName
+msgid "International Banking"
+msgstr ""
+
+#: simulation/data/auras/teambonuses/moblin_player_teambonus.json:auraDescription
+msgid "(Allied Mechanical Siege units gain a 10% increase in damage and gain +10% range.)"
+msgstr ""
+
+#: simulation/data/auras/teambonuses/moblin_player_teambonus.json:auraName
+msgid "We Tell Ya How to Tear Down!"
+msgstr ""
+
+#: simulation/data/auras/teambonuses/ordona_player_teambonus.json:auraDescription
+msgid "(Allies gain a slow trickle of Food Resources)"
+msgstr ""
+
+#: simulation/data/auras/teambonuses/ordona_player_teambonus.json:auraName
+msgid "Bread basket of Hyrule"
+msgstr ""
+
+#: simulation/data/auras/teambonuses/zora_player_teambonus.json:auraDescription
+msgid "(Garrison Heal 1 Heath/second - Allied Civil Centers)"
+msgstr ""
+
+#: simulation/data/auras/teambonuses/zora_player_teambonus.json:auraName
+msgid "Zora Medicine"
+msgstr ""
+
+#: simulation/data/auras/units/arbiter_aura_1.json:auraDescription
+msgid "(+10% Melee Attack, +10% Ranged Attack, +10% Walk/Run Speed - Cavalry)"
+msgstr ""
+
+#: simulation/data/auras/units/arbiter_aura_1.json:auraName
+msgid "Judge of Ganondorf"
+msgstr ""
+
+#: simulation/data/auras/units/ashinon_aura_2.json:auraDescription
+msgid "(+15% Melee Attack, +15% Ranged Attack, +15% Walk/Run Speed - Infantry)"
+msgstr ""
+
+#: simulation/data/auras/units/ashinon_aura_2.json:auraName
+msgid "Desert Captain"
+msgstr ""
+
+#: simulation/data/auras/units/baba_thorns.json:auraDescription
+msgid ""
+"This unit is coated in sharp thorns, causing enemies that attack it to pasively take "
+"damage. (-0.8 Health/second - Enemy Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/baba_thorns.json:auraName
+msgid "Thorns"
+msgstr ""
+
+#: simulation/data/auras/units/batlebro_aura_1.json:auraDescription
+msgid "{In Formation, +10% Armor - Melee Infantry)"
+msgstr ""
+
+#: simulation/data/auras/units/batlebro_aura_1.json:auraName
+msgid "Brotherly Command"
+msgstr ""
+
+#: simulation/data/auras/units/batlebro_aura_2.json:auraDescription
+msgid ""
+"The enemy cowers before the rage of the battle bro - -10% attack damage to all enemy "
+"units within range)"
+msgstr ""
+
+#: simulation/data/auras/units/batlebro_aura_2.json:auraName
+msgid "Goron Rage"
+msgstr ""
+
+#: simulation/data/auras/units/beekeeper_honey_1.json:auraDescription
+msgid "(If Garrisoned, +1 Food Resource Trickle/1 second - Apiary)"
+msgstr ""
+
+#: simulation/data/auras/units/beekeeper_honey_1.json:auraName
+msgid "Harvest Honey"
+msgstr ""
+
+#: simulation/data/auras/units/beekeeper_honey_2.json:auraDescription
+msgid "(If Garrisoned, +1 Currency Resource Trickle/1 second - Apiary)"
+msgstr ""
+
+#: simulation/data/auras/units/beekeeper_honey_2.json:auraName
+msgid "Sell Honey"
+msgstr ""
+
+#: simulation/data/auras/units/champknight_aura_1.json:auraDescription
+msgid "(In Formation, +3 Armor - Melee Infantry)"
+msgstr ""
+
+#: simulation/data/auras/units/champknight_aura_1.json:auraName
+msgid "Officer"
+msgstr ""
+
+#: simulation/data/auras/units/chief_aura_1.json:auraDescription
+msgid "(+10% Melee Attack, +25% Movement Speed - Infantry)"
+msgstr ""
+
+#: simulation/data/auras/units/chief_aura_1.json:auraName
+msgid "Chief of the Forest"
+msgstr ""
+
+#: simulation/data/auras/units/commander_aura_1.json:auraDescription
+msgid ""
+"This unit is under the guidance of a Commander; they perform better in all respects. "
+"(+10% to all Attack Damage and Movement Speed)"
+msgstr ""
+
+#: simulation/data/auras/units/commander_aura_1.json:auraName
+msgid "Commander Aura"
+msgstr ""
+
+#: simulation/data/auras/units/cowcart_aura_1.json:auraDescription
+msgid "(Heal 1 health/second)"
+msgstr ""
+
+#: simulation/data/auras/units/cowcart_aura_1.json:auraName
+msgid "Lon Lon Milk"
+msgstr ""
+
+#: simulation/data/auras/units/deacon_chant_1.json:auraDescription
+#: simulation/data/auras/units/fiddler_music_1.json:auraDescription
+#: simulation/data/auras/units/hornling_aura_1.json:auraDescription
+#: simulation/data/auras/units/monitor_aura_1.json:auraDescription
+msgid "(+10% Walk/Run Speed - Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/deacon_chant_1.json:auraName
+msgid "Chant"
+msgstr ""
+
+#: simulation/data/auras/units/deacon_chant_2.json:auraDescription
+msgid ""
+"(Requires 'Religious Devotion' researched. +10% Build Rate, Gather Rate, and Walk/Run "
+"Speed - Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/deacon_chant_2.json:auraName
+msgid "Religious Devotion"
+msgstr ""
+
+#: simulation/data/auras/units/deacon_chant_3.json:auraDescription
+msgid ""
+"(Requires 'Layman's Fervor' researched. +50% Build Rate, Gather Rate, and Walk/Run "
+"Speed - Citizen, Town Lookout, Town Guard, Town Levy, and Squire)"
+msgstr ""
+
+#: simulation/data/auras/units/deacon_chant_3.json:auraName
+msgid "Layman's Fervor"
+msgstr ""
+
+#: simulation/data/auras/units/deacon_chant_4.json:auraDescription
+msgid "(-10% Walk/Run Speed - Enemy Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/deacon_chant_4.json:auraName
+msgid "Chosen of the Goddesses"
+msgstr ""
+
+#: simulation/data/auras/units/disease_aura_1.json:auraDescription
+#: simulation/data/auras/units/disease_aura_2.json:auraDescription
+#: simulation/data/auras/units/thorn_aura_1.json:auraDescription
+#: simulation/data/auras/units/thorn_aura_2.json:auraDescription
+msgid "{-1.0 HP per second, -25% Movement Speed)"
+msgstr ""
+
+#: simulation/data/auras/units/disease_aura_1.json:auraName
+#: simulation/data/auras/units/disease_aura_2.json:auraName
+msgid "Disease"
+msgstr ""
+
+#: simulation/data/auras/units/domsupreme_aura_1.json:auraDescription
+msgid ""
+"{+10% Melee and Ranged Attack Rate, +2 Meters Ranged Attack Range, +10% Walk/Run Speed "
+"- Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/domsupreme_aura_1.json:auraName
+msgid "Supreme Commander"
+msgstr ""
+
+#: simulation/data/auras/units/drummer_aura_1.json:auraDescription
+msgid "(+20% Walk/Run Speed - Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/drummer_aura_1.json:auraName
+msgid "Drum Beats"
+msgstr ""
+
+#: simulation/data/auras/units/drummer_aura_2.json:auraDescription
+msgid "(Requires 'Goronbi Beats' researched. +20% Walk/Run Speed - Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/drummer_aura_2.json:auraName
+msgid "Goronbi Beats"
+msgstr ""
+
+#: simulation/data/auras/units/dummy_aura_1.json:auraDescription
+msgid "{-25% Movement Speed)"
+msgstr ""
+
+#: simulation/data/auras/units/dummy_aura_1.json:auraName
+#: simulation/data/auras/units/moblinpoopy_aura_1.json:auraName
+msgid "Horrid Smell"
+msgstr ""
+
+#: simulation/data/auras/units/dux_aura_1.json:auraDescription
+msgid "(+10% Less experience required to level up)"
+msgstr ""
+
+#: simulation/data/auras/units/dux_aura_1.json:auraName
+#: simulation/data/auras/units/dux_aura_2.json:auraName
+msgid "Dux's Experience"
+msgstr ""
+
+#: simulation/data/auras/units/dux_aura_2.json:auraDescription
+msgid "(+20% Less experience required to level up)"
+msgstr ""
+
+#: simulation/data/auras/units/fairykiss_aura_1.json:auraDescription
+msgid "{25% Ally HP, +10 Magic Armor for Ally units)"
+msgstr ""
+
+#: simulation/data/auras/units/fairykiss_aura_1.json:auraName
+msgid "Fairy's Kiss"
+msgstr ""
+
+#: simulation/data/auras/units/fiddler_music_1.json:auraName
+msgid "Fiddler's Music"
+msgstr ""
+
+#: simulation/data/auras/units/fiddler_music_songearth.json:auraDescription
+#: simulation/data/auras/units/heroes/kokiri_hero_fado_songearth.json:auraDescription
+msgid "(Enemy Structures consistently take damage)"
+msgstr ""
+
+#: simulation/data/auras/units/fiddler_music_songearth.json:auraName
+#: simulation/data/auras/units/fiddler_music_songearth2.json:auraName
+#: simulation/data/auras/units/fiddler_music_songearth3.json:auraName
+#: simulation/data/auras/units/heroes/kokiri_hero_fado_songearth.json:auraName
+#: simulation/data/auras/units/heroes/kokiri_hero_fado_songearth2.json:auraName
+#: simulation/data/auras/units/heroes/kokiri_hero_fado_songearth3.json:auraName
+msgid "Earth God's Lyric"
+msgstr ""
+
+#: simulation/data/auras/units/fiddler_music_songearth2.json:auraDescription
+msgid "(Enemy units will take more damage)"
+msgstr ""
+
+#: simulation/data/auras/units/fiddler_music_songearth3.json:auraDescription
+msgid "(Enemy Structures are easier to take)"
+msgstr ""
+
+#: simulation/data/auras/units/fiddler_music_songsaria.json:auraDescription
+msgid "(+10% Research Speed, Batch Training Speed)"
+msgstr ""
+
+#: simulation/data/auras/units/fiddler_music_songsaria.json:auraName
+#: simulation/data/auras/units/heroes/kokiri_hero_fado_songsaria.json:auraName
+#: simulation/data/auras/units/heroes/kokiri_hero_fado_songsaria2.json:auraName
+msgid "Saria's Song"
+msgstr ""
+
+#: simulation/data/auras/units/fiddler_music_songsaria2.json:auraDescription
+msgid "(+30% Regen and IdleRegen increase - Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/fiddler_music_songsaria2.json:auraName
+msgid "Musically Soothing"
+msgstr ""
+
+#: simulation/data/auras/units/fiddler_music_songwind.json:auraDescription
+#: simulation/data/auras/units/heroes/kokiri_hero_fado_songwind.json:auraDescription
+msgid "(+30% Walk/Run Speed - Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/fiddler_music_songwind.json:auraName
+#: simulation/data/auras/units/heroes/kokiri_hero_fado_songwind.json:auraName
+msgid "Wind God's Aria"
+msgstr ""
+
+#: simulation/data/auras/units/giantden_aura_1.json:auraDescription
+msgid "Host of Sterile Gohma Larva defend this structure(-3.0 Health/second - Enemy Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/giantden_aura_1.json:auraName
+msgid "Giant Dens"
+msgstr ""
+
+#: simulation/data/auras/units/gohprincess_aura_1.json:auraDescription
+msgid "(+10% Attack Rate - All Units)"
+msgstr ""
+
+#: simulation/data/auras/units/gohprincess_aura_1.json:auraName
+msgid "Hive Commander"
+msgstr ""
+
+#: simulation/data/auras/units/gohprincess_aura_2.json:auraDescription
+#: simulation/data/auras/units/lonlon_cowcart_aura_1.json:auraDescription
+msgid "(+2 Idle HP Regen - All Units)"
+msgstr ""
+
+#: simulation/data/auras/units/gohprincess_aura_2.json:auraName
+msgid "Empathic Healing"
+msgstr ""
+
+#: simulation/data/auras/units/goldenclad_aura_1.json:auraDescription
+msgid "{+10% Melee Attack, +10% Health - Cavalry)"
+msgstr ""
+
+#: simulation/data/auras/units/goldenclad_aura_1.json:auraName
+msgid "Kingdom General"
+msgstr ""
+
+#: simulation/data/auras/units/healer_warpair_1.json:auraDescription
+msgid "(In Formation, Heal 1 Health/second - Healer)"
+msgstr ""
+
+#: simulation/data/auras/units/healer_warpair_1.json:auraName
+msgid "Warzone Pairings"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_ganondorf_1.json:auraDescription
+msgid "(-10% Melee and Ranged Attack - Enemy Infantry)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_ganondorf_1.json:auraName
+msgid "Tyrant of the Dunes"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_ganondorf_2.json:auraDescription
+msgid "(In Formation, +10% Walk/Run Speed - Cavalry)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_ganondorf_2.json:auraName
+msgid "Desert Phantom"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_ganondorf_3.json:auraDescription
+msgid "(If Garrisoned, -25% Batch Build Time, +5 Armor, +2 Capture Regen Rate - Palace)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_ganondorf_3.json:auraName
+msgid "King of the Gerudo"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_nabooru_1.json:auraDescription
+msgid "(+25% Ranged Attack Range - Ranged)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_nabooru_1.json:auraName
+msgid "Dune Volley"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_nabooru_2.json:auraDescription
+msgid "(In Formation, x2 Loot - Soldier and Siege)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_nabooru_2.json:auraName
+msgid "Supply Raid"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_nabooru_3.json:auraDescription
+msgid ""
+"(If Garrisoned, -50% Batch Build Time, -50% Tech Research Time - Swine Farm, Supply "
+"Mill, and Barter Outlet)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_nabooru_3.json:auraName
+msgid "Logistics"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_riju_1.json:auraDescription
+msgid "(+3 Armor, +50% Health - Adobe Wall)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_riju_1.json:auraName
+msgid "Desert Borders"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_riju_2.json:auraDescription
+msgid ""
+"(In Formation, +25% Health, +10% Walk/Run Speed - Dune Walker, Sandseal Plower, and "
+"Dust Sentinel)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_riju_2.json:auraName
+msgid "Sandseal Master"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_riju_3.json:auraDescription
+msgid "(If Garrisoned, -50% Batch Build Time - Sandseal Pen)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_riju_3.json:auraName
+msgid "Seal Trainer"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_urbosa_1.json:auraDescription
+msgid "(-1 Armor - Enemy Infantry)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_urbosa_1.json:auraName
+msgid "Urbosa's Fury"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_urbosa_2.json:auraDescription
+msgid "(In formation, +50% Armor vs Hack and Pierce (Dodge) - Melee Infantry)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_urbosa_2.json:auraName
+msgid "Gerudo Reflexes"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_urbosa_3.json:auraDescription
+msgid ""
+"(If Garrisoned, +5 Capture Regen Rate - Border Tower, Gerudo Guard Tower, and Gerudo "
+"Fortress)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gerudo_hero_urbosa_3.json:auraName
+msgid "Ashinon General"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_agitha_1.json:auraDescription
+msgid "Agitha can construct all Gohma Buildings."
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_agitha_1.json:auraName
+msgid "Constructor"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_agitha_2.json:auraDescription
+msgid "Agitha can trade with allied Markets."
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_agitha_2.json:auraName
+msgid "Voice of the Gohma"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_agitha_3.json:auraDescription
+msgid "(+3 Non-Magic Armor - All Larva Types)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_agitha_3.json:auraName
+msgid "Maternal Instincts"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_matriarch_1.json:auraDescription
+msgid "(-5.0 Health/second - Enemy Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_matriarch_1.json:auraName
+msgid "Royal Host"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_matriarch_2.json:auraDescription
+msgid "The Matriarch can lay Eggs like a Gohma Queen."
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_matriarch_2.json:auraName
+msgid "Lay Eggs"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_matriarch_3.json:auraDescription
+msgid "+10% Hatching rate for all eggs."
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_matriarch_3.json:auraName
+msgid "Rapid Birthing"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_mido_1.json:auraDescription
+msgid "{+10% Vision Range for all units)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_mido_1.json:auraName
+msgid "Wanderer"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_mido_2.json:auraDescription
+msgid "Mido takes no damage when in formation with units larger than himself."
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_mido_2.json:auraName
+msgid "Low Priority"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_mido_3.json:auraDescription
+msgid "{x10 Capture bonus against Defenses)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_mido_3.json:auraName
+msgid "Subversion"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_sulkaris_1.json:auraDescription
+msgid "Sulkaris explodes into burning acid when slain."
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_sulkaris_1.json:auraName
+msgid "Burning Blood"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_sulkaris_2.json:auraDescription
+msgid "(-10% Attack rate, chance for attackers to flee - Enemy Units)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_sulkaris_2.json:auraName
+msgid "Gaze of the Gohma"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_sulkaris_3.json:auraDescription
+msgid "(Slain Gohma will continue to attack enemies for several seconds.)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/gohma_hero_sulkaris_3.json:auraName
+msgid "Will of the Gohma"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_dangoro_1.json:auraDescription
+msgid "(-10% Health - Enemy Building)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_dangoro_1.json:auraName
+msgid "Foundation Smasher"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_dangoro_2.json:auraDescription
+msgid "(In Formation, +25% Melee and Ranged Attack - Siege)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_dangoro_2.json:auraName
+msgid "Wrecker"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_dangoro_3.json:auraDescription
+msgid "{If Garrisoned, +25% Ranged Attack - Building)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_dangoro_3.json:auraName
+msgid "Bomb's Away!"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_daruk_1.json:auraDescription
+msgid "(x2 Melee Attack Range, +10% Melee Attack Rate - Melee Infantry)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_daruk_1.json:auraName
+msgid "Battle Dance"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_daruk_2.json:auraDescription
+msgid "(In Formation, +10% Health - Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_daruk_2.json:auraName
+msgid "Toughen Up"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_daruk_3.json:auraDescription
+msgid "(If Garrisoned, -25% Ranged Attack Interval - Building)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_daruk_3.json:auraName
+msgid "Mountain Eyes"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_darunia_1.json:auraDescription
+msgid "(+50% Capture Rate - Melee Infantry)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_darunia_1.json:auraName
+msgid "Take and Hold"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_darunia_2.json:auraDescription
+msgid "{In Formation, +25% Armor - Melee Infantry)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_darunia_2.json:auraName
+msgid "Line of Brothers"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_darunia_3.json:auraDescription
+msgid "(If Garrisoned, x2 Capture Regen Rate -Building)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_darunia_3.json:auraName
+msgid "Mountain King"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_medigoron_1.json:auraDescription
+msgid "(+10% Walk/Run Speed - Melee Infantry)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_medigoron_1.json:auraName
+msgid "Battle Rush"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_medigoron_2.json:auraDescription
+msgid "(+5 Armor (Knockback Immunity) - Melee Infantry)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_medigoron_2.json:auraName
+msgid "Goron Heavyweight"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_medigoron_3.json:auraDescription
+msgid "(If Garrisoned, +10% Health - Building)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/goron_hero_medigoron_3.json:auraName
+msgid "Death Mountain Defense"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_kazakk_1.json:auraDescription
+msgid "(+25% Health - Iron-clad Elite and Golden-clad Elite)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_kazakk_1.json:auraName
+msgid "King and General"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_kazakk_2.json:auraDescription
+#: simulation/data/auras/units/heroes/kokiri_hero_gulley_1.json:auraDescription
+msgid "(In Formation, +25 Melee Attack - Cavalry)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_kazakk_2.json:auraName
+msgid "Knightly Slaughter"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_kazakk_3.json:auraDescription
+msgid "(If Garrisoned, +75% Projectile Limit Per Unit, +2 Capture Regen Rate - Building)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_kazakk_3.json:auraName
+msgid "Deliverance"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_link_1.json:auraDescription
+msgid "(+25% Melee Attack, +25% Ranged Attack, +1 Armor - Citizen)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_link_1.json:auraName
+msgid "Man of the People"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_link_2.json:auraDescription
+msgid "(In Formation, +5 Armor vs. Hack, Pierce, and Crush - Melee Infantry)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_link_2.json:auraName
+msgid "Blood of Gustaf"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_link_3.json:auraDescription
+msgid "(If Garrisoned, -50% Batch Build Time - Building)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_link_3.json:auraName
+msgid "Legendary Training"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_rauru_1.json:auraDescription
+msgid "(+10% Build Rate and Repair Rate, +10% Gather Rate - Worker)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_rauru_1.json:auraName
+msgid "Grand Overseer"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_rauru_2.json:auraDescription
+msgid "(In Formation, +5 Armor vs Magic - Soldier)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_rauru_2.json:auraName
+msgid "Shield of Light"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_rauru_3.json:auraDescription
+msgid "{If Garrisoned, +5 Armor, +2 Capture Regen Rate - Building)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_rauru_3.json:auraName
+msgid "Stalwart Defense"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_zeldav_1.json:auraDescription
+msgid "(-100% Ranged Attack Spread, +10% Ranged Attack - Archer and Mage)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_zeldav_1.json:auraName
+msgid "Eyes of the Prophet"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_zeldav_2.json:auraDescription
+msgid "(In Formation, Heal 0.8 health/second - Soldier)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_zeldav_2.json:auraName
+msgid "Blood of Nohansen"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_zeldav_3.json:auraDescription
+msgid "(If Garrisoned, Garrison Heal +25% health/second - Building)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/hylian_hero_zeldav_3.json:auraName
+msgid "Healing Regiments"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_fado_songearth2.json:auraDescription
+msgid "(Enemy units armor is weaker)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_fado_songearth3.json:auraDescription
+msgid "(Enemy Structures are easier to capture)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_fado_songsaria.json:auraDescription
+msgid "(+25% Research Speed, Batch Training Speed)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_fado_songsaria2.json:auraDescription
+msgid "(+100% Regen increase)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_fado_songstorm.json:auraDescription
+msgid "(-25% Vision Range for all enemies on map)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_fado_songstorm.json:auraName
+#: simulation/data/auras/units/heroes/kokiri_hero_fado_songstorm2.json:auraName
+msgid "Song of Storms"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_fado_songstorm2.json:auraDescription
+msgid "(-10% Slow for all enemies units on the map)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_gulley_1.json:auraName
+msgid "Stag's Sorrow"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_gulley_2.json:auraDescription
+msgid "(In Formation, +25% Movement Speed - Cavalry)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_gulley_2.json:auraName
+msgid "Flight of the Forest"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_gulley_3.json:auraDescription
+msgid "(If Garrisoned, -25% Tech Research Time - Crafting Grove)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_gulley_3.json:auraName
+msgid "Son of the Smithy"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_mirora_1.json:auraDescription
+msgid "(If Garrisoned, -50% Batch Training Speed - Mudmen Colony)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_mirora_1.json:auraName
+msgid "Mudman Chief"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_mirora_2.json:auraDescription
+msgid "(Chance for Mirora to survive the death of her mount.)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_mirora_2.json:auraName
+msgid "Survival of the Fitest"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_mirora_3.json:auraDescription
+msgid "(+25% Hack Damage for Wolfos in formation.)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_mirora_3.json:auraName
+msgid "Blood Moon"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_saria_1.json:auraDescription
+msgid "(In Formation, +15% Attack Rate - Ranged Units)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_saria_1.json:auraName
+msgid "Farore's Wind"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_saria_2.json:auraDescription
+msgid "(If Garrisoned, +15% Attack Rate - Safehold)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_saria_2.json:auraName
+msgid "Defender of the Grove"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_saria_3.json:auraDescription
+msgid "( Heal 0.8 health/second - All Units)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/kokiri_hero_saria_3.json:auraName
+msgid "Renewal of Life"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_debon_1.json:auraDescription
+msgid "(+10% Melee and Ranged Attack Rate - Cavalry and Creature)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_debon_1.json:auraName
+msgid "Hydro Haste"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_debon_2.json:auraDescription
+msgid "(In Formation, +25% Armor - Cavalry and Creature)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_debon_2.json:auraName
+msgid "Die for your King"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_debon_3.json:auraDescription
+msgid "(If Garrisoned, x2 Garrison Limit and +3 Capture Regen Rate - Bastille)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_debon_3.json:auraName
+msgid "River Bastion"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_ruto_1.json:auraDescription
+msgid "(-50% Walk/Run Speed - Enemy Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_ruto_1.json:auraName
+msgid "Iceheart"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_ruto_2.json:auraDescription
+msgid "(In Formation, +1 Armor, +3 Armor vs. Magic - Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_ruto_2.json:auraName
+msgid "Nayru's Love"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_ruto_3.json:auraDescription
+msgid "{If Garrisoned, +50% Ranged Attack Range - Building)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_ruto_3.json:auraName
+msgid "Nayru's Guidance"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_telara_1.json:auraDescription
+msgid "(-10% Tech Research Time - Building)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_telara_1.json:auraName
+msgid "Archive Overseer"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_telara_2.json:auraDescription
+msgid "(In Formation, +20% Melee and Ranged Attack (Magic) - Mage)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_telara_2.json:auraName
+msgid "Storm Master"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_telara_3.json:auraDescription
+msgid "(If Garrisoned, -25% Tech Research Time - Library)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_telara_3.json:auraName
+msgid "Scrolls of Hyrule"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_zaleen_1.json:auraDescription
+msgid "(+25% Walk/Run Speed - Healer)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_zaleen_1.json:auraName
+msgid "Doctor Commando"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_zaleen_2.json:auraDescription
+msgid "(In Formation, x2 Heal Rate and Range - Healer)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_zaleen_2.json:auraName
+msgid "Healing Directive"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_zaleen_3.json:auraDescription
+msgid "(If Garrisoned, -50% Batch Build Time and Tech Research Time - Healing Gallery)"
+msgstr ""
+
+#: simulation/data/auras/units/heroes/zora_hero_zaleen_3.json:auraName
+msgid "Rapid Healer Response"
+msgstr ""
+
+#: simulation/data/auras/units/hornling_aura_1.json:auraName
+msgid "Deku Horns"
+msgstr ""
+
+#: simulation/data/auras/units/hornling_aura_2.json:auraDescription
+msgid "(Requires 'Amplification' researched. +20% Walk/Run Speed - Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/hornling_aura_2.json:auraName
+msgid "Ampliphied Deku Horns"
+msgstr ""
+
+#: simulation/data/auras/units/icepatch_aura_1.json:auraDescription
+#: simulation/data/auras/units/icewisp_aura_1.json:auraDescription
+msgid "(-75% Movement Speed)"
+msgstr ""
+
+#: simulation/data/auras/units/icepatch_aura_1.json:auraName
+msgid "Slippery Surface"
+msgstr ""
+
+#: simulation/data/auras/units/icewisp_aura_1.json:auraName
+msgid "Wispy Cold"
+msgstr ""
+
+#: simulation/data/auras/units/idoldead_aura_1.json:auraDescription
+msgid "(-20% Melee Attack, -20% Ranged Attack, -20% Non Magic Armor)"
+msgstr ""
+
+#: simulation/data/auras/units/idoldead_aura_1.json:auraName
+#: simulation/data/auras/units/idoldead_aura_2.json:auraName
+msgid "Dead Idol"
+msgstr ""
+
+#: simulation/data/auras/units/idoldead_aura_2.json:auraDescription
+msgid "(-10% Melee Attack, -10% Ranged Attack, -10% Non Magic Armor)"
+msgstr ""
+
+#: simulation/data/auras/units/idolthrone_aura_1.json:auraDescription
+msgid "(+20% Melee Attack, +20% Ranged Attack, +20% Non Magic Armor)"
+msgstr ""
+
+#: simulation/data/auras/units/idolthrone_aura_1.json:auraName
+msgid "Idol of Worship"
+msgstr ""
+
+#: simulation/data/auras/units/immortal_aura_1.json:auraDescription
+msgid "(+3 Magic Armor for all units within her aura)"
+msgstr ""
+
+#: simulation/data/auras/units/immortal_aura_1.json:auraName
+msgid "Charm of Protection"
+msgstr ""
+
+#: simulation/data/auras/units/ironclad_aura_1.json:auraDescription
+msgid "(+10% Melee Attack, +10% Ranged Attack, +10% Health - Infantry)"
+msgstr ""
+
+#: simulation/data/auras/units/ironclad_aura_1.json:auraName
+msgid "Kingdom Commander"
+msgstr ""
+
+#: simulation/data/auras/units/jinx_aura_1.json:auraDescription
+msgid "(-25% Attack Damage - All Organic targets)"
+msgstr ""
+
+#: simulation/data/auras/units/jinx_aura_1.json:auraName
+msgid "Jinx"
+msgstr ""
+
+#: simulation/data/auras/units/kokiri_mudcolony_muddance.json:auraDescription
+msgid ""
+"{Kokiri Melee Infantry in formation with non-mechanical Mudmen units gain the Nimble "
+"Footing bonus)"
+msgstr ""
+
+#: simulation/data/auras/units/kokiri_mudcolony_muddance.json:auraName
+msgid "Mud Dance"
+msgstr ""
+
+#: simulation/data/auras/units/lanayru_citizen_offerings.json:auraDescription
+msgid "(Citizen can pray at the Effigy, slowly generating a trickle of resources.)"
+msgstr ""
+
+#: simulation/data/auras/units/lanayru_citizen_offerings.json:auraName
+msgid "Offering"
+msgstr ""
+
+#: simulation/data/auras/units/lanayru_commandingpresence.json:auraDescription
+msgid ""
+"(Increases the attack rate of the Royal Hub when garrisoned by a Commander or Hero by "
+"50%.)"
+msgstr ""
+
+#: simulation/data/auras/units/lanayru_commandingpresence.json:auraName
+msgid "Commanding Presence"
+msgstr ""
+
+#: simulation/data/auras/units/lanayru_greatmigration.json:auraDescription
+msgid "{In Formation, Prawn Bowmen move 100% fast)"
+msgstr ""
+
+#: simulation/data/auras/units/lanayru_greatmigration.json:auraName
+msgid "Great Migration"
+msgstr ""
+
+#: simulation/data/auras/units/lonlon_cowcart_aura_1.json:auraName
+msgid "Get Yer Lon Lon Milk!"
+msgstr ""
+
+#: simulation/data/auras/units/miner_sirloin_1.json:auraDescription
+msgid "(If Garrisoned, +1 Food Resource Trickle/1 second - Rock Sirloin Mine)"
+msgstr ""
+
+#: simulation/data/auras/units/miner_sirloin_1.json:auraName
+msgid "Harvest Rock Sirloin"
+msgstr ""
+
+#: simulation/data/auras/units/mistwalker_aura_1.json:auraDescription
+msgid "{-25% Enemy Vision Range, -25% Enemy Movement Speed)"
+msgstr ""
+
+#: simulation/data/auras/units/mistwalker_aura_1.json:auraName
+#: simulation/data/auras/units/shroudwalker_aura_1.json:auraName
+msgid "Shroudwalker Fog"
+msgstr ""
+
+#: simulation/data/auras/units/mite_aura_1.json:auraDescription
+msgid "(-5 Health/second - Enemy Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/mite_aura_1.json:auraName
+#: simulation/data/auras/units/mite_aura_2.json:auraName
+msgid "Mite Swarm"
+msgstr ""
+
+#: simulation/data/auras/units/mite_aura_2.json:auraDescription
+msgid "(-7.0 Health/second - Enemy Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/moblinpoopy_aura_1.json:auraDescription
+msgid "{-25% Enemy Vision Range, -100% Enemy Ranged Attack Accuracy, -25% Movement Speed)"
+msgstr ""
+
+#: simulation/data/auras/units/monitor_aura_1.json:auraName
+msgid "War Dance"
+msgstr ""
+
+#: simulation/data/auras/units/nayrublessed_aura_1.json:auraDescription
+msgid "(+35 Magic Resistance)"
+msgstr ""
+
+#: simulation/data/auras/units/nayrublessed_aura_1.json:auraName
+msgid "Nayru's Protection"
+msgstr ""
+
+#: simulation/data/auras/units/ordona_drunkard_masterbrew.json:auraDescription
+msgid "(A small increase in health regeneration for Citizen units)"
+msgstr ""
+
+#: simulation/data/auras/units/ordona_drunkard_masterbrew.json:auraName
+msgid "Happy Drunk"
+msgstr ""
+
+#: simulation/data/auras/units/patriarch_aura_1.json:auraDescription
+msgid "(In Formation, +3 Armor - Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/patriarch_aura_1.json:auraName
+msgid "Patriarchal Command"
+msgstr ""
+
+#: simulation/data/auras/units/reallytall_aura_1.json:auraDescription
+msgid "(This unit is so tall it will collapse bridges and archways it tries to pass under)"
+msgstr ""
+
+#: simulation/data/auras/units/reallytall_aura_1.json:auraName
+msgid "Extremely Tall"
+msgstr ""
+
+#: simulation/data/auras/units/redead_aura_1.json:auraDescription
+msgid "(-10% Movement and Attack Speed - All Organic targets)"
+msgstr ""
+
+#: simulation/data/auras/units/redead_aura_1.json:auraName
+msgid "ReDead Horror"
+msgstr ""
+
+#: simulation/data/auras/units/shaman_aura_1.json:auraDescription
+msgid "(Doubles resource generation of Peon or Aeralfos Peon sacrifices)"
+msgstr ""
+
+#: simulation/data/auras/units/shaman_aura_1.json:auraName
+msgid "Revenge of the Gods"
+msgstr ""
+
+#: simulation/data/auras/units/shocktroop_aura_1.json:auraDescription
+msgid "+10 armor to all units within range"
+msgstr ""
+
+#: simulation/data/auras/units/shocktroop_aura_1.json:auraName
+msgid "Shocktroop Aura"
+msgstr ""
+
+#: simulation/data/auras/units/shrapnel_aura_1.json:auraDescription
+msgid "Shards of shrapnel shred the feet of your soldiers (-5.0 Health/second - Enemy Unit)"
+msgstr ""
+
+#: simulation/data/auras/units/shrapnel_aura_1.json:auraName
+msgid "Shrapnel Field"
+msgstr ""
+
+#: simulation/data/auras/units/shrine_faithfarore_1.json:auraDescription
+msgid "(+0.5 HP Regen, +1 when Idle - All Units)"
+msgstr ""
+
+#: simulation/data/auras/units/shrine_faithfarore_1.json:auraName
+msgid "Faith in Farore"
+msgstr ""
+
+#: simulation/data/auras/units/shroudwalker_aura_1.json:auraDescription
+msgid "{-50% Enemy Vision Range, -100% Enemy Ranged Attack Accuracy)"
+msgstr ""
+
+#: simulation/data/auras/units/thorn_aura_1.json:auraName
+#: simulation/data/auras/units/thorn_aura_2.json:auraName
+msgid "Thorny Armor"
+msgstr ""
+
+#: simulation/data/auras/units/thrall_vineyard_1.json:auraDescription
+#: simulation/data/auras/units/thrall_vineyard_2.json:auraDescription
+msgid "(If Garrisoned, +1 Food Resource Trickle/1 second - Vineyard)"
+msgstr ""
+
+#: simulation/data/auras/units/thrall_vineyard_1.json:auraName
+#: simulation/data/auras/units/thrall_vineyard_2.json:auraName
+msgid "Harvest Vineyard"
+msgstr ""
+
+#: simulation/data/auras/units/titans/zora_titan_jabujabu_1.json:auraDescription
+msgid "(Heal 10 health/second - Humanoid)"
+msgstr ""
+
+#: simulation/data/auras/units/titans/zora_titan_jabujabu_1.json:auraName
+msgid "Jabu's Harbor"
+msgstr ""
+
+#: simulation/data/auras/units/vaatinado_aura_1.json:auraDescription
+msgid "{-75% Enemy Vision Range, -100% Enemy Ranged Attack Accuracy, -75% Movement Speed)"
+msgstr ""
+
+#: simulation/data/auras/units/vaatinado_aura_1.json:auraName
+msgid "Chaotic Winds"
+msgstr ""
+
+#: simulation/data/auras/units/warlord_aura_1.json:auraDescription
+msgid "(+10% Movement Speed, 10% Damage to melee and ranged units )"
+msgstr ""
+
+#: simulation/data/auras/units/warlord_aura_1.json:auraName
+msgid "Listen to Warlord or else!"
+msgstr ""
+
+#: simulation/data/auras/units/wispdeath_aura_1.json:auraDescription
+msgid "(-99% Movement Speed)"
+msgstr ""
+
+#: simulation/data/auras/units/wispdeath_aura_1.json:auraName
+msgid "Halting Spirit"
+msgstr ""
+

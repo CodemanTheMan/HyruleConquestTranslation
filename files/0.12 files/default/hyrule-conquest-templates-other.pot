@@ -1,0 +1,2224 @@
+# Translation template for Hyrule Conquest.
+# Copyright (C) 2022 UndyingNephalim
+# This file is distributed under the same license as the Hyrule Conquest project.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hyrule Conquest\n"
+"POT-Creation-Date: 2022-05-23 17:26+0058\n"
+"PO-Revision-Date: 2022-05-23 17:26+0058\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#: simulation/data/damage_types/forest.json:description
+#: simulation/data/damage_types/light.json:description
+#: simulation/data/damage_types/shadow.json:description
+#: simulation/data/damage_types/siege.json:description
+#: simulation/data/damage_types/spirit.json:description
+#: simulation/data/damage_types/truedamage.json:description
+#: simulation/data/damage_types/water.json:description
+msgctxt "damage type"
+msgid "Tbc."
+msgstr ""
+
+#: simulation/data/damage_types/forest.json:name
+msgctxt "damage type"
+msgid "Forest"
+msgstr ""
+
+#: simulation/data/damage_types/light.json:name
+msgctxt "damage type"
+msgid "Light"
+msgstr ""
+
+#: simulation/data/damage_types/shadow.json:name
+msgctxt "damage type"
+msgid "Shadow"
+msgstr ""
+
+#: simulation/data/damage_types/siege.json:name
+msgctxt "damage type"
+msgid "Siege"
+msgstr ""
+
+#: simulation/data/damage_types/spirit.json:name
+msgctxt "damage type"
+msgid "Spirit"
+msgstr ""
+
+#: simulation/data/damage_types/truedamage.json:name
+msgctxt "damage type"
+msgid "TrueDamage"
+msgstr ""
+
+#: simulation/data/damage_types/water.json:name
+msgctxt "damage type"
+msgid "Water"
+msgstr ""
+
+#: simulation/templates/HC_template_armos.xml:4 simulation/templates/HC_template_hero.xml:4
+#: simulation/templates/HC_template_hero_creature.xml:4
+#: simulation/templates/HC_template_structure_civil_centre.xml:13
+#: simulation/templates/HC_template_structure_civil_centreB.xml:10
+#: simulation/templates/HC_template_structure_outpost.xml:13
+#: simulation/templates/gaia/gaia_temps/template_unit_leever.xml:4
+#: simulation/templates/gaia/gaia_temps/template_unit_octorok.xml:4
+#: simulation/templates/gaia/gaia_temps/template_unit_peahat.xml:4
+#: simulation/templates/gaia/gaia_temps/template_unit_skulltula.xml:4
+#: simulation/templates/gaia/gaia_temps/template_unit_tektite.xml:4
+#: simulation/templates/other/plane.xml:5
+msgctxt "Name of an attack, usually the weapon."
+msgid "TBD."
+msgstr ""
+
+#: simulation/templates/HC_template_armos.xml:38
+msgid "Tarminian Armos"
+msgstr ""
+
+#: simulation/templates/HC_template_armos.xml:39
+msgid ""
+"Typically found in ruins of long forgotten and mystical places, and their creators, are"
+" still a mystery to this day. What can be surmised is that they were intended to guard "
+"passages and other important locations, as those found active will begin to rampage and"
+" defend the immediate area."
+msgstr ""
+
+#: simulation/templates/HC_template_armos.xml:41
+msgid "Armos Melee unit that rams into targets."
+msgstr ""
+
+#: simulation/templates/HC_template_armos.xml:42
+msgid "Melee"
+msgstr ""
+
+#: simulation/templates/HC_template_hero.xml:26 simulation/templates/HC_template_hero.xml:27
+#: simulation/templates/HC_template_hero_auxiliary.xml:18
+#: simulation/templates/HC_template_hero_creature.xml:30
+#: simulation/templates/HC_template_hero_infantry.xml:18
+msgid "Hero"
+msgstr ""
+
+#: simulation/templates/HC_template_hero_auxiliary.xml:19
+#: simulation/templates/HC_template_unit_auxiliary.xml:16
+#: simulation/templates/HC_template_unit_auxiliary.xml:17
+#: simulation/templates/HC_template_unit_civilian.xml:16
+#: simulation/templates/HC_template_unit_civilian.xml:17
+msgid "Auxiliary"
+msgstr ""
+
+#: simulation/templates/HC_template_hero_cavalry.xml:21
+msgid "Hero Cavalry"
+msgstr ""
+
+#: simulation/templates/HC_template_hero_cavalry.xml:22
+#: simulation/templates/HC_template_unit_cavalry.xml:23
+#: simulation/templates/HC_template_unit_cavalry.xml:24
+msgid "Cavalry"
+msgstr ""
+
+#: simulation/templates/HC_template_hero_creature.xml:31
+#: simulation/templates/HC_template_unit_creature.xml:16
+#: simulation/templates/HC_template_unit_creature.xml:17
+msgid "Creature"
+msgstr ""
+
+#: simulation/templates/HC_template_hero_infantry.xml:19
+#: simulation/templates/HC_template_unit_infantry.xml:25
+#: simulation/templates/HC_template_unit_infantry.xml:26
+msgid "Infantry"
+msgstr ""
+
+#: simulation/templates/HC_template_lairspawner.xml:15
+#: simulation/templates/HC_template_structure_plot.xml:15
+msgid "Plot"
+msgstr ""
+
+#: simulation/templates/HC_template_lairspawner.xml:17
+#: simulation/templates/HC_template_structure_plot.xml:17
+msgid "Building Plot."
+msgstr ""
+
+#: simulation/templates/HC_template_starting_structure.xml:78
+#: simulation/templates/template_destructible.xml:43
+#: simulation/templates/template_node.xml:46 simulation/templates/template_ruin.xml:39
+#: simulation/templates/template_structure.xml:53
+msgid "Structure"
+msgstr ""
+
+#: simulation/templates/HC_template_starting_unit.xml:53
+#: simulation/templates/template_unit.xml:55
+msgid "Unit"
+msgstr ""
+
+#: simulation/templates/HC_template_structure_camp.xml:14
+#: simulation/templates/HC_template_structure_civil_centre.xml:40
+#: simulation/templates/HC_template_structure_civil_centreB.xml:37
+#: simulation/templates/HC_template_structure_outpost.xml:40
+msgid "CivilCentre"
+msgstr ""
+
+#: simulation/templates/HC_template_structure_camp.xml:55
+#: simulation/templates/HC_template_structure_civil_centre.xml:81
+#: simulation/templates/HC_template_structure_civil_centreB.xml:72
+#: simulation/templates/HC_template_structure_outpost.xml:81
+msgid "Civic Center"
+msgstr ""
+
+#: simulation/templates/HC_template_structure_camp.xml:57
+#: simulation/templates/HC_template_structure_civil_centre.xml:83
+#: simulation/templates/HC_template_structure_civil_centreB.xml:74
+#: simulation/templates/HC_template_structure_outpost.xml:83
+msgid "Build to acquire large tracts of territory. Train Workers."
+msgstr ""
+
+#: simulation/templates/HC_template_structure_civilian.xml:21
+#: simulation/templates/HC_template_structure_resource.xml:31
+msgid "Civilian Structure"
+msgstr ""
+
+#: simulation/templates/HC_template_structure_civilian.xml:23
+#: simulation/templates/HC_template_structure_resource.xml:33
+msgid "Civilian Structure."
+msgstr ""
+
+#: simulation/templates/HC_template_structure_civilian.xml:24
+#: simulation/templates/HC_template_structure_resource.xml:34
+msgid "Civilian"
+msgstr ""
+
+#: simulation/templates/HC_template_structure_defense.xml:22
+msgid "Defensive Structure"
+msgstr ""
+
+#: simulation/templates/HC_template_structure_defense.xml:23
+msgid "Defense"
+msgstr ""
+
+#: simulation/templates/HC_template_structure_defense_wall.xml:23
+msgid "Stone Wall"
+msgstr ""
+
+#: simulation/templates/HC_template_structure_defense_wall.xml:24
+msgid "Wall off your town for a stout defense."
+msgstr ""
+
+#: simulation/templates/HC_template_structure_defense_wall.xml:25
+msgid "Wall"
+msgstr ""
+
+#: simulation/templates/HC_template_structure_military.xml:21
+msgid "Military Structure"
+msgstr ""
+
+#: simulation/templates/HC_template_structure_military.xml:24
+msgid "Military Structure."
+msgstr ""
+
+#: simulation/templates/HC_template_structure_military.xml:25
+msgid "Military"
+msgstr ""
+
+#: simulation/templates/HC_template_structure_wonder.xml:28
+#: simulation/templates/HC_template_structure_wonder.xml:32
+msgid "Wonder"
+msgstr ""
+
+#: simulation/templates/HC_template_structure_wonder.xml:31
+msgid "Bring glory to your civilization."
+msgstr ""
+
+#: simulation/templates/HC_template_unit_infantry.xml:4
+msgctxt "Name of an attack, usually the weapon."
+msgid "Capture"
+msgstr ""
+
+#: simulation/templates/HC_template_unit_packed.xml:18
+msgid "Packed Building"
+msgstr ""
+
+#: simulation/templates/HC_template_unit_packed.xml:19
+msgid "Packed"
+msgstr ""
+
+#: simulation/templates/HC_template_unit_titan.xml:20
+#: simulation/templates/HC_template_unit_titan.xml:21
+msgid "Titan"
+msgstr ""
+
+#: simulation/templates/gaia/crate_foodA.xml:4 simulation/templates/gaia/crate_foodA.xml:6
+msgid "A crate full of Foods for the taking."
+msgstr ""
+
+#: simulation/templates/gaia/crate_foodA.xml:5
+msgid "Food Crate"
+msgstr ""
+
+#: simulation/templates/gaia/crate_metalA.xml:4 simulation/templates/gaia/crate_metalA.xml:6
+msgid "A crate full of Metal Ores for the taking."
+msgstr ""
+
+#: simulation/templates/gaia/crate_metalA.xml:5
+msgid "Ore Crate"
+msgstr ""
+
+#: simulation/templates/gaia/crate_rupeesA.xml:4
+#: simulation/templates/gaia/crate_rupeesA.xml:6
+msgid "A crate full of Rupees for the taking."
+msgstr ""
+
+#: simulation/templates/gaia/crate_rupeesA.xml:5
+msgid "Rupee Crate"
+msgstr ""
+
+#: simulation/templates/gaia/crate_woodA.xml:4 simulation/templates/gaia/crate_woodA.xml:6
+msgid "A crate full of Lumber for the taking."
+msgstr ""
+
+#: simulation/templates/gaia/crate_woodA.xml:5
+msgid "Lumber Crate"
+msgstr ""
+
+#: simulation/templates/gaia/doodads/lostwoods_pillarsA.xml:3
+#: simulation/templates/gaia/fruit/flora_bush_temperate.xml:7
+#: simulation/templates/gaia/tree/flora_stump_LW_barrier.xml:3
+#: simulation/templates/gaia/tree/flora_stump_kokiriA_barrier.xml:3
+#: simulation/templates/gaia/tree/flora_stump_lostwoodsA.xml:3
+#: simulation/templates/gaia/tree/flora_stump_waste_smallA.xml:3
+#: simulation/templates/gaia/tree/flora_tree_acacia.xml:3
+#: simulation/templates/gaia/tree/flora_tree_aleppo_pine.xml:3
+#: simulation/templates/gaia/tree/flora_tree_bamboo.xml:3
+#: simulation/templates/gaia/tree/flora_tree_bamboo_giant.xml:3
+#: simulation/templates/gaia/tree/flora_tree_bamboo_large.xml:3
+#: simulation/templates/gaia/tree/flora_tree_bamboo_massive.xml:3
+#: simulation/templates/gaia/tree/flora_tree_bamboo_small.xml:3
+#: simulation/templates/gaia/tree/flora_tree_carob.xml:3
+#: simulation/templates/gaia/tree/flora_tree_cretan_date_palm_patch.xml:7
+#: simulation/templates/gaia/tree/flora_tree_cretan_date_palm_short.xml:3
+#: simulation/templates/gaia/tree/flora_tree_cretan_date_palm_tall.xml:3
+#: simulation/templates/gaia/tree/flora_tree_dead.xml:3
+#: simulation/templates/gaia/tree/flora_tree_dekuA.xml:3
+#: simulation/templates/gaia/tree/flora_tree_dekuB.xml:3
+#: simulation/templates/gaia/tree/flora_tree_kokiriA.xml:3
+#: simulation/templates/gaia/tree/flora_tree_kokiriB.xml:3
+#: simulation/templates/gaia/tree/flora_tree_lostwoodsA.xml:3
+#: simulation/templates/gaia/tree/flora_tree_lostwoodsA_barrier.xml:3
+#: simulation/templates/gaia/tree/flora_tree_lostwoodsA_target.xml:3
+#: simulation/templates/gaia/tree/flora_tree_lostwoodsB.xml:3
+#: simulation/templates/gaia/tree/flora_tree_lostwoodsB_barrier.xml:3
+#: simulation/templates/gaia/tree/flora_tree_mireA.xml:3
+#: simulation/templates/gaia/tree/flora_tree_mirepalmA.xml:3
+#: simulation/templates/gaia/tree/flora_tree_oak.xml:3
+#: simulation/templates/gaia/tree/flora_tree_oak_aut.xml:3
+#: simulation/templates/gaia/tree/flora_tree_oak_aut_new.xml:3
+#: simulation/templates/gaia/tree/flora_tree_oak_dead.xml:3
+#: simulation/templates/gaia/tree/flora_tree_oak_large.xml:3
+#: simulation/templates/gaia/tree/flora_tree_oak_new.xml:3
+#: simulation/templates/gaia/tree/flora_tree_palm_tropic.xml:3
+#: simulation/templates/gaia/tree/flora_tree_poplar.xml:3
+#: simulation/templates/gaia/tree/flora_tree_poplar_lombardy.xml:3
+#: simulation/templates/gaia/tree/flora_tree_tarmA_autumn.xml:3
+#: simulation/templates/gaia/tree/flora_tree_tarmA_spring.xml:3
+#: simulation/templates/gaia/tree/flora_tree_tarmA_summer.xml:3
+#: simulation/templates/gaia/tree/flora_tree_tarmA_winter.xml:3
+#: simulation/templates/gaia/tree/flora_tree_tarmbigA_autumn.xml:3
+#: simulation/templates/gaia/tree/flora_tree_tarmbigA_spring.xml:3
+#: simulation/templates/gaia/tree/flora_tree_tarmbigA_summer.xml:3
+#: simulation/templates/gaia/tree/flora_tree_tarmbigA_winter.xml:3
+#: simulation/templates/gaia/tree/flora_tree_toona.xml:3
+#: simulation/templates/gaia/tree/flora_treewall_lostwoodsA.xml:3
+msgid "Wood"
+msgstr ""
+
+#: simulation/templates/gaia/doodads/lostwoods_pillarsA.xml:5
+msgid "Pillar"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_ampilus.xml:4
+msgctxt "Name of an attack, usually the weapon."
+msgid "Electric Shell"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_ampilus.xml:24
+msgid "Ampilus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_ampilus.xml:25
+#: simulation/templates/gaia/fauna_ampilus.xml:27
+msgid ""
+"Small crab like creatures that wander around bodies of water, groups of Ampilus tend to"
+" mind their own business until their dens are threatened. There are rumors that some "
+"are able to channel electrical current much like Zora Mages. Ampilus Crabs can be found"
+" wandering along the Lanayru Coast. Their shells are particularly valuable."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_aneru.xml:4 simulation/templates/gaia/fauna_dodongoM.xml:4
+#: simulation/templates/gaia/fauna_dodongo_young.xml:4
+msgctxt "Name of an attack, usually the weapon."
+msgid "Fire Breath"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_aneru.xml:31
+msgid "Aneru"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_aneru.xml:34
+msgid ""
+"Snakelike creatures that lack true eyes, Aneru are common predators that inhabit the "
+"Misery Mire. They tend to attack anything that moves, and are bold enough to attack "
+"Gohma Hives when hungry and in a large pack."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_arach.xml:4
+msgctxt "Name of an attack, usually the weapon."
+msgid "Claws and Stringer"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_arach.xml:36
+msgid "Arach"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_arach.xml:37 simulation/templates/gaia/fauna_arach.xml:39
+msgid ""
+"An elder arach that has grown to an impressive size. Far beyond the point of "
+"domestication, these large arachnids are extremely hostile and will rip apart anything "
+"they can get their claws on."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_aracha.xml:4 simulation/templates/gaia/fauna_aruroda.xml:4
+msgctxt "Name of an attack, usually the weapon."
+msgid "Claws and Stinger"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_aracha.xml:35
+msgid "Aracha"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_aracha.xml:36
+#: simulation/templates/gaia/fauna_aracha.xml:38
+msgid ""
+"Newborn Arurodas that have just hatched, Arachas can usually be found traveling with "
+"their older counterparts and occasionally with a giant Moldarach. They are relatively "
+"harmless and are more likely to run then fight when outnumbered."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_aruroda.xml:35
+msgid "Aruroda"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_aruroda.xml:36
+#: simulation/templates/gaia/fauna_aruroda.xml:38
+msgid ""
+"Scorpion beasts native to the sands of Lanayru, Aururodas are considered an extremely "
+"dangerous pest by many civilizations in Hyrule. Arurodas will attack just about "
+"anything that comes into their territory."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_bear_black.xml:5
+#: simulation/templates/gaia/fauna_bear_brown.xml:5
+#: simulation/templates/gaia/fauna_bear_polar.xml:5
+#: simulation/templates/gaia/fauna_lion.xml:5 simulation/templates/gaia/fauna_tiger.xml:5
+msgctxt "Name of an attack, usually the weapon."
+msgid "Paws"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_bear_black.xml:24
+msgid "Black Bear"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_bear_black.xml:25
+msgid "Ursus americanus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_bear_brown.xml:24
+msgid "Brown Bear"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_bear_brown.xml:25
+msgid "Ursus arctos"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_bear_polar.xml:24
+msgid "Polar Bear"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_bear_polar.xml:25
+msgid "Ursus maritimus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_beeswarm.xml:4
+msgctxt "Name of an attack, usually the weapon."
+msgid "Stingers"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_beeswarm.xml:22
+msgid "Swarm of Bees"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_beeswarm.xml:25
+msgid "A swarm of particularly angry and aggressive bees."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_boar.xml:5
+#: simulation/templates/gaia/fauna_hippopotamus.xml:5
+#: simulation/templates/gaia/fauna_walrus.xml:5
+msgctxt "Name of an attack, usually the weapon."
+msgid "Tusks"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_boar.xml:23
+msgid "Wild Boar"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_boar.xml:24
+msgid "Sus scrofa"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_camel.xml:11
+msgid "Dromedary"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_camel.xml:12
+msgid "Camelus dromedarius"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_cattle_bull.xml:5
+msgctxt "Name of an attack, usually the weapon."
+msgid "Horns"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_cattle_bull.xml:25
+msgid "Bull"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_cattle_bull.xml:26
+#: simulation/templates/gaia/fauna_cattle_cow.xml:18
+msgid "Bos taurus taurus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_cattle_cow.xml:17
+msgid "Cow"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_cattle_sanga.xml:17
+msgid "Sanga Cattle"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_cattle_sanga.xml:18
+msgid "Bos taurus africanus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_cattle_zebu.xml:17
+msgid "Zebu"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_cattle_zebu.xml:18
+msgid "Bos taurus indicus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_chicken.xml:12
+msgid "Cucco"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_chicken.xml:15
+msgid ""
+"These birds are commonly raised and slaughtered as food by many people across Hyrule. "
+"Rumors of their gathering into large, murderous flocks are unfounded."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_crocodile_nile.xml:5
+msgctxt "Name of an attack, usually the weapon."
+msgid "Teeth"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_crocodile_nile.xml:23
+msgid "Nile Crocodile"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_crocodile_nile.xml:24
+msgid "Crocodylus niloticus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_deer.xml:8
+msgid "Domain Deer"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_deer.xml:11
+msgid ""
+"Smaller cousins of the great Deer of the Kokiri Forest, these shy deer graze the "
+"highland meadows and forested slopes along the banks of the Zora River, and are "
+"favorite meal of Hylian travelers."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_dodongoF.xml:4
+msgctxt "Name of an attack, usually the weapon."
+msgid "Crest"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_dodongoF.xml:22
+msgid "Dodongo (Female)"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_dodongoF.xml:25
+msgid ""
+"Notable for their large head crest, Female Dodongos have lost their flame breath, but "
+"are far larger and stronger than their male counterparts."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_dodongoM.xml:32
+msgid "Dodongo (Male)"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_dodongoM.xml:33
+msgid "7"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_dodongoM.xml:35
+msgid ""
+"Male Dodongos are notable for a large horn atop their head,and typically serve as "
+"hunters and nest guardians, roasting intruders or prey from a distance with their flame"
+" breath."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_dodongo_baby.xml:4
+#: simulation/templates/gaia/fauna_spider_skulltula.xml:4
+#: simulation/templates/gaia/fauna_spider_skulltula_baby.xml:4
+#: simulation/templates/gaia/fauna_spider_skulltula_giant.xml:4
+#: simulation/templates/gaia/fauna_spider_skulltula_gold.xml:4
+#: simulation/templates/gaia/fauna_spider_skulltula_mama.xml:4
+#: simulation/templates/gaia/fauna_spider_walltula.xml:4
+#: simulation/templates/gaia/fauna_tektite_aqua.xml:4
+#: simulation/templates/gaia/fauna_tektite_baby_aqua.xml:4
+#: simulation/templates/gaia/fauna_tektite_baby_rock.xml:4
+#: simulation/templates/gaia/fauna_tektite_giant_aqua.xml:4
+#: simulation/templates/gaia/fauna_tektite_giant_rock.xml:4
+#: simulation/templates/gaia/fauna_tektite_rock.xml:4
+msgctxt "Name of an attack, usually the weapon."
+msgid "Bite"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_dodongo_baby.xml:31
+msgid "Baby Dodongo"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_dodongo_baby.xml:34
+msgid ""
+"In infancy, Dodongos lack legs- however, the babies are no less aggressive than adults "
+"and will slither to bite nearby prey."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_dodongo_young.xml:32
+msgid "Young Dodongo"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_dodongo_young.xml:35
+msgid ""
+"Walking on two legs, young Dodongos are somewhat more cautious than their infant kin, "
+"prefering to roast prey from a distance with their developing flame breath."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_dog_mastiff.xml:5
+#: simulation/templates/gaia/fauna_dog_wolfhound.xml:5
+#: simulation/templates/gaia/fauna_fox_arctic.xml:5
+#: simulation/templates/gaia/fauna_fox_red.xml:5 simulation/templates/gaia/fauna_wolf.xml:5
+msgctxt "Name of an attack, usually the weapon."
+msgid "Fangs"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_dog_mastiff.xml:24
+msgid "Mastiff"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_dog_mastiff.xml:25
+#: simulation/templates/gaia/fauna_dog_wolfhound.xml:25
+msgid "Canis lupus familiaris"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_dog_wolfhound.xml:24
+msgid "Wolfhound"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_donkey.xml:11
+msgid "Donkey"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_donkey.xml:12
+msgid "Equus africanus asinus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_elephant_african_bush.xml:5
+#: simulation/templates/gaia/fauna_elephant_asian.xml:5
+#: simulation/templates/gaia/fauna_elephant_north_african.xml:5
+msgctxt "Name of an attack, usually the weapon."
+msgid "Trunk"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_elephant_african_bush.xml:25
+msgid "African Bush Elephant"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_elephant_african_bush.xml:26
+#: simulation/templates/gaia/fauna_elephant_african_infant.xml:12
+msgid "Loxodonta africana"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_elephant_african_infant.xml:11
+msgid "African Bush Elephant Calf"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_elephant_asian.xml:25
+msgid "Asian Elephant"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_elephant_asian.xml:26
+#: simulation/templates/gaia/fauna_elephant_asian_infant.xml:12
+msgid "Elephas maximus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_elephant_asian_infant.xml:11
+msgid "Asian Elephant Calf"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_elephant_north_african.xml:25
+msgid "African Forest Elephant"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_elephant_north_african.xml:26
+msgid "Loxodonta cyclotis"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_fish.xml:4
+#: simulation/templates/gaia/fauna_fish_tilapia.xml:4
+#: simulation/templates/gaia/fauna_fish_tuna.xml:4
+msgid "Reekfish"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_fish.xml:7
+#: simulation/templates/gaia/fauna_fish_tilapia.xml:7
+#: simulation/templates/gaia/fauna_fish_tuna.xml:7
+msgid ""
+"Although they have a nasty smell to most civilized beings, Reekfish are renowned for "
+"their excellent taste. Their odor is also a powerful lure for all sorts of predators, "
+"and is used by many hunters and poachers across Hyrule. The Zora of Lanayru Province do"
+" not kill or eat these fish, for they are considered sacred, and they will buy living "
+"specimens to preserve them."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_fox_arctic.xml:24
+msgid "Arctic Fox"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_fox_arctic.xml:25
+msgid "Vulpes lagopus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_fox_red.xml:24
+msgid "Red Fox"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_fox_red.xml:25
+msgid "Vulpes vulpes"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_gazelle.xml:9
+msgid "Gerudo Gazelle"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_gazelle.xml:12
+msgid ""
+"Usually found only in the more fertile region of the Desert, Gerudo Gazelles use their "
+"swift speed to escape predators such as Leevers."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_giraffe.xml:11
+msgid "Giraffe"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_giraffe.xml:12
+#: simulation/templates/gaia/fauna_giraffe_infant.xml:12
+msgid "Giraffa camelopardalis"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_giraffe_infant.xml:11
+msgid "Juvenile Giraffe"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_goat.xml:17
+msgid "Goat"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_goat.xml:18
+msgid "Capra aegagrus hircus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_helmasaur.xml:4
+msgctxt "Name of an attack, usually the weapon."
+msgid "Skull"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_helmasaur.xml:22
+msgid "Wild Helmasaur"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_helmasaur.xml:25
+msgid ""
+"A wild Helmasaur that escaped from Lizalfos domestication. Once a common appearance on "
+"Death Mountain, they now roam throughout Faron Woods."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_hippopotamus.xml:24
+msgid "Hippopotamus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_hippopotamus.xml:25
+msgid "Hippopotamus amphibius"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_horse.xml:11
+msgid "Horse"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_horse.xml:12
+msgid "Equus ferus caballus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_horse_ord.xml:20
+msgid "Ordonian Horse"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_horse_ord.xml:21
+#: simulation/templates/gaia/fauna_horse_ord.xml:23
+msgid ""
+"A wild horse that can be traced back to the Plains of Ordona. Despite their origins, "
+"these horses have spread far across Hyrule and can be found in many wilderness regions."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_horse_ord.xml:51
+msgid "Find a Horseman to mount this horse."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_horse_pony.xml:8
+msgid "Pony"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_hydrophant_adult.xml:4
+#: simulation/templates/gaia/fauna_hydrophant_large.xml:4
+#: simulation/templates/gaia/fauna_hydrophant_young.xml:4
+msgctxt "Name of an attack, usually the weapon."
+msgid "Hooves"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_hydrophant_adult.xml:21
+msgid "Hydrophant"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_hydrophant_adult.xml:24
+msgid ""
+"A large aquatic animal that congregates in River and Lakes, Hydrophants are intelligent"
+" and ornery, but usually live passive existences in large groups."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_hydrophant_large.xml:21
+msgid "Elder Hydrophant"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_hydrophant_large.xml:24
+msgid ""
+"Hydrophants can live for long periods, and the eldest among them serve as the heart of "
+"a herd, guiding them between waterways and defending the young."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_hydrophant_young.xml:21
+msgid "Young Hydrophant"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_hydrophant_young.xml:24
+msgid ""
+"Inquisitive and intelligent, young Hydrophants are fiercely guarded by their parents "
+"should they stray from their sheltered pools."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_kokiribuck.xml:4
+msgctxt "Name of an attack, usually the weapon."
+msgid "Antlers"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_kokiribuck.xml:22
+msgid "Kokiri Buck"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_kokiribuck.xml:25
+msgid ""
+"These great and elusive deer are found only in the depths of the Kokiri Forest. Males "
+"tends to run if cornered, but will gore predators with their huge antlers if cornered."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_kokiridoe.xml:8
+msgid "Kokiri Doe"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_kokiridoe.xml:11
+msgid ""
+"These great and elusive deer are found only in the depths of the Kokiri Forest. Females"
+" lack the antlers of their male counterpart, and are very skittish and hard to catch, "
+"preferring to flee if threatened."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_leever.xml:4
+#: simulation/templates/gaia/fauna_leevergiant.xml:4
+msgctxt "Name of an attack, usually the weapon."
+msgid "Spines"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_leever.xml:22
+msgid "Leever"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_leever.xml:25
+msgid ""
+"A strange mobile plantlike creature similar in appearance to a Cactus, Leevers are a "
+"dangerous Predator among the sands of the Desert, lying in wait until they sense prey "
+"above, upon which they will surface and circle prey until they can trap and tear it "
+"apart."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_leevergiant.xml:22
+msgid "Giant Leever"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_leevergiant.xml:25
+msgid ""
+"Believed to be the progenitors of their smaller cousins, the rare giant Leevers are a "
+"very durable and feared Desert predator."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_lion.xml:23
+msgid "Lion"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_lion.xml:24
+msgid "Panthera leo"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_lioness.xml:4
+msgid "Lioness"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_muskox.xml:11
+msgid "Muskox"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_muskox.xml:12
+msgid "Ovibos moschatus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_octorokA.xml:4
+msgctxt "Name of an attack, usually the weapon."
+msgid "Rock"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_octorokA.xml:31
+msgid "River Octorok"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_octorokA.xml:34
+msgid ""
+"Cunning and craven, the River Octorok floats belong the surface of rivers and lakes, "
+"waiting for prey, upon which it will surface and attempt to disabled them with spit "
+"rocks and debris for later consumption."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_peacock.xml:11
+msgid "Peacock"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_peacock.xml:12
+msgid "Pavo cristatus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_peahat.xml:4
+#: simulation/templates/gaia/fauna_peahatmama.xml:4
+msgctxt "Name of an attack, usually the weapon."
+msgid "Blades"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_peahat.xml:22
+msgid "Peahat Larva"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_peahat.xml:25
+msgid ""
+"These strange flying predatory plants live in flatlands such as Hyrule Field, lying in "
+"wait for prey and hurtling at it at high speeds with their razor-sharp leaves."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_peahatmama.xml:41
+msgid "Peahat Mother"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_peahatmama.xml:42
+msgid "."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_peahatmama.xml:44
+msgid ""
+"These huge Peahat Broodmothers are constantly surrounded by their offspring, but will "
+"not hesitate to lumber toward prey and tear it to ribbons."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_pig.xml:14
+msgid "Pig"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_pig_flaming.xml:18
+msgid "Flaming Pig"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_piglet.xml:11
+msgid "Piglet"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_praddleprawn.xml:4
+msgctxt "Name of an attack, usually the weapon."
+msgid "Claws"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_praddleprawn.xml:23
+msgid "Praddle Prawn"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_praddleprawn.xml:24
+#: simulation/templates/gaia/fauna_praddleprawn.xml:26
+msgid ""
+"Large crustacean creatures native to the Great Sea. Throughout the year they "
+"occasionally make landfall across the Coasts of Airu, appearing in very large numbers "
+"during their Great Migration. Though they can cause quite a bit of harm with their "
+"class, Praddle Prawns are only aggressive if provoked."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_rabbit.xml:11
+msgid "Hylian Rabbit"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_rabbit.xml:14
+msgid ""
+"These rabbits live in extensive burrows under the soil of Hyrule Field, and are often "
+"seen as pests."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_rhinoceros_white.xml:5
+msgctxt "Name of an attack, usually the weapon."
+msgid "Horn"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_rhinoceros_white.xml:24
+msgid "White Rhinoceros"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_rhinoceros_white.xml:25
+msgid "Ceratotherium simum"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_sandsealA.xml:8
+msgid "Sandseal"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_sandsealA.xml:11
+msgid ""
+"The Sandseal is a large mammal that clusters in colonies around the rare Oases in the "
+"Gerudo Desert. While awkward and lumbering on land, these creatures are very strong and"
+" fast in water."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_shark.xml:12
+msgid "Great White Shark"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_shark.xml:13
+msgid "Carcharodon carcharias"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_sheep.xml:14
+msgid "Ordonian Goat"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_sheep.xml:17
+msgid ""
+"Providing meat, milk, cheese, and serving as beasts of burden, Ordonians Goats are one "
+"of the most prized livestock and work animals to wander the land of Hyrule. While they "
+"are rather difficult to tame and control, those outside of Ordona Province commonly "
+"purchase the renowned creatures."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_spider_skulltula.xml:23
+msgid "Skulltula"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_spider_skulltula.xml:26
+msgid ""
+"Tulas are common arachnid predators often found in the wooded regions of of Hyrule. "
+"Every decade or so, their numbers explode, and giant infestations of Tulas in cities "
+"are not uncommon during such times. The common Tula's abdomen is patterned like a "
+"skull, likely to warn off even larger predators."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_spider_skulltula_baby.xml:22
+msgid "Baby Skulltula"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_spider_skulltula_baby.xml:25
+msgid ""
+"Every decade, countless numbers of newborn Skulltulas are spawned and migrate across "
+"Hyrule, often infesting the dark corners of Urban areas. Despite their small size and "
+"youth, they are still dangerous predators, capable of overrunning any prey in large "
+"enough swarms."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_spider_skulltula_giant.xml:23
+msgid "Giant Skulltula"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_spider_skulltula_giant.xml:26
+msgid ""
+"This large variety of Tula is infamous for the very detailed and frightening likeness "
+"of a skull displayed on its abdomen. These monsters are very aggressive and are "
+"cautiously hunted by exterminators every breeding season."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_spider_skulltula_gold.xml:23
+msgid "Gold Skulltula"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_spider_skulltula_gold.xml:26
+msgid ""
+"A legendary creature across Hyrule, the rare Gold Skulltula is an elusive and "
+"relatively passive variant of Tula. For unknown reasons, the Gold Skulltula naturally "
+"builds up a layer of solid gold within its abdomen, making its chitin highly prized."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_spider_skulltula_mama.xml:23
+msgid "Mother Skulltula"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_spider_skulltula_mama.xml:26
+msgid ""
+"Mother Skulltula are very large breeding females that lays clutches of eggs during "
+"mating seasons. While not as invasive as their male counterparts, they will violently "
+"defend their nests from intruders."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_spider_walltula.xml:22
+msgid "Walltula"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_spider_walltula.xml:25
+msgid ""
+"The Walltula is a smaller and more passive cousin of the common Skulltula. Rather than "
+"making webs, it prefers to hide high on vertical surfaces and charge at prey below."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_tektite_aqua.xml:23
+msgid "Aqua Tektite"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_tektite_aqua.xml:26
+msgid ""
+"Possible cousins of the Gohma, Tektites are one of the most widespread predators in "
+"Hyrule, Tektites are arthropod creatures with an incredibly powerful leap. Aqua "
+"Tektites, noted by their bluish exoskeletons, are able to hop on water, and skate along"
+" rivers and lakes in search of prey."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_tektite_baby_aqua.xml:23
+msgid "Baby Aqua Tektite"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_tektite_baby_aqua.xml:26
+msgid ""
+"Aqua Tektites commonly lay their eggs along water sources such as rivers and lakes. "
+"While not as dangerous as their adult counterparts, the babies are still voraciously "
+"aggressive and will charge toward any perceived food."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_tektite_baby_rock.xml:23
+msgid "Baby Mountain Tektite"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_tektite_baby_rock.xml:26
+msgid ""
+"Mountain Tektites commonly lay their eggs near warm hot springs or volcanic vents. The "
+"babies lack their parent's climbing skills, but will still attempt to relentlessly hunt"
+" prey foolish enough to approach their nests."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_tektite_eggs_aqua.xml:17
+msgid "Aqua Tektite Egg"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_tektite_eggs_aqua.xml:20
+#: simulation/templates/gaia/fauna_tektite_eggs_rock.xml:20
+msgid ""
+"Many races in Hyrule consider Tektite Eggs a delicious delicacy. The difficulty in "
+"obtaining them (due to a defending mother, and the very short gestation period before "
+"hatching) makes them go for quite a market price in some circles."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_tektite_eggs_rock.xml:17
+msgid "Mountain Tektite Egg"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_tektite_giant_aqua.xml:23
+msgid "Giant Aqua Tektite"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_tektite_giant_aqua.xml:26
+msgid ""
+"These thankfully-rare monsters are elder Aqua Tektites that have grown to prodigious "
+"size. They generally haunt large bodies of water, and are large enough to threaten "
+"naval traffic when hungry enough."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_tektite_giant_rock.xml:23
+msgid "Giant Mountain Tektite"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_tektite_giant_rock.xml:26
+msgid ""
+"These thankfully-rare monsters are elder Mountain Tektites that have grown to "
+"prodigious size. While few survive to grow this large, these horrors haunt cliff-faces "
+"and mountainsides, relentlessly crawling after prey when hungry."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_tektite_rock.xml:23
+msgid "Mountain Tektite"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_tektite_rock.xml:26
+msgid ""
+"Possible cousins of the Gohma, Tektites are one of the most widespread predators in "
+"Hyrule, Tektites are arthropod creatures with an incredibly powerful leap. Mountain "
+"Tektites, noted by their reddish exoskeletons, are excellent climbers, and have "
+"colonized many cliffed and mountainous areas of Hyrule."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_tiger.xml:23
+msgid "Tiger"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_tiger.xml:24
+msgid "Panthera tigris"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_vitreon.xml:4
+msgctxt "Name of an attack, usually the weapon."
+msgid "Bolt"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_vitreon.xml:33
+msgid "Vitreon"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_vitreon.xml:36
+msgid ""
+"These large floating eyeballs, coated in disgusting slime, are believed to be the spawn"
+" of Vitreous. The horrifying monsters do not seem to have any awareness, aimlessly "
+"wandering around the Misery Mire as if they were mindless drones. If provoked, however,"
+" they will attack with a deadly shock."
+msgstr ""
+
+#: simulation/templates/gaia/fauna_walrus.xml:24
+msgid "Walrus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_walrus.xml:25
+msgid "Odobenus rosmarus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_wildebeest.xml:11
+msgid "Blue Wildebeest"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_wildebeest.xml:12
+msgid "Connochaetes taurinus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_wolf.xml:24
+msgid "Wolf"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_wolf.xml:25
+msgid "Canis lupus"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_wolf_arctic.xml:4
+msgid "Arctic Wolf"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_zebra.xml:11
+msgid "Common Zebra"
+msgstr ""
+
+#: simulation/templates/gaia/fauna_zebra.xml:12
+msgid "Equus quagga"
+msgstr ""
+
+#: simulation/templates/gaia/fish/tilapia.xml:4
+msgid "Tilapia"
+msgstr ""
+
+#: simulation/templates/gaia/fish/tuna.xml:4
+msgid "Tuna"
+msgstr ""
+
+#: simulation/templates/gaia/flora_bomb_flowerA.xml:24
+msgid "Hazard"
+msgstr ""
+
+#: simulation/templates/gaia/flora_bomb_flowerA.xml:27
+msgid "Bomb Flower"
+msgstr ""
+
+#: simulation/templates/gaia/flora_bomb_flowerA.xml:28
+msgid ""
+"These bizarre flower-like plants create an explosive fruiting body infamous across "
+"Hyrule as the source of bombs. While commonly harvested by the Gorons, they are "
+"volatile, and if improperly picked or accidentally struck can explode in the "
+"harvester's face."
+msgstr ""
+
+#: simulation/templates/gaia/fruit/apple.xml:7
+msgid "Apple"
+msgstr ""
+
+#: simulation/templates/gaia/fruit/banana.xml:7
+msgid "Banana"
+msgstr ""
+
+#: simulation/templates/gaia/fruit/berry_01.xml:4
+#: simulation/templates/gaia/fruit/berry_02.xml:4
+#: simulation/templates/gaia/fruit/berry_03.xml:4
+#: simulation/templates/gaia/fruit/berry_04.xml:4
+#: simulation/templates/gaia/fruit/berry_05.xml:4
+msgid "Berries"
+msgstr ""
+
+#: simulation/templates/gaia/fruit/date.xml:8 simulation/templates/gaia/tree/date_palm.xml:4
+#: simulation/templates/gaia/tree/date_palm_dead.xml:4
+msgid "Date Palm"
+msgstr ""
+
+#: simulation/templates/gaia/fruit/fig.xml:8
+msgid "Fig"
+msgstr ""
+
+#: simulation/templates/gaia/fruit/flora_bush_berry.xml:5
+msgid "Hyrulean Berries"
+msgstr ""
+
+#: simulation/templates/gaia/fruit/flora_bush_berry.xml:6
+msgid ""
+"These hardy berry bushes can be found almost anywhere on the Hylian continent, growing "
+"even in the harshest of environments. While far from a delicacy, they are commonly "
+"harvested by many Hyrulean peoples, and form a staple of many race's diets."
+msgstr ""
+
+#: simulation/templates/gaia/fruit/flora_bush_grapes.xml:6
+msgid "Aslosus Grapes"
+msgstr ""
+
+#: simulation/templates/gaia/fruit/flora_bush_grapes.xml:7
+msgid ""
+"A rare vine found in the less harsh regions of the Gerudo Desert, these Grapes are "
+"prized by the Gerudo for Winemaking."
+msgstr ""
+
+#: simulation/templates/gaia/fruit/flora_bush_temperate.xml:9
+msgid "Hylian Chaparral"
+msgstr ""
+
+#: simulation/templates/gaia/fruit/flora_bush_temperate.xml:10
+msgid ""
+"Hyrule Field is dominated by a warm, relatively dry climate most peoples find quite "
+"pleasant. These lowland scrubs cover much of the open plains."
+msgstr ""
+
+#: simulation/templates/gaia/fruit/grapes.xml:4
+msgid "Grapes"
+msgstr ""
+
+#: simulation/templates/gaia/fruit/olive.xml:7
+msgid "Olive"
+msgstr ""
+
+#: simulation/templates/gaia/gaia_temps/template_unit_fauna_noroam.xml:13
+msgid "Fauna"
+msgstr ""
+
+#: simulation/templates/gaia/gaia_temps/template_weather_wander.xml:30
+msgid "Weather"
+msgstr ""
+
+#: simulation/templates/gaia/gerudo_swine_1.xml:15
+#: simulation/templates/gaia/gerudo_swine_2.xml:15
+#: simulation/templates/gaia/gerudo_swine_3.xml:15
+#: simulation/templates/gaia/gerudo_swine_4.xml:15
+#: simulation/templates/gaia/lon_lon_cow_1.xml:14
+#: simulation/templates/gaia/moblin_lilugpug_1.xml:15
+msgid "Meat"
+msgstr ""
+
+#: simulation/templates/gaia/gerudo_swine_1.xml:18
+#: simulation/templates/gaia/gerudo_swine_2.xml:18
+#: simulation/templates/gaia/gerudo_swine_3.xml:18
+#: simulation/templates/gaia/gerudo_swine_4.xml:18
+msgid "Gerudo Swine"
+msgstr ""
+
+#: simulation/templates/gaia/gerudo_swine_1.xml:19
+#: simulation/templates/gaia/gerudo_swine_2.xml:19
+#: simulation/templates/gaia/gerudo_swine_3.xml:19
+msgid ""
+"Lifeblood of the Gerudo people in the infertile desert, these hardy pigs are easy to "
+"raise and maintain, being able to subside on the meager vegetable scraps grown in the "
+"desert soil."
+msgstr ""
+
+#: simulation/templates/gaia/gerudo_swine_4.xml:19
+msgid ""
+"Lifeblood of the Gerudo people in the infertile desert, these hardy pigs are easy to "
+"raise and maintain, being able to subside on the meager vegatables scraps grown in the "
+"desert soil."
+msgstr ""
+
+#: simulation/templates/gaia/landscape/KF_logtunnel_big.xml:7
+#: simulation/templates/gaia/landscape/KF_logtunnel_half.xml:7
+#: simulation/templates/gaia/landscape/KF_logtunnel_small.xml:7
+msgid "Forest Tunnel"
+msgstr ""
+
+#: simulation/templates/gaia/landscape/rock_desert_arch.xml:7
+msgid "Desert Archway"
+msgstr ""
+
+#: simulation/templates/gaia/lon_lon_cow_1.xml:18
+msgid "Lon Lon Cow"
+msgstr ""
+
+#: simulation/templates/gaia/lon_lon_cow_1.xml:19
+msgid ""
+"Cows from Lon Lon Ranch have a reputation for producing the best-tasting Milk in "
+"Hyrule. In addition to quenching thirst, the Milk has similar effects to alcohol."
+msgstr ""
+
+#: simulation/templates/gaia/moblin_lilugpug_1.xml:18
+msgid "Lil Ugpug"
+msgstr ""
+
+#: simulation/templates/gaia/moblin_lilugpug_1.xml:19
+msgid ""
+"Mmmmm yuummy piggy meat for the Moblins to eat all up! When the wild animals are all "
+"onna run and gone, we go for the Lil Upgpugs!"
+msgstr ""
+
+#: simulation/templates/gaia/ruins/column_doric.xml:8
+msgid "Ancient Ruins"
+msgstr ""
+
+#: simulation/templates/gaia/ruins/pyramid_great.xml:8
+msgid "Great Pyramid"
+msgstr ""
+
+#: simulation/templates/gaia/ruins/pyramid_minor.xml:8
+msgid "Minor Pyramid"
+msgstr ""
+
+#: simulation/templates/gaia/ruins/standing_stone.xml:8
+msgid "Celtic Standing Stone"
+msgstr ""
+
+#: simulation/templates/gaia/ruins/stone_statues_egyptian.xml:8
+msgid "Ptolemaic Egyptian Statues"
+msgstr ""
+
+#: simulation/templates/gaia/ruins/stone_statues_kushite.xml:8
+msgid "Kushite Statue"
+msgstr ""
+
+#: simulation/templates/gaia/ruins/stone_statues_roman.xml:8
+msgid "Roman Statues"
+msgstr ""
+
+#: simulation/templates/gaia/ruins/unfinished_greek_temple.xml:8
+msgid "Unfinished Greek Temple"
+msgstr ""
+
+#: simulation/templates/gaia/tree/acacia.xml:4
+msgid "Acacia"
+msgstr ""
+
+#: simulation/templates/gaia/tree/aleppo_pine.xml:4
+msgid "Aleppo Pine"
+msgstr ""
+
+#: simulation/templates/gaia/tree/bamboo.xml:4
+#: simulation/templates/gaia/tree/bamboo_single.xml:4
+msgid "Bamboo"
+msgstr ""
+
+#: simulation/templates/gaia/tree/bamboo_dragon.xml:8
+msgid "Dragon Bamboo"
+msgstr ""
+
+#: simulation/templates/gaia/tree/banyan.xml:8
+msgid "Banyan"
+msgstr ""
+
+#: simulation/templates/gaia/tree/baobab.xml:8
+#: simulation/templates/gaia/tree/baobab_3_mature.xml:8
+#: simulation/templates/gaia/tree/baobab_4_dead.xml:8
+msgid "Baobab"
+msgstr ""
+
+#: simulation/templates/gaia/tree/baobab_1_sapling.xml:4
+msgid "Baobab Sapling"
+msgstr ""
+
+#: simulation/templates/gaia/tree/baobab_2_young.xml:4
+msgid "Young Baobab"
+msgstr ""
+
+#: simulation/templates/gaia/tree/bush_badlands.xml:4
+msgid "Hardy Bush"
+msgstr ""
+
+#: simulation/templates/gaia/tree/bush_temperate.xml:4
+#: simulation/templates/gaia/tree/bush_temperate_winter.xml:4
+#: simulation/templates/gaia/tree/bush_tropic.xml:4
+msgid "Bush"
+msgstr ""
+
+#: simulation/templates/gaia/tree/carob.xml:4
+msgid "Carob"
+msgstr ""
+
+#: simulation/templates/gaia/tree/cedar_atlas_1_sapling.xml:4
+msgid "Atlas Cedar Sapling"
+msgstr ""
+
+#: simulation/templates/gaia/tree/cedar_atlas_2_young.xml:4
+#: simulation/templates/gaia/tree/cedar_atlas_3_mature.xml:4
+#: simulation/templates/gaia/tree/cedar_atlas_4_dead.xml:4
+msgid "Atlas Cedar"
+msgstr ""
+
+#: simulation/templates/gaia/tree/cretan_date_palm_patch.xml:8
+#: simulation/templates/gaia/tree/cretan_date_palm_short.xml:4
+#: simulation/templates/gaia/tree/cretan_date_palm_tall.xml:4
+msgid "Cretan Date Palm"
+msgstr ""
+
+#: simulation/templates/gaia/tree/cypress.xml:4
+#: simulation/templates/gaia/tree/cypress_wild.xml:4
+#: simulation/templates/gaia/tree/cypress_windswept.xml:4
+msgid "Cypress"
+msgstr ""
+
+#: simulation/templates/gaia/tree/dead.xml:4 simulation/templates/gaia/tree/temperate.xml:4
+#: simulation/templates/gaia/tree/temperate_autumn.xml:4
+#: simulation/templates/gaia/tree/temperate_winter.xml:4
+msgid "Deciduous Tree"
+msgstr ""
+
+#: simulation/templates/gaia/tree/elm.xml:4 simulation/templates/gaia/tree/elm_dead.xml:4
+msgid "Elm"
+msgstr ""
+
+#: simulation/templates/gaia/tree/euro_beech.xml:4
+#: simulation/templates/gaia/tree/euro_beech_aut.xml:4
+msgid "European Beech"
+msgstr ""
+
+#: simulation/templates/gaia/tree/euro_birch.xml:4
+msgid "Silver Birch"
+msgstr ""
+
+#: simulation/templates/gaia/tree/fir.xml:4 simulation/templates/gaia/tree/fir_winter.xml:4
+msgid "Fir"
+msgstr ""
+
+#: simulation/templates/gaia/tree/fir_sapling.xml:4
+msgid "Fir Sapling"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_stump_LW_barrier.xml:5
+#: simulation/templates/gaia/tree/flora_stump_kokiriA_barrier.xml:5
+msgid "Kokiri Stump"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_stump_LW_barrier.xml:6
+#: simulation/templates/gaia/tree/flora_stump_kokiriA_barrier.xml:6
+#: simulation/templates/gaia/tree/flora_tree_lostwoodsA.xml:6
+#: simulation/templates/gaia/tree/flora_tree_lostwoodsA_barrier.xml:6
+#: simulation/templates/gaia/tree/flora_tree_lostwoodsA_target.xml:6
+#: simulation/templates/gaia/tree/flora_tree_lostwoodsB.xml:6
+#: simulation/templates/gaia/tree/flora_tree_lostwoodsB_barrier.xml:6
+#: simulation/templates/gaia/tree/flora_treewall_lostwoodsA.xml:6
+msgid ""
+"The lost Woods is the last vestige of a long-lost age when Hyrule was young and green, "
+"and pulses with powerful magics. Some of the mystical trees in its depths have stood "
+"since the Primordial Age."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_stump_lostwoodsA.xml:5
+msgid "Giant Stump"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_stump_lostwoodsA.xml:6
+msgid ""
+"A relic of an age long past, when the Kokiri Woods once was covered in great primordial"
+" trees."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_stump_waste_hugeA.xml:7
+msgid "Huge Wasteland Stump"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_stump_waste_hugeA.xml:8
+#: simulation/templates/gaia/tree/flora_stump_waste_largeA.xml:8
+msgid "Giant dead stump that once belonged to a huge tree in the Moblin Wastelands."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_stump_waste_largeA.xml:7
+msgid "Large Wasteland Stump"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_stump_waste_smallA.xml:5
+msgid "Wasteland Stump"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_stump_waste_smallA.xml:6
+msgid "Dead stump that once belonged to a tree in the Moblin Wastelands."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_acacia.xml:5
+msgid "Domain Acacia"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_acacia.xml:6
+msgid ""
+"Found in the dryer area along the Zora River, the Domain Acacia is not favored by most "
+"peoples for wood, thought the toxins in its leaves are sometimes harvested for poisons."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_aleppo_pine.xml:5
+msgid "Hylian Pine"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_aleppo_pine.xml:6
+msgid ""
+"These sturdy pines grow throughout Hyrule Field, particularly the hilly northern "
+"regions around Vigjaro."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_apple.xml:10
+msgid "Domain Apple Tree"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_apple.xml:11
+msgid ""
+"Not particularly noted by the aquatic Zora, Domain Apples that bloom on the lush banks "
+"of the Zora River are nonetheless highly-sought after across Hyrule."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_bamboo.xml:5
+msgid "Tokay Bamboo"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_bamboo.xml:6
+#: simulation/templates/gaia/tree/flora_tree_bamboo_giant.xml:6
+#: simulation/templates/gaia/tree/flora_tree_bamboo_large.xml:6
+#: simulation/templates/gaia/tree/flora_tree_bamboo_massive.xml:6
+#: simulation/templates/gaia/tree/flora_tree_bamboo_small.xml:6
+msgid ""
+"Durable plant from the sub-tropical Crescent Islands. Named after the islands' native "
+"inhabitants, whom use this plant for many of their buildings."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_bamboo_giant.xml:5
+msgid "Giant Tokay Bamboo"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_bamboo_large.xml:5
+msgid "Large Tokay Bamboo"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_bamboo_massive.xml:5
+msgid "Massive Tokay Bamboo"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_bamboo_small.xml:5
+msgid "Small Tokay Bamboo"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_carob.xml:5
+msgid "Domain Carab"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_carob.xml:6
+msgid ""
+"Thriving along the cliffs and hills above the River Zora, the Domain Carab is at times "
+"harvested for its useful seed pods, which are considered bitter by many creatures."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_cretan_date_palm_patch.xml:9
+#: simulation/templates/gaia/tree/flora_tree_cretan_date_palm_short.xml:5
+#: simulation/templates/gaia/tree/flora_tree_cretan_date_palm_tall.xml:5
+msgid "Gerudo Palm"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_cretan_date_palm_patch.xml:10
+#: simulation/templates/gaia/tree/flora_tree_cretan_date_palm_short.xml:6
+#: simulation/templates/gaia/tree/flora_tree_cretan_date_palm_tall.xml:6
+msgid ""
+"The hardy Gerudo Palm has long withstood the harsh landscape of the Gerudo Desert, and "
+"serves as a backbone of the Gerudo's culture, providing scarce wood."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_dead.xml:5
+msgid "Scorched Tree"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_dead.xml:6
+msgid ""
+"While Forests do grow along the slopes of the Death Mountain Range, the frequent "
+"eruptions ensure many are reduced to blackened stumps."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_dekuA.xml:5
+#: simulation/templates/gaia/tree/flora_tree_dekuB.xml:5
+msgid "Deku Forest Tree"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_dekuA.xml:6
+#: simulation/templates/gaia/tree/flora_tree_dekuB.xml:6
+msgid "A durable tree found in the eastern Kokiri forest."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_faronpineA.xml:4
+#: simulation/templates/gaia/tree/flora_tree_faronpineA.xml:6
+#: simulation/templates/gaia/tree/flora_tree_faronpine_deadA.xml:4
+#: simulation/templates/gaia/tree/flora_tree_faronpine_deadA.xml:6
+#: simulation/templates/gaia/tree/flora_tree_faronpine_smallA.xml:4
+#: simulation/templates/gaia/tree/flora_tree_faronpine_smallA.xml:6
+msgid "A coniferous tree native to the Faron Woods."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_faronpineA.xml:5
+#: simulation/templates/gaia/tree/flora_tree_faronpine_deadA.xml:5
+#: simulation/templates/gaia/tree/flora_tree_faronpine_smallA.xml:5
+msgid "Faron Pine"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_kokiriA.xml:5
+#: simulation/templates/gaia/tree/flora_tree_kokiriB.xml:5
+msgid "Kokiri Tree"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_kokiriA.xml:6
+#: simulation/templates/gaia/tree/flora_tree_kokiriB.xml:6
+msgid ""
+"The Kokiri Forest in unnaturally lush, and its trees nearly radiate with healthy green "
+"leaves."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_lostwoodsA.xml:5
+#: simulation/templates/gaia/tree/flora_tree_lostwoodsA_barrier.xml:5
+#: simulation/templates/gaia/tree/flora_tree_lostwoodsA_target.xml:5
+#: simulation/templates/gaia/tree/flora_tree_lostwoodsB.xml:5
+#: simulation/templates/gaia/tree/flora_tree_lostwoodsB_barrier.xml:5
+#: simulation/templates/gaia/tree/flora_treewall_lostwoodsA.xml:5
+msgid "Mystical Tree"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_medit_fan_palm.xml:5
+msgid "Hylian Palm"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_medit_fan_palm.xml:6
+msgid ""
+"Believed to be an Ancient cousin to the Gerudo Palm from when the Desert was greener, "
+"the Hylian Palm thrives along the desert fringes of western Hyrule Field."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_mireA.xml:5
+msgid "Mire Spiral Root"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_mireA.xml:6
+msgid ""
+"These strange, twisting plants are the roots of the Mire Spiral Palm, twisting through "
+"the toxic green waters of the Misery Mire in search of nutrients."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_mirepalmA.xml:5
+msgid "Mire Spiral Palm"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_mirepalmA.xml:6
+msgid ""
+"These strange palmlike trees form the fruiting bodies of the Mire Spiral Palm, a hardy "
+"and twisted plant that thrives in the toxic green waters of the Mire, its snarled roots"
+" digging far and wide for nutrients."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_oak.xml:5
+#: simulation/templates/gaia/tree/flora_tree_oak_aut.xml:5
+#: simulation/templates/gaia/tree/flora_tree_oak_aut_new.xml:5
+#: simulation/templates/gaia/tree/flora_tree_oak_large.xml:5
+#: simulation/templates/gaia/tree/flora_tree_oak_new.xml:5
+msgid "Hylian Oak"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_oak.xml:6
+#: simulation/templates/gaia/tree/flora_tree_oak_aut.xml:6
+#: simulation/templates/gaia/tree/flora_tree_oak_aut_new.xml:6
+#: simulation/templates/gaia/tree/flora_tree_oak_dead.xml:6
+#: simulation/templates/gaia/tree/flora_tree_oak_large.xml:6
+#: simulation/templates/gaia/tree/flora_tree_oak_new.xml:6
+msgid ""
+"These hardy trees thrive throughout the dry climates of central Hyrule, and are "
+"commonly used by the Hylians as lumber."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_oak_dead.xml:5
+msgid "Dead Hylian Oak"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_ordonA.xml:4
+#: simulation/templates/gaia/tree/flora_tree_ordonA.xml:6
+msgid "A green tree native to the Ordona Province region."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_ordonA.xml:5
+msgid "Ordon Tree"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_ordonpineA.xml:4
+#: simulation/templates/gaia/tree/flora_tree_ordonpineA.xml:6
+msgid "A coniferous tree native to the Ordona Province region."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_ordonpineA.xml:5
+msgid "Ordon Pine"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_palm_tropic.xml:5
+msgid "Moruge Palm"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_palm_tropic.xml:6
+msgid ""
+"A ancient cousin of the Gerudo Palm that colonized over the Moruge Mountains, the "
+"Moruge Palm has managed to not just survive but thrive in the toxic waters of Misery "
+"Mire, feeding off the dim light they are allowed."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_poplar.xml:5
+msgid "Domain Poplar"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_poplar.xml:6
+msgid ""
+"A stately tree that grows along the banks of the Zora River, while often ignored by the"
+" Zora, it is sought after by other cultures as a luxurious and strong type of wood."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_poplar_lombardy.xml:5
+msgid "Hylian Poplar"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_poplar_lombardy.xml:6
+msgid ""
+"A stately dry-climate tree that grows throughout Hyrule Field. The Hylians favor these "
+"trees for lining their couryards and plazas."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_tarmA_autumn.xml:5
+#: simulation/templates/gaia/tree/flora_tree_tarmA_spring.xml:5
+#: simulation/templates/gaia/tree/flora_tree_tarmA_summer.xml:5
+#: simulation/templates/gaia/tree/flora_tree_tarmA_winter.xml:5
+#: simulation/templates/gaia/tree/flora_tree_tarmbigA_autumn.xml:5
+#: simulation/templates/gaia/tree/flora_tree_tarmbigA_spring.xml:5
+#: simulation/templates/gaia/tree/flora_tree_tarmbigA_summer.xml:5
+#: simulation/templates/gaia/tree/flora_tree_tarmbigA_winter.xml:5
+msgid "Tarminian Tree"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_tarmA_autumn.xml:6
+#: simulation/templates/gaia/tree/flora_tree_tarmA_spring.xml:6
+#: simulation/templates/gaia/tree/flora_tree_tarmA_summer.xml:6
+#: simulation/templates/gaia/tree/flora_tree_tarmA_winter.xml:6
+#: simulation/templates/gaia/tree/flora_tree_tarmbigA_autumn.xml:6
+#: simulation/templates/gaia/tree/flora_tree_tarmbigA_spring.xml:6
+#: simulation/templates/gaia/tree/flora_tree_tarmbigA_summer.xml:6
+#: simulation/templates/gaia/tree/flora_tree_tarmbigA_winter.xml:6
+msgid "A dreamlike tree found in the Tarm Woods."
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_toona.xml:5
+msgid "Hyrulean Mahogany"
+msgstr ""
+
+#: simulation/templates/gaia/tree/flora_tree_toona.xml:6
+msgid ""
+"Highly desired by many peoples across Hyrule for its luxurious wood, the Hyrulean "
+"Mahogany is a rare deciduous tree that only grows in wet climates such as Zora's Domain"
+" and the Misery Mire."
+msgstr ""
+
+#: simulation/templates/gaia/tree/juniper_prickly.xml:4
+msgid "Prickly Juniper"
+msgstr ""
+
+#: simulation/templates/gaia/tree/mangrove.xml:4
+msgid "Mangrove"
+msgstr ""
+
+#: simulation/templates/gaia/tree/maple.xml:4
+msgid "Maple"
+msgstr ""
+
+#: simulation/templates/gaia/tree/medit_fan_palm.xml:4
+msgid "Mediterranean Fan Palm"
+msgstr ""
+
+#: simulation/templates/gaia/tree/oak.xml:4 simulation/templates/gaia/tree/oak_aut.xml:4
+#: simulation/templates/gaia/tree/oak_aut_new.xml:4
+#: simulation/templates/gaia/tree/oak_dead.xml:4 simulation/templates/gaia/tree/oak_new.xml:4
+msgid "Oak"
+msgstr ""
+
+#: simulation/templates/gaia/tree/oak_holly.xml:4
+msgid "Holly Oak"
+msgstr ""
+
+#: simulation/templates/gaia/tree/oak_hungarian.xml:4
+#: simulation/templates/gaia/tree/oak_hungarian_autumn.xml:4
+msgid "Hungarian Oak"
+msgstr ""
+
+#: simulation/templates/gaia/tree/oak_large.xml:4
+msgid "Large Oak"
+msgstr ""
+
+#: simulation/templates/gaia/tree/palm_areca.xml:4
+msgid "Areca Palm"
+msgstr ""
+
+#: simulation/templates/gaia/tree/palm_doum.xml:4
+msgid "Doum Palm"
+msgstr ""
+
+#: simulation/templates/gaia/tree/palm_palmyra.xml:4
+msgid "Palmyra Palm"
+msgstr ""
+
+#: simulation/templates/gaia/tree/palm_tropic.xml:4
+msgid "Palm"
+msgstr ""
+
+#: simulation/templates/gaia/tree/palm_tropical.xml:4
+msgid "Tropical Palm"
+msgstr ""
+
+#: simulation/templates/gaia/tree/pine.xml:4 simulation/templates/gaia/tree/pine_w.xml:4
+msgid "Pine"
+msgstr ""
+
+#: simulation/templates/gaia/tree/pine_black.xml:4
+#: simulation/templates/gaia/tree/pine_black_dead.xml:4
+msgid "Black Pine"
+msgstr ""
+
+#: simulation/templates/gaia/tree/pine_maritime.xml:4
+#: simulation/templates/gaia/tree/pine_maritime_short.xml:4
+msgid "Maritime Pine"
+msgstr ""
+
+#: simulation/templates/gaia/tree/poplar.xml:4
+#: simulation/templates/gaia/tree/poplar_dead.xml:4
+#: simulation/templates/gaia/tree/poplar_lombardy_autumn.xml:4
+msgid "Poplar"
+msgstr ""
+
+#: simulation/templates/gaia/tree/poplar_lombardy.xml:4
+#: simulation/templates/gaia/tree/poplar_lombardy_dead.xml:4
+msgid "Black Poplar"
+msgstr ""
+
+#: simulation/templates/gaia/tree/senegal_date_palm.xml:4
+msgid "Senegal Date Palm"
+msgstr ""
+
+#: simulation/templates/gaia/tree/strangler.xml:8
+msgid "Strangler Fig"
+msgstr ""
+
+#: simulation/templates/gaia/tree/tamarix.xml:4
+msgid "Tamarix"
+msgstr ""
+
+#: simulation/templates/gaia/tree/teak.xml:8
+msgid "Teak"
+msgstr ""
+
+#: simulation/templates/gaia/tree/toona.xml:4
+msgid "Toona"
+msgstr ""
+
+#: simulation/templates/gaia/tree/tropic_rainforest.xml:4
+msgid "Rainforest Tree"
+msgstr ""
+
+#: simulation/templates/gaia/weather_desert_storm.xml:11
+#: simulation/templates/gaia/weather_faron_fog.xml:11
+#: simulation/templates/gaia/weather_tumbleweed.xml:8
+msgid "Weather Effect"
+msgstr ""
+
+#: simulation/templates/gaia/weather_desert_storm.xml:14
+msgid "Desert Storm"
+msgstr ""
+
+#: simulation/templates/gaia/weather_desert_storm.xml:15
+msgid "Large dust storm crossing the desert."
+msgstr ""
+
+#: simulation/templates/gaia/weather_faron_fog.xml:14
+msgid "Faron Fog"
+msgstr ""
+
+#: simulation/templates/gaia/weather_faron_fog.xml:15
+msgid "Eerie Fog found throughout the Faron Woods."
+msgstr ""
+
+#: simulation/templates/gaia/weather_tumbleweed.xml:11
+msgid "Tumbleweed"
+msgstr ""
+
+#: simulation/templates/gaia/weather_tumbleweed.xml:12
+msgid "Roll and roll and roll."
+msgstr ""
+
+#: simulation/templates/other/fence_rail_hylianA.xml:15
+#: simulation/templates/other/fence_rail_hylianA.xml:17
+#: simulation/templates/other/fence_stone_hylianA.xml:15
+#: simulation/templates/other/fence_stone_hylianA.xml:17
+msgid "Stone Fence"
+msgstr ""
+
+#: simulation/templates/other/gazebo_hylianA.xml:15
+#: simulation/templates/other/gazebo_hylianA.xml:17
+#: simulation/templates/other/pergola_hylianA.xml:15
+#: simulation/templates/other/pergola_hylianA.xml:17
+msgid "Gazebo"
+msgstr ""
+
+#: simulation/templates/other/map_revealer_large.xml:27
+#: simulation/templates/other/map_revealer_medium.xml:27
+#: simulation/templates/other/map_revealer_small.xml:27
+msgid "Map Revealer - Large"
+msgstr ""
+
+#: simulation/templates/other/plane.xml:52 simulation/templates/other/plane.xml:53
+#: simulation/templates/other/plane.xml:56
+msgid "SQUADALAH!"
+msgstr ""
+
+#: simulation/templates/other/plane.xml:55
+msgid "Gwonam"
+msgstr ""
+
+#: simulation/templates/skirmish/structures/default_house_10.xml:5
+msgid "Changes in a 10-pop house for civilisations with those houses, is deleted for other civs"
+msgstr ""
+
+#: simulation/templates/skirmish/structures/default_house_5.xml:8
+msgid "Changes in a 5-pop house for civilisations with those houses, is deleted for other civs"
+msgstr ""
+
+#: simulation/templates/skirmish/structures/default_mobbuilder.xml:8
+msgid "Changes into Moblin Building Maker, is deleted for other civs"
+msgstr ""
+
+#: simulation/templates/skirmish/structures/default_mobstorehouse.xml:8
+msgid "Changes into Moblin Storehouse, is deleted for other civs"
+msgstr ""
+
+#: simulation/templates/skirmish/units/special_herobonus_unit_labrynna.xml:33
+#: simulation/templates/skirmish/units/special_herobonus_unit_lanayru.xml:33
+msgid "Hero Unit Replacer"
+msgstr ""
+
+#: simulation/templates/special/player.xml:82
+#: simulation/templates/special/player/player.xml:82
+msgid "Player"
+msgstr ""
+
+#: simulation/templates/template_formation.xml:26
+msgid "Requires at least 2 Soldiers or Siege Engines."
+msgstr ""
+
+#: simulation/templates/template_gaia.xml:7
+msgid "Gaia"
+msgstr ""
+
+#: simulation/templates/template_gaia_doodad.xml:7
+#: simulation/templates/template_gaia_doodadB.xml:7
+#: simulation/templates/template_gaia_geo_rock.xml:7
+msgid "Generic Geology"
+msgstr ""
+
+#: simulation/templates/gaia/fish/generic.xml:4 simulation/templates/template_gaia_fish.xml:8
+msgid "Fish"
+msgstr ""
+
+#: simulation/templates/template_gaia_fish.xml:10
+msgid "Catch fish for food."
+msgstr ""
+
+#: simulation/templates/gaia/crate_foodA.xml:3
+#: simulation/templates/template_gaia_flora_bush_berry.xml:7
+#: simulation/templates/template_gaia_geo_sirloin.xml:8
+msgid "Food"
+msgstr ""
+
+#: simulation/templates/template_gaia_flora_bush_berry.xml:8
+#: simulation/templates/template_gaia_flora_bush_berry.xml:11
+msgid ""
+"This bush with edible berries grow across Hyrule Field, and is a common foodstuff in "
+"Hylian towns and villages."
+msgstr ""
+
+#: simulation/templates/template_gaia_flora_bush_berry.xml:10
+msgid "Hylian Berries"
+msgstr ""
+
+#: simulation/templates/gaia/crate_woodA.xml:3
+#: simulation/templates/gaia/tree/flora_tree_faronpineA.xml:3
+#: simulation/templates/gaia/tree/flora_tree_faronpine_deadA.xml:3
+#: simulation/templates/gaia/tree/flora_tree_faronpine_smallA.xml:3
+#: simulation/templates/gaia/tree/flora_tree_medit_fan_palm.xml:3
+#: simulation/templates/gaia/tree/flora_tree_ordonA.xml:3
+#: simulation/templates/gaia/tree/flora_tree_ordonpineA.xml:3
+#: simulation/templates/template_gaia_flora_tree.xml:4
+msgid "Material"
+msgstr ""
+
+#: simulation/templates/template_gaia_flora_tree.xml:6
+#: simulation/templates/template_gaia_tree.xml:8
+msgid "Tree"
+msgstr ""
+
+#: simulation/templates/template_gaia_flora_tree.xml:7
+msgid "Chop down to Gather Material."
+msgstr ""
+
+#: simulation/templates/gaia/fruit/flora_bush_berry.xml:3
+#: simulation/templates/gaia/fruit/flora_bush_grapes.xml:3
+#: simulation/templates/gaia/tree/flora_tree_apple.xml:7
+#: simulation/templates/template_gaia_fruit.xml:8
+msgid "Fruit"
+msgstr ""
+
+#: simulation/templates/template_gaia_fruit.xml:9
+msgid "Pick fruit for food."
+msgstr ""
+
+#: simulation/templates/gaia/crate_metalA.xml:3
+#: simulation/templates/template_gaia_geo_mineral.xml:7
+msgid "Ore"
+msgstr ""
+
+#: simulation/templates/template_gaia_geo_mineral.xml:8
+#: simulation/templates/template_gaia_geo_mineral.xml:11
+msgid "A vein of useful Metal located close to the surface."
+msgstr ""
+
+#: simulation/templates/template_gaia_geo_mineral.xml:10
+msgid "Metal Vein"
+msgstr ""
+
+#: simulation/templates/template_gaia_geo_rock.xml:8
+#: simulation/templates/template_gaia_geo_rock.xml:11
+msgid "An outcropping of durable rock that could be mined."
+msgstr ""
+
+#: simulation/templates/template_gaia_geo_rock.xml:10
+msgid "Stone Outcrop"
+msgstr ""
+
+#: simulation/templates/gaia/crate_rupeesA.xml:3
+#: simulation/templates/template_gaia_geo_rupees.xml:7
+msgid "Currency"
+msgstr ""
+
+#: simulation/templates/template_gaia_geo_rupees.xml:8
+#: simulation/templates/template_gaia_geo_rupees.xml:11
+msgid ""
+"Rupees are colorful gemstones commonly used as a currency across Hyrule. Denoted in "
+"value by their color and rarity, they are mined from large veins located under the "
+"earth."
+msgstr ""
+
+#: simulation/templates/template_gaia_geo_rupees.xml:10
+msgid "Rupee Vein"
+msgstr ""
+
+#: simulation/templates/template_gaia_geo_sirloin.xml:9
+#: simulation/templates/template_gaia_geo_sirloin.xml:12
+msgid ""
+"This type of Rock is considered a delicacy by Gorons, even if appearing as normal Stone"
+" to other peoples."
+msgstr ""
+
+#: simulation/templates/template_gaia_geo_sirloin.xml:11
+msgid "Raw Rock Sirloin"
+msgstr ""
+
+#: simulation/templates/template_gaia_ore.xml:8
+msgid "Metal Mine"
+msgstr ""
+
+#: simulation/templates/template_gaia_ore.xml:9
+msgid "Mine ore for metal."
+msgstr ""
+
+#: simulation/templates/template_gaia_rock.xml:8
+msgid "Stone Quarry"
+msgstr ""
+
+#: simulation/templates/template_gaia_rock.xml:9
+msgid "Quarry rock for stone."
+msgstr ""
+
+#: simulation/templates/template_gaia_ruins.xml:8
+msgid "Ruins"
+msgstr ""
+
+#: simulation/templates/template_gaia_ruins.xml:9
+msgid "Demolish ruins for stone."
+msgstr ""
+
+#: simulation/templates/template_gaia_treasure.xml:8
+msgid "Treasure"
+msgstr ""
+
+#: simulation/templates/template_gaia_treasure.xml:9
+msgid "Collect treasures for resources."
+msgstr ""
+
+#: simulation/templates/template_gaia_tree.xml:9
+msgid "Chop trees for wood."
+msgstr ""
+

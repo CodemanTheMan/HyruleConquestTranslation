@@ -1,0 +1,93 @@
+# Translation template for Hyrule Conquest.
+# Copyright (C) 2022 UndyingNephalim
+# This file is distributed under the same license as the Hyrule Conquest project.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hyrule Conquest\n"
+"POT-Creation-Date: 2022-05-23 17:26+0058\n"
+"PO-Revision-Date: 2022-05-23 17:26+0058\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#: gui/gamesetup/Pages/CivselPage/civsel.xml:(caption):11
+msgid "Civilization Selection"
+msgstr ""
+
+#: gui/gamesetup/Pages/CivselPage/civsel.xml:(caption):69
+msgid "Cancel"
+msgstr ""
+
+#: gui/gamesetup/Pages/CivselPage/civsel.xml:(caption):73
+msgid "Confirm"
+msgstr ""
+
+#: gui/gamesetup/Pages/GameSetupPage/GameSettings/GameSettingsLayout.js:7
+msgctxt "Match settings tab name"
+msgid "Map"
+msgstr ""
+
+#: gui/gamesetup/Pages/GameSetupPage/GameSettings/GameSettingsLayout.js:27
+msgctxt "Match settings tab name"
+msgid "Player"
+msgstr ""
+
+#: gui/gamesetup/Pages/GameSetupPage/GameSettings/GameSettingsLayout.js:46
+msgctxt "Match settings tab name"
+msgid "Game Type"
+msgstr ""
+
+#: gui/gamesetup/Pages/GameSetupPage/GameSettings/PerPlayer/PlayersPanel.xml:(caption):6
+msgid "Player Name"
+msgstr ""
+
+#: gui/gamesetup/Pages/GameSetupPage/GameSettings/PerPlayer/PlayersPanel.xml:(caption):10
+msgid "Color"
+msgstr ""
+
+#: gui/gamesetup/Pages/GameSetupPage/GameSettings/PerPlayer/PlayersPanel.xml:(caption):14
+msgid "Player Placement"
+msgstr ""
+
+#: gui/gamesetup/Pages/GameSetupPage/GameSettings/PerPlayer/PlayersPanel.xml:(caption):18
+msgid "Civilization"
+msgstr ""
+
+#: gui/gamesetup/Pages/GameSetupPage/GameSettings/PerPlayer/PlayersPanel.xml:(caption):25
+msgid "Team"
+msgstr ""
+
+#: gui/gamesetup/Pages/GameSetupPage/GameSettings/Single/Checkboxes/AllowHeroSelectionDuringMatch.js:28
+msgid "Allow hero selection during the match"
+msgstr ""
+
+#: gui/gamesetup/Pages/GameSetupPage/GameSettings/Single/Checkboxes/AllowHeroSelectionDuringMatch.js:31
+msgid "Allow hero selection during the match."
+msgstr ""
+
+#: gui/gamesetup/Pages/GameSetupPage/GameSettings/Single/Checkboxes/DisableHeroes.js:26
+msgid "Disable heroes"
+msgstr ""
+
+#: gui/gamesetup/Pages/GameSetupPage/GameSettings/Single/Checkboxes/DisableHeroes.js:29
+msgid "Disable heroes during the game."
+msgstr ""
+
+#: gui/gamesetup/Pages/GameSetupPage/GameSettings/Single/Dropdowns/HeroCount.js:38
+msgid "Number of Heroes"
+msgstr ""
+
+#: gui/gamesetup/Pages/GameSetupPage/GameSettings/Single/Dropdowns/HeroCount.js:41
+msgid "Select number of heroes allowed for each player."
+msgstr ""
+
+#: gui/gamesetup/gamesetup.xml:(caption):17
+msgid "Match Setup"
+msgstr ""
+
+#: gui/loading/TipDisplay.js:64
+#, javascript-format
+msgid "• %(tiptext)s"
+msgstr ""
+
