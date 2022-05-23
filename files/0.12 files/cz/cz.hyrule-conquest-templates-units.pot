@@ -1050,21 +1050,21 @@ msgid ""
 " name Senturon has been forgotten and the moniker of Black Knight has faded into "
 "legend. Still, there are some words spoken that this grim warrior still walks in the "
 "shadows of Hyrule and serves the Legion to this day."
-msgstr ""
+msgstr "Senturon sloužil jako jeden z Vátiho vojevůdce za jeho invaze za starověku. Očividně nezabitelný, začaly se šuškat pověsti že Senturon měl moc vztát z mrtvých. Ať už pravda byla jakákoliv, bez milosti konal příkazy Legie a kompletně vyhnal Kmen Větrů ze světa. Po tři tisíce letech bylo jméno Senturon zapomenuto a přídomek Černý Rytíř se stal legendou. Přesto, slova se šuškají že tenhle ponurý bojovník stále chodí ve stínech světa a dodnes slouží Legii."
 
 #: simulation/templates/units/darknut/darknut_hero_senturon.xml:64
 msgid "Senturon"
-msgstr ""
+msgstr "Senturon"
 
 #: simulation/templates/units/darknut/darknut_hero_senturon.xml:65
 msgid ""
 "Extremely durable Melee Hero with a heavy suit of armor. He can take tremendous "
 "punishment before falling in battle."
-msgstr ""
+msgstr "Extrémně odolný z blízka bojující hrdina s těžkým brněním. Vydrží obrovské ztrestání než padne v bitvě."
 
 #: simulation/templates/units/darknut/darknut_hero_yaraxonal.xml:58
 msgid "The Glass Sage"
-msgstr ""
+msgstr "Skleněná Mudryně"
 
 #: simulation/templates/units/darknut/darknut_hero_yaraxonal.xml:60
 msgid ""
@@ -1076,15 +1076,15 @@ msgid ""
 "of the desert winds and would use them against enemies of the Legion. Despite her power"
 " and veneration as a god, Yaraxonal was rather humble and was responsible for expanding"
 " the Legion through diplomacy and assimilation rather than conquest."
-msgstr ""
+msgstr "Jaraxonal byla bývalá Mudryně, a také náčelnice a hlavní bohyně Temnářské Legie před Zalunbarem. Pod nosem Temnářského lidu byla uvězněna v kamenu Vátim a sesazena Zalunbarem. Za tři tisíce let zmizela její vzpomínka, zatímco používala svoji moc jako Mudryně aby poslala zprávu pro pomoc. Měla moc nad pouštními větry a používala je proti nepřátelům Legie. Navzdory její moci a úctíváním jako bohyně, Jaraxonal byla spíše pokorná a zasloužila se o růst Legie diplomacií místo dobýváním."
 
 #: simulation/templates/units/darknut/darknut_hero_yaraxonal.xml:64
 msgid "Yaraxonal"
-msgstr ""
+msgstr "Jaraxonal"
 
 #: simulation/templates/units/darknut/darknut_hero_yaraxonal.xml:65
 msgid "Large and fast Melee Hero who can attack multiple enemies with her twin khopesh."
-msgstr ""
+msgstr "Velká a rychlá hrdinka bojující zblízka která může zaútočit na několik nepřátel svými dvěmy chopešemi.
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:4
 #: simulation/templates/units/gerudo/gerudo_ironknuckle_b.xml:4
