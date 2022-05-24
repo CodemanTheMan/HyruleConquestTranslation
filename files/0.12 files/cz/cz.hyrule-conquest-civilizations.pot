@@ -245,7 +245,7 @@ msgstr "Lokaj Kud-Do"
 
 #: simulation/data/civs/deku.json:Factions[0].Technologies[0].Name
 msgid "Farms, Fruit, Wood, Metal, Rupees, Gold, and Force Gems"
-msgstr "Farmy, Ovoce, Dřevo, Kovy, Rupie, Zlato a "
+msgstr "Farmy, Ovoce, Dřevo, Kovy, Rupie, Zlato a Klenoty Síly"
 
 #: simulation/data/civs/deku.json:History
 msgid ""
@@ -254,11 +254,11 @@ msgid ""
 "anger and their perpetual short-man's complex, large gatherings of these normally "
 "comical forest dwellers could result in terrifying destruction and chaos when unleashed"
 " on Hyrule."
-msgstr ""
+msgstr "Královstí Deku Rostů byla konfederace lenních teritorií hluboko za jižním okrajem Faronských lesů. Známí pro své iracionální záchvaty vzteku a stálým komplexem malého muže, velké hlouky těhto obvykle legračních obyvatelů lesa mohly vyvodit v příšernou zkázu a chaos pokud byli vypuštěni do světa."
 
 #: simulation/data/civs/deku.json:Name
 msgid "Deku Scrubs"
-msgstr ""
+msgstr "Deku Rosti"
 
 #: simulation/data/civs/deku.json:Structures[0].History
 msgid ""
@@ -266,11 +266,11 @@ msgid ""
 "ages past, but despite their iconagraphy carved into its stone the design has little "
 "resemblence to their civilization. The massive temple is home to many Orhat Beetle "
 "nests and the structure seems to have sunken into the ground since its construction."
-msgstr ""
+msgstr "Velký a starověký chrám v Dekuho lesech. Rosti tvrdí že ho postavily před věky, ale navzdory jejich ikonografii vyryté do jeho kamene, konstrukce má málo podoby jejich civilizaci. Tento masivní chrám je domovem mnoha hnízd Rohlavů a zdá se že se celá budova od stavby ponořila do země."
 
 #: simulation/data/civs/deku.json:Structures[0].Name
 msgid "Wonder: Wooded Temple"
-msgstr ""
+msgstr "Div: Zarostlý Chrám"
 
 #: simulation/data/civs/deku.json:Structures[1].History
 msgid ""
@@ -279,23 +279,23 @@ msgid ""
 "their behalf. The Stagnox may be slow, but his armor is some of the most impressive and"
 " durable in Hyrule. While the Stagnox has wings, his huge size makes his ability to fly"
 " very limited."
-msgstr ""
+msgstr "Tento obří a mohutný brouk Rohlav už dlouho číhá v jižních lesích. V některých případech bylo známo že Rosti donutili tuhle obří příšeru aby bojovala za ně. Vidlopuch je pomalý, ale jeho brnění je jedno z nejpůsobivějších a nejodolnějších na světě. Má sice křídla, ale jeho mohutná velikost značně omezuje jeho let."
 
 #: simulation/data/civs/deku.json:Structures[1].Name
 msgid "Titan: Stagnox, Armored Colossus"
-msgstr ""
+msgstr "Mýt: Vidlopuch, Obrněný Kolos"
 
 #: simulation/data/civs/deku.json:TeamBonuses[0].Description
 msgid "25% land trade route bonus."
-msgstr ""
+msgstr "25% bonus pro pozemní obchod."
 
 #: simulation/data/civs/deku.json:TeamBonuses[0].Name
 msgid "Partner Networks"
-msgstr ""
+msgstr "Partnerské Sítě"
 
 #: simulation/data/civs/fairy.json:AINames[3]
 msgid "Queen of All Fairies"
-msgstr ""
+msgstr "Královna Všech Víl."
 
 #: simulation/data/civs/fairy.json:CivBonuses[0].Description
 #: simulation/data/civs/stalfos.json:Factions[0].Heroes[0].History
@@ -311,11 +311,11 @@ msgstr ""
 msgid ""
 "Fairy units change form and function with the four Seasons, which can be altered at the"
 " Sundial"
-msgstr ""
+msgstr "Vílí jednotky mění formu a funkci s ročním obdobím, které může být změněno u Slunečních hodin."
 
 #: simulation/data/civs/fairy.json:CivBonuses[0].Name
 msgid "Herald of Seasons"
-msgstr ""
+msgstr "Zvěstovatelky Ročních Období"
 
 #: simulation/data/civs/fairy.json:CivBonuses[1].Description
 msgid "Fairies have no worker units and buildings slowly summon themselves."
@@ -323,17 +323,17 @@ msgstr ""
 
 #: simulation/data/civs/fairy.json:CivBonuses[1].Name
 msgid "Those that Dream"
-msgstr ""
+msgstr "Ty co Sní"
 
 #: simulation/data/civs/fairy.json:CivBonuses[2].Description
 msgid ""
 "Wild Animals (with the exception of Bosses) will not attack Fairies of Tarm unless "
 "attacked first."
-msgstr ""
+msgstr "Divoká zvěř (s vyjímkou Netvorů) neútočí na Víly Tarmu dokud nezaútočí ony."
 
 #: simulation/data/civs/fairy.json:CivBonuses[2].Name
 msgid "Breath of the Wild"
-msgstr ""
+msgstr "Dech Divočiny"
 
 #: simulation/data/civs/fairy.json:Factions[0].Heroes[0].History
 msgid ""
@@ -344,12 +344,12 @@ msgid ""
 "described as a very peaceful and friendly Fairy, to children anyway. Legends say she "
 "will never appear to adults, and if one happens to catch her off guard they will find "
 "themselves in serious peril."
-msgstr ""
+msgstr "Mnohým známá jako Víla Větrů, Sekaja se objevuje v mnoha kulturách jako duše která přináší jaro a odhání zimu. Je spojována se semeny a chrání mladé rostlin i zvířat. Některé báje dokonce říkají že dává Hyliánským dětem bumerangy na ochranu dokud neudrží luky a šípy. Je popisována jako velice mírumilovná a přátelská víla, alespoň dětem. Báje říkají že se nikdy neukazuje dospělým, a pokud ji některý přistihne, dostane se do vážného nebezpečí."
 
 #: simulation/data/civs/fairy.json:AINames[0]
 #: simulation/data/civs/fairy.json:Factions[0].Heroes[0].Name
 msgid "Sekaia, Fairy of Winds"
-msgstr ""
+msgstr "Sekaja, Víla Větrů"
 
 #: simulation/data/civs/fairy.json:Factions[0].Heroes[1].History
 msgid ""
@@ -360,12 +360,12 @@ msgid ""
 "beauty and legend says that one can summon her with ease by challenging her appearance."
 " She is connected to the season of Summer and is said to cause the plants and animals "
 "to dance with fury under the heat of the sun."
-msgstr ""
+msgstr "Divoká víla která se jen vzácně *-*"
 
 #: simulation/data/civs/fairy.json:AINames[1]
 #: simulation/data/civs/fairy.json:Factions[0].Heroes[1].Name
 msgid "Venus, Queen of the Mad"
-msgstr ""
+msgstr "Venuše, Královna 3ílených"
 
 #: simulation/data/civs/fairy.json:Factions[0].Heroes[2].History
 msgid ""
