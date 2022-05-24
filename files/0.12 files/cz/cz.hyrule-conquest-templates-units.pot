@@ -1343,7 +1343,7 @@ msgstr "Mocný Helmohlav"
 #: simulation/templates/units/darknut/darknut_legatus_low.xml:61
 #: simulation/templates/units/darknut/darknut_legatus_noarmor.xml:42
 msgid "Legatus"
-msgstr ""
+msgstr "Legát"
 
 #: simulation/templates/units/darknut/darknut_legatus_b.xml:63
 #: simulation/templates/units/darknut/darknut_legatus_half.xml:62
@@ -1355,6 +1355,10 @@ msgid ""
 "warriors can still be found hidden in retirement or isolation of ruins across the "
 "desert, waiting only for the Legion to request their services once again."
 msgstr ""
+"Kdysi vysoce postavení generálové v armádě Legie, trénink Legátů vymizel z jejich sil "
+"po Zalunbarově uchopení moci. Značný počet těhle mocných válečníků se dá stále najít "
+"schovaných v ústraní nebo izolaci ve zříceninách v napříč pouští, čekající pouze "
+"na to až bude Legie zase žádat jejich služeb."
 
 #: simulation/templates/units/darknut/darknut_legatus_b.xml:68
 #: simulation/templates/units/darknut/darknut_legatus_half.xml:67
@@ -1364,16 +1368,18 @@ msgid ""
 "Senturon's Unique Unit. Powerful and heavily armored Melee unit that continues to fight"
 " as parts of its armor are damaged and broken."
 msgstr ""
+"Jednotka kterou může verbovat pouze Senturon. Silná a těžce obrněná jednotka která "
+"bojuje i po tom co je její brnění požkozeno a rozbito."
 
 #: simulation/templates/units/darknut/darknut_legatus_half.xml:106
 #: simulation/templates/units/darknut/darknut_legatus_low.xml:106
 #: simulation/templates/units/darknut/darknut_legatus_noarmor.xml:87
 msgid "Repair the Legatus' broken armor."
-msgstr ""
+msgstr "Opravit rozbité brnění Legáta."
 
 #: simulation/templates/units/darknut/darknut_legionary_b.xml:54
 msgid "Legionary"
-msgstr ""
+msgstr "Legionář"
 
 #: simulation/templates/units/darknut/darknut_legionary_b.xml:55
 msgid ""
@@ -1382,26 +1388,29 @@ msgid ""
 "Legionaries were actually the lowest rank of soldier in the Legion’s Code and had only "
 "undergone a year of formal training."
 msgstr ""
+"Tvář Temnářských armád, Legionáři bez únavy prosazovali vůli Temnářského lidu obranou "
+"i útokem na všechny armády. Přestože byli mohutní a silní, Legionáři byli ve skutečnosti "
+"nejnižší úroveň vojáků v kódu Legie a podstoupili pouze rok formálního tréninku."
 
 #: simulation/templates/units/darknut/darknut_legionary_b.xml:59
 msgid "Powerful Melee unit in heavy armor."
-msgstr ""
+msgstr "Mocná z blízka bojující jednotka v těžkém brnění."
 
 #: simulation/templates/units/darknut/darknut_legionary_legendary.xml:43
 msgid "Legendary Legionary"
-msgstr ""
+msgstr "Legendární Legionář"
 
 #: simulation/templates/units/darknut/darknut_legionary_master.xml:43
 msgid "Master Legionary"
-msgstr ""
+msgstr "Mistrovský Legionář"
 
 #: simulation/templates/units/darknut/darknut_legionary_mighty.xml:44
 msgid "Mighty Legionary"
-msgstr ""
+msgstr "Mocný Legionář"
 
 #: simulation/templates/units/darknut/darknut_lynel_b.xml:33
 msgid "Lynel Pride"
-msgstr ""
+msgstr "Smečka Lvynelů"
 
 #: simulation/templates/units/darknut/darknut_lynel_b.xml:34
 msgid ""
@@ -1410,18 +1419,22 @@ msgid ""
 " Lynels hired and deployed with Legion forces that many of the Darknut’s enemies "
 "assumed they were members of the same empire."
 msgstr ""
+"Notoricky násilní a krvežízniví Lvynelové byli dlouho spojováni s Temnářským lidem. "
+"V novodobějších časech byli oblíbení žoldáci Legie. Lvynelové byli najímáni a nasazeni "
+"se silami Legie tak často že mnozí nepřátelé Temnářů se domnívali že byli členové "
+"stejného impéria."
 
 #: simulation/templates/units/darknut/darknut_lynel_b.xml:38
 msgid "Powerful Cavalry unit armed with a sword and shield."
-msgstr ""
+msgstr "Mocná jezdecká jednotka ozbrojena mečem a štítem."
 
 #: simulation/templates/units/darknut/darknut_lynel_mighty.xml:19
 msgid "Mighty Lynel Pride"
-msgstr ""
+msgstr "Mocná Smečka Lvynelů"
 
 #: simulation/templates/units/darknut/darknut_mazura_b.xml:38
 msgid "Mazura Hippikon"
-msgstr ""
+msgstr "Mazurský Hippikon"
 
 #: simulation/templates/units/darknut/darknut_mazura_b.xml:39
 msgid ""
@@ -1430,18 +1443,21 @@ msgid ""
 "cavalry, a Mazura Hippikon could nonetheless plow into enemy forces and cause havoc "
 "with their maces."
 msgstr ""
+"Zlostní a tvrdohlaví Mazurové, jako Fokové, byli vysoce vážení vojáci v Legii kvůli "
+"jejich rychlosti. Přestože nebyli tak rychlí nebo hbití jako Fokové nebo jiné jezdectvo, "
+"Mazurský Hippikon byl schopný prorazit do nepřátelských sil a způsobit paseku svý palcátem. "
 
 #: simulation/templates/units/darknut/darknut_mazura_b.xml:44
 msgid "Fast moving Melee unit that behaves as if it were Cavalry."
-msgstr ""
+msgstr "Rychlá na blízko bojující jednotka která se chová jako jezdectvo."
 
 #: simulation/templates/units/darknut/darknut_mazura_mighty.xml:25
 msgid "Mighty Mazura Hippikon"
-msgstr ""
+msgstr "Mocný Mazurský Hippikon"
 
 #: simulation/templates/units/darknut/darknut_molgera_b.xml:33
 msgid "Molgera Grub"
-msgstr ""
+msgstr "Ponrava Molgery"
 
 #: simulation/templates/units/darknut/darknut_molgera_b.xml:34
 msgid ""
@@ -1453,10 +1469,16 @@ msgid ""
 "vibrations of anything around them, making it almost impossible to sneak up on one of "
 "these creatures."
 msgstr ""
+"Molgery byly téměř legendární stvoření; mnozí pochybovali že kdy vůbec existovaly. "
+"S trochou štěstí mohla Legie ochočit Molgeru když byla ještě ponrava, a využívali "
+"ji stejně jako by jiní využívali ochočené strážné psy. Když ponravy moc zestárly, "
+"Temnáři je museli vypusti zpátky do pouště; dospělá Molgera byla neskutečně obtížná "
+"ovládat i pro ně. Molgery měly podivnou schopnost cítit vibrace všeho kolem nic, "
+"což dělalo plížení k těmto tvorům skoro nemožné. "
 
 #: simulation/templates/units/darknut/darknut_molgera_b.xml:38
 msgid "Small Scout Creature that can burrow into the ground and hide."
-msgstr ""
+msgstr "Malý průzkumný tvor který se umí zahrabat do země a schovat."
 
 #: simulation/templates/units/darknut/darknut_molgera_b.xml:39
 #: simulation/templates/units/darknut/darknut_patra_b.xml:42
@@ -1474,11 +1496,11 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_eyesoar_b.xml:36
 #: simulation/templates/units/zora/zora_infiltrator_b.xml:38
 msgid "Scout"
-msgstr ""
+msgstr "Průzkumník"
 
 #: simulation/templates/units/darknut/darknut_patra_b.xml:34
 msgid "Patra"
-msgstr ""
+msgstr "Patra"
 
 #: simulation/templates/units/darknut/darknut_patra_b.xml:36
 msgid ""
@@ -1486,10 +1508,14 @@ msgid ""
 " the Legion. Despite their size, Patra are infamous for their ability to hide and "
 "strike at enemies from the shadows."
 msgstr ""
+"Plody a služebnictvo démona Vátiho, Patry slouží jako oči těch u moci Legie. I přes jejich "
+"velikost jsou Patry nechvalně známé pro svoji schopnost se schovat a udeřit na svoje nepřátele ze stínu. "
 
 #: simulation/templates/units/darknut/darknut_patra_b.xml:41
 msgid "Zalunbar's Unique Unit. Flying Scout Creature concealed with Camouflage."
 msgstr ""
+"Jednotka kterou může trénovat pouze Zalunbar. Létající průzkumný "
+"tvor skrytý pod kamufláží."
 
 #: simulation/templates/units/darknut/darknut_peltast_b.xml:4
 #: simulation/templates/units/darknut/darknut_peltast_garrison.xml:4
@@ -1497,12 +1523,12 @@ msgstr ""
 #: simulation/templates/units/kokiri/kokiri_mantlet_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Javelin"
-msgstr ""
+msgstr "Oštěp"
 
 #: simulation/templates/units/darknut/darknut_peltast_b.xml:47
 #: simulation/templates/units/darknut/darknut_peltast_garrison.xml:47
 msgid "Peltast"
-msgstr ""
+msgstr "Peltast"
 
 #: simulation/templates/units/darknut/darknut_peltast_b.xml:48
 #: simulation/templates/units/darknut/darknut_peltast_garrison.xml:48
@@ -1512,19 +1538,23 @@ msgid ""
 "a distance. Peltast men and women were trained in lobbing javelins from incredible "
 "distances, serving as a powerful skirmisher."
 msgstr ""
+"Boj na dálku byl výslovně zakázán jakémukoliv válečníku který se připojil k Legii. "
+"Naštěstí, posádky a armády řízeny ciilisty neměly žádné takové tabu proti útočením "
+"na nepřátele na dálku. Peltasté a Peltasty byly trénováni v házení oštěpů na "
+"neuvěřitelné vzdálenosti, sloužíce jako mocní střelci."
 
 #: simulation/templates/units/darknut/darknut_peltast_b.xml:52
 #: simulation/templates/units/darknut/darknut_peltast_garrison.xml:52
 msgid "Missile unit that tosses Javelins at enemies from a distance."
-msgstr ""
+msgstr "Střelná jednotka která háže oštěpy na dálku."
 
 #: simulation/templates/units/darknut/darknut_peltast_mighty.xml:33
 msgid "Mighty Peltast"
-msgstr ""
+msgstr "Mocný Peltast"
 
 #: simulation/templates/units/darknut/darknut_reaver_b.xml:33
 msgid "Reaver"
-msgstr ""
+msgstr "Lupič"
 
 #: simulation/templates/units/darknut/darknut_reaver_b.xml:35
 msgid ""
@@ -1533,10 +1563,14 @@ msgid ""
 "their incredible muscles and speed to survive. The Legion is willing to hire these "
 "warriors when the need arrises."
 msgstr ""
+"Vyvržení Temnářští válečníci kteří přežili nájezdy a krádeží v Gerudské poušti. "
+"Lupiči opustili neskladé brnění jejich bratrů a místo něho se spoléhají na své "
+"neuvěřitelné svaly a sílu aby přežili. Legie je ochotná tyhle válečníky najmout "
+"pokud se vyskytne nutnost."
 
 #: simulation/templates/units/darknut/darknut_reaver_b.xml:40
 msgid "Alros' Unique Unit. Quick Mercenary Melee unit that raids enemies with a huge sword."
-msgstr ""
+msgstr "Jednotka kterou může naverbovat Alros Rychlí na blízko bojující žoldák s mohutným mečem."
 
 #: simulation/templates/units/darknut/darknut_rebonack_b.xml:4
 #: simulation/templates/units/darknut/darknut_rebonack_legendary.xml:4
@@ -1549,11 +1583,11 @@ msgstr ""
 #: simulation/templates/units/zora/zora_hydrolancer_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Lance"
-msgstr ""
+msgstr "Kopí"
 
 #: simulation/templates/units/darknut/darknut_rebonack_b.xml:54
 msgid "Rebonack"
-msgstr ""
+msgstr "Levionář"
 
 #: simulation/templates/units/darknut/darknut_rebonack_b.xml:55
 msgid ""
@@ -1563,39 +1597,43 @@ msgid ""
 " one hand and a sword in the other, Rebonacks could knock down enemy soldiers with ease"
 " and lob the heads off of those that survived."
 msgstr ""
+"Skoro jako bozi, Levionáři byli nejzkušenější vojáci v celé Legii a možná jejich nejděsivější "
+"válečníci. Levionáři jezdili na zádech obřích černých ořů kteří byli po staletí šlechtěni "
+"výhradně pro velikost. Ozbrojeni kopím v jedné ruce a mečem ve druhé, Levioáři byli schopní "
+"bez námahy srazit nepřátelské vojáky a useknout hlavu těm co přežili."
 
 #: simulation/templates/units/darknut/darknut_rebonack_b.xml:59
 msgid "Slow but extremely armored Cavalry unit carrying a huge lance."
-msgstr ""
+msgstr "Pomalá ale extrémně obrněná jezdecká jednotka s mohutným kopím."
 
 #: simulation/templates/units/darknut/darknut_rebonack_legendary.xml:43
 msgid "Legendary Rebonack"
-msgstr ""
+msgstr "Legendární Levionář"
 
 #: simulation/templates/units/darknut/darknut_rebonack_master.xml:43
 msgid "Master Rebonack"
-msgstr ""
+msgstr "Mistrovský Levionář"
 
 #: simulation/templates/units/darknut/darknut_rebonack_mighty.xml:44
 #: simulation/templates/units/darknut/darknut_rebonack_mighty.xml:45
 msgid "Mighty Rebonack"
-msgstr ""
+msgstr "Mocný Legionář"
 
 #: simulation/templates/units/darknut/darknut_supplycart_b.xml:19
 #: simulation/templates/units/lizalfos/lizalfos_supplycart_b.xml:22
 msgid "Supply Cart"
-msgstr ""
+msgstr "Zásobovací Vůz"
 
 #: simulation/templates/units/darknut/darknut_supplycart_b.xml:21
 #: simulation/templates/units/lizalfos/lizalfos_supplycart_b.xml:24
 #: simulation/templates/units/stalfos/stalfos_collector_b.xml:25
 msgid "Mobile dropsite for resources."
-msgstr ""
+msgstr "Mobilní sklad pro zdroje."
 
 #: simulation/templates/units/darknut/darknut_supplycart_b.xml:22
 #: simulation/templates/units/npc_zuna/npc_zun_merchantman_b.xml:23
 msgid "Storehouse"
-msgstr ""
+msgstr "Sýpka"
 
 #: simulation/templates/units/darknut/darknut_thrallA.xml:4
 #: simulation/templates/units/darknut/darknut_thrallA.xml:14
@@ -1632,16 +1670,16 @@ msgstr ""
 #: simulation/templates/units/zora/zora_servantA.xml:14
 msgctxt "Name of an attack, usually the weapon."
 msgid "Knife"
-msgstr ""
+msgstr "Nůž"
 
 #: simulation/templates/units/darknut/darknut_titan_vaati.xml:12
 msgctxt "Name of an attack, usually the weapon."
 msgid "Tornados"
-msgstr ""
+msgstr "Tornáda"
 
 #: simulation/templates/units/darknut/darknut_titan_vaati.xml:88
 msgid "The Wind Demon"
-msgstr ""
+msgstr "Démon Větru"
 
 #: simulation/templates/units/darknut/darknut_titan_vaati.xml:89
 msgid ""
@@ -1652,27 +1690,32 @@ msgid ""
 "accomplish its goals in Hyrule. When exposed and under threat, the demon abandons his "
 "Vaati disguise and reveals his horrific bat-like form."
 msgstr ""
+"Kdysi člen rasy Menšíků, Váti se setkal s jedním z pravěkých démonů který řádil v "
+"prvotním světě a uzavřel s tou bestií pakt. Démon mu dal neuvěřitelnou moc, ale Váti "
+"se nakonec ztratil v posedlosti té bestie. Přestože už nebyl sám sebou, démon si "
+"ponechal Vátiho vzhled, jméno a osobnost zatímco se vydal za svými cíly ve světě. "
+"Pokud je v ohrožení, démon opustí svůj převlek a odhalí svoji hroznou netopýrnou podobu."
 
 #: simulation/templates/units/darknut/darknut_titan_vaati.xml:92
 msgid "Vaati"
-msgstr ""
+msgstr "Váti"
 
 #: simulation/templates/units/darknut/darknut_titan_vaati.xml:93
 msgid "Darknut Titan unit. Flying Mage unit capable of summoning tornados."
-msgstr ""
+msgstr "Temnářská Mýtická jednotka. Létající mág schopný vyvolat tornáda."
 
 #: simulation/templates/units/darknut/darknut_vaatinado.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Tornado"
-msgstr ""
+msgstr "Tornádo"
 
 #: simulation/templates/units/darknut/darknut_vaatinado.xml:74
 msgid "Vaati's Tornado"
-msgstr ""
+msgstr "Váátiho Tornádo"
 
 #: simulation/templates/units/darknut_trader_b.xml:12
 msgid "Dealer"
-msgstr ""
+msgstr "Obchodník"
 
 #: simulation/templates/units/darknut_trader_b.xml:13
 msgid ""
