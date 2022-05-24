@@ -13,11 +13,11 @@ msgstr ""
 
 #: simulation/data/civs/darknut.json:CivBonuses[0].Description
 msgid "Many Darknut units can gain experience and level up like Heroes."
-msgstr ""
+msgstr "Některé Temnářské jednotky mohou získat zkušenost a úrovně jako Hrdinové."
 
 #: simulation/data/civs/darknut.json:CivBonuses[0].Name
 msgid "Legendary Warriors"
-msgstr ""
+msgstr "Legendární Válečníci"
 
 #: simulation/data/civs/darknut.json:CivBonuses[1].Description
 msgid "Darknuts have a single Civil Center and cannot build a new one or replace it."
@@ -29,11 +29,11 @@ msgstr ""
 
 #: simulation/data/civs/darknut.json:CivBonuses[2].Description
 msgid "Darknuts can hire Mercenaries from every culture."
-msgstr ""
+msgstr "Temnáři mohou najmout Žoldáky z každé kultury."
 
 #: simulation/data/civs/darknut.json:CivBonuses[2].Name
 msgid "Mercenary Masters"
-msgstr ""
+msgstr "Páni Žoldáků"
 
 #: simulation/data/civs/darknut.json:Factions[0].Heroes[0].History
 msgid ""
@@ -43,12 +43,12 @@ msgid ""
 "god. Zalunbar was utterly narcissistic and completely egocentric. Centuries of constant"
 " praise and worship has let his ego spiral completely out of control, and there are few"
 " who would dare question his godhood."
-msgstr ""
+msgstr "Mocný Temnářský válečník, Zalunbar byl uctiván jako bůh svým lidem a převzal moc nad Legií skoro tři tisíce let zpátky. Jeho nepřirozené dlouhý život a očividná nesmrtelnost vznítila zápal mezi jeho lidem a přesvědčila mnohé že byl skutečný bůh. Zalunbar byl naprosto narcistický a egocentrický. Staletí stálé chvály a uctívání vedlo k vymknutí jeho ega z kontroly, a je málo kteří by pochybovali o jeho božství."
 
 #: simulation/data/civs/darknut.json:AINames[0]
 #: simulation/data/civs/darknut.json:Factions[0].Heroes[0].Name
 msgid "Zalunbar"
-msgstr ""
+msgstr "Zalunbar"
 
 #: simulation/data/civs/darknut.json:Factions[0].Heroes[1].History
 msgid ""
@@ -60,12 +60,12 @@ msgid ""
 "of the desert winds and would use them against enemies of the Legion. Despite her power"
 " and veneration as a god, Yaraxonal was rather humble and was responsible for expanding"
 " the Legion through diplomacy and assimilation rather than conquest."
-msgstr ""
+msgstr "Jaraxonal byla bývalá Mudryně, a také náčelnice a hlavní bohyně Temnářské Legie před Zalunbarem. Pod nosem Temnářského lidu byla uvězněna v kamenu Vátim a sesazena Zalunbarem. Za tři tisíce let zmizela její vzpomínka, zatímco používala svoji moc jako Mudryně aby poslala zprávu pro pomoc. Měla moc nad pouštními větry a používala je proti nepřátelům Legie. Navzdory její moci a úctíváním jako bohyně, Jaraxonal byla spíše pokorná a zasloužila se o růst Legie diplomacií místo dobýváním."
 
 #: simulation/data/civs/darknut.json:AINames[1]
 #: simulation/data/civs/darknut.json:Factions[0].Heroes[1].Name
 msgid "Yaraxonal"
-msgstr ""
+msgstr "Jaraxonal"
 
 #: simulation/data/civs/darknut.json:Factions[0].Heroes[2].History
 msgid ""
@@ -76,12 +76,12 @@ msgid ""
 " name Senturon has been forgotten and the moniker of Black Knight has faded into "
 "legend. Still, there are some words spoken that this grim warrior still walks in the "
 "shadows of Hyrule and serves the Legion to this day."
-msgstr ""
+msgstr "Senturon sloužil jako jeden z Vátiho vojevůdců za jeho invaze za starověku. Očividně nezabitelný, začaly se šuškat pověsti že Senturon měl moc vztát z mrtvých. Ať už pravda byla jakákoliv, bez milosti konal příkazy Legie a kompletně vyhnal Kmen Větrů ze světa. Po tři tisíce letech bylo jméno Senturon zapomenuto a přídomek Černý Rytíř se stal legendou. Přesto, slova se šuškají že tenhle ponurý bojovník stále chodí ve stínech světa a dodnes slouží Legii."
 
 #: simulation/data/civs/darknut.json:AINames[2]
 #: simulation/data/civs/darknut.json:Factions[0].Heroes[2].Name
 msgid "Senturon"
-msgstr ""
+msgstr "Senturon"
 
 #: simulation/data/civs/darknut.json:Factions[0].Heroes[3].History
 msgid ""
@@ -91,16 +91,16 @@ msgid ""
 "outcasts. For years he has ravaged the desert with his fellow reavers; his ultimate "
 "goal is nothing short of taking the Darknut throne and replacing Zalunbar as the living"
 " god of the Legion."
-msgstr ""
+msgstr "Bývalý fanatik Zalunbarův, Alros utekl do Gerudské pouště po pádu svého bývalého idola a opustil kód Legie. Po desetiletích žalu, Alros znovu našel odhodlání a začal shromažďovat armádu žoldáků a Temnářských psanců. Roku pustošil poušť se svými Lupiči; jeho konečný cíl je nic míň než se zmocnit Temnářského trůnu a nahradit Zalunbara jakožto živoucího boha Legie."
 
 #: simulation/data/civs/darknut.json:AINames[3]
 #: simulation/data/civs/darknut.json:Factions[0].Heroes[3].Name
 msgid "Alros"
-msgstr ""
+msgstr "Alros"
 
 #: simulation/data/civs/darknut.json:Factions[0].Technologies[0].Name
 msgid "Farms, Fruit, Meat, Fish, Stone, Metal, Rupees, Gold, and Force Gems"
-msgstr ""
+msgstr "Farmy, Ovoce, Maso, Ryby, Kamení, Kovy, Rupie, Zlato a Klenoty Síly"
 
 #: simulation/data/civs/darknut.json:History
 msgid ""
@@ -109,11 +109,11 @@ msgid ""
 "Banning all practice of magic and dishonorable forms of combat and warfare, a strict "
 "code of honor and ethics was mandated and their society was brutally restructured in "
 "order to avoid such a fate."
-msgstr ""
+msgstr "Možná nejstarodávnější civilizace která stále vytrvává, Temnářský lid se málem vyhubil v masivní občanské válce před skoro čtyři tisíci lety. Zakázali proto praktikum vší magie a hanebných forem boje a válčení, nařídili přísný kód cti a etiky a jejich společnost byla brutálně restrukturována aby se vyhnuli tomuto osudu."
 
 #: simulation/data/civs/darknut.json:Name
 msgid "Darknut Legion"
-msgstr ""
+msgstr "Temnářská Legie"
 
 #: simulation/data/civs/darknut.json:Structures[0].History
 msgid ""
@@ -126,11 +126,11 @@ msgid ""
 "captured beasts and monsters, and a general temple of worship. In more modern times it "
 "serves as powerful Fortress and command center for those truely in power over the "
 "Legion."
-msgstr ""
+msgstr "Jedna z nejstarších budov na světě, Héřina Věž se už dlouho tyčí mezi horami západně od Gerudoské pouště, viditelná z mnohá míst po ní. Byla opuštěna Temnářským lidem mnohokrát v historii, ale vždy znovudobyta a použita pro nový účel. Původní účel věže je ztracen z historie, avšak mnozí věří že kdysi sloužila jako Apotheon pro Temnářské Krále a Královny. Během jejich různých znovudobytí téhle starověké věže sloužila jako žalář, doupě pro chycené bestie a příšery, a chrám pro bohoslužby. V moderních časech slouží jako mocná pevnost a štáb těch se skutečnou mocí nad Legií."
 
 #: simulation/data/civs/darknut.json:Structures[0].Name
 msgid "Wonder: Tower of Hera"
-msgstr ""
+msgstr "Héřina Věž"
 
 #: simulation/data/civs/darknut.json:Structures[1].History
 msgid ""
@@ -140,45 +140,45 @@ msgid ""
 "himself, the demon retained Vaati's image, name, and personality as it set out to "
 "accomplish its goals in Hyrule. When exposed and under threat, the demon abandons his "
 "Vaati disguise and reveals his horrific bat-like form."
-msgstr ""
+msgstr "Kdysi člen rasy Menšíků, Váti se setkal s jedním z pravěkých démonů který řádil v prvotním světě a uzavřel s tou bestií pakt. Démon mu dal neuvěřitelnou moc, ale Váti se nakonec ztratil v posedlosti té bestie. Přestože už nebyl sám sebou, démon si ponechal Vátiho vzhled, jméno a osobnost zatímco se vydal za svými cíly ve světě. Pokud je v ohrožení, démon opustí svůj převlek a odhalí svoji hroznou netopýrnou podobu."
 
 #: simulation/data/civs/darknut.json:Structures[1].Name
 msgid "Titan: Vaati, the Wind Demon"
-msgstr ""
+msgstr "Mýt: Váti, Démon Větru"
 
 #: simulation/data/civs/darknut.json:TeamBonuses[0].Description
 msgid "Allies can train all Mercs as the Darknuts do, except for Legion specific Mercs."
-msgstr ""
+msgstr "Spojenci mohou najmout všechny Žoldáky jako Temnáři, kromě Žoldáků z Legie."
 
 #: simulation/data/civs/darknut.json:TeamBonuses[0].Name
 msgid "Mercenary Connections"
-msgstr ""
+msgstr "Konexe na Žoldáky"
 
 #: simulation/data/civs/deku.json:CivBonuses[0].Description
 msgid ""
 "There is a small chance that any Deku Scrub unit (except for Orhats, Giant Orhats, and "
 "Stagnox) will become a Mad Scrub on death, attacking anything near itself."
-msgstr ""
+msgstr "Je malá šance že kterýkoliv jednotka Deku Rostů (kromě Rohlavů, Obřích Rohlavů a Vidlopucha) se stane Vzteklým Rostem po smrti, a začne útočit na všechno kolem."
 
 #: simulation/data/civs/deku.json:CivBonuses[0].Name
 msgid "Mad Blight Disease"
-msgstr ""
+msgstr "Vzteklá Sněť"
 
 #: simulation/data/civs/deku.json:CivBonuses[1].Description
 msgid "Captured Livestock reduces the Food cost of training Creature units."
-msgstr ""
+msgstr "Polapený dobytek snižuje nutné Jídlo k verbování tvorů."
 
 #: simulation/data/civs/deku.json:CivBonuses[1].Name
 msgid "Menagerie Stocks"
-msgstr ""
+msgstr "Zásoby do Zvěřince"
 
 #: simulation/data/civs/deku.json:CivBonuses[2].Description
 msgid "All non-mechanical Deku Scrub units can walk through Thick Forests."
-msgstr ""
+msgstr "Všechny ne-mechanické jednotky Deku Rostů mohou chodit přes Husté Lesy."
 
 #: simulation/data/civs/deku.json:CivBonuses[2].Name
 msgid "Forestwalk"
-msgstr ""
+msgstr "Lesochodci"
 
 #: simulation/data/civs/deku.json:Factions[0].Heroes[0].History
 msgid ""
@@ -189,12 +189,12 @@ msgid ""
 "angry demeanor, the King's motivations seem to be rooted in his love for his daughter. "
 "Though kept secret, he had been struck with a case of Mad Scrub and wished for her to "
 "replace him on the throne after his passing."
-msgstr ""
+msgstr "Možná jeden z nejmocnějších panovníků Deku Rostů, Král Kud-Loh-Kan byl první ze své rasy který sjednotil všechny Rosty pod jeden prapor, i když pouze dočasně. Jeho úspěch však neproudil z dobré vůle jeho lidu; Král Kud-Loh-Kan panoval jako tyran a stále  vyhrožoval svému lidu popravou. I přes jeho vzteklou povahu, Králova motivace byla zakořeněna v lásce pro jeho dceru. Držel to tajemnstím, ale byl nakažen Vzteklou Snětí a přál si aby ho nahradila na trůnu po jeho smrti."
 
 #: simulation/data/civs/deku.json:AINames[0]
 #: simulation/data/civs/deku.json:Factions[0].Heroes[0].Name
 msgid "King Kud-Loh-Kan"
-msgstr ""
+msgstr "Král Kud-Loh-Kan"
 
 #: simulation/data/civs/deku.json:Factions[0].Heroes[1].History
 msgid ""
@@ -205,12 +205,12 @@ msgid ""
 "Kad-A-Kana was noted for her long bouts of sadness, punctuated by violent bursts of "
 "anger. When her father became a victim of the terminal Mad Scrub, her motivations and "
 "intentions turned to darker places elsewhere."
-msgstr ""
+msgstr "Jediná dcera Krále Kud-Loh-Kana, Kad-A-Kana možná neseděla na trůnu, ale rozhodně vládla. Její otec si nemohl pomoci jí splnit požadavky, a mnoho Rostů nevědělo kdo přesně vedl. To se změnilo když byl Král diagnostikován se Vzteklou Snětí. Princezna Kad-A-Kana upadla do dlouhých dob smutku, opatrovaným násilnými záchvaty vzteku. Když se její otec stal obětí smrtelné Vtzeklé Sněti, její motivace ji vedly k temnějším místům."
 
 #: simulation/data/civs/deku.json:AINames[1]
 #: simulation/data/civs/deku.json:Factions[0].Heroes[1].Name
 msgid "Princess Kad-A-Kana"
-msgstr ""
+msgstr "Princezna Kad-A-Kana"
 
 #: simulation/data/civs/deku.json:Factions[0].Heroes[2].History
 msgid ""
@@ -222,12 +222,12 @@ msgid ""
 "compensating with his clearly more exercised brain and ending up in the King's favor, "
 "his lot in life changed quite considerably. He currently serves as an adviser to the "
 "Princess, and has grown concerned with her interest in ancient Odolwan rituals."
-msgstr ""
+msgstr "Brilantní inženým, syn lokaje Kuh-Dy, a jediný přítel Princezny Kad-A-Kany, Kado byl u popředí tvorby obléhacích strojů o jiných zařízení pro Rostsvo. Byl nesmírně fascinován sledováním jak věci padají na zem... Většinou jako výsledek jednoho z jeho nových katapultů. Kado byl poměrně malý, i na Deku Rosta, a byl většinu svého života terčem smíchu. Potom co si kompenzoval se svým očividně vyspělejším mozkem a získal náklonnost Krále, jeho úděl v životě se značně změnil. Současně slouží jako rádce Princezně, a obává se jejího zájmu o starověké Odolwanské rituály."
 
 #: simulation/data/civs/deku.json:AINames[2]
 #: simulation/data/civs/deku.json:Factions[0].Heroes[2].Name
 msgid "Kado"
-msgstr ""
+msgstr "Kado"
 
 #: simulation/data/civs/deku.json:Factions[0].Heroes[3].History
 msgid ""
@@ -236,16 +236,16 @@ msgid ""
 "hands seemed to be tied to the Scrubs' every growing markets across Hyrule, and he "
 "maintained his own force of tax collectors and bullies to insure that the royal "
 "coffers... and his personal bank account... were flowing with Rupees."
-msgstr ""
+msgstr "Osobní sluha Kud-Loh-Kana a správce všech leho peněz, Lokaj Kud-Do byl tichý a nikdy ve středu věcí, ale očividně měl značnou moc nad Rostsvem. Jeho ruce měly co do činění s každým Rostským trhem, a on sám si udržoval vlastní síly výběrčí daní a násilníků aby se postaral o to že královský truhla... a jeho osobní bankovní účet... byly plné Rupií."
 
 #: simulation/data/civs/deku.json:AINames[3]
 #: simulation/data/civs/deku.json:Factions[0].Heroes[3].Name
 msgid "Butler Kuh-Do"
-msgstr ""
+msgstr "Lokaj Kud-Do"
 
 #: simulation/data/civs/deku.json:Factions[0].Technologies[0].Name
 msgid "Farms, Fruit, Wood, Metal, Rupees, Gold, and Force Gems"
-msgstr ""
+msgstr "Farmy, Ovoce, Dřevo, Kovy, Rupie, Zlato a "
 
 #: simulation/data/civs/deku.json:History
 msgid ""
