@@ -410,7 +410,10 @@ msgid ""
 "are still a mystery to this day. What can be surmised is that they were intended to "
 "guard passages and other important locations, as those found active will begin to "
 "rampage and defend the immediate area."
-msgstr "Většinou nalézány v lesních zříceninách, tyhle sochy, a jejich tvůrci, jsou dodnes záhadou. Co se dá předpokládat je že byly určeny strážit průchody a podobná důležitá místa, neboť ty nalezené aktivní začnou řádit a bránit bezprostřední okolí."
+msgstr ""
+"Většinou nalézány v lesních zříceninách, tyhle sochy, a jejich tvůrci, jsou dodnes "
+"záhadou. Co se dá předpokládat je že byly určeny strážit průchody a podobná důležitá "
+"místa, neboť ty nalezené aktivní začnou řádit a bránit bezprostřední okolí."
 
 #: simulation/templates/units/armos/armos_alttp_b.xml:7
 #: simulation/templates/units/armos/armos_dm_b.xml:7
@@ -429,7 +432,10 @@ msgid ""
 "creators, are still a mystery to this day. What can be surmised is that they were "
 "intended to guard passages and other important locations, as those found active will "
 "begin to rampage and defend the immediate area."
-msgstr "Většinou nalézány podél Pohoří smrti, tyhle sochy, a jejich tvůrci, jsou dodnes záhadou. Co se dá předpokládat je že byly určeny strážit průchody a podobná důležitá místa, neboť ty nalezené aktivní začnou řádit a bránit bezprostřední okolí."
+msgstr ""
+"Většinou nalézány podél Pohoří smrti, tyhle sochy, a jejich tvůrci, jsou dodnes "
+"záhadou. Co se dá předpokládat je že byly určeny strážit průchody a podobná důležitá "
+"místa, neboť ty nalezené aktivní začnou řádit a bránit bezprostřední okolí."
 
 #: simulation/templates/units/armos/armos_fsa_b.xml:4
 msgid "Desert Armos"
@@ -441,7 +447,10 @@ msgid ""
 "still a mystery to this day. What can be surmised is that they were intended to guard "
 "passages and other important locations, as those found active will begin to rampage and"
 " defend the immediate area."
-msgstr "Většinou nalézány v pouštních zříceninách, tyhle sochy, a jejich tvůrci, jsou dodnes záhadou. Co se dá předpokládat je že byly určeny strážit průchody a podobná důležitá místa, neboť ty nalezené aktivní začnou řádit a bránit bezprostřední okolí."
+msgstr ""
+"Většinou nalézány v pouštních zříceninách, tyhle sochy, a jejich tvůrci, jsou dodnes "
+"záhadou. Co se dá předpokládat je že byly určeny strážit průchody a podobná důležitá místa, "
+"neboť ty nalezené aktivní začnou řádit a bránit bezprostřední okolí."
 
 #: simulation/templates/units/armos/armos_tarm_b.xml:4
 msgid "Tarminian Armos"
@@ -453,7 +462,11 @@ msgid ""
 " still a mystery to this day. What can be surmised is that they were intended to guard "
 "passages and other important locations, as those found active will begin to rampage and"
 " defend the immediate area."
-msgstr "Většinou nalézány ve zříceninách dávno zapomenutých a mystických míst, tyhle sochy, a jejich tvůrci, jsou dodnes záhadou. Co se dá předpokládat je že byly určeny strážit průchody a podobná důležitá místa, neboť ty nalezené aktivní začnou řádit a bránit bezprostřední okolí."
+msgstr 
+""
+"Většinou nalézány ve zříceninách dávno zapomenutých a mystických míst, tyhle sochy, a "
+"jejich tvůrci, jsou dodnes záhadou. Co se dá předpokládat je že byly určeny strážit "
+"průchody a podobná důležitá místa, neboť ty nalezené aktivní začnou řádit a bránit bezprostřední okolí."
 
 #: simulation/templates/units/boss/boss_madmanhandla.xml:4
 msgctxt "Name of an attack, usually the weapon."
@@ -464,7 +477,9 @@ msgstr "Zuby a Drápy"
 msgid ""
 "Sometimes called the Sea of Trees, this oversized Manhandla has been infected by the "
 "Mad Scrub disease and has long gone on a rampage throughout the Deku Woods."
-msgstr "Občas nazýván Mořem stromů, tenhle přerostlý Trnochod byl nakažen nemocí vzteklých rostů a dávno začal řádit v Dekuho lesech."
+msgstr ""
+"Občas nazýván Mořem stromů, tenhle přerostlý Trnochod byl nakažen "
+"nemocí vzteklých rostů a dávno začal řádit v Dekuho lesech."
 
 #: simulation/templates/units/boss/boss_madmanhandla.xml:62
 msgid "Giant Mad Manhandla"
@@ -494,7 +509,11 @@ msgid ""
 "grown to a truely massive size as a result. Fortunately the creature spends most of its"
 " time slumbering, but when hungry or angry it will seek out anything that moves and "
 "make a meal out of its victim."
-msgstr "Masivní Arach který terorizuje Lanajrijské pláže po desetiletí. Arachové se jen vzácně dožívají tak pokročilého věku, ale Moldarach je možná stovky let starý a dosáhl díky tomu masivní velikosti. Naštěstí tenhle tvor tráví většinu svého času dřímotou, ale pokud je hladový nebo rozlícený, vyhledá cokoliv co se hýbe a udělá ze své oběti žrádlo."
+msgstr ""
+"Masivní Arach který terorizuje Lanajrijské pláže po desetiletí. Arachové se jen vzácně "
+"dožívají tak pokročilého věku, ale Moldarach je možná stovky let starý a dosáhl díky tomu "
+"masivní velikosti. Naštěstí tenhle tvor tráví většinu svého času dřímotou, ale pokud je "
+"hladový nebo rozlícený, vyhledá cokoliv co se hýbe a udělá ze své oběti žrádlo."
 
 #: simulation/templates/units/boss/boss_moldarach.xml:62
 msgid "Moldarach"
@@ -519,7 +538,11 @@ msgid ""
 "and became the top of the food chain. Despite this, they seem to be going the way of "
 "their rivals as their number dwindle over the ages. Pnly through the efforts of the "
 "Darknuts have these magestic but deadly monsters lived on."
-msgstr "Jedna z posledních svého druhu, tahle obří Molgera je pravděpodobně stovky let stará. Kdysi menší predátor v Gerudské poušti, Molgery přežily své lovce a prorazily se na vrchol potravního řetězce. Přesto se zdá že jdou stezkou svých rivalů a jejich počet věky ubývá. Přežívají pouze díky snahám Temnářů."
+msgstr ""
+"Jedna z posledních svého druhu, tahle obří Molgera je pravděpodobně stovky let stará. "
+"Kdysi menší predátor v Gerudské poušti, Molgery přežily své lovce a prorazily se na "
+"vrchol potravního řetězce. Přesto se zdá že jdou stezkou svých rivalů a "
+"jejich počet věky ubývá. Přežívají pouze díky snahám Temnářů."
 
 #: simulation/templates/units/boss/boss_molgera.xml:64
 msgid "Molgera"
@@ -685,7 +708,10 @@ msgid ""
 "Small but very durable rams built by the Legion to tear down enemy walls. The metal "
 "plating of these engines made them extremely resistant to most ranged attacks, often "
 "forcing the enemy to halt them in a melee or bombard them with magics.﻿﻿"
-msgstr "Malé ale velmi odolné beranidlo postavené Legií na boření nepřátelských zdí. Ocelové brnění těhto strojů je dělalo extrémně odolné vůči většině střelných útoků, což často donutilo nepřátele je zastavit v boji na blízko nebo je bombardovat magií."
+msgstr ""
+"Malé ale velmi odolné beranidlo postavené Legií na boření nepřátelských zdí. Ocelové "
+"brnění těhto strojů je dělalo extrémně odolné vůči většině střelných útoků, což často "
+"donutilo nepřátele je zastavit v boji na blízko nebo je bombardovat magií."
 
 #: simulation/templates/units/darknut/darknut_aries_b.xml:47
 msgid "Siege unit that bashes enemy buildings into dust."
@@ -788,7 +814,10 @@ msgid ""
 "relentlessly march at their targets, shrugging off arrow fire without missing a beat. "
 "When in a melee they could pulverize and pummel just about any foe, even those with "
 "durable armor."
-msgstr "Zkázomlati byli velcí a mocní Temnářští bojovníci, s mnoha lety zkušeností k jejich jménu. Se svým obřím palcátem a odolným štítem, Zkázomlati pomalu a bez ustání pochodovali ke svým cílům a odolávali sršícím šípům jako nic. V boji na blízko bušili a drtili jakéhokoliv nepřítele, i ty s odolným brněním."
+msgstr ""
+"Zkázomlati byli velcí a mocní Temnářští bojovníci, s mnoha lety zkušeností k jejich jménu. "
+"Se svým obřím palcátem a odolným štítem, Zkázomlati pomalu a bez ustání pochodovali ke svým "
+"cílům a odolávali sršícím šípům jako nic. V boji na blízko bušili a drtili jakéhokoliv nepřítele, i ty s odolným brněním."
 
 #: simulation/templates/units/darknut/darknut_doomknocker_b.xml:59
 msgid "Huge Melee unit armed with an armor crushing mace."
@@ -816,7 +845,10 @@ msgid ""
 "raised generations of Darknut warriors. A lone Dux was often attached to scores of "
 "soldiers to not only to command them, but to show them how to become even better "
 "fighters."
-msgstr "Expertní válečníci a ještě lepší učitelé, Průvodci byli velitelé kteří vedli příkladem a vychovali generace Temnářských bojovníků. Jediný Průvodce byl často přiřazen několika jednotkám vojáků nejen aby je vedl, ale aby jim ukázal jak se stát lepšími válečníky."
+msgstr ""
+"Expertní válečníci a ještě lepší učitelé, Průvodci byli velitelé kteří vedli příkladem "
+"a vychovali generace Temnářských bojovníků. Jediný Průvodce byl často přiřazen několika "
+"jednotkám vojáků nejen aby je vedl, ale aby jim ukázal jak se stát lepšími válečníky."
 
 #: simulation/templates/units/darknut/darknut_dux_b.xml:63
 msgid ""
@@ -880,7 +912,10 @@ msgid ""
 "supplies across the canyons and cliffs of their homeland. It was later converted into a"
 " mobile siege weapon, lobbing rocks and boulders great distances to shatter enemy "
 "fortifications and defenses."
-msgstr "Vyvinutá Fokskými spojenci, Fokalista byla původně určena k odpalování zásob přez kaňony a útesy jejich domova. Později byla konvertována na mobilní obléhací stroj, házející kamení a balvany přes velké vzdálenosti ke tříštění nepřátelských opevnění."
+msgstr ""
+"Vyvinutá Fokskými spojenci, Fokalista byla původně určena k odpalování zásob přez kaňony "
+"a útesy jejich domova. Později byla konvertována na mobilní obléhací stroj, házející kamení "
+"a balvany přes velké vzdálenosti ke tříštění nepřátelských opevnění."
 
 #: simulation/templates/units/darknut/darknut_fokkalista_b.xml:47
 msgid "Ranged Siege weapon that launches boulders at its targets."
@@ -900,7 +935,10 @@ msgid ""
 "A fringe convent of lady Darknuts known for their unmatched crafting of all manner of "
 "jewelry and stained glass. In a battle the Glass Witches toss razor sharp bolts of "
 "crystal at their enemies, shredding their armor and knocking them off their feet."
-msgstr "Krajní klášter Temnářek známý pro jejich bezkonkurenční řemeslnictví ve tvorbě šperků a barevného skla. V bitvě hází Skleněné Čarodejnice na břitvu ostré šipky z krystalu na své nepřátele, čímž jim drtí brnění a rozhazují jim balanc."
+msgstr ""
+"Krajní klášter Temnářek známý pro jejich bezkonkurenční řemeslnictví ve tvorbě šperků "
+"a barevného skla. V bitvě hází Skleněné Čarodejnice na břitvu ostré šipky z "
+"krystalu na své nepřátele, čímž jim drtí brnění a rozhazují jim balanc."
 
 #: simulation/templates/units/darknut/darknut_glasswitch_b.xml:50
 msgid ""
@@ -925,7 +963,9 @@ msgid ""
 "These young and eager warriors had yet to become trained by the Legion, and therefore "
 "attempted to prove themselves as volunteer soldiers. Those that survived combat or "
 "showed exceptional skill would be adopted into the Legion without question."
-msgstr "Tihle mladí a dychtiví válečníci se ještě nedočkali tréninku od Legie, a proto se snažili prokázat jako dobrovolní vojáci. Ti kteří přežili boj nebo prokázali mimořádnou zručnost byli přijati do Legie bez otázek."
+msgstr ""
+"Tihle mladí a dychtiví válečníci se ještě nedočkali tréninku od Legie, a proto se snažili "
+"prokázat jako dobrovolní vojáci. Ti kteří přežili boj nebo prokázali mimořádnou zručnost byli přijati do Legie bez otázek."
 
 #: simulation/templates/units/darknut/darknut_gymnatai_b.xml:38
 msgid "Fast Melee unit armed with a khopesh."
@@ -947,7 +987,11 @@ msgid ""
 "outcasts. For years he has ravaged the desert with his fellow reavers; his ultimate "
 "goal is nothing short of taking the Darknut throne and replacing Zalunbar a﻿s the "
 "living god of the Legion."
-msgstr "Bývalý fanatik Zalunbarův, Alros utekl do Gerudské pouště po pádu svého bývalého idola a opustil kód Legie. Po desetiletích žalu, Alros znovu našel odhodlání a začal shromažďovat armádu žoldáků a Temnářských psanců. Roku pustošil poušť se svými Lupiči; jeho konečný cíl je nic míň než se zmocnit Temnářského trůnu a nahradit Zalunbara jakožto živoucího boha Legie."
+msgstr ""
+"Bývalý fanatik Zalunbarův, Alros utekl do Gerudské pouště po pádu svého bývalého idola a "
+"opustil kód Legie. Po desetiletích žalu, Alros znovu našel odhodlání a začal shromažďovat "
+"armádu žoldáků a Temnářských psanců. Roku pustošil poušť se svými Lupiči; jeho konečný "
+"cíl je nic míň než se zmocnit Temnářského trůnu a nahradit Zalunbara jakožto živoucího boha Legie."
 
 #: simulation/templates/units/darknut/darknut_hero_alros.xml:64
 msgid "Alros"
@@ -966,7 +1010,9 @@ msgid ""
 "A young Darknut commander who lead the reconquest of the southern Mesas. Militron is "
 "utterly ruthless and has resorted to tactics that some consider outside the Legion "
 "code."
-msgstr "Mladý Temnářský velitel který vedl znovudobytí jižních stolových hor. Militron je naprosto nemilosrdný a uchyluje se k taktikám jenž někteří považují za mimo Legii."
+msgstr ""
+"Mladý Temnářský velitel který vedl znovudobytí jižních stolových hor. Militron je "
+"naprosto nemilosrdný a uchyluje se k taktikám jenž někteří považují za mimo Legii."
 
 #: simulation/templates/units/darknut/darknut_hero_militron.xml:64
 msgid "Militron"
@@ -1027,7 +1073,9 @@ msgid ""
 "Known as the Darknut Prime, Onon lead the successful defense of Ontheon and several "
 "other cities against the Gerudo. He has become a popular hero figure amongst the "
 "Darknut people despite him refusing to join the Legion proper."
-msgstr "Známý jako Termnářský Náčelník, Onon vedl úspěšnou obranu Ontheonu a několika dalších měst proti Gerudám. Stal se z něho lidový hrdina mezi Temnářským lidem přesto že odmítá se připojit k Legii."
+msgstr ""
+"Známý jako Termnářský Náčelník, Onon vedl úspěšnou obranu Ontheonu a několika dalších "
+"měst proti Gerudám. Stal se z něho lidový hrdina mezi Temnářským lidem přesto že odmítá se připojit k Legii."
 
 #: simulation/templates/units/darknut/darknut_hero_onon.xml:53
 msgid "Onon"
@@ -1050,7 +1098,12 @@ msgid ""
 " name Senturon has been forgotten and the moniker of Black Knight has faded into "
 "legend. Still, there are some words spoken that this grim warrior still walks in the "
 "shadows of Hyrule and serves the Legion to this day."
-msgstr "Senturon sloužil jako jeden z Vátiho vojevůdce za jeho invaze za starověku. Očividně nezabitelný, začaly se šuškat pověsti že Senturon měl moc vztát z mrtvých. Ať už pravda byla jakákoliv, bez milosti konal příkazy Legie a kompletně vyhnal Kmen Větrů ze světa. Po tři tisíce letech bylo jméno Senturon zapomenuto a přídomek Černý Rytíř se stal legendou. Přesto, slova se šuškají že tenhle ponurý bojovník stále chodí ve stínech světa a dodnes slouží Legii."
+msgstr ""
+"Senturon sloužil jako jeden z Vátiho vojevůdce za jeho invaze za starověku. Očividně "
+"nezabitelný, začaly se šuškat pověsti že Senturon měl moc vztát z mrtvých. Ať už pravda "
+"byla jakákoliv, bez milosti konal příkazy Legie a kompletně vyhnal Kmen Větrů ze světa. "
+"Po tři tisíce letech bylo jméno Senturon zapomenuto a přídomek Černý Rytíř se stal legendou. 
+"Přesto, slova se šuškají že tenhle ponurý bojovník stále chodí ve stínech světa a dodnes slouží Legii."
 
 #: simulation/templates/units/darknut/darknut_hero_senturon.xml:64
 msgid "Senturon"
@@ -1076,7 +1129,12 @@ msgid ""
 "of the desert winds and would use them against enemies of the Legion. Despite her power"
 " and veneration as a god, Yaraxonal was rather humble and was responsible for expanding"
 " the Legion through diplomacy and assimilation rather than conquest."
-msgstr "Jaraxonal byla bývalá Mudryně, a také náčelnice a hlavní bohyně Temnářské Legie před Zalunbarem. Pod nosem Temnářského lidu byla uvězněna v kamenu Vátim a sesazena Zalunbarem. Za tři tisíce let zmizela její vzpomínka, zatímco používala svoji moc jako Mudryně aby poslala zprávu pro pomoc. Měla moc nad pouštními větry a používala je proti nepřátelům Legie. Navzdory její moci a úctíváním jako bohyně, Jaraxonal byla spíše pokorná a zasloužila se o růst Legie diplomacií místo dobýváním."
+msgstr ""
+"Jaraxonal byla bývalá Mudryně, a také náčelnice a hlavní bohyně Temnářské Legie před "
+"Zalunbarem. Pod nosem Temnářského lidu byla uvězněna v kamenu Vátim a sesazena Zalunbarem. "
+"Za tři tisíce let zmizela její vzpomínka, zatímco používala svoji moc jako Mudryně aby "
+"poslala zprávu pro pomoc. Měla moc nad pouštními větry a používala je proti nepřátelům Legie. 
+"Navzdory její moci a úctíváním jako bohyně, Jaraxonal byla spíše pokorná a zasloužila se o růst Legie diplomacií místo dobýváním."
 
 #: simulation/templates/units/darknut/darknut_hero_yaraxonal.xml:64
 msgid "Yaraxonal"
@@ -1084,7 +1142,7 @@ msgstr "Jaraxonal"
 
 #: simulation/templates/units/darknut/darknut_hero_yaraxonal.xml:65
 msgid "Large and fast Melee Hero who can attack multiple enemies with her twin khopesh."
-msgstr "Velká a rychlá hrdinka bojující zblízka která může zaútočit na několik nepřátel svými dvěmy chopešemi.
+msgstr "Velká a rychlá hrdinka bojující zblízka která může zaútočit na několik nepřátel svými dvěma chopeši.
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:4
 #: simulation/templates/units/gerudo/gerudo_ironknuckle_b.xml:4
@@ -1102,11 +1160,11 @@ msgstr "Velká a rychlá hrdinka bojující zblízka která může zaútočit na
 #: simulation/templates/units/ordona/ordona_roughrider_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Axe"
-msgstr ""
+msgstr "Sekyra"
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:62
 msgid "The God of Flesh"
-msgstr ""
+msgstr "Bůh Masa"
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:64
 msgid ""
@@ -1117,18 +1175,23 @@ msgid ""
 " praise and worship has let his ego spiral completely out of control, and there are few"
 " who would dare question his godhood."
 msgstr ""
+"Mocný Temnářský válečník, Zalunbar byl uctiván jako bůh svým lidem a převzal moc nad Legií "
+"skoro tři tisíce let zpátky. Jeho nepřirozené dlouhý život a očividná nesmrtelnost vznítila "
+"zápal mezi jeho lidem a přesvědčila mnohé že byl skutečný bůh. Zalunbar byl naprosto "
+"narcistický a egocentrický. Staletí stálé chvály a uctívání vedlo k vymknutí "
+"jeho ega z kontroly, a je málo kteří by pochybovali o jeho božství."
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:68
 msgid "Zalunbar"
-msgstr ""
+msgstr "Zalunbar"
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:69
 msgid "Slow but powerful Melee Hero with heavy armor and powerful augmenting abilities."
-msgstr ""
+msgstr "Pomalý ale mocný hrdina bojující zblízka s těžkým brněním a mocnými podpůrnými schopnostmi."
 
 #: simulation/templates/units/darknut/darknut_hoplite_b.xml:39
 msgid "Hoplite"
-msgstr ""
+msgstr "Hoplít"
 
 #: simulation/templates/units/darknut/darknut_hoplite_b.xml:40
 msgid ""
@@ -1137,18 +1200,21 @@ msgid ""
 "guards, national patrols, and emergency reinforcements to back up armies during "
 "wartime."
 msgstr ""
+"Temnářští Hoplíti byli vojáci níže v hierarchii kteří prošli pouze minimálním výcvikem "
+"místo toho aby se stali životními členy Legie. Místo toho sloužili jako městští hlídači, "
+"národní stráž, a nouzové posily pro armády během války."
 
 #: simulation/templates/units/darknut/darknut_hoplite_b.xml:44
 msgid "Defensive Melee unit armed with a long spear."
-msgstr ""
+msgstr "Obranná jednotka z blízka vyzbrojená dlouhým kopím."
 
 #: simulation/templates/units/darknut/darknut_hoplite_mighty.xml:25
 msgid "Mighty Hoplite"
-msgstr ""
+msgstr "Mocný Hoplít"
 
 #: simulation/templates/units/darknut/darknut_hypaspist_b.xml:33
 msgid "Fokka Hypaspist"
-msgstr ""
+msgstr "Fokský Hypaspist"
 
 #: simulation/templates/units/darknut/darknut_hypaspist_b.xml:34
 msgid ""
@@ -1157,24 +1223,30 @@ msgid ""
 "could leap staggering distances. They were just as swift in a melee as well, swiping "
 "and countering enemy blows almost effortlessly."
 msgstr ""
+"Tito dlouhodobí členové LEgie kteří byli asimilováni to Temnářské kultury propůjčili "
+"svůj vlastní druh vojáků bitvě. Fokští Hypaspisti byli extrémně rychlí a uměli skákat "
+"ohromně daleko. V boji na blízko byli stejně hbití, a bez námahi čelili a odráželi "
+"nepřátelské rány."
 
 #: simulation/templates/units/darknut/darknut_hypaspist_b.xml:38
 msgid ""
 "Very fast moving Infantry unit that can leap huge distances to attack enemies with "
 "their swords."
 msgstr ""
+"Velmi rychle se pohybující jednotka která může skákat na ohromné vzdálenosti "
+"a útočit na nepřátele se svými meči."
 
 #: simulation/templates/units/darknut/darknut_hypaspist_mighty.xml:19
 msgid "Mighty Fokka Hypaspist"
-msgstr ""
+msgstr "Mocný Fokský Hypaspist"
 
 #: simulation/templates/units/darknut/darknut_idoldead.xml:38
 msgid "Dead Idol"
-msgstr ""
+msgstr "Mrtvý Idol"
 
 #: simulation/templates/units/darknut/darknut_idolthrone_b.xml:32
 msgid "Idol Throne"
-msgstr ""
+msgstr "Trůn Idolu"
 
 #: simulation/templates/units/darknut/darknut_idolthrone_b.xml:33
 msgid ""
@@ -1182,23 +1254,28 @@ msgid ""
 "carried around the warzone by a horde of zealous Fanatics. Like living gods on earth, "
 "soldiers of the Legion are inspired into bravery and a frenzy by their presense."
 msgstr ""
+"Sídlo moci pro nejidolizovanější hrdiny Legie, tyhle obří trůny jsou nošeny do "
+"válečné zóny hordou horlivých fanatiků. Jako živoucí bozi na zemi, vojáci Legie "
+"jsou inspirováni k odvaze a šílenstvi jejich přítomností. "
 
 #: simulation/templates/units/darknut/darknut_idolthrone_b.xml:38
 msgid ""
 "Powerful Support Commander that dramatically increases the performance of all Darknuts,"
 " but creates negative effects when slain."
 msgstr ""
+"Mocný podpůrný velitel který dramaticky zvyšuje výkon všech Temnářů, "
+"ale tvoří negativní efekt pokud poražen."
 
 #: simulation/templates/units/darknut/darknut_immortal_b.xml:4
 #: simulation/templates/units/labrynna/labrynna_hero_vire.xml:4
 #: simulation/templates/units/stalfos/stalfos_hero_irene.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fireball"
-msgstr ""
+msgstr "Ohnivá Koule"
 
 #: simulation/templates/units/darknut/darknut_immortal_b.xml:48
 msgid "Immortal"
-msgstr ""
+msgstr "Nesmrtelná"
 
 #: simulation/templates/units/darknut/darknut_immortal_b.xml:49
 msgid ""
@@ -1208,19 +1285,24 @@ msgid ""
 "rare occasions they show up in the Legion army, perhaps to earn a pardon by those in "
 "charge."
 msgstr ""
+"Kdysi milované a ceněné figury Legie, tyto uživatelky magie byly uvězněny a "
+"pobity během Zalunbarova uchopení moci a zákazu čarodějniství. Mnohé byly "
+zapečetěny na smrt v Temnářských kobkách, zatímco několik uteklo do hlubin Gerudské "
+pouště. Vzácně se vyskytnou v armádách Legie, třeba doufajíc v prominutí od těch "
+"u moci."
 
 #: simulation/templates/units/darknut/darknut_immortal_b.xml:53
 msgid "Hovering Mage unit that attacks her enemies with fireballs from a distance."
-msgstr ""
+msgstr "Vznášející se magická jednotka která útočí na své nepřátele z dálky ohnivými koulemi."
 
 #: simulation/templates/units/darknut/darknut_immortal_regen.xml:26
 msgid "Reanimating Immortal"
-msgstr ""
+msgstr "Znovurodicíse Nesmrtelná"
 
 #: simulation/templates/units/darknut/darknut_immortal_regen.xml:27
 #: simulation/templates/units/darknut/darknut_immortal_regen.xml:29
 msgid "A Darknut Immortal in the process of reanimating themselves."
-msgstr ""
+msgstr "Nesmrtelná Temnářka uprostřed znovuzrození."
 
 #: simulation/templates/units/darknut/darknut_jermafenser_b.xml:54
 msgid "Jermafenser"
