@@ -15,11 +15,11 @@ msgstr ""
 msgid ""
 "Random Maps are currently not enabled in Hyrule Conquest, they are a low priority "
 "feature."
-msgstr ""
+msgstr "Náhodné mapy teď nejsou zapnuty v Hyrule Conquest, jsou nízko prioritní ve vývoji."
 
 #: maps/random/cantplay.json:settings.Name
 msgid "Random Maps Not Enabled"
-msgstr ""
+msgstr "Náhodné mapy nejsou zapnuty."
 
 #: maps/scenarios/Disabled/Campaign_FS_Mission01.xml:Description:39
 msgid ""
@@ -59,22 +59,22 @@ msgstr ""
 msgid ""
 "The southwestern slopes of Soseheh Sohg, commonly known as Death Mountain. Dodongos and"
 " Tektites infest this inhospitable and rugged battleground."
-msgstr ""
+msgstr "Jihozápadní svahy Soseheh Sohg, bežně známé jako Hora smrti. Dodongové a Tektyti zamořují tohle nehostinné a drsné bojiště."
 
 #: maps/skirmishes/Death Mountain (2).xml:Name:39
 msgid "Death Mountain"
-msgstr ""
+msgstr "Hora Smrti"
 
 #: maps/skirmishes/Gerudo Oasis (2).xml:Description:39
 msgid ""
 "Wage war around a small and life giving Oasis in the middle of the barren Gerudo "
 "Desert. Ruins of a once majestic city dot this hostile region infested with Leevers."
-msgstr ""
+msgstr "Válčete holem malé oázy dávající život uprostřed pusté Gerudské pouště. Zříceniny kdysy majestátního města stojí v tomto nepřívětivém regionu zamořeném Pustolisty."
 
 #: maps/skirmishes/Gerudo Oasis (2).xml:Name:39
 msgid "Gerudo Oasis"
-msgstr ""
+msgstr "Gerudská Oáza"
 
 #: maps/skirmishes/Lost Woods (2).xml:Name:39
 msgid "The Lost Woods"
-msgstr ""
+msgstr "Ztracenné Lesy"
