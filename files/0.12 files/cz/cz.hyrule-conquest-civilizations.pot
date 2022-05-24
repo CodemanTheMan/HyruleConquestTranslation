@@ -360,12 +360,12 @@ msgid ""
 "beauty and legend says that one can summon her with ease by challenging her appearance."
 " She is connected to the season of Summer and is said to cause the plants and animals "
 "to dance with fury under the heat of the sun."
-msgstr "Divoká víla která se jen vzácně *-*"
+msgstr "Divoká víla která se jen vzácně objevuje s ostatními Vílami, Venuše je Královna Šílených v mnoha kulturách a prý sužuje ty kteří ji vyhledávají šílenstvím. Před věky se ona a její Mystičky rozšířily po světě a říká se že jejich samota je vedla k šílenství, smíchu a hysterii. Je popisována jako marnotratná a posedlá krásou a říká se že se dá ji přivolat výzvou porovnání krásy. Je spojována s ročním obdobím léta a říká se že nutí rostliny a zvěřstvo zběsile tancovat pod horkem slunce."
 
 #: simulation/data/civs/fairy.json:AINames[1]
 #: simulation/data/civs/fairy.json:Factions[0].Heroes[1].Name
 msgid "Venus, Queen of the Mad"
-msgstr "Venuše, Královna 3ílených"
+msgstr "Venuše, Královna Šílených"
 
 #: simulation/data/civs/fairy.json:Factions[0].Heroes[2].History
 msgid ""
@@ -381,7 +381,7 @@ msgstr ""
 #: simulation/data/civs/fairy.json:AINames[2]
 #: simulation/data/civs/fairy.json:Factions[0].Heroes[2].Name
 msgid "Dezaia"
-msgstr ""
+msgstr "Dezaja"
 
 #: simulation/data/civs/fairy.json:Factions[0].Heroes[3].History
 msgid ""
@@ -395,11 +395,11 @@ msgid ""
 "witness to. The Queen of All Fairies is associated with the season of Winter. Her "
 "presence is said to freeze all who look on her, and the land itself shivers until she "
 "passes on."
-msgstr ""
+msgstr "Zbývá málo bájí o Královně která vládla Vílám Tarmu, málo ještě zná její pravé jméno. Říká se že často volila velmi dětský vzhled a chování, což skrývalo její ohromující intelekt a božskou moc. Hrdinové kteří potkali Královnu Všech Víl ji popisovali jako zvědavou a snadno zabavitelnou, plnou dětské radosti a divu nad přátelskými cizinci. Jeden člověk jí však prohlédl, a viděl nespočetné generace války, utrpení, traumat a ztráty kterým byla tato ponurá a neskutečně starověká bytost svědkem. Královna všech víl je spojována s obdobím zimy. Její přítomnost prý mrazí vše co na ni vzhlédne, a samotná země se třese zimou dokud neodejde."
 
 #: simulation/data/civs/fairy.json:Factions[0].Heroes[3].Name
 msgid "Queen of all Fairies"
-msgstr ""
+msgstr "Královna Všech Víl"
 
 #: simulation/data/civs/fairy.json:Factions[0].Technologies[0].Name
 #: simulation/data/civs/gerudo.json:Factions[0].Technologies[0].Name
@@ -413,7 +413,7 @@ msgstr ""
 #: simulation/data/civs/npc_zuna.json:Factions[0].Technologies[0].Name
 #: simulation/data/civs/sheikah.json:Factions[0].Technologies[0].Name
 msgid "Farms, Fruit, Meat, Fish, Wood, Stone, Metal, Rupees, Gold, and Force Gems"
-msgstr ""
+msgstr "Farmy, Ovoce, Maso, Ryby, Dřevo, Kamení, Kovy, Rupie, Zlato, a Klenoty Síly"
 
 #: simulation/data/civs/fairy.json:History
 msgid ""
@@ -423,22 +423,22 @@ msgid ""
 " tending to nature or causing mischief when no one was looking. As the land cried out "
 "in pain however, these wild principles would gather together and cause a lot more than "
 "a little mischief."
-msgstr ""
+msgstr "Možná jedna z největších záhad světa, Víly byly mýtické a samotářské bytosti, které byly jen vzácně spatřeny, přesto že se vyskytovaly ve všech koutech světa. Víly si většinou řešily své, bez jednoty nebo vedení, a staraly se o přírodu nebo tropily neplechy když se nikdo nedíval. Ale když země skučela bolestí, tyhle divoké principy se sjednotily a působily mnohem víc než jenom malou neplechu."
 
 #: simulation/data/civs/fairy.json:Name
 msgid "Fairies of Tarm"
-msgstr ""
+msgstr "Víly Tarmu"
 
 #: simulation/data/civs/fairy.json:Structures[0].History
 msgid ""
 "A mythical fountain still believed to be unreal. Many have searched their entire lives "
 "for this fabled wonder, and none have found it. Legend says that only a Fairy may visit"
 " the Unicorn Fountain, and she may permit a mortal friend a glimpse in their sleep."
-msgstr ""
+msgstr "Mýtická fontána stále považována za neskutečnou. Mnozi celé své životy hledali tenhle bájný div, a nikdo z nich ji nenašel. Legenda říká že pouze víla může navštívit Fontánu Jednorožce, a smrtelnému příteli může dovolit ji spatřit ve spánku."
 
 #: simulation/data/civs/fairy.json:Structures[0].Name
 msgid "Wonder: Unicorn Fountain"
-msgstr ""
+msgstr "Div: Fontána Jednorožce"
 
 #: simulation/data/civs/fairy.json:Structures[1].History
 msgid ""
@@ -449,19 +449,19 @@ msgid ""
 "myths of Horon it was said that this giant tree did battle alongside his sister Maku "
 "Tree and the Fairies of Tarm to defeat the dragons of the east and bring peace to the "
 "land."
-msgstr ""
+msgstr "Jeden z legendárních Maku stromů a možná jeden z posledních stále naživu, strážce Horonu strávil většinu svého času dřímotem na kraji Tarmova Lesa a byl uctíván domorodci kraje. Pouze přání Víly ho může probudit. Ve starověkých Horonských mýtech je řečeno že tento obří strom bojoval se svou sestrou a Vílami Tarmu aby porazil draky východu a přinesl kraji mír."
 
 #: simulation/data/civs/fairy.json:Structures[1].Name
 msgid "Titan: The Maku Tree of Horon"
-msgstr ""
+msgstr "Maku Strom z Horonu"
 
 #: simulation/data/civs/fairy.json:TeamBonuses[0].Description
 msgid "All allied organic units regenerate HP when near Fairy buildings."
-msgstr ""
+msgstr "Všechny organické jednotky regenerují Zdraví pokud jsou blízko Vílích budov."
 
 #: simulation/data/civs/fairy.json:TeamBonuses[0].Name
 msgid "Respite for Friends"
-msgstr ""
+msgstr "Oddych pro Přátele"
 
 #: simulation/data/civs/gerudo.json:AINames[4]
 msgid "Buliara"
