@@ -13,136 +13,136 @@ msgstr ""
 
 #: gui/session/dialogs/campaign_end.xml:(caption):8
 msgid "Resume"
-msgstr ""
+msgstr "Pokračovat"
 
 #: gui/session/dialogs/campaign_end.xml:(caption):12
 msgid "Leave"
-msgstr ""
+msgstr "Odejít"
 
 #: gui/session/dialogs/campaign_window.xml:(caption):12
 msgid "Skip"
-msgstr ""
+msgstr "Přeskočit"
 
 #: gui/session/dialogs/cinematic_window.xml:(caption):11
 msgid "Confirm"
-msgstr ""
+msgstr "Potvrdit"
 
 #: gui/session/dialogs/cinematic_window.xml:(caption):18
 msgid "Yes"
-msgstr ""
+msgstr "Ano"
 
 #: gui/session/dialogs/cinematic_window.xml:(caption):22
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #: gui/session/input.js:208
 #, javascript-format
 msgid "Basic range: %(range)s meter"
 msgid_plural "Basic range: %(range)s meters"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Základní dosah: %(range) metrů"
+msgstr[1] "Základní dosah: %(range) metrů"
 
 #: gui/session/input.js:209
 #, javascript-format
 msgid "Average bonus range: %(range)s meter"
 msgid_plural "Average bonus range: %(range)s meters"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Průměrný bonusový dosah: %(range) metrů"
+msgstr[1] "Průměrný bonusový dosah: %(range) metrů"
 
 #: gui/session/input.js:767
 msgid "Cannot build wall here!"
-msgstr ""
+msgstr "Nelze zde postavit zeď!"
 
 #: gui/session/messages.js:112
 msgid "You have won!"
-msgstr ""
+msgstr "Vyhráli jste!"
 
 #: gui/session/messages.js:113
 msgid "You have been defeated!"
-msgstr ""
+msgstr "Byli jste poraženi!"
 
 #: gui/session/messages.js:464
 msgid "Click to quit this tutorial."
-msgstr ""
+msgstr "Kliknutím vypnete tento tutoriál."
 
 #: gui/session/messages.js:465
 msgid "Quit"
-msgstr ""
+msgstr "Odejít"
 
 #: gui/session/messages.js:469
 msgid "Click when ready."
-msgstr ""
+msgstr "Klikněte pokud jste připraveni."
 
 #: gui/session/messages.js:473
 msgid "Follow the instructions."
-msgstr ""
+msgstr "Poslouchejte instrukce."
 
 #: gui/session/messages.js:599
 msgid "Unknown Player"
-msgstr ""
+msgstr "Neznámý Hráč."
 
 #: gui/session/selection_details.js:70
 #, javascript-format
 msgid "%(secondaryName)s — Packed"
-msgstr ""
+msgstr "%(secondaryName) — Sbaleno!"
 
 #: gui/session/selection_details.js:72
 msgid "Packed"
-msgstr ""
+msgstr "Sbaleno"
 
 #: gui/session/selection_details.js:84
 #, javascript-format
 msgid "\\[OFFLINE] %(player)s"
-msgstr ""
+msgstr "\\[OFFLINE] %(player)"
 
 #: gui/session/selection_details.js:90
 #, javascript-format
 msgid "%(rank)s Rank"
-msgstr ""
+msgstr "%(rank) Úrověň"
 
 #: gui/session/selection_details.js:148
 #, javascript-format
 msgid "%(hitpoints)s / %(maxHitpoints)s"
-msgstr ""
+msgstr "%(hitpoints) / %(maxHitpoints)"
 
 #: gui/session/selection_details.js:191
 #, javascript-format
 msgid "%(capturePoints)s / %(maxCapturePoints)s"
-msgstr ""
+msgstr "%(capturePoints) / %(maxCapturePoints)"
 
 #: gui/session/selection_details.js:212
 #, javascript-format
 msgid "%(experience)s %(current)s / %(required)s"
-msgstr ""
+msgstr "%(experience) %(current) / %(required)"
 
 #: gui/session/selection_details.js:213 gui/session/selection_details.js:219
 msgid "Experience:"
-msgstr ""
+msgstr "Zkušenost:"
 
 #: gui/session/selection_details.js:218
 #, javascript-format
 msgid "%(experience)s %(current)s"
-msgstr ""
+msgstr "%(experience) %(current)"
 
 #: gui/session/selection_details.js:229
 msgid "∞"
-msgstr ""
+msgstr "∞"
 
 #: gui/session/selection_details.js:231 gui/session/selection_details.js:263
 #: gui/session/selection_details.js:295
 #, javascript-format
 msgid "%(amount)s / %(max)s"
-msgstr ""
+msgstr "%(amount) / %(max)s"
 
 #: gui/session/selection_details.js:243
 #, javascript-format
 msgid "%(resource)s:"
-msgstr ""
+msgstr "%(resource):"
 
 #: gui/session/selection_details.js:277
 #, javascript-format
 msgid "Gain: %(gain)s"
-msgstr ""
+msgstr "Získáno: %(gain)"
 
 #: gui/session/selection_details.js:287 gui/session/selection_details.js:305
 #, javascript-format
@@ -155,78 +155,78 @@ msgstr ""
 #: gui/session/selection_panels.js:612
 msgctxt "countdown format"
 msgid "m:ss"
-msgstr ""
+msgstr "m:ss"
 
 #: gui/session/selection_details.js:299
 msgid "Current/max gatherers"
-msgstr ""
+msgstr "Přítomní/max. sběrači"
 
 #: gui/session/selection_details.js:323
 #, javascript-format
 msgid "(%(secondaryName)s)"
-msgstr ""
+msgstr "(%(secondaryName)s)"
 
 #: gui/session/selection_details.js:473
 msgid "Capture Points:"
-msgstr ""
+msgstr "Dobyté Body:"
 
 #: gui/session/selection_details.js:481
 #, javascript-format
 msgid "%(label)s: %(details)s\n"
-msgstr ""
+msgstr "%(label)s: %(details)s\n"
 
 #: gui/session/selection_details.js:482
 msgid "Garrison Size"
-msgstr ""
+msgstr "Velikost Posádky"
 
 #: gui/session/selection_details.js:487
 #, javascript-format
 msgid "%(label)s %(details)s\n"
-msgstr ""
+msgstr "%(label)s %(details)s\n"
 
 #: gui/session/selection_details.js:488
 msgid "Carrying:"
-msgstr ""
+msgstr "Nosí:"
 
 #: gui/session/selection_details.js:491 gui/session/selection_details.js:500
 #, javascript-format
 msgid "%(type)s %(amount)s"
-msgstr ""
+msgstr "%(type)s %(amount)s"
 
 #: gui/session/selection_details.js:496
 #, javascript-format
 msgid "%(label)s %(details)s"
-msgstr ""
+msgstr "%(label)s %(details)s"
 
 #: gui/session/selection_details.js:497
 msgid "Loot:"
-msgstr ""
+msgstr "Kořist"
 
 #: gui/session/selection_details.js:576
 #, javascript-format
 msgid "%(gain)s (%(player)s)"
-msgstr ""
+msgstr "%(gain) (%(player))"
 
 #: gui/session/selection_details.js:601
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: gui/session/selection_details.js:608
 msgctxt "Separation mark in an enumeration"
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: gui/session/selection_panels.js:67
 msgid "Raise an alert!"
-msgstr ""
+msgstr "Vyhlásit poplach!"
 
 #: gui/session/selection_panels.js:70
 msgid "End of alert."
-msgstr ""
+msgstr "Konec poplachu"
 
 #: gui/session/selection_panels.js:302
 msgid "Default formation is disabled."
-msgstr ""
+msgstr "Výchozí formace je vypnuta."
 
 #: gui/session/selection_panels.js:303
 msgid "Right-click to disable the default formation feature."
@@ -243,7 +243,7 @@ msgstr ""
 #: gui/session/selection_panels.js:363
 #, javascript-format
 msgid "Unload %(name)s"
-msgstr ""
+msgstr "Odčíst %(name)"
 
 #: gui/session/selection_panels.js:364
 msgid "Single-click to unload 1. Shift-click to unload all of this type."
@@ -252,69 +252,69 @@ msgstr ""
 #: gui/session/selection_panels.js:366 gui/session/selection_panels.js:938
 #, javascript-format
 msgid "Player: %(playername)s"
-msgstr ""
+msgstr "Hráč: %(playername)"
 
 #: gui/session/selection_panels.js:404
 msgid "Lock Gate"
-msgstr ""
+msgstr "Zamnout Bránu"
 
 #: gui/session/selection_panels.js:410
 msgid "Unlock Gate"
-msgstr ""
+msgstr "Odemknout Brány"
 
 #: gui/session/selection_panels.js:461
 msgid "Pack"
-msgstr ""
+msgstr "Sbalit"
 
 #: gui/session/selection_panels.js:469
 msgid "Unpack"
-msgstr ""
+msgstr "Vybalit"
 
 #: gui/session/selection_panels.js:477
 msgid "Cancel Packing"
-msgstr ""
+msgstr "Zrušit Balení"
 
 #: gui/session/selection_panels.js:485
 msgid "Cancel Unpacking"
-msgstr ""
+msgstr "Zrušit Vybalování"
 
 #: gui/session/selection_panels.js:587
 msgid "The auto-queue will try to train this item later."
-msgstr ""
+msgstr "Auto-fronta se pokusí tuto položku natrénovat později."
 
 #: gui/session/selection_panels.js:590
 msgid "Insufficient population capacity:"
-msgstr ""
+msgstr "Nedostatek kapaticy obyvatelstva:"
 
 #: gui/session/selection_panels.js:591
 #, javascript-format
 msgid "%(population)s %(neededSlots)s"
-msgstr ""
+msgstr "%(population)s %(neededSlots)"
 
 #: gui/session/selection_panels.js:801
 #, javascript-format
 msgid "%(number)s entity of class %(class)s"
 msgid_plural "%(number)s entities of class %(class)s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(number) entita třídy %(class)s"
+msgstr[1] "%(number) entita třídy %(class)s"
 
 #: gui/session/selection_panels.js:807
 #, javascript-format
 msgid "Remaining: %(entityCounts)s"
-msgstr ""
+msgstr "Zbývá: %(entityCounts)"
 
 #: gui/session/selection_panels.js:808
 msgctxt "Separator for a list of entity counts"
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: gui/session/selection_panels.js:861
 msgid "Cannot research while upgrading."
-msgstr ""
+msgstr "Nelze zkoumat při vylepšování."
 
 #: gui/session/selection_panels.js:1087
 msgid "Cannot train while upgrading."
-msgstr ""
+msgstr "Nelze verbovat při vylepšování."
 
 #: gui/session/selection_panels.js:1157
 #, javascript-format
@@ -338,7 +338,7 @@ msgstr ""
 
 #: gui/session/selection_panels.js:1213
 msgid "Cancel Upgrading"
-msgstr ""
+msgstr "Zrušit Vylepšování"
 
 #: gui/session/selection_panels.js:1229
 msgid "Cannot upgrade when the entity is training, researching or already upgrading."
