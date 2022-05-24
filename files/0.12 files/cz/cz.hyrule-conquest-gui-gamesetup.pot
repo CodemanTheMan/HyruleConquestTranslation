@@ -13,80 +13,80 @@ msgstr ""
 
 #: gui/gamesetup/Pages/CivselPage/civsel.xml:(caption):11
 msgid "Civilization Selection"
-msgstr ""
+msgstr "Výběr Civilizace"
 
 #: gui/gamesetup/Pages/CivselPage/civsel.xml:(caption):69
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #: gui/gamesetup/Pages/CivselPage/civsel.xml:(caption):73
 msgid "Confirm"
-msgstr ""
+msgstr "Potvrdit"
 
 #: gui/gamesetup/Pages/GameSetupPage/GameSettings/GameSettingsLayout.js:7
 msgctxt "Match settings tab name"
 msgid "Map"
-msgstr ""
+msgstr "Mapa"
 
 #: gui/gamesetup/Pages/GameSetupPage/GameSettings/GameSettingsLayout.js:27
 msgctxt "Match settings tab name"
 msgid "Player"
-msgstr ""
+msgstr "Hráč"
 
 #: gui/gamesetup/Pages/GameSetupPage/GameSettings/GameSettingsLayout.js:46
 msgctxt "Match settings tab name"
 msgid "Game Type"
-msgstr ""
+msgstr "Typ Hry"
 
 #: gui/gamesetup/Pages/GameSetupPage/GameSettings/PerPlayer/PlayersPanel.xml:(caption):6
 msgid "Player Name"
-msgstr ""
+msgstr "Jméno Hráče"
 
 #: gui/gamesetup/Pages/GameSetupPage/GameSettings/PerPlayer/PlayersPanel.xml:(caption):10
 msgid "Color"
-msgstr ""
+msgstr "Barva"
 
 #: gui/gamesetup/Pages/GameSetupPage/GameSettings/PerPlayer/PlayersPanel.xml:(caption):14
 msgid "Player Placement"
-msgstr ""
+msgstr "Umístění Hráče"
 
 #: gui/gamesetup/Pages/GameSetupPage/GameSettings/PerPlayer/PlayersPanel.xml:(caption):18
 msgid "Civilization"
-msgstr ""
+msgstr "Civilizace"
 
 #: gui/gamesetup/Pages/GameSetupPage/GameSettings/PerPlayer/PlayersPanel.xml:(caption):25
 msgid "Team"
-msgstr ""
+msgstr "Tým"
 
 #: gui/gamesetup/Pages/GameSetupPage/GameSettings/Single/Checkboxes/AllowHeroSelectionDuringMatch.js:28
 msgid "Allow hero selection during the match"
-msgstr ""
+msgstr "Umožnit výběr hrdinů během hry"
 
 #: gui/gamesetup/Pages/GameSetupPage/GameSettings/Single/Checkboxes/AllowHeroSelectionDuringMatch.js:31
 msgid "Allow hero selection during the match."
-msgstr ""
+msgstr "Umožnit výběr hrdinů během hry"
 
 #: gui/gamesetup/Pages/GameSetupPage/GameSettings/Single/Checkboxes/DisableHeroes.js:26
 msgid "Disable heroes"
-msgstr ""
+msgstr "Vypnout hrdiny"
 
 #: gui/gamesetup/Pages/GameSetupPage/GameSettings/Single/Checkboxes/DisableHeroes.js:29
 msgid "Disable heroes during the game."
-msgstr ""
+msgstr "Vypnout hrdiny během hry"
 
 #: gui/gamesetup/Pages/GameSetupPage/GameSettings/Single/Dropdowns/HeroCount.js:38
 msgid "Number of Heroes"
-msgstr ""
+msgstr "Počet Hrdinů"
 
 #: gui/gamesetup/Pages/GameSetupPage/GameSettings/Single/Dropdowns/HeroCount.js:41
 msgid "Select number of heroes allowed for each player."
-msgstr ""
+msgstr "Počet hrdinů povolen pro každého hráče."
 
 #: gui/gamesetup/gamesetup.xml:(caption):17
 msgid "Match Setup"
-msgstr ""
+msgstr "Nastavení Hry"
 
 #: gui/loading/TipDisplay.js:64
 #, javascript-format
 msgid "• %(tiptext)s"
-msgstr ""
+msgstr "• %(tiptext)"
