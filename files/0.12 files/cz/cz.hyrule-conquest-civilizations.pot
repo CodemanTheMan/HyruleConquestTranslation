@@ -465,35 +465,35 @@ msgstr "Oddych pro Přátele"
 
 #: simulation/data/civs/gerudo.json:AINames[4]
 msgid "Buliara"
-msgstr ""
+msgstr "Buliara"
 
 #: simulation/data/civs/gerudo.json:AINames[5]
 msgid "Aveil"
-msgstr ""
+msgstr "Aveil"
 
 #: simulation/data/civs/gerudo.json:CivBonuses[0].Description
 msgid "Attacking enemy workers and resource-drop off buildings generates a trickle of Rupees."
-msgstr ""
+msgstr "Útočení na nepřátelské dělníky a sklady surovin generuje Rupie."
 
 #: simulation/data/civs/gerudo.json:CivBonuses[0].Name
 msgid "Desert Raiders"
-msgstr ""
+msgstr "Pouštní Nájezdníce"
 
 #: simulation/data/civs/gerudo.json:CivBonuses[1].Description
 msgid "All Buildings are garrisonable, and most can fire arrows at enemy units."
-msgstr ""
+msgstr "Všechny budovy se dají vyzbrojit posádkou, a většina umí střílet šípy na nepřátelské jednotky."
 
 #: simulation/data/civs/gerudo.json:CivBonuses[1].Name
 msgid "Battle Ready"
-msgstr ""
+msgstr "Připravené na Bitvu"
 
 #: simulation/data/civs/gerudo.json:CivBonuses[2].Description
 msgid "+20% loot from enemy units and buildings."
-msgstr ""
+msgstr "+20% kořisti z nepřátelských jednotek a budov."
 
 #: simulation/data/civs/gerudo.json:CivBonuses[2].Name
 msgid "Ransack"
-msgstr ""
+msgstr "Vykořisťovatelky"
 
 #: simulation/data/civs/gerudo.json:Factions[0].Heroes[0].History
 msgid ""
@@ -510,7 +510,7 @@ msgstr ""
 #: simulation/data/civs/gerudo.json:AINames[0]
 #: simulation/data/civs/gerudo.json:Factions[0].Heroes[0].Name
 msgid "Emperor Ganondorf"
-msgstr ""
+msgstr "Císař Ganondorf"
 
 #: simulation/data/civs/gerudo.json:Factions[0].Heroes[1].History
 msgid ""
@@ -527,7 +527,7 @@ msgstr ""
 #: simulation/data/civs/gerudo.json:AINames[1]
 #: simulation/data/civs/gerudo.json:Factions[0].Heroes[1].Name
 msgid "Nabooru, Sage of Spirits"
-msgstr ""
+msgstr "Nabóru, Mudryně Duší"
 
 #: simulation/data/civs/gerudo.json:Factions[0].Heroes[2].History
 msgid ""
@@ -543,7 +543,7 @@ msgstr ""
 #: simulation/data/civs/gerudo.json:AINames[2]
 #: simulation/data/civs/gerudo.json:Factions[0].Heroes[2].Name
 msgid "General Urbosa"
-msgstr ""
+msgstr "Generálka Urbosa"
 
 #: simulation/data/civs/gerudo.json:Factions[0].Heroes[3].History
 msgid ""
@@ -559,7 +559,7 @@ msgstr ""
 #: simulation/data/civs/gerudo.json:AINames[3]
 #: simulation/data/civs/gerudo.json:Factions[0].Heroes[3].Name
 msgid "Princess Makeela Riju"
-msgstr ""
+msgstr "Princezna Makýla Ridžu"
 
 #: simulation/data/civs/gerudo.json:History
 msgid ""
@@ -572,7 +572,7 @@ msgstr ""
 
 #: simulation/data/civs/gerudo.json:Name
 msgid "Gerudo"
-msgstr ""
+msgstr "Gerudy"
 
 #: simulation/data/civs/gerudo.json:Structures[0].History
 msgid ""
@@ -586,7 +586,7 @@ msgstr ""
 
 #: simulation/data/civs/gerudo.json:Structures[0].Name
 msgid "Wonder: Desert Colossus"
-msgstr ""
+msgstr "Div: Pouštní Kolos"
 
 #: simulation/data/civs/gerudo.json:Structures[1].History
 msgid ""
@@ -598,39 +598,39 @@ msgstr ""
 
 #: simulation/data/civs/gerudo.json:Structures[1].Name
 msgid "Titan: Twinrova, the Sorceress Sisters"
-msgstr ""
+msgstr "Mýt: Dvojróba, Sestry Čarodějky"
 
 #: simulation/data/civs/gerudo.json:TeamBonuses[0].Description
 msgid "Allies gain +10% Loot"
-msgstr ""
+msgstr "Spojenci dostávají +10% kořisti."
 
 #: simulation/data/civs/gerudo.json:TeamBonuses[0].Name
 msgid "Spoils of War"
-msgstr ""
+msgstr "Válečná Kořist"
 
 #: simulation/data/civs/gohma.json:CivBonuses[0].Description
 msgid "Gohma buildings cannot be captured by any means."
-msgstr ""
+msgstr "Budovy Góm se nedají nijak dobýt."
 
 #: simulation/data/civs/gohma.json:CivBonuses[0].Name
 msgid "Infestation"
-msgstr ""
+msgstr "Zamoření"
 
 #: simulation/data/civs/gohma.json:CivBonuses[1].Description
 msgid "Gohma can harvest Food from the corpses of all slain organic units, including their own."
-msgstr ""
+msgstr "Gómy dokážou sklízet jídlo z mrtvol všech padlých organických jednotek, včetně jejich vlastních."
 
 #: simulation/data/civs/gohma.json:CivBonuses[1].Name
 msgid "All-Consuming"
-msgstr ""
+msgstr "Vše-Konzumující"
 
 #: simulation/data/civs/gohma.json:CivBonuses[2].Description
 msgid "All Gohma Buildings spawn sterile larvae when destroyed."
-msgstr ""
+msgstr "Všechny budovy Góm při zničení vypustí sterilní larvy."
 
 #: simulation/data/civs/gohma.json:CivBonuses[2].Name
 msgid "Hive Affinity"
-msgstr ""
+msgstr "Afinita Úlu"
 
 #: simulation/data/civs/gohma.json:Factions[0].Heroes[0].History
 msgid ""
@@ -648,7 +648,7 @@ msgstr ""
 #: simulation/data/civs/gohma.json:AINames[0]
 #: simulation/data/civs/gohma.json:Factions[0].Heroes[0].Name
 msgid "Sulkaris, the Fallen Sage"
-msgstr ""
+msgstr "Sulkaris, Padlá Mudryně"
 
 #: simulation/data/civs/gohma.json:Factions[0].Heroes[1].History
 msgid ""
@@ -666,7 +666,7 @@ msgstr ""
 #: simulation/data/civs/gohma.json:AINames[1]
 #: simulation/data/civs/gohma.json:Factions[0].Heroes[1].Name
 msgid "Agitha"
-msgstr ""
+msgstr "Agita"
 
 #: simulation/data/civs/gohma.json:Factions[0].Heroes[2].History
 msgid ""
@@ -681,7 +681,7 @@ msgstr ""
 #: simulation/data/civs/gohma.json:AINames[2]
 #: simulation/data/civs/gohma.json:Factions[0].Heroes[2].Name
 msgid "Mido"
-msgstr ""
+msgstr "Mido"
 
 #: simulation/data/civs/gohma.json:Factions[0].Heroes[3].History
 msgid ""
@@ -696,11 +696,11 @@ msgstr ""
 #: simulation/data/civs/gohma.json:AINames[3]
 #: simulation/data/civs/gohma.json:Factions[0].Heroes[3].Name
 msgid "Matriarch"
-msgstr ""
+msgstr "Matriarcha"
 
 #: simulation/data/civs/gohma.json:Factions[0].Technologies[0].Name
 msgid "Farms, Fruit, Meat, Fish, Corpses, Wood, Stone, Metal, Rupees, and Force Gems"
-msgstr ""
+msgstr "Farmy, Ovoce, Maso, Ryby, Mrtvoly, Dřevo, Kamení, Kovy, Rupie a Klenoty Síly"
 
 #: simulation/data/civs/gohma.json:History
 msgid ""
@@ -713,7 +713,7 @@ msgstr ""
 
 #: simulation/data/civs/gohma.json:Name
 msgid "Gohma"
-msgstr ""
+msgstr "Góma"
 
 #: simulation/data/civs/gohma.json:Structures[0].History
 msgid ""
@@ -727,7 +727,7 @@ msgstr ""
 
 #: simulation/data/civs/gohma.json:Structures[0].Name
 msgid "Wonder: Eyes of Vitreous"
-msgstr ""
+msgstr "Div: Oči Sklivce"
 
 #: simulation/data/civs/gohma.json:Structures[1].History
 msgid ""
@@ -744,35 +744,35 @@ msgstr ""
 
 #: simulation/data/civs/gohma.json:TeamBonuses[0].Description
 msgid "Allies receive +1 pop from each House and Civil Center."
-msgstr ""
+msgstr "Spojenci dostávají +1 ke kapacitě za každý dům a občanské centrum."
 
 #: simulation/data/civs/gohma.json:TeamBonuses[0].Name
 msgid "Hive Regiments"
-msgstr ""
+msgstr "Pluky z Úlu"
 
 #: simulation/data/civs/goron.json:AINames[0]
 msgid "King Darunia, Sage of Fire"
-msgstr ""
+msgstr "Král Darunia, Mudrc Ohně"
 
 #: simulation/data/civs/goron.json:AINames[1]
 msgid "Daruk the Elder"
-msgstr ""
+msgstr "Stařešina Daruk"
 
 #: simulation/data/civs/goron.json:AINames[2]
 msgid "Dangoro, Guardian of Death Mountain"
-msgstr ""
+msgstr "Dangoro, Strážce Hory smrti"
 
 #: simulation/data/civs/goron.json:AINames[3]
 msgid "Medigoron, Leader of the Brotherhood"
-msgstr ""
+msgstr "Mezigoron, Vůdce Bratrstva"
 
 #: simulation/data/civs/goron.json:AINames[4]
 msgid "Gor Ebizo"
-msgstr ""
+msgstr "Gor Ebizo"
 
 #: simulation/data/civs/goron.json:AINames[5]
 msgid "Gor Coron"
-msgstr ""
+msgstr "Gor Koron"
 
 #: simulation/data/civs/goron.json:CivBonuses[0].Description
 msgid "Goron Miners can carry 20% more resources than other faction's worker units."
@@ -780,7 +780,7 @@ msgstr ""
 
 #: simulation/data/civs/goron.json:CivBonuses[0].Name
 msgid "Strength Greater than Men"
-msgstr ""
+msgstr "Síla nad Člověka"
 
 #: simulation/data/civs/goron.json:CivBonuses[1].Description
 msgid "Defensive Emplacements build 25% faster."
@@ -788,7 +788,7 @@ msgstr ""
 
 #: simulation/data/civs/goron.json:CivBonuses[1].Name
 msgid "Mountain Defenders"
-msgstr ""
+msgstr "Obránci Hory"
 
 #: simulation/data/civs/goron.json:CivBonuses[2].Description
 msgid "Stronghold can be built in Town Phase instead of City Phase."
@@ -796,7 +796,7 @@ msgstr ""
 
 #: simulation/data/civs/goron.json:CivBonuses[2].Name
 msgid "Protectors of the Earth"
-msgstr ""
+msgstr "Ochránci Země"
 
 #: simulation/data/civs/goron.json:Factions[0].Heroes[0].History
 msgid ""
@@ -811,7 +811,7 @@ msgstr ""
 
 #: simulation/data/civs/goron.json:Factions[0].Heroes[0].Name
 msgid "Darunia, Sage of Fire"
-msgstr ""
+msgstr "Darunia, Mudrc Ohně"
 
 #: simulation/data/civs/goron.json:Factions[0].Heroes[1].History
 msgid ""
@@ -827,7 +827,7 @@ msgstr ""
 
 #: simulation/data/civs/goron.json:Factions[0].Heroes[1].Name
 msgid "Elder Daruk"
-msgstr ""
+msgstr "Stařešina Daruk"
 
 #: simulation/data/civs/goron.json:Factions[0].Heroes[2].History
 msgid ""
@@ -841,7 +841,7 @@ msgstr ""
 
 #: simulation/data/civs/goron.json:Factions[0].Heroes[2].Name
 msgid "Dangoro"
-msgstr ""
+msgstr "Dangoro"
 
 #: simulation/data/civs/goron.json:Factions[0].Heroes[3].History
 msgid ""
@@ -856,11 +856,11 @@ msgstr ""
 
 #: simulation/data/civs/goron.json:Factions[0].Heroes[3].Name
 msgid "Medigoron"
-msgstr ""
+msgstr "Mezigoron"
 
 #: simulation/data/civs/goron.json:Factions[0].Technologies[0].Name
 msgid "Rock Sirloin, Stone, Metal, Rupees, Gold, and Force Gems"
-msgstr ""
+msgstr "Skalní Roštěnec, Kamení, Kovy, Rupie, Zlato a Klenoty Síly"
 
 #: simulation/data/civs/goron.json:History
 msgid ""
@@ -873,7 +873,7 @@ msgstr ""
 
 #: simulation/data/civs/goron.json:Name
 msgid "Gorons"
-msgstr ""
+msgstr "Goroni"
 
 #: simulation/data/civs/goron.json:Structures[0].History
 msgid ""
@@ -886,7 +886,7 @@ msgstr ""
 
 #: simulation/data/civs/goron.json:Structures[0].Name
 msgid "Wonder: Urn of Maphaeus"
-msgstr ""
+msgstr "Div: Mafaeina Urna"
 
 #: simulation/data/civs/goron.json:Structures[1].History
 msgid ""
@@ -900,43 +900,43 @@ msgstr ""
 
 #: simulation/data/civs/goron.json:Structures[1].Name
 msgid "Titan: Biggoron"
-msgstr ""
+msgstr "Mýt: Velgoron"
 
 #: simulation/data/civs/goron.json:TeamBonuses[0].Description
 msgid "+10% Health to Allied buildings."
-msgstr ""
+msgstr "+10% zdraví spojeneckým budovám."
 
 #: simulation/data/civs/goron.json:TeamBonuses[0].Name
 msgid "Mountain Masonry"
-msgstr ""
+msgstr "Horské Zdivo"
 
 #: simulation/data/civs/hylian.json:AINames[2]
 msgid "Lana"
-msgstr ""
+msgstr "Lana"
 
 #: simulation/data/civs/hylian.json:AINames[3]
 msgid "Captain Krin"
-msgstr ""
+msgstr "Kapitán Krin"
 
 #: simulation/data/civs/hylian.json:AINames[4]
 msgid "Seres"
-msgstr ""
+msgstr "Seres"
 
 #: simulation/data/civs/hylian.json:CivBonuses[0].Description
 msgid "25% Territory influence for all Town Halls."
-msgstr ""
+msgstr "+20% generovaného teritoria pro všechny radnice."
 
 #: simulation/data/civs/hylian.json:CivBonuses[0].Name
 msgid "Dominant Power"
-msgstr ""
+msgstr "Dominantní Síla"
 
 #: simulation/data/civs/hylian.json:CivBonuses[1].Description
 msgid "Markets generate Territory Rings."
-msgstr ""
+msgstr "Trhy generují teritorium."
 
 #: simulation/data/civs/hylian.json:CivBonuses[1].Name
 msgid "Center of Hyrule"
-msgstr ""
+msgstr "Střed Světa"
 
 #: simulation/data/civs/hylian.json:CivBonuses[2].Description
 msgid "Can build non-military Buildings in neutral Territory adjacent to territory ring."
@@ -944,7 +944,7 @@ msgstr ""
 
 #: simulation/data/civs/hylian.json:CivBonuses[2].Name
 msgid "City Creators"
-msgstr ""
+msgstr "Tvůrci Měst"
 
 #: simulation/data/civs/hylian.json:Factions[0].Heroes[0].History
 msgid ""
@@ -959,7 +959,7 @@ msgstr ""
 #: simulation/data/civs/hylian.json:AINames[0]
 #: simulation/data/civs/hylian.json:Factions[0].Heroes[0].Name
 msgid "Princess Tetralyna Zelda V"
-msgstr ""
+msgstr "Princezna Tetralyna Zelda V"
 
 #: simulation/data/civs/hylian.json:Factions[0].Heroes[1].History
 msgid ""
@@ -975,7 +975,7 @@ msgstr ""
 #: simulation/data/civs/hylian.json:AINames[1]
 #: simulation/data/civs/hylian.json:Factions[0].Heroes[1].Name
 msgid "Link, Heir of King Gustaf"
-msgstr ""
+msgstr "Link, Dědic Krále Gustafa"
 
 #: simulation/data/civs/hylian.json:Factions[0].Heroes[2].History
 msgid ""
@@ -988,7 +988,7 @@ msgstr ""
 
 #: simulation/data/civs/hylian.json:Factions[0].Heroes[2].Name
 msgid "Lanafi Valashi"
-msgstr ""
+msgstr "Lana Valaši"
 
 #: simulation/data/civs/hylian.json:Factions[0].Heroes[3].History
 msgid ""
@@ -1003,7 +1003,7 @@ msgstr ""
 #: simulation/data/civs/hylian.json:AINames[5]
 #: simulation/data/civs/hylian.json:Factions[0].Heroes[3].Name
 msgid "Rauru, Sage of Light"
-msgstr ""
+msgstr "Rauru, Mudrc Světla"
 
 #: simulation/data/civs/hylian.json:History
 msgid ""
@@ -1015,7 +1015,7 @@ msgstr ""
 
 #: simulation/data/civs/hylian.json:Name
 msgid "Kingdom of Hyrule"
-msgstr ""
+msgstr "Království Hyliánské"
 
 #: simulation/data/civs/hylian.json:Structures[0].History
 msgid ""
@@ -1027,7 +1027,7 @@ msgstr ""
 
 #: simulation/data/civs/hylian.json:Structures[0].Name
 msgid "Wonder: Temple of Time"
-msgstr ""
+msgstr "Div: Chrám Času"
 
 #: simulation/data/civs/hylian.json:Structures[1].History
 msgid ""
@@ -1038,19 +1038,19 @@ msgstr ""
 
 #: simulation/data/civs/hylian.json:Structures[1].Name
 msgid "Titan: Fi, Spirit of the Master Sword"
-msgstr ""
+msgstr "Mýt: Fi, Duše Meče Pánů"
 
 #: simulation/data/civs/hylian.json:TeamBonuses[0].Description
 msgid "Allied Civil Centers gain +10% Territory Influence."
-msgstr ""
+msgstr "Spojenecká občanská centra generují +10% teritoria."
 
 #: simulation/data/civs/hylian.json:TeamBonuses[0].Name
 msgid "Vassals"
-msgstr ""
+msgstr "Vazalové"
 
 #: simulation/data/civs/kokiri.json:AINames[3]
 msgid "Gulley"
-msgstr ""
+msgstr "Rokla"
 
 #: simulation/data/civs/kokiri.json:CivBonuses[0].Description
 msgid ""
@@ -1060,7 +1060,7 @@ msgstr ""
 
 #: simulation/data/civs/kokiri.json:CivBonuses[0].Name
 msgid "Blessed Fertility"
-msgstr ""
+msgstr "Požehnaná Plodnost"
 
 #: simulation/data/civs/kokiri.json:CivBonuses[1].Description
 msgid "Kokiri buildings do not decay outside of territory, they only lose ownership."
@@ -1068,15 +1068,15 @@ msgstr ""
 
 #: simulation/data/civs/kokiri.json:CivBonuses[1].Name
 msgid "Forest Symbiosis"
-msgstr ""
+msgstr "Lesní Symbióza"
 
 #: simulation/data/civs/kokiri.json:CivBonuses[2].Description
 msgid "All Kokiri units are invisible when standing still."
-msgstr ""
+msgstr "Všechny Kokirské jednotky jsou neviditelné když stojí na místě."
 
 #: simulation/data/civs/kokiri.json:CivBonuses[2].Name
 msgid "Camouflage"
-msgstr ""
+msgstr "Kamufláž"
 
 #: simulation/data/civs/kokiri.json:Factions[0].Heroes[0].History
 msgid ""
@@ -1089,7 +1089,7 @@ msgstr ""
 #: simulation/data/civs/kokiri.json:AINames[0]
 #: simulation/data/civs/kokiri.json:Factions[0].Heroes[0].Name
 msgid "Saria, Sage of Forests"
-msgstr ""
+msgstr "Sárie, Mudryně LEsů"
 
 #: simulation/data/civs/kokiri.json:Factions[0].Heroes[1].History
 msgid ""
@@ -1102,7 +1102,7 @@ msgstr ""
 #: simulation/data/civs/kokiri.json:AINames[1]
 #: simulation/data/civs/kokiri.json:Factions[0].Heroes[1].Name
 msgid "Fado"
-msgstr ""
+msgstr "Fado"
 
 #: simulation/data/civs/kokiri.json:Factions[0].Heroes[2].History
 msgid ""
@@ -1114,7 +1114,7 @@ msgstr ""
 #: simulation/data/civs/kokiri.json:AINames[2]
 #: simulation/data/civs/kokiri.json:Factions[0].Heroes[2].Name
 msgid "Chief Mirora"
-msgstr ""
+msgstr "Náčelnice Mirora"
 
 #: simulation/data/civs/kokiri.json:Factions[0].Heroes[3].History
 msgid ""
@@ -1124,11 +1124,11 @@ msgstr ""
 
 #: simulation/data/civs/kokiri.json:Factions[0].Heroes[3].Name
 msgid "Prince Kasuto"
-msgstr ""
+msgstr "Princ Kasuto"
 
 #: simulation/data/civs/kokiri.json:Factions[0].Technologies[0].Name
 msgid "Food, Wood, Stone, and Rupees"
-msgstr ""
+msgstr "Jídlo, Dřevo, Kamení a Rupie"
 
 #: simulation/data/civs/kokiri.json:History
 msgid ""
@@ -1141,11 +1141,11 @@ msgstr ""
 
 #: simulation/data/civs/kokiri.json:Name
 msgid "Kokiri"
-msgstr ""
+msgstr "Kokirští"
 
 #: simulation/data/civs/kokiri.json:Structures[0].Name
 msgid "Wonder: The Great Deku Tree's Grove"
-msgstr ""
+msgstr "Div: Háj Velkého Deku Stromu"
 
 #: simulation/data/civs/kokiri.json:Structures[0].Special
 msgid ""
@@ -1155,7 +1155,7 @@ msgstr ""
 
 #: simulation/data/civs/kokiri.json:Structures[1].Name
 msgid "Titan: King Kasuto, the Great Deku Tree"
-msgstr ""
+msgstr "Mýt: Král Kasuto, Velký Deku Strom"
 
 #: simulation/data/civs/kokiri.json:Structures[1].Special
 msgid ""
@@ -1167,11 +1167,11 @@ msgstr ""
 
 #: simulation/data/civs/kokiri.json:TeamBonuses[0].Description
 msgid "Allies gain a slow trickle of Material resources."
-msgstr ""
+msgstr "Spojencům se dostává pomalý proud materiálních surovin."
 
 #: simulation/data/civs/kokiri.json:TeamBonuses[0].Name
 msgid "Kin of the Forest"
-msgstr ""
+msgstr "Zrozeni z Lesa"
 
 #: simulation/data/civs/labrynna.json:CivBonuses[0].Description
 msgid "All un-upgraded buildings (but not units) are available to build in the village phase."
@@ -1179,7 +1179,7 @@ msgstr ""
 
 #: simulation/data/civs/labrynna.json:CivBonuses[0].Name
 msgid "Technocratic"
-msgstr ""
+msgstr "Technokraté"
 
 #: simulation/data/civs/labrynna.json:CivBonuses[1].Description
 msgid ""
@@ -1189,7 +1189,7 @@ msgstr ""
 
 #: simulation/data/civs/labrynna.json:CivBonuses[1].Name
 msgid "Annexation"
-msgstr ""
+msgstr "Anexe"
 
 #: simulation/data/civs/labrynna.json:CivBonuses[2].Description
 msgid "Labrynna territory is 50% more resistant to enemy territory push."
@@ -1197,7 +1197,7 @@ msgstr ""
 
 #: simulation/data/civs/labrynna.json:CivBonuses[2].Name
 msgid "Secularism"
-msgstr ""
+msgstr "Sekularismus"
 
 #: simulation/data/civs/labrynna.json:Factions[0].Heroes[0].History
 msgid ""
@@ -1214,7 +1214,7 @@ msgstr ""
 #: simulation/data/civs/labrynna.json:AINames[0]
 #: simulation/data/civs/labrynna.json:Factions[0].Heroes[0].Name
 msgid "Queen Solado Ambi"
-msgstr ""
+msgstr "Královna Solado Ambi"
 
 #: simulation/data/civs/labrynna.json:Factions[0].Heroes[1].History
 msgid ""
@@ -1232,7 +1232,7 @@ msgstr ""
 #: simulation/data/civs/labrynna.json:AINames[1]
 #: simulation/data/civs/labrynna.json:Factions[0].Heroes[1].Name
 msgid "Veran, Sorceress of Shadows"
-msgstr ""
+msgstr "Veran, Čarodejka Stínů"
 
 #: simulation/data/civs/labrynna.json:Factions[0].Heroes[2].History
 msgid ""
@@ -1248,7 +1248,7 @@ msgstr ""
 #: simulation/data/civs/labrynna.json:AINames[2]
 #: simulation/data/civs/labrynna.json:Factions[0].Heroes[2].Name
 msgid "Prince Ralphonso Ambi"
-msgstr ""
+msgstr "Princ Ralfonso Ambi"
 
 #: simulation/data/civs/labrynna.json:Factions[0].Heroes[3].History
 msgid ""
@@ -1264,7 +1264,7 @@ msgstr ""
 #: simulation/data/civs/labrynna.json:AINames[3]
 #: simulation/data/civs/labrynna.json:Factions[0].Heroes[3].Name
 msgid "Edgar the Giant"
-msgstr ""
+msgstr "Obr Edgar"
 
 #: simulation/data/civs/labrynna.json:History
 msgid ""
@@ -1277,7 +1277,7 @@ msgstr ""
 
 #: simulation/data/civs/labrynna.json:Name
 msgid "Kingdom of Labrynna"
-msgstr ""
+msgstr "Království Labrynnské"
 
 #: simulation/data/civs/labrynna.json:Structures[0].History
 msgid ""
@@ -1289,7 +1289,7 @@ msgstr ""
 
 #: simulation/data/civs/labrynna.json:Structures[0].Name
 msgid "Wonder: The Black Tower"
-msgstr ""
+msgstr "Div: Černá Věž"
 
 #: simulation/data/civs/labrynna.json:Structures[1].History
 msgid ""
@@ -1304,7 +1304,7 @@ msgstr ""
 
 #: simulation/data/civs/labrynna.json:Structures[1].Name
 msgid "Titan: The Maku Tree of Labrynna"
-msgstr ""
+msgstr "Mýt: Maku Strom z Labrynny"
 
 #: simulation/data/civs/labrynna.json:TeamBonuses[0].Description
 msgid "10% time reduction to all ally research times."
@@ -1312,7 +1312,7 @@ msgstr ""
 
 #: simulation/data/civs/labrynna.json:TeamBonuses[0].Name
 msgid "Scientific Method"
-msgstr ""
+msgstr "Vědecká Metoda"
 
 #: simulation/data/civs/lanayru.json:CivBonuses[0].Description
 msgid "All land units can move or swim through deep water."
@@ -1321,7 +1321,7 @@ msgstr ""
 #: simulation/data/civs/lanayru.json:CivBonuses[0].Name
 #: simulation/data/civs/zora.json:CivBonuses[0].Name
 msgid "Aquatic"
-msgstr ""
+msgstr "Obojživelní"
 
 #: simulation/data/civs/lanayru.json:CivBonuses[1].Description
 msgid ""
@@ -1331,7 +1331,7 @@ msgstr ""
 
 #: simulation/data/civs/lanayru.json:CivBonuses[1].Name
 msgid "Volunteer Armies"
-msgstr ""
+msgstr "Dobrovolnické Armády"
 
 #: simulation/data/civs/lanayru.json:CivBonuses[2].Description
 msgid ""
@@ -1341,7 +1341,7 @@ msgstr ""
 
 #: simulation/data/civs/lanayru.json:CivBonuses[2].Name
 msgid "Kingdom of the Silver Snake"
-msgstr ""
+msgstr "Království Stříbrného Hada"
 
 #: simulation/data/civs/lanayru.json:Factions[0].Heroes[0].History
 msgid ""
@@ -1357,7 +1357,7 @@ msgstr ""
 #: simulation/data/civs/lanayru.json:AINames[0]
 #: simulation/data/civs/lanayru.json:Factions[0].Heroes[0].Name
 msgid "Queen Rutela"
-msgstr ""
+msgstr "Královna Rutela"
 
 #: simulation/data/civs/lanayru.json:Factions[0].Heroes[1].History
 msgid ""
@@ -1374,7 +1374,7 @@ msgstr ""
 #: simulation/data/civs/lanayru.json:AINames[1]
 #: simulation/data/civs/lanayru.json:Factions[0].Heroes[1].Name
 msgid "Prince Ralis"
-msgstr ""
+msgstr "Princ Ralis"
 
 #: simulation/data/civs/lanayru.json:Factions[0].Heroes[2].History
 msgid ""
@@ -1391,7 +1391,7 @@ msgstr ""
 #: simulation/data/civs/lanayru.json:AINames[2]
 #: simulation/data/civs/lanayru.json:Factions[0].Heroes[2].Name
 msgid "Aydia Dorephan"
-msgstr ""
+msgstr "Aidie Dorfanská"
 
 #: simulation/data/civs/lanayru.json:Factions[0].Heroes[3].History
 msgid ""
@@ -1408,13 +1408,13 @@ msgstr ""
 #: simulation/data/civs/lanayru.json:AINames[3]
 #: simulation/data/civs/lanayru.json:Factions[0].Heroes[3].Name
 msgid "Mipha Dorephan"
-msgstr ""
+msgstr "Mifa Dorfanská"
 
 #: simulation/data/civs/lanayru.json:Factions[0].Technologies[0].Name
 msgid ""
 "Food: Farms, Fruit, Meat, Fish, Material: Stone Ore: Metal, Coralmold Currency: Rupees,"
 " Gold, Force Gems"
-msgstr ""
+msgstr "Farmy, Ovoce, Maso, Ryby, Kamení, Kovy, Korájíl, Rupie, Zlato, Klenoty Síly"
 
 #: simulation/data/civs/lanayru.json:History
 msgid ""
@@ -1427,11 +1427,11 @@ msgstr ""
 
 #: simulation/data/civs/lanayru.json:Name
 msgid "Lanayru Province"
-msgstr ""
+msgstr "Provincie Lanajru"
 
 #: simulation/data/civs/lanayru.json:Structures[0].Name
 msgid "Wonder: Rutala Dam"
-msgstr ""
+msgstr "Div: Rutalská Přehrada"
 
 #: simulation/data/civs/lanayru.json:Structures[0].Special
 msgid ""
@@ -1442,7 +1442,7 @@ msgstr ""
 
 #: simulation/data/civs/lanayru.json:Structures[1].Name
 msgid "Titan: Vrylonacia, Spirit of Lanayru"
-msgstr ""
+msgstr "Mýt: Vrylonácie, Duše Lanajru"
 
 #: simulation/data/civs/lanayru.json:Structures[1].Special
 msgid ""
@@ -1460,7 +1460,7 @@ msgstr ""
 
 #: simulation/data/civs/lanayru.json:TeamBonuses[0].Name
 msgid "International Banking"
-msgstr ""
+msgstr "Mezinárodní Bankovnictví"
 
 #: simulation/data/civs/lizalfos.json:CivBonuses[0].Description
 msgid ""
@@ -1502,7 +1502,7 @@ msgstr ""
 #: simulation/data/civs/lizalfos.json:AINames[0]
 #: simulation/data/civs/lizalfos.json:Factions[0].Heroes[0].Name
 msgid "Nardu the White"
-msgstr ""
+msgstr "Nardu Bílá"
 
 #: simulation/data/civs/lizalfos.json:Factions[0].Heroes[1].History
 msgid ""
@@ -1517,7 +1517,7 @@ msgstr ""
 #: simulation/data/civs/lizalfos.json:AINames[1]
 #: simulation/data/civs/lizalfos.json:Factions[0].Heroes[1].Name
 msgid "Vakat the Winged"
-msgstr ""
+msgstr "Vakat Okřídlený"
 
 #: simulation/data/civs/lizalfos.json:Factions[0].Heroes[2].History
 msgid ""
@@ -1534,7 +1534,7 @@ msgstr ""
 #: simulation/data/civs/lizalfos.json:AINames[2]
 #: simulation/data/civs/lizalfos.json:Factions[0].Heroes[2].Name
 msgid "Talik the Red"
-msgstr ""
+msgstr "Talik Rudá"
 
 #: simulation/data/civs/lizalfos.json:Factions[0].Heroes[3].History
 msgid ""
@@ -1550,12 +1550,12 @@ msgstr ""
 #: simulation/data/civs/lizalfos.json:AINames[3]
 #: simulation/data/civs/lizalfos.json:Factions[0].Heroes[3].Name
 msgid "Okakusha the Green"
-msgstr ""
+msgstr "Okakuša Zelená"
 
 #: simulation/data/civs/lizalfos.json:Factions[0].Technologies[0].Name
 #: simulation/data/civs/moblin.json:Factions[0].Technologies[0].Name
 msgid "Meat, Fish, Wood, Stone, Metal, Rupees, Gold, and Force Gems"
-msgstr ""
+msgstr "Maso, Ryby, Dřevo, Kamení, Kovy, Rupie, Zlato a Klenoty Síly"
 
 #: simulation/data/civs/lizalfos.json:History
 msgid ""
@@ -1568,7 +1568,7 @@ msgstr ""
 
 #: simulation/data/civs/lizalfos.json:Name
 msgid "Lizalfos"
-msgstr ""
+msgstr "Ještěrfosové"
 
 #: simulation/data/civs/lizalfos.json:Structures[0].History
 msgid ""
@@ -1581,7 +1581,7 @@ msgstr ""
 
 #: simulation/data/civs/lizalfos.json:Structures[0].Name
 msgid "Wonders: Eastern Palace and Turtle Rock"
-msgstr ""
+msgstr "Divy: Východní palác a Želví skála"
 
 #: simulation/data/civs/lizalfos.json:Structures[1].History
 msgid ""
@@ -1594,7 +1594,7 @@ msgstr ""
 
 #: simulation/data/civs/lizalfos.json:Structures[1].Name
 msgid "Titan: Garnyle Og, the Helmasaur King"
-msgstr ""
+msgstr "Mýt: Garnyle Og, Král Helmasaurů"
 
 #: simulation/data/civs/lizalfos.json:Structures[2].History
 msgid ""
@@ -1607,7 +1607,7 @@ msgstr ""
 
 #: simulation/data/civs/lizalfos.json:Structures[2].Name
 msgid "Titan: Trinexx, Lord of Turtle Rock"
-msgstr ""
+msgstr "Mýt: Trinexx, Pán Želví skály"
 
 #: simulation/data/civs/lizalfos.json:TeamBonuses[0].Description
 msgid ""
@@ -1639,7 +1639,7 @@ msgstr ""
 #: simulation/data/civs/npc_zuna.json:Structures[0].Name
 #: simulation/data/civs/npc_zuna.json:TeamBonuses[0].Name
 msgid "None"
-msgstr ""
+msgstr "Nic"
 
 #: simulation/data/civs/minor_lonlon.json:Factions[0].Heroes[0].History
 #: simulation/data/civs/npc_lonlon.json:Factions[0].Heroes[0].History
@@ -1658,7 +1658,7 @@ msgstr ""
 #: simulation/data/civs/npc_tokay.json:AINames[0]
 #: simulation/data/civs/npc_zuna.json:AINames[0]
 msgid "Malon"
-msgstr ""
+msgstr "Malon"
 
 #: simulation/data/civs/minor_lonlon.json:History
 #: simulation/data/civs/npc_lonlon.json:History
@@ -1671,7 +1671,7 @@ msgstr ""
 
 #: simulation/data/civs/minor_lonlon.json:Name simulation/data/civs/npc_lonlon.json:Name
 msgid "Lon Lon Ranch"
-msgstr ""
+msgstr "Ranč Lon Lon"
 
 #: simulation/data/civs/minor_tokay.json:Factions[0].Heroes[0].History
 #: simulation/data/civs/npc_tokay.json:Factions[0].Heroes[0].History
@@ -1685,7 +1685,7 @@ msgstr ""
 #: simulation/data/civs/minor_tokay.json:Factions[0].Heroes[0].Name
 #: simulation/data/civs/npc_tokay.json:Factions[0].Heroes[0].Name
 msgid "Tokay Big Boss Otaylo"
-msgstr ""
+msgstr "Velká Šéfka Plazounů Otajlo"
 
 #: simulation/data/civs/minor_tokay.json:History simulation/data/civs/npc_tokay.json:History
 msgid ""
@@ -1699,7 +1699,7 @@ msgstr ""
 
 #: simulation/data/civs/minor_tokay.json:Name simulation/data/civs/npc_tokay.json:Name
 msgid "Tokay"
-msgstr ""
+msgstr "Plazouni"
 
 #: simulation/data/civs/minor_zuna.json:Factions[0].Heroes[0].History
 #: simulation/data/civs/npc_zuna.json:Factions[0].Heroes[0].History
@@ -1714,7 +1714,7 @@ msgstr ""
 #: simulation/data/civs/minor_zuna.json:Factions[0].Heroes[0].Name
 #: simulation/data/civs/npc_zuna.json:Factions[0].Heroes[0].Name
 msgid "Master Vorday"
-msgstr ""
+msgstr "Pán Vordaj"
 
 #: simulation/data/civs/minor_zuna.json:History simulation/data/civs/npc_zuna.json:History
 msgid ""
@@ -1729,7 +1729,7 @@ msgstr ""
 
 #: simulation/data/civs/minor_zuna.json:Name simulation/data/civs/npc_zuna.json:Name
 msgid "Zuna"
-msgstr ""
+msgstr "Zunové"
 
 #: simulation/data/civs/moblin.json:CivBonuses[0].Description
 msgid "All Soldier units can gather meat and gain Resources for each attack against buildings."
@@ -1737,7 +1737,7 @@ msgstr ""
 
 #: simulation/data/civs/moblin.json:CivBonuses[0].Name
 msgid "Pillagin' is the Best!"
-msgstr ""
+msgstr "Drancování je Žúžo!"
 
 #: simulation/data/civs/moblin.json:CivBonuses[1].Description
 msgid "+10 Free Population cap bonus, even if you control no house structures."
@@ -1745,7 +1745,7 @@ msgstr ""
 
 #: simulation/data/civs/moblin.json:CivBonuses[1].Name
 msgid "Pssh We Don't Need no Fancy Beds!"
-msgstr ""
+msgstr "Pfft nepotřebujem žádný nóbl postele!"
 
 #: simulation/data/civs/moblin.json:CivBonuses[2].Description
 msgid ""
@@ -1755,7 +1755,7 @@ msgstr ""
 
 #: simulation/data/civs/moblin.json:CivBonuses[2].Name
 msgid "Moblins need to stinky Towns!"
-msgstr ""
+msgstr "Moblini nepotřebujou žádný blbý města!"
 
 #: simulation/data/civs/moblin.json:Factions[0].Heroes[0].History
 msgid ""
@@ -1770,7 +1770,7 @@ msgstr ""
 #: simulation/data/civs/moblin.json:AINames[0]
 #: simulation/data/civs/moblin.json:Factions[0].Heroes[0].Name
 msgid "Ganon"
-msgstr ""
+msgstr "Ganon"
 
 #: simulation/data/civs/moblin.json:Factions[0].Heroes[1].History
 msgid ""
@@ -1783,7 +1783,7 @@ msgstr ""
 #: simulation/data/civs/moblin.json:AINames[1]
 #: simulation/data/civs/moblin.json:Factions[0].Heroes[1].Name
 msgid "King Bulblin"
-msgstr ""
+msgstr "Král Bulblin"
 
 #: simulation/data/civs/moblin.json:Factions[0].Heroes[2].History
 msgid ""
@@ -1796,7 +1796,7 @@ msgstr ""
 #: simulation/data/civs/moblin.json:AINames[2]
 #: simulation/data/civs/moblin.json:Factions[0].Heroes[2].Name
 msgid "Ogalon"
-msgstr ""
+msgstr "Ogalon"
 
 #: simulation/data/civs/moblin.json:Factions[0].Heroes[3].History
 msgid ""
@@ -1809,7 +1809,7 @@ msgstr ""
 #: simulation/data/civs/moblin.json:AINames[3]
 #: simulation/data/civs/moblin.json:Factions[0].Heroes[3].Name
 msgid "Ghirahim"
-msgstr ""
+msgstr "Gírahim"
 
 #: simulation/data/civs/moblin.json:History
 msgid ""
@@ -1822,7 +1822,7 @@ msgstr ""
 
 #: simulation/data/civs/moblin.json:Name
 msgid "Moblins"
-msgstr ""
+msgstr "Moblini"
 
 #: simulation/data/civs/moblin.json:Structures[0].History
 msgid ""
@@ -1837,7 +1837,7 @@ msgstr ""
 
 #: simulation/data/civs/moblin.json:Structures[0].Name
 msgid "Wonder: Ganon's Castle"
-msgstr ""
+msgstr "Div: Ganonův Hrad"
 
 #: simulation/data/civs/moblin.json:Structures[1].History
 msgid ""
@@ -1850,7 +1850,7 @@ msgstr ""
 
 #: simulation/data/civs/moblin.json:Structures[1].Name
 msgid "Titan: Ukbklinro, Bringer of Demise"
-msgstr ""
+msgstr "Mýt: Ukblinro, Zkázonoš"
 
 #: simulation/data/civs/moblin.json:TeamBonuses[0].Description
 msgid "Allied Mechanical Siege units gain a 10% increase in damage and gain +10% range."
@@ -1858,7 +1858,7 @@ msgstr ""
 
 #: simulation/data/civs/moblin.json:TeamBonuses[0].Name
 msgid "We Tell Ya How to Tear Down!"
-msgstr ""
+msgstr "Ti ukážu jak se bourá!"
 
 #: simulation/data/civs/ordona.json:CivBonuses[0].Description
 msgid ""
@@ -1897,7 +1897,7 @@ msgstr ""
 #: simulation/data/civs/ordona.json:AINames[0]
 #: simulation/data/civs/ordona.json:Factions[0].Heroes[0].Name
 msgid "Mayor Bo"
-msgstr ""
+msgstr "Starosta Bo"
 
 #: simulation/data/civs/ordona.json:Factions[0].Heroes[1].History
 msgid ""
@@ -1910,7 +1910,7 @@ msgstr ""
 #: simulation/data/civs/ordona.json:AINames[1]
 #: simulation/data/civs/ordona.json:Factions[0].Heroes[1].Name
 msgid "Ilia"
-msgstr ""
+msgstr "Ilie"
 
 #: simulation/data/civs/ordona.json:Factions[0].Heroes[2].History
 msgid ""
@@ -1924,7 +1924,7 @@ msgstr ""
 #: simulation/data/civs/ordona.json:AINames[2]
 #: simulation/data/civs/ordona.json:Factions[0].Heroes[2].Name
 msgid "Rusl"
-msgstr ""
+msgstr "Rasl"
 
 #: simulation/data/civs/ordona.json:Factions[0].Heroes[3].History
 msgid ""
@@ -1937,13 +1937,13 @@ msgstr ""
 #: simulation/data/civs/ordona.json:AINames[3]
 #: simulation/data/civs/ordona.json:Factions[0].Heroes[3].Name
 msgid "Ashei"
-msgstr ""
+msgstr "Ašej"
 
 #: simulation/data/civs/ordona.json:Factions[0].Technologies[0].Name
 msgid ""
 "Food: Farms, Fruit, Meat, Fish, Material: Wood, Stone, Ore: Metal, Currency: Rupees, "
 "Gold, Force Gems"
-msgstr ""
+msgstr "Farmy, Ovoce, Maso, Ryby, Dřevo, Kamení, Kovy, Rupie, Zlato, Klenoty Síly"
 
 #: simulation/data/civs/ordona.json:History
 msgid ""
@@ -1956,11 +1956,11 @@ msgstr ""
 
 #: simulation/data/civs/ordona.json:Name
 msgid "Ordona Province"
-msgstr ""
+msgstr "Provincie Ordona"
 
 #: simulation/data/civs/ordona.json:Structures[0].Name
 msgid "Wonder: Ordon Spring"
-msgstr ""
+msgstr "Div: Ordonský Pramen"
 
 #: simulation/data/civs/ordona.json:Structures[0].Special
 msgid ""
@@ -1972,7 +1972,7 @@ msgstr ""
 
 #: simulation/data/civs/ordona.json:Structures[1].Name
 msgid "Titan: Latoan, Spirit of Ordona"
-msgstr ""
+msgstr "Mýt: Ordona, Duše Ordony"
 
 #: simulation/data/civs/ordona.json:Structures[1].Special
 msgid ""
@@ -1997,19 +1997,19 @@ msgstr ""
 
 #: simulation/data/civs/sheikah.json:AINames[0]
 msgid "Paya"
-msgstr ""
+msgstr "Pája"
 
 #: simulation/data/civs/sheikah.json:AINames[1]
 msgid "Purah"
-msgstr ""
+msgstr "Pura"
 
 #: simulation/data/civs/sheikah.json:CivBonuses[0].Description
 msgid "The Sheikah can retrieve Line of Sight from a randomized enemy unit via their Clan Hall."
-msgstr ""
+msgstr "Šejkové mohou vidět svět z pohledu náhodné nepřátelské jednotky pomocí své Klanové Haly."
 
 #: simulation/data/civs/sheikah.json:CivBonuses[0].Name
 msgid "Double Agent"
-msgstr ""
+msgstr "Dvojtý Agent"
 
 #: simulation/data/civs/sheikah.json:Factions[0].Heroes[0].History
 msgid ""
@@ -2022,7 +2022,7 @@ msgstr ""
 #: simulation/data/civs/sheikah.json:AINames[2]
 #: simulation/data/civs/sheikah.json:Factions[0].Heroes[0].Name
 msgid "Sheik"
-msgstr ""
+msgstr "Šejk"
 
 #: simulation/data/civs/sheikah.json:Factions[0].Heroes[1].History
 msgid ""
@@ -2037,7 +2037,7 @@ msgstr ""
 #: simulation/data/civs/sheikah.json:AINames[3]
 #: simulation/data/civs/sheikah.json:Factions[0].Heroes[1].Name
 msgid "Kohga"
-msgstr ""
+msgstr "Kóga"
 
 #: simulation/data/civs/sheikah.json:Factions[0].Heroes[2].History
 msgid ""
@@ -2054,7 +2054,7 @@ msgstr ""
 #: simulation/data/civs/sheikah.json:AINames[4]
 #: simulation/data/civs/sheikah.json:Factions[0].Heroes[2].Name
 msgid "Impa"
-msgstr ""
+msgstr "Impa"
 
 #: simulation/data/civs/sheikah.json:Factions[0].Heroes[3].History
 msgid ""
@@ -2069,7 +2069,7 @@ msgstr ""
 #: simulation/data/civs/sheikah.json:AINames[5]
 #: simulation/data/civs/sheikah.json:Factions[0].Heroes[3].Name
 msgid "Maz Koshia"
-msgstr ""
+msgstr "Maz Košia"
 
 #: simulation/data/civs/sheikah.json:History
 msgid ""
@@ -2082,7 +2082,7 @@ msgstr ""
 
 #: simulation/data/civs/sheikah.json:Name
 msgid "Sheikah Cadre"
-msgstr ""
+msgstr "Kádr Šejkský"
 
 #: simulation/data/civs/sheikah.json:Structures[0].History
 msgid ""
@@ -2094,7 +2094,7 @@ msgstr ""
 
 #: simulation/data/civs/sheikah.json:Structures[0].Name
 msgid "Wonder: Shadow Seal"
-msgstr ""
+msgstr "Div: Pečeť Stínů"
 
 #: simulation/data/civs/sheikah.json:Structures[1].History
 msgid ""
@@ -2109,42 +2109,42 @@ msgstr ""
 
 #: simulation/data/civs/sheikah.json:Structures[1].Name
 msgid "Titan: Bongo Bongo"
-msgstr ""
+msgstr "Mýt: Bongo Bongo"
 
 #: simulation/data/civs/stalfos.json:AINames[0]
 msgid "Dampe"
-msgstr ""
+msgstr "Dampé"
 
 #: simulation/data/civs/stalfos.json:AINames[1]
 msgid "Gabora"
-msgstr ""
+msgstr "Gabora"
 
 #: simulation/data/civs/stalfos.json:AINames[4]
 msgid "Blind the Thief"
-msgstr ""
+msgstr "Zloděj Slepec"
 
 #: simulation/data/civs/stalfos.json:AINames[2]
 #: simulation/data/civs/stalfos.json:Factions[0].Heroes[0].Name
 msgid "Meg"
-msgstr ""
+msgstr "Meg"
 
 #: simulation/data/civs/stalfos.json:AINames[3]
 #: simulation/data/civs/stalfos.json:Factions[0].Heroes[1].Name
 msgid "Irene"
-msgstr ""
+msgstr "Irena"
 
 #: simulation/data/civs/stalfos.json:Factions[0].Heroes[2].Name
 msgid "Blind"
-msgstr ""
+msgstr "Slepec"
 
 #: simulation/data/civs/stalfos.json:AINames[5]
 #: simulation/data/civs/stalfos.json:Factions[0].Heroes[3].Name
 msgid "Death Sword"
-msgstr ""
+msgstr "Smrtimeč"
 
 #: simulation/data/civs/stalfos.json:Factions[0].Technologies[0].Name
 msgid "Bones, Meat, Stone, Metal, Rupees, Gold, and Force Gems"
-msgstr ""
+msgstr "Kosti, Maso, Kamení, Kovy, Rupie, Zlato a Klenoty Síly"
 
 #: simulation/data/civs/stalfos.json:History
 msgid ""
@@ -2157,23 +2157,23 @@ msgstr ""
 
 #: simulation/data/civs/stalfos.json:Name
 msgid "Stalfos"
-msgstr ""
+msgstr "Stalfosové"
 
 #: simulation/data/civs/stalfos.json:Structures[0].Name
 msgid "Wonder: Arbiter's Grounds"
-msgstr ""
+msgstr "Div: Palác Arbitráže"
 
 #: simulation/data/civs/stalfos.json:Structures[1].Name
 msgid "Titan: Stallord"
-msgstr ""
+msgstr "Mýt: Stalkrál"
 
 #: simulation/data/civs/zora.json:AINames[4]
 msgid "Jabun, Spawn of Lord Jabu Jabu"
-msgstr ""
+msgstr "Džabun, Jikra Pána Džabu Džabu"
 
 #: simulation/data/civs/zora.json:AINames[5]
 msgid "Laruto, the Elder Sage"
-msgstr ""
+msgstr "Laruto, Střešinská Mudryně"
 
 #: simulation/data/civs/zora.json:CivBonuses[0].Description
 msgid "All land units can move through deep water."
@@ -2210,7 +2210,7 @@ msgstr ""
 #: simulation/data/civs/zora.json:AINames[0]
 #: simulation/data/civs/zora.json:Factions[0].Heroes[0].Name
 msgid "King Zora De Bon XVI"
-msgstr ""
+msgstr "Král Zora de Bon XVI"
 
 #: simulation/data/civs/zora.json:Factions[0].Heroes[1].History
 msgid ""
@@ -2227,7 +2227,7 @@ msgstr ""
 #: simulation/data/civs/zora.json:AINames[1]
 #: simulation/data/civs/zora.json:Factions[0].Heroes[1].Name
 msgid "Princess Ruto, Sage of Water"
-msgstr ""
+msgstr "Princezna Ruto, Mudryně Vody"
 
 #: simulation/data/civs/zora.json:Factions[0].Heroes[2].History
 msgid ""
@@ -2242,7 +2242,7 @@ msgstr ""
 #: simulation/data/civs/zora.json:AINames[2]
 #: simulation/data/civs/zora.json:Factions[0].Heroes[2].Name
 msgid "Ambassador Zaleen"
-msgstr ""
+msgstr "Velvyslanec Zalin"
 
 #: simulation/data/civs/zora.json:Factions[0].Heroes[3].History
 msgid ""
@@ -2257,11 +2257,11 @@ msgstr ""
 #: simulation/data/civs/zora.json:AINames[3]
 #: simulation/data/civs/zora.json:Factions[0].Heroes[3].Name
 msgid "Telara, Headmaster Historian"
-msgstr ""
+msgstr "Telara, Vrchní Historička"
 
 #: simulation/data/civs/zora.json:Factions[0].Technologies[0].Name
 msgid "Fruit, Meat, Fish, Stone, Metal, Coralmold, Rupees, Gold, and Force Gems"
-msgstr ""
+msgstr "Ovoce, Maso, Ryby, Kamení, Kovy, Korájíl, Rupie, Zlato a Klenoty Síly"
 
 #: simulation/data/civs/zora.json:History
 msgid ""
@@ -2274,7 +2274,7 @@ msgstr ""
 
 #: simulation/data/civs/zora.json:Name
 msgid "Zora Dominion"
-msgstr ""
+msgstr "Zorské Dominium"
 
 #: simulation/data/civs/zora.json:Structures[0].History
 msgid ""
@@ -2286,7 +2286,7 @@ msgstr ""
 
 #: simulation/data/civs/zora.json:Structures[0].Name
 msgid "Wonder: Shrine of Jabu"
-msgstr ""
+msgstr "Div: Džabuho Svatyně"
 
 #: simulation/data/civs/zora.json:Structures[1].History
 msgid ""
@@ -2301,7 +2301,7 @@ msgstr ""
 
 #: simulation/data/civs/zora.json:Structures[1].Name
 msgid "Titan: Lord Jabu Jabu"
-msgstr ""
+msgstr "Mýt: Pán Džabu Džabu"
 
 #: simulation/data/civs/zora.json:TeamBonuses[0].Description
 msgid "Ally Civic Centers can slowly heal garrisoned units."
