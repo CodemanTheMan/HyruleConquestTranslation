@@ -1306,7 +1306,7 @@ msgstr "Nesmrtelná Temnářka uprostřed znovuzrození."
 
 #: simulation/templates/units/darknut/darknut_jermafenser_b.xml:54
 msgid "Jermafenser"
-msgstr ""
+msgstr "Helmohlav"
 
 #: simulation/templates/units/darknut/darknut_jermafenser_b.xml:55
 msgid ""
@@ -1314,24 +1314,29 @@ msgid ""
 "Standing at nearly ten feet tall, these hulking behemoths slowly mustered their way "
 "into combat, effortlessly slicing apart anything smaller than themselves."
 msgstr ""
+"Helmohlavové byli jedni z nejvyšších a největších Temnářů ve službě Legie. Skoro "
+"ten stop vsocí, tihle mohutní bohatýři si pomalu proráželi cestu do boje a bez "
+námahy řezali na kusy všechno menší než oni."
 
 #: simulation/templates/units/darknut/darknut_jermafenser_b.xml:59
 msgid ""
 "Tall and durable Melee unit that deals tremendous Knockback and Splash Damage. Their "
 "armor is resistant to magic attacks."
 msgstr ""
+"Vysoká a odolná z blízka bojující jednotka která odráží nepřátele na velikou 
+"vzdálenost a způsobuje plošné požkození. Jejich brnění je odolné magickým útokům."
 
 #: simulation/templates/units/darknut/darknut_jermafenser_legendary.xml:52
 msgid "Legendary Jermafenser"
-msgstr ""
+msgstr "Legendárni Helmohlav"
 
 #: simulation/templates/units/darknut/darknut_jermafenser_master.xml:52
 msgid "Master Jermafenser"
-msgstr ""
+msgstr "Mistrovský Helmohlav"
 
 #: simulation/templates/units/darknut/darknut_jermafenser_mighty.xml:44
 msgid "Mighty Jermafenser"
-msgstr ""
+msgstr "Mocný Helmohlav"
 
 #: simulation/templates/units/darknut/darknut_legatus_b.xml:61
 #: simulation/templates/units/darknut/darknut_legatus_half.xml:61
