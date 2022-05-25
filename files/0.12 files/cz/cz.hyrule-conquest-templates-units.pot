@@ -2677,11 +2677,11 @@ msgstr "Pokud jste tohle natrénovali, je to bug. Prosím , oznamte to."
 #: simulation/templates/units/fairy/fairy_banshee_winter.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Magic Wand"
-msgstr ""
+msgstr "Kouzelná Hůlka"
 
 #: simulation/templates/units/fairy/fairy_banshee_b.xml:38
 msgid "Banshee"
-msgstr ""
+msgstr "Kvíla"
 
 #: simulation/templates/units/fairy/fairy_banshee_b.xml:39
 msgid ""
@@ -2691,20 +2691,25 @@ msgid ""
 " those of a gnawing insect took over. Banshees would use their magic wands to attack "
 "their assailants, the method of attack would often change with the seasons."
 msgstr ""
+"Pro mnohé mezi těmi kteří potkaly tyhle humanoidní víly v divočině, Kvíly se zdály jako "
+"půvabné ženy nabízející dárky, pusy, nebo rozpustilé hrátky. Pokud vyprovokovány, "
+"povaha Kvíl se stala jasná když spadly jejich příjemné Hyliánské rysy a byly nahrazeny "
+"těmi hemživého hmyzu. Kvíly používaly svoje kouzelné hůlky aby se bránily proti svým "
+"útočníkům, a metoda útoku se často měnila s ročním obdobím."
 
 #: simulation/templates/units/fairy/fairy_banshee_b.xml:43
 msgid "Close combat Mage unit that attacks its enemies with a magic wand."
-msgstr ""
+msgstr "Bojový mág na blízko který útočí na své nepřátele kouzelnou húlkou."
 
 #: simulation/templates/units/fairy/fairy_bounded_b.xml:4
 #: simulation/templates/units/fairy/fairy_bounded_summer.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Great Fairy Sword"
-msgstr ""
+msgstr "Meč Velkých Víl"
 
 #: simulation/templates/units/fairy/fairy_bounded_b.xml:37
 msgid "Bounded"
-msgstr ""
+msgstr "Svázaná"
 
 #: simulation/templates/units/fairy/fairy_bounded_b.xml:39
 msgid ""
@@ -2713,17 +2718,23 @@ msgid ""
 "armor, cut off from the magic inherent to their race. Their only chance at freedom was "
 "to serve as warrior slaves to their Fairy masters, a task they gladly performed."
 msgstr ""
+"Svázané byly víly které se někdy v minulosti provinily zločinem proti svému vlastnímu "
+"lidu. Jako trest byly uvězněny v živém a trnitém brnění, odříznuty od magie přirozené "
+"jejich rase. Jejich jediná šance na svobodu byla sloužit jako válečné otrokyně jejich "
+"vílím paním, což dělaly s radostí."
 
 #: simulation/templates/units/fairy/fairy_bounded_b.xml:44
 msgid ""
 "Dezaia's Unique Unit. Durable sword armed Melee unit who's abilities change with the "
 "seasons."
 msgstr ""
+"Jednotka kterou může trénovat pouze Dezaja. Odolná mečem ozbrojená pěchota jejíž "
+"schopnosti se mění s ročním obdobím."
 
 #: simulation/templates/units/fairy/fairy_drove_all.xml:32
 #: simulation/templates/units/fairy/fairy_drove_b.xml:32
 msgid "Fairy Drove"
-msgstr ""
+msgstr "Hejno Víl"
 
 #: simulation/templates/units/fairy/fairy_drove_all.xml:33
 #: simulation/templates/units/fairy/fairy_drove_b.xml:33
@@ -2732,16 +2743,19 @@ msgid ""
 "uncountable swarms of glittering Fairies. These massive droves could overwhelm just "
 "about any unprepared force through pure numbers."
 msgstr ""
+"Kdokoliv kdo se vplížil na území víl bez pozvání se často setkal s nespočetným "
+"hejnem třpytivých víl. Tyto masivní hejna dokázaly přemoct jakoukoliv nepřipravenou "
+"sílu pouze díky počtu."
 
 #: simulation/templates/units/fairy/fairy_drove_all.xml:37
 #: simulation/templates/units/fairy/fairy_drove_b.xml:37
 msgid "A swarm of tiny Melee attackers that bite and prick their enemies to death."
-msgstr ""
+msgstr "Hejno malých víl které koušou a bodají své nepřátele."
 
 #: simulation/templates/units/fairy/fairy_fey_b.xml:21
 #: simulation/templates/units/moblin/moblin_demonblight_b.xml:59
 msgid "Heavy Assault Unit"
-msgstr ""
+msgstr "Těžká útočná jednotka"
 
 #: simulation/templates/units/fairy/fairy_fey_b.xml:22
 #: simulation/templates/units/fairy/fairy_fey_gate.xml:11
@@ -2754,32 +2768,37 @@ msgid ""
 " to most conventional weapons; it often took powerful magic in return to halt their "
 "relentless advance."
 msgstr ""
+"Obdařeni životem ze zničeného kamenného zdiva Tarmských zřícenin a zkrouceni do života "
+"podobných tvarů, povaha těchto kouzelných konstruktů je stále tajemstvím. Co je známo "
+"je že přímý boj s nimi byla hrozná chyba. Tyhle mocné stvoření byly odolné proti "
+"většině konvenčních zbraní; často byla nutná mocná magie k zastavení jejich neúnavného "
+"postupu."
 
 #: simulation/templates/units/fairy/fairy_fey_b.xml:26
 #: simulation/templates/units/fairy/fairy_fey_golem.xml:28
 msgid "Fey Golem"
-msgstr ""
+msgstr "Vílí Golem"
 
 #: simulation/templates/units/fairy/fairy_fey_b.xml:27
 msgid "Fey unit of the Fairies of Tarm."
-msgstr ""
+msgstr "Jednotka Víl Tarmu."
 
 #: simulation/templates/units/fairy/fairy_fey_gate.xml:10
 msgid "Fey Gate"
-msgstr ""
+msgstr "Vílí Brána"
 
 #: simulation/templates/units/fairy/fairy_fey_gate.xml:14
 msgid "Moving Support unit that summons additional Fairies to battle anywhere on the map."
-msgstr ""
+msgstr "Podpůrná jednotka která vyvolává Víly do bitvy kdekoliv na mapě."
 
 #: simulation/templates/units/fairy/fairy_fey_golem.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Rock Fists"
-msgstr ""
+msgstr "Kamenné Pěsti"
 
 #: simulation/templates/units/fairy/fairy_fey_golem.xml:32
 msgid "Large durable Melee unit that bashes enemies with its stone-like arms."
-msgstr ""
+msgstr "Mohutná odolná pěšší jednotka která mlátí nepřátele svými kamennými rukami."
 
 #: simulation/templates/units/fairy/fairy_fey_strider.xml:4
 #: simulation/templates/units/fairy/fairy_godmother_b.xml:4
@@ -2796,19 +2815,19 @@ msgstr ""
 #: simulation/templates/units/fairy/fairy_mistwalker_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fairy Magic"
-msgstr ""
+msgstr "Vílí Magie"
 
 #: simulation/templates/units/fairy/fairy_fey_strider.xml:27
 msgid "Fey Strider"
-msgstr ""
+msgstr "Vílí Chodec"
 
 #: simulation/templates/units/fairy/fairy_fey_strider.xml:31
 msgid "Large Siege unit that bombards targets with magic attacks from a distance."
-msgstr ""
+msgstr "Mohutná obléhací jednotka která bombarduje cíle magickými útoky z dáli."
 
 #: simulation/templates/units/fairy/fairy_fey_wisp.xml:16
 msgid "Fey Wisp"
-msgstr ""
+msgstr "Vílí Bludička"
 
 #: simulation/templates/units/fairy/fairy_fey_wisp.xml:17
 msgid ""
@@ -2818,23 +2837,30 @@ msgid ""
 " to most conventional weapons; it often took powerful magic in return to halt their "
 "relentless advance"
 msgstr ""
+"Obdařeni životem ze zničeného kamenného zdiva Tarmských zřícenin a zkrouceni do života "
+"podobných tvarů, povaha těchto kouzelných konstruktů je stále tajemstvím. Co je známo "
+"je že přímý boj s nimi byla hrozná chyba. Tyhle mocné stvoření byly odolné proti "
+"většině konvenčních zbraní; často byla nutná mocná magie k zastavení jejich neúnavného "
+"postupu."
 
 #: simulation/templates/units/fairy/fairy_fey_wisp.xml:20
 msgid ""
 "Stealthed Support unit that slows down and freezes enemies within its aura. Can detect "
 "Camouflaged and Stealthed units."
 msgstr ""
+"Utajená podpůrná jednotka která zpomaluje a mrazí nepřátele ve své auře. Umí detekovat "
+"jednotky s kamufláží a utajením.
 
 #: simulation/templates/units/fairy/fairy_galeboomer_b.xml:4
 #: simulation/templates/units/fairy/fairy_galeboomer_summer.xml:4
 #: simulation/templates/units/zora/zora_boomeranger_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Boomerang"
-msgstr ""
+msgstr "Bumerang"
 
 #: simulation/templates/units/fairy/fairy_galeboomer_b.xml:33
 msgid "Gale Boomerang"
-msgstr ""
+msgstr "Vichrnný Bumerang"
 
 #: simulation/templates/units/fairy/fairy_galeboomer_b.xml:35
 msgid ""
@@ -2843,14 +2869,20 @@ msgid ""
 " not in the hands of her chosen warriors, they would fly about and attack her enemies "
 "on their own."
 msgstr ""
+"Popisovány jako jednoduché bumerangy s vlastním životem, Vichrnné Bumerangy byly "
+"dávány jako dárky od Sekajy statečným hrdinnům kteří si zasloužili její náklonnost. "
+"Když nebyly v rukou jejích vybraných válečníků, létaly kolem a samy útočily na její "
+"nepřátele."
 
 #: simulation/templates/units/fairy/fairy_galeboomer_b.xml:40
 msgid "Sekaia's Unique Unit. Fast moving Melee unit that can travel over any terrain."
 msgstr ""
+"Jednotka kterou může verbovat pouze Sekaja. Rychlá na blízko útočící jednotka která "
+"se může pohybovat přes jakýkoliv terén."
 
 #: simulation/templates/units/fairy/fairy_godmother_b.xml:57
 msgid "Godmother"
-msgstr ""
+msgstr "Kmotřenka"
 
 #: simulation/templates/units/fairy/fairy_godmother_b.xml:58
 msgid ""
@@ -2858,14 +2890,17 @@ msgid ""
 "their reach. When one is on their good side, a Fairy Godmother may grant your deepest "
 "wishes. Make an enemy of the Fairy Godmothers and prepare for fates worse than death."
 msgstr ""
+"Bytosti mocnější než Velké Víly, Kmotřenky ovlivňují a řídí vše v jejich okolí."
+"Pokud jste na jejich straně, Vílíí Kmotřenka vám splní vaše nejhlubší přání. "
+"Udělejte si z Vílích Kmotřenek nepřátele a připravte se na osud horší než smrt."
 
 #: simulation/templates/units/fairy/fairy_godmother_b.xml:62
 msgid "Large enigmatic Fairy unit that can tear her enemies apart."
-msgstr ""
+msgstr "Velká enigmatická Vílí jednotka která trhá své nepřátele na kusy."
 
 #: simulation/templates/units/fairy/fairy_great_b.xml:38
 msgid "Great Fairy"
-msgstr ""
+msgstr "Velká Víla"
 
 #: simulation/templates/units/fairy/fairy_great_b.xml:39
 msgid ""
@@ -2876,16 +2911,24 @@ msgid ""
 "Fairies rather egocentric, arrogant, and in worse cases; power hungry. The risk of "
 "tyrannical Great Fairies trying to take over their kind was not unheard of. "
 msgstr ""
+"Velké Víly patřily mezi nejmocnější víly legend. Požehnané ohromujícím intelektem "
+"a arsenálem ohromné magie, samotná Velká Víla byla schopna přetvořit svět kolem ní "
+"pouze svou mocí. Různé příběhy vypravují že těm kdo si získali náklonnost Velké Víly"
+"byla splněna přání. Taková moc dělala Velké Víly spíše egocentrické, arogantní, a "
+"v nejhorších případech; žíznivé po moci. Risk tyranických víl snažících se ovládnout "
+"svůj druh nebyl neznámý."
 
 #: simulation/templates/units/fairy/fairy_great_b.xml:43
 msgid ""
 "Very powerful ranged Mage unit who's method of attack changes its nature with each "
 "season."
 msgstr ""
+"Velmi mocná na dálku útočící magická jednotka jejíž metoda útoku se mění s každým "
+"ročním obdobím."
 
 #: simulation/templates/units/fairy/fairy_hero_ciela.xml:50
 msgid "Fairy of Islands"
-msgstr ""
+msgstr "Víla Ostrovů"
 
 #: simulation/templates/units/fairy/fairy_hero_ciela.xml:52
 msgid ""
@@ -2893,19 +2936,22 @@ msgid ""
 "a spirit as any could be. Legend says she prefers to dance her time away on the ocean, "
 "ignored other fairies whenever she can."
 msgstr ""
+"Tajemná víla která prý žije na ostrovech východních moří, Ciela je tak svobodná duše "
+"jak může být. LEgendy říkají že preferuje celý svůj čas tančit na oceánu, a ignoruje "
+"ostatní víly kdy může."
 
 #: simulation/templates/units/fairy/fairy_hero_ciela.xml:56
 msgid "Ciela"
-msgstr ""
+msgstr "Ciela"
 
 #: simulation/templates/units/fairy/fairy_hero_ciela.xml:57
 msgid "Melee Hero who attacks with swarms of smaller Fairies."
-msgstr ""
+msgstr "Pešší hrdinka která útočí s roji menších víl."
 
 #: simulation/templates/units/fairy/fairy_hero_dezaia.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Throned Claws"
-msgstr ""
+msgstr "Trnitá Klepeta"
 
 #: simulation/templates/units/fairy/fairy_hero_dezaia.xml:36
 msgid ""
@@ -2920,38 +2966,40 @@ msgstr ""
 
 #: simulation/templates/units/fairy/fairy_hero_dezaia.xml:40
 msgid "Dezaia"
-msgstr ""
+msgstr "Dezaja"
 
 #: simulation/templates/units/fairy/fairy_hero_dezaia.xml:41
 msgid "A large and mosnterous Hero that rips apart her victims with wicked insect-like claws."
-msgstr ""
+msgstr "Velká nestvůrná hrdinka která trhá své nepřátele na cucky svými broučími klepety."
 
 #: simulation/templates/units/fairy/fairy_hero_miff.xml:42
 msgid "Fairy of the West"
-msgstr ""
+msgstr "Víla Západu"
 
 #: simulation/templates/units/fairy/fairy_hero_miff.xml:44
 msgid ""
 "A friendly, if mischievous spirit as far as Fairies are concerned. Legend says that "
 "heroes who have proven themselves brave may call upon her in trouble."
 msgstr ""
+"Přátelská, i když zlomyslná duše co se ostatních víl týče. Legenda říká že "
+"hrdinové kteří se prokázali jako stateční ji mohou zavolat když mají potíže."
 
 #: simulation/templates/units/fairy/fairy_hero_miff.xml:48
 msgid "Miff"
-msgstr ""
+msgstr "Mif"
 
 #: simulation/templates/units/fairy/fairy_hero_miff.xml:49
 msgid "Mage unit that attacks with her staff at close range."
-msgstr ""
+msgstr "Magická jednotka která zblízka útočí svou holí."
 
 #: simulation/templates/units/fairy/fairy_hero_sekaia.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fairy Wing"
-msgstr ""
+msgstr "Vílí Křídlo"
 
 #: simulation/templates/units/fairy/fairy_hero_sekaia.xml:64
 msgid "Fairy of Winds"
-msgstr ""
+msgstr "Víla Větrů"
 
 #: simulation/templates/units/fairy/fairy_hero_sekaia.xml:66
 msgid ""
@@ -2963,18 +3011,24 @@ msgid ""
 "will never appear to adults, and if one happens to catch her off guard they will find "
 "themselves in serious peril."
 msgstr ""
+"Mnohým známá jako Víla Větrů, Sekaja se objevuje v mnoha kulturách jako duše která "
+"přináší jaro a odhání zimu. Je spojována se semeny a chrání mladé rostlin i zvířat. "
+"Některé báje dokonce říkají že dává Hyliánským dětem bumerangy na ochranu dokud neudrží "
+"luky a šípy. Je popisována jako velice mírumilovná a přátelská víla, alespoň dětem. "
+"Báje říkají že se nikdy neukazuje dospělým, a pokud ji některý přistihne, dostane se "
+"do vážného nebezpečí."
 
 #: simulation/templates/units/fairy/fairy_hero_sekaia.xml:70
 msgid "Sekaia"
-msgstr ""
+msgstr "ekaja"
 
 #: simulation/templates/units/fairy/fairy_hero_sekaia.xml:71
 msgid "Mage unit that summons powerful winds to send her targets flying."
-msgstr ""
+msgstr "Magická jednotka která vyvolává mocné větry které odfukují cíle."
 
 #: simulation/templates/units/fairy/fairy_hero_valanavi.xml:64
 msgid "Queen of All Fairies"
-msgstr ""
+msgstr "Královna všech Víl"
 
 #: simulation/templates/units/fairy/fairy_hero_valanavi.xml:66
 msgid ""
@@ -2989,24 +3043,32 @@ msgid ""
 "presence is said to freeze all who look on her, and the land itself shivers until she "
 "passes on."
 msgstr ""
+"Zbývá málo bájí o Královně která vládla Vílám Tarmu, málo ještě zná její pravé jméno. "
+"Říká se že často volila velmi dětský vzhled a chování, což skrývalo její ohromující "
+"intelekt a božskou moc. Hrdinové kteří potkali Královnu Všech Víl ji popisovali jako "
+"zvědavou a snadno zabavitelnou, plnou dětské radosti a divu nad přátelskými cizinci. "
+"Jeden člověk jí však prohlédl, a viděl nespočetné generace války, utrpení, traumat a "
+"ztráty kterým byla tato ponurá a neskutečně starověká bytost svědkem. Královna všech "
+"víl je spojována s obdobím zimy. Její přítomnost prý mrazí vše co na ni vzhlédne, a "
+"samotná země se třese zimou dokud neodejde."
 
 #: simulation/templates/units/fairy/fairy_hero_valanavi.xml:70
 msgid "Valanavi"
-msgstr ""
+msgstr "Valanavi"
 
 #: simulation/templates/units/fairy/fairy_hero_valanavi.xml:71
 msgid "Powerful Mage unit that bombards her enemies from afar."
-msgstr ""
+msgstr "Mocná magická jednotka která bombarduje své nepřátele z dáli."
 
 #: simulation/templates/units/fairy/fairy_hero_venus.xml:4
 #: simulation/templates/units/labrynna/labrynna_hero_veran.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fairy Whip"
-msgstr ""
+msgstr "Vílí Bič"
 
 #: simulation/templates/units/fairy/fairy_hero_venus.xml:62
 msgid "Queen of the Mad"
-msgstr ""
+msgstr "Královna Šílených"
 
 #: simulation/templates/units/fairy/fairy_hero_venus.xml:64
 msgid ""
@@ -3018,24 +3080,32 @@ msgid ""
 " She is connected to the season of Summer and is said to cause the plants and animals "
 "to dance with fury under the heat of the sun."
 msgstr ""
+"Divoká víla která se jen vzácně objevuje s ostatními Vílami, Venuše je Královna Šílených "
+"v mnoha kulturách a prý sužuje ty kteří ji vyhledávají šílenstvím. Před věky se ona a "
+"její Mystičky rozšířily po světě a říká se že jejich samota je vedla k šílenství, smíchu "
+"a hysterii. Je popisována jako marnotratná a posedlá krásou a říká se že se dá ji přivolat "
+"výzvou porovnání krásy. Je spojována s ročním obdobím léta a říká se že nutí rostliny a "
+"zvěřstvo zběsile tancovat pod horkem slunce."
+
+#: simulation/data/civs/fairy.json:AINames[1]
 
 #: simulation/templates/units/fairy/fairy_hero_venus.xml:68
 msgid "Venus"
-msgstr ""
+msgstr "Venuše"
 
 #: simulation/templates/units/fairy/fairy_hero_venus.xml:69
 msgid "Melee Hero who can whip many targets around her at once."
-msgstr ""
+msgstr "Hrdinka která umí bičovat mnoho cílů kolem sebe zaráz."
 
 #: simulation/templates/units/fairy/fairy_icepatch.xml:37
 #: simulation/templates/units/fairy/fairy_wispice.xml:37
 #: simulation/templates/units/gerudo/gerudo_icepatch.xml:37
 msgid "Ice Patch"
-msgstr ""
+msgstr "Ledový Střep"
 
 #: simulation/templates/units/fairy/fairy_madmystic_b.xml:37
 msgid "Mad Mystic"
-msgstr ""
+msgstr "Šílená Mystička"
 
 #: simulation/templates/units/fairy/fairy_madmystic_b.xml:39
 msgid ""
@@ -3046,12 +3116,19 @@ msgid ""
 "depending on their mood they may grant wanderers magical gifts or torch them into "
 "oblivion."
 msgstr ""
+"Šílené Mystičky byly řád Velkých Víl které se s Venuší vydaly do dalekých koutů světa. "
+"Říká se že strávily staletí samy a byly dovedeny k šílenství tajemstvími které odhalily "
+"a mocí kterou získaly z jejich exodu. Šílené Mystičky teď tráví většinu jejich času "
+"šíleným bezdůvodným smíchem v divočině, a podle jejich nálady mohou nabídnout poutníkům "
+"magické dary nebo je spáit na popel."
 
 #: simulation/templates/units/fairy/fairy_madmystic_b.xml:44
 msgid ""
 "Venus' Unique Unit. Fast moving Melee unit with a powerful attack that changes "
 "properties each season."
 msgstr ""
+"Jednotka kterou může verbovat pouze Venuše. Rychlá pešší jednotka s mocným "
+"útokem který mění každé roční období vlastnosti."
 
 #: simulation/templates/units/fairy/fairy_mistwalker_b.xml:27
 #: simulation/templates/units/goron/goron_hero_gorebizo.xml:28
@@ -3064,11 +3141,11 @@ msgstr ""
 #: simulation/templates/units/labrynna/labrynna_hero_ralph.xml:28
 #: simulation/templates/units/labrynna/labrynna_steamtank_b.xml:33
 msgid "Linear"
-msgstr ""
+msgstr "Lineár"
 
 #: simulation/templates/units/fairy/fairy_mistwalker_b.xml:50
 msgid "Mistwalker"
-msgstr ""
+msgstr "Mlhochodka"
 
 #: simulation/templates/units/fairy/fairy_mistwalker_b.xml:52
 msgid ""
@@ -3078,20 +3155,25 @@ msgid ""
 "and mages. Finding one of these Fairies was actually considered bad luck in the best of"
 " circumstances, and a fatal omen in the worst."
 msgstr ""
+"Asi nejtajemnější víly z legendm Mlhochodky byly extémně samotářské i mezi vlastním"
+"druhem. Někteří se domnívají že střežily vědomost a tajemství tak hrozné že si"
+"nemohly dovolit být chyceny mocnými čaroději a mágy. Setkání s jednou z těchto víl "
+"je ve skutečnosti považováno za špatné štěstí v nejlepším případě, a předtuchou "
+"smrti v nejhorším."
 
 #: simulation/templates/units/fairy/fairy_mistwalker_b.xml:57
 msgid "Valanavi's Unique Unit. Powerful Mage unit that can attack from a distance."
-msgstr ""
+msgstr "Jednotka kterou může verbovat pouze Valanavi. Mozná magická jednotka která útočí z dáli."
 
 #: simulation/templates/units/fairy/fairy_stray_b.xml:4
 #: simulation/templates/units/stalfos/stalfos_eyesoar_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Bash"
-msgstr ""
+msgstr "Bum a Bác"
 
 #: simulation/templates/units/fairy/fairy_stray_b.xml:41
 msgid "Stray Fairy"
-msgstr ""
+msgstr "Potulná Víla"
 
 #: simulation/templates/units/fairy/fairy_stray_b.xml:42
 msgid ""
@@ -3099,15 +3181,18 @@ msgid ""
 "were said to wander about forever until a Great Fairy gave them purpose. Some legends "
 "say they are the shattered remains of Great Fairies that were killed in battle."
 msgstr ""
+"Malý a nemotorný tvor bez jakékoliv vůle nebo směru, Potulné Víly se prý navždy "
+"toulaly dokud jim Velká Víla nedala účel. Některé legendy říkají že jsou roztříštěné "
+"zbyytky Velkých Víl které byly zabity v bitvě."
 
 #: simulation/templates/units/fairy/fairy_stray_b.xml:46
 msgid "Hovering Scout unit that can detect Camouflaged and Stealthed units."
-msgstr ""
+msgstr "LEvitující průzkumná jednotka která dokáže detekovat kamufláž a utajení."
 
 #: simulation/templates/units/fairy/fairy_titan_makuhoron.xml:12
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fairy Burst"
-msgstr ""
+msgstr "Vílí Záblesk"
 
 #: simulation/templates/units/fairy/fairy_titan_makuhoron.xml:85
 msgid ""
@@ -3119,18 +3204,22 @@ msgid ""
 "Tree and the Fairies of Tarm to defeat the dragons of the east and bring peace to the "
 "land."
 msgstr ""
+"Jeden z legendárních Maku stromů a možná jeden z posledních stále naživu, strážce Horonu "
+"strávil většinu svého času dřímotem na kraji Tarmova Lesa a byl uctíván domorodci kraje. v
+"Pouze přání Víly ho může probudit. Ve starověkých Horonských mýtech je řečeno že tento obří "
+"strom bojoval se svou sestrou a Vílami Tarmu aby porazil draky východu a přinesl kraji mír."
 
 #: simulation/templates/units/fairy/fairy_titan_makuhoron.xml:88
 msgid "Maku Tree of Horon"
-msgstr ""
+msgstr "Maku Strom z Horonu"
 
 #: simulation/templates/units/fairy/fairy_titan_makuhoron.xml:89
 msgid "Fairy Titan unit. Support unit that continues to summon Fairy Droves into battle."
-msgstr ""
+msgstr "Vílí Mýtická jednotka. Podpůrná jednotka která vyvolává do bitvy Hejna Víl."
 
 #: simulation/templates/units/fairy_trader_b.xml:15
 msgid "Xana"
-msgstr ""
+msgstr "Xana"
 
 #: simulation/templates/units/fairy_trader_b.xml:16
 msgid ""
