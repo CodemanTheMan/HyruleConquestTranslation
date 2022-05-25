@@ -13,15 +13,15 @@ msgstr ""
 
 #: simulation/data/civs/darknut.json:CivBonuses[0].Description
 msgid "Many Darknut units can gain experience and level up like Heroes."
-msgstr ""
+msgstr "Viele Nimbusgarden können ehrfahrung und level aufsteigen wie Helden"
 
 #: simulation/data/civs/darknut.json:CivBonuses[0].Name
 msgid "Legendary Warriors"
-msgstr ""
+msgstr "Legendäre Krieger"
 
 #: simulation/data/civs/darknut.json:CivBonuses[1].Description
 msgid "Darknuts have a single Civil Center and cannot build a new one or replace it."
-msgstr ""
+msgstr "Nimbusgarden haben ein einziges Stadtzentrum und können keine neue bauen oder es ersetzen"
 
 #: simulation/data/civs/darknut.json:CivBonuses[1].Name
 msgid "Megalopolis"
