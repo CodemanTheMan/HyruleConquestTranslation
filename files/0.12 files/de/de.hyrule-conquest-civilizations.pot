@@ -76,12 +76,12 @@ msgid ""
 " name Senturon has been forgotten and the moniker of Black Knight has faded into "
 "legend. Still, there are some words spoken that this grim warrior still walks in the "
 "shadows of Hyrule and serves the Legion to this day."
-msgstr ""
+msgstr "Senturon diente als einer von Vaatis Vollstreckern während des antiken Zeitalters von Hyrule. Scheinbar unsterblich, Gerüchte, dass er von den Toten auferstehen konnte begannen zu brodeln. Nichtsdestotrotz führet er die Befehle der Legion gnadenlos aus und vertrieb das Volk des Windes vollständig aus Hyrule. Nach dreitausend jahren geriet der Name Senturon in Vergessenheit under Beinname Schwarzer Ritter ist nur noch eine Legende"
 
 #: simulation/data/civs/darknut.json:AINames[2]
 #: simulation/data/civs/darknut.json:Factions[0].Heroes[2].Name
 msgid "Senturon"
-msgstr ""
+msgstr "Senturon"
 
 #: simulation/data/civs/darknut.json:Factions[0].Heroes[3].History
 msgid ""
@@ -91,16 +91,16 @@ msgid ""
 "outcasts. For years he has ravaged the desert with his fellow reavers; his ultimate "
 "goal is nothing short of taking the Darknut throne and replacing Zalunbar as the living"
 " god of the Legion."
-msgstr ""
+msgstr "Als ehemaliger Fanatiker des Zalunbar floh Alros in die Gerudo Wüste nach dem Sturz seines Idols und ließ den Kodex der Legion hinter sich. Nach Jahrzehnten der Trauer, gewann er seine Entschlossenheit wieder und begann eine Armee an Söldnern und weiteren verstoßenen Nimbusgarden anzuhäufen. Seit jahren wütet er durch die Wüste mit seinen folgsamen Plünderern. Sein Ziel ist nichts geringeres als den Thron der Nimbusgarden und Zalunbar als lebende Gottheit der Legion zu ersetzen"
 
 #: simulation/data/civs/darknut.json:AINames[3]
 #: simulation/data/civs/darknut.json:Factions[0].Heroes[3].Name
 msgid "Alros"
-msgstr ""
+msgstr "Alros"
 
 #: simulation/data/civs/darknut.json:Factions[0].Technologies[0].Name
 msgid "Farms, Fruit, Meat, Fish, Stone, Metal, Rupees, Gold, and Force Gems"
-msgstr ""
+msgstr "Bauernhöfe, Früchte, Fleisch, Fisch, Stein, Metall, Rubine, Gold, und Force Kristalle"
 
 #: simulation/data/civs/darknut.json:History
 msgid ""
