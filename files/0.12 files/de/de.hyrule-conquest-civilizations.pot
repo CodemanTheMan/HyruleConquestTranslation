@@ -1,0 +1,2312 @@
+ # Translation template for Hyrule Conquest.
+# Copyright (C) 2022 UndyingNephalim
+# This file is distributed under the same license as the Hyrule Conquest project.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hyrule Conquest\n"
+"POT-Creation-Date: 2022-05-23 17:26+0058\n"
+"PO-Revision-Date: 2022-05-23 17:26+0058\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#: simulation/data/civs/darknut.json:CivBonuses[0].Description
+msgid "Many Darknut units can gain experience and level up like Heroes."
+msgstr ""
+
+#: simulation/data/civs/darknut.json:CivBonuses[0].Name
+msgid "Legendary Warriors"
+msgstr ""
+
+#: simulation/data/civs/darknut.json:CivBonuses[1].Description
+msgid "Darknuts have a single Civil Center and cannot build a new one or replace it."
+msgstr ""
+
+#: simulation/data/civs/darknut.json:CivBonuses[1].Name
+msgid "Megalopolis"
+msgstr ""
+
+#: simulation/data/civs/darknut.json:CivBonuses[2].Description
+msgid "Darknuts can hire Mercenaries from every culture."
+msgstr ""
+
+#: simulation/data/civs/darknut.json:CivBonuses[2].Name
+msgid "Mercenary Masters"
+msgstr ""
+
+#: simulation/data/civs/darknut.json:Factions[0].Heroes[0].History
+msgid ""
+"A powerful Darknut warrior, Zalunbar was deified by his people and assumed control of "
+"the Legion nearly three thousand years prior. His unnaturally long life and apparent "
+"immortality ignited much fervor amongst his people and convinced many he was a true "
+"god. Zalunbar was utterly narcissistic and completely egocentric. Centuries of constant"
+" praise and worship has let his ego spiral completely out of control, and there are few"
+" who would dare question his godhood."
+msgstr ""
+
+#: simulation/data/civs/darknut.json:AINames[0]
+#: simulation/data/civs/darknut.json:Factions[0].Heroes[0].Name
+msgid "Zalunbar"
+msgstr ""
+
+#: simulation/data/civs/darknut.json:Factions[0].Heroes[1].History
+msgid ""
+"Yaraxonal was a former Sage of Hyrule, as well as leader and chief deity of the Darknut"
+" Legion prior to Zalunbar. Unknown to the Darknut populace, she was imprisoned in stone"
+" by Vaati and usurped by Zalunbar. For nearly three thousand years she faded from "
+"memory, using her powers as a Sage to reach out and send a message for help. As a Sage "
+"of Hyrule, Yaraxonal was an exception to the Legion's no magic policy. She had command "
+"of the desert winds and would use them against enemies of the Legion. Despite her power"
+" and veneration as a god, Yaraxonal was rather humble and was responsible for expanding"
+" the Legion through diplomacy and assimilation rather than conquest."
+msgstr ""
+
+#: simulation/data/civs/darknut.json:AINames[1]
+#: simulation/data/civs/darknut.json:Factions[0].Heroes[1].Name
+msgid "Yaraxonal"
+msgstr ""
+
+#: simulation/data/civs/darknut.json:Factions[0].Heroes[2].History
+msgid ""
+"Senturon served as one of Vaati's enforcers during the ancient age of Hyrule. Seemingly"
+" unkillable, rumors began to build around Senturon that he had the power to raise "
+"himself from the dead. Regardless, he mercilessly carried out the orders of the Legion "
+"and completely drove the Wind Tribe from Hyrule. After nearly three thousand years, the"
+" name Senturon has been forgotten and the moniker of Black Knight has faded into "
+"legend. Still, there are some words spoken that this grim warrior still walks in the "
+"shadows of Hyrule and serves the Legion to this day."
+msgstr ""
+
+#: simulation/data/civs/darknut.json:AINames[2]
+#: simulation/data/civs/darknut.json:Factions[0].Heroes[2].Name
+msgid "Senturon"
+msgstr ""
+
+#: simulation/data/civs/darknut.json:Factions[0].Heroes[3].History
+msgid ""
+"A former fanatic of Zalunbar, Alros fled into the Gerudo Desert after the fall of his "
+"former idol and abandoned the code of the Legion. After decades in sorrow, Alros "
+"regained his resolve and began amassing an army of mercenaries and fellow Darknut "
+"outcasts. For years he has ravaged the desert with his fellow reavers; his ultimate "
+"goal is nothing short of taking the Darknut throne and replacing Zalunbar as the living"
+" god of the Legion."
+msgstr ""
+
+#: simulation/data/civs/darknut.json:AINames[3]
+#: simulation/data/civs/darknut.json:Factions[0].Heroes[3].Name
+msgid "Alros"
+msgstr ""
+
+#: simulation/data/civs/darknut.json:Factions[0].Technologies[0].Name
+msgid "Farms, Fruit, Meat, Fish, Stone, Metal, Rupees, Gold, and Force Gems"
+msgstr ""
+
+#: simulation/data/civs/darknut.json:History
+msgid ""
+"Perhaps the most ancient civilization still standing in Hyrule, the Darknut people "
+"nearly exterminated themselves in a massive civil war nearly four thousand years past. "
+"Banning all practice of magic and dishonorable forms of combat and warfare, a strict "
+"code of honor and ethics was mandated and their society was brutally restructured in "
+"order to avoid such a fate."
+msgstr ""
+
+#: simulation/data/civs/darknut.json:Name
+msgid "Darknut Legion"
+msgstr ""
+
+#: simulation/data/civs/darknut.json:Structures[0].History
+msgid ""
+"One of the oldest structures in Hyrule, the Tower of Hera has long stood in the "
+"mountains of the Gerudo Desert, visible from many locations below. It has been "
+"abandoned by the Darknut people many times throughout history, only to be reconquered "
+"and repurposed. The original purpose of the tower is lost to history, though many "
+"believe it once served as an Apotheon for Darknut Kings and Queens. During their "
+"various reconquests of the ancient tower, it has also served as a prison, a lair for "
+"captured beasts and monsters, and a general temple of worship. In more modern times it "
+"serves as powerful Fortress and command center for those truely in power over the "
+"Legion."
+msgstr ""
+
+#: simulation/data/civs/darknut.json:Structures[0].Name
+msgid "Wonder: Tower of Hera"
+msgstr ""
+
+#: simulation/data/civs/darknut.json:Structures[1].History
+msgid ""
+"Once a member of the Minish race, Vaati encountered one of the ancient demons that "
+"ravaged primordial Hyrule and formed a pact with the beast. Granting him incredible "
+"power, Vaati eventually lost himself to the beast's possession. Although no longer "
+"himself, the demon retained Vaati's image, name, and personality as it set out to "
+"accomplish its goals in Hyrule. When exposed and under threat, the demon abandons his "
+"Vaati disguise and reveals his horrific bat-like form."
+msgstr ""
+
+#: simulation/data/civs/darknut.json:Structures[1].Name
+msgid "Titan: Vaati, the Wind Demon"
+msgstr ""
+
+#: simulation/data/civs/darknut.json:TeamBonuses[0].Description
+msgid "Allies can train all Mercs as the Darknuts do, except for Legion specific Mercs."
+msgstr ""
+
+#: simulation/data/civs/darknut.json:TeamBonuses[0].Name
+msgid "Mercenary Connections"
+msgstr ""
+
+#: simulation/data/civs/deku.json:CivBonuses[0].Description
+msgid ""
+"There is a small chance that any Deku Scrub unit (except for Orhats, Giant Orhats, and "
+"Stagnox) will become a Mad Scrub on death, attacking anything near itself."
+msgstr ""
+
+#: simulation/data/civs/deku.json:CivBonuses[0].Name
+msgid "Mad Blight Disease"
+msgstr ""
+
+#: simulation/data/civs/deku.json:CivBonuses[1].Description
+msgid "Captured Livestock reduces the Food cost of training Creature units."
+msgstr ""
+
+#: simulation/data/civs/deku.json:CivBonuses[1].Name
+msgid "Menagerie Stocks"
+msgstr ""
+
+#: simulation/data/civs/deku.json:CivBonuses[2].Description
+msgid "All non-mechanical Deku Scrub units can walk through Thick Forests."
+msgstr ""
+
+#: simulation/data/civs/deku.json:CivBonuses[2].Name
+msgid "Forestwalk"
+msgstr ""
+
+#: simulation/data/civs/deku.json:Factions[0].Heroes[0].History
+msgid ""
+"Perhaps one of the most powerful rulers of the Deku Scrubs, King Kud-Loh-Kan was the "
+"first of his race to unite every single Scrub under one banner, albeit only "
+"temporarily. His success did not rise from the people's favor however; King Kud-Loh-Kan"
+" ruled like a tyrant and constantly threatened his people with executions. Despite his "
+"angry demeanor, the King's motivations seem to be rooted in his love for his daughter. "
+"Though kept secret, he had been struck with a case of Mad Scrub and wished for her to "
+"replace him on the throne after his passing."
+msgstr ""
+
+#: simulation/data/civs/deku.json:AINames[0]
+#: simulation/data/civs/deku.json:Factions[0].Heroes[0].Name
+msgid "King Kud-Loh-Kan"
+msgstr ""
+
+#: simulation/data/civs/deku.json:Factions[0].Heroes[1].History
+msgid ""
+"The only daughter of King Kud-Loh-Kan, Kad-A-Kana may not have been the one sitting on "
+"the throne but she was certainly the one calling the shots. Her father could not help "
+"but give in to her demands, and many of the Scrubs wondered just who exactly was in "
+"charge. Things would change once the King was diagnosed with Mad Scrub. Princess "
+"Kad-A-Kana was noted for her long bouts of sadness, punctuated by violent bursts of "
+"anger. When her father became a victim of the terminal Mad Scrub, her motivations and "
+"intentions turned to darker places elsewhere."
+msgstr ""
+
+#: simulation/data/civs/deku.json:AINames[1]
+#: simulation/data/civs/deku.json:Factions[0].Heroes[1].Name
+msgid "Princess Kad-A-Kana"
+msgstr ""
+
+#: simulation/data/civs/deku.json:Factions[0].Heroes[2].History
+msgid ""
+"A brilliant engineer, the son of Butler Kuh-Do, and the only friend of Princess "
+"Kad-A-Kana, Kado was at the forefront of creating siege engines and other contraptions "
+"for Scrub kind. He had an endless fascination with watching things fall to the "
+"ground... usually as a result of one of his new catapult inventions. Kado was rather "
+"small, even for a Deku Scrub, and was often considered a joke most of his life. After "
+"compensating with his clearly more exercised brain and ending up in the King's favor, "
+"his lot in life changed quite considerably. He currently serves as an adviser to the "
+"Princess, and has grown concerned with her interest in ancient Odolwan rituals."
+msgstr ""
+
+#: simulation/data/civs/deku.json:AINames[2]
+#: simulation/data/civs/deku.json:Factions[0].Heroes[2].Name
+msgid "Kado"
+msgstr ""
+
+#: simulation/data/civs/deku.json:Factions[0].Heroes[3].History
+msgid ""
+"A personal servant of King Kuh-Loh-Kan and manager of all things money, Butler Kuh-Do "
+"was quiet and out of the spotlight but clearly had vast power over Scrub kind. His "
+"hands seemed to be tied to the Scrubs' every growing markets across Hyrule, and he "
+"maintained his own force of tax collectors and bullies to insure that the royal "
+"coffers... and his personal bank account... were flowing with Rupees."
+msgstr ""
+
+#: simulation/data/civs/deku.json:AINames[3]
+#: simulation/data/civs/deku.json:Factions[0].Heroes[3].Name
+msgid "Butler Kuh-Do"
+msgstr ""
+
+#: simulation/data/civs/deku.json:Factions[0].Technologies[0].Name
+msgid "Farms, Fruit, Wood, Metal, Rupees, Gold, and Force Gems"
+msgstr ""
+
+#: simulation/data/civs/deku.json:History
+msgid ""
+"The Kingdom of the Deku Scrubs were a loose collection of feudal territories deep "
+"within the eastern reaches of the Kokiri Forest. Known for their irrational bursts of "
+"anger and their perpetual short-man's complex, large gatherings of these normally "
+"comical forest dwellers could result in terrifying destruction and chaos when unleashed"
+" on Hyrule."
+msgstr ""
+
+#: simulation/data/civs/deku.json:Name
+msgid "Deku Scrubs"
+msgstr ""
+
+#: simulation/data/civs/deku.json:Structures[0].History
+msgid ""
+"A large and ancient Temple in the Picorou Woods. The Scrubs claim to have build it in "
+"ages past, but despite their iconagraphy carved into its stone the design has little "
+"resemblence to their civilization. The massive temple is home to many Orhat Beetle "
+"nests and the structure seems to have sunken into the ground since its construction."
+msgstr ""
+
+#: simulation/data/civs/deku.json:Structures[0].Name
+msgid "Wonder: Wooded Temple"
+msgstr ""
+
+#: simulation/data/civs/deku.json:Structures[1].History
+msgid ""
+"This giant hulking Orhat Beetle has long lurked on the eastern forests of Hyrule. In "
+"some cases the Scrubs have been known to coerce this huge monster into fighting on "
+"their behalf. The Stagnox may be slow, but his armor is some of the most impressive and"
+" durable in Hyrule. While the Stagnox has wings, his huge size makes his ability to fly"
+" very limited."
+msgstr ""
+
+#: simulation/data/civs/deku.json:Structures[1].Name
+msgid "Titan: Stagnox, Armored Colossus"
+msgstr ""
+
+#: simulation/data/civs/deku.json:TeamBonuses[0].Description
+msgid "25% land trade route bonus."
+msgstr ""
+
+#: simulation/data/civs/deku.json:TeamBonuses[0].Name
+msgid "Partner Networks"
+msgstr ""
+
+#: simulation/data/civs/fairy.json:AINames[3]
+msgid "Queen of All Fairies"
+msgstr ""
+
+#: simulation/data/civs/fairy.json:CivBonuses[0].Description
+#: simulation/data/civs/stalfos.json:Factions[0].Heroes[0].History
+#: simulation/data/civs/stalfos.json:Factions[0].Heroes[1].History
+#: simulation/data/civs/stalfos.json:Factions[0].Heroes[2].History
+#: simulation/data/civs/stalfos.json:Factions[0].Heroes[3].History
+#: simulation/data/civs/stalfos.json:Structures[0].History
+#: simulation/data/civs/stalfos.json:Structures[1].History
+msgid "."
+msgstr ""
+
+#: simulation/data/civs/fairy.json:CivBonuses[0].History
+msgid ""
+"Fairy units change form and function with the four Seasons, which can be altered at the"
+" Sundial"
+msgstr ""
+
+#: simulation/data/civs/fairy.json:CivBonuses[0].Name
+msgid "Herald of Seasons"
+msgstr ""
+
+#: simulation/data/civs/fairy.json:CivBonuses[1].Description
+msgid "Fairies have no worker units and buildings slowly summon themselves."
+msgstr ""
+
+#: simulation/data/civs/fairy.json:CivBonuses[1].Name
+msgid "Those that Dream"
+msgstr ""
+
+#: simulation/data/civs/fairy.json:CivBonuses[2].Description
+msgid ""
+"Wild Animals (with the exception of Bosses) will not attack Fairies of Tarm unless "
+"attacked first."
+msgstr ""
+
+#: simulation/data/civs/fairy.json:CivBonuses[2].Name
+msgid "Breath of the Wild"
+msgstr ""
+
+#: simulation/data/civs/fairy.json:Factions[0].Heroes[0].History
+msgid ""
+"Known to many as the Fairy of Winds, Sekaia appears in many cultures as the spirit that"
+" brings forth Spring and chases away the Winter. She is connected to seeds and protects"
+" the young of both plants and animals, some legends even say she gives Hylian children "
+"Boomerangs to protect themselves with until they can wield bows and arrows. She is "
+"described as a very peaceful and friendly Fairy, to children anyway. Legends say she "
+"will never appear to adults, and if one happens to catch her off guard they will find "
+"themselves in serious peril."
+msgstr ""
+
+#: simulation/data/civs/fairy.json:AINames[0]
+#: simulation/data/civs/fairy.json:Factions[0].Heroes[0].Name
+msgid "Sekaia, Fairy of Winds"
+msgstr ""
+
+#: simulation/data/civs/fairy.json:Factions[0].Heroes[1].History
+msgid ""
+"A wild Fairy who rarely associates with other Fairies, Venus is the Queen of the Mad in"
+" many cultures and said to afflict those that seek her out with insanity. Long ago she "
+"and her fellow Mystics spread across the world and the myth goes that their isolation "
+"drove them mad with laughter and hysteria. She is described as vain and obsessed with "
+"beauty and legend says that one can summon her with ease by challenging her appearance."
+" She is connected to the season of Summer and is said to cause the plants and animals "
+"to dance with fury under the heat of the sun."
+msgstr ""
+
+#: simulation/data/civs/fairy.json:AINames[1]
+#: simulation/data/civs/fairy.json:Factions[0].Heroes[1].Name
+msgid "Venus, Queen of the Mad"
+msgstr ""
+
+#: simulation/data/civs/fairy.json:Factions[0].Heroes[2].History
+msgid ""
+"Dezaia was once a powerful Great Fairy that rivaled almost all others. Her ambitions "
+"grew too high, and she believed she could conquer Tarm itself and command the forces of"
+" nature under her will. After instigating a civil war, she was eventually defeated. As "
+"punishment for nearly tearing apart their society, Dezaia was cut off from magic and "
+"bound forever into a spider-like suit of armor that served as a prison. Before her "
+"fall, Dezaia was associated with the season of Autumn. She was said to hush animals to "
+"sleep in preparation for the dark of winter."
+msgstr ""
+
+#: simulation/data/civs/fairy.json:AINames[2]
+#: simulation/data/civs/fairy.json:Factions[0].Heroes[2].Name
+msgid "Dezaia"
+msgstr ""
+
+#: simulation/data/civs/fairy.json:Factions[0].Heroes[3].History
+msgid ""
+"Little myth remains of the Queen who ruled over the Fairies of Tarm, few even know her "
+"true name. It was said that she often assumed a very childlike appearance and "
+"mannerisms, both which betrayed her overwhelming intellect and clearly god like powers."
+" To any hero who personally met the Queen of All Fairies, she was described as curious "
+"and easily amused, filled with child like glee and wonder at encountering friendly "
+"outsiders. One individual saw through her though, he saw countless generations of war, "
+"suffering, trauma, and loss that this somber and incredibly ancient being had been a "
+"witness to. The Queen of All Fairies is associated with the season of Winter. Her "
+"presence is said to freeze all who look on her, and the land itself shivers until she "
+"passes on."
+msgstr ""
+
+#: simulation/data/civs/fairy.json:Factions[0].Heroes[3].Name
+msgid "Queen of all Fairies"
+msgstr ""
+
+#: simulation/data/civs/fairy.json:Factions[0].Technologies[0].Name
+#: simulation/data/civs/gerudo.json:Factions[0].Technologies[0].Name
+#: simulation/data/civs/hylian.json:Factions[0].Technologies[0].Name
+#: simulation/data/civs/labrynna.json:Factions[0].Technologies[0].Name
+#: simulation/data/civs/minor_lonlon.json:Factions[0].Technologies[0].Name
+#: simulation/data/civs/minor_tokay.json:Factions[0].Technologies[0].Name
+#: simulation/data/civs/minor_zuna.json:Factions[0].Technologies[0].Name
+#: simulation/data/civs/npc_lonlon.json:Factions[0].Technologies[0].Name
+#: simulation/data/civs/npc_tokay.json:Factions[0].Technologies[0].Name
+#: simulation/data/civs/npc_zuna.json:Factions[0].Technologies[0].Name
+#: simulation/data/civs/sheikah.json:Factions[0].Technologies[0].Name
+msgid "Farms, Fruit, Meat, Fish, Wood, Stone, Metal, Rupees, Gold, and Force Gems"
+msgstr ""
+
+#: simulation/data/civs/fairy.json:History
+msgid ""
+"Perhaps one of Hyrule's greatest mysteries, Fairies were mythical and reclusive beings "
+"that despite being found in all corners of the world they were rarely if ever seen. "
+"Most of the time the Fairies would go about on their own with little unity or guidance,"
+" tending to nature or causing mischief when no one was looking. As the land cried out "
+"in pain however, these wild principles would gather together and cause a lot more than "
+"a little mischief."
+msgstr ""
+
+#: simulation/data/civs/fairy.json:Name
+msgid "Fairies of Tarm"
+msgstr ""
+
+#: simulation/data/civs/fairy.json:Structures[0].History
+msgid ""
+"A mythical fountain still believed to be unreal. Many have searched their entire lives "
+"for this fabled wonder, and none have found it. Legend says that only a Fairy may visit"
+" the Unicorn Fountain, and she may permit a mortal friend a glimpse in their sleep."
+msgstr ""
+
+#: simulation/data/civs/fairy.json:Structures[0].Name
+msgid "Wonder: Unicorn Fountain"
+msgstr ""
+
+#: simulation/data/civs/fairy.json:Structures[1].History
+msgid ""
+"One of the legendary Maku Trees and perhaps one of the only left to still live, the "
+"guardian of Horon spent much of his time slumbering at the edge of the Tarm Woods being"
+" worshiped by the natives of the land. It is not known how long this tree has "
+"slumbered, and it is said that only the wish of a Fairy can awaken him. In the ancient "
+"myths of Horon it was said that this giant tree did battle alongside his sister Maku "
+"Tree and the Fairies of Tarm to defeat the dragons of the east and bring peace to the "
+"land."
+msgstr ""
+
+#: simulation/data/civs/fairy.json:Structures[1].Name
+msgid "Titan: The Maku Tree of Horon"
+msgstr ""
+
+#: simulation/data/civs/fairy.json:TeamBonuses[0].Description
+msgid "All allied organic units regenerate HP when near Fairy buildings."
+msgstr ""
+
+#: simulation/data/civs/fairy.json:TeamBonuses[0].Name
+msgid "Respite for Friends"
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:AINames[4]
+msgid "Buliara"
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:AINames[5]
+msgid "Aveil"
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:CivBonuses[0].Description
+msgid "Attacking enemy workers and resource-drop off buildings generates a trickle of Rupees."
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:CivBonuses[0].Name
+msgid "Desert Raiders"
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:CivBonuses[1].Description
+msgid "All Buildings are garrisonable, and most can fire arrows at enemy units."
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:CivBonuses[1].Name
+msgid "Battle Ready"
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:CivBonuses[2].Description
+msgid "+20% loot from enemy units and buildings."
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:CivBonuses[2].Name
+msgid "Ransack"
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:Factions[0].Heroes[0].History
+msgid ""
+"After the Moblin King Ganon has cursed the Gerudo people, within but a generation the "
+"entire male population had all but vanished. Despite this affliction, Ganondorf was "
+"born. Thrust into a leadership position and raised by his two surrogate mothers, the "
+"King of Thieves would ascend the throne and lead the Gerudo people in several desperate"
+" attempts to save themselves from extinction. Ganondorf has little compassion, and "
+"years of watching his people fade into death has driven his madness to save them. He "
+"has a personal hatred for Hylians, whom he blames for preventing the Gerudo from "
+"expanding to save themselves."
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:AINames[0]
+#: simulation/data/civs/gerudo.json:Factions[0].Heroes[0].Name
+msgid "Emperor Ganondorf"
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:Factions[0].Heroes[1].History
+msgid ""
+"The legal wife of Ganondorf, right-hand woman in command of the Gerudo armies, and the "
+"Sage of Spirits, Nabooru's life is one of servitude to many competing individuals and "
+"ideologies. At a young age she was wed to Ganondorf against her will, only to be "
+"awakened as a Sage soon after and forced to undermine his command. Nabooru constantly "
+"struggles to work both with and against the regime of her husband. Though she shares in"
+" his belief of saving their people through conquest, her duties as a Sage often puts "
+"her in direct opposition with Ganondorf, and perhaps more notably, his surrogate "
+"mothers, Koume and Kotake."
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:AINames[1]
+#: simulation/data/civs/gerudo.json:Factions[0].Heroes[1].Name
+msgid "Nabooru, Sage of Spirits"
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:Factions[0].Heroes[2].History
+msgid ""
+"One of Ganondorf's countless daughters, Urbosa has loyally served the Gerudo people, "
+"and zealously believes in the Emperor's cause and the invasion of Hyrule. During "
+"Ganondorf's imprisonment at the hands of the Darknuts, she ruthlessly rallied the "
+"scattered Gerudo armies and established a network of allies to free her father and "
+"retake the entire Desert. Urbosa display and unwavering loyalty to Ganondorf and is "
+"jealous of his legal daughter, the Princess Riju. She is quite brutal in her demeanor "
+"and will to fight."
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:AINames[2]
+#: simulation/data/civs/gerudo.json:Factions[0].Heroes[2].Name
+msgid "General Urbosa"
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:Factions[0].Heroes[3].History
+msgid ""
+"The daughter of Ganondorf and Nabooru, Riju is the only heir to the Gerudo throne. "
+"Because of her youth, she tends to be shunned from events in Hyrule, and usually spends"
+" her time raising the Sandseals of the Desert. However, as the actions of her father "
+"tear Hyrule apart, the young princess is drawn closer to action. Riju believes that the"
+" survival of the Gerudo people is through reaching out to other cultures, and not "
+"through the conquest her father seeks. Many Gerudo see such ideas as naive, and certain"
+" to doom their people."
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:AINames[3]
+#: simulation/data/civs/gerudo.json:Factions[0].Heroes[3].Name
+msgid "Princess Makeela Riju"
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:History
+msgid ""
+"A desert-dwelling race of female warriors, the Gerudo are descended from an ancient and"
+" powerful empire that stretched across the western sands of Hyrule for countless "
+"centuries. Surrounded on all sides by hostile nations, scarce resources, and a curse "
+"that wiped out all the men of their race, the Gerudo have suffered a continuous barrage"
+" of brutal hardships, setbacks, and wars without abandon."
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:Name
+msgid "Gerudo"
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:Structures[0].History
+msgid ""
+"Standing tall and defiant against the harsh winds of the Haunted Wasteland, the Desert "
+"Colossus is a true beacon of Gerudo masonry and engineering. Built in the likeness of "
+"the First Sage of Spirits, Kovaloo, the Desert Colossus guards the entrance to the "
+"Spirit Temple: a place of meditation, reflection, and communion with the souls of the "
+"deceased. (In Aura, +2 Attack Internal per Garrison Unit - Buildings, +50% Territory "
+"Influence)"
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:Structures[0].Name
+msgid "Wonder: Desert Colossus"
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:Structures[1].History
+msgid ""
+"The surrogate mothers of Ganondorf, the twin sisters Koume and Kotake are capable of "
+"magically merging into a powerful and malevolent entity known as Twinrova. When "
+"combined, the witches are capable of unleashing devastating fire and ice magic against "
+"enemies."
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:Structures[1].Name
+msgid "Titan: Twinrova, the Sorceress Sisters"
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:TeamBonuses[0].Description
+msgid "Allies gain +10% Loot"
+msgstr ""
+
+#: simulation/data/civs/gerudo.json:TeamBonuses[0].Name
+msgid "Spoils of War"
+msgstr ""
+
+#: simulation/data/civs/gohma.json:CivBonuses[0].Description
+msgid "Gohma buildings cannot be captured by any means."
+msgstr ""
+
+#: simulation/data/civs/gohma.json:CivBonuses[0].Name
+msgid "Infestation"
+msgstr ""
+
+#: simulation/data/civs/gohma.json:CivBonuses[1].Description
+msgid "Gohma can harvest Food from the corpses of all slain organic units, including their own."
+msgstr ""
+
+#: simulation/data/civs/gohma.json:CivBonuses[1].Name
+msgid "All-Consuming"
+msgstr ""
+
+#: simulation/data/civs/gohma.json:CivBonuses[2].Description
+msgid "All Gohma Buildings spawn sterile larvae when destroyed."
+msgstr ""
+
+#: simulation/data/civs/gohma.json:CivBonuses[2].Name
+msgid "Hive Affinity"
+msgstr ""
+
+#: simulation/data/civs/gohma.json:Factions[0].Heroes[0].History
+msgid ""
+"Sulkaris once served as a First Sage, a guardian of the Triforce and the world of "
+"Hyrule from the corruption of demons and other malevolent beings. Sometime early in her"
+" existence, she deemed it necessary to take the Triforce into her own hands and assume "
+"control of Hyrule. She was stopped by her fellow First Sages, stripped of her powers, "
+"and banished to Hyrule forever. She proceeded to wage war against the many nations of "
+"Hyrule, eventually being slain by King Gustaf. Sulkaris had far more planned, however. "
+"After her fall, she came across the Gohma and discovered a way to unite them all under "
+"her influence. Now all Gohma exist as extensions of her will, and so long as they live "
+"she can endlessly respawn until her mission is fulfilled."
+msgstr ""
+
+#: simulation/data/civs/gohma.json:AINames[0]
+#: simulation/data/civs/gohma.json:Factions[0].Heroes[0].Name
+msgid "Sulkaris, the Fallen Sage"
+msgstr ""
+
+#: simulation/data/civs/gohma.json:Factions[0].Heroes[1].History
+msgid ""
+"As a child, Agitha was fond of insects and arachnids and would often collect them "
+"within the basement of her house to occupy her time while her parents were gone. When "
+"the Gerudo Wars claimed the lives of her parents, a Gohma that she had in her "
+"possession made a then-defeated Sulkaris aware of her trauma. She took advantage of "
+"Agitha's grief, tricking the young girl into becoming a pawn of the Gohma. Agitha is "
+"completely out of step with reality, the trauma of her missing parent coloring her view"
+" of the world. She sees the will of the Gohma as the only means to solve Hyrule's "
+"problems, in particular that of loneliness. She sees Sulkaris as a mother figure, "
+"perhaps filling the void her own parents left."
+msgstr ""
+
+#: simulation/data/civs/gohma.json:AINames[1]
+#: simulation/data/civs/gohma.json:Factions[0].Heroes[1].Name
+msgid "Agitha"
+msgstr ""
+
+#: simulation/data/civs/gohma.json:Factions[0].Heroes[2].History
+msgid ""
+"Once a chieftain of the Kokiri, Mido was tricked by the will of Sulkaris with promises "
+"of power over his people. In return he was exiled by the Great Deku Tree, losing "
+"everything he had and becoming a pawn of the Gohma. To this day, he blames the outcome "
+"of his life on the Great Deku Tree, whom he plot to take revenge upon. Luckily for him,"
+" his wish coincides with Sulkaris, who also seeks the destruction of the forest "
+"guardian."
+msgstr ""
+
+#: simulation/data/civs/gohma.json:AINames[2]
+#: simulation/data/civs/gohma.json:Factions[0].Heroes[2].Name
+msgid "Mido"
+msgstr ""
+
+#: simulation/data/civs/gohma.json:Factions[0].Heroes[3].History
+msgid ""
+"The Matriarch is one of the oldest surviving Gohma in all of Hyrule. A massive Queen "
+"that has grown to frightening proportions, the Matriarch can lay thousands of eggs in a"
+" single day and shows no sign of stopping anytime soon. It is rumored that Matriarch "
+"was the Gohma that Sulkaris first encountered, and imbued with the will to dominate and"
+" destroy. The Matriarch is also believed to be one of the sources of the Gohma's Will; "
+"creating and expanding it through the blue Shroud of their hives."
+msgstr ""
+
+#: simulation/data/civs/gohma.json:AINames[3]
+#: simulation/data/civs/gohma.json:Factions[0].Heroes[3].Name
+msgid "Matriarch"
+msgstr ""
+
+#: simulation/data/civs/gohma.json:Factions[0].Technologies[0].Name
+msgid "Farms, Fruit, Meat, Fish, Corpses, Wood, Stone, Metal, Rupees, and Force Gems"
+msgstr ""
+
+#: simulation/data/civs/gohma.json:History
+msgid ""
+"In all the dark corners of Hyrule lurk the spider-like Gohma. Incredibly ancient, these"
+" arachnid monsters are the oldest surviving creature native to Hyrule. They were purged"
+" by even more powerful ancient forces, broken and left wandering the world as animals "
+"for countless ages. That is, until a Fallen Sage discovered a way to resurrect their "
+"lost power and use it to her own ends..."
+msgstr ""
+
+#: simulation/data/civs/gohma.json:Name
+msgid "Gohma"
+msgstr ""
+
+#: simulation/data/civs/gohma.json:Structures[0].History
+msgid ""
+"One of the seven eyes of Iemanis that morphed and grew into a new form after its body "
+"was destoyed in ages past, Vitreous lurked without purpose beneath the Misery Mire for "
+"countless ages, until the Gohma found and reintegrated it into their Hive. The eyes of "
+"Vitreous relentlessly observe everything around them, torching invaders with powerful "
+"electric shocks when they meet their gaze. With the eyes and the power of Sulkaris the "
+"Gohma can reconstruct the form of Iemanis."
+msgstr ""
+
+#: simulation/data/civs/gohma.json:Structures[0].Name
+msgid "Wonder: Eyes of Vitreous"
+msgstr ""
+
+#: simulation/data/civs/gohma.json:Structures[1].History
+msgid ""
+"The creator and deity of the Gohma, revived from death after countless ages, through "
+"the Will of Sulkaris, using the remains of Vitreous and six of the Sage Medallions. "
+"This massive arthropod attacks with claws, electric bolts, and a giant beam of fire "
+"from its primary eye. Iemanis can also spawn new swarms of Gohma directly from its "
+"body, replenishing the ranks of its army."
+msgstr ""
+
+#: simulation/data/civs/gohma.json:Structures[1].Name
+msgid "Titan: Iemanis, God of the Gohma"
+msgstr ""
+
+#: simulation/data/civs/gohma.json:TeamBonuses[0].Description
+msgid "Allies receive +1 pop from each House and Civil Center."
+msgstr ""
+
+#: simulation/data/civs/gohma.json:TeamBonuses[0].Name
+msgid "Hive Regiments"
+msgstr ""
+
+#: simulation/data/civs/goron.json:AINames[0]
+msgid "King Darunia, Sage of Fire"
+msgstr ""
+
+#: simulation/data/civs/goron.json:AINames[1]
+msgid "Daruk the Elder"
+msgstr ""
+
+#: simulation/data/civs/goron.json:AINames[2]
+msgid "Dangoro, Guardian of Death Mountain"
+msgstr ""
+
+#: simulation/data/civs/goron.json:AINames[3]
+msgid "Medigoron, Leader of the Brotherhood"
+msgstr ""
+
+#: simulation/data/civs/goron.json:AINames[4]
+msgid "Gor Ebizo"
+msgstr ""
+
+#: simulation/data/civs/goron.json:AINames[5]
+msgid "Gor Coron"
+msgstr ""
+
+#: simulation/data/civs/goron.json:CivBonuses[0].Description
+msgid "Goron Miners can carry 20% more resources than other faction's worker units."
+msgstr ""
+
+#: simulation/data/civs/goron.json:CivBonuses[0].Name
+msgid "Strength Greater than Men"
+msgstr ""
+
+#: simulation/data/civs/goron.json:CivBonuses[1].Description
+msgid "Defensive Emplacements build 25% faster."
+msgstr ""
+
+#: simulation/data/civs/goron.json:CivBonuses[1].Name
+msgid "Mountain Defenders"
+msgstr ""
+
+#: simulation/data/civs/goron.json:CivBonuses[2].Description
+msgid "Stronghold can be built in Town Phase instead of City Phase."
+msgstr ""
+
+#: simulation/data/civs/goron.json:CivBonuses[2].Name
+msgid "Protectors of the Earth"
+msgstr ""
+
+#: simulation/data/civs/goron.json:Factions[0].Heroes[0].History
+msgid ""
+"The King of the Gorons and third in the line of Fire Sages, Darunia has lead his people"
+" for over a century through countless hardships. Be it overthrowing Volvagians, or "
+"fighting off the longest winters Death Mountain has faced, there is a distinct "
+"possibility that without his leadership, the Gorons may have gone extinct. Darunia is "
+"known for his aggressive mannerisms, though he is quite jovial and friendly to those "
+"that earn his respect. Dancing is among his favorite pastimes. and he will search far "
+"and wide across Hyrule to listen to the music of other races."
+msgstr ""
+
+#: simulation/data/civs/goron.json:Factions[0].Heroes[0].Name
+msgid "Darunia, Sage of Fire"
+msgstr ""
+
+#: simulation/data/civs/goron.json:Factions[0].Heroes[1].History
+msgid ""
+"The younger brother of Darunia, Daruk was one of the many Gorons who rebelled against "
+"the Volvagian Tyrants. Though victorious in freeing his people, Daruk was furious that "
+"his brother was named a Sage for reasons that have remained personal between the two "
+"for nearly a century. A rift grew between the two brothers, and Daruk left the Death "
+"Mountain Range and wandered into seclusion. Like his brother, Daruk is quite an excited"
+" and openly friendly person. In their youth, many a hard time telling the two apart. "
+"Age has differentiated the two brothers, and Daruk now comes across as a man who has "
+"clearly lost pride in his people."
+msgstr ""
+
+#: simulation/data/civs/goron.json:Factions[0].Heroes[1].Name
+msgid "Elder Daruk"
+msgstr ""
+
+#: simulation/data/civs/goron.json:Factions[0].Heroes[2].History
+msgid ""
+"Raised in the mines of the Death Mountain Crater, Dangoro has seen quite a life of "
+"hardship. After saving Darunia from a Dodongo trap, he was plucked out of his duty as a"
+" miner and became a guardian brother. Dangoro may not be bright, but he is quick to "
+"recognize a threat and deal with it. He traditionally wears rather heavy armor and "
+"powerful gauntlets and is not shy of ramming into and punching his targets without "
+"abandon."
+msgstr ""
+
+#: simulation/data/civs/goron.json:Factions[0].Heroes[2].Name
+msgid "Dangoro"
+msgstr ""
+
+#: simulation/data/civs/goron.json:Factions[0].Heroes[3].History
+msgid ""
+"The younger brother of the legendary Biggoron, Medigoron may only be about half his "
+"size, but he still is quite large even for a Goron. He lacks the creative skill of his "
+"brother, but certainly knows how to use the weapons that Biggoron creates to great "
+"effect. He has participated in perhaps more battles than any other Goron, and shows "
+"many scars from his victories. Medigoron is a warrior and a follower, known for his "
+"ability to act out and succeed. Conversely, he's not particularly bright and lacks "
+"foresight, perhaps one of the reasons he favors being a brawler."
+msgstr ""
+
+#: simulation/data/civs/goron.json:Factions[0].Heroes[3].Name
+msgid "Medigoron"
+msgstr ""
+
+#: simulation/data/civs/goron.json:Factions[0].Technologies[0].Name
+msgid "Rock Sirloin, Stone, Metal, Rupees, Gold, and Force Gems"
+msgstr ""
+
+#: simulation/data/civs/goron.json:History
+msgid ""
+"Mighty rock-men hailing from the peaks of Death Mountain, the Gorons are a people of "
+"warriors, miners and boisterous party-goers. Hyrule's mightiest weapons are crafted by "
+"their hands, and the outcome of many wars has rested on their involvement. Their "
+"tenacity for battle is legendary and has earned them a place in the vast history of the"
+" land."
+msgstr ""
+
+#: simulation/data/civs/goron.json:Name
+msgid "Gorons"
+msgstr ""
+
+#: simulation/data/civs/goron.json:Structures[0].History
+msgid ""
+"A mysterious giant urn that seems to move and dance about of its own will. The Gorons "
+"claim that the spirit of Maphaeus, the First Sage of Fire, possesses the Urn and "
+"entices it to dance. Regardless of the source of its magical animation, the Gorons "
+"revere the urn as the greatest work of art their culture has produced. (In Aura, +25% "
+"Health - Buildings, +50% Territory Influence)"
+msgstr ""
+
+#: simulation/data/civs/goron.json:Structures[0].Name
+msgid "Wonder: Urn of Maphaeus"
+msgstr ""
+
+#: simulation/data/civs/goron.json:Structures[1].History
+msgid ""
+"Perhaps the largest Goron in all of recorded history, Biggoron lives a mostly solitary "
+"life on the peak of Death Mountain. It is there that he spends most of his time "
+"perfecting the refinement of metals. His work has become the basis for forging some of "
+"the Goron’s most powerful weaponry and armor. Despite his name being associated with "
+"weaponry and bloodshed, Biggoron is a pacifist at heart, and creates his work for the "
+"sake of art and self-defense."
+msgstr ""
+
+#: simulation/data/civs/goron.json:Structures[1].Name
+msgid "Titan: Biggoron"
+msgstr ""
+
+#: simulation/data/civs/goron.json:TeamBonuses[0].Description
+msgid "+10% Health to Allied buildings."
+msgstr ""
+
+#: simulation/data/civs/goron.json:TeamBonuses[0].Name
+msgid "Mountain Masonry"
+msgstr ""
+
+#: simulation/data/civs/hylian.json:AINames[2]
+msgid "Lana"
+msgstr ""
+
+#: simulation/data/civs/hylian.json:AINames[3]
+msgid "Captain Krin"
+msgstr ""
+
+#: simulation/data/civs/hylian.json:AINames[4]
+msgid "Seres"
+msgstr ""
+
+#: simulation/data/civs/hylian.json:CivBonuses[0].Description
+msgid "25% Territory influence for all Town Halls."
+msgstr ""
+
+#: simulation/data/civs/hylian.json:CivBonuses[0].Name
+msgid "Dominant Power"
+msgstr ""
+
+#: simulation/data/civs/hylian.json:CivBonuses[1].Description
+msgid "Markets generate Territory Rings."
+msgstr ""
+
+#: simulation/data/civs/hylian.json:CivBonuses[1].Name
+msgid "Center of Hyrule"
+msgstr ""
+
+#: simulation/data/civs/hylian.json:CivBonuses[2].Description
+msgid "Can build non-military Buildings in neutral Territory adjacent to territory ring."
+msgstr ""
+
+#: simulation/data/civs/hylian.json:CivBonuses[2].Name
+msgid "City Creators"
+msgstr ""
+
+#: simulation/data/civs/hylian.json:Factions[0].Heroes[0].History
+msgid ""
+"The fifth Princess to bear the name Zelda, Tetralyna comes from a long line of royalty "
+"composing the Kingdom's second dynasty. She is one of the youngest rulers to ascend to "
+"the throne, at just the age of eighteen. Princess Zelda was known to be extremely "
+"cautious, preferring to ponder in wisdom before acting out. She is occasionally aided "
+"by powerful premonitions, and will often wait to see if such visions give her foresight"
+" of a situation."
+msgstr ""
+
+#: simulation/data/civs/hylian.json:AINames[0]
+#: simulation/data/civs/hylian.json:Factions[0].Heroes[0].Name
+msgid "Princess Tetralyna Zelda V"
+msgstr ""
+
+#: simulation/data/civs/hylian.json:Factions[0].Heroes[1].History
+msgid ""
+"Link is a descendant of King Gustaf and the heir to his lost First Dynasty. After "
+"Gustaf and his wife Siroc's children were chased into hiding by the false Goddess "
+"Hylia, they maintained secrecy over countless generations and hid their lineage. At a "
+"young age, Link's father was killed and he was then raised by his mother and uncle. "
+"When the Gerudo Wars claimed both their lives, the Order of the Wizzrobe adopted him "
+"under the suspicion that he was the lost heir of Gustaf. Hylia personally trained Link "
+"before unleashing him unto Hyrule to do her bidding."
+msgstr ""
+
+#: simulation/data/civs/hylian.json:AINames[1]
+#: simulation/data/civs/hylian.json:Factions[0].Heroes[1].Name
+msgid "Link, Heir of King Gustaf"
+msgstr ""
+
+#: simulation/data/civs/hylian.json:Factions[0].Heroes[2].History
+msgid ""
+"A young woman who's parentage can be traced back to Calatia, Lana was trained as a "
+"Deacon under Rauru. Feeling unfullfilled with her humble clergy role, Lana studied more"
+" esoteric magics in secret with the help of the shady Wizzrobes in Byrna. Though her "
+"loyaties to the crown and Hyrule are not in question, many including Rauru feel her "
+"immense powers are more than enough for her to control."
+msgstr ""
+
+#: simulation/data/civs/hylian.json:Factions[0].Heroes[2].Name
+msgid "Lanafi Valashi"
+msgstr ""
+
+#: simulation/data/civs/hylian.json:Factions[0].Heroes[3].History
+msgid ""
+"Ascended to an immortal and ageless Sage, Rauru has served the Kingdom of Hyrule for "
+"several centuries. He has participated in several of its greatest wars, notably Ganon's"
+" first invasion of Hyrule and later the Gerudo Wars. Rauru later oversaw the "
+"construction of the Temple of Time with the ancient Oocca. He spends most of his later "
+"years preaching the word of the Goddesses and guarding over the gate that houses the "
+"Triforce."
+msgstr ""
+
+#: simulation/data/civs/hylian.json:AINames[5]
+#: simulation/data/civs/hylian.json:Factions[0].Heroes[3].Name
+msgid "Rauru, Sage of Light"
+msgstr ""
+
+#: simulation/data/civs/hylian.json:History
+msgid ""
+"The imperial monarchy known as the Kingdom of Hyrule is one of the longest-lived and "
+"most powerful empires to have existed. For nearly three-thousand years the Hylian "
+"people have rallied behind the banner of the winged Triforce, creating one of the "
+"largest and most successful armies the land has ever known."
+msgstr ""
+
+#: simulation/data/civs/hylian.json:Name
+msgid "Kingdom of Hyrule"
+msgstr ""
+
+#: simulation/data/civs/hylian.json:Structures[0].History
+msgid ""
+"The Temple of Time, a marvel of architecture commissioned by the Oocca and designed by "
+"Rauru, the Sage of Light. Acting as a Church and housing the holy Triforce deep within "
+"its recesses, the Temple of Time is a shining wonder and revered structure across all "
+"of Hyrule. (Garrison and Heal up to 30 Units. +50% Territory Influence)"
+msgstr ""
+
+#: simulation/data/civs/hylian.json:Structures[0].Name
+msgid "Wonder: Temple of Time"
+msgstr ""
+
+#: simulation/data/civs/hylian.json:Structures[1].History
+msgid ""
+"A powerful spirit of the world that was bound against her will within the Master Sword."
+" Now freed from her prison, Fi exhibits tremendous power and can bring animated swords "
+"against enemies of the Kingdom."
+msgstr ""
+
+#: simulation/data/civs/hylian.json:Structures[1].Name
+msgid "Titan: Fi, Spirit of the Master Sword"
+msgstr ""
+
+#: simulation/data/civs/hylian.json:TeamBonuses[0].Description
+msgid "Allied Civil Centers gain +10% Territory Influence."
+msgstr ""
+
+#: simulation/data/civs/hylian.json:TeamBonuses[0].Name
+msgid "Vassals"
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:AINames[3]
+msgid "Gulley"
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:CivBonuses[0].Description
+msgid ""
+"All buildings create fertile terrain and can generate trees to be harvested for "
+"Material."
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:CivBonuses[0].Name
+msgid "Blessed Fertility"
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:CivBonuses[1].Description
+msgid "Kokiri buildings do not decay outside of territory, they only lose ownership."
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:CivBonuses[1].Name
+msgid "Forest Symbiosis"
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:CivBonuses[2].Description
+msgid "All Kokiri units are invisible when standing still."
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:CivBonuses[2].Name
+msgid "Camouflage"
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:Factions[0].Heroes[0].History
+msgid ""
+"Birthed to become the heir of the Great Deku Tree's Sagehood and Queen of the Kokiri, "
+"Saria was his most prized creation. Despite his attempts to protect the Kokiri, Saria "
+"was killed in battle and the Great Deku Tree was forced to awaken her as a Sage much "
+"earlier then he anticipated."
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:AINames[0]
+#: simulation/data/civs/kokiri.json:Factions[0].Heroes[0].Name
+msgid "Saria, Sage of Forests"
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:Factions[0].Heroes[1].History
+msgid ""
+"One of Saria's close friends and a famous musician, Fado is skilled with all manner of "
+"stringed intruments. He often organizes the many Kokiri festivals, but when danger "
+"looms over the forest he plays a tune to keep spirits high and troops in marching "
+"order."
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:AINames[1]
+#: simulation/data/civs/kokiri.json:Factions[0].Heroes[1].Name
+msgid "Fado"
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:Factions[0].Heroes[2].History
+msgid ""
+"Mirora briefly served as the head Chief of the Kokiri after Mido's exile from the "
+"Forest. Although not quite suited for governance, Mirora's years of experience "
+"defending the borders of the Forest made her an ideal general."
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:AINames[2]
+#: simulation/data/civs/kokiri.json:Factions[0].Heroes[2].Name
+msgid "Chief Mirora"
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:Factions[0].Heroes[3].History
+msgid ""
+"The Great Deku Tree's only surviving sprouting, Kasuto is young, wide-eyed, and rather "
+"energetic compared to the older Deku Trees."
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:Factions[0].Heroes[3].Name
+msgid "Prince Kasuto"
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:Factions[0].Technologies[0].Name
+msgid "Food, Wood, Stone, and Rupees"
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:History
+msgid ""
+"Deep in the forests of eastern Hyrule rested a kingdom unlike any other. Under the "
+"guidance and lordship of the Great Deku Tree, the childlike Kokiri arrested control of "
+"the woodland realm and established a land of peace and isolation. The Great Deku Tree's"
+" utopia would not last however, and as wars ravaged the surface of Hyrule time and "
+"again, such conflict would bring the Kokiri into the field of battle."
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:Name
+msgid "Kokiri"
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:Structures[0].Name
+msgid "Wonder: The Great Deku Tree's Grove"
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:Structures[0].Special
+msgid ""
+"The sacred grove of King Kasuto, the Great Deku Tree. This secluded shelter provides "
+"all that a Kokiri community needs, as well as houses the Great Deku Tree himself."
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:Structures[1].Name
+msgid "Titan: King Kasuto, the Great Deku Tree"
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:Structures[1].Special
+msgid ""
+"One of the most ancient beings in Hyrule, the Great Deku Tree assumed fathership of the"
+" Kokiri after his kind won a war against their violent ancestors. He has since shaped "
+"the Kokiri generation after generation, altering their nature on the path to becoming "
+"Koroks."
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:TeamBonuses[0].Description
+msgid "Allies gain a slow trickle of Material resources."
+msgstr ""
+
+#: simulation/data/civs/kokiri.json:TeamBonuses[0].Name
+msgid "Kin of the Forest"
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:CivBonuses[0].Description
+msgid "All un-upgraded buildings (but not units) are available to build in the village phase."
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:CivBonuses[0].Name
+msgid "Technocratic"
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:CivBonuses[1].Description
+msgid ""
+"All units have a 50% damage bonus to Minor Faction units and a 50% increase in Minor "
+"Faction capture rate."
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:CivBonuses[1].Name
+msgid "Annexation"
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:CivBonuses[2].Description
+msgid "Labrynna territory is 50% more resistant to enemy territory push."
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:CivBonuses[2].Name
+msgid "Secularism"
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:Factions[0].Heroes[0].History
+msgid ""
+"The latest member of the long lasting Ambi dynasty, Queen Solado Ambi was placed on the"
+" throne shortly after her father’s death. Later in her reign she encountered Veran, "
+"whom she quickly instated as her personal advisor. Soon after Ambi ushered in a new age"
+" of expansion and formerly established the new Empire. Queen Ambi was known as a kind "
+"and gentle person during the first part of her reign over Labrynna. Shortly after "
+"Veran’s insertion into her court however, Ambi’s attitude began to degenerate. Bouts of"
+" depression seemed to overcome her, as well as a great sense of impatience for "
+"everything."
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:AINames[0]
+#: simulation/data/civs/labrynna.json:Factions[0].Heroes[0].Name
+msgid "Queen Solado Ambi"
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:Factions[0].Heroes[1].History
+msgid ""
+"A mystery to all in Labrynna, even those most close to her, Veran’s past is a terrible "
+"saga of personal loss and trauma. Once a Great Fairy, circumstances in the past lead to"
+" her banishment to the Realm of Twilight with other criminal elements of her people. "
+"Sometime during the Gerudo Wars she managed to return into Hyrule, fleeing far to the "
+"east into Labrynna where she observed and became friends with Queen Ambi. Currently "
+"Veran’s plan is unknown. She is however quite clearly connected to Labrynna’s rapid and"
+" extreme military growth. She is the architect of the Black Tower, a massive monolithic"
+" structure designed to serve as the new throne of Queen Ambi. Some suspect there’s more"
+" to the tower’s purpose than just an ego trip for Veran’s royal friend, however."
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:AINames[1]
+#: simulation/data/civs/labrynna.json:Factions[0].Heroes[1].Name
+msgid "Veran, Sorceress of Shadows"
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:Factions[0].Heroes[2].History
+msgid ""
+"The grandson of Queen Ambi, Ralphonso was born of the first generation to live during "
+"Labrynna’s new Empire. Machinery is second nature to him, and years of education had "
+"landed him an internship commanding batteries of cannons. Despite Ralph’s clear "
+"admiration for Labrynna’s technological prowess, he feels Labrynna has gone into a "
+"stage of decline as if something is missing. He has since turned to seeking out the "
+"supernatural, in particular he hopes to uncover the mythical Fairies and ancient "
+"creatures that once coexisted in his homeland."
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:AINames[2]
+#: simulation/data/civs/labrynna.json:Factions[0].Heroes[2].Name
+msgid "Prince Ralphonso Ambi"
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:Factions[0].Heroes[3].History
+msgid ""
+"A man of towering stature, Edgar earned his nickname for both his height and incredible"
+" strength. He earned his place as a General not for his physical prowess however, but "
+"for his battlefield strategy. Initially Homeguard to Labrynna, the Empire's expansion "
+"has seen him leading troops on frontlines, and instead of fighting off Lynels he has "
+"found himself conquering them. In recent times he has found himself supervising the "
+"young and arrogant Ralph on behalf of the Queen just as much as he has been ordered to "
+"march out further north."
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:AINames[3]
+#: simulation/data/civs/labrynna.json:Factions[0].Heroes[3].Name
+msgid "Edgar the Giant"
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:History
+msgid ""
+"Once a shining beacon of civilization in the east, Labrynna served as a Province to the"
+" Kingdom of Hyrule and important connection to the Great Sea. In recent years the Great"
+" Fairy Veran had managed to worm her way into the trust of the Labrynnian Royal Court, "
+"advancing their military might and political power. Now no longer a Province of the "
+"Kingdom of Hyrule, Labrynna plans to challenge the crown with its expanding armies."
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:Name
+msgid "Kingdom of Labrynna"
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:Structures[0].History
+msgid ""
+"A giant and imposing tower orchestrated by Veran as the new throne of Queen Ambi. The "
+"staggering amount of resources Labrynna obtained to construct this massive structure "
+"has been fueled by their aggressive expansion into all neighboring lands. In truth, "
+"there is more to the Black Tower's purpose then a mere show of ego."
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:Structures[0].Name
+msgid "Wonder: The Black Tower"
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:Structures[1].History
+msgid ""
+"Once a powerful force of nature that watched over the land of Labrynna, upon Veran’s "
+"arrival the personality of the Maku Tree seemed to have dramatically changed. The "
+"being’s visual appearance has changed to reflect the shift as well. Now fueled with "
+"power from Labrynna’s might, the Maku Tree’s once kind and gentle demeanor has warped "
+"into that of a bloodthirsty and battle ready beast. Whatever the truth behind her "
+"transformation, it’s clear that the Maku Tree is now out to conquer the land rather "
+"than guard it from invaders."
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:Structures[1].Name
+msgid "Titan: The Maku Tree of Labrynna"
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:TeamBonuses[0].Description
+msgid "10% time reduction to all ally research times."
+msgstr ""
+
+#: simulation/data/civs/labrynna.json:TeamBonuses[0].Name
+msgid "Scientific Method"
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:CivBonuses[0].Description
+msgid "All land units can move or swim through deep water."
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:CivBonuses[0].Name
+#: simulation/data/civs/zora.json:CivBonuses[0].Name
+msgid "Aquatic"
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:CivBonuses[1].Description
+msgid ""
+"Every completed Hub spawns a pair of Conscripts. Begins every match with an extra pair "
+"of Conscripts."
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:CivBonuses[1].Name
+msgid "Volunteer Armies"
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:CivBonuses[2].Description
+msgid ""
+"All Currency harvested from Precious Metal sources also provide 50% of their value in "
+"Ore, 75% if it's from a Silver source."
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:CivBonuses[2].Name
+msgid "Kingdom of the Silver Snake"
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:Factions[0].Heroes[0].History
+msgid ""
+"The former wife of King Zora De Bon XVI, Rutela eventually split from the Dominion and "
+"more or less formally sanctified Lanayru Province as a distinct nation. Prior to her "
+"marriage she was a general in the Dominion's army and had participated in the defense "
+"against Ganon's first invasion. Perhaps because of her military background, Queen "
+"Rutela was not above educating her people in the means of self defense and combat. "
+"Despite this, she was incredibly kind and clearly a non-violent pacifist in her "
+"policies and goals."
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:AINames[0]
+#: simulation/data/civs/lanayru.json:Factions[0].Heroes[0].Name
+msgid "Queen Rutela"
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:Factions[0].Heroes[1].History
+msgid ""
+"The Son of King De Bon and Queen Rutela, Ralis was born shortly after the royal "
+"divorce. For most of his life he lacked a father figure and was raised entirely by his "
+"mother, perhaps stunting his maturity as a result. He was seen as a late bloomer, and "
+"somewhat immature for his age in the eyes of others outside of the royal court. Ralis "
+"took notice of outsider opinions, and after the death of his mother he began a quest to"
+" achieve what he hoped was the manhood that his father was never able to teach him. "
+"Perhaps foolishly he associated bravado and aggressiveness with masculinity, leading to"
+" him becoming a somewhat reckless warrior Prince."
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:AINames[1]
+#: simulation/data/civs/lanayru.json:Factions[0].Heroes[1].Name
+msgid "Prince Ralis"
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:Factions[0].Heroes[2].History
+msgid ""
+"Aydia was a long serving Marshal in Lanayru's army. She was almost entirely responsible"
+" for the Province's conscription program and without it the nation would have likely "
+"fell from a lack of military force. She has perhaps participated in more battles than "
+"any other Zora of the north, and bears scars from her numerous engagements. Aydia comes"
+" from a family with a long line of military tradition and firmly believed a strong "
+"standing army that could engage in prolonged warfare was necessary for Lanayru Province"
+" to survive. While not a warmonger by any means, she was never slow to suggest direct "
+"military action as a solution to any potential problem. "
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:AINames[2]
+#: simulation/data/civs/lanayru.json:Factions[0].Heroes[2].Name
+msgid "Aydia Dorephan"
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:Factions[0].Heroes[3].History
+msgid ""
+"The only daughter of Aydia, Mipha was encouraged from a young age to follow her in her "
+"mother's footsteps and uphold her family's military lineage. Despite some talent with "
+"pole-arms, Mipha felt her place was not in taking life, but healing it. Under the "
+"tutelage of Zaleen the young Mipha learned a variety of healing arts, both magical and "
+"medicinal, and hopes to become a great doctor one day. Mipha is a very private and "
+"introverted person despite her desire to help so many people. Very few people know much"
+" of her personal life, other than her habit of fishing in Airu with her younger "
+"brother."
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:AINames[3]
+#: simulation/data/civs/lanayru.json:Factions[0].Heroes[3].Name
+msgid "Mipha Dorephan"
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:Factions[0].Technologies[0].Name
+msgid ""
+"Food: Farms, Fruit, Meat, Fish, Material: Stone Ore: Metal, Coralmold Currency: Rupees,"
+" Gold, Force Gems"
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:History
+msgid ""
+"Originally established as a small vassal state through the union of Hylian and Zora "
+"marriages, Lanayru Province quickly grew to become an economic juggernaut that "
+"financially rivalled the larger empires of the world. The bountiful resources of their "
+"homeland allowed for rapid wealth, but made the small and young nation a prime target "
+"for constant invasions at the hands of greedy and hungry forces."
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:Name
+msgid "Lanayru Province"
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:Structures[0].Name
+msgid "Wonder: Rutala Dam"
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:Structures[0].Special
+msgid ""
+"This massive structure was built across the Airu River near its source in the Death "
+"Mountain range. It was able to regulate the flow of water through Lanayru Province as "
+"well as habor aquatic life in its reservoir. (+50% Territory Influence.)"
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:Structures[1].Name
+msgid "Titan: Vrylonacia, Spirit of Lanayru"
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:Structures[1].Special
+msgid ""
+"A primordial Spirit from which Lanayru Province is named after, Vrylonacia was likely "
+"worshiped as a pagan deity by ancient Zora before the Akkalans arrived? in the area and"
+" introduced worship of the Goddesses. Legend says that Vrylonacia fled the coast and "
+"into the south and slumbers somewhere beneath Hyrule's waters. While no longer active "
+"?in the world, Vrylonacia's influence and symbols can be found throughout all of the "
+"Province's architecture and culture."
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:TeamBonuses[0].Description
+msgid "Allies gain a slow trickle of Currency Resources."
+msgstr ""
+
+#: simulation/data/civs/lanayru.json:TeamBonuses[0].Name
+msgid "International Banking"
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:CivBonuses[0].Description
+msgid ""
+"Lizalfos units killed in battle give a temporary bonus to the combat damage of nearby "
+"units."
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:CivBonuses[0].Name
+msgid "Blood Frenzy"
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:CivBonuses[1].Description
+msgid "Lizalfos begin a game with herdable animals instead of soldiers."
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:CivBonuses[1].Name
+msgid "Initiation Sacrifices"
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:CivBonuses[2].Description
+msgid "All sources of meat and fish harvested by Lizalfos last 15% longer."
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:CivBonuses[2].Name
+msgid "Carnivore Kings"
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:Factions[0].Heroes[0].History
+msgid ""
+"Hailing from the once minuscule and politically weak Clutch of pure White, Nardu's "
+"mysterious rise to power and assumption of Matron made her family line the most "
+"recognized over night. There is much confusion around how Nardu amassed such power from"
+" nothing, but none dare confront her lest they encourage their own sacrifice at the "
+"altar. Though she can be incredibly violent, Nardu is a bit uncharacteristic for a "
+"Lizalfos. She believes all the Pantheon of gods unworthy of worship, and seeks to prove"
+" that only she herself is deserving of worship by her people."
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:AINames[0]
+#: simulation/data/civs/lizalfos.json:Factions[0].Heroes[0].Name
+msgid "Nardu the White"
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:Factions[0].Heroes[1].History
+msgid ""
+"The last Aeralfos to have lived during the time of the old Death Mountain Empire, Vakat"
+" the Winged was once a respected leader of the Lizalfos people before the Gorons drove "
+"them into the south. Now many see him as an old fool, blaming him and the other "
+"Aeralfos for losing their homeland to the Gorons. Perhaps because of so many years of "
+"shame, Vakat is a pessimist and often spends his time in the wilderness alone. One day "
+"he wishes to find a way to restore his and his people�s status."
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:AINames[1]
+#: simulation/data/civs/lizalfos.json:Factions[0].Heroes[1].Name
+msgid "Vakat the Winged"
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:Factions[0].Heroes[2].History
+msgid ""
+"The twisted offspring of a Dinalfos and Volvagian union, Talik the Red enjoys the "
+"cowering fear she brings forth from her people due to the blood in her veins. The right"
+" hand enforcer of Nardu the White, Talik is brought in when brute force is needed to "
+"accomplish the Queen�s ends. Talik believes herself superior to all other Lizalfos "
+"kind, a trait likely encouraged by her Volvagian parentage and towering size. She holds"
+" little respect for anyone, save the White Queen. It is unknown why Talik thinks so "
+"highly of Nardu or why she so loyally serves her, but many think the key the Queen�s "
+"power lies in their cooperation."
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:AINames[2]
+#: simulation/data/civs/lizalfos.json:Factions[0].Heroes[2].Name
+msgid "Talik the Red"
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:Factions[0].Heroes[3].History
+msgid ""
+"A Chameleofos born long after the Lizalfos were driven from the north, Okakusha has "
+"defended the Faron borders most of her adult life and not thought much of the world "
+"beyond them. She follows the deity Faron rather wholeheartedly, believing her people "
+"are fortunate that he granted them a new empire in his forest. Lately Okakusha has "
+"become somewhat disturbed by the rise of Nardu the White and the increasing popularity "
+"of retaking Death Mountain. Why risk another collapse when the new Lizalfos empire is "
+"just beginning to thrive in the forest?"
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:AINames[3]
+#: simulation/data/civs/lizalfos.json:Factions[0].Heroes[3].Name
+msgid "Okakusha the Green"
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:Factions[0].Technologies[0].Name
+#: simulation/data/civs/moblin.json:Factions[0].Technologies[0].Name
+msgid "Meat, Fish, Wood, Stone, Metal, Rupees, Gold, and Force Gems"
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:History
+msgid ""
+"Once the lords of the Death Mountain range before a defeat at the hands of the Gorons "
+"drove them into exodus, the Lizalfos settled deep in the forests south of their "
+"homeland. After decades they had rebuilt their brutal empire and carved their borders "
+"all throughout Faron. While many of their kin are content to hunt and dance in their "
+"newfound home, some have more ambitions to expand their holdings."
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:Name
+msgid "Lizalfos"
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:Structures[0].History
+msgid ""
+"The Eastern Palace was found in ruins by the Lizalfos after their long exodus from "
+"Death Mountain. A generation later and the abandoned seat of royalty had been "
+"refurbished and converted to a massive temple of worship for the Helmasaur King. Turtle"
+" Rock once served a similar purpose on Death Mountain before the Lizalfos were driven "
+"out, save that it was Trinexx who was worshiped in its heated halls."
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:Structures[0].Name
+msgid "Wonders: Eastern Palace and Turtle Rock"
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:Structures[1].History
+msgid ""
+"Once a tyrant of Death Mountain, the Helmasaur King was driven from its homeland and "
+"settled in the Eastern Palace of Faron Woods where many Lizalfos have added him to "
+"their Pantheon of Gods. Although certainly smarter than an animal, Garnyle Og is hardly"
+" intelligent and is easily riled to fits of anger. His huge form can easily knock over "
+"buildings and his spiky carapace naturally impales enemies that try to get too close."
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:Structures[1].Name
+msgid "Titan: Garnyle Og, the Helmasaur King"
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:Structures[2].History
+msgid ""
+"The lord of Turtle Rock on Death Mountain, Trinexx was defeated by the Gorons and "
+"driven into the forests where the Lizalfos have added him to their Pantheon of Gods. A "
+"very large and powerful three headed Dodongo Snake, Trinexx can attack enemies with "
+"both fire and ice blasts and crush smaller victims with its central head. Only crushing"
+" damage or magic powers can crack the rocky shell of this mighty beast."
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:Structures[2].Name
+msgid "Titan: Trinexx, Lord of Turtle Rock"
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:TeamBonuses[0].Description
+msgid ""
+"Allies begin the game with herdable animals and bundles of other resources near their "
+"starting base. If their faction cannot harvest meat, they are replaced with appropriate"
+" sources of food."
+msgstr ""
+
+#: simulation/data/civs/lizalfos.json:TeamBonuses[0].Name
+msgid "Sacrificial Gifts"
+msgstr ""
+
+#: simulation/data/civs/minor_lonlon.json:CivBonuses[0].Name
+#: simulation/data/civs/minor_lonlon.json:Structures[0].Name
+#: simulation/data/civs/minor_lonlon.json:TeamBonuses[0].Name
+#: simulation/data/civs/minor_tokay.json:CivBonuses[0].Name
+#: simulation/data/civs/minor_tokay.json:Structures[0].Name
+#: simulation/data/civs/minor_tokay.json:TeamBonuses[0].Name
+#: simulation/data/civs/minor_zuna.json:CivBonuses[0].Name
+#: simulation/data/civs/minor_zuna.json:Structures[0].Name
+#: simulation/data/civs/minor_zuna.json:TeamBonuses[0].Name
+#: simulation/data/civs/npc_lonlon.json:CivBonuses[0].Name
+#: simulation/data/civs/npc_lonlon.json:Structures[0].Name
+#: simulation/data/civs/npc_lonlon.json:TeamBonuses[0].Name
+#: simulation/data/civs/npc_tokay.json:CivBonuses[0].Name
+#: simulation/data/civs/npc_tokay.json:Structures[0].Name
+#: simulation/data/civs/npc_tokay.json:TeamBonuses[0].Name
+#: simulation/data/civs/npc_zuna.json:CivBonuses[0].Name
+#: simulation/data/civs/npc_zuna.json:Structures[0].Name
+#: simulation/data/civs/npc_zuna.json:TeamBonuses[0].Name
+msgid "None"
+msgstr ""
+
+#: simulation/data/civs/minor_lonlon.json:Factions[0].Heroes[0].History
+#: simulation/data/civs/npc_lonlon.json:Factions[0].Heroes[0].History
+msgid ""
+"A renowned horse breeder and rancher all throughout Hyrule, Malon has sold countless "
+"horses to the Kingdom of Hyrule and the Ordonians from her farmland. She is perhaps the"
+" most skilled rider of her time and is deadly with a bow and arrow."
+msgstr ""
+
+#: simulation/data/civs/minor_lonlon.json:AINames[0]
+#: simulation/data/civs/minor_lonlon.json:Factions[0].Heroes[0].Name
+#: simulation/data/civs/minor_tokay.json:AINames[0]
+#: simulation/data/civs/minor_zuna.json:AINames[0]
+#: simulation/data/civs/npc_lonlon.json:AINames[0]
+#: simulation/data/civs/npc_lonlon.json:Factions[0].Heroes[0].Name
+#: simulation/data/civs/npc_tokay.json:AINames[0]
+#: simulation/data/civs/npc_zuna.json:AINames[0]
+msgid "Malon"
+msgstr ""
+
+#: simulation/data/civs/minor_lonlon.json:History
+#: simulation/data/civs/npc_lonlon.json:History
+msgid ""
+"Known throughout all of Hyrule for its famous horses and crops, Lon Lon Ranch has been "
+"in service for several generations and shows no sign of stopping. The ranch provides "
+"food for nearly a quarter of the Hylian populace, as well as a majority of the "
+"military's horses."
+msgstr ""
+
+#: simulation/data/civs/minor_lonlon.json:Name simulation/data/civs/npc_lonlon.json:Name
+msgid "Lon Lon Ranch"
+msgstr ""
+
+#: simulation/data/civs/minor_tokay.json:Factions[0].Heroes[0].History
+#: simulation/data/civs/npc_tokay.json:Factions[0].Heroes[0].History
+msgid ""
+"Otaylo became Boss of the Tokay not because of power, intellect, or bloodlines... but "
+"because she bought a blue shirt to wear from Labrynna. Her actions inadvertedly lead to"
+" Labrynna duping most of her people into slavery, something she’s not all that proud "
+"of."
+msgstr ""
+
+#: simulation/data/civs/minor_tokay.json:Factions[0].Heroes[0].Name
+#: simulation/data/civs/npc_tokay.json:Factions[0].Heroes[0].Name
+msgid "Tokay Big Boss Otaylo"
+msgstr ""
+
+#: simulation/data/civs/minor_tokay.json:History simulation/data/civs/npc_tokay.json:History
+msgid ""
+"Hailing from Crescent Island just south of Labrynna, the Tokay were at first glance a "
+"tribal and primitive collection of people. Their odd manner of speaking, awkward "
+"behavior, and obsession with mundane items such as clothing rather than rupees gave "
+"them a reputaion of being backwards and outright stupid. Despite their quirky demenour,"
+" the Tokay proved to be more than a pushover tribe of spear wielding reptile "
+"barbarians."
+msgstr ""
+
+#: simulation/data/civs/minor_tokay.json:Name simulation/data/civs/npc_tokay.json:Name
+msgid "Tokay"
+msgstr ""
+
+#: simulation/data/civs/minor_zuna.json:Factions[0].Heroes[0].History
+#: simulation/data/civs/npc_zuna.json:Factions[0].Heroes[0].History
+msgid ""
+"The wealthiest and most powerful Zuna to have lived, Master Vorday amassed his assests "
+"by being a suck-up and yes-man to the various empires of the Gerudo Desert. While he "
+"may be seen as a total coward by outsiders, his habit of selling out to foreigners has "
+"lead to the Zuna becoming a giant merchant empire and biggest arms dealer in all of "
+"Hyrule."
+msgstr ""
+
+#: simulation/data/civs/minor_zuna.json:Factions[0].Heroes[0].Name
+#: simulation/data/civs/npc_zuna.json:Factions[0].Heroes[0].Name
+msgid "Master Vorday"
+msgstr ""
+
+#: simulation/data/civs/minor_zuna.json:History simulation/data/civs/npc_zuna.json:History
+msgid ""
+"Perhaps one of the oldest races native to the Gerudo Desert, the Zuna are an isolated "
+"culture of reptilian builders and weapon crafters. Though they seem fairly cordial with"
+" the Darknut Legion, the Zuna will rarely make contact with any other empire or race "
+"outside of weapon dealings. The skill with which the Zuna make their weapons is "
+"legendary, so legendary that the Darknut Legion employs them to create incredibly "
+"ornate swords for their soldiers. Despite their famous profession, the Zuna rarely ever"
+" engage in warfare and their public army usually only operates out of defense."
+msgstr ""
+
+#: simulation/data/civs/minor_zuna.json:Name simulation/data/civs/npc_zuna.json:Name
+msgid "Zuna"
+msgstr ""
+
+#: simulation/data/civs/moblin.json:CivBonuses[0].Description
+msgid "All Soldier units can gather meat and gain Resources for each attack against buildings."
+msgstr ""
+
+#: simulation/data/civs/moblin.json:CivBonuses[0].Name
+msgid "Pillagin' is the Best!"
+msgstr ""
+
+#: simulation/data/civs/moblin.json:CivBonuses[1].Description
+msgid "+10 Free Population cap bonus, even if you control no house structures."
+msgstr ""
+
+#: simulation/data/civs/moblin.json:CivBonuses[1].Name
+msgid "Pssh We Don't Need no Fancy Beds!"
+msgstr ""
+
+#: simulation/data/civs/moblin.json:CivBonuses[2].Description
+msgid ""
+"Moblins have no Civic Center, Phases, or techtree. All structures and units can be "
+"created immediately."
+msgstr ""
+
+#: simulation/data/civs/moblin.json:CivBonuses[2].Name
+msgid "Moblins need to stinky Towns!"
+msgstr ""
+
+#: simulation/data/civs/moblin.json:Factions[0].Heroes[0].History
+msgid ""
+"Ahhh good old Ganon, the biggest and the best of the Blins! When we were down in the "
+"muck Ganon came round and made us strong again! He united the Moblins, he united the "
+"Bulblins, he united the Bokoblins, by great Ukblinro he even united the Dodoblins! "
+"Ganon was the smartest of us all, trickin' and besting the Hylians at every turn! He "
+"made us so close to conquering all of Hyrule, were it not for those stinking traitorous"
+" Sheikah! Hail Ganon the Great!"
+msgstr ""
+
+#: simulation/data/civs/moblin.json:AINames[0]
+#: simulation/data/civs/moblin.json:Factions[0].Heroes[0].Name
+msgid "Ganon"
+msgstr ""
+
+#: simulation/data/civs/moblin.json:Factions[0].Heroes[1].History
+msgid ""
+"Mighty scary King Bulblin is, we Blins have legends that say he fell off a bridge and "
+"lived... twice! Ridin' on the back of the big old awesome Lord Bullbo, he goes swinging"
+" into battle to lop some heads off of the stinking Hylians and anyone who gets in the "
+"Moblin way!"
+msgstr ""
+
+#: simulation/data/civs/moblin.json:AINames[1]
+#: simulation/data/civs/moblin.json:Factions[0].Heroes[1].Name
+msgid "King Bulblin"
+msgstr ""
+
+#: simulation/data/civs/moblin.json:Factions[0].Heroes[2].History
+msgid ""
+"The right hand proper lady of Ganon, Ogalon was a very smarty Blin that made all his "
+"great plans work and come true! Wearing nice armor and having a big pointy stick, "
+"Ogalon could kill ten whole Hylians all at once! Well maybe not that many, but she was "
+"a smart and strong fighter and lead Blins to winning!"
+msgstr ""
+
+#: simulation/data/civs/moblin.json:AINames[2]
+#: simulation/data/civs/moblin.json:Factions[0].Heroes[2].Name
+msgid "Ogalon"
+msgstr ""
+
+#: simulation/data/civs/moblin.json:Factions[0].Heroes[3].History
+msgid ""
+"Ooooo spooky Ghirahim, the great weapon of our great god Demise! This scary spirit can "
+"make swords fly around all birdy like, choppin' off heads and making the Hylians run in"
+" fear! There's a good reason Ukblinro, our great god blessed be his awesome name, made "
+"Ghirahim his most trusted servant... he's that good at killing!"
+msgstr ""
+
+#: simulation/data/civs/moblin.json:AINames[3]
+#: simulation/data/civs/moblin.json:Factions[0].Heroes[3].Name
+msgid "Ghirahim"
+msgstr ""
+
+#: simulation/data/civs/moblin.json:History
+msgid ""
+"Once the dominant power in what is now known as the Land of Famine, the Moblin's "
+"homeland was utterly devestated and left in ruins after a brutal war with the Akkalans."
+" After centuries of slowly recovering, the Moblins and their Blin servants reunited "
+"under the guidance of the warlord Ganon. Now the united powers of Blin-kind seek to "
+"continue their relentless rampage across Hyrule."
+msgstr ""
+
+#: simulation/data/civs/moblin.json:Name
+msgid "Moblins"
+msgstr ""
+
+#: simulation/data/civs/moblin.json:Structures[0].History
+msgid ""
+"Whooaaahh it's Ganon's big scary Castle! So big and so scary! Ahhhh! We Moblins don't "
+"know where it came from, some say Moblins made it in Olden Timey! Whoever put the big "
+"scary castle there don't matter no more, Ganon made it his base and make his best plan "
+"to take over the Hylians and kill em all there! Very important place for all us Blinny "
+"kind, we go there and pray to Ukblinro for super power every year or two or three! "
+"(Garrison up to 60 units, slows down the movement speed of enemies within it's radius "
+"and functions like a normal Castle)"
+msgstr ""
+
+#: simulation/data/civs/moblin.json:Structures[0].Name
+msgid "Wonder: Ganon's Castle"
+msgstr ""
+
+#: simulation/data/civs/moblin.json:Structures[1].History
+msgid ""
+"Yeaaahhh our God Ukblinro! The Bestest Goddy that there is in all of Hyrule and other "
+"places! Long time ago he was hurt bad in a big fight with st?upid Hylian God Hylia! But"
+" our God is best, so he survived and is back and better than ever! Goddy Ukblinro "
+"brings a biiiigggggg sword into the fight, and he goes and makes us win! All hail "
+"Ukblinro!"
+msgstr ""
+
+#: simulation/data/civs/moblin.json:Structures[1].Name
+msgid "Titan: Ukbklinro, Bringer of Demise"
+msgstr ""
+
+#: simulation/data/civs/moblin.json:TeamBonuses[0].Description
+msgid "Allied Mechanical Siege units gain a 10% increase in damage and gain +10% range."
+msgstr ""
+
+#: simulation/data/civs/moblin.json:TeamBonuses[0].Name
+msgid "We Tell Ya How to Tear Down!"
+msgstr ""
+
+#: simulation/data/civs/ordona.json:CivBonuses[0].Description
+msgid ""
+"All non mechanical, non-creature units have Citizen and Soldier classes, allowing them "
+"to both work and fight."
+msgstr ""
+
+#: simulation/data/civs/ordona.json:CivBonuses[0].Name
+msgid "Battle Hardened Peasantry"
+msgstr ""
+
+#: simulation/data/civs/ordona.json:CivBonuses[1].Description
+msgid "Cavalry costs are reduced by 2% for each herdable Livestock that you control."
+msgstr ""
+
+#: simulation/data/civs/ordona.json:CivBonuses[1].Name
+msgid "Livestock Masters"
+msgstr ""
+
+#: simulation/data/civs/ordona.json:CivBonuses[2].Description
+msgid "Plantations and Fields extend territory as a Civic Center or Religious building do."
+msgstr ""
+
+#: simulation/data/civs/ordona.json:CivBonuses[2].Name
+msgid "Agrarian Nation"
+msgstr ""
+
+#: simulation/data/civs/ordona.json:Factions[0].Heroes[0].History
+msgid ""
+"The Lord Mayor and head of all of Ordona Province, Mayor Bo has served his leadership "
+"role longer than any other man of the Ordonian people. He is loved by the people for "
+"his humble attitude and knack for partaking in menial labor with the Serfs of the "
+"Province."
+msgstr ""
+
+#: simulation/data/civs/ordona.json:AINames[0]
+#: simulation/data/civs/ordona.json:Factions[0].Heroes[0].Name
+msgid "Mayor Bo"
+msgstr ""
+
+#: simulation/data/civs/ordona.json:Factions[0].Heroes[1].History
+msgid ""
+"Ilia was the daughter of Mayor Bo and trading assistant of Rusl in her youth. As a "
+"young adult Ilia became quite a business woman in Ordona Province, gaining stock over "
+"some of the best horses in Hyrule while simultaneously managing a lumber company to "
+"supply the building of stables across Hyrule."
+msgstr ""
+
+#: simulation/data/civs/ordona.json:AINames[1]
+#: simulation/data/civs/ordona.json:Factions[0].Heroes[1].Name
+msgid "Ilia"
+msgstr ""
+
+#: simulation/data/civs/ordona.json:Factions[0].Heroes[2].History
+msgid ""
+"To many in Ordona Province, Rusl was just an average trader who made rounds to Hyrule "
+"Proper and Lanayru. Those that knew him personally were more than likely aware of his "
+"small background in military. Unlike many Ordonians, Rusl was actually professionally "
+"trained in several Hylian military academies, with rumors that he was attempting to "
+"become the first Hyrulean Knight from Ordona Province. "
+msgstr ""
+
+#: simulation/data/civs/ordona.json:AINames[2]
+#: simulation/data/civs/ordona.json:Factions[0].Heroes[2].Name
+msgid "Rusl"
+msgstr ""
+
+#: simulation/data/civs/ordona.json:Factions[0].Heroes[3].History
+msgid ""
+"The daughter of a Hylian Knight, Ashei's father was expelled from his order for having "
+"a child with an Ordonian wife and corrupting the bloodline of its members. With no true"
+" connection to any nation, she was more mercenary than knight, adapting and learning a "
+"wide variety of combat techniques and sword fighting arts from various cultures."
+msgstr ""
+
+#: simulation/data/civs/ordona.json:AINames[3]
+#: simulation/data/civs/ordona.json:Factions[0].Heroes[3].Name
+msgid "Ashei"
+msgstr ""
+
+#: simulation/data/civs/ordona.json:Factions[0].Technologies[0].Name
+msgid ""
+"Food: Farms, Fruit, Meat, Fish, Material: Wood, Stone, Ore: Metal, Currency: Rupees, "
+"Gold, Force Gems"
+msgstr ""
+
+#: simulation/data/civs/ordona.json:History
+msgid ""
+"Established as a vassal state of the Kingdom of Hyrule, Ordona Province grew to become "
+"the most powerful agrarian nation in all of history. What they lacked in military might"
+" they made up for with a powerful economy fued by crops, livestock, and some of the "
+"finest brew this side of Lake Hylia. Motivated by hard work and having a good time, the"
+" people of Ordona Province were nonetheless some of the toughest folks around."
+msgstr ""
+
+#: simulation/data/civs/ordona.json:Name
+msgid "Ordona Province"
+msgstr ""
+
+#: simulation/data/civs/ordona.json:Structures[0].Name
+msgid "Wonder: Ordon Spring"
+msgstr ""
+
+#: simulation/data/civs/ordona.json:Structures[0].Special
+msgid ""
+"Legend says that the guardian spirit of Ordona blessed the southern lands of Hyrule "
+"with healing waters and a bountiful harvest. While the elusive demigod has not been "
+"seen in modern times, these springs nevertheless create vast tracts of fertile lands "
+"around their perimeter. (+50% Territory Influence, Heals all units within its aura.)"
+msgstr ""
+
+#: simulation/data/civs/ordona.json:Structures[1].Name
+msgid "Titan: Latoan, Spirit of Ordona"
+msgstr ""
+
+#: simulation/data/civs/ordona.json:Structures[1].Special
+msgid ""
+"An ancient and perhaps primordial Spirit, Latoan was worshiped as a deity by the "
+"ancient pagan tribes of Ordona Province before the Hylians converted their people to "
+"worship of the Goddesses. Latoan's iconography and influence never left the Ordonians "
+"however, and even to this day he serves as somewhat of patron saint or deity of Ordona "
+"Province. Legend says that Latoan fell into a deep sleep beneath the Ordon Spring as he"
+" and his kind were no longer needed to spiritually guide the Ordonian people. When he "
+"was active in the world, legend said that Latoan would grow vast crops in the blink of "
+"an eye, bring a healing rain forth from the sky, and summon a flock of ghostly goats to"
+" protect the borders of his land from enemies."
+msgstr ""
+
+#: simulation/data/civs/ordona.json:TeamBonuses[0].Description
+msgid "Allies gain a slow trickle of Food Resources."
+msgstr ""
+
+#: simulation/data/civs/ordona.json:TeamBonuses[0].Name
+msgid " Breadbasket of Hyrule"
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:AINames[0]
+msgid "Paya"
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:AINames[1]
+msgid "Purah"
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:CivBonuses[0].Description
+msgid "The Sheikah can retrieve Line of Sight from a randomized enemy unit via their Clan Hall."
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:CivBonuses[0].Name
+msgid "Double Agent"
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:Factions[0].Heroes[0].History
+msgid ""
+"A mysterious figure that does not seem to hail from any Sheikah Clan, the warrior known"
+" only as Sheik is found in the service of the Nirvata Monks. Sheik's presence is often "
+"a portent of a cataclysmic event about to transpire in Hyrule, and death is sure to "
+"follow."
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:AINames[2]
+#: simulation/data/civs/sheikah.json:Factions[0].Heroes[0].Name
+msgid "Sheik"
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:Factions[0].Heroes[1].History
+msgid ""
+"The Chief of the Yiga Clan, Master Kohga has long lived on the frontier of Hyrule and "
+"is an ardent supporter of his clan's supremacy within the Cadre. Despite his attempts "
+"the Cadre has pushed the Yiga Clan away from their council, leading him to be "
+"disillusioned with the other Clan chiefs. Kohga himself is boisterous and full of "
+"pride, though he often seeks to gain people on his side through lavish gifts, parties, "
+"and bribes."
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:AINames[3]
+#: simulation/data/civs/sheikah.json:Factions[0].Heroes[1].Name
+msgid "Kohga"
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:Factions[0].Heroes[2].History
+msgid ""
+"The Chief of both the Kakari and Naldari Clan as well as the Sage of Shadows, Impa "
+"wields unprecedented political power within the Cadre and has long served both the "
+"Sheikah and the Royal Family of Hyrule. Perhaps the best swordsman in the history of "
+"Hyrule, her presence is often met with fear or reverence, depending on who is friend "
+"and foe. To those that do not know Impa she is seen as a cold and emotionless killer, "
+"perhaps an appearance that is a result of her extreme age and distance from society. "
+"She is in truth a very motherly figure to those that have her in their lives, perhaps "
+"an echo of a life she could have had in ages past."
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:AINames[4]
+#: simulation/data/civs/sheikah.json:Factions[0].Heroes[2].Name
+msgid "Impa"
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:Factions[0].Heroes[3].History
+msgid ""
+"The eldest of the Nirvata Monks and the most feared sorcerer of the Cadre, Maz Koshia "
+"has long lorded over the council of Elders and influenced the Cadre for centuries. With"
+" the exception of his brief appearances at the gathering of council, Maz Koshia lives "
+"in utter isolation deep under the earth, amassing untold dark powers. He is utterly "
+"disconnected from the rest of his kind after centuries of isolation, and none know his "
+"true motives."
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:AINames[5]
+#: simulation/data/civs/sheikah.json:Factions[0].Heroes[3].Name
+msgid "Maz Koshia"
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:History
+msgid ""
+"The Cadre is the ruling body of Hyrule's seven Sheikah Clans. The Cadre's goals are not"
+" explicit to outsiders, though it seems in general they wish to direct history and "
+"avoid cataclysmic disaster and change. To accomplish this the Sheikah have adopted "
+"extremely subversive and secretive methods: Spying, bribing, black mailing, and "
+"assassination to change the course of events rather than military or diplomatic might."
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:Name
+msgid "Sheikah Cadre"
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:Structures[0].History
+msgid ""
+"A large and powerful seal created by the Sheikah to keep evil at bay beneath the earth."
+" One such seal survives and has been placed at the entrance to the Shadow Temple, a "
+"monument to the sins of Hyrule. With great risk the Cadre can let loose a horrific "
+"monster that has been cast away beneath the seal."
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:Structures[0].Name
+msgid "Wonder: Shadow Seal"
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:Structures[1].History
+msgid ""
+"An ancient monster that the Cadre had sealed beneath Kakariko Village in ages past, the"
+" creature known as Bongo Bongo has become nothing but a vague legend even to other "
+"Sheikah. The Nirvata Monks at times have sought to master and control this demon for "
+"their own ends in the past. Many attempts have failed, resulting in Bongo Bongo "
+"bringing havoc to Hyrule until it could be sealed away again. The monster itself "
+"appears as a large headless corpse with disembodied hands that follow it around as it "
+"goes."
+msgstr ""
+
+#: simulation/data/civs/sheikah.json:Structures[1].Name
+msgid "Titan: Bongo Bongo"
+msgstr ""
+
+#: simulation/data/civs/stalfos.json:AINames[0]
+msgid "Dampe"
+msgstr ""
+
+#: simulation/data/civs/stalfos.json:AINames[1]
+msgid "Gabora"
+msgstr ""
+
+#: simulation/data/civs/stalfos.json:AINames[4]
+msgid "Blind the Thief"
+msgstr ""
+
+#: simulation/data/civs/stalfos.json:AINames[2]
+#: simulation/data/civs/stalfos.json:Factions[0].Heroes[0].Name
+msgid "Meg"
+msgstr ""
+
+#: simulation/data/civs/stalfos.json:AINames[3]
+#: simulation/data/civs/stalfos.json:Factions[0].Heroes[1].Name
+msgid "Irene"
+msgstr ""
+
+#: simulation/data/civs/stalfos.json:Factions[0].Heroes[2].Name
+msgid "Blind"
+msgstr ""
+
+#: simulation/data/civs/stalfos.json:AINames[5]
+#: simulation/data/civs/stalfos.json:Factions[0].Heroes[3].Name
+msgid "Death Sword"
+msgstr ""
+
+#: simulation/data/civs/stalfos.json:Factions[0].Technologies[0].Name
+msgid "Bones, Meat, Stone, Metal, Rupees, Gold, and Force Gems"
+msgstr ""
+
+#: simulation/data/civs/stalfos.json:History
+msgid ""
+"The creation of horrifying magic that was outlawed and sealed away in Hyrule’s ancient "
+"past, the Stalfos are a vast ever growing army of animated corpses. Headed by a "
+"collection of warring and elite Necromancers, the modern incarnation of Hyrule’s undead"
+" seek to fill its ranks with mindless followers and to establish a kingdom of "
+"immortality that can stand against the supernatural forces of Hyrule."
+msgstr ""
+
+#: simulation/data/civs/stalfos.json:Name
+msgid "Stalfos"
+msgstr ""
+
+#: simulation/data/civs/stalfos.json:Structures[0].Name
+msgid "Wonder: Arbiter's Grounds"
+msgstr ""
+
+#: simulation/data/civs/stalfos.json:Structures[1].Name
+msgid "Titan: Stallord"
+msgstr ""
+
+#: simulation/data/civs/zora.json:AINames[4]
+msgid "Jabun, Spawn of Lord Jabu Jabu"
+msgstr ""
+
+#: simulation/data/civs/zora.json:AINames[5]
+msgid "Laruto, the Elder Sage"
+msgstr ""
+
+#: simulation/data/civs/zora.json:CivBonuses[0].Description
+msgid "All land units can move through deep water."
+msgstr ""
+
+#: simulation/data/civs/zora.json:CivBonuses[1].Description
+msgid ""
+"All Civilized Culture Techs are researched for free when the appropriate building is "
+"constructed."
+msgstr ""
+
+#: simulation/data/civs/zora.json:CivBonuses[1].Name
+msgid "Beacon of Culture"
+msgstr ""
+
+#: simulation/data/civs/zora.json:CivBonuses[2].Description
+msgid "All garrisoned buildings can slowly heal units."
+msgstr ""
+
+#: simulation/data/civs/zora.json:CivBonuses[2].Name
+msgid "Gift of Healing"
+msgstr ""
+
+#: simulation/data/civs/zora.json:Factions[0].Heroes[0].History
+msgid ""
+"The latest in a long line of monarchs of the Dominion, King Zora Farkos is a rather "
+"undignified ruler who abuses his station of power. He has been responsible for several "
+"unnecessary expansion campaigns, one of which lead to a full invasion of Death "
+"Mountain. King Farkos is known as quite a selfish individual who shuns tradition. He "
+"unlawfully married the half-breed Zora, Rutela, only to divorce her and thereby pollute"
+" the royal bloodline, and splinter the Dominion into two empires."
+msgstr ""
+
+#: simulation/data/civs/zora.json:AINames[0]
+#: simulation/data/civs/zora.json:Factions[0].Heroes[0].Name
+msgid "King Zora De Bon XVI"
+msgstr ""
+
+#: simulation/data/civs/zora.json:Factions[0].Heroes[1].History
+msgid ""
+"The daughter of King Farkos and Queen Rutela, Ruto’s bloodline was polluted by their "
+"union, as is evidenced by her eyes. Despite this, she retains her title, and "
+"inheritance of the Dominion throne, after the divorce of her two parents. An accident "
+"that nearly killed her early in adulthood has led to her adopting Sagehood. To this "
+"day, she is one of the youngest Sages to have lived. Ruto is known for her very fiesty "
+"and aggressive personality, in some cases being described as a total brat. Despite this"
+" demeanor, she withholds a lifelong sadness after the splitting of her parents, that "
+"she tries to cure by finding a husband; a venture she often spectacularly fails in."
+msgstr ""
+
+#: simulation/data/civs/zora.json:AINames[1]
+#: simulation/data/civs/zora.json:Factions[0].Heroes[1].Name
+msgid "Princess Ruto, Sage of Water"
+msgstr ""
+
+#: simulation/data/civs/zora.json:Factions[0].Heroes[2].History
+msgid ""
+"For many years, Zaleen has served as Ambassador between the Dominion and its many "
+"neighbors. He is perhaps the most well-versed in Hyrulean lore and cultures, due in "
+"part to help from his wife’s library of information. Zaleen was a very close friend of "
+"Ruto’s during childhood, however an accident that he was involved in nearly killed her,"
+" and resulted in her adoption into Sagehood. Since then he has maintained emotional "
+"(and literal) distance from her and has grown antagonistic to her rise to the throne."
+msgstr ""
+
+#: simulation/data/civs/zora.json:AINames[2]
+#: simulation/data/civs/zora.json:Factions[0].Heroes[2].Name
+msgid "Ambassador Zaleen"
+msgstr ""
+
+#: simulation/data/civs/zora.json:Factions[0].Heroes[3].History
+msgid ""
+"Initially trained as a Mage, Telara left the Communion in order to live a less hostile "
+"life. She eventually married Zaleen and became a librarian in Domain Prime, assembling "
+"historial documents and compiling much of the information that would be later used in "
+"Midna’s Hyrule Historia Tome. Telara’s personality is known as quiet and bashful. She "
+"is rather introverted and avoids appearing in public unless in the company of Zaleen or"
+" her library."
+msgstr ""
+
+#: simulation/data/civs/zora.json:AINames[3]
+#: simulation/data/civs/zora.json:Factions[0].Heroes[3].Name
+msgid "Telara, Headmaster Historian"
+msgstr ""
+
+#: simulation/data/civs/zora.json:Factions[0].Technologies[0].Name
+msgid "Fruit, Meat, Fish, Stone, Metal, Coralmold, Rupees, Gold, and Force Gems"
+msgstr ""
+
+#: simulation/data/civs/zora.json:History
+msgid ""
+"The fish-men and women of Hyrule's waters have long dominated the submerged realms. "
+"With a focus on the ideal of beauty and grace, they have crafted an Empire bent on "
+"shaping others to their extraordinary standards... A goal that has made them quite "
+"prideful and arrogant in the eyes of their land-dwelling neighbors. When convincing "
+"others fails, the Dominion has both military and magic might on their side."
+msgstr ""
+
+#: simulation/data/civs/zora.json:Name
+msgid "Zora Dominion"
+msgstr ""
+
+#: simulation/data/civs/zora.json:Structures[0].History
+msgid ""
+"One of the most sacred spaces in the Zora Dominion, this quiet lagoon in the Jabun "
+"Reservoir serves as a pilgrimage site and resting place of Jabu-Jabu, Sage of Water and"
+" founder of the Dominion. (In Aura, +5 Attack (Magic)- Units and Buildings, 50% "
+"Territory Influence)"
+msgstr ""
+
+#: simulation/data/civs/zora.json:Structures[0].Name
+msgid "Wonder: Shrine of Jabu"
+msgstr ""
+
+#: simulation/data/civs/zora.json:Structures[1].History
+msgid ""
+"Jabun, more commonly known as Lord Jabu Jabu, is the second Sage of Water of Hyrule and"
+" the founder of the Zora Dominion. Jabun is known for his vanity and over-bloated ego. "
+"He refuses to speak to anyone other than his servants or worshipers. He has an "
+"insatiable appetite and is also known for his gluttony and laziness. As an ancient "
+"Oshunite, he wields tremendous magical powers, in particular that of healing flesh. "
+"Many spending time near Lord Jabu Jabu have had wounds and sicknesses cured in short "
+"order."
+msgstr ""
+
+#: simulation/data/civs/zora.json:Structures[1].Name
+msgid "Titan: Lord Jabu Jabu"
+msgstr ""
+
+#: simulation/data/civs/zora.json:TeamBonuses[0].Description
+msgid "Ally Civic Centers can slowly heal garrisoned units."
+msgstr ""
+
+#: simulation/data/civs/zora.json:TeamBonuses[0].Name
+msgid "Zora Medicine"
+msgstr ""
