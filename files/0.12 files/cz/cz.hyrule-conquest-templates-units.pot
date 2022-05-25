@@ -2561,11 +2561,11 @@ msgstr "Rostidrť"
 
 #: simulation/templates/units/deku/deku_scrubram_b.xml:56
 msgid "Small and cheap Siege unit that bashes enemy fortifications to the ground."
-msgstr ""
+msgstr "Malý a levný obléhací stroj který drtí nepřátelské opevnění."
 
 #: simulation/templates/units/deku/deku_snapdragon_b.xml:48
 msgid "Snapdragon"
-msgstr ""
+msgstr "Chňapodrak"
 
 #: simulation/templates/units/deku/deku_snapdragon_b.xml:49
 msgid ""
@@ -2574,14 +2574,17 @@ msgid ""
 "appendages and rapidly gobbled up whatever they could get their two tentacled arms "
 "unto."
 msgstr ""
+"Rychlé a šíleně násilné rostlinné příšery, Chňapodraci byli extrémně nebezpeční i"
+"pro jejich Rostské únosce. Tihle tvorové skákali na svých liánovitých končetinách a "
+"rychle hltali cokoliv na co dostali své dvě chapadla."
 
 #: simulation/templates/units/deku/deku_snapdragon_b.xml:53
 msgid "Faster moving Melee Creature unit with a rapdi attack rate."
-msgstr ""
+msgstr "Rychlý na blízko bojující tvor s rapidním útokem."
 
 #: simulation/templates/units/deku/deku_thopter_b.xml:61
 msgid "Flower Thopter"
-msgstr ""
+msgstr "Květinová Letka"
 
 #: simulation/templates/units/deku/deku_thopter_b.xml:63
 msgid ""
@@ -2591,16 +2594,22 @@ msgid ""
 "Deku Nuts from above on to armies below, causes quite a flash and stunning everyone in "
 "the blast. "
 msgstr ""
+"Královský Rost který letěl vysoko nad zemí párem točících se květin. Jak se tyhle květiny "
+"točily bylo tajemnství i pro Deku Rosty, a zdánlivě se točily pouze v rukách Rosta. "
+"Květinové Letky byly pomalé ale uměly shazovat velké Deku ořechy zhora na armády dole, "
+"čímž způsobovali velký záblesk a omračovali všechny ve výbuchu."
 
 #: simulation/templates/units/deku/deku_thopter_b.xml:68
 msgid ""
 "Princess Kad-A-Kana's Unique Unit. Flying Missile unit that drops explosive Deku Nuts "
 "on their targets."
 msgstr ""
+"Jednotka kterou může verbovat pouze Princezna Kad-A-Kana. Létající střelná jednotka "
+"která shazuje výbušné Deku ořechy na své cíle."
 
 #: simulation/templates/units/deku/deku_tiffer_b.xml:54
 msgid "Tiffer"
-msgstr ""
+msgstr "Zapalovač"
 
 #: simulation/templates/units/deku/deku_tiffer_b.xml:56
 msgid ""
@@ -2608,16 +2617,21 @@ msgid ""
 " to be in the private service of Kuh-Do and were likely used by him as tax collectors "
 "and general bullies to maintain his profits."
 msgstr ""
+"Rychle levitující Deku Rost který byl schopen svou svící spálit nepřátele. Zapalovači se "
+"zdáli být v osobní službě Kud.Da a byli jím využíváni jako sběratelé daní a vymahači "
+"pro jeho vlastní zisk."
 
 #: simulation/templates/units/deku/deku_tiffer_b.xml:61
 msgid ""
 "Butler Kuh-Do's Unique Unit. Hovering Missile unit that torches enemies with their "
 "burning candles."
 msgstr ""
+"Jednotka kterou může verbovat pouze Kud-Do. Levitující střelná jednotka která "
+"spaluje nepřátele se svou hořící svící."
 
 #: simulation/templates/units/deku/deku_titan_stagnox.xml:73
 msgid "Armored Colossus"
-msgstr ""
+msgstr "Obrněný Kolos"
 
 #: simulation/templates/units/deku/deku_titan_stagnox.xml:74
 msgid ""
@@ -2627,14 +2641,18 @@ msgid ""
 " durable in Hyrule. While the Stagnox has wings, his huge size makes his ability to fly"
 " very limited."
 msgstr ""
+"Tento obří a mohutný brouk Rohlav už dlouho číhá v jižních lesích. V některých případech "
+"bylo známo že Rosti donutili tuhle obří příšeru aby bojovala za ně. Vidlopuch je pomalý, "
+"ale jeho brnění je jedno z nejpůsobivějších a nejodolnějších na světě. Má sice křídla, "
+"ale jeho mohutná velikost značně omezuje jeho let."
 
 #: simulation/templates/units/deku/deku_titan_stagnox.xml:77
 msgid "Stagnox"
-msgstr ""
+msgstr "Vidlopuch"
 
 #: simulation/templates/units/deku/deku_titan_stagnox.xml:78
 msgid "Deku Scrub Titan unit. Giant Melee unit with extremely durable armor."
-msgstr ""
+msgstr "Mýtická jednotka Deku Rostů. Obří na blízko bojující tvor s extrémně odolným brněním."
 
 #: simulation/templates/units/deku_trader_b.xml:12
 msgid "Business Scrub"
@@ -2650,7 +2668,7 @@ msgstr ""
 
 #: simulation/templates/units/dummy_unit.xml:33 simulation/templates/units/dummy_unit.xml:38
 msgid "If you can train this, it's a bug. Please report it."
-msgstr ""
+msgstr "Pokud jste tohle natrénovali, je to bug. Prosím , oznamte to."
 
 #: simulation/templates/units/fairy/fairy_banshee_autumn.xml:4
 #: simulation/templates/units/fairy/fairy_banshee_b.xml:4
