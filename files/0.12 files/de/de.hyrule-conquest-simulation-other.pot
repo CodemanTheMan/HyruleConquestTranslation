@@ -1,0 +1,217 @@
+# Translation template for Hyrule Conquest.
+# Copyright (C) 2022 UndyingNephalim
+# This file is distributed under the same license as the Hyrule Conquest project.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hyrule Conquest\n"
+"POT-Creation-Date: 2022-05-23 17:26+0058\n"
+"PO-Revision-Date: 2022-05-23 17:26+0058\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#: simulation/ai/ConquestAI/data.json:description
+msgid ""
+"ConquestAI is the Overhauled Hyrule Conquest AI.\n"
+" It supports most factions to some degree. Currently, The Kingdom of Hyrule, The "
+"Gerudo, The Gorons and The Zora Dominion Factions have full support and balancing.\n"
+"\n"
+" Please report issues on the HC discord or comment on the other media locations (see "
+"the links in the main menu).\n"
+" on Hard difficulty and below, the AI receives a penalty to responsiveness and overall "
+"decision making in all areas, which increases per lower level. \n"
+"\n"
+" Finally in ConquestAI, the AI behavior (Aggressive, Defensive, Balanced) has no effect."
+msgstr ""
+
+#: simulation/ai/ConquestAI/data.json:name
+msgid "ConquestAI"
+msgstr ""
+
+#: simulation/components/Player.js:379
+#, javascript-format
+msgid "Insufficient resources - %(resourceAmount1)s %(resourceType1)s"
+msgstr ""
+
+#: simulation/components/Player.js:381
+#, javascript-format
+msgid ""
+"Insufficient resources - %(resourceAmount1)s %(resourceType1)s, %(resourceAmount2)s "
+"%(resourceType2)s"
+msgstr ""
+
+#: simulation/components/Player.js:383
+#, javascript-format
+msgid ""
+"Insufficient resources - %(resourceAmount1)s %(resourceType1)s, %(resourceAmount2)s "
+"%(resourceType2)s, %(resourceAmount3)s %(resourceType3)s"
+msgstr ""
+
+#: simulation/components/Player.js:385
+#, javascript-format
+msgid ""
+"Insufficient resources - %(resourceAmount1)s %(resourceType1)s, %(resourceAmount2)s "
+"%(resourceType2)s, %(resourceAmount3)s %(resourceType3)s, %(resourceAmount4)s "
+"%(resourceType4)s"
+msgstr ""
+
+#: simulation/components/ProductionQueue.js:502
+msgid "Entity is being upgraded. Cannot start production."
+msgstr ""
+
+#: simulation/components/ProductionQueue.js:513
+msgid "The production queue is full."
+msgstr ""
+
+#: simulation/components/ProductionQueue.js:1016
+msgid "Can't find free space to spawn trained units"
+msgstr ""
+
+#: simulation/components/ProductionQueue.js:1071
+msgid "Could not auto-queue unit, de-activating."
+msgstr ""
+
+#: simulation/components/Upgrade.js:286
+msgid "Entity is producing. Cannot start upgrading."
+msgstr ""
+
+#: simulation/data/settings/game_speeds.json:Data[0].Title
+msgid "Song of Inverted Time (0.1x)"
+msgstr ""
+
+#: simulation/data/settings/game_speeds.json:Data[10].Title
+msgid "Song of Double Time (10x)"
+msgstr ""
+
+#: simulation/data/settings/game_speeds.json:Data[11].Title
+msgid "Song of Double Time (20x)"
+msgstr ""
+
+#: simulation/data/settings/game_speeds.json:Data[1].Title
+msgid "Song of Inverted Time (0.25x)"
+msgstr ""
+
+#: simulation/data/settings/game_speeds.json:Data[2].Title
+msgid "Song of Time (0.5x)"
+msgstr ""
+
+#: simulation/data/settings/game_speeds.json:Data[3].Title
+msgid "Song of Time (0.75x)"
+msgstr ""
+
+#: simulation/data/settings/game_speeds.json:Data[4].Title
+msgid "Song of no Time (0.0x)"
+msgstr ""
+
+#: simulation/data/settings/game_speeds.json:Data[5].Title
+msgid "Song of Time (1x)"
+msgstr ""
+
+#: simulation/data/settings/game_speeds.json:Data[6].Title
+msgid "Song of Time (1.25x)"
+msgstr ""
+
+#: simulation/data/settings/game_speeds.json:Data[7].Title
+msgid "Song of Time (1.5x)"
+msgstr ""
+
+#: simulation/data/settings/game_speeds.json:Data[8].Title
+msgid "Song of Double Time (2x)"
+msgstr ""
+
+#: simulation/data/settings/game_speeds.json:Data[9].Title
+msgid "Song of Double Time (5x)"
+msgstr ""
+
+#: simulation/data/settings/player_defaults.json:PlayerData[0].Name
+msgid "Hyrule"
+msgstr ""
+
+#: simulation/data/settings/player_defaults.json:PlayerData[1].Name
+msgid "Player 1"
+msgstr ""
+
+#: simulation/data/settings/player_defaults.json:PlayerData[2].Name
+msgid "Player 2"
+msgstr ""
+
+#: simulation/data/settings/player_defaults.json:PlayerData[3].Name
+msgid "Player 3"
+msgstr ""
+
+#: simulation/data/settings/player_defaults.json:PlayerData[4].Name
+msgid "Player 4"
+msgstr ""
+
+#: simulation/data/settings/player_defaults.json:PlayerData[5].Name
+msgid "Player 5"
+msgstr ""
+
+#: simulation/data/settings/player_defaults.json:PlayerData[6].Name
+msgid "Player 6"
+msgstr ""
+
+#: simulation/data/settings/player_defaults.json:PlayerData[7].Name
+msgid "Player 7"
+msgstr ""
+
+#: simulation/data/settings/player_defaults.json:PlayerData[8].Name
+msgid "Player 8"
+msgstr ""
+
+#: simulation/helpers/Cheat.js:58
+#, javascript-format
+msgid "%(player)s has been defeated (cheat)."
+msgstr ""
+
+#: simulation/helpers/Cheat.js:67
+msgid "You need to select a building that trains units."
+msgstr ""
+
+#: simulation/helpers/Commands.js:147
+msgid "(Cheat - control all units)"
+msgstr ""
+
+#: simulation/helpers/Commands.js:162
+msgid "(Cheat - reveal map)"
+msgstr ""
+
+#: simulation/helpers/Commands.js:597
+#, javascript-format
+msgid "%(player)s has resigned."
+msgstr ""
+
+#: simulation/helpers/Commands.js:777
+msgid "(Cheat - promoted units)"
+msgstr ""
+
+#: simulation/helpers/Commands.js:901
+msgid "Cannot upgrade as distance requirements are not verified or terrain is obstructed."
+msgstr ""
+
+#: simulation/helpers/Commands.js:948
+#, javascript-format
+msgid "Attack against %(_player_)s requested."
+msgstr ""
+
+#: simulation/helpers/Commands.js:989
+msgid "There are no bribable units"
+msgstr ""
+
+#: simulation/helpers/Commands.js:1192
+msgid "Unable to unload unit(s)."
+msgstr ""
+
+#: simulation/helpers/Commands.js:1206
+msgid "Some unit(s) can't go back to work"
+msgstr ""
+
+#: simulation/helpers/Commands.js:1225
+#, javascript-format
+msgid "%(unit)s can't be controlled."
+msgstr ""
+
+#: simulation/helpers/Commands.js:1512
+msgid "The building's technology requirements are not met."
+msgstr ""
