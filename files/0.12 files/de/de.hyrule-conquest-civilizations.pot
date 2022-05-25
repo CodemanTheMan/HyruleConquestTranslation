@@ -29,11 +29,11 @@ msgstr ""
 
 #: simulation/data/civs/darknut.json:CivBonuses[2].Description
 msgid "Darknuts can hire Mercenaries from every culture."
-msgstr ""
+msgstr "Nimbusgarden können Söldner aus allen Kulturen anheuern"
 
 #: simulation/data/civs/darknut.json:CivBonuses[2].Name
 msgid "Mercenary Masters"
-msgstr ""
+msgstr "Meister der Söldner"
 
 #: simulation/data/civs/darknut.json:Factions[0].Heroes[0].History
 msgid ""
@@ -43,12 +43,12 @@ msgid ""
 "god. Zalunbar was utterly narcissistic and completely egocentric. Centuries of constant"
 " praise and worship has let his ego spiral completely out of control, and there are few"
 " who would dare question his godhood."
-msgstr ""
+msgstr "Ein mächtiger Nimbusgarden Krieger, Zalunbar wurde von seinen Leuten vergöttert und übernahm die Kontrolle der Legion vor nahezu dreitausend Jahren. Sein unnatürlich langes Leben undanscheinliche UNsterblichkeit enfachte eine tiefe Hingabe seines Volkes und überzeugte viele von seiner wahren Göttlichkeit. Zalunbar war vollkommen narzisstisch und absolut egozentrisch. Jahrhunderte von permanenten Lobpreisungen und Verehrung ließen sein Ego komplett ausser Kontrolle geraten, und es gibt kaum jemanden der es wagen würde seine Göttlichkeit in Frage zu stellen"
 
 #: simulation/data/civs/darknut.json:AINames[0]
 #: simulation/data/civs/darknut.json:Factions[0].Heroes[0].Name
 msgid "Zalunbar"
-msgstr ""
+msgstr "Zalunbar"
 
 #: simulation/data/civs/darknut.json:Factions[0].Heroes[1].History
 msgid ""
