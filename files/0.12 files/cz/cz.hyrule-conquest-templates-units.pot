@@ -1818,11 +1818,11 @@ msgstr ""
 #: simulation/templates/units/zora/zora_titan_jabujabu.xml:47
 #: simulation/templates/units/zora_trader_b.xml:23
 msgid "Support"
-msgstr ""
+msgstr "Podpora"
 
 #: simulation/templates/units/deku/deku_baba_b.xml:37
 msgid "Deku Baba"
-msgstr ""
+msgstr "Deku Baba"
 
 #: simulation/templates/units/deku/deku_baba_b.xml:38
 msgid ""
@@ -1833,28 +1833,35 @@ msgid ""
 "mounted on the heads of many Deku Scrubs and the backs of their Orhat Beetles however, "
 "giving whatever unit they were attached to a bonus melee attack."
 msgstr ""
+"Tyhle podlé rostliny vzkvétaly jako nenasytný plevel z různých lesech světa, ale byly "
+"poměrně přátelské k Deku Rostům. Mnozí Rosti si z nich udělali domácí zvířata, a navíc "
+"byly používány jejich armádami jako stráž. Deku Baby byly kompletně nehybné a samy nemohly "
+"udělat víc než bránit své bezprostřední okolí. Mohly však být nasazeny na hlavy mnoha Rostů "
+"a rohlavů, a přidat kterékoliv jednotce ke který byli připojeny bonusový útok z blízka."
 
 #: simulation/templates/units/deku/deku_baba_b.xml:42
 msgid ""
 "Small immobile Creature unit that can be picked up by a wide variety of units to "
 "augment their abilities."
 msgstr ""
+"Malý nehybný tvor který může být nasazen na různé jednotky a vylepšit "
+"jejich schopnost."
 
 #: simulation/templates/units/deku/deku_baba_b.xml:81
 msgid "Grow Projectile Teeth."
-msgstr ""
+msgstr "Narůst Střelné Zuby"
 
 #: simulation/templates/units/deku/deku_baba_b.xml:90
 msgid "Grow Venomous Teeth."
-msgstr ""
+msgstr "Narůst Jedovaté Zuby"
 
 #: simulation/templates/units/deku/deku_baba_b.xml:99
 msgid "Grow Thorny Coating."
-msgstr ""
+msgstr "Narůst Trnitý Povlak"
 
 #: simulation/templates/units/deku/deku_baba_giant_b.xml:66
 msgid "Giant Deku Baba"
-msgstr ""
+msgstr "Obří Deku Baba"
 
 #: simulation/templates/units/deku/deku_baba_giant_b.xml:67
 msgid ""
@@ -1862,26 +1869,29 @@ msgid ""
 "important locations. Once a Baba became this large it was extremely difficult and next "
 "to impossible to move them to a new location."
 msgstr ""
+"Obří a děsivá Deku Baba. Rosti využívali tyto příšery k obraně důležitých "
+"míst. Když Baba vyrostla do takovéhle velikosti, bylo extrémně obtížné a skoro "
+"nemožné ji přemístit na nové místo."
 
 #: simulation/templates/units/deku/deku_baba_giant_b.xml:71
 msgid "Large Defensive Creature unit that protects Deku Scrub bases."
-msgstr ""
+msgstr "Velký obranný tvor který chrání základny Deku Rostů."
 
 #: simulation/templates/units/deku/deku_baba_upgA.xml:25
 msgid "Deku Baba (Projectile Teeth)"
-msgstr ""
+msgstr "Deku Baba (Střelné Zuby)"
 
 #: simulation/templates/units/deku/deku_baba_upgB.xml:26
 msgid "Deku Baba (Venomous Teeth)"
-msgstr ""
+msgstr "Deku Baba (Jedovaté Zuby)"
 
 #: simulation/templates/units/deku/deku_baba_upgC.xml:6
 msgid "Deku Baba (Thorny Coating)"
-msgstr ""
+msgstr "Deku Baba (Trnitý Povlak)"
 
 #: simulation/templates/units/deku/deku_babacrawler_b.xml:68
 msgid "Baba Crawler"
-msgstr ""
+msgstr "Baba Plazič"
 
 #: simulation/templates/units/deku/deku_babacrawler_b.xml:69
 msgid ""
@@ -1891,19 +1901,24 @@ msgid ""
 "thorns. Sometimes Baba Crawlers would mangle themselves with other Deku Babas and "
 "become a larger and more dangerous mass of thrashing vines and maws."
 msgstr ""
+"Baba Plazič byla pomalu hýbající se monstrozita která se vlekla podél země a chytala "
+"své oběti svýma trnitýma rukama. Zaútočit na Baba Plaziče nablízko bylo obtížné, a "
+"cokoliv co se o to pokusilo nemělo jinou možnost než se zranit o jeho četné trny. Baba "
+"Plaziči se občas zapletli s ostatními Deku Babami a stali se větší a nebezpečnější masou "
+"mláticích lián a trnů."
 
 #: simulation/templates/units/deku/deku_babacrawler_b.xml:73
 msgid "Slow moving Melee creature unit that can carry other Deku Babas around."
-msgstr ""
+msgstr "Pomalu hýbající se z blízka útočící jednotka která může nosit jiné Deku Baby."
 
 #: simulation/templates/units/deku/deku_baballista_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Baba Bolts"
-msgstr ""
+msgstr "Baba Šipky"
 
 #: simulation/templates/units/deku/deku_baballista_b.xml:61
 msgid "Baballista"
-msgstr ""
+msgstr "Babalista"
 
 #: simulation/templates/units/deku/deku_baballista_b.xml:63
 msgid ""
@@ -1912,22 +1927,28 @@ msgid ""
 " the nastiest trick of this weapon was the packs of Baba seeds attached to the bolts, "
 "which could then hatch and grow into Deku Babas shortly after landing on the mark."
 msgstr ""
+"Babalista je šílený stroj vynalezen samotným Kadem. Když vypálíla obří šipku ze své malé "
+"konstrukce, její útok snadno dokázal prorazit díru ve většině cílů. Asi nejpodlejší trik "
+"této zbraně byly semínka Bab přivázaná k šipkám, které se mohly vylíhnout a vyrůst do "
+"Deku bab krátce po přistání."
 
 #: simulation/templates/units/deku/deku_baballista_b.xml:66
 msgid ""
 "Kado's Unique Unit. Siege unit that fires bolts laced with Deku Babas. Projectiles have"
 " a chance to spawn Deku Babas on impact."
 msgstr ""
+"Jednotka kterou může verbovat pouze Kado. Obléhací jednotka s přišněrovanými Deku "
+"Babami. Projektily mají šanci vylíhnout Deku Baby na nárazu. "
 
 #: simulation/templates/units/deku/deku_bubbling_b.xml:4
 #: simulation/templates/units/deku/deku_hero_dekuprincess.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Bubble"
-msgstr ""
+msgstr "Bublina"
 
 #: simulation/templates/units/deku/deku_bubbling_b.xml:77
 msgid "Bubbling"
-msgstr ""
+msgstr "Bubliník"
 
 #: simulation/templates/units/deku/deku_bubbling_b.xml:78
 msgid ""
@@ -1937,15 +1958,19 @@ msgid ""
 " to knock down groups of enemies, and the Scrubs were always quick to add their rare "
 "talent to their armies."
 msgstr ""
+"Někteří Deku Rosti měli schopnost vytvořit odolnou mýdlovou bublinu ve vlastní puse. "
+"Když praskla, tato bublina způsobila silný výbuch který srazil vše v bezprostředním "
+"okolí na tem. Tihle Rosti byli velice ceněni pro svoji schopnost srazit k zemi skupiny "
+"nepřátel, a vždy rádi přidali svůj vzácný talent svým armádám. "
 
 #: simulation/templates/units/deku/deku_bubbling_b.xml:82
 msgid "Missile unit that spits explosive bubbles at their enemies."
-msgstr ""
+msgstr "Střelná jednotka která plive výbušné bubliny na nepřátele."
 
 #: simulation/templates/units/deku/deku_civilianA.xml:8
 #: simulation/templates/units/deku/deku_underlingA.xml:71
 msgid "Underling"
-msgstr ""
+msgstr "Podrost"
 
 #: simulation/templates/units/deku/deku_civilianA.xml:9
 #: simulation/templates/units/deku/deku_underlingA.xml:72
@@ -1957,6 +1982,10 @@ msgid ""
 "in fact Underlings that had no work to accomplish tended to become depressed and found "
 "ways to start trouble."
 msgstr ""
+"Na nejnižší úrovni Rostské hierarchie byli Podrosti. Jen o něco více než otroci, "
+"Podřízení bez únavy pracovali na stavbě a údržbě Rostské civilizace a byli bez konce "
+"úkolování všemi ostatními Rosty. Nijak jim to ale nevadilo, Podrosti kteří neměli žádnou "
+"práci co vykonat se totiž stávali deprimovaní a našli způsoby jak začít potíže."
 
 #: simulation/templates/units/deku/deku_civilianA.xml:13
 #: simulation/templates/units/deku/deku_underlingA.xml:76
@@ -1970,11 +1999,11 @@ msgstr ""
 #: simulation/templates/units/deku/deku_thopter_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Deku Nut"
-msgstr ""
+msgstr "Deku Ořech"
 
 #: simulation/templates/units/deku/deku_dekupult_b.xml:60
 msgid "Dekupult"
-msgstr ""
+msgstr "Dekuput"
 
 #: simulation/templates/units/deku/deku_dekupult_b.xml:61
 msgid ""
@@ -1984,14 +2013,18 @@ msgid ""
 "light. Such bursts could punch a hole into an enemy gate, or holes into multiple enemy "
 "soldiers in the area."
 msgstr ""
+"Přestože jsou spíše malé jako samotní Deku Rosti, tyhle katapulty nebyly o nic mín "
+"smrtelné než ty využívány jinými rasami světa. Nabité s vyjímečně mohutnými Deku "
+ořechy, náboje těhto obléhacích strojů uměly vybuchnout a způsobit obří záblesk světla. "
+"Tyhle záblesky uměly prorazit díru do nepřátelské brány, nebo díry do několika nepřátel. "
 
 #: simulation/templates/units/deku/deku_dekupult_b.xml:63
 msgid "Ranged Siege unit that lobs explosive Deku Nuts at its targets."
-msgstr ""
+msgstr "Metací obléhací stroj který pálí výbušné Deku ořechy na své cíle."
 
 #: simulation/templates/units/deku/deku_guardling_b.xml:66
 msgid "Guardling"
-msgstr ""
+msgstr "Klackonoš"
 
 #: simulation/templates/units/deku/deku_guardling_b.xml:67
 msgid ""
@@ -2001,20 +2034,25 @@ msgid ""
 " the Scrubs would assemble them into columns on the front lines, hoping their pointy "
 "stick spears could halt the charge of their larger enemies."
 msgstr ""
+"Sedící hned nad Podrosty na společenském žebříčku, Klackonoši byli Rosti s rukama "
+"kteří plnili základní armádní role pro své různé vůdce. Často jim byli dány jednoduché "
+"hlídky a rozkat nikoho nepustit do míst které střežili. Ve válce tito Rosti vytvořili "
+"řady na bojové linii, doufajíce že jejich ostré klacky dokážou zastavit útok jejich "
+"větších nepřátel."
 
 #: simulation/templates/units/deku/deku_guardling_b.xml:71
 msgid "Little Melee unit armed with a pointy stick for a spear."
-msgstr ""
+msgstr "Malá na blízko bojující jednotka ozbrojená špičatým klackem."
 
 #: simulation/templates/units/deku/deku_hero_butler.xml:4
 #: simulation/templates/units/deku/deku_tiffer_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Candle Fire"
-msgstr ""
+msgstr "Oheň Svíce"
 
 #: simulation/templates/units/deku/deku_hero_butler.xml:63
 msgid "Deku Butler"
-msgstr ""
+msgstr "Deku Lokaj"
 
 #: simulation/templates/units/deku/deku_hero_butler.xml:65
 msgid ""
@@ -2024,18 +2062,23 @@ msgid ""
 "maintained his own force of tax collectors and bullies to insure that the royal "
 "coffers... and his personal bank account... were flowing with Rupees."
 msgstr ""
+"Osobní sluha Kud-Loh-Kana a správce všech leho peněz, Lokaj Kud-Do byl tichý a nikdy "
+"ve středu věcí, ale očividně měl značnou moc nad Rostsvem. Jeho ruce měly co do činění "
+s každým Rostským trhem, a on sám si udržoval vlastní síly výběrčí daní a násilníků aby "
+"se postaral o to že královský truhla... a jeho osobní bankovní účet... byly plné Rupií."
+
 
 #: simulation/templates/units/deku/deku_hero_butler.xml:69
 msgid "Kuh-Do"
-msgstr ""
+msgstr "Kuh-Do"
 
 #: simulation/templates/units/deku/deku_hero_butler.xml:70
 msgid "Hovering Missile Hero that attacks enemies with his burning candle."
-msgstr ""
+msgstr "Levitující střílející hrdina který útočí na nepřátele svou hořící svící."
 
 #: simulation/templates/units/deku/deku_hero_decci.xml:49
 msgid "Deku Scrub Miner"
-msgstr ""
+msgstr "Rostský Horník"
 
 #: simulation/templates/units/deku/deku_hero_decci.xml:51
 msgid ""
@@ -2043,18 +2086,21 @@ msgid ""
 "Miners. Decci pioneered the harvesting of Meganuts and has found many creative ways to "
 "turn them into weapons and armor for the Deku Scrubs."
 msgstr ""
+"Decci je jeden z nejslavnějších Deku Rostských horníků; a jeden z jedinných Deku "
+"Rostských horníků. Decci byl průkopník v zklízení Megaořechů a vynalezl kreativní "
+"způsoby jak z nich udělat zpraně a brnění pro Deku Rosty. "
 
 #: simulation/templates/units/deku/deku_hero_decci.xml:55
 msgid "Decci"
-msgstr ""
+msgstr "Decci"
 
 #: simulation/templates/units/deku/deku_hero_decci.xml:56
 msgid "Ranged Hero that attacks with Deku Nuts."
-msgstr ""
+msgstr "Střílející hrdina který útočí Deku ořechy."
 
 #: simulation/templates/units/deku/deku_hero_dekuking.xml:59
 msgid "King of the Deku Scrubs"
-msgstr ""
+msgstr "Král Deku Rostů"
 
 #: simulation/templates/units/deku/deku_hero_dekuking.xml:61
 msgid ""
@@ -2066,18 +2112,24 @@ msgid ""
 "Though kept secret, he had been struck with a case of Mad Scrub and wished for her to "
 "replace him on the throne after his passing."
 msgstr ""
+"Možná jeden z nejmocnějších panovníků Deku Rostů, Král Kud-Loh-Kan byl první ze své "
+"rasy který sjednotil všechny Rosty pod jeden prapor, i když pouze dočasně. Jeho úspěch "
+"však neproudil z dobré vůle jeho lidu; Král Kud-Loh-Kan panoval jako tyran a neustále "
+vyhrožoval svému lidu popravou. Navzdory jeho vzteklé povaze, Králova motivace byla "
+"zakořeněna v lásce pro jeho dceru. Držel to tajemnstím, ale byl nakažen Vzteklou Snětí "
+"a přál si aby ho nahradila na trůnu po jeho smrti."
 
 #: simulation/templates/units/deku/deku_hero_dekuking.xml:65
 msgid "Kud-Loh-Kan"
-msgstr ""
+msgstr "Kud-Loh-Kan"
 
 #: simulation/templates/units/deku/deku_hero_dekuking.xml:66
 msgid "Strong Hero with many commanding abilites."
-msgstr ""
+msgstr "Silný hrdina s mnoha velitelskými schopnostmi."
 
 #: simulation/templates/units/deku/deku_hero_dekuprincess.xml:78
 msgid "Deku Scrub Princess"
-msgstr ""
+msgstr "Princezna Deku Rostů"
 
 #: simulation/templates/units/deku/deku_hero_dekuprincess.xml:80
 msgid ""
@@ -2089,18 +2141,23 @@ msgid ""
 "anger. When her father became a victim of the terminal Mad Scrub, her motivations and "
 "intentions turned to darker places elsewhere."
 msgstr ""
+"Jediná dcera Krále Kud-Loh-Kana, Kad-A-Kana možná neseděla na trůnu, ale rozhodně "
+"vládla. Její otec si nemohl pomoci jí splnit požadavky, a mnoho Rostů nevědělo kdo "
+"přesně vedl. To se změnilo když byl Král diagnostikován se Vzteklou Snětí. Princezna "
+"Kad-A-Kana upadla do dlouhých dob smutku, opatrovaným násilnými záchvaty vzteku. Když "
+"se její otec stal obětí smrtelné Vtzeklé Sněti, její motivace ji vedly k temnějším místům."
 
 #: simulation/templates/units/deku/deku_hero_dekuprincess.xml:84
 msgid "Kad-A-Kana"
-msgstr ""
+msgstr "Kad-A-Kana"
 
 #: simulation/templates/units/deku/deku_hero_dekuprincess.xml:85
 msgid "Missile Hero that attacks her enemies with an explosive bubble."
-msgstr ""
+msgstr "Střílející hrdinka která útočí na své nepřátele výbušnými bublinami."
 
 #: simulation/templates/units/deku/deku_hero_deppi.xml:40
 msgid "Baba Breeder"
-msgstr ""
+msgstr "Šlechtitel Bab"
 
 #: simulation/templates/units/deku/deku_hero_deppi.xml:42
 msgid ""
@@ -2108,18 +2165,21 @@ msgid ""
 "of time in the woods playing with and befriending many Deku Babas, as a result he has "
 "revolutionized breeding the hostile plants for use by all Scrub kind."
 msgstr ""
+"Samotářský Deku Rost který žije daleko od většiny Rostské civilizace. Deppi tráví spoustu "
+"času v lesích a přátelí se s mnoha Deku Babami. Jako výsledek revolucionizoval šlechtění "
+"tehto nepřátelských rostlin pro použití pro všechno Roststvo.
 
 #: simulation/templates/units/deku/deku_hero_deppi.xml:46
 msgid "Deppi"
-msgstr ""
+msgstr "Deppi"
 
 #: simulation/templates/units/deku/deku_hero_deppi.xml:47
 msgid "Melee Hero that attacks with Deku Babas."
-msgstr ""
+msgstr "Hrdina který útočí na blízko Deku Babami."
 
 #: simulation/templates/units/deku/deku_hero_kado.xml:64
 msgid "Deku Scrub Engineer"
-msgstr ""
+msgstr "Deku Rostský Inženýr"
 
 #: simulation/templates/units/deku/deku_hero_kado.xml:66
 msgid ""
@@ -2132,18 +2192,25 @@ msgid ""
 "his lot in life changed quite considerably. He currently serves as an adviser to the "
 "Princess, and has grown concerned with her interest in ancient Odolwan rituals."
 msgstr ""
+"Brilantní inženýr, syn lokaje Kuh-Dy, a jediný přítel Princezny Kad-A-Kany, Kado "
+"byl u popředí tvorby obléhacích strojů o jiných zařízení pro Rostsvo. Byl nesmírně "
+"fascinován sledováním jak věci padají na zem... Většinou jako výsledek jednoho z jeho "
+"nových katapultů. Kado byl poměrně malý, i na Deku Rosta, a byl většinu svého života "
+"terčem smíchu. Potom co si kompenzoval se svým očividně vyspělejším mozkem a získal "
+náklonnost Krále, jeho úděl v životě se značně změnil. Současně slouží jako rádce Princezně, "
+"a obává se jejího zájmu o starověké Odolwanské rituály."
 
 #: simulation/templates/units/deku/deku_hero_kado.xml:69
 msgid "Kado"
-msgstr ""
+msgstr "Kado"
 
 #: simulation/templates/units/deku/deku_hero_kado.xml:70
 msgid "Siege Hero that attacks enemy targets from a long distance with his Dekupult."
-msgstr ""
+msgstr "Obléhací hrdina který z dálky útočí na nepřátelské cíle svým Dekupultem."
 
 #: simulation/templates/units/deku/deku_hornling_b.xml:45
 msgid "Hornling"
-msgstr ""
+msgstr "Trubadúr"
 
 #: simulation/templates/units/deku/deku_hornling_b.xml:46
 msgid ""
@@ -2153,6 +2220,10 @@ msgid ""
 " obnoxious to outsiders, its bass utterance carried with it the unfolding plans of a "
 "Scrub army."
 msgstr ""
+"Hudební cvrlikání a zvuky Rostského jazyka jim dobře sloužily na bojišti. Trubadúři "
+"si s sebou nesli velký Deku roh aby mohli zvučně a jasně dávat rozkazy vojákům pod "
+"jejich velením. Přestože jejich rohy zněly zmateně a otravně cizincům, zvuky jejich "
+"troubení s sebou nesly rozvíjející se plány Rostské armády. "
 
 #: simulation/templates/units/deku/deku_hornling_b.xml:49
 #: simulation/templates/units/goron/goron_drummer_b.xml:32
@@ -2166,15 +2237,15 @@ msgstr ""
 #: simulation/templates/units/zora/zora_nayrublessed_b.xml:33
 msgctxt "Rank"
 msgid "Basic"
-msgstr ""
+msgstr "Základní"
 
 #: simulation/templates/units/deku/deku_hornling_b.xml:51
 msgid "Support unit that improves the movement rate of Deku Scrubs with his musical horn."
-msgstr ""
+msgstr "Podpůrná jednotka která zlepšuje rychlost Rostů svým hudebním rohem."
 
 #: simulation/templates/units/deku/deku_manhandla_b.xml:71
 msgid "Manhandla"
-msgstr ""
+msgstr "Trnochod"
 
 #: simulation/templates/units/deku/deku_manhandla_b.xml:72
 msgid ""
@@ -2184,10 +2255,14 @@ msgid ""
 "creature provides locomotion while up to four smaller Baba-like serpents tear apart "
 "victims to feed to themselves and their ride."
 msgstr ""
+"Děsivý horor nalezen v nejtemnějších hlubinách Dekuho lesa, Trnochod je obří vířící "
+"stroj zkázy pokud vypuštěn na bojové pole. Trnochod je ve skutečnosti symbiotické "
+"spojení několika rostlin; velké kyticové stroření dodává pohyb zatímco čtyři menší "
+"Babští hadi trhají oběti na kterých se oni a jejich odvoz krmí. "
 
 #: simulation/templates/units/deku/deku_manhandla_b.xml:76
 msgid "Huge lumbering Creature unit that can attack many enemies around itself at once."
-msgstr ""
+msgstr "Obří potácející-se tvor který může útočit všude kolem sebe."
 
 #: simulation/templates/units/deku/deku_megascrub_b.xml:4
 #: simulation/templates/units/goron/goron_battlebro_b.xml:4
@@ -2204,11 +2279,11 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_stalgiant_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fists"
-msgstr ""
+msgstr "Pěsti"
 
 #: simulation/templates/units/deku/deku_megascrub_b.xml:58
 msgid "Megascrub"
-msgstr ""
+msgstr "Megarost"
 
 #: simulation/templates/units/deku/deku_megascrub_b.xml:59
 msgid ""
@@ -2218,10 +2293,14 @@ msgid ""
 "of their race. In a battle they would relentlessly maul victims with their two clawed "
 "arms."
 msgstr ""
+"Tihle mohutní Deku Rosti neměli ve své kultuře jiný účel než mlátit hlavy jejich "
+"nepřátel. Přestože byli vzácně větší než obvyklý Hylián, byli to největší Rosti co "
+"kdy žili a byli svým lidem považováni za vrchol jejich rasy. V bitvě neúprosně "
+"mlátili něpřátele svýma dvěma rukama s pařáty."
 
 #: simulation/templates/units/deku/deku_megascrub_b.xml:63
 msgid "Large Deku Scrub warrior that attacks enemies with their sharp clawed hands."
-msgstr ""
+msgstr "Mohutný Rostský válečník který útočí na nepřátele dvěma ostrými drápy a rukami."
 
 #: simulation/templates/units/deku/deku_nutling_b.xml:4
 #: simulation/templates/units/deku/deku_underlingA.xml:4
@@ -2229,11 +2308,11 @@ msgstr ""
 #: simulation/templates/units/goron/goron_ram_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Head"
-msgstr ""
+msgstr "Hlava"
 
 #: simulation/templates/units/deku/deku_nutling_b.xml:39
 msgid "Nutling"
-msgstr ""
+msgstr "Skořápník"
 
 #: simulation/templates/units/deku/deku_nutling_b.xml:40
 msgid ""
@@ -2243,10 +2322,15 @@ msgid ""
 "also small enough to hide under their head growth, making them invisible to casual "
 "observers."
 msgstr ""
+"Tato odrůda Deku Rostů si narostla ochrannou ořechovou skořápku na svých hlavách "
+"namísto listů nebo květin. Taková helma je udělala velice odolné proti konvenčním "
+"zbraním, vlastnost, kterou Deku Rosti využívali k ochraně úzkých pasáži a cest. "
+"Skořápníci byli také dost malí na to aby se schovali pod jejich skořápkou, což "
+"je dělalo neviditelné běžným pozorovatelům."
 
 #: simulation/templates/units/deku/deku_nutling_b.xml:44
 msgid "Small but sturdy defensive unit that has resistant non-magic armor."
-msgstr ""
+msgstr "Malá ale tvrdá obranná jednotka s odolným nemagickým brněním."
 
 #: simulation/templates/units/deku/deku_orhat_b.xml:4
 #: simulation/templates/units/gohma/gohma_larva_giant_b.xml:4
@@ -2259,11 +2343,11 @@ msgstr ""
 #: simulation/templates/units/gohma/gohma_tank_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Mandibles"
-msgstr ""
+msgstr "Klepítka"
 
 #: simulation/templates/units/deku/deku_orhat_b.xml:47
 msgid "Orhat Beetle"
-msgstr ""
+msgstr "Brouk Rohlav"
 
 #: simulation/templates/units/deku/deku_orhat_b.xml:48
 msgid ""
@@ -2272,10 +2356,14 @@ msgid ""
 "them. In battle the Orhats could skitter by enemies with frighting speed, and could be "
 "mounted a large variety of Deku Scrubs and Babas on their backs."
 msgstr ""
+"Brouci Rohlavové byli jedni z mála tvorů které dokázali Rosti domestikovat, ale i to"
+"je trochu přehánění vzhledem k tomu jak těžké bylo na nich jezdit. V bitvě uměli "
+"Rohlavové přeběhnout kolem nepřátel s děsivou rychlostí, a na svých zádech uměli "
+"nosit různé Rosty i Baby.
 
 #: simulation/templates/units/deku/deku_orhat_b.xml:52
 msgid "Quick moving Melee Creature unit that can be mounted by a Deku Scrub rider."
-msgstr ""
+msgstr "Rýchlý na blízko útočící tvor který může vozit Rosta."
 
 #: simulation/templates/units/deku/deku_orhatgiant_b.xml:4
 #: simulation/templates/units/deku/deku_titan_stagnox.xml:12
@@ -2285,11 +2373,11 @@ msgstr ""
 #: simulation/templates/units/ordona/ordona_titan_latoan.xml:12
 msgctxt "Name of an attack, usually the weapon."
 msgid "Horn"
-msgstr ""
+msgstr "Roh"
 
 #: simulation/templates/units/deku/deku_orhatgiant_b.xml:58
 msgid "Giant Orhat"
-msgstr ""
+msgstr "Obří Rohlav"
 
 #: simulation/templates/units/deku/deku_orhatgiant_b.xml:59
 msgid ""
@@ -2300,42 +2388,50 @@ msgid ""
 "rams and they could be upgraded with a carrying platform on their backs to ferry Deku "
 "Scrubs around."
 msgstr ""
+"Když měli příležitost dožit se pokročilé dospělosti, Brouci Rohlavové dosáhli ohromné "
+"velikosti a vyvinuli si tlustý a tvrdý exoskelet. Zatímco takoví dospěli nebyli "
+"možní domestikovat v divočině, Deku Rosti kteří je vychovávali od malička neměli problém "
+"na nich jezdit a řídit tyto obří brouky do bitvy. Obři Rohlavové byli využiváni jako "
+"živá beranidla a mohli být vylepšeni s nosnou platformou na jejich zádech aby mohli "
+"převážet Deku Rosty."
 
 #: simulation/templates/units/deku/deku_orhatgiant_b.xml:63
 msgid "Giant Siege Creature that rips apart targets with its huge horn."
-msgstr ""
+msgstr "Obří obléhací tvor který drtí cíle se svým mohutným rohem."
 
 #: simulation/templates/units/deku/deku_orhatgiant_upgA.xml:50
 msgid "Giant Orhat (Platform Mount)"
-msgstr ""
+msgstr "Obří Rohlav (S nasazenou platformou)"
 
 #: simulation/templates/units/deku/deku_orhatgiant_upgB.xml:19
 msgid "Giant Orhat (Engine Mount)"
-msgstr ""
+msgstr "Obří Rohlav (S nasazeným strojem)"
 
 #: simulation/templates/units/deku/deku_peahat.xml:4
 #: simulation/templates/units/deku/deku_peahatmama.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Blades"
-msgstr ""
+msgstr "Listy"
 
 #: simulation/templates/units/deku/deku_peahat.xml:42
 msgid "Peahat Larva"
-msgstr ""
+msgstr "Larva Luskona"
 
 #: simulation/templates/units/deku/deku_peahat.xml:43
 msgid ""
 "These strange flying predatory plants live in flatlands such as Hyrule Field, lying in "
 "wait for prey and hurtling at it at high speeds with their razor-sharp leaves."
 msgstr ""
+"Tyto zvláštní létající dravé rostliny žily v rovinách jako Hyliánská pole, čekajíce "
+"v lehu pro kořist a rychle hnali se za ní hnaly se svými na nože ostrými listy."
 
 #: simulation/templates/units/deku/deku_peahat.xml:45
 msgid "Small hovering Creature unit that attacks with its razor blades."
-msgstr ""
+msgstr "Malý levitující tvor který útočí na nepřátele svými ostrými listy."
 
 #: simulation/templates/units/deku/deku_peahatdrift_b.xml:17
 msgid "Drifting Peahat"
-msgstr ""
+msgstr "Proudící Luskon"
 
 #: simulation/templates/units/deku/deku_peahatdrift_b.xml:18
 msgid ""
@@ -2344,16 +2440,22 @@ msgid ""
 "of their territory or explore dangerous areas. Drifting Peahats could not be given "
 "direct orders and would automatically move around with the wind, hence their name."
 msgstr ""
+"Necharakteristicky pasivní Luskon, tato konkrétní odrůda byla vyšlechtěna Deku Rosty "
+"aby sloužili jako domácí mazlíčci a stráž. Často je používali na průzkum perimetru "
+"jejich teritoria nebo nebezpečných oblastí. Proudicí Luskoni nemohli dostávat přímé "
+"rozkazy a místo toho se nechaly nést větrem, za což získali svůj přídomek."
 
 #: simulation/templates/units/deku/deku_peahatdrift_b.xml:22
 msgid ""
 "Creature Scout unit that cannot be given orders, it automatically explores the map at "
 "its own pace. Can detect Camouflaged and Stealthed units."
 msgstr ""
+"Průzkumný tvor který nemůže dostávat rozkady, automaticky zkoumá mapu svým "
+"vlastním tempem. Umi detekovat jednotky s kamufláží a utajením. "
 
 #: simulation/templates/units/deku/deku_peahatmama.xml:63
 msgid "Peahat Mother"
-msgstr ""
+msgstr "Matka Luskonů"
 
 #: simulation/templates/units/deku/deku_peahatmama.xml:65
 msgid ""
@@ -2365,21 +2467,30 @@ msgid ""
 "On rare occasions the Scrubs managed to domesticate a Brood Mother who would hover "
 "about and continually spawn Peahat Larva to follow her around. "
 msgstr ""
+"Velice obvyklý tvor často nalezen v pláních světa, Luskoni jsou velmi snadno "
+"naštvané příšery které zaútočí na cokoliv co přijde do jejich teritoria. Tyto bestie "
+"se umí vznášet ve vzduchu tím že se prudce točí na místě, s čímž jim pomáhají "
+"početné žluté vaky plné nějakého druhu plynu. Těsně nad kořeny jejich těl se točí "
+"obří listy, které využívají k utínání a sekání vetřelců. Vzácně dokážou Rosti "
+"domestikovat Matku Luskonů která se vznášela kolem a občas porodila larvu co ji "
+"následovala."
 
 #: simulation/templates/units/deku/deku_peahatmama.xml:68
 msgid ""
 "King Kud-Loh-Kan's Unique unit. Hover Creature unit that can shred surrounding enemies "
 "with its many blades. She spawns swarms of her larva to protect her."
 msgstr ""
+"Jednotka kterou může verbovat poue Král Kud-Loh Kan. Levitující tvor který řeže "
+"bezprostřední nepřátele svými mnoha listy. Rodí roj larev na svou ochranu."
 
 #: simulation/templates/units/deku/deku_pikit_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Spiked Tongue"
-msgstr ""
+msgstr "Špičatý Jazyk"
 
 #: simulation/templates/units/deku/deku_pikit_b.xml:44
 msgid "Pikit"
-msgstr ""
+msgstr "Pikit"
 
 #: simulation/templates/units/deku/deku_pikit_b.xml:45
 msgid ""
@@ -2389,24 +2500,31 @@ msgid ""
 "The Pikit's main attack was a long and flexible vine-like tongue that was coated with "
 "small but extremely sharp tips that could cut through armor."
 msgstr ""
+"Pikiti byli jedni z několika tvorů které Deku Rosti často chytali a využívali ve svých "
+"armádách. Přestože nebyli inteligentní v žádném slova smyslu, Pikiti očividně rozuměli "
+"hudební jazyk Rostů a uměli od nich přijímat základní rozkazy. Hlavní zbraň Pikitů byl "
+"dlouhý a ohebný liánovitý jazyk který byl pokryt malými ale extrémně ostrými špičáky "
+"které se dokázali proříznout brněním."
 
 #: simulation/templates/units/deku/deku_pikit_b.xml:49
 msgid ""
 "Melee Creature unit who's spiked vine-like tongue can attack enemies from quite a "
 "distance."
 msgstr ""
+"Na blízko útočící tvor jekož špičatý liánovitý jazyk který dosáhne na nepřátele "
+"z pořádné dálky."
 
 #: simulation/templates/units/deku/deku_scrubling_b.xml:4
 #: simulation/templates/units/deku/deku_scrubling_garrison.xml:4
 #: simulation/templates/units/sheikah/sheikah_smokescreener_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Deku Nuts"
-msgstr ""
+msgstr "Deku Ořechy"
 
 #: simulation/templates/units/deku/deku_scrubling_b.xml:65
 #: simulation/templates/units/deku/deku_scrubling_garrison.xml:51
 msgid "Scrubling"
-msgstr ""
+msgstr "Podrosti"
 
 #: simulation/templates/units/deku/deku_scrubling_b.xml:66
 #: simulation/templates/units/deku/deku_scrubling_garrison.xml:52
@@ -2418,21 +2536,28 @@ msgid ""
 "invasions the Deku Scrubs would often rile up the anger of huge swarms of Scrublings "
 "before sending them to their doom."
 msgstr ""
+"Jedni z nejnižších vrstev Rostů, Podrosti byli bezrucí jednotlivci využíváni jejich "
+"nadřízenými jako násilníci a vymahači. Podrosti často neměli žádné vzdělání a byli "
+"naprosto vedeni neřízenými emocemi. To z nich udělalo snadné oběti snětí Vzteklých "
+"Rostů, a často byli první kteří podlehli nákazám. Při invazích často Deku Rosti "
+"rozdmýchali vztek velkých houfů Podrostů než je poslali k jejich zkáze. "
 
 #: simulation/templates/units/deku/deku_scrubling_b.xml:69
 #: simulation/templates/units/deku/deku_scrubling_garrison.xml:55
 msgid "Tiny Missile unit that spots out Deku Nuts at their targets."
-msgstr ""
+msgstr "Malá střílející jednotka která plive Deku ořechy na své cíle."
 
 #: simulation/templates/units/deku/deku_scrubram_b.xml:52
 msgid ""
 "While its tiny size hardly made it an impressive siege weapon, a huge swarm of these "
 "rams could wear down gates and walls bit by bit until they finally broke down."
 msgstr ""
+"Přestože je jejich malá velikost nedělala moc působivým obléhacím strojem, velký "
+"houf těhto beranidel byl schopen opotřebovávat brány a zdi dokud se konečně nerozbily. "
 
 #: simulation/templates/units/deku/deku_scrubram_b.xml:55
 msgid "Scrubram"
-msgstr ""
+msgstr "Rostidrť"
 
 #: simulation/templates/units/deku/deku_scrubram_b.xml:56
 msgid "Small and cheap Siege unit that bashes enemy fortifications to the ground."
