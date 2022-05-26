@@ -189,12 +189,12 @@ msgid ""
 "angry demeanor, the King's motivations seem to be rooted in his love for his daughter. "
 "Though kept secret, he had been struck with a case of Mad Scrub and wished for her to "
 "replace him on the throne after his passing."
-msgstr "Vielleicht der mächtigste Herrscher der Deku Laubkerle König Kud-Loh-Kan war the erste seine Art der jeden einzelnen Laubkerl unter seinem Banner vereinte, wenn auch nur temporär. Deser Erfolg resultierte allerdings nicht aus der Gunst der Massen ,denn er regierte wie ein Tyrann und drohte seinem Volk permanent mit Hinrichtungen. Trotz seines zornigen Verhaltens, scheinen seine Motive von der Zuneigung zu seiner Tochter herzurühren"
+msgstr "Vielleicht der mächtigste Herrscher der Deku Laubkerle König Kud-Loh-Kan war the erste seine Art der jeden einzelnen Laubkerl unter seinem Banner vereinte, wenn auch nur temporär. Deser Erfolg resultierte allerdings nicht aus der Gunst der Massen ,denn er regierte wie ein Tyrann und drohte seinem Volk permanent mit Hinrichtungen. Trotz seines zornigen Verhaltens, scheinen seine Motive von der Zuneigung zu seiner Tochter herzurühren. Auch wenn er es geheim hielt, so war er mit dem Laubwahn befallen und wünschte hoffte das seine Tochter nach seinem Tode weiter regieren würde."
 
 #: simulation/data/civs/deku.json:AINames[0]
 #: simulation/data/civs/deku.json:Factions[0].Heroes[0].Name
 msgid "King Kud-Loh-Kan"
-msgstr ""
+msgstr "König Kud-Loh-Kan"
 
 #: simulation/data/civs/deku.json:Factions[0].Heroes[1].History
 msgid ""
@@ -205,12 +205,12 @@ msgid ""
 "Kad-A-Kana was noted for her long bouts of sadness, punctuated by violent bursts of "
 "anger. When her father became a victim of the terminal Mad Scrub, her motivations and "
 "intentions turned to darker places elsewhere."
-msgstr ""
+msgstr "Die einzige Tochter des Königs Kud-Loh-Kan, Kad-A-Kana, war vielleicht nicht auf dem Thron aber war mit Sicherheit die jenige die den Ton angab. Ihr Vater konnte nicht ander als ihren Forderungen nachzugeben und viele Laubkerle fragten sich wer wirklich in Kontrolle war. Die Dinge änderten sich als ihr Vater mit dem Laubwahn diagnostiziert wurde war.Prinzessin Kad-A-Kana wurde auffällig für ihre langen Trauerphasen, die durch heftige Wutausbrüche unterbrochen wurden. Als ihr Vater endgültig dem Laubwhn erlag wanderten ihre Motive und Intentionen sich an dunklere Orte."
 
 #: simulation/data/civs/deku.json:AINames[1]
 #: simulation/data/civs/deku.json:Factions[0].Heroes[1].Name
 msgid "Princess Kad-A-Kana"
-msgstr ""
+msgstr "Prinzessin Kad-A-Kana"
 
 #: simulation/data/civs/deku.json:Factions[0].Heroes[2].History
 msgid ""
@@ -222,12 +222,12 @@ msgid ""
 "compensating with his clearly more exercised brain and ending up in the King's favor, "
 "his lot in life changed quite considerably. He currently serves as an adviser to the "
 "Princess, and has grown concerned with her interest in ancient Odolwan rituals."
-msgstr ""
+msgstr "Als ein brillianter Ingineu, Sohn des Butlers Kuh-Do, und der einzige Freund der Prinzessin Kad-A-Kana, war Kado an der Spitze der Belagerungswaffenproduktion und anderer Vorrichtungen für die Laubkerle. Er hat einen unstillbare Faszination damit Dinge auf die Erde fallen zu sehen... normalerweise als ein Ergebnis einer seiner Katapult erfindungen. Kado war eher klein selbst für einen Laubkerl, und wurde oft für einen Witz gehalten die längste Zeit seines Lebens. Nachdem er das mit seinem eindeutig besser trainierterm Gehirn wettgemacht hat und in der Gunst des Königs fiel verbesserte sich sein Lot im Leben signifikant. Er dient zurzeit als Berater der Prinzessin, und beobachtet besrogt ihre Faszination mit Odolwaischen Ritualen."
 
 #: simulation/data/civs/deku.json:AINames[2]
 #: simulation/data/civs/deku.json:Factions[0].Heroes[2].Name
 msgid "Kado"
-msgstr ""
+msgstr "Kado"
 
 #: simulation/data/civs/deku.json:Factions[0].Heroes[3].History
 msgid ""
@@ -258,7 +258,7 @@ msgstr ""
 
 #: simulation/data/civs/deku.json:Name
 msgid "Deku Scrubs"
-msgstr ""
+msgstr "Deku Laubkerle"
 
 #: simulation/data/civs/deku.json:Structures[0].History
 msgid ""
@@ -266,11 +266,11 @@ msgid ""
 "ages past, but despite their iconagraphy carved into its stone the design has little "
 "resemblence to their civilization. The massive temple is home to many Orhat Beetle "
 "nests and the structure seems to have sunken into the ground since its construction."
-msgstr ""
+msgstr "Ein großer und Antiker Tempel in den Waldminish Wäldern. Die Laubkerle behaupten ihn vor Zeitaltern gebaut zu haben, auch wenn außer  ihren Insignien die in den Stein geritzt wurden das Design nicht mit ihrer Kultur zu tun hat. Der massiveTempel ist Heimat vielr Nashornkäfer und das Konstrukt scheint seiner Erbauung in den Boden gesunken zu sein."
 
 #: simulation/data/civs/deku.json:Structures[0].Name
 msgid "Wonder: Wooded Temple"
-msgstr ""
+msgstr "Dämmerwaldtempel"
 
 #: simulation/data/civs/deku.json:Structures[1].History
 msgid ""
@@ -279,23 +279,23 @@ msgid ""
 "their behalf. The Stagnox may be slow, but his armor is some of the most impressive and"
 " durable in Hyrule. While the Stagnox has wings, his huge size makes his ability to fly"
 " very limited."
-msgstr ""
+msgstr "Dieser gigantische massige Nashornkäfer lauerte schon lang in den östlichen Wäldern Hyrules. In manchen Fällen schafften es die Laubkerle dieses grosse Monster dazu zu zwingen für sich kämpfen zu lassen."
 
 #: simulation/data/civs/deku.json:Structures[1].Name
 msgid "Titan: Stagnox, Armored Colossus"
-msgstr ""
+msgstr "Riesenkäfer Gigakules"
 
 #: simulation/data/civs/deku.json:TeamBonuses[0].Description
 msgid "25% land trade route bonus."
-msgstr ""
+msgstr "25% land handel bonus"
 
 #: simulation/data/civs/deku.json:TeamBonuses[0].Name
 msgid "Partner Networks"
-msgstr ""
+msgstr "Parner Netzwerke"
 
 #: simulation/data/civs/fairy.json:AINames[3]
 msgid "Queen of All Fairies"
-msgstr ""
+msgstr "Königin aller Feen"
 
 #: simulation/data/civs/fairy.json:CivBonuses[0].Description
 #: simulation/data/civs/stalfos.json:Factions[0].Heroes[0].History
@@ -305,7 +305,7 @@ msgstr ""
 #: simulation/data/civs/stalfos.json:Structures[0].History
 #: simulation/data/civs/stalfos.json:Structures[1].History
 msgid "."
-msgstr ""
+msgstr "."
 
 #: simulation/data/civs/fairy.json:CivBonuses[0].History
 msgid ""
