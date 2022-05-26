@@ -3238,11 +3238,11 @@ msgstr ""
 #: simulation/templates/units/gerudo/gerudo_vagrudanon_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Scimitar"
-msgstr ""
+msgstr "Šavle"
 
 #: simulation/templates/units/gerudo/gerudo_arbiter_b.xml:32
 msgid "Arbiter"
-msgstr ""
+msgstr "Arbitrátorka"
 
 #: simulation/templates/units/gerudo/gerudo_arbiter_b.xml:34
 msgid ""
@@ -3251,12 +3251,18 @@ msgid ""
 "arrival usually signals the coming of a great and deadly battle. Arbiters can "
 "dramatically improve the performance of all cavalry under their command."
 msgstr ""
+"Sloužící jako soudce, svědek a popravčí, Arbitrátorky byly pravou rukou Císaře Ganondorfa, "
+"starající se o záležitosti jeho pouštního impéria. Všechny Gerudy se jich bojí, a jejich "
+"příjezd většinou znamená příchod velké a smrtelné bitvy. Arbitrátorky mohou dramaticky "
+"zlepšit výkon všeho jezdectva pod jejich velením.
 
 #: simulation/templates/units/gerudo/gerudo_arbiter_b.xml:39
 msgid ""
 "Ganondorf's Unique Unit. Cavalry Commander unit that improves the performance of other "
 "Cavalry units."
 msgstr ""
+"Jednotka kterou může verbovat pouze Ganondorf. Velitelská jednotka která zlepšuje výkon "
+"ostatního jezdectva."
 
 #: simulation/templates/units/gerudo/gerudo_artisanA.xml:63
 #: simulation/templates/units/gerudo/gerudo_civilianA.xml:8
@@ -3281,7 +3287,7 @@ msgstr ""
 
 #: simulation/templates/units/gerudo/gerudo_ashcap_b.xml:41
 msgid "Ashinon Captain"
-msgstr ""
+msgstr "Ašinoská Kapitánka"
 
 #: simulation/templates/units/gerudo/gerudo_ashcap_b.xml:42
 msgid ""
@@ -3290,10 +3296,14 @@ msgid ""
 "to the throats of even the most heavily-armored enemies. They are perhaps most notable "
 "for their ability to command other women in battle."
 msgstr ""
+"Kapitánky z Ašinonu jsou některé z nejlépe trénovaných vojaček v historii Geruského "
+"impéria. Neuvěřitelně atletické a akrobatické, jsou schopny si protančit a prorazit "
+"cestu k hrdlům i nejobrněnějších nepřátel. Asi nejznámnější jsou svojí schopností "
+"vést další ženy do bitvy."
 
 #: simulation/templates/units/gerudo/gerudo_ashcap_b.xml:46
 msgid "Melee Commander unit that bolsters other Gerudo troops in battle."
-msgstr ""
+msgstr "Pešší velitelská jednotka která posiluje další pěchotu v bitvě."
 
 #: simulation/templates/units/gerudo/gerudo_catapult_b.xml:4
 #: simulation/templates/units/goron/goron_giant_b.xml:4
@@ -3301,11 +3311,11 @@ msgstr ""
 #: simulation/templates/units/ordona/ordona_catapult_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Boulder"
-msgstr ""
+msgstr "Balvan"
 
 #: simulation/templates/units/gerudo/gerudo_catapult_b.xml:58
 msgid "Gerudo Catapult"
-msgstr ""
+msgstr "Gerudský Katapult"
 
 #: simulation/templates/units/gerudo/gerudo_catapult_b.xml:59
 msgid ""
@@ -3314,14 +3324,18 @@ msgid ""
 "easy to construct and maintain. The boulders launched by these engines can take down "
 "just about any stationary target, be it walls, gates, or enemy towers."
 msgstr ""
+"Gerudové dlouho používali Katapulty na obléhání nepřátelských měst: po staletí zůstaly "
+"jejich nejspolehlivějším obléhacím strojem. Vytrvořeny ze dřeva pouštních palm, je "
+"velice jednoduché je postavit a udržovat. Balvany vypálené těmito stroji mohou porazit "
+"jakýkoliv nehybný cíl, ať už to jsou zdi, brány nebo nepřátelské věže. "
 
 #: simulation/templates/units/gerudo/gerudo_catapult_b.xml:61
 msgid "Cheap but effective Siege unit with a ranged attack."
-msgstr ""
+msgstr "Levný ale efektivní střelný obléhací stroj"
 
 #: simulation/templates/units/gerudo/gerudo_despoiler_b.xml:43
 msgid "Despoiler"
-msgstr ""
+msgstr "Vykořisťovatelka"
 
 #: simulation/templates/units/gerudo/gerudo_despoiler_b.xml:44
 msgid ""
@@ -3331,10 +3345,16 @@ msgid ""
 " across the desert. During times of war, they answer to Emperor Ganondorf and serve him"
 " without question."
 msgstr ""
+"Sedicí na zádech vzácných Gerudských velbloudů, Vykořisťovatelky jsou volná tlupa "
+"válečnic která přežívá nájezdy a drancováním osad na kraji impéria. Ozbrojeny zahnunou "
+"Měsíční šavlí a odolným štítem, jsou obávány civilisty po celé poušti. Během války "
+"se zodpovídají Císaři Ganondorfovi a bez otázky mu slouží."
 
 #: simulation/templates/units/gerudo/gerudo_despoiler_b.xml:49
 msgid "Cavalry Melee unit that excels at fighting other Cavalry and burning enemy buildings."
 msgstr ""
+"Na blízko bojující jezdecká jednotka která exceluje v boji s jiným jezdectvem a pálením "
+"nepřátelských budov."
 
 #: simulation/templates/units/gerudo/gerudo_dunewalker_b.xml:4
 #: simulation/templates/units/gerudo/gerudo_dustsentinel_b.xml:4
@@ -3364,11 +3384,11 @@ msgstr ""
 #: simulation/templates/units/sheikah/sheikah_hero_purah.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Arrows"
-msgstr ""
+msgstr "Šípy"
 
 #: simulation/templates/units/gerudo/gerudo_dunewalker_b.xml:44
 msgid "Dune Walker"
-msgstr ""
+msgstr "Dunochodec"
 
 #: simulation/templates/units/gerudo/gerudo_dunewalker_b.xml:45
 msgid ""
@@ -3378,16 +3398,21 @@ msgid ""
 "themselves and their riders to their destinations, even if they have to cross bodies of"
 " water. Mounted by an archer, they are excellent rear-line cavalry."
 msgstr ""
+"Pouštní Mroži domorodí v Gerudské poušti nebyli snadno ochočeni, ale Gerudy tyto bestie "
+"ovládly. Pomalí, ale odolní a imunní smrtelným písečným bouřím pouště, Dunochodcům "
+"chybí rychlost, ale zaručeně dostanou sebe i své jezdce do cíle, i kdyby museli překročit "
+"vodu. Nosící jezdce, jsou excelentní jezdectvo pro zadní linie.
 
 #: simulation/templates/units/gerudo/gerudo_dunewalker_b.xml:50
 msgid ""
 "Slow moving cavalry Missile unit that can attack enemies from afar with her bow and "
 "arrows."
 msgstr ""
+"Pomalu se hýbyjící střelná jednotka která útočí na své nepřátele z dáli lukem a šípy."
 
 #: simulation/templates/units/gerudo/gerudo_dustsentinel_b.xml:45
 msgid "Dust Sentinel"
-msgstr ""
+msgstr "Prašná Stráž"
 
 #: simulation/templates/units/gerudo/gerudo_dustsentinel_b.xml:47
 msgid ""
@@ -3395,21 +3420,26 @@ msgid ""
 "bunkering down, these Sandseal riders create a thick cloud of dust around themselves, "
 "which renders them invisible even while attacking, so long as they are stationary."
 msgstr ""
+"Samotářská Prašná Stráž jsou stoické strážkyně pouštních hranic. Schopné se schovat na "
+"místě, tyto jezdkyně kolem sebe tvoří hustý oblak prachu, který je dělá neviditelné při "
+"útoku, dokud stojí na místě. "
 
 #: simulation/templates/units/gerudo/gerudo_dustsentinel_b.xml:52
 msgid ""
 "Princess Riju's Unique Unit. Mounted Missile Cavalry that can attack from afar and "
 "cloak nearbye units in a Sandstorm"
 msgstr ""
+"Jednotka kterou může verbovat pouze Ridžu. Střelné jezdectvo které útočí z dáli "
+"a zahaluje jednotky v blízkosti písečnou bouří. "
 
 #: simulation/templates/units/gerudo/gerudo_gerudadorf_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Katars"
-msgstr ""
+msgstr "Katary"
 
 #: simulation/templates/units/gerudo/gerudo_gerudadorf_b.xml:43
 msgid "Gerudadorf"
-msgstr ""
+msgstr "Gerudadorf"
 
 #: simulation/templates/units/gerudo/gerudo_gerudadorf_b.xml:44
 msgid ""
@@ -3418,20 +3448,23 @@ msgid ""
 "environment and the chaos of battle to slip through enemy ranks and kill high-priority "
 "targets."
 msgstr ""
+"Ozbrojené párem Katarů, Gerudadorfy slouží na bojišti jako vražedkyně a mistryně "
+"přepadení. Trénované v umění utajení, Gerudadorfy využívají své okilí a chaos bitvy "
+"k tomu aby proklouzli mezi nepřátelskými jednotkami a zabiliy důležité cíle. "
 
 #: simulation/templates/units/gerudo/gerudo_gerudadorf_b.xml:49
 msgid "Fast Melee unit with Camouflage, has a chance to deal Critical Hits to enemies."
-msgstr ""
+msgstr "Rychlá pešší jednotka s kamufláží, má šanci udělit kritické požkození nepřátelům."
 
 #: simulation/templates/units/gerudo/gerudo_glaivegrunt_b.xml:4
 #: simulation/templates/units/labrynna/labrynna_hero_edgar.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Glaive"
-msgstr ""
+msgstr "Gléva"
 
 #: simulation/templates/units/gerudo/gerudo_glaivegrunt_b.xml:40
 msgid "Glaive Grunt"
-msgstr ""
+msgstr "Glévařka"
 
 #: simulation/templates/units/gerudo/gerudo_glaivegrunt_b.xml:41
 msgid ""
@@ -3440,20 +3473,23 @@ msgid ""
 "Gerudo's signature glaive, these women can halt charging enemies and keep cavalry at "
 "bay."
 msgstr ""
+"Desítky Glévařek hlídají vojenské základly po celé Gerudské poušti, stráží hranice "
+"impéria a drží ostražitou hlídku pro jakýkoliv nájezd. Ozbrojené ikonickou Gerudskou "
+"glévou, tyto ženy jsou schopny zastavit nepřátelský nájezd a udržet jezdectvo na uzdě. "
 
 #: simulation/templates/units/gerudo/gerudo_glaivegrunt_b.xml:45
 msgid "Light Melee unit armed with a spear."
-msgstr ""
+msgstr "Lehká pěchota ozbrojena kopím."
 
 #: simulation/templates/units/gerudo/gerudo_goldenglad_b.xml:4
 #: simulation/templates/units/gerudo/gerudo_hero_buliara.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Claymore"
-msgstr ""
+msgstr "Velký Meč"
 
 #: simulation/templates/units/gerudo/gerudo_goldenglad_b.xml:33
 msgid "Golden Gladiator"
-msgstr ""
+msgstr "Zlatá Gladiátorka"
 
 #: simulation/templates/units/gerudo/gerudo_goldenglad_b.xml:34
 msgid ""
@@ -3462,20 +3498,25 @@ msgid ""
 "a melee, and their strength and weapon of choice allows them to crack open enemy armor "
 "with ease."
 msgstr ""
+"Ozbrojeny mohutným dvojručným mečem, Zlaté Gladiátorky využívají svou působivou sílu "
+"a rychlost k přemožení menších nepřátel. Jsou hbité v pěšším boji, umí se vyhnout útokům "
+"na blízko, a jejich síla a zbraň jim dovolijí se snází rozbít nepřátelské brnění. "
 
 #: simulation/templates/units/gerudo/gerudo_goldenglad_b.xml:39
 msgid "Urbosa's Unique Unit. Strong Melee unit that has a very high Dodge rate."
 msgstr ""
+"Jednotka kterou může trénovat pouze Urbosa. Silná pěchota s velmi vysokou "
+"mírou vyhýbání. "
 
 #: simulation/templates/units/gerudo/gerudo_hero_aveil.xml:4
 #: simulation/templates/units/gerudo/gerudo_masterthief_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Scimitars"
-msgstr ""
+msgstr "Šavle"
 
 #: simulation/templates/units/gerudo/gerudo_hero_aveil.xml:40
 msgid "Queen of Pirates"
-msgstr ""
+msgstr "Královna Pirátek"
 
 #: simulation/templates/units/gerudo/gerudo_hero_aveil.xml:42
 msgid ""
@@ -3484,36 +3525,41 @@ msgid ""
 "Great Sea over the years. Now her power and resources have been turned to the Gerudo "
 "navy."
 msgstr ""
+"Mistryně Gerudských pirátek, přivedena zpět pod Gerudský prapor Ganondorfem. Avejl "
+"dlouho žila bez jakýchkoliv rozkazů a vykořisťovala spoustu námořníků na Velkém moři. "
+"Teď jsou její moc a zdroje poskytovány Gerudskému námořnictvu."
 
 #: simulation/templates/units/gerudo/gerudo_hero_aveil.xml:46
 msgid "Aveil"
-msgstr ""
+msgstr "Avejl"
 
 #: simulation/templates/units/gerudo/gerudo_hero_aveil.xml:47
 msgid "Fast and underhanded Melee Hero armed with two scimitars."
-msgstr ""
+msgstr "Rychlá a podlá pěší hrdinka ozbrojená dvěma šavlemi."
 
 #: simulation/templates/units/gerudo/gerudo_hero_buliara.xml:38
 msgid "Palace Guard"
-msgstr ""
+msgstr "Stráž Paláce"
 
 #: simulation/templates/units/gerudo/gerudo_hero_buliara.xml:40
 msgid ""
 "The latest in a line of Gerudo who have guarded the throne. Buliara served as a "
 "personal bodyguard for Ganondorf and later his daughter Riju."
 msgstr ""
+"Poslední v linii Gerud které strážily trůn. Buliara sloužila jako osobní tělesná "
+"stráž pro Ganondorfa a později jeho dceru Ridžu."
 
 #: simulation/templates/units/gerudo/gerudo_hero_buliara.xml:44
 msgid "Buliara"
-msgstr ""
+msgstr "Buliara"
 
 #: simulation/templates/units/gerudo/gerudo_hero_buliara.xml:45
 msgid "Strong Infantry Melee Hero that can cleave enemies with her huge sword."
-msgstr ""
+msgstr "Silná pěší hdrinka která rozsekává armády svým velkým mečem."
 
 #: simulation/templates/units/gerudo/gerudo_hero_ganondorf.xml:37
 msgid "Emperor of the Gerudo"
-msgstr ""
+msgstr "Císař Gerudský"
 
 #: simulation/templates/units/gerudo/gerudo_hero_ganondorf.xml:39
 msgid ""
@@ -3521,18 +3567,21 @@ msgid ""
 "Ganondorf rules as the undisputed Emperor of his people. He is utterly ruthless, and "
 "harbors a burning hatred for the Hylians and their wealthy lands."
 msgstr ""
+"Poslední Gerudský muž, a jedinný muž narozen od staletí jejich prokletí, "
+"Ganondorf vládne nesporně jakožto císař svého lidu. Je naprosto nemilosrdný, "
+"a kultivuje zapálenou nenávist vůči Hyliáncům a jejich bohatým zemím."
 
 #: simulation/templates/units/gerudo/gerudo_hero_ganondorf.xml:43
 msgid "Ganondorf"
-msgstr ""
+msgstr "Ganondorf"
 
 #: simulation/templates/units/gerudo/gerudo_hero_ganondorf.xml:44
 msgid "Powerful Cavalry Hero that tramples enemies and attacks with his scimitar."
-msgstr ""
+msgstr "Mocný jezdecký hrdina který podupává nepřátele a útočí svou šavlí."
 
 #: simulation/templates/units/gerudo/gerudo_hero_nabooru.xml:44
 msgid "Sage of Spirits"
-msgstr ""
+msgstr "Mudryně Duší"
 
 #: simulation/templates/units/gerudo/gerudo_hero_nabooru.xml:46
 msgid ""
@@ -3540,10 +3589,12 @@ msgid ""
 "Nabooru faces a struggle between loyalty to her husband, and her duty of Sagehood and "
 "to the greater safety of Hyrule."
 msgstr ""
+"LEgální žena Ganondorfa a císařovna Gerud, a také Mudryně Duší. Nabóru čelí boji mezi "
+"loajalitou svému muži, a své povinnosti vúči Mudrctví pro větší bezpečí světa. "
 
 #: simulation/templates/units/gerudo/gerudo_hero_nabooru.xml:50
 msgid "Empress Nabooru"
-msgstr ""
+msgstr "Císařovna Nabóru"
 
 #: simulation/templates/units/gerudo/gerudo_hero_nabooru.xml:51
 #: simulation/templates/units/sheikah/sheikah_hero_sheik.xml:51
@@ -3551,10 +3602,12 @@ msgid ""
 "Fast moving Assassin Hero who is Stealthed and can detect other Stealthed and "
 "Camouflaged units. High damage output against infantry and heroes."
 msgstr ""
+"Rychlá hrdinka vražedkyně která je sama v utajení a umí detekovat jiné jednotky "
+"v utajení a kamufláži. Vydává vysoké požkození vůči pěchotě a hrdinům."
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:44
 msgid "Princess of the Gerudo"
-msgstr ""
+msgstr "Princezna Gerudská"
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:46
 msgid ""
@@ -3562,40 +3615,42 @@ msgid ""
 " a fondness for Sandseals, and seeks to rebuild the fallen Gerudo Empire through means "
 "other than conquest."
 msgstr ""
+"Dcera Ganondorfa a Nabóru a legální dědička Gerudského trůnu, Ridžu má zálibu v Pouštních "
+"Mrožích, a plánuje obnovit padlé Gerudské impérium jinými způsoby než dobýváním. "
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:50
 msgid "Makeela Riju"
-msgstr ""
+msgstr "Makýla Ridžu"
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:51
 msgid "Mounted Calvary Missile Hero who can snipe enemies from afar with her bow and arrows."
-msgstr ""
+msgstr "Střelná jezdecká hrdinka která odstřeluje nepřátele z dáli svým lukem a šípy."
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:52
 msgid "Creature"
-msgstr ""
+msgstr "Tvor"
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:52
 msgid "Cavalry"
-msgstr ""
+msgstr "Jezdectvo"
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:52
 msgid "Archer"
-msgstr ""
+msgstr "Lučištník"
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:52
 msgid "Bow"
-msgstr ""
+msgstr "Luk"
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:52
 #: simulation/templates/units/labrynna/labrynna_organgun.xml:59
 #: simulation/templates/units/labrynna/labrynna_organgun_common.xml:59
 msgid "Ranged"
-msgstr ""
+msgstr "Na Dálku"
 
 #: simulation/templates/units/gerudo/gerudo_hero_urbosa.xml:34
 msgid "Ashinon General"
-msgstr ""
+msgstr "Ašinonská Generálka"
 
 #: simulation/templates/units/gerudo/gerudo_hero_urbosa.xml:36
 msgid ""
@@ -3603,23 +3658,26 @@ msgid ""
 "approval of her father, and religiously serves in his army and supports his campaign to"
 " conquer all of Hyrule."
 msgstr ""
+"Jedna z Ganondorfových nespočetných dcer, narozena rolnické matce. Urbosa hledá u "
+"svého otce zalíbení, a nábožně slouží v jeho armádě a podporuje jeho kampaň na "
+"dobytí světa."
 
 #: simulation/templates/units/gerudo/gerudo_hero_urbosa.xml:40
 msgid "Urbosa"
-msgstr ""
+msgstr "Urbosa"
 
 #: simulation/templates/units/gerudo/gerudo_hero_urbosa.xml:41
 msgid "Durable and hearty Infantry Melee Hero armed with a sword and shield."
-msgstr ""
+msgstr "Odolná pěší hrdinka ozbrojená mečem a štítem."
 
 #: simulation/templates/units/gerudo/gerudo_icearcher_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Ice Arrows"
-msgstr ""
+msgstr "Ledové Šípy"
 
 #: simulation/templates/units/gerudo/gerudo_icearcher_b.xml:60
 msgid "Ice Archer"
-msgstr ""
+msgstr "Ledová Lučištnice"
 
 #: simulation/templates/units/gerudo/gerudo_icearcher_b.xml:61
 msgid ""
@@ -3628,10 +3686,14 @@ msgid ""
 " Arrows in hand. These ancient magical weapons can fire a deadly arrow coated in frost."
 " On contact. they explode and instantly freeze anything near their impact."
 msgstr ""
+"Po letech náročného výcviku, Gerudské ženy dostaly šanci vstoupit na nechvalné Gerudské "
+"cvičiště. Pokud přežily, vyjdou jako vítězky s ledovými šípy v rukou. Tyto starověké "
+"magické zbraně umí vystřelit šípy pokryté námrazou. Při nárazu ihned zmrazí všechno "
+"kolem jejich cíle."
 
 #: simulation/templates/units/gerudo/gerudo_icearcher_b.xml:66
 msgid "Gerudo Missile unit that can slow enemy targets with her ranged Ice Arrows."
-msgstr ""
+msgstr "Gerudská střelná jednotka která zpomaluje nepřátelské cíle svými ledovými šípy."
 
 #: simulation/templates/units/gerudo/gerudo_ironknuckle_b.xml:53
 msgid "Iron Knuckle"
@@ -3651,6 +3713,7 @@ msgid ""
 "Powerful but extremely slow moving Infantry Melee unit that deals Splash and Knockback "
 "damage."
 msgstr ""
+"Mocná, ale extrémně pomalá pěší jednotka která vydává plošné požkození a odpaluje nepřátele."
 
 #: simulation/templates/units/gerudo/gerudo_ironknuckle_bounded.xml:36
 msgid "Bounded Iron Knuckle"
@@ -3659,7 +3722,7 @@ msgstr ""
 #: simulation/templates/units/gerudo/gerudo_marauder_b.xml:33
 #: simulation/templates/units/stalfos/stalfos_lostsoul_b.xml:34
 msgid "Marauder"
-msgstr ""
+msgstr "Hrdlořezka"
 
 #: simulation/templates/units/gerudo/gerudo_marauder_b.xml:34
 msgid ""
@@ -3668,14 +3731,17 @@ msgid ""
 "sands of their homeland with ease, and swiftly raid enemy settlements with their "
 "scimitar."
 msgstr ""
+"Gerudské Hrdlořezky byly nejmnadší vojačky národa, čerstvě trénované. Protože se "
+"nemusely zabývat brněním, Hrdlořezky uměly bez bez problémů sprintovat po písku jejich "
+"domova,  a hbitě drancovat nepřátelské osady svými šavlemi."
 
 #: simulation/templates/units/gerudo/gerudo_marauder_b.xml:38
 msgid "Light Infantry Melee unit that can raid enemies."
-msgstr ""
+msgstr "Lehká pěchota která umí drancovat od nepřátel."
 
 #: simulation/templates/units/gerudo/gerudo_masterthief_b.xml:39
 msgid "Master Thief"
-msgstr ""
+msgstr "Mistrovská Zlodějka"
 
 #: simulation/templates/units/gerudo/gerudo_masterthief_b.xml:41
 msgid ""
@@ -3683,14 +3749,17 @@ msgid ""
 "the undisputed champions. Master Thieves can sneak into just about any location and "
 "pickpocket, steal, murder, and engage in all-out melee."
 msgstr ""
+"V drsné poušti je krádež často nejlepší způsob přežití, a Gerudy jsou v tom nesporně "
+"šampionky. Mistrovské Zlodějky se dokážou proplížit do jakohokoliv místa tam a krást, "
+"vraždit, a bojovat."
 
 #: simulation/templates/units/gerudo/gerudo_masterthief_b.xml:46
 msgid "Swift Melee unit that is Stealthed."
-msgstr ""
+msgstr "Hbitá pěší jednotka která je utajená."
 
 #: simulation/templates/units/gerudo/gerudo_sandsniper_b.xml:41
 msgid "Sand Sniper"
-msgstr ""
+msgstr "Písečná Odstřelovačka"
 
 #: simulation/templates/units/gerudo/gerudo_sandsniper_b.xml:42
 #: simulation/templates/units/gerudo/gerudo_sandsniper_garrison.xml:43
@@ -3700,20 +3769,24 @@ msgid ""
 "ability to hit their targets dead-on from extremely long ranges. There are few "
 "individuals in Hyrule who can best them from a distance. "
 msgstr ""
+"Geruské Písečné Odstřelovačky jsou jedny z nejlepších lučištníků v poušti. Trénované "
+"od malička v umění luku, Písečné Odstřelovačky jsou nechvalně proslulé svou schopností "
+"trefit svůj cíl do černého z extrémních vzdáleností. Na světě je jen málo jednotlivců "
+"kteří je předčí ve vzdálenosti. "
 
 #: simulation/templates/units/gerudo/gerudo_sandsniper_b.xml:47
 #: simulation/templates/units/gerudo/gerudo_sandsniper_garrison.xml:48
 msgid "Long ranged Infantry Missile unit that has Camouflage."
-msgstr ""
+msgstr "Dalekostřelná pěší jednotka s kamufláží."
 
 #: simulation/templates/units/gerudo/gerudo_sandsniper_garrison.xml:42
 #: simulation/templates/units/hylian/hylian_soldier_archer_garrison.xml:42
 msgid "Garrison Archer"
-msgstr ""
+msgstr "Lučištnická Posádka"
 
 #: simulation/templates/units/gerudo/gerudo_sealplower_b.xml:39
 msgid "Sandseal Plower"
-msgstr ""
+msgstr "Prorážeci Mrož"
 
 #: simulation/templates/units/gerudo/gerudo_sealplower_b.xml:40
 #: simulation/templates/units/npc_tokay/npc_tok_aquajockey_b.xml:37
@@ -3722,14 +3795,17 @@ msgid ""
 " ram for Gerudo armies. Capable of crossing harsh deserts as well as bodies of water, "
 "the Plower can charge into buildings and walls, tearing them apart brick-by-brick."
 msgstr ""
+"Vybaven obřím rohem, Prorážecí Mrož slouží jako živoucí beranidlo pro Gerudské armády. "
+"Schopný přejít přes drsné pouště a také vody, Prorážeč útoří na budovy a zdi, a drtí "
+"je cihlu po cihle."
 
 #: simulation/templates/units/gerudo/gerudo_sealplower_b.xml:45
 msgid "Strong but slow moving Cavalry Siege unit."
-msgstr ""
+msgstr "Silná ale pomalá jezdecká obléhací jednotka."
 
 #: simulation/templates/units/gerudo/gerudo_serpentkeep_b.xml:40
 msgid "Serpent Slayer"
-msgstr ""
+msgstr "Hadobijka"
 
 #: simulation/templates/units/gerudo/gerudo_serpentkeep_b.xml:42
 msgid ""
@@ -3739,21 +3815,27 @@ msgid ""
 "and magical attacks, making them excellent at killing mages and other mystical beasts "
 "in battle."
 msgstr ""
+"Oblečená v ceremoniálním zlatém brnění v podobě Kovaly, První Mudryně Duší, Hadobijky "
+"stráži utajené hlubiny Gerudských kobek po celé poušti. Ozbrojeny chopešem a legendárním "
+"zdrcadlovým štítem, jsou naprosto imunní všem elementálním a magickým útokům, což je dělá "
+"excelentní v zabíjení mágů a jiných mýtických bestií v bitvě."
 
 #: simulation/templates/units/gerudo/gerudo_serpentkeep_b.xml:47
 msgid ""
 "Urbosa's Unique Unit. Relatively slow but durable anti-mage unit that can reflect Magic"
 " damage through the mirror shield."
 msgstr ""
+"Jednotka kterou může verbovat pouze Urbosa. Relativně pomalá ale odolná proti-magická "
+"jednotka která umí odrážet magické útoky svým zdcadlovým štítem."
 
 #: simulation/templates/units/gerudo/gerudo_titan_twinrova.xml:12
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fire and Ice Magic"
-msgstr ""
+msgstr "Ohnivá a Ledová Magie"
 
 #: simulation/templates/units/gerudo/gerudo_titan_twinrova.xml:74
 msgid "The Sorceress Sisters"
-msgstr ""
+msgstr "Sestry Čarodějnice"
 
 #: simulation/templates/units/gerudo/gerudo_titan_twinrova.xml:75
 msgid ""
@@ -3762,16 +3844,21 @@ msgid ""
 "combined, the witches are capable of unleashing devastating fire and ice magic against "
 "enemies."
 msgstr ""
+"Náhradní matky Ganondorfa, dvojčata Koume a Kotake jsou schopny se magicky spojit do "
+"mocné a zlostné entity jménem Dvojróba. Když jsou spojeny, tyto čarodějnice jsou schopny "
+"vypustit devastující ohnivou a ledovou magii proti svým nepřátelům."
 
 #: simulation/templates/units/gerudo/gerudo_titan_twinrova.xml:78
 msgid "Twinrova"
-msgstr ""
+msgstr "Dvojróba"
 
 #: simulation/templates/units/gerudo/gerudo_titan_twinrova.xml:79
 msgid ""
 "Gerudo Titan unit. Powerful hovering ranged Mage that deals both Fire and Water damage "
 "to enemies."
 msgstr ""
+"Gerudská Mýtická jednotka. Mocná levitující magická jednotka která způsobuje ohnivé "
+"a vodní požkození svým nepřátelům."
 
 #: simulation/templates/units/gerudo/gerudo_tombguard_b.xml:4
 #: simulation/templates/units/lanayru/lanayru_hero_mipha.xml:4
@@ -3781,11 +3868,11 @@ msgstr ""
 #: simulation/templates/units/npc_zuna/npc_zun_tridenteer_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Trident"
-msgstr ""
+msgstr "Trojzubec"
 
 #: simulation/templates/units/gerudo/gerudo_tombguard_b.xml:38
 msgid "Tomb Guard"
-msgstr ""
+msgstr "Hrobní Stráž"
 
 #: simulation/templates/units/gerudo/gerudo_tombguard_b.xml:39
 msgid ""
@@ -3794,14 +3881,17 @@ msgid ""
 "Armed with a Trident-Spear and shining Golden Shield, Tomb Guards can stand their "
 "ground and hold off almost any foe."
 msgstr ""
+"Vysoce postavené vojačky v Gerudské armádě, Hrobní Stráž hlídá hrobky dávno mrtvých "
+"Gerudských Králů, a také Královský palác a jiná politická centra. Ozbrojeny trojzubci "
+"a lesklým zlatým štítem, Hrobní Stráž si umí udržet své a odrazit jakékoliv nepřátele. "
 
 #: simulation/templates/units/gerudo/gerudo_tombguard_b.xml:43
 msgid "Strong defensive Infantry unit armed with a spear and shield."
-msgstr ""
+msgstr "Silná obranná pěší jednotka ozbrojená kopím a štítem."
 
 #: simulation/templates/units/gerudo/gerudo_trailblazer_b.xml:41
 msgid "Trailblazer"
-msgstr ""
+msgstr "Průkopnice"
 
 #: simulation/templates/units/gerudo/gerudo_trailblazer_b.xml:42
 msgid ""
@@ -3809,14 +3899,17 @@ msgid ""
 "Gerudo Desert or in foreign lands. During times of war, Trailblazers are called to "
 "track the movements of enemy forces, whom in most cases they can easily outrun."
 msgstr ""
+"Průzkumnice a badatelka, Průkopnice tráví většinu svého života na hranicích Gerudské "
+"pouště nebo v cizích zemích. Ve válce jsou Průkopnice povolány aby sledovaly pohyb "
+"nepřátelských sil, které většinou dokázou bez námahy předběhnout. "
 
 #: simulation/templates/units/gerudo/gerudo_trailblazer_b.xml:46
 msgid "Fast mounted Scout unit armed with a bow and arrow."
-msgstr ""
+msgstr "Rychlá jezdecká průzkumnická jednotka s lukem a šípem."
 
 #: simulation/templates/units/gerudo/gerudo_vagrudanon_b.xml:33
 msgid "Vagrudanon"
-msgstr ""
+msgstr "Vagrudana"
 
 #: simulation/templates/units/gerudo/gerudo_vagrudanon_b.xml:34
 msgid ""
@@ -3824,19 +3917,22 @@ msgid ""
 " Gerudo's military cavalry. They are some of the fastest riders in all of Hyrule, and "
 "can strike terror into their enemies with unrelenting raids."
 msgstr ""
+"Posazeny na ikonických černých kioních z pouště, Vagrudany tvoří jádro Gerudského "
+"jezdectva. Jsou některé z nejrychlejších jezdců na celém světe, a vzbouzí strach ve "
+"svých nepřátelích nepolevujícími nájezdy."
 
 #: simulation/templates/units/gerudo/gerudo_vagrudanon_b.xml:39
 msgid "Fast and Light Cavalry unit geared towards raiding enemy targets."
-msgstr ""
+msgstr "Rychlá lehká jezdecká jednotka trénována k nájezdům na nepřátelské cíle."
 
 #: simulation/templates/units/gerudo/gerudo_windwitch_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Witch's Wind"
-msgstr ""
+msgstr "Čarodějný Vichr"
 
 #: simulation/templates/units/gerudo/gerudo_windwitch_b.xml:53
 msgid "Wind Witch"
-msgstr ""
+msgstr "Větrná Čarodejnice"
 
 #: simulation/templates/units/gerudo/gerudo_windwitch_b.xml:54
 msgid ""
@@ -3845,10 +3941,14 @@ msgid ""
 "them extraordinarily long lives, as well as power over sand and wind. They are feared "
 "and revered by all Gerudo."
 msgstr ""
+"Postarší matriarchy Gerudské společnosti, Větrné Čarodejnice převzali kontrolu nad "
+"pouštním impériem když vymřeli mužští králové. Temné magie starověké poušte jim dali "
+"vyjímečně dlouhé životy, a také moc nad pískem a větrem. Jsou obávány a uctívány všemi "
+"Gerudami.
 
 #: simulation/templates/units/gerudo/gerudo_windwitch_b.xml:59
 msgid "Mage unit with powerful Wind attack that deals Knockback damage."
-msgstr ""
+msgstr "Magická jednotka s mocným větrným útokem který odráží nepřátele."
 
 #: simulation/templates/units/gerudo_trader_b.xml:18
 #: simulation/templates/units/gerudo_trader_upg.xml:9
@@ -3866,7 +3966,7 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_acidsprayer_b.xml:25
 msgid "Acid Sprayer"
-msgstr ""
+msgstr "Nosička Kyseliny"
 
 #: simulation/templates/units/gohma/gohma_acidsprayer_b.xml:26
 msgid ""
@@ -3884,7 +3984,7 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_ampli_b.xml:24
 msgid "Hive Amplifier"
-msgstr ""
+msgstr "Zesilovatelka"
 
 #: simulation/templates/units/gohma/gohma_ampli_b.xml:25
 msgid ""
@@ -3901,11 +4001,11 @@ msgstr ""
 #: simulation/templates/units/gohma/gohma_armogohma_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fire Stream"
-msgstr ""
+msgstr "Ohnivý Proud"
 
 #: simulation/templates/units/gohma/gohma_armogohma_b.xml:53
 msgid "Armogohma"
-msgstr ""
+msgstr "Branogóma"
 
 #: simulation/templates/units/gohma/gohma_armogohma_b.xml:54
 msgid ""
@@ -3913,10 +4013,13 @@ msgid ""
 "ignites into fire. These organic siege weapons can hurl beams of fire from a distance, "
 "torching enemy defenses."
 msgstr ""
+"Vysoce specializovaná obří Góma, Branogóma brečí vznicující se tekutinu ze svého oka. "
+"Tyto organické obléhací stroje mohou brečet proudy ohně na dálku, a spálit nepřátelské "
+"opevnění."
 
 #: simulation/templates/units/gohma/gohma_armogohma_b.xml:57
 msgid "Giant Creature Siege unit that can attack with fire globs from a distance."
-msgstr ""
+msgstr "Obří obléhací jednotka která umí útočit na dálku proudy ohně."
 
 #: simulation/templates/units/gohma/gohma_burst_b.xml:4
 #: simulation/templates/units/gohma/gohma_harvesterA.xml:4
@@ -3950,11 +4053,11 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_titan_stallord.xml:12
 msgctxt "Name of an attack, usually the weapon."
 msgid "Claws"
-msgstr ""
+msgstr "Klepeta"
 
 #: simulation/templates/units/gohma/gohma_burst_b.xml:41
 msgid "Burst Gohma"
-msgstr ""
+msgstr "Praskající Góma"
 
 #: simulation/templates/units/gohma/gohma_burst_b.xml:42
 msgid ""
@@ -3962,20 +4065,22 @@ msgid ""
 "seek out their targets and selflessly kill themselves by erupting into a burning green "
 "ooze."
 msgstr ""
+"Malá Góma kterou úl využívá v zoufalých situacích. Tyto malé noční můry hledají cíle "
+"nezištně se zabijí tím že vybuchnou, zanechajíce hořící zelený sliz."
 
 #: simulation/templates/units/gohma/gohma_burst_b.xml:46
 msgid "Small Gohma that explodes into burning acid when slain."
-msgstr ""
+msgstr "Malá Góma která vybuchuje v zelený sliz pokud padne."
 
 #: simulation/templates/units/gohma/gohma_caretaker_b.xml:4
 #: simulation/templates/units/gohma/gohma_spinegohma_garrison.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Acid"
-msgstr ""
+msgstr "Kyselina"
 
 #: simulation/templates/units/gohma/gohma_caretaker_b.xml:41
 msgid "Caretaker"
-msgstr ""
+msgstr "Správce"
 
 #: simulation/templates/units/gohma/gohma_caretaker_b.xml:42
 #: simulation/templates/units/gohma/gohma_spinegohma_garrison.xml:43
@@ -3990,7 +4095,7 @@ msgstr ""
 msgid ""
 "Small Gohma Missile unit that can attack with acid globs from a distance. They can also"
 " carry eggs."
-msgstr ""
+msgstr "Malá střelná jednotka která útočí na dálku plivanci kyseliny."
 
 #: simulation/templates/units/gohma/gohma_civilianA.xml:8
 #: simulation/templates/units/gohma/gohma_harvesterA.xml:40
@@ -4011,7 +4116,7 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_eggB.xml:23
 msgid "Egg"
-msgstr ""
+msgstr "Vejce"
 
 #: simulation/templates/units/gohma/gohma_eggB.xml:24
 msgid ""
@@ -4052,11 +4157,11 @@ msgstr ""
 #: simulation/templates/units/gohma/gohma_keeper_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Mites"
-msgstr ""
+msgstr "Roztoči"
 
 #: simulation/templates/units/gohma/gohma_hero_agitha.xml:55
 msgid "Voice of the Gohma"
-msgstr ""
+msgstr "Hlas Gómy"
 
 #: simulation/templates/units/gohma/gohma_hero_agitha.xml:57
 msgid ""
@@ -4068,21 +4173,21 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_hero_agitha.xml:61
 msgid "Agitha"
-msgstr ""
+msgstr "Agita"
 
 #: simulation/templates/units/gohma/gohma_hero_agitha.xml:62
 msgid "Mounted Support Hero that can build Gohma structures and trade with allies."
-msgstr ""
+msgstr "Jezdící podpůrná hrdinka."
 
 #: simulation/templates/units/gohma/gohma_hero_matriarch.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Larva Swarm"
-msgstr ""
+msgstr "Roj Larev"
 
 #: simulation/templates/units/gohma/gohma_hero_matriarch.xml:34
 #: simulation/templates/units/gohma/gohma_hero_matriarch_armo.xml:20
 msgid "The Hive Mother"
-msgstr ""
+msgstr "Matka Úlu"
 
 #: simulation/templates/units/gohma/gohma_hero_matriarch.xml:36
 #: simulation/templates/units/gohma/gohma_hero_matriarch_armo.xml:21
@@ -4096,16 +4201,16 @@ msgstr ""
 #: simulation/templates/units/gohma/gohma_hero_matriarch.xml:40
 #: simulation/templates/units/gohma/gohma_hero_matriarch_armo.xml:23
 msgid "Matriarch"
-msgstr ""
+msgstr "Matriarcha"
 
 #: simulation/templates/units/gohma/gohma_hero_matriarch.xml:41
 #: simulation/templates/units/gohma/gohma_hero_matriarch_armo.xml:24
 msgid "A Support Hero who is followed by a huge swarm of larva."
-msgstr ""
+msgstr "Podpůrná hrdinka která je následováma velkými roji larev."
 
 #: simulation/templates/units/gohma/gohma_hero_mido.xml:44
 msgid "Forest Traitor"
-msgstr ""
+msgstr "Zrádce Lesa"
 
 #: simulation/templates/units/gohma/gohma_hero_mido.xml:46
 msgid ""
@@ -4117,15 +4222,15 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_hero_mido.xml:50
 msgid "Mido"
-msgstr ""
+msgstr "Mido"
 
 #: simulation/templates/units/gohma/gohma_hero_mido.xml:51
 msgid "A swift Scout Hero that remains Stealthed and attacks with his spear."
-msgstr ""
+msgstr "Hbitý průzkumnický hrdina který je v utajení a útoří na nepřátele svým kopím."
 
 #: simulation/templates/units/gohma/gohma_hero_praetorian.xml:43
 msgid "Praetorian"
-msgstr ""
+msgstr "Prétor"
 
 #: simulation/templates/units/gohma/gohma_hero_praetorian.xml:45
 msgid ""
@@ -4135,11 +4240,11 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_hero_praetorian.xml:49
 msgid "Durable Creature Hero that can leap far distances."
-msgstr ""
+msgstr "Odolný tvor které umí skákat na velké vzdálenosti."
 
 #: simulation/templates/units/gohma/gohma_hero_queenbaga.xml:43
 msgid "The Bane of Baga"
-msgstr ""
+msgstr "Zkáza Bagy"
 
 #: simulation/templates/units/gohma/gohma_hero_queenbaga.xml:45
 msgid ""
@@ -4152,15 +4257,15 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_hero_queenbaga.xml:49
 msgid "Queen Baga"
-msgstr ""
+msgstr "Královna Baga"
 
 #: simulation/templates/units/gohma/gohma_hero_queenbaga.xml:50
 msgid "A Support Hero that can spawn smaller Gohma behind enemy lines."
-msgstr ""
+msgstr "Podpůrná hrdinka schopná povolat menší Gómy za nepřátelskými liniemi."
 
 #: simulation/templates/units/gohma/gohma_hero_sulkaris.xml:49
 msgid "The Fallen Sage"
-msgstr ""
+msgstr "Padlá Mudryně"
 
 #: simulation/templates/units/gohma/gohma_hero_sulkaris.xml:51
 msgid ""
@@ -4174,15 +4279,15 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_hero_sulkaris.xml:55
 msgid "Sulkaris"
-msgstr ""
+msgstr "Sulkaris"
 
 #: simulation/templates/units/gohma/gohma_hero_sulkaris.xml:56
 msgid "Very large Creature Hero that can rip apart enemies with her wicked claws."
-msgstr ""
+msgstr "Velice velká hrdinka schopná roztrhat nepřátele svými hroznými klepety."
 
 #: simulation/templates/units/gohma/gohma_janitor_b.xml:37
 msgid "Janitor"
-msgstr ""
+msgstr "Uklízeč"
 
 #: simulation/templates/units/gohma/gohma_janitor_b.xml:38
 msgid ""
@@ -4193,11 +4298,11 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_janitor_b.xml:42
 msgid "Large Support unit that can snap trees in half and gather meat from dead corpses."
-msgstr ""
+msgstr "Velká podpůrná jednotka schopná rozseknout stromy vejpůl a sbírat jídlo z mrtvol."
 
 #: simulation/templates/units/gohma/gohma_keeper_b.xml:52
 msgid "Mite Keeper"
-msgstr ""
+msgstr "Kustod Roztočů"
 
 #: simulation/templates/units/gohma/gohma_keeper_b.xml:53
 msgid ""
@@ -4205,15 +4310,17 @@ msgid ""
 "Mites at enemies, which will then proceed to attack any hostile near where the creature"
 " lands."
 msgstr ""
+"Kustodi Roztočů s sebou nosí velké roje Roztočů. Tito nosiči jsou schopni házet roztoče "
+"na nepřátele, a ti potom útočí na jakékokoliv nepřítele s blízkosti.
 
 #: simulation/templates/units/gohma/gohma_keeper_b.xml:56
 msgid "Ranged unit that hurls Mites at enemies."
-msgstr ""
+msgstr "Střelná jednotka která hází Roztoče na nepřátele."
 
 #: simulation/templates/units/gohma/gohma_keeper_upg.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Webweavers"
-msgstr ""
+msgstr "Tkadlec Pavučin"
 
 #: simulation/templates/units/gohma/gohma_keeper_upg.xml:37
 msgid ""
@@ -4223,7 +4330,7 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_larva_giant_b.xml:29
 msgid "Eye Gohma"
-msgstr ""
+msgstr "Okóma"
 
 #: simulation/templates/units/gohma/gohma_larva_giant_b.xml:30
 msgid ""
@@ -4231,23 +4338,26 @@ msgid ""
 " seems to allow these creatures to see many things normal eyes cannot, including hidden"
 " enemies. They are often used by the Gohma to scout out new eras for invasion."
 msgstr ""
+"Tyto velké formy larev mají obří oko na svých zadečcích. Toto obří oko zdánlivě dává "
+"těmto tvorům schopnost vidět věci které normální oči nespatří, včetně skrytých "
+"nepřátel. Často jsou využívány Gómami k průzkumu nových míst pro invazi. "
 
 #: simulation/templates/units/gohma/gohma_larva_giant_b.xml:34
 msgid "Scout unit that can detect Stealthed and Camouflaged units."
-msgstr ""
+msgstr "Průzkumná jednotka schopná detekovat jednotky s utajením a kamufláží."
 
 #: simulation/templates/units/gohma/gohma_larva_sterile_b.xml:29
 msgid "Sterile Larva"
-msgstr ""
+msgstr "Sterilni Larva"
 
 #: simulation/templates/units/gohma/gohma_larva_sterile_b.xml:30
 #: simulation/templates/units/gohma/gohma_larva_sterile_b.xml:34
 msgid "A small Gohma Larva that is unable to grow into new forms."
-msgstr ""
+msgstr "Malá larva neschopna vyrůst v další formy."
 
 #: simulation/templates/units/gohma/gohma_longlegs_b.xml:39
 msgid "Gohma Long Legs"
-msgstr ""
+msgstr "Góma Třesavka"
 
 #: simulation/templates/units/gohma/gohma_longlegs_b.xml:40
 msgid ""
@@ -4255,14 +4365,17 @@ msgid ""
 "their size, and function as Cavalry for the Gohma. They can keep pace with horses and "
 "other mounted units deployed by their enemies."
 msgstr ""
+"Velká a děsivá forma s velice dlouhámi nohami. Tyto jednotky jsou na svoji velikost "
+"velice rychlé, a fungují jako jezdectvo pro Gómy. Umí držet krok s koňmi a jiným "
+"jezdectvem nasazeným jejími nepřáteli."
 
 #: simulation/templates/units/gohma/gohma_longlegs_b.xml:45
 msgid "Very fast moving Melee unit that can keep pace with even the swiftest Cavalry."
-msgstr ""
+msgstr "Velice rychlá pěší jednotka schopna držet krok s nejhbitějším jezdectvem."
 
 #: simulation/templates/units/gohma/gohma_mite_b.xml:29
 msgid "Gohma Mite"
-msgstr ""
+msgstr "Roztoč"
 
 #: simulation/templates/units/gohma/gohma_mite_b.xml:30
 #: simulation/templates/units/gohma/gohma_mite_b.xml:34
@@ -4271,21 +4384,23 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_pincergohma_b.xml:33
 msgid "Pincergohma"
-msgstr ""
+msgstr "Kleštiǵoma"
 
 #: simulation/templates/units/gohma/gohma_pincergohma_b.xml:34
 msgid ""
 "The primary soldier grown and deployed by the Gohma. The Pincergohma is a medium sized "
 "monster with two powerful hacking claws."
 msgstr ""
+"Primární voják vychován a nasazen Gómami. Kleštigóma je středně velká příšera s dvěmi "
+"mocnými sekajícími klepety."
 
 #: simulation/templates/units/gohma/gohma_pincergohma_b.xml:38
 msgid "Melee unit that attacks with its razor sharp claws."
-msgstr ""
+msgstr "Pěší jednotka která útočí svými na nože ostrými klepety."
 
 #: simulation/templates/units/gohma/gohma_princess_b.xml:39
 msgid "Gohma Princess"
-msgstr ""
+msgstr "Princezna Góm"
 
 #: simulation/templates/units/gohma/gohma_princess_b.xml:40
 msgid ""
@@ -4298,6 +4413,8 @@ msgid ""
 "Gohma Commander unit that improves the performance of other Gohma. She can also detect "
 "Camouflaged and Stealthed units."
 msgstr ""
+"Velitelská jednotka která zlepšuje výkon ostatním Góm. Také dokáže detekovat jednotky "
+"s kamufláží a utajením."
 
 #: simulation/templates/units/gohma/gohma_rocktite_b.xml:37
 msgid "Rocktite"
@@ -4308,10 +4425,12 @@ msgid ""
 "These rare Gohma are found deep underground and occasionally summoned to the surface. "
 "Their rocky exterior makes them particularly resistant to damage."
 msgstr ""
+"Tyto vzácné Gómy jsou nalezeny hluboko pod zemí a občas svolané na povrch. Jejich "
+"kamenný vnějšek je dělá značně odolné požkození."
 
 #: simulation/templates/units/gohma/gohma_rocktite_b.xml:43
 msgid "Melee unit with durable armor."
-msgstr ""
+msgstr "Pěší jednotka s odolným brněním."
 
 #: simulation/templates/units/gohma/gohma_shieldgohma_b.xml:37
 msgid "Shield Gohma"
@@ -4332,12 +4451,12 @@ msgstr ""
 #: simulation/templates/units/gohma/gohma_shroudwalker_common.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Shroud"
-msgstr ""
+msgstr "Clona"
 
 #: simulation/templates/units/gohma/gohma_shroudwalker.xml:33
 #: simulation/templates/units/gohma/gohma_shroudwalker_common.xml:33
 msgid "Shroud Walker"
-msgstr ""
+msgstr "Clonič"
 
 #: simulation/templates/units/gohma/gohma_shroudwalker.xml:34
 #: simulation/templates/units/gohma/gohma_shroudwalker_common.xml:34
@@ -4348,6 +4467,8 @@ msgid ""
 " Its fog also reduces enemy line of sight and makes ranged attacks much more inaccurate"
 " against your units within its aura."
 msgstr ""
+"Tyto masivní Gómy jsou ve skutečnosti naprosto neškodné. Místo toho se mohou usadit a "
+"stát se nehybnými, a vytvořit tlustou mlžnu Gómské clony kolem sebe.
 
 #: simulation/templates/units/gohma/gohma_shroudwalker.xml:37
 #: simulation/templates/units/gohma/gohma_shroudwalker_common.xml:36
@@ -4355,15 +4476,17 @@ msgid ""
 "Agitha's Unique Unit. Large Support unit that can generate vision impairing clouds and "
 "Stealth nearby units.."
 msgstr ""
+"Jednotka kterou může verbovat pouze Agita. Mohutná podpůrná jednotka která generuje "
+"clonu jež kazí zrak a zahaluje jednotky.
 
 #: simulation/templates/units/gohma/gohma_spinalgohma_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Tongue"
-msgstr ""
+msgstr "Jazyk"
 
 #: simulation/templates/units/gohma/gohma_spinalgohma_b.xml:38
 msgid "Spinalgohma"
-msgstr ""
+msgstr "Hřbetogóma"
 
 #: simulation/templates/units/gohma/gohma_spinalgohma_b.xml:39
 msgid ""
@@ -4377,11 +4500,11 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_spinegohma_garrison.xml:42
 msgid "Spine Gohma"
-msgstr ""
+msgstr "Hřbetogóma"
 
 #: simulation/templates/units/gohma/gohma_tank_b.xml:44
 msgid "Tank Gohma"
-msgstr ""
+msgstr "Góma Drtič"
 
 #: simulation/templates/units/gohma/gohma_tank_b.xml:45
 msgid ""
@@ -4389,14 +4512,16 @@ msgid ""
 "the Hive to aggressively siege enemy fortifications. They are invaluable for bursting "
 "open gates and walls."
 msgstr ""
+"Obří Góma s působivým brněním a masivními drtícími klepety. Góma Drtiči jsou využíváni "
+"úly k agresivnímu obléhání nepřátelských opevnění. Jsou nedocenitelné k ničení bran a zdí."
 
 #: simulation/templates/units/gohma/gohma_tank_b.xml:50
 msgid "Large and powerful Creature Siege unit with impressive Knockback and Splash Damage."
-msgstr ""
+msgstr "Mohutný a mocný obléhací tvor s působivým plošným a odrážecím požkozením."
 
 #: simulation/templates/units/gohma/gohma_titan_iemanis.xml:75
 msgid "Primordial Gohma"
-msgstr ""
+msgstr "Prvotní Góma"
 
 #: simulation/templates/units/gohma/gohma_titan_iemanis.xml:76
 msgid ""
@@ -4409,11 +4534,11 @@ msgstr ""
 #: simulation/templates/units/gohma/gohma_titan_iemanis.xml:79
 #: simulation/templates/units/gohma/gohma_titan_iemanis_electric.xml:17
 msgid "Iemanis"
-msgstr ""
+msgstr "Jemanis"
 
 #: simulation/templates/units/gohma/gohma_titan_iemanis.xml:80
 msgid "Gohma Titan unit. Giant Melee unit that summons additional Gohma when damaged."
-msgstr ""
+msgstr "Mýtická jenotka Góm. Obří peší jednotka která svolává dodatečné jednotky při zranění."
 
 #: simulation/templates/units/gohma/gohma_titan_iemanis_electric.xml:12
 msgid "God of the Gohma"
@@ -4437,7 +4562,7 @@ msgstr ""
 #: simulation/templates/units/gohma/gohma_trapdoor_burrow.xml:38
 #: simulation/templates/units/gohma/gohma_trapdoor_common.xml:38
 msgid "Trap-door Gohma"
-msgstr ""
+msgstr "Poklopní Góma"
 
 #: simulation/templates/units/gohma/gohma_trapdoor.xml:22
 #: simulation/templates/units/gohma/gohma_trapdoor_burrow.xml:39
@@ -4448,6 +4573,10 @@ msgid ""
 "near are attacked by the creature, which has a very high chance of dealing a Critical "
 "Hit. When burrowed they can only be seen by Scouts and Towers."
 msgstr ""
+"Malá a rychlá Góma schopná sprintovat z místa na místo. Poklopní Góma se umí zahrabat "
+"do země a schovat pod kámen který nese na zádech. Nepřátelé kteří projdou blízko jsou "
+"požkozená tímhle tvorem, jenž má šanci způsobit kritickou ránu. Když jsou zahrabaní, "
+"jdou vidět jen průzkumníky a věžemi."
 
 #: simulation/templates/units/gohma/gohma_trapdoor.xml:25
 #: simulation/templates/units/gohma/gohma_trapdoor_burrow.xml:42
@@ -4460,19 +4589,20 @@ msgid ""
 "Burrow underground. (Trapdoor Gohma becomes Stealthed and can Attack enemies, but loses"
 " the ability to move.)"
 msgstr ""
+"Zahrabat pod zem."
 
 #: simulation/templates/units/gohma/gohma_trapdoor_burrow.xml:71
 msgid "Unburrow. (Trapdoor Gohma can move again but can no longer attack.)"
-msgstr ""
+msgstr "Vyhrabat se."
 
 #: simulation/templates/units/gohma/gohma_webweaver_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Web"
-msgstr ""
+msgstr "Pavučina"
 
 #: simulation/templates/units/gohma/gohma_webweaver_b.xml:34
 msgid "Webweaver"
-msgstr ""
+msgstr "Tkadlec Pavučin"
 
 #: simulation/templates/units/gohma/gohma_webweaver_b.xml:35
 #: simulation/templates/units/gohma/gohma_webweaver_b.xml:39
