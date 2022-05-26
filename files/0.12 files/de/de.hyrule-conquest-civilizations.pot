@@ -140,11 +140,11 @@ msgid ""
 "himself, the demon retained Vaati's image, name, and personality as it set out to "
 "accomplish its goals in Hyrule. When exposed and under threat, the demon abandons his "
 "Vaati disguise and reveals his horrific bat-like form."
-msgstr ""
+msgstr "Vaati, einst ein Minish, begegnete einen Dämon aus alten Zeiten, der das ursprüngliche Hyrule verwüstete und formte einen Pakt mit der Bestie. Sie gewährte ihm unglaubliche Macht, doch verlor Vaati sich langsam durch seine Besessenheit des Biestes. Auch wenn er nicht mehr er selbst war, so bewahrte der Dämon das Aussehen, den Namen und die Persönlichkeit Vaatis, als er loszog um seine Ziele in Hyrule verwiklichen. Wenn konfrontiert oder unter Gefahr legt es die Hülle von Vaati ab und entblöst seine entsetzliche fledermausartige Form."
 
 #: simulation/data/civs/darknut.json:Structures[1].Name
 msgid "Titan: Vaati, the Wind Demon"
-msgstr ""
+msgstr "Vaati, der Winddämon"
 
 #: simulation/data/civs/darknut.json:TeamBonuses[0].Description
 msgid "Allies can train all Mercs as the Darknuts do, except for Legion specific Mercs."
