@@ -46,19 +46,19 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_stalhound_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fangs"
-msgstr ""
+msgstr "Reißzähne"
 
 #: simulation/templates/template_unit_dog.xml:32
 msgid "War Dog"
-msgstr ""
+msgstr "Kampfhund"
 
 #: simulation/templates/template_unit_dog.xml:33
 msgid "Cannot attack Structures, Ships, or Siege Engines."
-msgstr ""
+msgstr "Kann keine Strukturen, Schiffe oder Belagerungswaffen angreifen"
 
 #: simulation/templates/template_unit_dog.xml:34
 msgid "Dog"
-msgstr ""
+msgstr "Hund"
 
 #: simulation/templates/template_unit_dog.xml:34
 #: simulation/templates/template_unit_scout.xml:15
@@ -354,7 +354,7 @@ msgstr ""
 #: simulation/templates/units/zora/zora_shocktroop_b.xml:40
 #: simulation/templates/units/zora/zora_stormbolter_b.xml:43
 msgid "Melee"
-msgstr ""
+msgstr "Nahkampf"
 
 #: simulation/templates/template_unit_scout.xml:4
 #: simulation/templates/units/campaign/FS_01/gohma_larva_giant_b.xml:4
@@ -394,15 +394,15 @@ msgstr ""
 
 #: simulation/templates/template_unit_scout.xml:14
 msgid "Melee Cavalry"
-msgstr ""
+msgstr "Nahkampf Kavallerie"
 
 #: simulation/templates/template_unit_unselectable.xml:46
 msgid "Unit"
-msgstr ""
+msgstr "Einheit"
 
 #: simulation/templates/units/armos/armos_alttp_b.xml:4
 msgid "Ancient Armos"
-msgstr ""
+msgstr "Antiker Armos"
 
 #: simulation/templates/units/armos/armos_alttp_b.xml:5
 msgid ""
@@ -410,18 +410,18 @@ msgid ""
 "are still a mystery to this day. What can be surmised is that they were intended to "
 "guard passages and other important locations, as those found active will begin to "
 "rampage and defend the immediate area."
-msgstr ""
+msgstr "Diese Statuen, die man normalerweise in Hyrules Waldruinen findet, sind wie ihre Schöpfer bis zu diesem Tag ein Mysterium. Was allgemein vermutet wird ist das sie zum Schutze von Passagen und anderen wichtigen Orten eingesetzt wurden, da beobachtet wurde wie aktivierte Armos anfangen zu randalieren und das umliegende Gebiet zu verteidigen"
 
 #: simulation/templates/units/armos/armos_alttp_b.xml:7
 #: simulation/templates/units/armos/armos_dm_b.xml:7
 #: simulation/templates/units/armos/armos_fsa_b.xml:7
 #: simulation/templates/units/armos/armos_tarm_b.xml:7
 msgid "Armos Melee unit that rams into targets."
-msgstr ""
+msgstr "Armos Nahkämpfer der seine Gegner rammt"
 
 #: simulation/templates/units/armos/armos_dm_b.xml:4
 msgid "Death Mountain Armos"
-msgstr ""
+msgstr "Todesberg Armos"
 
 #: simulation/templates/units/armos/armos_dm_b.xml:5
 msgid ""
@@ -429,11 +429,11 @@ msgid ""
 "creators, are still a mystery to this day. What can be surmised is that they were "
 "intended to guard passages and other important locations, as those found active will "
 "begin to rampage and defend the immediate area."
-msgstr ""
+msgstr "Diese Statuen, die man normalerweise auf dem Todes Gebirge findet, sind wie ihre Schöpfer bis zu diesem Tag ein Mysterium. Was allgemein vermutet wird ist das sie zum Schutze von Passagen und anderen wichtigen Orten eingesetzt wurden, da beobachtet wurde wie aktivierte Armos anfangen zu randalieren und das umliegende Gebiet zu verteidigen"
 
 #: simulation/templates/units/armos/armos_fsa_b.xml:4
 msgid "Desert Armos"
-msgstr ""
+msgstr "Wüsten Armos"
 
 #: simulation/templates/units/armos/armos_fsa_b.xml:5
 msgid ""
@@ -441,11 +441,11 @@ msgid ""
 "still a mystery to this day. What can be surmised is that they were intended to guard "
 "passages and other important locations, as those found active will begin to rampage and"
 " defend the immediate area."
-msgstr ""
+msgstr "Diese Statuen, die man normalerweise in Hyrules Wüsten findet, sind wie ihre Schöpfer bis zu diesem Tag ein Mysterium. Was allgemein vermutet wird ist das sie zum Schutze von Passagen und anderen wichtigen Orten eingesetzt wurden, da beobachtet wurde wie aktivierte Armos anfangen zu randalieren und das umliegende Gebiet zu verteidigen"
 
 #: simulation/templates/units/armos/armos_tarm_b.xml:4
 msgid "Tarminian Armos"
-msgstr ""
+msgstr "Tarminische Armos"
 
 #: simulation/templates/units/armos/armos_tarm_b.xml:5
 msgid ""
@@ -453,39 +453,39 @@ msgid ""
 " still a mystery to this day. What can be surmised is that they were intended to guard "
 "passages and other important locations, as those found active will begin to rampage and"
 " defend the immediate area."
-msgstr ""
+msgstr "Diese Statuen, die man normalerweise in lang vetrgessenen Ruinen und mystischen Orten findet, sind wie ihre Schöpfer bis zu diesem Tag ein Mysterium. Was allgemein vermutet wird ist das sie zum Schutze von Passagen und anderen wichtigen Orten eingesetzt wurden, da beobachtet wurde wie aktivierte Armos anfangen zu randalieren und das umliegende Gebiet zu verteidigen"
 
 #: simulation/templates/units/boss/boss_madmanhandla.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Teeth and Claws"
-msgstr ""
+msgstr "Fangzähne und Klauen"
 
 #: simulation/templates/units/boss/boss_madmanhandla.xml:60
 msgid ""
 "Sometimes called the Sea of Trees, this oversized Manhandla has been infected by the "
 "Mad Scrub disease and has long gone on a rampage throughout the Deku Woods."
-msgstr ""
+msgstr "Oft auch bekannt als Meer aus Bäumen, wurde diese übergroße Manhandla mit der Laubwut Krankheit infiziert und lief läuft schon lange Amok durch die Dekuwälder "
 
 #: simulation/templates/units/boss/boss_madmanhandla.xml:62
 msgid "Giant Mad Manhandla"
-msgstr ""
+msgstr "Riesige Wahn Manhandla"
 
 #: simulation/templates/units/boss/boss_madmanhandla.xml:63
 msgid "Massive Creature Boss that can attack entire armies from all sides."
-msgstr ""
+msgstr "Massive Bosskreatur, welche ganze Amreen von allen Seiten angreifen kann"
 
 #: simulation/templates/units/boss/boss_madmanhandla.xml:64
 #: simulation/templates/units/boss/boss_moldarach.xml:64
 #: simulation/templates/units/boss/boss_molgera.xml:66
 msgid "Boss"
-msgstr ""
+msgstr "Boss"
 
 #: simulation/templates/units/boss/boss_moldarach.xml:4
 #: simulation/templates/units/lanayru/lanayru_arachdervish_b.xml:4
 #: simulation/templates/units/lanayru/lanayru_aruroda_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Claws and Stinger"
-msgstr ""
+msgstr "Scheren und Stachel"
 
 #: simulation/templates/units/boss/boss_moldarach.xml:60
 msgid ""
@@ -494,15 +494,15 @@ msgid ""
 "grown to a truely massive size as a result. Fortunately the creature spends most of its"
 " time slumbering, but when hungry or angry it will seek out anything that moves and "
 "make a meal out of its victim."
-msgstr ""
+msgstr "Dieser massive Ghad hat die Strände von Lanayru schon seit Jahrzehnten terrorisiert, Ghads erreichen selten so ein Alter, aber the Moldoghad ist vielleicht Jahrhunderte alt und ist so zu seiner enormen Größe gekommen. Glücklicherweise schlummert diese Kreatur die meiste Zeit, sollte sie aber Hunger bekommen oder verärgert werden und frisst alles was bei drei nicht auf dem Baum ist "
 
 #: simulation/templates/units/boss/boss_moldarach.xml:62
 msgid "Moldarach"
-msgstr ""
+msgstr "Moldoghad "
 
 #: simulation/templates/units/boss/boss_moldarach.xml:63
 msgid "Giant Boss that destroys armies with its huge claws and venomous tail."
-msgstr ""
+msgstr "Riesiger Boss der Armeen mit seinen Klauen und giftigen Stachel zermalmt"
 
 #: simulation/templates/units/boss/boss_molgera.xml:4
 #: simulation/templates/units/fairy/fairy_drove_all.xml:4
@@ -510,7 +510,7 @@ msgstr ""
 #: simulation/templates/units/fairy/fairy_drove_summer.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Teeth"
-msgstr ""
+msgstr "Beißerchen"
 
 #: simulation/templates/units/boss/boss_molgera.xml:62
 msgid ""
@@ -527,7 +527,7 @@ msgstr ""
 
 #: simulation/templates/units/boss/boss_molgera.xml:65
 msgid "Boss monster that can burrow into the ground and surprise attack entire armies."
-msgstr ""
+msgstr "Boss Monster das sich vergraben kann und ganze Armeen aus dem Hinterhalt angreifen kann"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_giant_b.xml:29
 msgid "Giant Larva"
@@ -674,22 +674,22 @@ msgstr ""
 #: simulation/templates/units/ordona/ordona_siegeram_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Ram"
-msgstr ""
+msgstr "Rammbock"
 
 #: simulation/templates/units/darknut/darknut_aries_b.xml:43
 msgid "Aries"
-msgstr ""
+msgstr "Aries"
 
 #: simulation/templates/units/darknut/darknut_aries_b.xml:44
 msgid ""
 "Small but very durable rams built by the Legion to tear down enemy walls. The metal "
 "plating of these engines made them extremely resistant to most ranged attacks, often "
 "forcing the enemy to halt them in a melee or bombard them with magics.﻿﻿"
-msgstr ""
+msgstr "Kleiner aber wiederstandsfähiger Rammbock der gebaut wurde um Mauern einzureissen. Die Metallverkleidung dieser Waffe macht sie extrem resistent gegenüber den meisten Distanzwaffen und zwingt den Gegner Magie zu nutzen oder in den Nahkampf zu wechseln. "
 
 #: simulation/templates/units/darknut/darknut_aries_b.xml:47
 msgid "Siege unit that bashes enemy buildings into dust."
-msgstr ""
+msgstr "Belagerungswaffe das Gebäude pulverisiert"
 
 #: simulation/templates/units/darknut/darknut_aries_b.xml:48
 #: simulation/templates/units/darknut/darknut_fokkalista_b.xml:48
@@ -741,12 +741,12 @@ msgstr ""
 #: simulation/templates/units/zora/zora_hydrodemolish_b.xml:43
 #: simulation/templates/units/zora/zora_magecannon_b.xml:61
 msgid "Siege"
-msgstr ""
+msgstr "Belagerung"
 
 #: simulation/templates/units/darknut/darknut_civilianA.xml:8
 #: simulation/templates/units/darknut/darknut_thrallA.xml:44
 msgid "Darknut Thrall"
-msgstr ""
+msgstr "Nimbusgarden Knecht"
 
 #: simulation/templates/units/darknut/darknut_civilianA.xml:9
 #: simulation/templates/units/darknut/darknut_thrallA.xml:45
@@ -756,7 +756,7 @@ msgid ""
 "could challenge their master and escape their servitude. Those that did not remained "
 "lowly workers; gathering resources and building the impressive structures of the "
 "Legion."
-msgstr ""
+msgstr "Knechte waren der niedrigste rang in der Gesllschsft der Nimbusgarde und waren kaum mehr als Sklave.Trotz ihres niedrigen Statuses wurden sie gut versorgt, ob mit Essen oder Kleidung und konnten zu jeder Zeit ihren Meister für ihre Freiheit herausfordern. DIe dies nicht vollbrachte blieben einfache Arbeiter und sammelten weiter ressourcen und errichteten die großen Bauten der Legion"
 
 #: simulation/templates/units/darknut/darknut_civilianA.xml:13
 #: simulation/templates/units/darknut/darknut_thrallA.xml:49
@@ -775,11 +775,11 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_battleforged_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Mace"
-msgstr ""
+msgstr "Streitkolben"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_b.xml:54
 msgid "Doomknocker"
-msgstr ""
+msgstr "Streitklopfer"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_b.xml:55
 msgid ""
@@ -788,27 +788,27 @@ msgid ""
 "relentlessly march at their targets, shrugging off arrow fire without missing a beat. "
 "When in a melee they could pulverize and pummel just about any foe, even those with "
 "durable armor."
-msgstr ""
+msgstr "Morgenklopfer waren große und Mächtige Nimbusgarden Krieger, mit vielen Jahren Ehrfahrung. Einen mächtigen Streitkolben"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_b.xml:59
 msgid "Huge Melee unit armed with an armor crushing mace."
-msgstr ""
+msgstr "Großer Kämpfer mit einem Rüstung zerstörenden Kämpfer"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_legendary.xml:47
 msgid "Legendary Doomknocker"
-msgstr ""
+msgstr "Legendärer Streitklopfer"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_master.xml:43
 msgid "Master Doomknocker"
-msgstr ""
+msgstr "Meister Streitklopfer"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_mighty.xml:44
 msgid "Mighty Doomknocker"
-msgstr ""
+msgstr "Mächtiger Streitklopfer"
 
 #: simulation/templates/units/darknut/darknut_dux_b.xml:58
 msgid "Dux"
-msgstr ""
+msgstr "Dux"
 
 #: simulation/templates/units/darknut/darknut_dux_b.xml:59
 msgid ""
@@ -816,13 +816,13 @@ msgid ""
 "raised generations of Darknut warriors. A lone Dux was often attached to scores of "
 "soldiers to not only to command them, but to show them how to become even better "
 "fighters."
-msgstr ""
+msgstr "Ehrfahrene Krieger und noch Ehrfahrerne Lehrmeister, Dux waren Kommandanten die mit guten Beispiel vorangingen und Generationen an Nimbusgarden Kriegern hervorbrachten. Ein einzelner Dux wurde oft Truppen von Soldaten zugewiesen nicht nur um sie anzuführen sondern auch um sie zu besseren Kämpfern zu machen."
 
 #: simulation/templates/units/darknut/darknut_dux_b.xml:63
 msgid ""
 "Commander unit that leads fellow soldiers into battle and improves their rate of "
 "gaining experience."
-msgstr ""
+msgstr "Kommandanten einheit die Soldaten in den Kampf führt ihren Ehrfahrungsgewinn steigert "
 
 #: simulation/templates/units/darknut/darknut_dux_b.xml:64
 #: simulation/templates/units/darknut/darknut_idolthrone_b.xml:39
@@ -842,19 +842,19 @@ msgstr ""
 #: simulation/templates/units/ordona/ordona_goatlord_b.xml:42
 #: simulation/templates/units/zora/zora_domsupreme_b.xml:47
 msgid "Commander"
-msgstr ""
+msgstr "Kommandant"
 
 #: simulation/templates/units/darknut/darknut_dux_legendary.xml:43
 msgid "Legendary Dux"
-msgstr ""
+msgstr "Legendärer Dux"
 
 #: simulation/templates/units/darknut/darknut_dux_master.xml:43
 msgid "Master Dux"
-msgstr ""
+msgstr "Meister Dux"
 
 #: simulation/templates/units/darknut/darknut_dux_mighty.xml:44
 msgid "Mighty Dux"
-msgstr ""
+msgstr "Mächtiger Dux"
 
 #: simulation/templates/units/darknut/darknut_fokkalista_b.xml:4
 #: simulation/templates/units/hylian/hylian_crossbowman_b.xml:4
@@ -868,11 +868,11 @@ msgstr ""
 #: simulation/templates/units/ordona/ordona_hero_ilia_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Bolts"
-msgstr ""
+msgstr "Bolzen"
 
 #: simulation/templates/units/darknut/darknut_fokkalista_b.xml:44
 msgid "Fokkalista"
-msgstr ""
+msgstr "Fokkaliste"
 
 #: simulation/templates/units/darknut/darknut_fokkalista_b.xml:45
 msgid ""
@@ -880,33 +880,33 @@ msgid ""
 "supplies across the canyons and cliffs of their homeland. It was later converted into a"
 " mobile siege weapon, lobbing rocks and boulders great distances to shatter enemy "
 "fortifications and defenses."
-msgstr ""
+msgstr "Die Fokkaliste wurde von den verbündenten Fokka entwickelt und diente ursprünglich Vorräte über Canyons und Klippenihrer Heimat zu schleudern. Es wurde später in eine mobile Belagerungswaffe umgewandelt die Steine und Brocken über große Entfernungen schleudern kann um feindliche Befestigungen und Gebäude zu zertrümmern"
 
 #: simulation/templates/units/darknut/darknut_fokkalista_b.xml:47
 msgid "Ranged Siege weapon that launches boulders at its targets."
-msgstr ""
+msgstr "Distanzbelagerungswaffe die Brocken auf ihr Ziel schleudert."
 
 #: simulation/templates/units/darknut/darknut_glasswitch_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Glass Shards"
-msgstr ""
+msgstr "Glass Scherben"
 
 #: simulation/templates/units/darknut/darknut_glasswitch_b.xml:43
 msgid "Glass Witch"
-msgstr ""
+msgstr "Glass Hexe"
 
 #: simulation/templates/units/darknut/darknut_glasswitch_b.xml:45
 msgid ""
 "A fringe convent of lady Darknuts known for their unmatched crafting of all manner of "
 "jewelry and stained glass. In a battle the Glass Witches toss razor sharp bolts of "
 "crystal at their enemies, shredding their armor and knocking them off their feet."
-msgstr ""
+msgstr "Ein kleiner Orden bestehend aus weiblichen Nimbusgarden die für ihre unvergleichliche Handwerkskunst in jeglicher Art von Schmuck und Buntglas bekannt sind. In der Schlacht werfen die Glashexen rasiermesserscharfe Projektile aus Kristall, die Rüstungen schreddern und Feinde wegschleudern."
 
 #: simulation/templates/units/darknut/darknut_glasswitch_b.xml:50
 msgid ""
 "Yaraxonal's Unique Unit. A Missile unit that hurls wicked shards of glass into their "
 "enemies."
-msgstr ""
+msgstr "Yaraxonals einzigartige Einheit. Eine Fernkampfeinheit die fiese Scherben aus Glass in ihre Gegner schleudert."
 
 #: simulation/templates/units/darknut/darknut_gymnatai_b.xml:4
 #: simulation/templates/units/darknut/darknut_gymnatai_mighty.xml:4
@@ -914,30 +914,30 @@ msgstr ""
 #: simulation/templates/units/gerudo/gerudo_serpentkeep_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Khopesh"
-msgstr ""
+msgstr "Chepesch"
 
 #: simulation/templates/units/darknut/darknut_gymnatai_b.xml:33
 msgid "Gymnatai"
-msgstr ""
+msgstr "Gymnatai"
 
 #: simulation/templates/units/darknut/darknut_gymnatai_b.xml:34
 msgid ""
 "These young and eager warriors had yet to become trained by the Legion, and therefore "
 "attempted to prove themselves as volunteer soldiers. Those that survived combat or "
 "showed exceptional skill would be adopted into the Legion without question."
-msgstr ""
+msgstr "Diese jungen und eifrigen Krieger haben es noch vor sich von der Legion aufgenommen und trainiert werden und verdingen sich deshalb als freiwillige Soldaten um sich zu beweisen. Diejenigen die den Kampf überlebten oder aussergewöhnliches Geschick bewiesen wurden ohne Frage in die Legion aufgenommen."
 
 #: simulation/templates/units/darknut/darknut_gymnatai_b.xml:38
 msgid "Fast Melee unit armed with a khopesh."
-msgstr ""
+msgstr "Schnelle Nahkampf Einheit, mit einem Chepesch bewaffnet"
 
 #: simulation/templates/units/darknut/darknut_gymnatai_mighty.xml:19
 msgid "Mighty Gymnatai"
-msgstr ""
+msgstr "Mächtiger Gymnatai"
 
 #: simulation/templates/units/darknut/darknut_hero_alros.xml:58
 msgid "Prince of Mercenaries"
-msgstr ""
+msgstr "Prinz der Söldner"
 
 #: simulation/templates/units/darknut/darknut_hero_alros.xml:60
 msgid ""
@@ -951,31 +951,31 @@ msgstr ""
 
 #: simulation/templates/units/darknut/darknut_hero_alros.xml:64
 msgid "Alros"
-msgstr ""
+msgstr "Alros"
 
 #: simulation/templates/units/darknut/darknut_hero_alros.xml:65
 msgid "Swift Mercenary Hero that attacks enemies with his blade."
-msgstr ""
+msgstr "Gewandter Söldner Held der mit seiner Klinge attackiert"
 
 #: simulation/templates/units/darknut/darknut_hero_militron.xml:58
 msgid "Darknut Warlord"
-msgstr ""
+msgstr "Nimbusgarden Kriegsherr"
 
 #: simulation/templates/units/darknut/darknut_hero_militron.xml:60
 msgid ""
 "A young Darknut commander who lead the reconquest of the southern Mesas. Militron is "
 "utterly ruthless and has resorted to tactics that some consider outside the Legion "
 "code."
-msgstr ""
+msgstr "Ein junger Nimbusgarden Kommandant der die wiedereroberung der südlichen Mesas anführt. Militron isabsolut ruchlos und hat auf Taktiken zurückgegriffen die manch einer außerhalb des Ehrencodex liegen."
 
 #: simulation/templates/units/darknut/darknut_hero_militron.xml:64
 msgid "Militron"
-msgstr ""
+msgstr "Militron"
 
 #: simulation/templates/units/darknut/darknut_hero_militron.xml:65
 #: simulation/templates/units/stalfos/stalfos_hero_gabora.xml:44
 msgid "Melee Hero with decent armor and splash damage."
-msgstr ""
+msgstr "Schwertkämpfer mit ordentlicher Rüstung und Flächenschaden."
 
 #: simulation/templates/units/darknut/darknut_hero_onon.xml:4
 #: simulation/templates/units/darknut/darknut_hoplite_b.xml:4
@@ -1016,26 +1016,26 @@ msgstr ""
 #: simulation/templates/units/zora/zora_riverpatrol_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Spear"
-msgstr ""
+msgstr "Speer"
 
 #: simulation/templates/units/darknut/darknut_hero_onon.xml:47
 msgid "The Darknut Prime"
-msgstr ""
+msgstr "Die Schattengarde"
 
 #: simulation/templates/units/darknut/darknut_hero_onon.xml:49
 msgid ""
 "Known as the Darknut Prime, Onon lead the successful defense of Ontheon and several "
 "other cities against the Gerudo. He has become a popular hero figure amongst the "
 "Darknut people despite him refusing to join the Legion proper."
-msgstr ""
+msgstr "Onon, die Schattengarde, führte die erfolgreiche Verteidigung  von Ontheon und meherer anderer Städte gegen die Gerudo. Er wurde eine berühmte Heldenfigur unter den Nimbusgarden trotz seiner Verweigerung der Legion richtig beizutreten."
 
 #: simulation/templates/units/darknut/darknut_hero_onon.xml:53
 msgid "Onon"
-msgstr ""
+msgstr "Onon"
 
 #: simulation/templates/units/darknut/darknut_hero_onon.xml:54
 msgid "Ranged hero that can impale enemies with his Javelin."
-msgstr ""
+msgstr "Fernkämpfer der seine Gegner mit Wurfspeeren durchbohrt."
 
 #: simulation/templates/units/darknut/darknut_hero_senturon.xml:58
 msgid "The Black Knight"
