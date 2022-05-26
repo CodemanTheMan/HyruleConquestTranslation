@@ -956,7 +956,7 @@ msgstr "Chopeš"
 
 #: simulation/templates/units/darknut/darknut_gymnatai_b.xml:33
 msgid "Gymnatai"
-msgstr "Kymnitis"
+msgstr "Gymnitis"
 
 #: simulation/templates/units/darknut/darknut_gymnatai_b.xml:34
 msgid ""
@@ -973,7 +973,7 @@ msgstr "Rychlá jednotka pro boj na blízko ozbrojená chopešem."
 
 #: simulation/templates/units/darknut/darknut_gymnatai_mighty.xml:19
 msgid "Mighty Gymnatai"
-msgstr "Mocný Kymnitis"
+msgstr "Mocný Gymnitis"
 
 #: simulation/templates/units/darknut/darknut_hero_alros.xml:58
 msgid "Prince of Mercenaries"
@@ -1164,7 +1164,7 @@ msgstr "Sekyra"
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:62
 msgid "The God of Flesh"
-msgstr "Bůh Masa"
+msgstr "Bůh z Masa a Kostí"
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:64
 msgid ""
@@ -3388,7 +3388,7 @@ msgstr "Šípy"
 
 #: simulation/templates/units/gerudo/gerudo_dunewalker_b.xml:44
 msgid "Dune Walker"
-msgstr "Dunochodec"
+msgstr "Dunochodka"
 
 #: simulation/templates/units/gerudo/gerudo_dunewalker_b.xml:45
 msgid ""
@@ -3399,7 +3399,7 @@ msgid ""
 " water. Mounted by an archer, they are excellent rear-line cavalry."
 msgstr ""
 "Pouštní Mroži domorodí v Gerudské poušti nebyli snadno ochočeni, ale Gerudy tyto bestie "
-"ovládly. Pomalí, ale odolní a imunní smrtelným písečným bouřím pouště, Dunochodcům "
+"ovládly. Pomalí, ale odolní a imunní smrtelným písečným bouřím pouště, Dunochodkám "
 "chybí rychlost, ale zaručeně dostanou sebe i své jezdce do cíle, i kdyby museli překročit "
 "vodu. Nosící jezdce, jsou excelentní jezdectvo pro zadní linie.
 
@@ -3697,7 +3697,7 @@ msgstr "Gerudská střelná jednotka která zpomaluje nepřátelské cíle svým
 
 #: simulation/templates/units/gerudo/gerudo_ironknuckle_b.xml:53
 msgid "Iron Knuckle"
-msgstr ""
+msgstr "Železný Kníže"
 
 #: simulation/templates/units/gerudo/gerudo_ironknuckle_b.xml:54
 msgid ""
@@ -3707,6 +3707,10 @@ msgid ""
 "Having already died in the distant past, they know absolutely no fear and will engage "
 "even the most terrifying enemy head-on."
 msgstr ""
+"Oživené brnění, Železná Knížata jsou svázána s dušemi mrtvých Gerudských Králů, "
+"navrácených do světa živých aby válčili s nepřáteli impéria. Tyto masivní a odolné "
+"konstrukty nosí do bitvy mohutné Gerudské bojové sekyry. Protože už před věky umřeli, "
+"neznají strach a zapojí se bezhlavě do bitvy i s nejděsivějšími nepřáteli."
 
 #: simulation/templates/units/gerudo/gerudo_ironknuckle_b.xml:59
 msgid ""
@@ -3717,7 +3721,7 @@ msgstr ""
 
 #: simulation/templates/units/gerudo/gerudo_ironknuckle_bounded.xml:36
 msgid "Bounded Iron Knuckle"
-msgstr ""
+msgstr "Svázaný Železný Kníže"
 
 #: simulation/templates/units/gerudo/gerudo_marauder_b.xml:33
 #: simulation/templates/units/stalfos/stalfos_lostsoul_b.xml:34
@@ -4407,6 +4411,8 @@ msgid ""
 "A female Gohma that was specialized to lead rather than reproduce. A Gohma Princess is "
 "able to directly influence other units within her aura, boosting their attack rate."
 msgstr ""
+"Góma specializovaná k vedení místo reprodukce. Princezna Góm umí přímo ovlivnit jiné "
+"jednotky v její auře a posílit jejich míru útoku."
 
 #: simulation/templates/units/gohma/gohma_princess_b.xml:45
 msgid ""
@@ -4418,7 +4424,7 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_rocktite_b.xml:37
 msgid "Rocktite"
-msgstr ""
+msgstr "Skaltit"
 
 #: simulation/templates/units/gohma/gohma_rocktite_b.xml:38
 msgid ""
@@ -4496,7 +4502,7 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_spinalgohma_b.xml:43
 msgid "Infantry Melee unit with long reaching prehensile tongue."
-msgstr ""
+msgstr "Pěší jednotka s dlouho dosahujícím jazykem."
 
 #: simulation/templates/units/gohma/gohma_spinegohma_garrison.xml:42
 msgid "Spine Gohma"
@@ -4542,7 +4548,7 @@ msgstr "Mýtická jenotka Góm. Obří peší jednotka která svolává dodateč
 
 #: simulation/templates/units/gohma/gohma_titan_iemanis_electric.xml:12
 msgid "God of the Gohma"
-msgstr ""
+msgstr "Bůh Góm"
 
 #: simulation/templates/units/gohma/gohma_titan_iemanis_electric.xml:13
 #: simulation/templates/units/gohma/gohma_titan_iemanis_electric.xml:18
@@ -4556,7 +4562,7 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_titan_iemanis_electric.xml:29
 msgid "Eyes of Vitreous."
-msgstr ""
+msgstr "Oči Vitreovy"
 
 #: simulation/templates/units/gohma/gohma_trapdoor.xml:21
 #: simulation/templates/units/gohma/gohma_trapdoor_burrow.xml:38
@@ -4582,7 +4588,7 @@ msgstr ""
 #: simulation/templates/units/gohma/gohma_trapdoor_burrow.xml:42
 #: simulation/templates/units/gohma/gohma_trapdoor_common.xml:41
 msgid "Mido's Unique Unit. Support unit that can burrow into the ground and become Stealthed."
-msgstr ""
+msgstr "Podpůrná jednotka chopná se zahrabat do země a utajit se."
 
 #: simulation/templates/units/gohma/gohma_trapdoor.xml:50
 msgid ""
@@ -4611,21 +4617,23 @@ msgstr ""
 
 #: simulation/templates/units/goron/goron_battlebro_b.xml:40
 msgid "Battle Brother"
-msgstr ""
+msgstr "Bitevní Bratr"
 
 #: simulation/templates/units/goron/goron_battlebro_b.xml:41
 msgid ""
 "Skilled in commanding Goron soldiers, Battle Brothers head Goron armies as captains to "
 "guide them into battle."
 msgstr ""
+"Zkušení ve velení Goroních vojájů, Bitevní Bratři vedou Goroním armádám jako kapitáni "
+"a provádí je do bitvy."
 
 #: simulation/templates/units/goron/goron_battlebro_b.xml:45
 msgid "Commander unit that aids Gorons in battle."
-msgstr ""
+msgstr "Velitelská jednotka která pomáhá Goronům v bitvě."
 
 #: simulation/templates/units/goron/goron_beastmaster_b.xml:43
 msgid "Beastmaster"
-msgstr ""
+msgstr "Honák Bestií"
 
 #: simulation/templates/units/goron/goron_beastmaster_b.xml:44
 msgid ""
@@ -4634,21 +4642,25 @@ msgid ""
 "were dedicated hunters of all manner of creatures, and were exceptionally adept at "
 "fighting any creature unit they came across."
 msgstr ""
+"Pohoří smrti bylo domovem rozsáhlé odrůdy brutálních predátorů, a Goroni se často "
+"museli vypořádávat se smečkami Dodongů a jiných silných příšer. Honáci Bestií byli "
+"nasazení lovci všech druhů tvorů, a byli vyjímečně nadaní v boji s jakýmikoliv "
+"tvory na které narazili."
 
 #: simulation/templates/units/goron/goron_beastmaster_b.xml:48
 msgid ""
 "Multipurpose Melee unit that has a damage bonus when attacking both Creatures and "
 "Cavalry."
-msgstr ""
+msgstr "Mnohoúčelná pěší jednotka s bonusovým požkozením proti tvorům a jezdectvu."
 
 #: simulation/templates/units/goron/goron_berserker_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Flaming Fists"
-msgstr ""
+msgstr "Hořící Pěsti"
 
 #: simulation/templates/units/goron/goron_berserker_b.xml:40
 msgid "Berserker"
-msgstr ""
+msgstr "Berserk"
 
 #: simulation/templates/units/goron/goron_berserker_b.xml:42
 msgid ""
@@ -4657,12 +4669,18 @@ msgid ""
 "to lose control during fits of rage. On the battlefield this is less of a problem, and "
 "Berserkers can unleash quite a flurry of punches when worked up into a frenzy."
 msgstr ""
+"Berserkové jsou jedinci kteří zasvětili svoje životy kultivací a ovládání hněvu, "
+"který Goroni dlouho považovali za nebezpečí kvůli jejich tendenci ztratit kontrolu během "
+"záchvatů vzteku. Na bojišti je tohle menší problém, a Berserkové umí vypustit metelici "
+"ran když byli přivedeni k zuřivosti."
 
 #: simulation/templates/units/goron/goron_berserker_b.xml:47
 msgid ""
 "Darunia's Unique Unit. Fast attack Melee unit that deals both Crushing and Fire Damage "
 "to enemy units."
 msgstr ""
+"Jednotka kterou může verbovat pouze Darunia. Rychle útočící pěší jednotka která "
+"vydává drtící i ohnivé požkození nepřátelským jednotkám."
 
 #: simulation/templates/units/goron/goron_bombthrower_b.xml:4
 #: simulation/templates/units/goron/goron_bombthrower_garrison.xml:4
@@ -4670,12 +4688,12 @@ msgstr ""
 #: simulation/templates/units/sheikah/sheikah_saboteur_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Bombs"
-msgstr ""
+msgstr "Bomby"
 
 #: simulation/templates/units/goron/goron_bombthrower_b.xml:53
 #: simulation/templates/units/goron/goron_bombthrower_garrison.xml:53
 msgid "Bomb Thrower"
-msgstr ""
+msgstr "Vrhač Bomb"
 
 #: simulation/templates/units/goron/goron_bombthrower_b.xml:54
 #: simulation/templates/units/goron/goron_bombthrower_garrison.xml:54
@@ -4685,15 +4703,18 @@ msgid ""
 "terrifying firepower to a warzone, decimating groups of enemy units in an incinerating "
 "blast of fire."
 msgstr ""
+"Nechvalné Výbušenky domorodé na Hoře smrti byli dlouho kultivovány a sklízeny Gorony pro "
+"využití jako výbušné zbraně v bitvě. Vrhači Bomb přináší do válečné zóny děsivou palebnou "
+"sílů, decimující skupiny nepřátelských jednotek ve spalujícím ohnivém výbuchu."
 
 #: simulation/templates/units/goron/goron_bombthrower_b.xml:58
 #: simulation/templates/units/goron/goron_bombthrower_garrison.xml:58
 msgid "Powerful Missile unit that tosses explosive Bombs."
-msgstr ""
+msgstr "Silná střelná jednotka která vrhá výbušné bomby."
 
 #: simulation/templates/units/goron/goron_brotheratarms_b.xml:46
 msgid "Brother-at-Arms"
-msgstr ""
+msgstr "Bratr-ve-Zbrani"
 
 #: simulation/templates/units/goron/goron_brotheratarms_b.xml:48
 msgid ""
@@ -4701,10 +4722,13 @@ msgid ""
 " of Death Mountain and fearless in the face of battle. Their long blades have a very "
 "huge attack arc, allowing them to cut through multiple foes with one swing."
 msgstr ""
+"Nesoucí slavné čepele kováře Velgorona, Bratři-ve-Zbrani jsou loajální obránci Hory "
+"smrti a beze strachu čelem bitvě. Jejicj dlouhé čepele mají mohutnoý dosah útoku, což "
+"jim umožňuje seknout do několika nepřátel jendím mávnutím."
 
 #: simulation/templates/units/goron/goron_brotheratarms_b.xml:53
 msgid "Medigoron's Unique Unit. Swift Melee unit that deals a wide area of Splash Damage."
-msgstr ""
+msgstr "Jednotka kterou může verbovat pouze Mezigoron. Hbitá pěší jednotka schopná plošného požkození."
 
 #: simulation/templates/units/goron/goron_civilianA.xml:8
 #: simulation/templates/units/goron/goron_minerA.xml:52
@@ -4727,7 +4751,7 @@ msgstr ""
 
 #: simulation/templates/units/goron/goron_drummer_b.xml:28
 msgid "Drummer"
-msgstr ""
+msgstr "Bubeník"
 
 #: simulation/templates/units/goron/goron_drummer_b.xml:29
 msgid ""
@@ -4735,10 +4759,13 @@ msgid ""
 "direct soldiers to battle with their beats. These drummers can keep Gorons in marching "
 "order and morale high as they enter into a warzone."
 msgstr ""
+"Goroni jsou proslavení bubeníci a tanečníci, a jejich nejtalentovanější hráči směrují "
+"voláky do bitvy svými údery. Tito bubeníci jsou schopni držet Gorony v řádném pochodu "
+"a držet vysokou morálku když vstoupili do válečné zóny."
 
 #: simulation/templates/units/goron/goron_drummer_b.xml:34
 msgid "Support unit that increases the movement speed of other Gorons."
-msgstr ""
+msgstr "Podpůrná jednotka která zrychluje rychlost ostatních Goronů."
 
 #: simulation/templates/units/goron/goron_firewarrior_b.xml:4
 #: simulation/templates/units/goron/goron_hero_darunia.xml:4
@@ -4747,11 +4774,11 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_hero_gabora.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Hammer"
-msgstr ""
+msgstr "Kladivo"
 
 #: simulation/templates/units/goron/goron_firewarrior_b.xml:50
 msgid "Fire Warrior"
-msgstr ""
+msgstr "Ohnivý Válečník"
 
 #: simulation/templates/units/goron/goron_firewarrior_b.xml:51
 msgid ""
@@ -4760,14 +4787,18 @@ msgid ""
 "of soldiers flying, and none but the most powerful weaponry in Hyrule can crack their "
 "armor."
 msgstr ""
+"Nesoucí mocné Megatunová kladiva a oblečeni od hlavi k patě v rudě zbarveném brnění, "
+"Ohniví Válečníci jsou ultimátní Goroní vojáci. Jedno mávnutí jejich kladiva odpálí "
+"skupiny nepřátel, a nic kromě nejmocnějších zbraní na světě je schopno rozbít jejich "
+"brnění."
 
 #: simulation/templates/units/goron/goron_firewarrior_b.xml:55
 msgid "Slow moving but heavily armored Melee unit that deals tons of Splash Damage to enemies."
-msgstr ""
+msgstr "Pomalá ale těžce obrněná pěší jednotka která způsobuje spoustu plošného požkození nepřátelům."
 
 #: simulation/templates/units/goron/goron_giant_b.xml:53
 msgid "Goron Giant"
-msgstr ""
+msgstr "Goronský Obr"
 
 #: simulation/templates/units/goron/goron_giant_b.xml:54
 msgid ""
@@ -4775,14 +4806,17 @@ msgid ""
 " bring to battle. In a fight they preferred to hurl giant boulders from impressive "
 "distances, bowling down groups of enemy soldiers or toppling over enemy buildings."
 msgstr ""
+"Někteří z největších zaznamenaných Goronů, tito obři se pomalu hýbali a ještě pomaleji se "
+"přinášejí do bitvy. V boji preferovali vrhat obří balvany z impozantních vzdáleností, "
+"drtili skupiny nepřátelských vojáků a překocovali nepřátelské budovy. "
 
 #: simulation/templates/units/goron/goron_giant_b.xml:59
 msgid "Large Goron Siege unit that can destroy targets from a distance by hurling boulders."
-msgstr ""
+msgstr "Mohutná obléhací jednotka schopná ničit cíle z dáli vrháním balvanů."
 
 #: simulation/templates/units/goron/goron_guardian_b.xml:33
 msgid "Guardian"
-msgstr ""
+msgstr "Strážce"
 
 #: simulation/templates/units/goron/goron_guardian_b.xml:34
 msgid ""
@@ -4792,42 +4826,47 @@ msgid ""
 "enemies. Lacking weapons and armor, the Guardians are able to curl themselves up and "
 "roll at fast speeds to reach critical areas much more swiftly than their brothers."
 msgstr ""
+"Strážci byli verbováni z civilistů během válek aby bránili jejich domovinu, Horu smrti. "
+"Ozbrojeni pouze jejich vlastními pěstmi, Goroní Strážci byli nicméně poměrně odolní a "
+"silní pro svoji velikost, a mohou přemoci obrněné nepřátele. Beze zbraní a brnění, "
+"Strážci jsou schopní se schoulit do klubíčka a rychle se kutálet aby se dostali do "
+"důležitých oblastí hbitěji než jejich bratři."
 
 #: simulation/templates/units/goron/goron_guardian_b.xml:38
 msgid "Light Infantry Melee unit that can roll up and zoom across the map at rapid speeds."
-msgstr ""
+msgstr "Lehká pěší jednotka schopna se schoulit do klubíčka a rychle se kutálet po mapě."
 
 #: simulation/templates/units/goron/goron_guardian_b.xml:84
 msgid "Enter Rolling mode. (+ Movement Speed, but no Line-of-Sight and Attack)"
-msgstr ""
+msgstr "Schoulit se do Klubíčka (+ Rychlost, ale žádný Úhel Viditelnosti a Útok.)"
 
 #: simulation/templates/units/goron/goron_guardian_roll.xml:4
 #: simulation/templates/units/goron/goron_sumo_roll.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Rolling"
-msgstr ""
+msgstr "Kutálení"
 
 #: simulation/templates/units/goron/goron_guardian_roll.xml:16
 msgid "Rolling"
-msgstr ""
+msgstr "Kutálení"
 
 #: simulation/templates/units/goron/goron_guardian_roll.xml:19
 msgid "Rolling Guardian"
-msgstr ""
+msgstr "Kutálející se Strážce"
 
 #: simulation/templates/units/goron/goron_guardian_roll.xml:37
 #: simulation/templates/units/goron/goron_sumo_roll.xml:41
 msgid "Leave Rolling mode."
-msgstr ""
+msgstr "Zrušit Kutálení"
 
 #: simulation/templates/units/goron/goron_hero_dangoro.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Iron Fists"
-msgstr ""
+msgstr "Železné Pěsti"
 
 #: simulation/templates/units/goron/goron_hero_dangoro.xml:43
 msgid "Guardian of Death Mountain"
-msgstr ""
+msgstr "Strážce Hory Smrti"
 
 #: simulation/templates/units/goron/goron_hero_dangoro.xml:45
 msgid ""
@@ -4838,18 +4877,22 @@ msgid ""
 "powerful gauntlets and is not shy of ramming into and punching his targets without "
 "abandon."
 msgstr ""
+"Vychován v dolech kráteru Hory smrti, Dangoro žil život strádání. Po tom co zachránil "
+"Daruniu z pasti Dodongů, byl přeřazen ze své služby jako horník a stal se strážný bratr. "
+"Dangoro není moc chytrý, ale rychle pozná hrozbu a řeší ji. Tradičně nosí spíče těžké "
+"brnění a mocné rukavice a bez otázky nebo konce naráží a mlatí do svýh cílů.
 
 #: simulation/templates/units/goron/goron_hero_dangoro.xml:49
 msgid "Dangoro"
-msgstr ""
+msgstr "Dangoro"
 
 #: simulation/templates/units/goron/goron_hero_dangoro.xml:50
 msgid "Large Goron Siege Hero that can decimate structures and units alike."
-msgstr ""
+msgstr "Mohutný obléhací hrdina schopný decimovat budovy i jednotky."
 
 #: simulation/templates/units/goron/goron_hero_daruk.xml:38
 msgid "Goron Elder"
-msgstr ""
+msgstr "Goroní Stařešina"
 
 #: simulation/templates/units/goron/goron_hero_daruk.xml:40
 msgid ""
@@ -4857,20 +4900,23 @@ msgid ""
 "the Volvagians were been driven from Death Mountain. He's not been seen for decades by "
 "the Gorons at large, only returning when his people are under great threat."
 msgstr ""
+"Mladší bratr Darunie, Daruk se odloučil v osamělých v klášterech po tom, co byli "
+"Volgové vyhnáni z Hory smrti. Nebyl už Gorony viděn po desetiletí, a vrací se pouze "
+"když je jeho lid pod velkou hrozbou."
 
 #: simulation/templates/units/goron/goron_hero_daruk.xml:44
 msgid "Daruk"
-msgstr ""
+msgstr "Daruk"
 
 #: simulation/templates/units/goron/goron_hero_daruk.xml:45
 msgid ""
 "Versatile Goron Hero that attacks enemies in close quarters with his earth shattering "
 "blade."
-msgstr ""
+msgstr "Mnohostranný hrdina který útočí na nepřátele na blízko svou zemětříštící čepelí."
 
 #: simulation/templates/units/goron/goron_hero_darunia.xml:48
 msgid "Sage of Fire"
-msgstr ""
+msgstr "Mudrc Ohně"
 
 #: simulation/templates/units/goron/goron_hero_darunia.xml:50
 msgid ""
@@ -4882,21 +4928,27 @@ msgid ""
 "that earn his respect. Dancing is among his favorite pastimes. and he will search far "
 "and wide across Hyrule to listen to the music of other races."
 msgstr ""
+"Král Goronů a třetí v linii Ohnivých Mudrců, Darunia vedl svůj lid po více než století "
+"skrze nespočetné utrpení. Ať už to je svržení Volgů, nebo bojem s dlouhými zimami kterým "
+"Hora smrti čelila, je dost velká šance že bez jeho velení, Goroni by vymřeli. Darunia je "
+"znám svou agresivní povahou, přestože je docela žoviální a přátelský těm co si získají "
+"jeho respekt. Tanec je jeden z jeho oblíbených koníčků, a široce po světě vyhledává muziku "
+"jiných ras."
 
 #: simulation/templates/units/goron/goron_hero_darunia.xml:54
 msgid "King Darunia"
-msgstr ""
+msgstr "Král Darunia"
 
 #: simulation/templates/units/goron/goron_hero_darunia.xml:55
 msgid ""
 "Powerful Goron Melee Hero that deals both Crushing and Fire Damage with his mighty "
 "Megaton Hammer."
-msgstr ""
+msgstr "Mocný pěší hrdina způsobující drtící a ohnivé požkození svým mocným Megatunovým kladivem."
 
 #: simulation/templates/units/goron/goron_hero_gorcoron.xml:33
 #: simulation/templates/units/goron/goron_hero_gorebizo.xml:51
 msgid "Elder of Death Mountain"
-msgstr ""
+msgstr "Stařešina Hory Smrti"
 
 #: simulation/templates/units/goron/goron_hero_gorcoron.xml:35
 msgid ""
@@ -4905,14 +4957,17 @@ msgid ""
 " his younger days, though he now prefers to spend his time fighting in sport against "
 "other Gorons."
 msgstr ""
+"Jeden z dvou zbývajících stařešin Hory smrti. Gor Koron byl nejmladší ze čtyř stařešin "
+"a nejvíce milovaný. Gor Koron dohlížel většinu Goroní armády během svých mladších let,
+"avšak teď preferuje trávit svůj čas sportovním bojem proti dalším Goronům."
 
 #: simulation/templates/units/goron/goron_hero_gorcoron.xml:39
 msgid "Gor Coron"
-msgstr ""
+msgstr "Gor Koron"
 
 #: simulation/templates/units/goron/goron_hero_gorcoron.xml:40
 msgid "Faster Melee Goron Hero that has excellent parry skills."
-msgstr ""
+msgstr "Rychlý pěší hrdina s excelentními odrážecími schopnostmi."
 
 #: simulation/templates/units/goron/goron_hero_gorebizo.xml:4
 #: simulation/templates/units/goron/goron_salamander_b.xml:4
@@ -4921,7 +4976,7 @@ msgstr ""
 #: simulation/templates/units/lizalfos/lizalfos_aeralfire_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fire Breath"
-msgstr ""
+msgstr "Ohnivý Dech"
 
 #: simulation/templates/units/goron/goron_hero_gorebizo.xml:53
 msgid ""
@@ -4930,20 +4985,26 @@ msgid ""
 "Goron people. His leadership saw success against the Zora Dominion during the Gorons' "
 "many wars with their people."
 msgstr ""
+"Jeden z dvou zbývajících stařešin Hory smrti. Gor Ebizo byl často považován tichým a "
+"nepřítomným svým bratrstvem, ale ve skutečnosti byl možná největším mozkem Goroního "
+"lidu. Jeho velení bylo úspěšné proti Zorskému Dominiu během jejich mnohých válek s "
+"jejich lidem."
 
 #: simulation/templates/units/goron/goron_hero_gorebizo.xml:57
 msgid "Gor Ebizo"
-msgstr ""
+msgstr "Gor Ebizo"
 
 #: simulation/templates/units/goron/goron_hero_gorebizo.xml:58
 msgid ""
 "Economic Goron Hero that starts out weak, but can ride a Salamander Warbeast as he "
 "levels up, boosting his combat prowess."
 msgstr ""
+"Ekonomický hrdina který začíná slaby, ale nasedne na Válečnou Bestii když se "
+"posune o úroveň víc, čímž si zlepší bojeschopnost."
 
 #: simulation/templates/units/goron/goron_hero_medigoron.xml:43
 msgid "Brotherhood Leader"
-msgstr ""
+msgstr "Vůdce Bratrstva"
 
 #: simulation/templates/units/goron/goron_hero_medigoron.xml:45
 msgid ""
@@ -4952,20 +5013,23 @@ msgid ""
 "brother, but certainly knows how to use the weapons that Biggoron creates to great "
 "effect."
 msgstr ""
+"Bladší bratr legendárního Velegorona, Mezigoron je pouze napůl tak vysoký, ale přesto "
+"je velký i na Gorona. Chybí mu tvůrčí schopnost svého brata, ale rozhodně umí efektivně "
+"používat zbraně Velegoron tvoří."
 
 #: simulation/templates/units/goron/goron_hero_medigoron.xml:49
 msgid "Medigoron"
-msgstr ""
+msgstr "Mezigoron"
 
 #: simulation/templates/units/goron/goron_hero_medigoron.xml:50
 msgid "Melee Goron Hero with decent speed and very wide Splash Damage."
-msgstr ""
+msgstr "Pěší hrdina s decentí rychlostí a širokým plošným požkozením."
 
 #: simulation/templates/units/goron/goron_minerA.xml:4
 #: simulation/templates/units/goron/goron_minerA.xml:14
 msgctxt "Name of an attack, usually the weapon."
 msgid "Pickaxe"
-msgstr ""
+msgstr "Krumpáč"
 
 #: simulation/templates/units/goron/goron_miner_upg.xml:5
 #: simulation/templates/units/goron/goron_miner_upg.xml:15
@@ -4975,7 +5039,7 @@ msgstr ""
 
 #: simulation/templates/units/goron/goron_patriarch_b.xml:45
 msgid "Patriarch"
-msgstr ""
+msgstr "Patriarcha"
 
 #: simulation/templates/units/goron/goron_patriarch_b.xml:46
 msgid ""
@@ -4984,21 +5048,24 @@ msgid ""
 "Patriarch can turn the tide of battle by rallying his soldiers and keeping them in "
 "line."
 msgstr ""
+"Tyčící se Patriarchové jsou postarší Goroni kteří dlouho trénovali a vedli armády do "
+"bitvy. Není lepších velitelů mezi bratrstvem, a jediný patriarcha umí obrátit vývoj "
+"bitvy tím že podpoří svoje vojáky a drží je na uzdě."
 
 #: simulation/templates/units/goron/goron_patriarch_b.xml:50
 msgid "Goron Commander unit that helps other Gorons fight better."
-msgstr ""
+msgstr "Velitelská jednotka která pomáhá ostatním Goronům s boji."
 
 #: simulation/templates/units/goron/goron_powderkegl.xml:4
 #: simulation/templates/units/goron/goron_powderkegl_common.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Powder Keg"
-msgstr ""
+msgstr "Prašný Sud"
 
 #: simulation/templates/units/goron/goron_powderkegl.xml:58
 #: simulation/templates/units/goron/goron_powderkegl_common.xml:58
 msgid "Powder Keg Launcher"
-msgstr ""
+msgstr "Vrhač Prašných Sudů"
 
 #: simulation/templates/units/goron/goron_powderkegl.xml:59
 #: simulation/templates/units/goron/goron_powderkegl_common.xml:59
@@ -5008,17 +5075,20 @@ msgid ""
 "fiery carnage. A battery of Powder Keg Launchers can reduce any city to smoking rubble "
 "with a consistent barrage. "
 msgstr ""
+"Výbušné prašné sudy mají dost síly k odpálení poloviny útesu. Když jsou obráceny k "
+"nepřátelské armádě, výsledná exploze vytvoří krvavou lázeň. Pluk Vrhačů Prašných Sudů "
+"umí udělat z jakéhokoliv města kouřící suť konziztentní metelicí."
 
 #: simulation/templates/units/goron/goron_powderkegl.xml:61
 #: simulation/templates/units/goron/goron_powderkegl_common.xml:60
 msgid ""
 "Long ranged Siege unit with a powerful explosive attack that deals lots of Splash "
 "Damage."
-msgstr ""
+msgstr "Dálná střelná obléhací jednotka s výbušným útokem který způsobuje plošné požkození."
 
 #: simulation/templates/units/goron/goron_ram_b.xml:38
 msgid "Ram"
-msgstr ""
+msgstr "Buchar"
 
 #: simulation/templates/units/goron/goron_ram_b.xml:39
 msgid ""
@@ -5027,22 +5097,26 @@ msgid ""
 " into a bloody pulp. Their reckless power and inability to slow themselves down makes "
 "them exceptionally good at charging into enemies."
 msgstr ""
+"Tito masivní, mohutní svalovci jsou prakticky živoucí obléhací zbraně. Goroní Buchaři "
+"umí odrazit celého chlapa přes mistnost a rozdrtit cokoliv na krvavou louži. Jejich "
+"bezohledná síla a neschopnost se zastavit je dělá vyjímečně dobrými v přímém útoku na "
+"cíle."
 
 #: simulation/templates/units/goron/goron_ram_b.xml:43
 msgid ""
 "Large Infantry Siege unit that can pulverize enemy buildings as well as engage units on"
 " the field."
-msgstr ""
+msgstr "Mohutná pěší obléhací jednotka schopna rozdrtit nepřátelské budovy a přemoct nepřátele."
 
 #: simulation/templates/units/goron/goron_rocktosser_b.xml:4
 #: simulation/templates/units/goron/goron_rocktosser_garrison.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Rocks"
-msgstr ""
+msgstr "Kameny"
 
 #: simulation/templates/units/goron/goron_rocktosser_b.xml:43
 msgid "Rock Tosser"
-msgstr ""
+msgstr "Vrhač Kamenů"
 
 #: simulation/templates/units/goron/goron_rocktosser_b.xml:44
 msgid ""
@@ -5050,16 +5124,21 @@ msgid ""
 "strength to hurl rocks at fast speeds at their enemies from a distance. A well-placed "
 "shot from a Rock Tosser can leave quite a dent in a knight's helm."
 msgstr ""
+"Sestaveni z méně bojeschopných členů Goroní společnosti, Vrhači Kamenů využívají "
+"svoji sílu k rychlému vrhání kamenů z dáli na nepřázele. Dobře mířený kámen od "
+"Vrhače může zanechat pořádný důlek v brnění."
 
 #: simulation/templates/units/goron/goron_rocktosser_b.xml:48
 msgid ""
 "Light Missile unit that tosses rocks at enemies from a distance. Has a chance to deal "
 "Critical Hits."
 msgstr ""
+"Lehká střelecká jednoska která hází kameny na nepřátele z dáli. Má šanci způsobit "
+"kritické zásahy."
 
 #: simulation/templates/units/goron/goron_rubyguard_b.xml:33
 msgid "Ruby Guard"
-msgstr ""
+msgstr "Rubínový Strážce"
 
 #: simulation/templates/units/goron/goron_rubyguard_b.xml:34
 msgid ""
@@ -5067,14 +5146,17 @@ msgid ""
 " enemy invasions. Despite their small size and slow speed by Goron standards, they are "
 "extremely durable and can take many blows from enemy weapons before falling in battle."
 msgstr ""
+"Nesoucí kladivo a odolný štit, Rubínoví Strážci brání Goroní osady před nepřátelskými "
+"vpády. I přes svou malou velikost a pomalou rychlost na Goroní standarty jsou extrémně "
+"odolní a vydrží mnoho ran od nepřátelských zbraní něž padnou v bitvě."
 
 #: simulation/templates/units/goron/goron_rubyguard_b.xml:38
 msgid "Very durable and defensive Melee unit armed with a skull crushing hammer and shield."
-msgstr ""
+msgstr "Velice odolná obranná pěší jednotka ozbrojena lebko drtíním kladivem a štítem."
 
 #: simulation/templates/units/goron/goron_salamander_b.xml:52
 msgid "Salamander"
-msgstr ""
+msgstr "Salamandr"
 
 #: simulation/templates/units/goron/goron_salamander_b.xml:53
 msgid ""
@@ -5083,14 +5165,18 @@ msgid ""
 "Salamanders to guard homes or other low-priority locations from enemies. Salamanders "
 "can breath a small burst of fire at close range against their enemies."
 msgstr ""
+"Menší a poddajnější odrůda Dodongů, Goroni byli schopni si ochočit tyto plazící "
+"bestie během dlouhého věku. Podobně jako strážné psi, Goroni využívají Salamandry "
+"k ochraně domů nebo jiných nízkoprioritních oblatí od nepřátel. Salamandři jsou "
+"schopni vydechovat oheň na blízko proti svým nepřátelům."
 
 #: simulation/templates/units/goron/goron_salamander_b.xml:57
 msgid "Small Melee Creature unit that deals Fire damage to enemies."
-msgstr ""
+msgstr "Malý obranný tvor působící ohnivé požkození nepřátelům."
 
 #: simulation/templates/units/goron/goron_salawagon_b.xml:45
 msgid "Salamander Wagon"
-msgstr ""
+msgstr "Salamandří Vagón"
 
 #: simulation/templates/units/goron/goron_salawagon_b.xml:46
 msgid ""
@@ -5098,6 +5184,9 @@ msgid ""
 "and supplies around the craggy terrain of their homeland. These wagons can also be used"
 " as platforms for up to four Goron ranged units in battle. "
 msgstr ""
+"Větší Salamandři byli vužíváni Gorony jako tažná zvířata, užitečná pro tažení vozů "
+"a zdrojů přes skalnatý terén jejich domova. Tyto vagóny také sloužily jako platformy "
+"pro až čtyři střelecké jednotky v bitvě. "
 
 #: simulation/templates/units/goron/goron_salawagon_b.xml:51
 msgid ""
@@ -5107,7 +5196,7 @@ msgstr ""
 
 #: simulation/templates/units/goron/goron_shieldbreaker_b.xml:42
 msgid "Shieldbreaker"
-msgstr ""
+msgstr "Štítodrtič"
 
 #: simulation/templates/units/goron/goron_shieldbreaker_b.xml:44
 msgid ""
@@ -5115,16 +5204,21 @@ msgid ""
 "unleash a frightening level of force in a single punch. Their attack rate is quite "
 "slow, but a single punch can shatter just about any armor, and send enemies flying."
 msgstr ""
+"Nosící brnění a dvě silné rukavice, Štítodrtiči umí kultivovat a vypustit děsivou "
+"úroveň síly v jedné ráně. Jejich útoky jsou poměrně slabé, ale jediná rána umí "
+"roztříštit jakékoliv brnění, a odrazit nepřátele daleko."
 
 #: simulation/templates/units/goron/goron_shieldbreaker_b.xml:49
 msgid ""
 "Dangoro's Unique Unit. Slow moving and powerful Melee unit that can send enemies flying"
 " and deal damage through armor."
 msgstr ""
+"Jednotka kterou může verbovat pouze Dangoro. Pomalá ale mocná pěší jednotka která umí "
+"daleko odrazit nepřátele a působit požkození skrze brnění."
 
 #: simulation/templates/units/goron/goron_sumo_b.xml:37
 msgid "Sumo"
-msgstr ""
+msgstr "Sumo"
 
 #: simulation/templates/units/goron/goron_sumo_b.xml:38
 msgid ""
@@ -5134,22 +5228,26 @@ msgid ""
 "Since they lack any heavy armor or weapons, Sumos are able to curl up and roll at very "
 "fast speeds."
 msgstr ""
+"Šampióni oblíbeného Goroního sportu, Sumové jsou obří neohrabané bestie které přináší "
+"svoji dovednost na přední linie bitvy. Neočekávaně hbití pro jejich mohutnou velikost, "
+"umí zaskočit nepřátele všelijakými odrazy a háky. Protože jim chybí rychlost a zbraně, "
+"Sumové jsou schopni se schoulit do klubíčka a rychle kutálet. "
 
 #: simulation/templates/units/goron/goron_sumo_b.xml:42
 msgid "Large Melee unit that has a change to dodge enemy attacks. Can roll up to move rapidly."
-msgstr ""
+msgstr "Mohutná pěší jednotka s velkou šancí se vyhnou nepřátelským útokům. Umí se schoulit do klubíčka."
 
 #: simulation/templates/units/goron/goron_sumo_b.xml:83
 msgid "Enter Rolling mode. (+Movement Speed, but no Line-of-Sight and Attack)"
-msgstr ""
+msgstr "Schoulit se do Klubíčka (+ Rychlost, ale žádný Úhel Viditelnosti a Útok.)"
 
 #: simulation/templates/units/goron/goron_sumo_roll.xml:20
 msgid "Rolling Sumo"
-msgstr ""
+msgstr "Kutálející se Sumo"
 
 #: simulation/templates/units/goron/goron_titan_biggoron.xml:70
 msgid "Legendary Smithy"
-msgstr ""
+msgstr "Legendární Kovář"
 
 #: simulation/templates/units/goron/goron_titan_biggoron.xml:71
 msgid ""
@@ -5160,23 +5258,28 @@ msgid ""
 "weapons and bloodshed, Biggoron is a pacifist at heart, and creates his work for the "
 "sake of art and self-defense."
 msgstr ""
+"Asi největší Goron v zaznamenané historii, Velegoron žije především samotářský život "
+"na vrcholku Hory smrti. Tam tráví většinu času zdokonalováním zpracovávání kovů. Jeho "
+"práce se stala bází pro kování nejmocnějších zbraní a brnění Goronů. Přestože je jeho "
+"jmého spojeno se zbraněmi a krveprolitím, Velegoron je v srdci pacifista, a tvoří svou "
+"práci pro smysl umění a sebeobrany."
 
 #: simulation/templates/units/goron/goron_titan_biggoron.xml:74
 msgid "Biggoron"
-msgstr ""
+msgstr "Velegoron"
 
 #: simulation/templates/units/goron/goron_titan_biggoron.xml:75
 msgid "Goron Titan unit. Giant Siege unit capable of destroying fortifications with ease."
-msgstr ""
+msgstr "Mýtická jednotka Goronů. Obří obléhací jednotka schopná bez námahy ničít opevnění."
 
 #: simulation/templates/units/goron/goron_tribalmonk_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Spade"
-msgstr ""
+msgstr "Lopata"
 
 #: simulation/templates/units/goron/goron_tribalmonk_b.xml:43
 msgid "Tribal Monk"
-msgstr ""
+msgstr "Kmenový Mnich"
 
 #: simulation/templates/units/goron/goron_tribalmonk_b.xml:45
 msgid ""
@@ -5186,16 +5289,22 @@ msgid ""
 "with a metal spade, Tribal Monks have a very long reach for their size. Years of "
 "meditation have given them the ability to regenerate health."
 msgstr ""
+"Kmenoví Mniši jsou osamocená sekta Goronů kteří se uchýlili do skrytých klášterů "
+"v Pohoří smrti. Když jsou Goroni ohroženi válkou, v houfech se vyhrabají aby "
+"bránili svůj horský domov. Ozbrojeni kovovou lopatou, Kmenoví Mniši mají pro svoji "
+"velikost velký dosah. Roky meditace jim dali schopnost regenerovat zdraví. "
 
 #: simulation/templates/units/goron/goron_tribalmonk_b.xml:50
 msgid ""
 "Daruk's Unique Unit. Infantry Melee unit with long reach that can regenerate from "
 "damage while idle."
 msgstr ""
+"Jednotka kterou může verbovat pouze Daruk. Pěší jednotka s dlouhým dosahem schopná "
+"regenerovat zdraví když není v boji. "
 
 #: simulation/templates/units/goron/goron_warsalamander_b.xml:52
 msgid "Salamander Warbeast"
-msgstr ""
+msgstr "Válečná Bestie"
 
 #: simulation/templates/units/goron/goron_warsalamander_b.xml:53
 msgid ""
@@ -5204,6 +5313,9 @@ msgid ""
 "distance at their targets. A group of these creatures can burn down enemy buildings and"
 " defensive emplacements."
 msgstr ""
+"Tito velcí a naštvaní Salamandři jsou povoláni do hustých bitev s nepřáteli Goronů. "
+"Jsou schopni vydechnou velkou ohnibou kouli a odpálit ji z decentních vzdáleností na "
+"své nepřátele. Smečka techto tvorů je schopna spálit nepřátelské budovy a opevnění."
 
 #: simulation/templates/units/goron/goron_warsalamander_b.xml:58
 msgid "Large Creature unit with a ranged Fire attack."
