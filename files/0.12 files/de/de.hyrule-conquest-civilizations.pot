@@ -130,7 +130,7 @@ msgstr "Der Turm der Hera, eine der ältesten Strukturen in Hyrule, steht schon 
 
 #: simulation/data/civs/darknut.json:Structures[0].Name
 msgid "Wonder: Tower of Hera"
-msgstr ""
+msgstr "Wunder: Turm der Hera"
 
 #: simulation/data/civs/darknut.json:Structures[1].History
 msgid ""
@@ -148,21 +148,21 @@ msgstr "Vaati, der Winddämon"
 
 #: simulation/data/civs/darknut.json:TeamBonuses[0].Description
 msgid "Allies can train all Mercs as the Darknuts do, except for Legion specific Mercs."
-msgstr ""
+msgstr "Verbündete können alle Söldner anheuern wie die Nimbusgarden"
 
 #: simulation/data/civs/darknut.json:TeamBonuses[0].Name
 msgid "Mercenary Connections"
-msgstr ""
+msgstr "Söldner Verknüpfungen"
 
 #: simulation/data/civs/deku.json:CivBonuses[0].Description
 msgid ""
 "There is a small chance that any Deku Scrub unit (except for Orhats, Giant Orhats, and "
 "Stagnox) will become a Mad Scrub on death, attacking anything near itself."
-msgstr ""
+msgstr "Es gibt nun eine kleine Chance das jede Deku Laubkerl einheit (mit Ausnahme der Nashornkäfer, Riesennashornkäfer und Gigakules), eine Wahnkerl einheit wird nachdem sie gefallen ist und alles in ihrer Nähe angreift"
 
 #: simulation/data/civs/deku.json:CivBonuses[0].Name
 msgid "Mad Blight Disease"
-msgstr ""
+msgstr "Laubwahn Krankheit"
 
 #: simulation/data/civs/deku.json:CivBonuses[1].Description
 msgid "Captured Livestock reduces the Food cost of training Creature units."
@@ -170,15 +170,15 @@ msgstr ""
 
 #: simulation/data/civs/deku.json:CivBonuses[1].Name
 msgid "Menagerie Stocks"
-msgstr ""
+msgstr "Menagerie Vieh"
 
 #: simulation/data/civs/deku.json:CivBonuses[2].Description
 msgid "All non-mechanical Deku Scrub units can walk through Thick Forests."
-msgstr ""
+msgstr "Alle nicht mechanische Deku Laubkerle einheinten können durch dichten Wald laufen"
 
 #: simulation/data/civs/deku.json:CivBonuses[2].Name
 msgid "Forestwalk"
-msgstr ""
+msgstr "Waldläufer"
 
 #: simulation/data/civs/deku.json:Factions[0].Heroes[0].History
 msgid ""
@@ -189,7 +189,7 @@ msgid ""
 "angry demeanor, the King's motivations seem to be rooted in his love for his daughter. "
 "Though kept secret, he had been struck with a case of Mad Scrub and wished for her to "
 "replace him on the throne after his passing."
-msgstr ""
+msgstr "Vielleicht der mächtigste Herrscher der Deku Laubkerle König Kud-Loh-Kan war the erste seine Art der jeden einzelnen Laubkerl unter seinem Banner vereinte, wenn auch nur temporär. Deser Erfolg resultierte allerdings nicht aus der Gunst der Massen ,denn er regierte wie ein Tyrann und drohte seinem Volk permanent mit Hinrichtungen. Trotz seines zornigen Verhaltens, scheinen seine Motive von der Zuneigung zu seiner Tochter herzurühren"
 
 #: simulation/data/civs/deku.json:AINames[0]
 #: simulation/data/civs/deku.json:Factions[0].Heroes[0].Name
