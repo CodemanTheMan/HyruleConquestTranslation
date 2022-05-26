@@ -788,7 +788,7 @@ msgid ""
 "relentlessly march at their targets, shrugging off arrow fire without missing a beat. "
 "When in a melee they could pulverize and pummel just about any foe, even those with "
 "durable armor."
-msgstr "Morgenklopfer waren große und Mächtige Nimbusgarden Krieger, mit vielen Jahren Ehrfahrung. Einen mächtigen Streitkolben"
+msgstr "Streitklopfer waren große und Mächtige Nimbusgarden Krieger, mit vielen Jahren Ehrfahrung. Einen mächtigen Streitkolben"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_b.xml:59
 msgid "Huge Melee unit armed with an armor crushing mace."
@@ -893,7 +893,7 @@ msgstr "Glass Scherben"
 
 #: simulation/templates/units/darknut/darknut_glasswitch_b.xml:43
 msgid "Glass Witch"
-msgstr "Glass Hexe"
+msgstr "Glashexe"
 
 #: simulation/templates/units/darknut/darknut_glasswitch_b.xml:45
 msgid ""
@@ -906,7 +906,7 @@ msgstr "Ein kleiner Orden bestehend aus weiblichen Nimbusgarden die für ihre un
 msgid ""
 "Yaraxonal's Unique Unit. A Missile unit that hurls wicked shards of glass into their "
 "enemies."
-msgstr "Yaraxonals einzigartige Einheit. Eine Fernkampfeinheit die fiese Scherben aus Glass in ihre Gegner schleudert."
+msgstr "Yaraxonals einzigartige Einheit. Eine Fernkampfeinheit die fiese Scherben aus Glas in ihre Gegner schleudert."
 
 #: simulation/templates/units/darknut/darknut_gymnatai_b.xml:4
 #: simulation/templates/units/darknut/darknut_gymnatai_mighty.xml:4
@@ -1039,7 +1039,7 @@ msgstr "Fernkämpfer der seine Gegner mit Wurfspeeren durchbohrt."
 
 #: simulation/templates/units/darknut/darknut_hero_senturon.xml:58
 msgid "The Black Knight"
-msgstr ""
+msgstr "Der Schwarze Ritter"
 
 #: simulation/templates/units/darknut/darknut_hero_senturon.xml:60
 msgid ""
@@ -1054,17 +1054,17 @@ msgstr ""
 
 #: simulation/templates/units/darknut/darknut_hero_senturon.xml:64
 msgid "Senturon"
-msgstr ""
+msgstr "Senturon"
 
 #: simulation/templates/units/darknut/darknut_hero_senturon.xml:65
 msgid ""
 "Extremely durable Melee Hero with a heavy suit of armor. He can take tremendous "
 "punishment before falling in battle."
-msgstr ""
+msgstr "Extrem resistenter Schwertkämpfer mit schwerer Panzerung. Er kann enormen Schaden einstecken bevor er in der Schlacht fällt"
 
 #: simulation/templates/units/darknut/darknut_hero_yaraxonal.xml:58
 msgid "The Glass Sage"
-msgstr ""
+msgstr "Die Glas Weise"
 
 #: simulation/templates/units/darknut/darknut_hero_yaraxonal.xml:60
 msgid ""
@@ -1080,7 +1080,7 @@ msgstr ""
 
 #: simulation/templates/units/darknut/darknut_hero_yaraxonal.xml:64
 msgid "Yaraxonal"
-msgstr ""
+msgstr "Yaraxonal"
 
 #: simulation/templates/units/darknut/darknut_hero_yaraxonal.xml:65
 msgid "Large and fast Melee Hero who can attack multiple enemies with her twin khopesh."
@@ -1106,7 +1106,7 @@ msgstr ""
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:62
 msgid "The God of Flesh"
-msgstr ""
+msgstr "Der Gott in Fleich und Blute"
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:64
 msgid ""
@@ -1120,15 +1120,15 @@ msgstr ""
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:68
 msgid "Zalunbar"
-msgstr ""
+msgstr "Zalunbar"
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:69
 msgid "Slow but powerful Melee Hero with heavy armor and powerful augmenting abilities."
-msgstr ""
+msgstr "Langsmer aber mächtiger Axtkämpfer mit schwerer Rüstung und mächtigen verbessernden Fähigkeiten "
 
 #: simulation/templates/units/darknut/darknut_hoplite_b.xml:39
 msgid "Hoplite"
-msgstr ""
+msgstr "Hoplit"
 
 #: simulation/templates/units/darknut/darknut_hoplite_b.xml:40
 msgid ""
@@ -1136,19 +1136,19 @@ msgid ""
 "oppossed to becoming a lifelong member of the Legion. Rather they served as city "
 "guards, national patrols, and emergency reinforcements to back up armies during "
 "wartime."
-msgstr ""
+msgstr "Nimbusgarden Hopliten waren niedrigrangige Soldaten die nur rudimentären training unterliefen im Gegensatz zum Lebenslangen Beitritt in die Legion. Stattdessen dienten sie als Stadtwachen, nationalen Pattroullien und Notfallverstärkung für Armeen während der Kriegszeit."
 
 #: simulation/templates/units/darknut/darknut_hoplite_b.xml:44
 msgid "Defensive Melee unit armed with a long spear."
-msgstr ""
+msgstr "Defensiver Nahkämpfer mit einer langen Lanze bewaffnet"
 
 #: simulation/templates/units/darknut/darknut_hoplite_mighty.xml:25
 msgid "Mighty Hoplite"
-msgstr ""
+msgstr "Mächtiger hoplit"
 
 #: simulation/templates/units/darknut/darknut_hypaspist_b.xml:33
 msgid "Fokka Hypaspist"
-msgstr ""
+msgstr "Fokka Hypapistes"
 
 #: simulation/templates/units/darknut/darknut_hypaspist_b.xml:34
 msgid ""
@@ -1156,25 +1156,25 @@ msgid ""
 "their own breed of soldiers to the fray. The Fokka Hypaspist were extremely fast and "
 "could leap staggering distances. They were just as swift in a melee as well, swiping "
 "and countering enemy blows almost effortlessly."
-msgstr ""
+msgstr "Diese langenzeitigen Mitglieder der Legion die von der Nimbusgardenkultur assimilisiert wurden haben ihre eigene Brut an Soldaten beigesteuert. Die Fokka Hypapistes sind extrem schnell und können beeindruckende Distanzen überspringen. Im Nahkampf waren sie genauso gewandt, sowohl in ihren Hieben als auch im parieren gegnerischer Schläge nahezu mühelos"
 
 #: simulation/templates/units/darknut/darknut_hypaspist_b.xml:38
 msgid ""
 "Very fast moving Infantry unit that can leap huge distances to attack enemies with "
 "their swords."
-msgstr ""
+msgstr "Sehr schnell umherbewegende Infanterie die große Distanzen springen kann und Feinde mit ihren Schwertern angreift"
 
 #: simulation/templates/units/darknut/darknut_hypaspist_mighty.xml:19
 msgid "Mighty Fokka Hypaspist"
-msgstr ""
+msgstr "Mächtiger Fokka Hypaspist"
 
 #: simulation/templates/units/darknut/darknut_idoldead.xml:38
 msgid "Dead Idol"
-msgstr ""
+msgstr "Totes Idol"
 
 #: simulation/templates/units/darknut/darknut_idolthrone_b.xml:32
 msgid "Idol Throne"
-msgstr ""
+msgstr "Thron eines Idol"
 
 #: simulation/templates/units/darknut/darknut_idolthrone_b.xml:33
 msgid ""
