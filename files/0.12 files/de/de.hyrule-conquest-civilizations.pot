@@ -109,11 +109,11 @@ msgid ""
 "Banning all practice of magic and dishonorable forms of combat and warfare, a strict "
 "code of honor and ethics was mandated and their society was brutally restructured in "
 "order to avoid such a fate."
-msgstr ""
+msgstr "Die vermutlich älteste bestehende Zivilisation in Hyrule, das Volk der Nimbusgarden, löschte sich beinahe selber aus in einem riesigen Bürgerkrieg vor knapp viertausend Jahren. Durch ein Verbot jeglicher Magie, unehrenhaften Formen des Kampfes und der Kriegsführung, der Einführung eines strikter Ehren- und Moralkodexes wurde die Gesellschaft brutal umstrukturiert diesem Schicksal zu entgehen"
 
 #: simulation/data/civs/darknut.json:Name
 msgid "Darknut Legion"
-msgstr ""
+msgstr "Legion der Nimbusgarden "
 
 #: simulation/data/civs/darknut.json:Structures[0].History
 msgid ""
@@ -126,7 +126,7 @@ msgid ""
 "captured beasts and monsters, and a general temple of worship. In more modern times it "
 "serves as powerful Fortress and command center for those truely in power over the "
 "Legion."
-msgstr ""
+msgstr "Der Turm der Hera, eine der ältesten Strukturen in Hyrule, steht schon lange in den Bergen der Gerudo Wüste und ist von vielen Orten aus sichtbar. Oft wurde er in der Geschichte der Legion verlassen nur um wieder zurückerobert und umfunktioniert zu werden. Auch wenn der ursprüngliche Zweck verloren ging, so gehen viele davon aus das der Turm als Apotheon für Nimbusgarden Könige und Königinnen diente. Zwischen den verschiedenen Rückeroberungen diente der Turm als Gefängnis, Versteck für gefangene Monster und Bestien und als ein generelles Spirtuelles Zentrum. In moderneren Zeiten dient er als mächtige Festung und Kommandozentrale für die, die wirklich die Kontrolle über die Legion haben."
 
 #: simulation/data/civs/darknut.json:Structures[0].Name
 msgid "Wonder: Tower of Hera"
