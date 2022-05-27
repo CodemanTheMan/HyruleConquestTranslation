@@ -959,7 +959,7 @@ msgstr "Gewandter Söldner Held der mit seiner Klinge attackiert"
 
 #: simulation/templates/units/darknut/darknut_hero_militron.xml:58
 msgid "Darknut Warlord"
-msgstr "Nimbusgarden Kriegsherr"
+msgstr "Nimbusgarden Feldherr"
 
 #: simulation/templates/units/darknut/darknut_hero_militron.xml:60
 msgid ""
@@ -1369,7 +1369,7 @@ msgstr ""
 
 #: simulation/templates/units/darknut/darknut_molgera_b.xml:38
 msgid "Small Scout Creature that can burrow into the ground and hide."
-msgstr ""
+msgstr "Kleine Späherkreatur die sich in den Boden verbuddeln und verstecken kann"
 
 #: simulation/templates/units/darknut/darknut_molgera_b.xml:39
 #: simulation/templates/units/darknut/darknut_patra_b.xml:42
@@ -1466,7 +1466,7 @@ msgstr "Lanze"
 
 #: simulation/templates/units/darknut/darknut_rebonack_b.xml:54
 msgid "Rebonack"
-msgstr ""
+msgstr "Rebonack"
 
 #: simulation/templates/units/darknut/darknut_rebonack_b.xml:55
 msgid ""
@@ -1475,40 +1475,40 @@ msgid ""
 "black horses that had for centuries been specially bred for size. Armed with a lance in"
 " one hand and a sword in the other, Rebonacks could knock down enemy soldiers with ease"
 " and lob the heads off of those that survived."
-msgstr ""
+msgstr " Nahezu Gottgleich waren die Rebonack als die ehrfahrensten Soldaten in der gesamten Legion und die wahrscheinlich ihre angsteinflößendsten Krieger. Die Rebonacks reiten auf gigantischen schwarzen Rössern die über Jahrhunderte hinweg auf Größe gezüchtet wurden. Mit der Lanze in der einen und dem Schwert in der anderen Hand konnten die Rebonacks ihre Feinde mühelos niederschlagen und den Überlebenden den Kopf abhacken."
 
 #: simulation/templates/units/darknut/darknut_rebonack_b.xml:59
 msgid "Slow but extremely armored Cavalry unit carrying a huge lance."
-msgstr ""
+msgstr "Langsame aber extrem schwer gepanzerte Kavallarie, bewaffnet mit einer riesigen Lanze"
 
 #: simulation/templates/units/darknut/darknut_rebonack_legendary.xml:43
 msgid "Legendary Rebonack"
-msgstr ""
+msgstr "Legendärer Rebonack"
 
 #: simulation/templates/units/darknut/darknut_rebonack_master.xml:43
 msgid "Master Rebonack"
-msgstr ""
+msgstr "Meister Rebonack"
 
 #: simulation/templates/units/darknut/darknut_rebonack_mighty.xml:44
 #: simulation/templates/units/darknut/darknut_rebonack_mighty.xml:45
 msgid "Mighty Rebonack"
-msgstr ""
+msgstr "Mächtiger Rebonack"
 
 #: simulation/templates/units/darknut/darknut_supplycart_b.xml:19
 #: simulation/templates/units/lizalfos/lizalfos_supplycart_b.xml:22
 msgid "Supply Cart"
-msgstr ""
+msgstr "Versorgungswagen"
 
 #: simulation/templates/units/darknut/darknut_supplycart_b.xml:21
 #: simulation/templates/units/lizalfos/lizalfos_supplycart_b.xml:24
 #: simulation/templates/units/stalfos/stalfos_collector_b.xml:25
 msgid "Mobile dropsite for resources."
-msgstr ""
+msgstr "Mobiler Ablagestelle für Ressourcen"
 
 #: simulation/templates/units/darknut/darknut_supplycart_b.xml:22
 #: simulation/templates/units/npc_zuna/npc_zun_merchantman_b.xml:23
 msgid "Storehouse"
-msgstr ""
+msgstr "Lagerhaus"
 
 #: simulation/templates/units/darknut/darknut_thrallA.xml:4
 #: simulation/templates/units/darknut/darknut_thrallA.xml:14
@@ -1545,16 +1545,16 @@ msgstr ""
 #: simulation/templates/units/zora/zora_servantA.xml:14
 msgctxt "Name of an attack, usually the weapon."
 msgid "Knife"
-msgstr ""
+msgstr "Messer"
 
 #: simulation/templates/units/darknut/darknut_titan_vaati.xml:12
 msgctxt "Name of an attack, usually the weapon."
 msgid "Tornados"
-msgstr ""
+msgstr "Tornados"
 
 #: simulation/templates/units/darknut/darknut_titan_vaati.xml:88
 msgid "The Wind Demon"
-msgstr ""
+msgstr "Der Winddämon"
 
 #: simulation/templates/units/darknut/darknut_titan_vaati.xml:89
 msgid ""
