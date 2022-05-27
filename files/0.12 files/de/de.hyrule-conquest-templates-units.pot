@@ -1415,7 +1415,7 @@ msgstr "Wurfspeer"
 #: simulation/templates/units/darknut/darknut_peltast_b.xml:47
 #: simulation/templates/units/darknut/darknut_peltast_garrison.xml:47
 msgid "Peltast"
-msgstr ""
+msgstr "Peltast"
 
 #: simulation/templates/units/darknut/darknut_peltast_b.xml:48
 #: simulation/templates/units/darknut/darknut_peltast_garrison.xml:48
@@ -1424,20 +1424,20 @@ msgid ""
 "the civilian run garrisons and armies had no such taboo against attacking enemies from "
 "a distance. Peltast men and women were trained in lobbing javelins from incredible "
 "distances, serving as a powerful skirmisher."
-msgstr ""
+msgstr "Der Fernkampf war ausdrücklich verboten für jeden Krieger der der Legion beitratt. Glücklicherweise galt dieses Verbot nicht für die von den Bürgern organisierten Wachen und Armeen. Die Peltast Männer und Frauen wurden darauf trainiert Wurfspeere möglichst weit zu schleudern un dienten so als mächtige Plänkler"
 
 #: simulation/templates/units/darknut/darknut_peltast_b.xml:52
 #: simulation/templates/units/darknut/darknut_peltast_garrison.xml:52
 msgid "Missile unit that tosses Javelins at enemies from a distance."
-msgstr ""
+msgstr "Distanzeinheit die Wurfspeere schleudert"
 
 #: simulation/templates/units/darknut/darknut_peltast_mighty.xml:33
 msgid "Mighty Peltast"
-msgstr ""
+msgstr "Mächtiger Peltast"
 
 #: simulation/templates/units/darknut/darknut_reaver_b.xml:33
 msgid "Reaver"
-msgstr ""
+msgstr "Plünderer"
 
 #: simulation/templates/units/darknut/darknut_reaver_b.xml:35
 msgid ""
@@ -1445,11 +1445,11 @@ msgid ""
 "Desert. Reavers have abandoned the bulky armor of their brothers and instead rely on "
 "their incredible muscles and speed to survive. The Legion is willing to hire these "
 "warriors when the need arrises."
-msgstr ""
+msgstr "Ausgestoßene Nimbusgarden die durch Überfälle und Diebstahl in der Gerudowüste überleben. Die Plünderer haben ihre beschwerliche Rüstung ihrer Brüder abgelegt undvertrauen stattdessen auf ihre unglaubliche Muskulatur und Geschwindigkeit. Die Legion ist willig diese Krieger anzuheuern falls der Bedarf entsteht."
 
 #: simulation/templates/units/darknut/darknut_reaver_b.xml:40
 msgid "Alros' Unique Unit. Quick Mercenary Melee unit that raids enemies with a huge sword."
-msgstr ""
+msgstr "Einzigartige Einheit von Alros. Schneller Söldner das Gegner mit einem grossen Schwert überfällt"
 
 #: simulation/templates/units/darknut/darknut_rebonack_b.xml:4
 #: simulation/templates/units/darknut/darknut_rebonack_legendary.xml:4
@@ -1462,7 +1462,7 @@ msgstr ""
 #: simulation/templates/units/zora/zora_hydrolancer_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Lance"
-msgstr ""
+msgstr "Lanze"
 
 #: simulation/templates/units/darknut/darknut_rebonack_b.xml:54
 msgid "Rebonack"
