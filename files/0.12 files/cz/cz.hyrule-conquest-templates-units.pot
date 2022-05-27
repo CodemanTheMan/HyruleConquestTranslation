@@ -6503,31 +6503,31 @@ msgstr "Fado-ti"
 
 #: simulation/templates/units/kokiri/kokiri_hero_fado_base.xml:38
 msgid "Support Hero that can create many powerful global buffs and debuffs."
-msgstr ""
+msgstr "Podpůrný hrdina s mnoha mocnými globálními buffy a debuffy."
 
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songearth.xml:21
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songofstorms.xml:16
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songsaria.xml:26
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songwind.xml:21
 msgid "Play the Song of Storms."
-msgstr ""
+msgstr "Hraj Píseň Bouří"
 
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songearth.xml:26
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songstorm.xml:31
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songwind.xml:26
 msgid "Play Saria's Song."
-msgstr ""
+msgstr "Hraj Sáriinu Písničku"
 
 #: simulation/templates/units/kokiri/kokiri_hero_fadola.xml:4
 #: simulation/templates/units/kokiri/kokiri_slingshotter_b.xml:4
 #: simulation/templates/units/kokiri/kokiri_slingshotter_garrison.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Deku Seeds"
-msgstr ""
+msgstr "Deku Ořechy"
 
 #: simulation/templates/units/kokiri/kokiri_hero_fadola.xml:47
 msgid "Kokiri Watcher"
-msgstr ""
+msgstr "Kokirská Hlídačka"
 
 #: simulation/templates/units/kokiri/kokiri_hero_fadola.xml:49
 msgid ""
@@ -6536,23 +6536,27 @@ msgid ""
 " that know her. Rumor has it that Fadola is the world's greatest Slingshotter, but she "
 "lacks the pride to boast and prove if it's true."
 msgstr ""
+"Fadola je jednou z méně sociálních Kokirek, a často tráví svůj čas ve vysokých místech "
+"kam se ostatní Kokiři neodváží vylézt. Má velice klidnou a přátelskou povahu vůči těm "
+"kteří ji znají. Říká se že Fadola je nejlepší střelkyně z praku na světe, ale nemá "
+"pýchu se tím chlubit a dokázat že to je pravda."
 
 #: simulation/templates/units/kokiri/kokiri_hero_fadola.xml:53
 msgid "Fadola"
-msgstr ""
+msgstr "Fadola"
 
 #: simulation/templates/units/kokiri/kokiri_hero_fadola.xml:54
 msgid "Ranged hero that attacks with her Slingshot."
-msgstr ""
+msgstr "Střelná hrdinka která útočí svým prakem."
 
 #: simulation/templates/units/kokiri/kokiri_hero_gulley.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Antlers"
-msgstr ""
+msgstr "Rohy"
 
 #: simulation/templates/units/kokiri/kokiri_hero_gulley.xml:34
 msgid "The First Kokiri"
-msgstr ""
+msgstr "První Kokiri"
 
 #: simulation/templates/units/kokiri/kokiri_hero_gulley.xml:36
 msgid ""
@@ -6566,22 +6570,22 @@ msgstr ""
 
 #: simulation/templates/units/kokiri/kokiri_hero_gulley.xml:40
 msgid "Gulley"
-msgstr ""
+msgstr "Rokla"
 
 #: simulation/templates/units/kokiri/kokiri_hero_gulley.xml:41
 msgid "Swift Cavalry Hero that can buck enemies in Melee."
-msgstr ""
+msgstr "Hbitý jezdecký hrdina který odráží nepřátele."
 
 #: simulation/templates/units/kokiri/kokiri_hero_mirora.xml:4
 #: simulation/templates/units/kokiri/kokiri_huntingfox_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fangs and Claws"
-msgstr ""
+msgstr "Tesáky a Drápy"
 
 #: simulation/templates/units/kokiri/kokiri_hero_mirora.xml:50
 #: simulation/templates/units/kokiri/kokiri_hero_mirora_nomount.xml:35
 msgid "Mudman Chief"
-msgstr ""
+msgstr "Blatnická Náčelnice"
 
 #: simulation/templates/units/kokiri/kokiri_hero_mirora.xml:52
 #: simulation/templates/units/kokiri/kokiri_hero_mirora_nomount.xml:37
@@ -6597,27 +6601,27 @@ msgstr ""
 #: simulation/templates/units/kokiri/kokiri_hero_mirora.xml:56
 #: simulation/templates/units/kokiri/kokiri_hero_mirora_nomount.xml:41
 msgid "Mirora"
-msgstr ""
+msgstr "Mirora"
 
 #: simulation/templates/units/kokiri/kokiri_hero_mirora.xml:57
 msgid ""
 "Quick and powerful Creature Hero that can shred apart units in melee. Immune to all "
 "Knockback."
-msgstr ""
+msgstr "Rychlá a silná hrdinka která trhá nepřátele. Imunní proti všem odrazům."
 
 #: simulation/templates/units/kokiri/kokiri_hero_mirora_nomount.xml:4
 #: simulation/templates/units/kokiri/kokiri_wolfkiller_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Mantis Blades"
-msgstr ""
+msgstr "Kudlančí Čepele"
 
 #: simulation/templates/units/kokiri/kokiri_hero_mirora_nomount.xml:42
 msgid "Quick moving Melee Hero with very high Dodge rates."
-msgstr ""
+msgstr "Rychlá hrdinka s velice vysokou mírou vyhýbání."
 
 #: simulation/templates/units/kokiri/kokiri_hero_saria.xml:43
 msgid "Sage of the Forests"
-msgstr ""
+msgstr "Mudryně Lesů"
 
 #: simulation/templates/units/kokiri/kokiri_hero_saria.xml:45
 msgid ""
@@ -6628,20 +6632,27 @@ msgid ""
 "after facing her untimely death. She was extremely fond of music and was quite skilled "
 "in playing the Ocarina, Fiddle, and several other instruments."
 msgstr ""
+"Narozena aby se stala dědičkou Mudrctví Velkého Deku Stromu a Královnou Kokirskou, "
+"Sárie byla jeho nejcenějším výtvorem. Přes jeho pokusy ochránit Kokiry, Sárie byla "
+"zabita v bitvě a Velký Deku Strom byl nicen ji probudit jako Mudryni mnohem dříve než "
+"očekával. Sárie byla známá pro svůj optimistický pohled na svět, i po tom co čelila své "
+"předčasné smrti. Měla strašně ráda hudbu a byla docela nadaná v hraní na okarínu, housle, "
+"a několik dalších nástrojů."
 
 #: simulation/templates/units/kokiri/kokiri_hero_saria.xml:49
 msgid "Saria"
-msgstr ""
+msgstr "Sárie"
 
 #: simulation/templates/units/kokiri/kokiri_hero_saria.xml:50
 msgid ""
 "Quick Missile Hero with a powerful long ranged magic attack and the ability to "
 "Camouflage."
 msgstr ""
+"Rychlá lučištnická hrdinka s mocným magickým útokem a kamufláží."
 
 #: simulation/templates/units/kokiri/kokiri_huntingfox_b.xml:40
 msgid "Hunting Fox"
-msgstr ""
+msgstr "Lovecká Liška"
 
 #: simulation/templates/units/kokiri/kokiri_huntingfox_b.xml:41
 msgid ""
@@ -6650,14 +6661,17 @@ msgid ""
 "storehouses. A mossy green color grows on their backsides, allowing them to hide in the"
 " underbrush and ambush their prey."
 msgstr ""
+"Rychlá jednotka nasazena Kokiry na lovy. Tyto malé lišky umí lovit a zabíjet divokou zvěř, "
+"vzít z ní maso a vrátit se s ním do skladů. Na jejich zádech roste mechově zelená srst, což "
+"jim umožňuje se schovat v podrostu a přepadnout svou kořist."
 
 #: simulation/templates/units/kokiri/kokiri_huntingfox_b.xml:45
 msgid "Quick Creature unit that can hunt for meat."
-msgstr ""
+msgstr "Rychlý tvor který může lovit maso."
 
 #: simulation/templates/units/kokiri/kokiri_mantlet_b.xml:47
 msgid "Mudman Mantlet"
-msgstr ""
+msgstr "Blatnická Pavéza"
 
 #: simulation/templates/units/kokiri/kokiri_mantlet_b.xml:48
 msgid ""
@@ -6671,29 +6685,33 @@ msgid ""
 "Small, anti-Missile unit protected by a large mantlet shield. Extremely resistant to "
 "non-magic ranged attacks."
 msgstr ""
+"Malá, protistřelecká jednotka ochráněna velkou pavézou. Extrémně odolná proti "
+"nemagickým střelám."
 
 #: simulation/templates/units/kokiri/kokiri_minutemen_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Kitchen Tools"
-msgstr ""
+msgstr "Kuchyňské Náčiní"
 
 #: simulation/templates/units/kokiri/kokiri_minutemen_b.xml:35
 msgid "Minutemen"
-msgstr ""
+msgstr "Minutovníci"
 
 #: simulation/templates/units/kokiri/kokiri_minutemen_b.xml:36
 msgid ""
 "Everyday citizens of the Kokiri on constant standby for enemy invaders. Everything from"
 " kitchen knives to deku sticks are picked up and used as weapons to defend their homes."
 msgstr ""
+"Všední Kokirští občané na stálé hlídce pro nepřátelské vetřelce. Berou si všechno od "
+"kuchyňských nožů po Deku klacky ze země jako zbraně aby chránili své domovy."
 
 #: simulation/templates/units/kokiri/kokiri_minutemen_b.xml:40
 msgid "Cheap Infantry Melee unit that can be deployed in large numbers. Can also Camouflage."
-msgstr ""
+msgstr "Levná pěší jednotka která může výt verbována ve velkých počtech. Také má kamufláž."
 
 #: simulation/templates/units/kokiri/kokiri_mudjabber_b.xml:38
 msgid "Mudman Jabber"
-msgstr ""
+msgstr "Blatnický Rýpák"
 
 #: simulation/templates/units/kokiri/kokiri_mudjabber_b.xml:39
 msgid ""
@@ -6706,7 +6724,7 @@ msgstr ""
 msgid ""
 "Fast spear unit that can Camouflage and also has a Dodge Rating. Effective against "
 "cavalry."
-msgstr ""
+msgstr "Rychlá kopincká jednotka s kamufláží a vysokým vyhýbáním. Efektinví proti jezdectvu."
 
 #: simulation/templates/units/kokiri/kokiri_mudlaborerA.xml:61
 msgid "Mudman Laborer"
@@ -6725,15 +6743,15 @@ msgstr ""
 
 #: simulation/templates/units/kokiri/kokiri_mudram_b.xml:50
 msgid "Mudman Battering Ram"
-msgstr ""
+msgstr "Blatnické Beranidlo"
 
 #: simulation/templates/units/kokiri/kokiri_mudram_b.xml:51
 msgid "Cheap Siege unit that can deal decent damage to structures."
-msgstr ""
+msgstr "Levná obléhací jednotka působící decentní požkození strukturám."
 
 #: simulation/templates/units/kokiri/kokiri_shrinecourage_b.xml:24
 msgid "Shrine of Courage"
-msgstr ""
+msgstr "Svatyně Odvahy"
 
 #: simulation/templates/units/kokiri/kokiri_shrinecourage_b.xml:25
 msgid ""
@@ -6742,14 +6760,17 @@ msgid ""
 "are carted into battle to inspire warriors into a frenzy of courage.\n"
 "  "
 msgstr ""
+"Tyto okrášlené idoly bohyně Fafore byl vytesány a požehnany zasvěcenými Kokiry. Během "
+"míru jsou vystaveny na viděnou jako připomínka všem Kokirům, během války jsou odvezeny "
+"do bitvy aby inspirovaly válečníky k odvaze."
 
 #: simulation/templates/units/kokiri/kokiri_shrinecourage_b.xml:30
 msgid "Support unit that generates territory for the Kokiri."
-msgstr ""
+msgstr "Podpůrná jednotka generující teritorium pro Kokiry."
 
 #: simulation/templates/units/kokiri/kokiri_slingshotter_b.xml:45
 msgid "Slingshotter"
-msgstr ""
+msgstr "Střelec z Praku"
 
 #: simulation/templates/units/kokiri/kokiri_slingshotter_b.xml:46
 msgid ""
@@ -6757,16 +6778,21 @@ msgid ""
 " with their attack. Slingshotters might not pack much of a punch but a cluster of them "
 "can send enemies spinning in circles."
 msgstr ""
+"Útočník s malým dosahem nesoucí ikonický Kokirský prak, kterým je schopen omráčit "
+"nepřátele. Střelci z Praku nemají moc velkou sílu, ale pluk dokáže přimět nepřátele "
+"se točit na místě."
 
 #: simulation/templates/units/kokiri/kokiri_slingshotter_b.xml:49
 msgid ""
 "Light and cheap missile unit that has a small chance to stun enemy units with its "
 "ranged attack."
 msgstr ""
+"Lehká a levná střelecká jednotka s malou šancí omráčit nepřátelské jednotky svým "
+"útokem."
 
 #: simulation/templates/units/kokiri/kokiri_stagchariot_b.xml:57
 msgid "Stag Chariot"
-msgstr ""
+msgstr "Jelení Vůz"
 
 #: simulation/templates/units/kokiri/kokiri_stagchariot_b.xml:59
 msgid ""
@@ -6776,14 +6802,17 @@ msgid ""
 "They were not particularly strong but could be garrisoned with a pair of ranged units "
 "to boost their damage output."
 msgstr ""
+"Malý a rychlý vůz, možná inspirován těmi používány Hyliánskými bandity kteří se stali "
+"prvními Kokiry. Kokiři občas používaly tyto vozy k převozu zrdojů, ale během války místo "
+"toho vezly vojáky na bitevní pole.
 
 #: simulation/templates/units/kokiri/kokiri_stagchariot_b.xml:64
 msgid "Gulley's Unique Unit. Fast Cavalry Support Unit that can garrison other units inside."
-msgstr ""
+msgstr "Jednotka kterou může trénovat pouze Rokla. Rychlá podpůrná jednotka s dvěmy lučištníky."
 
 #: simulation/templates/units/kokiri/kokiri_titan_gdt.xml:73
 msgid "The Great Deku Tree"
-msgstr ""
+msgstr "Velký Deku Strom"
 
 #: simulation/templates/units/kokiri/kokiri_titan_gdt.xml:74
 msgid ""
