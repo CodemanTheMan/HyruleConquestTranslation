@@ -1211,52 +1211,52 @@ msgstr "Einst geliebte und geschätzte Figuren in der Legion wurden diese Magier
 
 #: simulation/templates/units/darknut/darknut_immortal_b.xml:53
 msgid "Hovering Mage unit that attacks her enemies with fireballs from a distance."
-msgstr ""
+msgstr "Schwebender Magier der mit Feuerbällen aus der Ferne attackiert."
 
 #: simulation/templates/units/darknut/darknut_immortal_regen.xml:26
 msgid "Reanimating Immortal"
-msgstr ""
+msgstr "Wiederauferstehender Unsterblicher"
 
 #: simulation/templates/units/darknut/darknut_immortal_regen.xml:27
 #: simulation/templates/units/darknut/darknut_immortal_regen.xml:29
 msgid "A Darknut Immortal in the process of reanimating themselves."
-msgstr ""
+msgstr "Eine Nimbusgarde im Vorgang der Wiederbelebung"
 
 #: simulation/templates/units/darknut/darknut_jermafenser_b.xml:54
 msgid "Jermafenser"
-msgstr ""
+msgstr "Pickelfenser"
 
 #: simulation/templates/units/darknut/darknut_jermafenser_b.xml:55
 msgid ""
 "Jermafensers were some of the tallest and largest Darknuts in service of the Legion. "
 "Standing at nearly ten feet tall, these hulking behemoths slowly mustered their way "
 "into combat, effortlessly slicing apart anything smaller than themselves."
-msgstr ""
+msgstr "Pickelfenser waren die höchsten und größten Nimbusgarden im Dienste der Legion. Mit fast 3 meter Körpergröße marschierten diese Goliaths langsam in die Schlacht und zerschnetzelten mühelos alles was kleiner als sie  selbst"
 
 #: simulation/templates/units/darknut/darknut_jermafenser_b.xml:59
 msgid ""
 "Tall and durable Melee unit that deals tremendous Knockback and Splash Damage. Their "
 "armor is resistant to magic attacks."
-msgstr ""
+msgstr "Großer und abgehärteter Schwertkämpfer der heftigen Rückstoß und Flächenschaden verursacht"
 
 #: simulation/templates/units/darknut/darknut_jermafenser_legendary.xml:52
 msgid "Legendary Jermafenser"
-msgstr ""
+msgstr "Legänderer Pickelfenser"
 
 #: simulation/templates/units/darknut/darknut_jermafenser_master.xml:52
 msgid "Master Jermafenser"
-msgstr ""
+msgstr "Meister Pickelfenser"
 
 #: simulation/templates/units/darknut/darknut_jermafenser_mighty.xml:44
 msgid "Mighty Jermafenser"
-msgstr ""
+msgstr "Mächtiger Pickelfenser"
 
 #: simulation/templates/units/darknut/darknut_legatus_b.xml:61
 #: simulation/templates/units/darknut/darknut_legatus_half.xml:61
 #: simulation/templates/units/darknut/darknut_legatus_low.xml:61
 #: simulation/templates/units/darknut/darknut_legatus_noarmor.xml:42
 msgid "Legatus"
-msgstr ""
+msgstr "Legatus"
 
 #: simulation/templates/units/darknut/darknut_legatus_b.xml:63
 #: simulation/templates/units/darknut/darknut_legatus_half.xml:62
@@ -1267,7 +1267,7 @@ msgid ""
 "the ranks of their forces after Zalunbar's takeover. A fair number of these powerful "
 "warriors can still be found hidden in retirement or isolation of ruins across the "
 "desert, waiting only for the Legion to request their services once again."
-msgstr ""
+msgstr "Einst hochrangige Generäle in der Armee der Legion. Nach der Übernahme Zalunbars wurde die Ausbildung zum Legatus abgeschafft, doch eine Ordentliche Anzahl von diesen mächtigen Krieger kann man noch in der Isolation von Ruinen oder im Ruhestand finden. Sie warten nur darauf das die Legion ihre Dienste wieder in Anspruch nimmt."
 
 #: simulation/templates/units/darknut/darknut_legatus_b.xml:68
 #: simulation/templates/units/darknut/darknut_legatus_half.xml:67
@@ -1276,17 +1276,17 @@ msgstr ""
 msgid ""
 "Senturon's Unique Unit. Powerful and heavily armored Melee unit that continues to fight"
 " as parts of its armor are damaged and broken."
-msgstr ""
+msgstr "Senturons Einzigartige Einheit. Mächtig und schwer gepanzerte Schwertkämpfer die weiterkämopft während ihre Panzerung nach und nach zerstört wird"
 
 #: simulation/templates/units/darknut/darknut_legatus_half.xml:106
 #: simulation/templates/units/darknut/darknut_legatus_low.xml:106
 #: simulation/templates/units/darknut/darknut_legatus_noarmor.xml:87
 msgid "Repair the Legatus' broken armor."
-msgstr ""
+msgstr "Reparieren der Legatus Panzerung"
 
 #: simulation/templates/units/darknut/darknut_legionary_b.xml:54
 msgid "Legionary"
-msgstr ""
+msgstr "Legionär"
 
 #: simulation/templates/units/darknut/darknut_legionary_b.xml:55
 msgid ""
@@ -1294,27 +1294,27 @@ msgid ""
 " people by defending against and conquering all enemies. Despite their size and power, "
 "Legionaries were actually the lowest rank of soldier in the Legion’s Code and had only "
 "undergone a year of formal training."
-msgstr ""
+msgstr "Als das Aushängeschild der Nimbusgarden Armeen, vollstrecken die Legionäre unermüdlich den Willen des Nimbusgarden Volkes durch Eroberungfeldzüge und die Verteidung gegen Feinde. Trotz ihrer Größe und Kraft, waren die Legionäre der niedrigste Rang im Legionskodex und hatten nur eine einjährige Ausbildung hinter sich."
 
 #: simulation/templates/units/darknut/darknut_legionary_b.xml:59
 msgid "Powerful Melee unit in heavy armor."
-msgstr ""
+msgstr "Mächtiger schwergepanzerter Schwertkämpfer "
 
 #: simulation/templates/units/darknut/darknut_legionary_legendary.xml:43
 msgid "Legendary Legionary"
-msgstr ""
+msgstr "Legendärer Legionär"
 
 #: simulation/templates/units/darknut/darknut_legionary_master.xml:43
 msgid "Master Legionary"
-msgstr ""
+msgstr "Meister Legionär"
 
 #: simulation/templates/units/darknut/darknut_legionary_mighty.xml:44
 msgid "Mighty Legionary"
-msgstr ""
+msgstr "Mächtiger Legionär"
 
 #: simulation/templates/units/darknut/darknut_lynel_b.xml:33
 msgid "Lynel Pride"
-msgstr ""
+msgstr "Leunen Rudel"
 
 #: simulation/templates/units/darknut/darknut_lynel_b.xml:34
 msgid ""
@@ -1322,19 +1322,19 @@ msgid ""
 "people. In more modern ages, they were the Legion’s favorite mercenaries. So often were"
 " Lynels hired and deployed with Legion forces that many of the Darknut’s enemies "
 "assumed they were members of the same empire."
-msgstr ""
+msgstr "Die berüchtigt brutalen  und blutrünstigen Leunen wurdden lange mit den Nimbusgarden in Verbinung gepracht. In modernen Zeiten sind sie die beliebtesten Söldner der Legion. Die Leunen wurden so oft angeheuert und zusammen mit Legionstruppen eingesetzt das viele Feinde der Legion sie als Teil des selben Reiches sahen"
 
 #: simulation/templates/units/darknut/darknut_lynel_b.xml:38
 msgid "Powerful Cavalry unit armed with a sword and shield."
-msgstr ""
+msgstr "Mächtige Kavallerie, bewaffnet mit Schwert und Schild"
 
 #: simulation/templates/units/darknut/darknut_lynel_mighty.xml:19
 msgid "Mighty Lynel Pride"
-msgstr ""
+msgstr "Mächtiges Leunen Rudel"
 
 #: simulation/templates/units/darknut/darknut_mazura_b.xml:38
 msgid "Mazura Hippikon"
-msgstr ""
+msgstr "Mazura Hippikon"
 
 #: simulation/templates/units/darknut/darknut_mazura_b.xml:39
 msgid ""
@@ -1342,15 +1342,15 @@ msgid ""
 "legion because of their speed. While not as fast as the swift Fokka or most other "
 "cavalry, a Mazura Hippikon could nonetheless plow into enemy forces and cause havoc "
 "with their maces."
-msgstr ""
+msgstr "Die wütenden und störrischen Mazura waren wie die Fokka, hoch geschätzte Soldaten in der Legion aufgrund ihrer Geschwindigkeit. Zwar waren sie nicht so schnell wie die geswandten Fokka oder die meisten anderen Kavallerien konnte ein Mazura Hippikon nichtsdestotrotz mit seinem Streitkolben durch gegnerische Reihen pflügen und wüten"
 
 #: simulation/templates/units/darknut/darknut_mazura_b.xml:44
 msgid "Fast moving Melee unit that behaves as if it were Cavalry."
-msgstr ""
+msgstr "Schnelle Nahkämpfer die sich wie Nahkämpfer verhalten"
 
 #: simulation/templates/units/darknut/darknut_mazura_mighty.xml:25
 msgid "Mighty Mazura Hippikon"
-msgstr ""
+msgstr "Mächtiger Mazura Hippikon"
 
 #: simulation/templates/units/darknut/darknut_molgera_b.xml:33
 msgid "Molgera Grub"
@@ -1387,7 +1387,7 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_eyesoar_b.xml:36
 #: simulation/templates/units/zora/zora_infiltrator_b.xml:38
 msgid "Scout"
-msgstr ""
+msgstr "Späher"
 
 #: simulation/templates/units/darknut/darknut_patra_b.xml:34
 msgid "Patra"
@@ -1410,7 +1410,7 @@ msgstr ""
 #: simulation/templates/units/kokiri/kokiri_mantlet_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Javelin"
-msgstr ""
+msgstr "Wurfspeer"
 
 #: simulation/templates/units/darknut/darknut_peltast_b.xml:47
 #: simulation/templates/units/darknut/darknut_peltast_garrison.xml:47
