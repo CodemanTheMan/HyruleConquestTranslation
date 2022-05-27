@@ -5374,11 +5374,11 @@ msgstr ""
 #: simulation/templates/units/hylian/hylian_magecaptain_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Magic Sword"
-msgstr ""
+msgstr "Kouzelný Meč"
 
 #: simulation/templates/units/hylian/hylian_acolyte_b.xml:41
 msgid "Acolyte"
-msgstr ""
+msgstr "Akolyta"
 
 #: simulation/templates/units/hylian/hylian_acolyte_b.xml:43
 msgid ""
@@ -5387,16 +5387,19 @@ msgid ""
 "entirely understand the powers their wield. When at their full potential these Acolytes"
 " can incinerate enemies with their magic swords."
 msgstr ""
+"Mladí mágové pod poručnictvím Lany a magie kterou se naučila od Čaróbů. Tito vojáci jsou "
+"trochu lehkomyslní, jelikož jako Lana ještě úplně nerozumí své moci. Při svém plném "
+"potenciálu mohou tito Akolyté spálit nepřátele svými kouzelnými meči."
 
 #: simulation/templates/units/hylian/hylian_acolyte_b.xml:48
 msgid ""
 "Melee Mage unit that can attack with magic from a distance so long as she has full "
 "health."
-msgstr ""
+msgstr "Pěší magická jednotka schopna útočit magií z dáli dokud mají plné zdraví."
 
 #: simulation/templates/units/hylian/hylian_captain_b.xml:42
 msgid "Captain"
-msgstr ""
+msgstr "Kapitán"
 
 #: simulation/templates/units/hylian/hylian_captain_b.xml:43
 msgid ""
@@ -5404,14 +5407,17 @@ msgid ""
 "field of the battle. Their bravery often inspired other soldiers, and their fall in "
 "battle was considered a great loss."
 msgstr ""
+"Hyliánští Kapitání byli rytíři se zkušeností ve velení celých armád na bitevním poli. "
+"Jejich kuráž často inspirovala ostatní vojáky, a jejich pád v bitvě byl považován za "
+"velkou ztrátu."
 
 #: simulation/templates/units/hylian/hylian_captain_b.xml:47
 msgid "Heavily armored Infantry Commander unit. Leads other Hylians into battle."
-msgstr ""
+msgstr "Těžce obrněná velitelská pěší jednotka. Vede ostatní Hyliány do bitvy."
 
 #: simulation/templates/units/hylian/hylian_championknight_b.xml:49
 msgid "Champion Knight"
-msgstr ""
+msgstr "Rytíř Šampión"
 
 #: simulation/templates/units/hylian/hylian_championknight_b.xml:51
 msgid ""
@@ -5419,12 +5425,17 @@ msgid ""
 "Ancient Hylians and command great bravery and courage in battle. They dramatically "
 "improve the performance of all Infantry under their command."
 msgstr ""
+"Trénování posledním dědicem Gustafovým, tito rytíři používají ztracené techniky "
+"starověkých Hyliánů a mají spoustu odvahy a luráže v bitvě. Dramaticky zlepšují "
+"výkon všech pěších jednotek pod jejich velením."
 
 #: simulation/templates/units/hylian/hylian_championknight_b.xml:56
 msgid ""
 "Link's Unique Unit. Extremely powerful infantry unit that is immune to Knockback and "
 "inflicts bonus damage against large creature units and commanders."
 msgstr ""
+"Jednotka kterou může trénovat pouze Link. EXtrémně silná pěší jednotka imunní odrazům "
+"a schopná způsobit bonusové požkození proti velkým tvorům a velitelům."
 
 #: simulation/templates/units/hylian/hylian_citizenA.xml:62
 msgid "Hylian Citizen"
@@ -5445,7 +5456,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_crossbowman_b.xml:44
 msgid "Kingdom Crossbowman"
-msgstr ""
+msgstr "Královský Střelec z Kuše"
 
 #: simulation/templates/units/hylian/hylian_crossbowman_b.xml:45
 msgid ""
@@ -5454,10 +5465,14 @@ msgid ""
 "ranged arsenal. Much like the Kingdom Infantry, these soldiers are funded by the "
 "governmental forces of Hyrule and are provided basic training and gear."
 msgstr ""
+"Přestože je tradiční lučištnictví populárním sportem v historii Království, jeho "
+"armáda preferuje masově vyrábět a nasadit snadno použitelné a smrtelné kuše jako jeho "
+"střelný arzenál. Podobně jako Královská Pěchota, tito vojáci jsou financováni vládními "
+"silami Hyliánska a je jim poskytnuto základní trénink a vybavení. "
 
 #: simulation/templates/units/hylian/hylian_crossbowman_b.xml:50
 msgid "Slow firing but powerful armor piercing ranged unit."
-msgstr ""
+msgstr "Pomalu střílející ale mocná brnění-prorážející střelná jednotka."
 
 #: simulation/templates/units/hylian/hylian_cuccogirl_b.xml:4
 msgid "Cucco Girl"
@@ -5469,7 +5484,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_deacon_b.xml:35
 msgid "Goddess Deacon"
-msgstr ""
+msgstr "Jáhenka"
 
 #: simulation/templates/units/hylian/hylian_deacon_b.xml:36
 #: simulation/templates/units/hylian/hylian_priestess_b.xml:15
@@ -5479,11 +5494,14 @@ msgid ""
 "alongside Hyrule's soldiers to chant various psalms and incantations from among the "
 "holy texts, improving the performance of their allies in battle."
 msgstr ""
+"Členky Hyliánského duchovenska, Jáhenky tradičně cestují do hraničních zemí Hyliánska a "
+"šírí doktrínu Hyliánských bohů. Během války pochodují vedle Hyliánských vojáků aby zpívali "
+"různé žalmy a inkantace ze svatých písem, čímž zlepšují výkon jejich spojenců v bitvě."
 
 #: simulation/templates/units/hylian/hylian_deacon_b.xml:40
 #: simulation/templates/units/hylian/hylian_priestess_b.xml:18
 msgid "Support unit with many aiding abilities."
-msgstr ""
+msgstr "Podpůrná jednotka s mnoha pomocnými schopnostmi."
 
 #: simulation/templates/units/hylian/hylian_hero_kazakk.xml:39
 msgid "King of Hyrule"
@@ -5506,7 +5524,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_hero_krin.xml:34
 msgid "Royal Captain"
-msgstr ""
+msgstr "Královský Kapitán"
 
 #: simulation/templates/units/hylian/hylian_hero_krin.xml:36
 msgid ""
@@ -5514,23 +5532,26 @@ msgid ""
 " pilgrimages and later Princess Zelda after her ascent to the throne. In truth he "
 "followed Rauru to converse with his Deacon, Seres."
 msgstr ""
+"Pocházející z dynastie Arkadské, Kapitán Krin dlouho sloužil Rauruvi jako tělesný strážce "
+"na jeho poutích a později Princezně Zeldě po jejím nástupu na trůn. Ve skutečnosti následoval "
+"Rauruho aby mohl mluvit s jeho jáhenkou, Seres."
 
 #: simulation/templates/units/hylian/hylian_hero_krin.xml:40
 msgid "Captain Krin"
-msgstr ""
+msgstr "Kapitán Krin"
 
 #: simulation/templates/units/hylian/hylian_hero_krin.xml:41
 msgid "Melee Hero that participates with fellow soldiers and boosts their performance."
-msgstr ""
+msgstr "Pěší hrdina který bojuje se svými vojáky a podporovat jejich výkon."
 
 #: simulation/templates/units/hylian/hylian_hero_lana.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Cane of Byrna"
-msgstr ""
+msgstr "Byrnská Hůl"
 
 #: simulation/templates/units/hylian/hylian_hero_lana.xml:59
 msgid "The White Mage"
-msgstr ""
+msgstr "Bílá Čarodějka"
 
 #: simulation/templates/units/hylian/hylian_hero_lana.xml:61
 msgid ""
@@ -5540,23 +5561,27 @@ msgid ""
 "loyaties to the crown and Hyrule are not in question, many including Rauru feel her "
 "immense powers are more than enough for her to control."
 msgstr ""
+"Mladá žena jejíž rod pochází z Kalaty, Lana byla trénována jako jáhenka pod Raurem. "
+"Nenaplněna svou pokornou duchovnickou rolí, Lana studovala tajně esoteričtější magie "
+"s Čaróby z Byrny. Přestože její loajalita koruně a Hyliánsku není v otázce, mnoho lidí "
+"včetně Rauruho cítí že její nesmírné moci jsou více než dokáže ovládnout."
 
 #: simulation/templates/units/hylian/hylian_hero_lana.xml:65
 msgid "Lana"
-msgstr ""
+msgstr "Lana"
 
 #: simulation/templates/units/hylian/hylian_hero_lana.xml:66
 msgid "Melee Mage Hero that can push enemies with her cane and summon protective magics."
-msgstr ""
+msgstr "Pěší magická jednotka schopná odrážet nepřátele svou holí a obrannou magií."
 
 #: simulation/templates/units/hylian/hylian_hero_link.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Master Sword"
-msgstr ""
+msgstr "Meč Pánů"
 
 #: simulation/templates/units/hylian/hylian_hero_link.xml:49
 msgid "Heir of King Gustaf"
-msgstr ""
+msgstr "Dědic Krále Gustafa"
 
 #: simulation/templates/units/hylian/hylian_hero_link.xml:51
 msgid ""
@@ -5564,26 +5589,31 @@ msgid ""
 " warrior amongst the Order of the Wizzrobe. With knowledge of both martial skill and "
 "arcane powers, he trains and leads Hyrule's Knights into battle."
 msgstr ""
+"Poslední přeživší člen pokrevní linie prvního Krále Hyliánského, Link byl vychován jako "
+"válečník v Řádu Čaróbů. Se bojovnou zkušeností a tajnou mocí, trénuje a vede rytíře Hyliánska "
+"do bitvy."
 
 #: simulation/templates/units/hylian/hylian_hero_link.xml:55
 msgid "Link"
-msgstr ""
+msgstr "Link"
 
 #: simulation/templates/units/hylian/hylian_hero_link.xml:56
 msgid ""
 "Swift and powerful Melee Hero that attacks with his sword and defends with his shield. "
 "Effective against Heroes, Commanders, Monsters in particular."
 msgstr ""
+"Rychlý ale mocný pěší hrdina který útočí svým mečem a brání se svým štítem. Efektivní "
+"proti hrdinům, velitelům, a příšerám."
 
 #: simulation/templates/units/hylian/hylian_hero_rauru.xml:4
 #: simulation/templates/units/hylian/hylian_vanguard_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Holy Mace"
-msgstr ""
+msgstr "Svatý Palcát"
 
 #: simulation/templates/units/hylian/hylian_hero_rauru.xml:42
 msgid "Sage of Light"
-msgstr ""
+msgstr "Mudrc Světla"
 
 #: simulation/templates/units/hylian/hylian_hero_rauru.xml:44
 msgid ""
@@ -5591,20 +5621,25 @@ msgid ""
 "and has long defended the Kingdom of Hyrule. An adviser to Princess Zelda, he is "
 "entrusted with detecting and forewarning of supernatural threats against the Kingdom."
 msgstr ""
+"Nesmrtelný Mudrc Světla a architekt Chrámu Času, Rauru je staletí starý a dlouho chránil "
+"Hyliánské Království. Jakožto poradce Princezny Zeldy, je pověřen detekováním a varováním "
+"před nadpřirozenými hrozbami Království.
 
 #: simulation/templates/units/hylian/hylian_hero_rauru.xml:48
 msgid "Rauru"
-msgstr ""
+msgstr "Rauru"
 
 #: simulation/templates/units/hylian/hylian_hero_rauru.xml:49
 msgid ""
 "Durable and Defensive Melee Hero armed with a helm crushing Mace. Resistant to all "
 "forms of Magic Damage."
 msgstr ""
+"Odolný a obraný pěší hrdina ozbrojený brněním-drtícím palcátem. Odolný proti všem "
+"formám magického požkození."
 
 #: simulation/templates/units/hylian/hylian_hero_seres.xml:28
 msgid "Deacon"
-msgstr ""
+msgstr "Jáhenka"
 
 #: simulation/templates/units/hylian/hylian_hero_seres.xml:30
 msgid ""
@@ -5612,23 +5647,26 @@ msgid ""
 "been his favorite pupil. Seres was trained in healing, though she has devoted much of "
 "her time to collecting tomes and historical documents for archiving."
 msgstr ""
+"Jáhenka která vyrostla severně od Hradova, Seres dlouho sloužila Rauruvi a byla jeho "
+"oblíbenou žačkou. Seres se učila v léčbě, ale také zasvětila mnoho svého času sběrem "
+"spisů a historických dokumentů k archivaci."
 
 #: simulation/templates/units/hylian/hylian_hero_seres.xml:34
 msgid "Seres"
-msgstr ""
+msgstr "Seres"
 
 #: simulation/templates/units/hylian/hylian_hero_seres.xml:35
 msgid "Support Hero that can heal the injuries of fellow allies."
-msgstr ""
+msgstr "Porpůrná hrdinka schopná vyléčit zranění svých spojenců."
 
 #: simulation/templates/units/hylian/hylian_hero_zeldaV.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Royal Estoc"
-msgstr ""
+msgstr "Královský Rapír"
 
 #: simulation/templates/units/hylian/hylian_hero_zeldaV.xml:39
 msgid "Princess of Hyrule"
-msgstr ""
+msgstr "Princezna Hyliánská"
 
 #: simulation/templates/units/hylian/hylian_hero_zeldaV.xml:41
 msgid ""
@@ -5636,20 +5674,24 @@ msgid ""
 "the power of Prophecy, the Princess can foresee events both small and large in her "
 "dreams."
 msgstr ""
+"Koruní Princena Hyliánská a pátá žena nesoucí jméno Zelda. Obdařena mocí proroctví, "
+"Princezna umí předpovídat události malé i velké ve svých snech."
 
 #: simulation/templates/units/hylian/hylian_hero_zeldaV.xml:45
 msgid "Tetralyna Zelda V"
-msgstr ""
+msgstr "Tetralyna Zelda V"
 
 #: simulation/templates/units/hylian/hylian_hero_zeldaV.xml:46
 msgid ""
 "A strong Missile Hero armed with a Bow and Light Arrows. She can defend herself with "
 "two Rapiers if forced into close combat."
 msgstr ""
+"Silná střelná hrdinka ozbrojená lukem a světelnými šípy. Je schopná se bránit dvěma "
+"rapíry pokud je donucena bojovat z blízka."
 
 #: simulation/templates/units/hylian/hylian_kingdom_cavalry.xml:24
 msgid "Kingdom Cavalry"
-msgstr ""
+msgstr "Královské Jezdectvo"
 
 #: simulation/templates/units/hylian/hylian_kingdom_cavalry.xml:25
 #: simulation/templates/units/hylian/hylian_levy_cavalry.xml:37
@@ -5661,19 +5703,22 @@ msgid ""
 "Armed with a spear, Kingdom Cavalry are light, but swift, and can punch holes into soft"
 " enemy formations."
 msgstr ""
+"Tyto jezdící inkarnace Královské Pěchoty dodávají velice nutnou rychlost a dosah. "
+"Ozbrojeni kopím, Královsští Jezdci jsou hbití, a schopní tvořit díry "
+"v nepřátelských formacích."
 
 #: simulation/templates/units/hylian/hylian_kingdom_cavalry.xml:29
 msgid "Heavy armored cavalry unit armed with a flail."
-msgstr ""
+msgstr "Těžce obrněná jezdecká jednotka ozbrojena řemdichem."
 
 #: simulation/templates/units/hylian/hylian_kingdom_maceman.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Flail"
-msgstr ""
+msgstr "Řemdich"
 
 #: simulation/templates/units/hylian/hylian_kingdom_maceman.xml:20
 msgid "Kingdom Maceman"
-msgstr ""
+msgstr "Královský Palcátník"
 
 #: simulation/templates/units/hylian/hylian_kingdom_maceman.xml:21
 #: simulation/templates/units/hylian/hylian_levy_maceman.xml:36
@@ -5684,14 +5729,17 @@ msgid ""
 "lack experience and notable armor, they can cause quite a dent in enemy armor with "
 "their blunt weapons."
 msgstr ""
+"Branní během války z jejich domovských vesnic a měst, těmto Brancům je dán levný palcát "
+"a štít k ochraně a posile Hyliánských armád. Přestože jim chybí zkušenost a pořádné "
+"brnění, mohou svými tupými zbraněmi způsobit pořádné důlky v nepřátelském brnění. "
 
 #: simulation/templates/units/hylian/hylian_kingdom_maceman.xml:24
 msgid "Heavy unit armed with a flail and shield. Deals Crushing damage."
-msgstr ""
+msgstr "Těžce obrněná jednotka ozbrojena řemdichem a štítem. Způsobuje drtící požkození."
 
 #: simulation/templates/units/hylian/hylian_kingdom_spearman.xml:30
 msgid "Kingdom Spearman"
-msgstr ""
+msgstr "Královský Kopiník"
 
 #: simulation/templates/units/hylian/hylian_kingdom_spearman.xml:31
 #: simulation/templates/units/hylian/hylian_levy_spearman.xml:41
@@ -5702,14 +5750,18 @@ msgid ""
 "and spears. They are very resistant to cavalry and arrow fire; only if an enemy manages"
 " to break their lines will they fall easy."
 msgstr ""
+"Důvěrný řád vojáků pověřen ochranou Hyliánského Hradu a jiných důležitých armádních "
+"pevností, Královští Kopiníci jsou čistě obraná pěchota ozbrojena scuty a kopím. Byly "
+"velice odolní proti jezdectvu a šípům; pouze pokud nepřátelé dokázali rozbít jejich "
+"bojové linie padli snadno."
 
 #: simulation/templates/units/hylian/hylian_kingdom_spearman.xml:34
 msgid "Heavy unit armed with a spear and shield. Deals Piercing damage."
-msgstr ""
+msgstr "Těžce obrněná jednotka ozbrojená kopím a štítem. Způsobuje průrazné požkození."
 
 #: simulation/templates/units/hylian/hylian_kingdom_swordsman.xml:24
 msgid "Kingdom Swordsman"
-msgstr ""
+msgstr "Královský Šermíř"
 
 #: simulation/templates/units/hylian/hylian_kingdom_swordsman.xml:25
 #: simulation/templates/units/hylian/hylian_levy_swordsman.xml:36
@@ -5721,18 +5773,21 @@ msgid ""
 "Hyrule. Funded by the Royal family, these soldiers have basic combat training and are "
 "provided with standardized armor and weaponry."
 msgstr ""
+"Pluky této pěchoty slouží jako hlavní válečníci nasazeni Královským Hyliánským. "
+"Financováni Královskou rodinou, tito vojáci mají základní bojový trénink a je "
+"jim poskytnuto standardizovaným brněním a zbraněmi."
 
 #: simulation/templates/units/hylian/hylian_kingdom_swordsman.xml:28
 msgid "Heavy unit armed with a sword and shield. Deals Hacking damage."
-msgstr ""
+msgstr "Těžká jednotka ozbrojena mečem a štítem. Způsobuje sekající požkození."
 
 #: simulation/templates/units/hylian/hylian_knightofhyrule_b.xml:36
 msgid "Knight of Hyrule"
-msgstr ""
+msgstr "Rytíř Hyliánský"
 
 #: simulation/templates/units/hylian/hylian_levy_archer.xml:44
 msgid "Levy Archer"
-msgstr ""
+msgstr "Branný Lukostřelec"
 
 #: simulation/templates/units/hylian/hylian_levy_archer.xml:45
 #: simulation/templates/units/hylian/hylian_soldier_archer.xml:42
@@ -5743,6 +5798,10 @@ msgid ""
 "and arrow, these fast citizens can attack enemies from afar and make good use of their "
 "hunting skills to provide food to armies."
 msgstr ""
+"Lesní lovci, hraničáři a průvodci, během války jsou Branní Lukostřelci povoláni sloužit "
+"jako strážci perimetrů a hlídkaři vnějších měst Hyliánska. Ozbrojeni lukem a šípy, tito "
+"rychlí občané mohou útočit na nepřátele z dáli a dobře využít svoje lovecké dovednosti aby "
+"poskytli jídlo pro armády."
 
 #: simulation/templates/units/hylian/hylian_levy_archer.xml:48
 #: simulation/templates/units/hylian/hylian_soldier_archer.xml:45
@@ -5751,44 +5810,46 @@ msgid ""
 "Medium Archer unit armed with a bow and arrows. Deals moderate Piercing damage, but is "
 "more survivable compared to Archer units from most other factions."
 msgstr ""
+"Střední lukostřelecká jednotka ozbrojena lukem a šípy. Působí značné průrazné požkození, "
+"ale přežívá snadněji v porovnání s lukostřelci většiny ostatních frakcí. "
 
 #: simulation/templates/units/hylian/hylian_levy_cavalry.xml:36
 msgid "Levy Cavalry"
-msgstr ""
+msgstr "Branné Jezdectvo"
 
 #: simulation/templates/units/hylian/hylian_levy_cavalry.xml:42
 msgid "Lightly armored cavalry unit armed with a mace."
-msgstr ""
+msgstr "Lehce obrněná jezdecká jednotka ozbrojená palcátem."
 
 #: simulation/templates/units/hylian/hylian_levy_maceman.xml:35
 msgid "Levy Maceman"
-msgstr ""
+msgstr "Branný Palcátník"
 
 #: simulation/templates/units/hylian/hylian_levy_maceman.xml:40
 msgid "Light unit armed with a mace and shield. Deals Crushing damage."
-msgstr ""
+msgstr "Lehce ozbrojená jednotka ozbrojená palcátem. Působí drtící požkození."
 
 #: simulation/templates/units/hylian/hylian_levy_spearman.xml:40
 msgid "Levy Spearman"
-msgstr ""
+msgstr "Branný Kopiník"
 
 #: simulation/templates/units/hylian/hylian_levy_spearman.xml:45
 msgid "Light unit armed with a spear and shield. Deals Piercing damage."
-msgstr ""
+msgstr "Lekce ozbrojená jednotka ozbrojená kopím a štítem. Působí průrazné požkození."
 
 #: simulation/templates/units/hylian/hylian_levy_swordsman.xml:35
 msgid "Levy Swordsman"
-msgstr ""
+msgstr "Branný Šermíř"
 
 #: simulation/templates/units/hylian/hylian_levy_swordsman.xml:40
 #: simulation/templates/units/stalfos/stalfos_staltroop_b.xml:40
 #: simulation/templates/units/stalfos/stalfos_staltroop_summon.xml:41
 msgid "Light unit armed with a sword and shield. Deals Hacking damage."
-msgstr ""
+msgstr "Lehce obrnění jednotka ozbrojena mečem a štítem. Působí sekající požkození."
 
 #: simulation/templates/units/hylian/hylian_light_cavalry.xml:32
 msgid "Light Cavalry"
-msgstr ""
+msgstr "Lekhé Jezdectvo"
 
 #: simulation/templates/units/hylian/hylian_light_cavalry.xml:37
 #: simulation/templates/units/hylian/hylian_scout_cavalry.xml:38
@@ -5796,15 +5857,17 @@ msgid ""
 "Light and fast cavalry unit with excellent vision range. Can detect Camouflaged and "
 "Stealthed units."
 msgstr ""
+"Lehká a ozbrojená jezdecká jednotka s excelentním zrakem. Umí detekovat jednotky s "
+"kamufláží s utajením."
 
 #: simulation/templates/units/hylian/hylian_lightarrow_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Light Arrows"
-msgstr ""
+msgstr "Světelné Šípy"
 
 #: simulation/templates/units/hylian/hylian_lightarrow_b.xml:63
 msgid "Light Arrow Archer"
-msgstr ""
+msgstr "Světelná Lukostřelkyně"
 
 #: simulation/templates/units/hylian/hylian_lightarrow_b.xml:65
 msgid ""
@@ -5812,32 +5875,40 @@ msgid ""
 "These powerful projectiles can blind their victims with a flash of light, as well as "
 "destroy Shadow enemies with ease."
 msgstr ""
+"Řád lukostřelkyň který stále zná tajemnství tvorby mystických Světelných Šípů. Tyto "
+"mocné projektily mohou oslepit své oběti zábleskem světla, a také také se snází "
+"zničit stínové nepřátele."
 
 #: simulation/templates/units/hylian/hylian_lightarrow_b.xml:70
 msgid ""
 "Princess Zelda's Unique Unit. Long range archer unit that deals magic Light damage as "
 "well as stuns enemies."
 msgstr ""
+"Jednotka kterou může verbovat pouze Princezna Zelda. Lukostřelecká jednotka s dlouhým "
+"dosahem působící světelné požkození a omračující schopností."
 
 #: simulation/templates/units/hylian/hylian_magecaptain_b.xml:49
 msgid "Mage Captain"
-msgstr ""
+msgstr "Magická Kapitánka"
 
 #: simulation/templates/units/hylian/hylian_magecaptain_b.xml:51
 msgid ""
 "Lana's most poweful and truested soldiers, she used these Captains to replace those of "
 "the Hylian army during her brief takeover of the Kingdom."
 msgstr ""
+"Laniny nejmocnější a nejloajálnější vojačky, tyto Kapitánky využila k náhradě těch z "
+"Hyliánské armády během jejího dočasného uchopení moci nad Královstvím."
 
 #: simulation/templates/units/hylian/hylian_magecaptain_b.xml:56
 msgid ""
 "Commander unit that can attack with magic from a distance so long as she has full "
 "health."
 msgstr ""
+"Velitelská jednozka  schopná útočit magií na dálku dokud má plné zdraví."
 
 #: simulation/templates/units/hylian/hylian_priestess_b.xml:14
 msgid "Goddess Priestess"
-msgstr ""
+msgstr "Kněžka"
 
 #: simulation/templates/units/hylian/hylian_redlion_b.xml:40
 msgid "Knight of the Red Lion"
@@ -5859,7 +5930,7 @@ msgstr ""
 #: simulation/templates/units/hylian/hylian_scorpio_b.xml:54
 #: simulation/templates/units/hylian/hylian_scorpio_garrison.xml:54
 msgid "Scorpio"
-msgstr ""
+msgstr "Škorpión"
 
 #: simulation/templates/units/hylian/hylian_scorpio_b.xml:55
 #: simulation/templates/units/hylian/hylian_scorpio_garrison.xml:55
@@ -5869,6 +5940,9 @@ msgid ""
 "force that they can impale almost a dozen men at a time and pierce all but the "
 "strongest of gates."
 msgstr ""
+"Tyto vynalézavé stroje jsou nabity zásobníkem velkých šipek a rychle vypáleny na "
+"nepřátelské formace. Jejich šipky jsou vypáleny s takovou silou že dokážou probodnout "
+"skoro tucet chlapů zaráz a prorazit všechno kromě nejsilnějších bran."
 
 #: simulation/templates/units/hylian/hylian_scorpio_b.xml:58
 #: simulation/templates/units/hylian/hylian_scorpio_garrison.xml:58
@@ -5876,14 +5950,16 @@ msgid ""
 "Large and slow moving ranged unit that deals Piercing linear Splash Damage. Takes a few"
 " moments to unpack and repack."
 msgstr ""
+"Velká a pomalá střelecká jednotka která působí průrazné plošné požkození. Chvilku trvá "
+"než se vypalí a zabalí."
 
 #: simulation/templates/units/hylian/hylian_scout_cavalry.xml:33
 msgid "Scout Cavalry"
-msgstr ""
+msgstr "Průzkumné Jezdectvo"
 
 #: simulation/templates/units/hylian/hylian_siegeram_b.xml:35
 msgid "Siege Ram"
-msgstr ""
+msgstr "Obléhací Beranidlo"
 
 #: simulation/templates/units/hylian/hylian_siegeram_b.xml:36
 msgid ""
@@ -5891,56 +5967,59 @@ msgid ""
 "battering rams to break down walls and storm their targets. Their Siege Rams were "
 "capped and could protect its crew from projectiles."
 msgstr ""
+"Pokud čekání na nepřátele neneslo ovoce, Hyliánci se často obrátili ke svým beranidlům "
+"aby zničili zdi a porazili své cíle. Tyto Obléhací Beranidla byly opevněné a schopné "
+"ochránit svoji posádku od projektilů."
 
 #: simulation/templates/units/hylian/hylian_siegeram_b.xml:39
 msgid "Close combar Siege unit that can batter down enemy structures."
-msgstr ""
+msgstr "Obléhací stroj na blízko schopný rozdrtit nepřátelské budovy."
 
 #: simulation/templates/units/hylian/hylian_soldier_archer.xml:41
 msgid "Soldier Archer"
-msgstr ""
+msgstr "Vojenský Lukostřelec"
 
 #: simulation/templates/units/hylian/hylian_soldier_cavalry.xml:24
 msgid "Soldier Cavalry"
-msgstr ""
+msgstr "Vojenské Jezdectvo"
 
 #: simulation/templates/units/hylian/hylian_soldier_cavalry.xml:29
 msgid "Medium armored cavalry unit armed with a mace."
-msgstr ""
+msgstr "Středně obrněná jezdecká jednotka ozbrojena palcátem."
 
 #: simulation/templates/units/hylian/hylian_soldier_maceman.xml:20
 msgid "Soldier Maceman"
-msgstr ""
+msgstr "Vojenský Palcátník"
 
 #: simulation/templates/units/hylian/hylian_soldier_maceman.xml:24
 msgid "Medium unit armed with a mace and shield. Deals Crushing damage."
-msgstr ""
+msgstr "Středně obrněná jednotka ozbrojená palcátem a štítem. Působí drtící požkození."
 
 #: simulation/templates/units/hylian/hylian_soldier_spearman.xml:39
 msgid "Soldier Spearman"
-msgstr ""
+msgstr "Vojenský Kopiník"
 
 #: simulation/templates/units/hylian/hylian_soldier_spearman.xml:43
 msgid "Medium unit armed with a spear and shield. Deals Piercing damage."
-msgstr ""
+msgstr "Středně obrnění jednotka ozbrojená kopím a štítem. Působí drtící požkození."
 
 #: simulation/templates/units/hylian/hylian_soldier_swordsman.xml:24
 msgid "Soldier Swordsman"
-msgstr ""
+msgstr "Vojenský Šermíř"
 
 #: simulation/templates/units/hylian/hylian_soldier_swordsman.xml:28
 msgid "Medium unit armed with a sword and shield. Deals Hacking damage."
-msgstr ""
+msgstr "Středně obrněná jednotka ozbrojená mečem a štítem. Působí drtící požkození."
 
 #: simulation/templates/units/hylian/hylian_titan_fi.xml:12
 #: simulation/templates/units/moblin/moblin_hero_ghirahim.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Spirit Swords"
-msgstr ""
+msgstr "Spektrální Meče"
 
 #: simulation/templates/units/hylian/hylian_titan_fi.xml:61
 msgid "Spirit of the Master Sword"
-msgstr ""
+msgstr "Duše Meče Pánů"
 
 #: simulation/templates/units/hylian/hylian_titan_fi.xml:62
 msgid ""
@@ -5948,24 +6027,26 @@ msgid ""
 " Now freed from her prison, Fi exhibits tremendous power, and can bring animated swords"
 " against enemies of the Kingdom."
 msgstr ""
+"Mocná duše svázána proti své vůli v Meči Pánů. Osvobozena z jejího vězení, Fi projevuje "
+"ohromnou sílu, a a přináší spektrální meče proti nepřátelům Království. "
 
 #: simulation/templates/units/hylian/hylian_titan_fi.xml:65
 msgid "Fi"
-msgstr ""
+msgstr "Fi"
 
 #: simulation/templates/units/hylian/hylian_titan_fi.xml:66
 msgid "Hylian Titan unit. Fast moving spirit that attacks enemies with animated swords."
-msgstr ""
+msgstr "Mýtická jednotka Hyliánců. Rychlá duše která útočí na své nepřátele spektrálnímí meči."
 
 #: simulation/templates/units/hylian/hylian_trebuchet.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Hurled Stone"
-msgstr ""
+msgstr "Vržený Kámen"
 
 #: simulation/templates/units/hylian/hylian_trebuchet.xml:54
 #: simulation/templates/units/hylian/hylian_trebuchet_common.xml:52
 msgid "Trebuchet"
-msgstr ""
+msgstr "Trebuchet"
 
 #: simulation/templates/units/hylian/hylian_trebuchet.xml:55
 msgid ""
@@ -5975,11 +6056,15 @@ msgid ""
 "the impact of these projectiles will usually crushed or burned in the resulting "
 "shockwave."
 msgstr ""
+"Tyto tyčící se obléhací zbraně jsou nasazeny Hyliánským Královstvím během invazí "
+"nepřátelských měst. Umí vrhat obří hořící balvany s nesmírnou silou, a zrazit "
+"nejodolnější opevnění. Jakýkoliv nepřátelský voják který se nešťastně ocitne blízko "
+"místa dopadu těchto projektilů je většinou rozdrcen nebo spálen ve výsledném vůbuchu. "
 
 #: simulation/templates/units/hylian/hylian_trebuchet.xml:57
 #: simulation/templates/units/hylian/hylian_trebuchet_common.xml:56
 msgid "Powerful and long ranged siege unit. Must take several moments to pack and unpack."
-msgstr ""
+msgstr "Mocná dalekostřelná obléhací jednotka. Tvrá několik chvil než se vybalí a zabalí."
 
 #: simulation/templates/units/hylian/hylian_trebuchet_common.xml:53
 msgid ""
@@ -5989,6 +6074,10 @@ msgid ""
 "the impact of these projectiles will usually be crushed or burned in the resulting "
 "shockwave."
 msgstr ""
+"Tyto tyčící se obléhací zbraně jsou nasazeny Hyliánským Královstvím během invazí "
+"nepřátelských měst. Umí vrhat obří hořící balvany s nesmírnou silou, a zrazit "
+"nejodolnější opevnění. Jakýkoliv nepřátelský voják který se nešťastně ocitne blízko "
+"místa dopadu těchto projektilů je většinou rozdrcen nebo spálen ve výsledném vůbuchu. "
 
 #: simulation/templates/units/hylian/hylian_vanguard_b.xml:43
 #: simulation/templates/units/lizalfos/lizalfos_matron_b.xml:30
@@ -6001,10 +6090,13 @@ msgid ""
 " into the hands of the Kingdom's enemies. Armed with a powerful mace, these warriors "
 "may be slow, but they can smash through most armor, and are quite durable themselves."
 msgstr ""
+"Řád kněží-válečníků založen samotným Raurem aby strážili Trojmoc před padnutím do rukou "
+"nepřátel Království. Ozbrojeni mocným palcátem, tito válečníci jsou pomalí, ale mohou "
+"prorazit většinu brnění, a sami jsou poměrně odolní."
 
 #: simulation/templates/units/hylian/hylian_vanguard_b.xml:50
 msgid "Triforce Vanguard"
-msgstr ""
+msgstr "Předvoj Trojmoci"
 
 #: simulation/templates/units/hylian/hylian_vanguard_b.xml:51
 msgid ""
@@ -6012,18 +6104,21 @@ msgid ""
 "resistance to all forms of Magic damage, and is immune to knockback and gains bonus "
 "armor when in friendly territory."
 msgstr ""
+"Jednotka kterou může trénovat pouze Rauru. Pomalá pěší jednotka ozbrojená palcátem. "
+"Má velkou odolnost proti všem formám magického požkození, je imunní proti odrážení, "
+"a má bonusové brnění v přátelském teritoriu.
 
 #: simulation/templates/units/hylian/malkariko_crossbowman_b.xml:3
 msgid "Malkariko Crossbowman"
-msgstr ""
+msgstr "Malkarský Lučištník z Kuše"
 
 #: simulation/templates/units/hylian/malkariko_knightofhyrule_b.xml:3
 msgid "Knight of Malkariko"
-msgstr ""
+msgstr "Rytíř Malkarský"
 
 #: simulation/templates/units/hylian/malkariko_town_guard_b.xml:3
 msgid "Malkariko Town Guard"
-msgstr ""
+msgstr "Malkarský Strážce"
 
 #: simulation/templates/units/hylian_trader_b.xml:14
 msgid "Merchant"
