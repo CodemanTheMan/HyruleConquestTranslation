@@ -6904,7 +6904,7 @@ msgstr ""
 
 #: simulation/templates/units/labrynna/labrynna_aquadongo_b.xml:37
 msgid "Aquadongo"
-msgstr ""
+msgstr "Akvadongo"
 
 #: simulation/templates/units/labrynna/labrynna_aquadongo_b.xml:38
 msgid ""
@@ -6914,14 +6914,18 @@ msgid ""
 "occasionally used Aquadongos to traverse dangerous oceans and attack enemies near "
 "bodies of water."
 msgstr ""
+"Vodní plaz domorodý na Půlměsíčním ostrově, Labrynna původně přivezla tyto tvory "
+"na pevninu jako exotické atrakce do zoo. S dostačující domestikací, těmto bestiím "
+"mohou být dány rozkazy a sloužit jako hlídací zvíře. Království občas využívalo "
+"Akvadongy k překračování nebezpečných oceánů a k útoku na nepřátele z vody."
 
 #: simulation/templates/units/labrynna/labrynna_aquadongo_b.xml:42
 msgid "Melee Creature unit that can swim across any body of water."
-msgstr ""
+msgstr "Na blízko bojující tvor který umí plavat přes jakékoliv vody."
 
 #: simulation/templates/units/labrynna/labrynna_blainoboxer_b.xml:40
 msgid "Blaino Boxer"
-msgstr ""
+msgstr "Blénský Boxer"
 
 #: simulation/templates/units/labrynna/labrynna_blainoboxer_b.xml:41
 msgid ""
@@ -6930,14 +6934,17 @@ msgid ""
 "at times use these strange beasts to beat up enemy forces with their vicious punches "
 "and kicks"
 msgstr ""
+"Exotický tvor z dalekého východu, Blénové byla přezdívka pro tyto nepřátelské netvory "
+"které si začínali bitky s kýmkoliv. Labrynna občas používala tyto zvláštní bestie k "
+"mlácení nepřátelských sil svými brutálními ranami a kopy."
 
 #: simulation/templates/units/labrynna/labrynna_blainoboxer_b.xml:45
 msgid "Very fast moving Creature unit that beats up enemies with its fists."
-msgstr ""
+msgstr "Velice rychlý tvor který mlátí nepřátele svými pěstmi."
 
 #: simulation/templates/units/labrynna/labrynna_bluecaballero_b.xml:40
 msgid "Blue Caballerro"
-msgstr ""
+msgstr "Modrý Kabaléro"
 
 #: simulation/templates/units/labrynna/labrynna_bluecaballero_b.xml:41
 msgid ""
@@ -6946,14 +6953,18 @@ msgid ""
 "horses in their homelands. While the rider poses little threat, enemy soldiers were "
 "rightfully more worried about being mauled by the bear itself."
 msgstr ""
+"Posazeni na modrých medvědech z výšin mezi Labrynnou a Holodrumí, Modří Kabaléři plnili "
+"jezdeckou mezeru kterou Labrynna po staletí měla kvůli absenci koní v jejích domovinách. "
+"Zatímco jezdec není moc nebezpečný, nepřátelští vojáci se oprávněně více báli být "
+"roztrhání samotným medvědem."
 
 #: simulation/templates/units/labrynna/labrynna_bluecaballero_b.xml:46
 msgid "Aggresive Melee Cavalry unit that can maul enemies with their claws."
-msgstr ""
+msgstr "Agresivní jezdecká jednotka schopna roztrhat nepřátele svými drápy."
 
 #: simulation/templates/units/labrynna/labrynna_borderguard_b.xml:42
 msgid "Borderguard"
-msgstr ""
+msgstr "Hraničář"
 
 #: simulation/templates/units/labrynna/labrynna_borderguard_b.xml:43
 msgid ""
@@ -6962,14 +6973,18 @@ msgid ""
 "Armed with a Crossbow these sentinels could ambush and delay invaders long enough to "
 "warn the Empire of their intrusion."
 msgstr ""
+"Na okraji teritoria království, mnohé strážní věže a pevnosti byly postaveny po okolí. "
+"Hraničáři byli nasazeni do takových píst aby bránili proti vetřelcům. Vyzbrojeni kuší, "
+"tito strážci mohli přepadnout a zpomalit vetřelce dost dlouho aby varovali Království "
+"před vniknutím."
 
 #: simulation/templates/units/labrynna/labrynna_borderguard_b.xml:47
 msgid "Ranged Missile unit armed with an armor piercing crossbow."
-msgstr ""
+msgstr "Střelecká jednotka ozbrojeny brněním-průraznou kuší."
 
 #: simulation/templates/units/labrynna/labrynna_brigada_b.xml:39
 msgid "Brigada"
-msgstr ""
+msgstr "Brigáda"
 
 #: simulation/templates/units/labrynna/labrynna_brigada_b.xml:40
 msgid ""
@@ -6977,20 +6992,23 @@ msgid ""
 "Labrynna's multiple fronts, answering only to the Queen herself. Brigadas had years of "
 "academic training, as well as personal experience in multiple skirmishes and campaigns."
 msgstr ""
+"Nosící masku zlatého Lvynela, Brigády byli vrchní velitelé na několika frontách "
+"Labrynna, odpovídající jen samotné Královně. Brigády měli roky akademického tréninku, "
+"a také osobní zkušenost v několika šarvátkách a kampaních."
 
 #: simulation/templates/units/labrynna/labrynna_brigada_b.xml:44
 msgid "Labrynnian Commander unit who leads other soldiers into battle."
-msgstr ""
+msgstr "Labrynnská velitelská jednotka která vede ostatní vojáky do bitvy."
 
 #: simulation/templates/units/labrynna/labrynna_campeador_b.xml:4
 #: simulation/templates/units/zora/zora_halberdier_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Halberd"
-msgstr ""
+msgstr "Halapartna"
 
 #: simulation/templates/units/labrynna/labrynna_campeador_b.xml:34
 msgid "Campeador"
-msgstr ""
+msgstr "Campeador"
 
 #: simulation/templates/units/labrynna/labrynna_campeador_b.xml:36
 msgid ""
@@ -7002,12 +7020,19 @@ msgid ""
 "Blue Bear; personally killing one of these beasts is a requirement to enter into their "
 "order."
 msgstr ""
+"Rytíři kteří se shromáždili v řád někdy kolem tvorby Labrynnského Království, jsou jedna "
+"z mála skupin která zůstává trochu samostatná od Království. Nejsou však nad plat, "
+"a koruna je více než ochotná naplnit svoji armádu těmito rytíři za cenu jídla a rupií. "
+"Campeadoři jsou známí pro svoje halapartny a zlaté medvědí masky a kožichy z modrého "
+"medvěda; osobně zabít jednoho z těchto medvědů je předpoklad na přijetí do jejich řádu. "
 
 #: simulation/templates/units/labrynna/labrynna_campeador_b.xml:41
 msgid ""
 "Edgar the Giant's Unique Unit. Strong Melee Knight armed with a halberd, excellent at "
 "fighting Creature units."
 msgstr ""
+"Jednotka kterou může verbovat pouze Obr Edgar. Silný pěší rytíř ozbrojen halapartnou, "
+"excelentní v boji s tvory."
 
 #: simulation/templates/units/labrynna/labrynna_cannon.xml:4
 #: simulation/templates/units/labrynna/labrynna_cannon_common.xml:4
@@ -7016,12 +7041,12 @@ msgstr ""
 #: simulation/templates/units/ordona/ordona_theresistance_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Cannonball"
-msgstr ""
+msgstr "Dělová Koule"
 
 #: simulation/templates/units/labrynna/labrynna_cannon.xml:61
 #: simulation/templates/units/labrynna/labrynna_cannon_common.xml:62
 msgid "Cannon"
-msgstr ""
+msgstr "Dělo"
 
 #: simulation/templates/units/labrynna/labrynna_cannon.xml:62
 #: simulation/templates/units/labrynna/labrynna_cannon_common.xml:63
@@ -7030,22 +7055,25 @@ msgid ""
 "time. They easily outmatched many other conventional siege engines found in Hyrule, and"
 " could tear apart walls and buildings with ease."
 msgstr ""
+"Tyto mocné děla z Labrynna jsou nekteré z nejsmrtelnějších obléhacích zbraní jejich "
+"času. Se snází předčily mnoho jiných konvenčních obléhacích strojů světa, a mohly bez "
+"problémů roztrhat zdi a budovy."
 
 #: simulation/templates/units/labrynna/labrynna_cannon.xml:64
 #: simulation/templates/units/labrynna/labrynna_cannon_common.xml:65
 msgid "Extremely powerful and long ranged Siege weapon."
-msgstr ""
+msgstr "Extrémně silná a dlouho dosahující obléhací zbraň."
 
 #: simulation/templates/units/labrynna/labrynna_conqueror_b.xml:4
 #: simulation/templates/units/labrynna/labrynna_hero_ralph.xml:4
 #: simulation/templates/units/labrynna/labrynna_pioneer_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Bullets"
-msgstr ""
+msgstr "Kulky"
 
 #: simulation/templates/units/labrynna/labrynna_conqueror_b.xml:42
 msgid "Conqueror"
-msgstr ""
+msgstr "Dobyvatel"
 
 #: simulation/templates/units/labrynna/labrynna_conqueror_b.xml:43
 msgid ""
@@ -7054,10 +7082,13 @@ msgid ""
 " Conquerors could devastate enemies with volleys of gunfire and then engage in a melee "
 "when things became hectic. "
 msgstr ""
+"Nosící masky zuřivých Lvynelů, Dobyvatelé byli primární pěší vojáci Království a "
+"instrumentální k jejich rapidní expanzi. Vyzbrojení puškou a rapírem, Dobyvatelé mohli "
+"devastovat nepřátele salvami kulek a potom bojovat na blízko když se situace stala hektickou. "
 
 #: simulation/templates/units/labrynna/labrynna_conqueror_b.xml:47
 msgid "Powerful Missile unit that can puncture many armors with their gunpowder rifles. "
-msgstr ""
+msgstr "Mocná střelná jednotka schopna prorazit brněním svými puškami."
 
 #: simulation/templates/units/labrynna/labrynna_guerrilla_b.xml:26
 msgid "Tokay Guerrilla"
@@ -7079,7 +7110,7 @@ msgstr ""
 
 #: simulation/templates/units/labrynna/labrynna_handcannon_b.xml:66
 msgid "Hand Cannoneer"
-msgstr ""
+msgstr "Ruční Dělostřelec"
 
 #: simulation/templates/units/labrynna/labrynna_handcannon_b.xml:67
 msgid ""
@@ -7088,14 +7119,18 @@ msgid ""
 "barrage of volley fire often did enough damage to enemy morale to send half their army "
 "into retreat."
 msgstr ""
+"Nesoucí mohutné a silné ruční dělo, tito těžcí střelci mohli bombardovat příchozí "
+"armády svými výbušnými koulemi. Přestože byli spíše nepřesní, velký příval salev "
+"často způsobil dost škody nepřátelské morálce k tomu aby poslal polovinu armády na "
+"ústup."
 
 #: simulation/templates/units/labrynna/labrynna_handcannon_b.xml:70
 msgid "Long ranged Missile unit armed with an explosive portable cannon."
-msgstr ""
+msgstr "Dlouho dosahující střelná jednotka ozbrojena výbušným ručním dělem."
 
 #: simulation/templates/units/labrynna/labrynna_hero_ambi.xml:35
 msgid "Queen of Labrynna"
-msgstr ""
+msgstr "Královna Labrynnská"
 
 #: simulation/templates/units/labrynna/labrynna_hero_ambi.xml:37
 msgid ""
@@ -7108,18 +7143,25 @@ msgid ""
 " depression seemed to overcome her, as well as a great sense of impatience for "
 "everything."
 msgstr ""
+"Nejnovější členka dlouhodobé dynastie Ambi, Královna Solado Ambi byla posazena na "
+"trůn nedlouho po smrti svého otce. Později za své vlády potkala Veran, kterou rychle "
+"udělala svou osobní rádkyní. Brzy potom Ambi započala nový věk expanze a formálně "
+"založila nové Království. Královna Ambi byla známa jako milosrdná a šetrná odoba za "
+"první část její vlády nad Labrynnou. Brzy po příchodu Veran do jejího dvora však začala "
+"Ambina povaha degenerovat. Začaly ji přemáhat záchvaty deprese, a také netrpělivost pro "
+"všechno."
 
 #: simulation/templates/units/labrynna/labrynna_hero_ambi.xml:41
 msgid "Solado Ambi"
-msgstr ""
+msgstr "Soladi Ambi"
 
 #: simulation/templates/units/labrynna/labrynna_hero_ambi.xml:42
 msgid "Commanding Hero unit who augments her soldiers with powerful abilities."
-msgstr ""
+msgstr "Velitelská hrdinka která vylepšuje své vojáky mocnými schopnostmi."
 
 #: simulation/templates/units/labrynna/labrynna_hero_edgar.xml:60
 msgid "Giant of Labrynna"
-msgstr ""
+msgstr "Obr Labrynnský"
 
 #: simulation/templates/units/labrynna/labrynna_hero_edgar.xml:62
 msgid ""
@@ -7131,25 +7173,31 @@ msgid ""
 "young and arrogant Ralph on behalf of the Queen just as much as he has been ordered to "
 "march out further north."
 msgstr ""
+"Muž tyčící se výšky, Edgar si vysloužil své jméno pro svoji velikost a neuvěřitelnou "
+"sílu. Své místo jako generál si ale vysloužil ne svojí fyzičkou, ale svou bitevní "
+"strategií. Původně Domobrance v Labrynně, expanze Království ho vedla k velení vojákům "
+"na předních liniích, a místo boje s Lvynely se zasloužil o jejich porážku. V nedávných "
+"časech dohlíží nad mladým a arogantním Ralfem jménem Královny tak moc jako byl nucen "
+"pochodovat na sever."
 
 #: simulation/templates/units/labrynna/labrynna_hero_edgar.xml:66
 msgid "Edgar"
-msgstr ""
+msgstr "Edgar"
 
 #: simulation/templates/units/labrynna/labrynna_hero_edgar.xml:67
 msgid "Towering Melee Hero armed with a long reaching glaive."
-msgstr ""
+msgstr "Tyčící se pěší hrdina ozbrojen velmi dlouhou glévou."
 
 #: simulation/templates/units/labrynna/labrynna_hero_onox.xml:4
 #: simulation/templates/units/lizalfos/lizalfos_darkhammer_b.xml:4
 #: simulation/templates/units/moblin/moblin_gooma_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Ball and Chain"
-msgstr ""
+msgstr "Koule a Řetěz"
 
 #: simulation/templates/units/labrynna/labrynna_hero_onox.xml:56
 msgid "General of Darkness"
-msgstr ""
+msgstr "Generál Temnoty"
 
 #: simulation/templates/units/labrynna/labrynna_hero_onox.xml:58
 msgid ""
@@ -7158,18 +7206,22 @@ msgid ""
 "wearing a near invulnerable suit of armor into battle, Onox's presence alone is "
 "sometimes enough to bring about a surrender."
 msgstr ""
+"Temný Drak povolán Veran, Čarodějka Stínů posílá Generála Onoxe na mise považované za "
+"moc nebezpečné pro jakéhokoliv běžného Labrynnce. Nesoucí mohutný řemdich a nosící "
+"skoro neprorazitelné brnění do bitvy, Onoxova přítomnost samotná je často dost aby "
+"přivedla kapitulaci."
 
 #: simulation/templates/units/labrynna/labrynna_hero_onox.xml:63
 msgid "Onox"
-msgstr ""
+msgstr "Onox"
 
 #: simulation/templates/units/labrynna/labrynna_hero_onox.xml:64
 msgid "Powerful Siege Hero with a huge Flail."
-msgstr ""
+msgstr "Mocný obléhací hrdina s obřím řemdichem."
 
 #: simulation/templates/units/labrynna/labrynna_hero_ralph.xml:52
 msgid "Prince of Labrynna"
-msgstr ""
+msgstr "Princ Labrynnský"
 
 #: simulation/templates/units/labrynna/labrynna_hero_ralph.xml:54
 msgid ""
@@ -7181,18 +7233,24 @@ msgid ""
 "supernatural, in particular he hopes to uncover the mythical Fairies and ancient "
 "creatures that once coexisted in his homeland."
 msgstr ""
+"Vnuk Královny Ambi, Ralfonso byl nrozen do první generace která žila za nového "
+"Labrynnského Království. Stroje jsou pro něj druhou přirozeností, a roky vzdělání "
+"mu přinesly stáž ve velení pluku děl. Přestože Ralf očividně obdivuje technologickou "
+"revoluci Labrynny, cítí že Labrynna upadá a že jí něco chybí. Začal vyhledávat "
+"nadpřirozené, a zejména se snaží odtajit mýtické Víly a starověké tvory kteří kdysi "
+"koexistovali v jeho domovině."
 
 #: simulation/templates/units/labrynna/labrynna_hero_ralph.xml:58
 msgid "Ralphonso Ambi"
-msgstr ""
+msgstr "Ralfonso Ambi"
 
 #: simulation/templates/units/labrynna/labrynna_hero_ralph.xml:59
 msgid "Missile Hero unit that attacks with a long ranged pistol."
-msgstr ""
+msgstr "Střelný hrdina který útočí pistolí s dlouhým dosahem."
 
 #: simulation/templates/units/labrynna/labrynna_hero_veran.xml:60
 msgid "Sorceress of Shadows"
-msgstr ""
+msgstr "Čarodějka Stínů"
 
 #: simulation/templates/units/labrynna/labrynna_hero_veran.xml:62
 msgid ""
@@ -7206,18 +7264,27 @@ msgid ""
 " structure designed to serve as the new throne of Queen Ambi. Some suspect there’s more"
 " to the tower’s purpose than just an ego trip for Veran’s royal friend, however."
 msgstr ""
+"Tajemnstvím všem a v Labrynně, i těm co jí mají blízko, Veranina minulost je hrozná "
+"sága osobní ztráty a traumatu. Kdysi Velká Víla, okolnosti v její minulosti vedly k "
+"jejímu vyhnanství do Říše Soumraku s jinými kriminálními živly jejího lidu. Někdy kolem "
+"Gerudských Válek se dokázala navrátit do světa, a utelka daleko na východ do Labrynny "
+"kde slídila a stala se kamarádkou Královny Ambi. V přítomnosti je Veranin plán neznámý. "
+"Je ale očividně spojena s rapidním a extrémním armádním růstem Labrynny. Je architektka "
+"Černé věže, masivní monolitické struktury navržené jako nový trůn pro Královnu Ambi. "
+"Nekteří se ale domnívají věž má větší účel než sloužit jako vyvýšení ega Veraniny "
+"kamarádky."
 
 #: simulation/templates/units/labrynna/labrynna_hero_veran.xml:66
 msgid "Veran"
-msgstr ""
+msgstr "Veran"
 
 #: simulation/templates/units/labrynna/labrynna_hero_veran.xml:67
 msgid "Tall and slow moving Melee Hero with a powerful Splash Damage whip."
-msgstr ""
+msgstr "Vysoká pomalá hrdinka s mocným plošným bičem."
 
 #: simulation/templates/units/labrynna/labrynna_hero_vire.xml:42
 msgid "Minion of Veran"
-msgstr ""
+msgstr "Poskok Veranin"
 
 #: simulation/templates/units/labrynna/labrynna_hero_vire.xml:44
 msgid ""
@@ -7227,18 +7294,22 @@ msgid ""
 "prank than actually hurt someone, when threatened or ordered to kill he is more than "
 "capable of incinerating a victim with fireballs from his throat."
 msgstr ""
+"Vejr je tajemná, skřetí příšera která vykonává rozkazy Veran. Málo ví co skutečně "
+"obnášejí jeho mise, které bestie vykonává se stínech a temnotě. Přestože je Vejr "
+"povahou trochu šašek a častěji provede šprým než by někoho zranil, pokud ohrožen nebo "
+"rozkázán k zabití je více než schopný spálit obět na popel ohnivými koulemi z jeho krku. "
 
 #: simulation/templates/units/labrynna/labrynna_hero_vire.xml:49
 msgid "Vire"
-msgstr ""
+msgstr "Vejr"
 
 #: simulation/templates/units/labrynna/labrynna_hero_vire.xml:50
 msgid "Secondary Hero unit that attacks with magical fireballs from a distance"
-msgstr ""
+msgstr "Létající hrdina který útočí magickými ohnivými koulemi z dáli."
 
 #: simulation/templates/units/labrynna/labrynna_homeguard_b.xml:36
 msgid "Homeguard"
-msgstr ""
+msgstr "Domobranec"
 
 #: simulation/templates/units/labrynna/labrynna_homeguard_b.xml:37
 msgid ""
@@ -7247,20 +7318,24 @@ msgid ""
 "when a city came under siege. Armed with a mace and shield, they could pound a hostile "
 "into submission, especially when in squads."
 msgstr ""
+"Domobranci slouží jako policisté a vynucovatelé zákona v Labrynnských městech. Přestože "
+"byli tradičně nesmrtící síla, byli často první linie obrany pokud se město ocitlo pod "
+"útokem. Vyzbrojeni palcátem a štítem, byli schopni zmlátit nepřítele do podání, "
+"především v četách."
 
 #: simulation/templates/units/labrynna/labrynna_homeguard_b.xml:41
 msgid "Light defensive Melee unit equiped with a mace and shield."
-msgstr ""
+msgstr "Lehká pěší obranná jednotka vyzbrojena palcátem a štítem."
 
 #: simulation/templates/units/labrynna/labrynna_lynnapike_b.xml:4
 #: simulation/templates/units/labrynna/labrynna_lynnapike_upg.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Pike"
-msgstr ""
+msgstr "Kopí"
 
 #: simulation/templates/units/labrynna/labrynna_lynnapike_b.xml:33
 msgid "Lynna Pike"
-msgstr ""
+msgstr "Lynnský Kopiník"
 
 #: simulation/templates/units/labrynna/labrynna_lynnapike_b.xml:34
 msgid ""
@@ -7269,7 +7344,10 @@ msgid ""
 "operating out of Lynna city, the Pikeman bring their pole arms to the fight to hold "
 "enemy cavalry at bay."
 msgstr ""
-
+"
+Nosící masku helmových brouků z Kymácejících hřbetů, tito muži a ženy zasvětili své "
+"životy zajišťováním že není ztracena žádná půda nepřátelům státu. Nyní operující z "
+"Lynny, Kopiníci přinášejí svá kopí do boje aby udrželi nepřátelské jezdectvo na uzdě."
 #: simulation/templates/units/labrynna/labrynna_lynnapike_b.xml:38
 msgid "Melee unit with a very far reaching pike."
 msgstr ""
