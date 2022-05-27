@@ -822,7 +822,7 @@ msgstr "Ehrfahrene Krieger und noch Ehrfahrerne Lehrmeister, Dux waren Kommandan
 msgid ""
 "Commander unit that leads fellow soldiers into battle and improves their rate of "
 "gaining experience."
-msgstr "Kommandanten einheit die Soldaten in den Kampf führt ihren Ehrfahrungsgewinn steigert "
+msgstr "Kommandanten Einheit die Soldaten in den Kampf führt ihren Ehrfahrungsgewinn steigert "
 
 #: simulation/templates/units/darknut/darknut_dux_b.xml:64
 #: simulation/templates/units/darknut/darknut_idolthrone_b.xml:39
@@ -1084,7 +1084,7 @@ msgstr "Yaraxonal"
 
 #: simulation/templates/units/darknut/darknut_hero_yaraxonal.xml:65
 msgid "Large and fast Melee Hero who can attack multiple enemies with her twin khopesh."
-msgstr ""
+msgstr "Große und schnelle Nahkämpferin die merehre Gegner gleichzeitig mit ihren zwei Chepschen angreifen kann."
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:4
 #: simulation/templates/units/gerudo/gerudo_ironknuckle_b.xml:4
@@ -1102,11 +1102,11 @@ msgstr ""
 #: simulation/templates/units/ordona/ordona_roughrider_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Axe"
-msgstr ""
+msgstr "Axt"
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:62
 msgid "The God of Flesh"
-msgstr "Der Gott in Fleich und Blute"
+msgstr "Der Gott in Fleisch und Blute"
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:64
 msgid ""
@@ -1156,13 +1156,13 @@ msgid ""
 "their own breed of soldiers to the fray. The Fokka Hypaspist were extremely fast and "
 "could leap staggering distances. They were just as swift in a melee as well, swiping "
 "and countering enemy blows almost effortlessly."
-msgstr "Diese langenzeitigen Mitglieder der Legion die von der Nimbusgardenkultur assimilisiert wurden haben ihre eigene Brut an Soldaten beigesteuert. Die Fokka Hypapistes sind extrem schnell und können beeindruckende Distanzen überspringen. Im Nahkampf waren sie genauso gewandt, sowohl in ihren Hieben als auch im parieren gegnerischer Schläge nahezu mühelos"
+msgstr "Diese langjährigen Mitglieder der Legion die von der Nimbusgardenkultur assimilisiert wurden haben ihre eigene Brut an Soldaten beigesteuert. Die Fokka Hypapistes sind extrem schnell und können beeindruckende Distanzen überspringen. Im Nahkampf waren sie genauso gewandt, sowohl in ihren Hieben als auch im parieren gegnerischer Schläge nahezu mühelos"
 
 #: simulation/templates/units/darknut/darknut_hypaspist_b.xml:38
 msgid ""
 "Very fast moving Infantry unit that can leap huge distances to attack enemies with "
 "their swords."
-msgstr "Sehr schnell umherbewegende Infanterie die große Distanzen springen kann und Feinde mit ihren Schwertern angreift"
+msgstr "Sehr schnelle Infanterie die große Distanzen springen kann und Feinde mit ihren Schwertern angreift"
 
 #: simulation/templates/units/darknut/darknut_hypaspist_mighty.xml:19
 msgid "Mighty Fokka Hypaspist"
@@ -1181,24 +1181,24 @@ msgid ""
 "A seat of power for the most idolized heroes of the Legion, these giant thrones are "
 "carried around the warzone by a horde of zealous Fanatics. Like living gods on earth, "
 "soldiers of the Legion are inspired into bravery and a frenzy by their presense."
-msgstr ""
+msgstr "Ein Sitz der Macht für die am höchsten vergötterten Helden der Legion. Diese Riesigen Thröne werden in Kriegsgebieten von einer Horde eifriger Fanatiker herumgetragen. Angespornt durch ihre bloße Anwesenheit, kämpfen die Soldaten mit einem Mut und einer Raserei als ob die leibhaftigen Götter auf der Erde wandeln würden
 
 #: simulation/templates/units/darknut/darknut_idolthrone_b.xml:38
 msgid ""
 "Powerful Support Commander that dramatically increases the performance of all Darknuts,"
 " but creates negative effects when slain."
-msgstr ""
+msgstr "Mächtige Unterstützungseinheit die die Leistung aller Nimbusgarden verbessert aber negative Effekte erzeugt falls sie gefällt wird"
 
 #: simulation/templates/units/darknut/darknut_immortal_b.xml:4
 #: simulation/templates/units/labrynna/labrynna_hero_vire.xml:4
 #: simulation/templates/units/stalfos/stalfos_hero_irene.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fireball"
-msgstr ""
+msgstr "Feuerball"
 
 #: simulation/templates/units/darknut/darknut_immortal_b.xml:48
 msgid "Immortal"
-msgstr ""
+msgstr "Unsterbliche"
 
 #: simulation/templates/units/darknut/darknut_immortal_b.xml:49
 msgid ""
@@ -1207,7 +1207,7 @@ msgid ""
 "their doom in Darknut tombs, while a few fled into the depths of the Gerudo Desert. On "
 "rare occasions they show up in the Legion army, perhaps to earn a pardon by those in "
 "charge."
-msgstr ""
+msgstr "Einst geliebte und geschätzte Figuren in der Legion wurden diese Magier wurden eingesperrt und hingerichtet während Zalunbars Übernahme und seinem Verbot der Zauberei. Viele wurden bei lebendigen Leibe in ihren versiegelten Gräber gesperrt, während andere es schafften in die Gerudo Wüste zu fliehen. Zu seltenen Anlässen erscheinen sie in der Armee der Legion um sich die Gnade derer zu verdienen die Kontrolle sind"
 
 #: simulation/templates/units/darknut/darknut_immortal_b.xml:53
 msgid "Hovering Mage unit that attacks her enemies with fireballs from a distance."
