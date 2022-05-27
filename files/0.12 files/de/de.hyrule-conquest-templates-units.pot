@@ -947,7 +947,7 @@ msgid ""
 "outcasts. For years he has ravaged the desert with his fellow reavers; his ultimate "
 "goal is nothing short of taking the Darknut throne and replacing Zalunbar a﻿s the "
 "living god of the Legion."
-msgstr ""
+msgstr "Als ehemaliger Fanatiker des Zalunbar floh Alros in die Gerudo Wüste nach dem Sturz seines Idols und ließ den Kodex der Legion hinter sich. Nach Jahrzehnten der Trauer, gewann er seine Entschlossenheit wieder und begann eine Armee an Söldnern und weiteren verstoßenen Nimbusgarden anzuhäufen. Seit jahren wütet er durch die Wüste mit seinen folgsamen Plünderern. Sein Ziel ist nichts geringeres als den Thron der Nimbusgarden und Zalunbar als lebende Gottheit der Legion zu ersetzen"
 
 #: simulation/templates/units/darknut/darknut_hero_alros.xml:64
 msgid "Alros"
@@ -1050,7 +1050,7 @@ msgid ""
 " name Senturon has been forgotten and the moniker of Black Knight has faded into "
 "legend. Still, there are some words spoken that this grim warrior still walks in the "
 "shadows of Hyrule and serves the Legion to this day."
-msgstr ""
+msgstr "Senturon diente als einer von Vaatis Vollstreckern während des antiken Zeitalters von Hyrule. Scheinbar unsterblich, Gerüchte, dass er von den Toten auferstehen konnte begannen zu brodeln. Nichtsdestotrotz führet er die Befehle der Legion gnadenlos aus und vertrieb das Volk des Windes vollständig aus Hyrule. Nach dreitausend jahren geriet der Name Senturon in Vergessenheit under Beinname Schwarzer Ritter ist nur noch eine Legende"
 
 #: simulation/templates/units/darknut/darknut_hero_senturon.xml:64
 msgid "Senturon"
@@ -1076,7 +1076,7 @@ msgid ""
 "of the desert winds and would use them against enemies of the Legion. Despite her power"
 " and veneration as a god, Yaraxonal was rather humble and was responsible for expanding"
 " the Legion through diplomacy and assimilation rather than conquest."
-msgstr ""
+msgstr "Yaraxonal war sowohl eine ehemalige Weise von Hyrule als auch eine Anführerin und Hauptgöttin der Nimbusgarden Legion bevor Zalunbar. Dem Volk unbekannt war ihre versteinerung durch Vaati und Zalunbar. Während sie dreitausend jahre aus dem Sinn entschwand, nutzte sie ihre Fähigkeiten als Weise um Hilfe zu erreichen. Als eine Weise von Hyrule war sie eine Ausnahme gegenüber des gesetzlichen Magieverbots der Legion. Sie befehligte die Wüstenwinde und nutzte sie gegen die Feinde der Legion. Trotz ihrer Macht und Verhehrung als Göttin, war Yaraxonal eher bescheiden und dar verantwortlich für den Expansionkurs der Legion über Diplomatie und Assimilation anstatt durch Eroberung"
 
 #: simulation/templates/units/darknut/darknut_hero_yaraxonal.xml:64
 msgid "Yaraxonal"
@@ -1116,7 +1116,7 @@ msgid ""
 "god. Zalunbar was utterly narcissistic and completely egocentric. Centuries of constant"
 " praise and worship has let his ego spiral completely out of control, and there are few"
 " who would dare question his godhood."
-msgstr ""
+msgstr "Ein mächtiger Nimbusgarden Krieger, Zalunbar wurde von seinen Leuten vergöttert und übernahm die Kontrolle der Legion vor nahezu dreitausend Jahren. Sein unnatürlich langes Leben undanscheinliche Unsterblichkeit enfachte eine tiefe Hingabe seines Volkes und überzeugte viele von seiner wahren Göttlichkeit. Zalunbar war vollkommen narzisstisch und absolut egozentrisch. Jahrhunderte von permanenten Lobpreisungen und Verehrung ließen sein Ego komplett ausser Kontrolle geraten, und es gibt kaum jemanden der es wagen würde seine Göttlichkeit in Frage zu stellen"
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:68
 msgid "Zalunbar"
@@ -1124,7 +1124,7 @@ msgstr "Zalunbar"
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:69
 msgid "Slow but powerful Melee Hero with heavy armor and powerful augmenting abilities."
-msgstr "Langsmer aber mächtiger Axtkämpfer mit schwerer Rüstung und mächtigen verbessernden Fähigkeiten "
+msgstr "Langsamer aber mächtiger Axtkämpfer mit schwerer Rüstung und mächtigen verbessernden Fähigkeiten "
 
 #: simulation/templates/units/darknut/darknut_hoplite_b.xml:39
 msgid "Hoplite"
@@ -1136,7 +1136,7 @@ msgid ""
 "oppossed to becoming a lifelong member of the Legion. Rather they served as city "
 "guards, national patrols, and emergency reinforcements to back up armies during "
 "wartime."
-msgstr "Nimbusgarden Hopliten waren niedrigrangige Soldaten die nur rudimentären training unterliefen im Gegensatz zum Lebenslangen Beitritt in die Legion. Stattdessen dienten sie als Stadtwachen, nationalen Pattroullien und Notfallverstärkung für Armeen während der Kriegszeit."
+msgstr "Nimbusgarden Hopliten waren niedrigrangige Soldaten die nur rudimentärem Training unterliefen im Gegensatz zum Lebenslangen Beitritt in die Legion. Stattdessen dienten sie als Stadtwachen, nationalen Pattroullien und Notfallverstärkung für Armeen während der Kriegszeit."
 
 #: simulation/templates/units/darknut/darknut_hoplite_b.xml:44
 msgid "Defensive Melee unit armed with a long spear."
@@ -1144,7 +1144,7 @@ msgstr "Defensiver Nahkämpfer mit einer langen Lanze bewaffnet"
 
 #: simulation/templates/units/darknut/darknut_hoplite_mighty.xml:25
 msgid "Mighty Hoplite"
-msgstr "Mächtiger hoplit"
+msgstr "Mächtiger Hoplit"
 
 #: simulation/templates/units/darknut/darknut_hypaspist_b.xml:33
 msgid "Fokka Hypaspist"
@@ -1276,7 +1276,7 @@ msgstr "Einst hochrangige Generäle in der Armee der Legion. Nach der Übernahme
 msgid ""
 "Senturon's Unique Unit. Powerful and heavily armored Melee unit that continues to fight"
 " as parts of its armor are damaged and broken."
-msgstr "Senturons Einzigartige Einheit. Mächtig und schwer gepanzerte Schwertkämpfer die weiterkämopft während ihre Panzerung nach und nach zerstört wird"
+msgstr "Senturons Einzigartige Einheit. Starke und schwer gepanzerte Schwertkämpfereinheit die weiterkämpft während ihre Panzerung nach und nach zerstört wird"
 
 #: simulation/templates/units/darknut/darknut_legatus_half.xml:106
 #: simulation/templates/units/darknut/darknut_legatus_low.xml:106
@@ -1298,7 +1298,7 @@ msgstr "Als das Aushängeschild der Nimbusgarden Armeen, vollstrecken die Legion
 
 #: simulation/templates/units/darknut/darknut_legionary_b.xml:59
 msgid "Powerful Melee unit in heavy armor."
-msgstr "Mächtiger schwergepanzerter Schwertkämpfer "
+msgstr "Starker schwergepanzerter Schwertkämpfer "
 
 #: simulation/templates/units/darknut/darknut_legionary_legendary.xml:43
 msgid "Legendary Legionary"
@@ -1322,7 +1322,7 @@ msgid ""
 "people. In more modern ages, they were the Legion’s favorite mercenaries. So often were"
 " Lynels hired and deployed with Legion forces that many of the Darknut’s enemies "
 "assumed they were members of the same empire."
-msgstr "Die berüchtigt brutalen  und blutrünstigen Leunen wurdden lange mit den Nimbusgarden in Verbinung gepracht. In modernen Zeiten sind sie die beliebtesten Söldner der Legion. Die Leunen wurden so oft angeheuert und zusammen mit Legionstruppen eingesetzt das viele Feinde der Legion sie als Teil des selben Reiches sahen"
+msgstr "Die berüchtigt brutalen und blutrünstigen Leunen wurdden lange mit den Nimbusgarden in Verbinung gepracht. In modernen Zeiten sind sie die beliebtesten Söldner der Legion. Die Leunen wurden so oft angeheuert und zusammen mit Legionstruppen eingesetzt das viele Feinde der Legion sie als Teil des selben Reiches sahen"
 
 #: simulation/templates/units/darknut/darknut_lynel_b.xml:38
 msgid "Powerful Cavalry unit armed with a sword and shield."
@@ -1398,11 +1398,11 @@ msgid ""
 "The spawn and servants of the demon Vaati, Patra serve as the eyes of those in power of"
 " the Legion. Despite their size, Patra are infamous for their ability to hide and "
 "strike at enemies from the shadows."
-msgstr ""
+msgstr "Ausgeburten und Diener des Dämon Vaatis dienen die Patras als Augen derer die das Sagen in der Legion haben. Trotz ihrer Größe, waren die Patra brüchtigt für ihre hinterhältigen Angriffe aus den Schatten heraus."
 
 #: simulation/templates/units/darknut/darknut_patra_b.xml:41
 msgid "Zalunbar's Unique Unit. Flying Scout Creature concealed with Camouflage."
-msgstr ""
+msgstr "Zalunbars einzigartige Einheit. Fliegender Späherkreatur die sich durch Camouflage tarnt"
 
 #: simulation/templates/units/darknut/darknut_peltast_b.xml:4
 #: simulation/templates/units/darknut/darknut_peltast_garrison.xml:4
@@ -1424,7 +1424,7 @@ msgid ""
 "the civilian run garrisons and armies had no such taboo against attacking enemies from "
 "a distance. Peltast men and women were trained in lobbing javelins from incredible "
 "distances, serving as a powerful skirmisher."
-msgstr "Der Fernkampf war ausdrücklich verboten für jeden Krieger der der Legion beitratt. Glücklicherweise galt dieses Verbot nicht für die von den Bürgern organisierten Wachen und Armeen. Die Peltast Männer und Frauen wurden darauf trainiert Wurfspeere möglichst weit zu schleudern un dienten so als mächtige Plänkler"
+msgstr "Der Fernkampf war ausdrücklich verboten für jeden Krieger der der Legion beitratt. Glücklicherweise galt dieses Verbot nicht für die von den Bürgern organisierten Wachen und Armeen. Die Peltast Männer und Frauen wurden darauf trainiert Wurfspeere möglichst weit zu schleudern un dienten so als starke Plänkler"
 
 #: simulation/templates/units/darknut/darknut_peltast_b.xml:52
 #: simulation/templates/units/darknut/darknut_peltast_garrison.xml:52
@@ -1564,24 +1564,24 @@ msgid ""
 "himself, the demon retained Vaati’s image, name, and personality as it set out to "
 "accomplish its goals in Hyrule. When exposed and under threat, the demon abandons his "
 "Vaati disguise and reveals his horrific bat-like form."
-msgstr ""
+msgstr "Vaati, einst ein Minish, begegnete einen Dämon aus alten Zeiten, der das ursprüngliche Hyrule verwüstete und formte einen Pakt mit der Bestie. Sie gewährte ihm unglaubliche Macht, doch verlor Vaati sich langsam durch seine Besessenheit des Biestes. Auch wenn er nicht mehr er selbst war, so bewahrte der Dämon das Aussehen, den Namen und die Persönlichkeit Vaatis, als er loszog um seine Ziele in Hyrule verwiklichen. Wenn konfrontiert oder unter Gefahr legt es die Hülle von Vaati ab und entblöst seine entsetzliche fledermausartige Form."
 
 #: simulation/templates/units/darknut/darknut_titan_vaati.xml:92
 msgid "Vaati"
-msgstr ""
+msgstr "Vaati"
 
 #: simulation/templates/units/darknut/darknut_titan_vaati.xml:93
 msgid "Darknut Titan unit. Flying Mage unit capable of summoning tornados."
-msgstr ""
+msgstr "Nimbusgarden Titan. Fliegender Magier der Tornadoes beschwören kann"
 
 #: simulation/templates/units/darknut/darknut_vaatinado.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Tornado"
-msgstr ""
+msgstr "Tornado"
 
 #: simulation/templates/units/darknut/darknut_vaatinado.xml:74
 msgid "Vaati's Tornado"
-msgstr ""
+msgstr "Vaati's Tornado"
 
 #: simulation/templates/units/darknut_trader_b.xml:12
 msgid "Dealer"
@@ -1688,11 +1688,11 @@ msgstr ""
 #: simulation/templates/units/zora/zora_titan_jabujabu.xml:47
 #: simulation/templates/units/zora_trader_b.xml:23
 msgid "Support"
-msgstr ""
+msgstr "Unterstüzung"
 
 #: simulation/templates/units/deku/deku_baba_b.xml:37
 msgid "Deku Baba"
-msgstr ""
+msgstr "Dekurhana"
 
 #: simulation/templates/units/deku/deku_baba_b.xml:38
 msgid ""
@@ -1702,56 +1702,56 @@ msgid ""
 "on their own could do little more than protect their immediate area. They could be "
 "mounted on the heads of many Deku Scrubs and the backs of their Orhat Beetles however, "
 "giving whatever unit they were attached to a bonus melee attack."
-msgstr ""
+msgstr "Diese hinterlistigen Pflanzen wachsen wie Unkraut durch Hyrules verschiedene Wälder, aber waren recht freundlich den Deku Laubkerlen gegenüber. Viele Laubkerle nahmen sie als Hauspflanzen auf, aber sie wurden auch oft als Wachposten eingesetzt. Dekurhanas konnten sich nicht vom Fleck bewegen und mehr attackieren als das umliegende Gebiet. Sie konnten aber auf die Köpfe der Laubkerle und den Nashornkäfern gepflanzt werden was derjenigen Einheit eine weitere Angriff ermöglichte"
 
 #: simulation/templates/units/deku/deku_baba_b.xml:42
 msgid ""
 "Small immobile Creature unit that can be picked up by a wide variety of units to "
 "augment their abilities."
-msgstr ""
+msgstr "Kleine unbewegliche Kreatur die von verschiedenen Einheiten aufgehoben werden kann"
 
 #: simulation/templates/units/deku/deku_baba_b.xml:81
 msgid "Grow Projectile Teeth."
-msgstr ""
+msgstr "Wachstum von Wurfzähnen"
 
 #: simulation/templates/units/deku/deku_baba_b.xml:90
 msgid "Grow Venomous Teeth."
-msgstr ""
+msgstr "Wachstum von Giftzähnen"
 
 #: simulation/templates/units/deku/deku_baba_b.xml:99
 msgid "Grow Thorny Coating."
-msgstr ""
+msgstr "Wachstum von Dornen"
 
 #: simulation/templates/units/deku/deku_baba_giant_b.xml:66
 msgid "Giant Deku Baba"
-msgstr ""
+msgstr "Riesige Dekurhana"
 
 #: simulation/templates/units/deku/deku_baba_giant_b.xml:67
 msgid ""
 "A giant and terrifying Deku Baba, the Scrubs would use these monsters to guard "
 "important locations. Once a Baba became this large it was extremely difficult and next "
 "to impossible to move them to a new location."
-msgstr ""
+msgstr "Eine riesige und furchteinflössende Dekurhana. Die Laubkerle nutzen diese Monster um wichtige Orte zu bewachen. Wenn eine Dekurhana erst so groß geworden war, war es extrem schwierig bis unmöglich sie von A nach B zu transportieren."
 
 #: simulation/templates/units/deku/deku_baba_giant_b.xml:71
 msgid "Large Defensive Creature unit that protects Deku Scrub bases."
-msgstr ""
+msgstr "Große defensive Kreatur die die Basen der Deku Laubkerle schützt"
 
 #: simulation/templates/units/deku/deku_baba_upgA.xml:25
 msgid "Deku Baba (Projectile Teeth)"
-msgstr ""
+msgstr "Dekurhana(Wurfzähne)"
 
 #: simulation/templates/units/deku/deku_baba_upgB.xml:26
 msgid "Deku Baba (Venomous Teeth)"
-msgstr ""
+msgstr "Dekurhana(Giftzähne)"
 
 #: simulation/templates/units/deku/deku_baba_upgC.xml:6
 msgid "Deku Baba (Thorny Coating)"
-msgstr ""
+msgstr "Dekurhana(Dornen)"
 
 #: simulation/templates/units/deku/deku_babacrawler_b.xml:68
 msgid "Baba Crawler"
-msgstr ""
+msgstr "Rhana Krabbler"
 
 #: simulation/templates/units/deku/deku_babacrawler_b.xml:69
 msgid ""
@@ -1760,20 +1760,20 @@ msgid ""
 "difficult, and anything that attempted do was bound to take damage from its numerous "
 "thorns. Sometimes Baba Crawlers would mangle themselves with other Deku Babas and "
 "become a larger and more dangerous mass of thrashing vines and maws."
-msgstr ""
+msgstr "Der Rhana Krabbler ist eine langsame Monstrosität die sich über den Boden schleift und ihre Opfer mit ihren dornigen Armen einwickelt. Einem Rhana Krabbler im Nahkampf entgegenzutreten war schwierig da alles was es versuchen würde unweigerlich Schaden von den unzähligen Dornen erleiden würde. Manchmal würde ein Rhana Krabbler sich mit anderen Dakurhanas verbinden um eine noch größere und schrecklichere Masse aus Mäulern und Reben zu werden"
 
 #: simulation/templates/units/deku/deku_babacrawler_b.xml:73
 msgid "Slow moving Melee creature unit that can carry other Deku Babas around."
-msgstr ""
+msgstr "Langsame Nahkampfkreatur die mehere andere Dekurhanas tragen kann "
 
 #: simulation/templates/units/deku/deku_baballista_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Baba Bolts"
-msgstr ""
+msgstr "Dekurhana bolzen"
 
 #: simulation/templates/units/deku/deku_baballista_b.xml:61
 msgid "Baballista"
-msgstr ""
+msgstr "Rhanalliste"
 
 #: simulation/templates/units/deku/deku_baballista_b.xml:63
 msgid ""
@@ -1781,23 +1781,23 @@ msgid ""
 "from its small engine, the attack could punch a hole in most targets with ease. Perhaps"
 " the nastiest trick of this weapon was the packs of Baba seeds attached to the bolts, "
 "which could then hatch and grow into Deku Babas shortly after landing on the mark."
-msgstr ""
+msgstr "Die Rhanalliste ist eine verrücktes Apperatur von Kado selbst konzipiert. Die kleine Maschine wirft einen großen Bolzen, der ein Loch durch die meisten Ziele schlagen kann. Der fieseste Trick der Waffe war eine Ladung Dekurhanasamen die an den Bolzen angebracht war welche kurz nach einem Treffer in Dekurhanas sprießten."
 
 #: simulation/templates/units/deku/deku_baballista_b.xml:66
 msgid ""
 "Kado's Unique Unit. Siege unit that fires bolts laced with Deku Babas. Projectiles have"
 " a chance to spawn Deku Babas on impact."
-msgstr ""
+msgstr "Kados einzigartige Einheit. Belagerungswaffe die mit Dekurhanas umschnürt sind. Projektile haben eine Chance Dekurhanas zu erzeugen nach dem Einschlag."
 
 #: simulation/templates/units/deku/deku_bubbling_b.xml:4
 #: simulation/templates/units/deku/deku_hero_dekuprincess.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Bubble"
-msgstr ""
+msgstr "Blase"
 
 #: simulation/templates/units/deku/deku_bubbling_b.xml:77
 msgid "Bubbling"
-msgstr ""
+msgstr "Blasling"
 
 #: simulation/templates/units/deku/deku_bubbling_b.xml:78
 msgid ""
@@ -1806,11 +1806,11 @@ msgid ""
 "everything around the area right to the ground. Such Deku were valued for their ability"
 " to knock down groups of enemies, and the Scrubs were always quick to add their rare "
 "talent to their armies."
-msgstr ""
+msgstr "Einige individuelle Deku Laubkerle haben die Fähigkeit eine seifige und wiederstandsfähige Blase mit ihrem Mund zu erzeugen. Wenn die Blase platzt erzeugtsie eine mächtige Druckwelle die alles in der Umbegung umwirft. Solche Dekus wurden geschätzt für ihre Fähigkeit Gruppen von Gegnern umzuwerfen und ihre seltenes Talent wurde schnell in den Armeen der Laubkerle eingesetzt"
 
 #: simulation/templates/units/deku/deku_bubbling_b.xml:82
 msgid "Missile unit that spits explosive bubbles at their enemies."
-msgstr ""
+msgstr "Fernkämpfer die explosive Blasen spuckt"
 
 #: simulation/templates/units/deku/deku_civilianA.xml:8
 #: simulation/templates/units/deku/deku_underlingA.xml:71
@@ -1840,11 +1840,11 @@ msgstr ""
 #: simulation/templates/units/deku/deku_thopter_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Deku Nut"
-msgstr ""
+msgstr "Deku Nuss"
 
 #: simulation/templates/units/deku/deku_dekupult_b.xml:60
 msgid "Dekupult"
-msgstr ""
+msgstr "Dekupult"
 
 #: simulation/templates/units/deku/deku_dekupult_b.xml:61
 msgid ""
@@ -1853,15 +1853,15 @@ msgid ""
 "large Deku Nuts, the ammo of these siege engines could explode in a giant flash of "
 "light. Such bursts could punch a hole into an enemy gate, or holes into multiple enemy "
 "soldiers in the area."
-msgstr ""
+msgstr "Auch wenn sie etwas klein geraten sind wie die Deku Laubkerle selber, so waren diese Katapulte nicht weniger tödlich als die anderer Völker Hyrules. Sie werden beladen mit aussergewöhnlich großen Deku Nüssen, die beim Aufprall in einem gleißendem Licht explodieren. Eine solche Explosion schlägt nicht nur ein Loch in ein feindliches Tor sondern durchlöchert auch feindliche Soldaten."
 
 #: simulation/templates/units/deku/deku_dekupult_b.xml:63
 msgid "Ranged Siege unit that lobs explosive Deku Nuts at its targets."
-msgstr ""
+msgstr "Belagerungswaffe die explosive Deku Nüsse schleudert"
 
 #: simulation/templates/units/deku/deku_guardling_b.xml:66
 msgid "Guardling"
-msgstr ""
+msgstr "Wächterling"
 
 #: simulation/templates/units/deku/deku_guardling_b.xml:67
 msgid ""
@@ -1870,17 +1870,17 @@ msgid ""
 "simple patrol routes and told to not let anyone into the areas they guarded. During war"
 " the Scrubs would assemble them into columns on the front lines, hoping their pointy "
 "stick spears could halt the charge of their larger enemies."
-msgstr ""
+msgstr "Aufgrund ihrer Arme waren Wächterlinge knapp über den gemeinen Laublingen auf der sozialen Leiter und führten niedrige militärische Ränge für verschiedene Herrscher aus. Ihre meisten Aufgaben bestanden darin einfache Routen zu patroullieren und niemanden in die Orte reinzulassen die sie bewachen. Während eines Krieges würden die Deku Laubkerle die Wächterlinge an den Fronlinien aufreihen in der Hoffnung das sie einen feindlichen Angriff aufhalten können"
 
 #: simulation/templates/units/deku/deku_guardling_b.xml:71
 msgid "Little Melee unit armed with a pointy stick for a spear."
-msgstr ""
+msgstr "Kleiner Speerkämpfer mit einem spitzen Stock bewaffnet"
 
 #: simulation/templates/units/deku/deku_hero_butler.xml:4
 #: simulation/templates/units/deku/deku_tiffer_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Candle Fire"
-msgstr ""
+msgstr "Kerzen Flammen"
 
 #: simulation/templates/units/deku/deku_hero_butler.xml:63
 msgid "Deku Butler"
