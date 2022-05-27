@@ -6822,14 +6822,18 @@ msgid ""
 "uprooted, he is a slow moving creature unit that deals massive area damage around "
 "himself."
 msgstr ""
+"Tento masivní mohutný tvor je pánem celého Kokirského lesa a patronským bohem mnohého "
+"lesního lidu. Umí se zakořenit a vykořenit. Když je zakořenen, je odolná vež a může "
+"sloužit jako sklad zdrojů. Pokud vykořeněn, je pomale se hýbající tvor který působí "
+"masivní plošné požkození kolem sebe."
 
 #: simulation/templates/units/kokiri/kokiri_titan_gdt.xml:77
 msgid "Kasuto"
-msgstr ""
+msgstr "Kasuto"
 
 #: simulation/templates/units/kokiri/kokiri_titan_gdt.xml:78
 msgid "Kokiri Titan unit. Giant Melee unit capable of attacking large enemy groups."
-msgstr ""
+msgstr "Kokirská Mýtická jednotka. Obří jednotka schopna útočit na velké skupiny nepřátel."
 
 #: simulation/templates/units/kokiri/kokiri_tree.xml:20
 msgid "Kokiri Forest Tree"
@@ -6841,7 +6845,7 @@ msgstr ""
 
 #: simulation/templates/units/kokiri/kokiri_wolfkiller_b.xml:41
 msgid "Mudman Wolfkiller"
-msgstr ""
+msgstr "Blatnický Vlkobijec"
 
 #: simulation/templates/units/kokiri/kokiri_wolfkiller_b.xml:42
 msgid ""
@@ -6854,16 +6858,16 @@ msgstr ""
 msgid ""
 "Melee unit that has decent Dodge rates and an attack bonus against Creature units. Can "
 "also Camouflage."
-msgstr ""
+msgstr "Pěší jednotka s decentní mírou vyhýbání a útočným bonusem proti tvorům. Také má kamufláž."
 
 #: simulation/templates/units/kokiri/kokiri_wolfos_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Claws and Fangs"
-msgstr ""
+msgstr "Drápy a Tesáky"
 
 #: simulation/templates/units/kokiri/kokiri_wolfos_b.xml:35
 msgid "Wolfos"
-msgstr ""
+msgstr "Vlkos"
 
 #: simulation/templates/units/kokiri/kokiri_wolfos_b.xml:37
 msgid ""
@@ -6872,6 +6876,10 @@ msgid ""
 "even other Wolfos groups. Only a particularly powerful and brave warrior can hope to "
 "win their respect and aid in battle."
 msgstr ""
+"Vlkosové jsou velmi násilbí a krvežízniví tvorové domorodí v Kokirském lese. Typicky "
+"žijí sami a zaútočí na cokoliv ne v jejich smečce, i jiné smečky Vlkosů. Pouze "
+"vyjímečně mocný a odvážný válečník může doufat si získat jejich respekt a pomoc v "
+"bitvě."
 
 #: simulation/templates/units/kokiri/kokiri_wolfos_b.xml:43
 msgid ""
@@ -6879,6 +6887,9 @@ msgid ""
 "creature units and cause the Bleeding Ailment with their attacks. Also has a Dodge "
 "Rating and can Camouflage."
 msgstr ""
+"Jednotka kterou může verbovat pouze Mirora. Rychlý a mocný tvor který je imunní "
+"proti proti-tvorským jednotkám a umí způsobit krvácení svými útoky. Také má vysokou "
+"úrověň úhybů a kamufláž."
 
 #: simulation/templates/units/kokiri_trader_b.xml:12
 msgid "Shopkeeper"
