@@ -6133,7 +6133,7 @@ msgstr ""
 
 #: simulation/templates/units/kokiri/kokiri_bouldershot_b.xml:52
 msgid "Bouldershot"
-msgstr ""
+msgstr "Balvanoprak"
 
 #: simulation/templates/units/kokiri/kokiri_bouldershot_b.xml:53
 msgid ""
@@ -6141,16 +6141,21 @@ msgid ""
 " weapon. These contraptions could fling giant boulders across large distances to take "
 "out walls, gates, towers, and even enemy units that happened to be in the way."
 msgstr ""
+"V podstatě obří prak na kolečkách, Balvanoprak byla primární Kokirská obléhací zbraň."
+"Tyto stroje byly schopny vrhat obří balvany přes velké vzdálenosti a vyřarit zdi, brány, "
+"věže, a dokonce i nepřátelské jednotky v cestě."
 
 #: simulation/templates/units/kokiri/kokiri_bouldershot_b.xml:56
 msgid ""
 "Small Siege unit that can launch boulders at targets. Decent at knocking down walls and"
 " buildings but not nearly as powerful as most siege weapons."
 msgstr ""
+"Malá obléhací jednotka schopna odpalovat balvany na cíle. Decentní v porážení zdí a "
+"budov, ale ne tak dobrá jako většina obléhacích zbraní."
 
 #: simulation/templates/units/kokiri/kokiri_buckrider_b.xml:41
 msgid "Buck Rider"
-msgstr ""
+msgstr "Jelení Jezdec"
 
 #: simulation/templates/units/kokiri/kokiri_buckrider_b.xml:42
 msgid ""
@@ -6159,21 +6164,27 @@ msgid ""
 " excellent at dealing with such units. When outmatched these deer are frighteningly "
 "adept at retreating and vanishing into nothingness."
 msgstr ""
+"Jezdící na zádech skoro legenrárního Kokirského jelena, tyto velice rychlé jezdecké "
+"jednotky jou ozbrojeny sekyrou v ruce. Jsou schopny prorážet skrze nepřátelskou pěchotu "
+"a excelentně se s takovými jednotkami vypořádávají. Pokud jsou přemoženi, tito jeleni jsou "
+"děsivě nadaní v ústupu a mizení."
 
 #: simulation/templates/units/kokiri/kokiri_buckrider_b.xml:46
 msgid ""
 "A very fast Melee Cavalry unit armed with an axe in hand. These melee cavalry can ram "
 "into enemy Infantry and are excellent at dealing with such units."
 msgstr ""
+"Velice rychlá jezdecká jednotka ozbrojena sekyrou v ruce. Tohle jezdectvo dokáže "
+"prorazit nepřátelskou pěchotou a excelentně se snimi vypořádávají."
 
 #: simulation/templates/units/kokiri/kokiri_bush.xml:18
 #: simulation/templates/units/kokiri/kokiri_tree.xml:18
 msgid "Flora"
-msgstr ""
+msgstr "Flóra"
 
 #: simulation/templates/units/kokiri/kokiri_bush.xml:20
 msgid "Kokiri Berry Bush"
-msgstr ""
+msgstr "Kokirský Borůvkový Keř"
 
 #: simulation/templates/units/kokiri/kokiri_bush.xml:21
 msgid "Harvest Kokiri Berries for food. Max gatherers: 1."
@@ -6182,12 +6193,12 @@ msgstr ""
 #: simulation/templates/units/kokiri/kokiri_bush.xml:22
 #: simulation/templates/units/kokiri/kokiri_tree.xml:22
 msgid "Resource"
-msgstr ""
+msgstr "Zdroj"
 
 #: simulation/templates/units/kokiri/kokiri_chief_b.xml:39
 #: simulation/templates/units/kokiri/kokiri_chief_mounted.xml:39
 msgid "Kokiri Chief"
-msgstr ""
+msgstr "Kokirský Náčelník"
 
 #: simulation/templates/units/kokiri/kokiri_chief_b.xml:40
 #: simulation/templates/units/kokiri/kokiri_chief_mounted.xml:40
@@ -6198,18 +6209,24 @@ msgid ""
 "shield into battle and were capable of getting their underlings to run into a fight "
 "much faster."
 msgstr ""
+"Náčelníci byli vůdci Kokirských vesnic a armád, šéfující ostatním Kokirůma posílajícím "
+"rozkazů od Velkého Deku Stromu. Když nebyl kolem Korokský stařešina aby vedl, náčelník ho "
+"zastoupil. Náčelníci nosili sykeru a štít do bitvy a byli schopní donutit svoje podřízené "
+"vběhnout do boje mnohem rychleji."
 
 #: simulation/templates/units/kokiri/kokiri_chief_b.xml:45
 msgid ""
 "Kokiri Commander unit armed with an axe, improves the performance of Kokiri infantry "
 "within its aura."
 msgstr ""
+"Kokirská velitelská jednotka se sekyrou, zlepšuje výkon Kokirské pěchoty ve své auře."
 
 #: simulation/templates/units/kokiri/kokiri_chief_mounted.xml:45
 msgid ""
 "Mounted Kokiri Commander unit armed with an axe, improves the performance of Kokiri "
 "infantry within its aura."
 msgstr ""
+"Kokirská jezdecká velitelská jednotka se sekyrou, zlepšuje výkon Kokirské pěchoty ve své auře."
 
 #: simulation/templates/units/kokiri/kokiri_civilianA.xml:8
 #: simulation/templates/units/kokiri/kokiri_laborerA.xml:54
@@ -6238,11 +6255,11 @@ msgstr ""
 #: simulation/templates/units/labrynna/labrynna_titan_makulab.xml:12
 msgctxt "Name of an attack, usually the weapon."
 msgid "Roots"
-msgstr ""
+msgstr "Kořeny"
 
 #: simulation/templates/units/kokiri/kokiri_dekutree_b.xml:82
 msgid "Deku Tree"
-msgstr ""
+msgstr "Deku Strom"
 
 #: simulation/templates/units/kokiri/kokiri_dekutree_b.xml:83
 #: simulation/templates/units/kokiri/kokiri_dekutree_large_b.xml:84
@@ -6253,6 +6270,10 @@ msgid ""
 " to the naked eye. When disturbed or threatened however, they uproot themselves to "
 "reveal a multi-legged monstrosity."
 msgstr ""
+"Páni severních Kokirských lesů a strážci říše, samotářké a přívětivé Deku Stromy byly "
+"vzácně vídávány. To je především kvůli tomu že tráví většinu svého času spánkem, a "
+"vypadají jako jakékoliv jiné stromy holému oku. Avšak, pokud vyrušeny nebo jinak ohroženy, "
+"vykoření se a odhalí mnohonožnou příšeru."
 
 #: simulation/templates/units/kokiri/kokiri_dekutree_b.xml:87
 #: simulation/templates/units/kokiri/kokiri_dekutree_large_b.xml:88
@@ -6260,14 +6281,16 @@ msgid ""
 "Saria's Unique Unit. Large lumbering Creature Siege unit that can cross deep bodies of "
 "water. Can be garrisoned with infantry units."
 msgstr ""
+"Jednotka kterou může trénovat pouze Sárie. Mohutní obléhací tvorové schopni překročit "
+"hluboké vody. Nosí na sobě pěchotu."
 
 #: simulation/templates/units/kokiri/kokiri_dekutree_large_b.xml:83
 msgid "Large Deku Tree"
-msgstr ""
+msgstr "Mohutný Deku Strom"
 
 #: simulation/templates/units/kokiri/kokiri_doetrotter_b.xml:38
 msgid "Doe Trotter"
-msgstr ""
+msgstr "Srnčí Klusačky"
 
 #: simulation/templates/units/kokiri/kokiri_doetrotter_b.xml:39
 msgid ""
@@ -6276,16 +6299,21 @@ msgid ""
 "unit types. Like their male counterparts they are masters at slipping away from battle "
 "and fleeing into the shadows."
 msgstr ""
+"Velice rychlé jezdectvo ozbrojeno kopím. Excelují v konfrontování a zastavování jiného "
+"nepřátelského jezdectva, ale nejsou značně odolné v boji s ostatními jednotkami. Jako "
+"jejich mužské protějšky jsou mistryně v prokluzování z boje a útěkem do stínů."
 
 #: simulation/templates/units/kokiri/kokiri_doetrotter_b.xml:43
 msgid ""
 "A very fast moving Melee Cavalry unit armed with a spear. Inflicts bonus damage against"
 " cavalry and can Camouflage."
 msgstr ""
+"Velice rychlá jezdecká jednotka ozbrojená kopím. Působí bonusové požkození proti jezdectvu "
+"a má kamufláž."
 
 #: simulation/templates/units/kokiri/kokiri_emarcher_b.xml:42
 msgid "Emerald Archer"
-msgstr ""
+msgstr "Smaradový Lučištník"
 
 #: simulation/templates/units/kokiri/kokiri_emarcher_b.xml:43
 msgid ""
@@ -6294,21 +6322,27 @@ msgid ""
 "Archers could snipe enemies from a very long distance, as well as retreat to safe "
 "ground should the enemy close the gap."
 msgstr ""
+"Smaragdoví Lučištíci reprezentují nejstarší Kokiry, ty téměř připravené na proměnu v "
+"Koroka. Ozbrojeni spolehlivým lesním lukem a bystrým okem, Smaragdoví Lučištníci uměli "
+"odstřelit neprátele z velice dlouhých vzdáleností, a ustoupit do bezpečných míst pokud "
+"nepřítel uzavřel mezeru."
 
 #: simulation/templates/units/kokiri/kokiri_emarcher_b.xml:47
 msgid ""
 "Elite Kokiri Missile unit with a long range and decent movement speed. Can also "
 "Camouflage and inflict Magic Damage through the Fairy Bow upgrade."
 msgstr ""
+"Elitní Kokirská lučištnická jednotka s dlouhým dosahem a decentní rychlostí. Také "
+"má kamufláž a působí kouzelné požkození s vylepšením Vílích Luků."
 
 #: simulation/templates/units/kokiri/kokiri_enchant_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Guardian Fairy"
-msgstr ""
+msgstr "Strážná Víla"
 
 #: simulation/templates/units/kokiri/kokiri_enchant_b.xml:41
 msgid "Enchantress"
-msgstr ""
+msgstr "Zaklínatelka"
 
 #: simulation/templates/units/kokiri/kokiri_enchant_b.xml:43
 msgid ""
@@ -6317,19 +6351,23 @@ msgid ""
 "downright mean-spirited) sense of humor. The Enchantress can confuse enemies and "
 "deflect ranged attacks back at their attackers."
 msgstr ""
+"Vzádná Kokirská uživatelka magie která se spřátelila s párem tuláckých Víl. Zaklínatelka "
+"je často poměrně stará pro Kokiru a mývá tendenci pro zlomyslný (a občas i jednoduše "
+"škodolibý) smysl pro humor. Zaklínatelka je schopna zmást nepřátele a odrazit střelné "
+"útoky zpátky na útočníky."
 
 #: simulation/templates/units/kokiri/kokiri_enchant_b.xml:48
 msgid "Support Mage unit that can deflect ranged projectile back at their attackers."
-msgstr ""
+msgstr "Porpůdná magická jednotka schopna odrazit střelné projektily zpátky na útočníky."
 
 #: simulation/templates/units/kokiri/kokiri_explorer_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Deku Stick"
-msgstr ""
+msgstr "Deku Klacek"
 
 #: simulation/templates/units/kokiri/kokiri_explorer_b.xml:32
 msgid "Kokiri Explorer"
-msgstr ""
+msgstr "Kokirská Průzkumnice"
 
 #: simulation/templates/units/kokiri/kokiri_explorer_b.xml:33
 msgid ""
@@ -6343,11 +6381,11 @@ msgstr ""
 msgid ""
 "A fast moving Scout unit that can climb over any terrain and Camouflage. Can also "
 "detect hidden units."
-msgstr ""
+msgstr "Rychlá průzkumnická jednotka schopna přelézt jakýkoliv terén. Také umí detekovat schované jednotky."
 
 #: simulation/templates/units/kokiri/kokiri_fiddler_b.xml:25
 msgid "Fiddler"
-msgstr ""
+msgstr "Houslista"
 
 #: simulation/templates/units/kokiri/kokiri_fiddler_b.xml:27
 msgid ""
@@ -6356,17 +6394,20 @@ msgid ""
 " playing Fiddlers. When marching into battle these players could improve the speed with"
 " which fellow Kokiri moved."
 msgstr ""
+"Muzika je vysoce ceněna Kokiry, a jejich hudba se stala poměrně známou po celém světě."
+"Během pochodu do bitvy mohli tito hráči zlepšit rychlost se kterou se ostatní Kokiři "
+"pohybovali."
 
 #: simulation/templates/units/kokiri/kokiri_fiddler_b.xml:33
 msgid "Fado's Unique Unit. Support unit that improves all Kokiri units with his music."
-msgstr ""
+msgstr "Jednotka kterou může verbovat pouze Fado-ti. Podpůrná jednotka která zlepšuje rychlost Kokirů svou muzikou."
 
 #: simulation/templates/units/kokiri/kokiri_fiddler_songearth.xml:14
 #: simulation/templates/units/kokiri/kokiri_fiddler_songwind.xml:19
 #: simulation/templates/units/kokiri/kokiri_fiddler_upg_songearth.xml:14
 #: simulation/templates/units/kokiri/kokiri_fiddler_upg_songwind.xml:19
 msgid "Play the Saria's Song."
-msgstr ""
+msgstr "Hraj Sáriinu Písničku"
 
 #: simulation/templates/units/kokiri/kokiri_fiddler_songearth.xml:19
 #: simulation/templates/units/kokiri/kokiri_fiddler_songsaria.xml:14
@@ -6376,7 +6417,7 @@ msgstr ""
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songsaria.xml:16
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songstorm.xml:21
 msgid "Play the Wind God's Aria."
-msgstr ""
+msgstr "Hraj Árii Větrného Boha"
 
 #: simulation/templates/units/kokiri/kokiri_fiddler_songsaria.xml:19
 #: simulation/templates/units/kokiri/kokiri_fiddler_songwind.xml:14
@@ -6386,11 +6427,11 @@ msgstr ""
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songstorm.xml:26
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songwind.xml:16
 msgid "Play the Earth God's Lyric."
-msgstr ""
+msgstr "Hraj Lyriku Zemského Boha"
 
 #: simulation/templates/units/kokiri/kokiri_grovewatch_b.xml:33
 msgid "Grove Watcher"
-msgstr ""
+msgstr "Hlídač Háje"
 
 #: simulation/templates/units/kokiri/kokiri_grovewatch_b.xml:34
 msgid ""
@@ -6399,6 +6440,9 @@ msgid ""
 " kind, their bravery is unmatched and they will fight to the death to protect the "
 "forest from invaders."
 msgstr ""
+"Oddaný voják nesoucí ikonický Kokirský meč a Deku štít. Tito válečníci jsou trénováni od "
+"stvoření aby strážili háje lesa. Narozdíl od většiny jejich druhu, jejich odvaha nemá "
+"rovného, a budou bojovat do roztrhání těla aby ochránili les od vetřelců."
 
 #: simulation/templates/units/kokiri/kokiri_grovewatch_b.xml:39
 msgid ""
@@ -6406,10 +6450,13 @@ msgid ""
 "Knockback. Can also Camouflage and is unaffected by Fear and Terror. Finally, gain "
 "improved stats when fighting within friendly territory."
 msgstr ""
+"Středně obrněná pěší jednotka s mečem a štítem která je částečně odolná odrazům. Má "
+"také kamufláž a není ovlivněna strachem či terorem. Nakonec, má zlepšený výkon pokud "
+"bojuje v přátelském teritoriu."
 
 #: simulation/templates/units/kokiri/kokiri_hero_domiso.xml:34
 msgid "The Know-It-All-Brothers"
-msgstr ""
+msgstr "Bratři Všeználci"
 
 #: simulation/templates/units/kokiri/kokiri_hero_domiso.xml:36
 msgid ""
@@ -6418,18 +6465,21 @@ msgid ""
 "around the Deku Tree's Grove, much to their dismay. The leader of the brothers, Domiso,"
 " is a bit skilled with a sword and can defend his people if needs be."
 msgstr ""
+"Bratři Všeználci jsou docela známí mezi Kokiry, především kvůli tomu že žádní Kokiři je "
+"od sebe nerozeznají. Tráví většinu svého času prací kolem Háje Deku Stromu, k jejich otravě. "
+"Vůdce těchto bratrů, Domiso, je trochu zkušený s mečem a umí ubránit svůj lid pokud je to třeba. "
 
 #: simulation/templates/units/kokiri/kokiri_hero_domiso.xml:40
 msgid "Domiso"
-msgstr ""
+msgstr "Domiso"
 
 #: simulation/templates/units/kokiri/kokiri_hero_domiso.xml:41
 msgid "Melee Hero that summons his brothers to battle."
-msgstr ""
+msgstr "Pěší hrdina který do bitvy svolává své bratry."
 
 #: simulation/templates/units/kokiri/kokiri_hero_fado_base.xml:31
 msgid "Sage of Winds"
-msgstr ""
+msgstr "Mudrc Větrů"
 
 #: simulation/templates/units/kokiri/kokiri_hero_fado_base.xml:33
 msgid ""
@@ -6440,10 +6490,16 @@ msgid ""
 "of Saria’s and he was deeply fond of her. When she needed an heir to replace her as a "
 "Sage he volunteered for the title."
 msgstr ""
+"Fado byl velmi talentovaný muzikant a milovaný houslista mezi svým lidem. Byl pacifista "
+"a odmítal zaútočit na cokoliv živé, což byla ideologie kterou měl potíže dodržet. Jeho "
+"hudba se zdála mít téměř kouzelnou moc; byl velice schopný domestikovat divoká zvířata "
+"a příšery tím že zahrál správnou notu. Fado byl přítel Sárie a cítil k ní velkou "
+"náklonost. Když potřebovala někoho aby ji nahradil jakožto Mudryně, dobrovolně se "
+"přihlásil k roli."
 
 #: simulation/templates/units/kokiri/kokiri_hero_fado_base.xml:37
 msgid "Fado"
-msgstr ""
+msgstr "Fado-ti"
 
 #: simulation/templates/units/kokiri/kokiri_hero_fado_base.xml:38
 msgid "Support Hero that can create many powerful global buffs and debuffs."
