@@ -1797,7 +1797,7 @@ msgstr "Blase"
 
 #: simulation/templates/units/deku/deku_bubbling_b.xml:77
 msgid "Bubbling"
-msgstr "Blasling"
+msgstr "Seifling"
 
 #: simulation/templates/units/deku/deku_bubbling_b.xml:78
 msgid ""
@@ -1806,11 +1806,11 @@ msgid ""
 "everything around the area right to the ground. Such Deku were valued for their ability"
 " to knock down groups of enemies, and the Scrubs were always quick to add their rare "
 "talent to their armies."
-msgstr "Einige individuelle Deku Laubkerle haben die Fähigkeit eine seifige und wiederstandsfähige Blase mit ihrem Mund zu erzeugen. Wenn die Blase platzt erzeugtsie eine mächtige Druckwelle die alles in der Umbegung umwirft. Solche Dekus wurden geschätzt für ihre Fähigkeit Gruppen von Gegnern umzuwerfen und ihre seltenes Talent wurde schnell in den Armeen der Laubkerle eingesetzt"
+msgstr "Einige individuelle Deku Laubkerle haben die Fähigkeit eine seifige und wiederstandsfähige Blasen mit ihrem Mund zu erzeugen. Wenn diese Blase platzt erzeugt sie eine mächtige Druckwelle die alles in der Umbegung umwirft. Solche Dekus wurden geschätzt für ihre Fähigkeit Gruppen von Gegnern umzuwerfen und ihre seltenes Talent wurde schnell in den Armeen der Laubkerle eingesetzt"
 
 #: simulation/templates/units/deku/deku_bubbling_b.xml:82
 msgid "Missile unit that spits explosive bubbles at their enemies."
-msgstr "Fernkämpfer die explosive Blasen spuckt"
+msgstr "Fernkämpfer die explosive Seifenblasen spuckt"
 
 #: simulation/templates/units/deku/deku_civilianA.xml:8
 #: simulation/templates/units/deku/deku_underlingA.xml:71
@@ -1880,11 +1880,11 @@ msgstr "Kleiner Speerkämpfer mit einem spitzen Stock bewaffnet"
 #: simulation/templates/units/deku/deku_tiffer_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Candle Fire"
-msgstr "Kerzen Flammen"
+msgstr "Kerzenflammen"
 
 #: simulation/templates/units/deku/deku_hero_butler.xml:63
 msgid "Deku Butler"
-msgstr ""
+msgstr "Deku Butler"
 
 #: simulation/templates/units/deku/deku_hero_butler.xml:65
 msgid ""
@@ -1897,34 +1897,34 @@ msgstr ""
 
 #: simulation/templates/units/deku/deku_hero_butler.xml:69
 msgid "Kuh-Do"
-msgstr ""
+msgstr "Kuh-Do"
 
 #: simulation/templates/units/deku/deku_hero_butler.xml:70
 msgid "Hovering Missile Hero that attacks enemies with his burning candle."
-msgstr ""
+msgstr "Schwebender Held der mit Projektilen aus seiner brennenden Kerze angreift"
 
 #: simulation/templates/units/deku/deku_hero_decci.xml:49
 msgid "Deku Scrub Miner"
-msgstr ""
+msgstr "Deku Bergkerl"
 
 #: simulation/templates/units/deku/deku_hero_decci.xml:51
 msgid ""
 "Decci is one of the most famous Deku Scrub Miners; and one of the only Deku Scrub "
 "Miners. Decci pioneered the harvesting of Meganuts and has found many creative ways to "
 "turn them into weapons and armor for the Deku Scrubs."
-msgstr ""
+msgstr "Decci is einer der berühmteten Deku Laubkerl Bergarbeitern; und einer der einzigen Bergarbeitern. Decci war ein Vorreiter in der Ernte von Meganüssen und hat viele kreative Wege gefunden sie in Waffen und Rüstung und Panzerung für die Laubkerle zu formen."
 
 #: simulation/templates/units/deku/deku_hero_decci.xml:55
 msgid "Decci"
-msgstr ""
+msgstr "Decci"
 
 #: simulation/templates/units/deku/deku_hero_decci.xml:56
 msgid "Ranged Hero that attacks with Deku Nuts."
-msgstr ""
+msgstr "Held der auf Distanz mit Deku Nüssen angreift"
 
 #: simulation/templates/units/deku/deku_hero_dekuking.xml:59
 msgid "King of the Deku Scrubs"
-msgstr ""
+msgstr "König der Deku Laubkerle"
 
 #: simulation/templates/units/deku/deku_hero_dekuking.xml:61
 msgid ""
@@ -1935,19 +1935,19 @@ msgid ""
 "angry demeanor, the King’s motivations seem to be rooted in his love for his daughter. "
 "Though kept secret, he had been struck with a case of Mad Scrub and wished for her to "
 "replace him on the throne after his passing."
-msgstr ""
+msgstr "Vielleicht der mächtigste Herrscher der Deku Laubkerle König Kud-Loh-Kan war the erste seine Art der jeden einzelnen Laubkerl unter seinem Banner vereinte, wenn auch nur temporär. Deser Erfolg resultierte allerdings nicht aus der Gunst der Massen ,denn er regierte wie ein Tyrann und drohte seinem Volk permanent mit Hinrichtungen. Trotz seines zornigen Verhaltens, scheinen seine Motive von der Zuneigung zu seiner Tochter herzurühren. Auch wenn er es geheim hielt, so war er mit dem Laubwahn befallen und wünschte hoffte das seine Tochter nach seinem Tode weiter regieren würde."
 
 #: simulation/templates/units/deku/deku_hero_dekuking.xml:65
 msgid "Kud-Loh-Kan"
-msgstr ""
+msgstr "Kud-Loh-Kan"
 
 #: simulation/templates/units/deku/deku_hero_dekuking.xml:66
 msgid "Strong Hero with many commanding abilites."
-msgstr ""
+msgstr "Starker Held mit vielen Fähigkeiten als Kommandant"
 
 #: simulation/templates/units/deku/deku_hero_dekuprincess.xml:78
 msgid "Deku Scrub Princess"
-msgstr ""
+msgstr "Deku Laubkerl Prinzessin"
 
 #: simulation/templates/units/deku/deku_hero_dekuprincess.xml:80
 msgid ""
@@ -1958,38 +1958,38 @@ msgid ""
 "Kad-A-Kana was noted for her long bouts of sadness, punctuated by violent bursts of "
 "anger. When her father became a victim of the terminal Mad Scrub, her motivations and "
 "intentions turned to darker places elsewhere."
-msgstr ""
+msgstr "Die einzige Tochter des Königs Kud-Loh-Kan, Kad-A-Kana, war vielleicht nicht auf dem Thron aber war mit Sicherheit die jenige die den Ton angab. Ihr Vater konnte nicht ander als ihren Forderungen nachzugeben und viele Laubkerle fragten sich wer wirklich in Kontrolle war. Die Dinge änderten sich als ihr Vater mit dem Laubwahn diagnostiziert wurde war.Prinzessin Kad-A-Kana wurde auffällig für ihre langen Trauerphasen, die durch heftige Wutausbrüche unterbrochen wurden. Als ihr Vater endgültig dem Laubwhn erlag wanderten ihre Motive und Intentionen sich an dunklere Orte."
 
 #: simulation/templates/units/deku/deku_hero_dekuprincess.xml:84
 msgid "Kad-A-Kana"
-msgstr ""
+msgstr "Kad-A-Kana"
 
 #: simulation/templates/units/deku/deku_hero_dekuprincess.xml:85
 msgid "Missile Hero that attacks her enemies with an explosive bubble."
-msgstr ""
+msgstr "Heldin die mit ihren explosiven Seifeblasen angreift"
 
 #: simulation/templates/units/deku/deku_hero_deppi.xml:40
 msgid "Baba Breeder"
-msgstr ""
+msgstr "Dekurhanazüchter"
 
 #: simulation/templates/units/deku/deku_hero_deppi.xml:42
 msgid ""
 "A reclusive Deku Scrub that lives away from most Scrub civilization. Deppi spent a lot "
 "of time in the woods playing with and befriending many Deku Babas, as a result he has "
 "revolutionized breeding the hostile plants for use by all Scrub kind."
-msgstr ""
+msgstr "Ein zurückgezogener Deku Laubkerl der weit weg von den üblichen Laubkerlen lebt."
 
 #: simulation/templates/units/deku/deku_hero_deppi.xml:46
 msgid "Deppi"
-msgstr ""
+msgstr "Deppi"
 
 #: simulation/templates/units/deku/deku_hero_deppi.xml:47
 msgid "Melee Hero that attacks with Deku Babas."
-msgstr ""
+msgstr "Held der im Nahkampf Dekurhanas einsetzt"
 
 #: simulation/templates/units/deku/deku_hero_kado.xml:64
 msgid "Deku Scrub Engineer"
-msgstr ""
+msgstr "Deku Laubkerl Ingineur "
 
 #: simulation/templates/units/deku/deku_hero_kado.xml:66
 msgid ""
@@ -2001,19 +2001,19 @@ msgid ""
 "compensating with his clearly more exercised brain and ending up in the King’s favor, "
 "his lot in life changed quite considerably. He currently serves as an adviser to the "
 "Princess, and has grown concerned with her interest in ancient Odolwan rituals."
-msgstr ""
+msgstr "Als ein brillianter Ingineu, Sohn des Butlers Kuh-Do, und der einzige Freund der Prinzessin Kad-A-Kana, war Kado an der Spitze der Belagerungswaffenproduktion und anderer Vorrichtungen für die Laubkerle. Er hat einen unstillbare Faszination damit Dinge auf die Erde fallen zu sehen... normalerweise als ein Ergebnis einer seiner Katapult erfindungen. Kado war eher klein selbst für einen Laubkerl, und wurde oft für einen Witz gehalten die längste Zeit seines Lebens. Nachdem er das mit seinem eindeutig besser trainierterm Gehirn wettgemacht hat und in der Gunst des Königs fiel verbesserte sich sein Lot im Leben signifikant. Er dient zurzeit als Berater der Prinzessin, und beobachtet besrogt ihre Faszination mit Odolwaischen Ritualen."
 
 #: simulation/templates/units/deku/deku_hero_kado.xml:69
 msgid "Kado"
-msgstr ""
+msgstr "Kado"
 
 #: simulation/templates/units/deku/deku_hero_kado.xml:70
 msgid "Siege Hero that attacks enemy targets from a long distance with his Dekupult."
-msgstr ""
+msgstr "Belagerungsheld der mit seinem Dekupult auf Distanz angreift"
 
 #: simulation/templates/units/deku/deku_hornling_b.xml:45
 msgid "Hornling"
-msgstr ""
+msgstr "Hornistkerl"
 
 #: simulation/templates/units/deku/deku_hornling_b.xml:46
 msgid ""
@@ -2022,7 +2022,7 @@ msgid ""
 "commands to the soldiers under their commands. Although the horns sounded confusing and"
 " obnoxious to outsiders, its bass utterance carried with it the unfolding plans of a "
 "Scrub army."
-msgstr ""
+msgstr "Das musikalischen Zirpen und die Klänge der Laubkerl Sprache lieferten ihnen gute Dienste auf dem Schlachtfeld. Hornistenkerle brachten ihre Deku Hörner mit denen sie laute und deutliche Befehle an die Soldaten unter ihrem Kommando geben konnten. Auch wenn der Klang Hörner verwirrend und unausstehlich für Außenstehende war so gab der Bass die sich entfaltenden Pläne der Armee an."
 
 #: simulation/templates/units/deku/deku_hornling_b.xml:49
 #: simulation/templates/units/goron/goron_drummer_b.xml:32
@@ -2036,15 +2036,15 @@ msgstr ""
 #: simulation/templates/units/zora/zora_nayrublessed_b.xml:33
 msgctxt "Rank"
 msgid "Basic"
-msgstr ""
+msgstr "Einfach"
 
 #: simulation/templates/units/deku/deku_hornling_b.xml:51
 msgid "Support unit that improves the movement rate of Deku Scrubs with his musical horn."
-msgstr ""
+msgstr "Unterstützungseinheit die die Bewegung "
 
 #: simulation/templates/units/deku/deku_manhandla_b.xml:71
 msgid "Manhandla"
-msgstr ""
+msgstr "Manhandla"
 
 #: simulation/templates/units/deku/deku_manhandla_b.xml:72
 msgid ""
@@ -2053,11 +2053,11 @@ msgid ""
 "Manhandla is actually a symbiotic collection of multiple plants; a large flower-like "
 "creature provides locomotion while up to four smaller Baba-like serpents tear apart "
 "victims to feed to themselves and their ride."
-msgstr ""
+msgstr "Ein furchterregender Schrecken der in den dunkelsten Tiefen des Kokiri Waldes zu finden ist. Die Manhandla ist eine riesiger unermüdlicher Wirbel aus Zerstörung wenn sie auf ein Schlachtfeld losgelassen wird. Die Manhandla ist bei genauerer Betrachtung tatsächlich eine Symbiose aus meheren Pflanzen; eine sich Mobilität bietende blumeartige Kreatur in der Mitte und vier kleinere wyrmartige Dekurhanas ihre Opfer zerreißen und sich selber und ihre Mitfahrgelengenheit versorgen"
 
 #: simulation/templates/units/deku/deku_manhandla_b.xml:76
 msgid "Huge lumbering Creature unit that can attack many enemies around itself at once."
-msgstr ""
+msgstr "Riesige schwerfällige Kreatur die viele Gegner um sich herum angreifen kann"
 
 #: simulation/templates/units/deku/deku_megascrub_b.xml:4
 #: simulation/templates/units/goron/goron_battlebro_b.xml:4
@@ -2074,11 +2074,11 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_stalgiant_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fists"
-msgstr ""
+msgstr "Fäuste"
 
 #: simulation/templates/units/deku/deku_megascrub_b.xml:58
 msgid "Megascrub"
-msgstr ""
+msgstr "Megakerl"
 
 #: simulation/templates/units/deku/deku_megascrub_b.xml:59
 msgid ""
@@ -2087,11 +2087,11 @@ msgid ""
 "some of the largest Scrubs to live and were considered by their people to be the apex "
 "of their race. In a battle they would relentlessly maul victims with their two clawed "
 "arms."
-msgstr ""
+msgstr "Diese großen Deku Laubkerle dienten sehr wenigen Zwecken außer in ihrer Kultur außer die Schädel ihrer Feinde einzuschlagen. Auch wenn sie kaum größer waren als ein durchschnittlicher Hylianer, gehörten sie zu den größten Laubkerlen die jemals gelebt haben und galten von vielen Dekus als die Besten ihrer Art. In der Schlacht zerfleischen sie ihre Gegner mit ihren zwei bekrallten Armen."
 
 #: simulation/templates/units/deku/deku_megascrub_b.xml:63
 msgid "Large Deku Scrub warrior that attacks enemies with their sharp clawed hands."
-msgstr ""
+msgstr "Großer Deku Laubkerl Krieger der mit seinen zwei scharfen Klauenhänden angreift"
 
 #: simulation/templates/units/deku/deku_nutling_b.xml:4
 #: simulation/templates/units/deku/deku_underlingA.xml:4
@@ -2099,11 +2099,11 @@ msgstr ""
 #: simulation/templates/units/goron/goron_ram_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Head"
-msgstr ""
+msgstr "Kopp"
 
 #: simulation/templates/units/deku/deku_nutling_b.xml:39
 msgid "Nutling"
-msgstr ""
+msgstr "Nussling"
 
 #: simulation/templates/units/deku/deku_nutling_b.xml:40
 msgid ""
@@ -2112,11 +2112,11 @@ msgid ""
 "a trait the Deku Scrubs used to protect narrow passages and bottlenecks. Nutlings were "
 "also small enough to hide under their head growth, making them invisible to casual "
 "observers."
-msgstr ""
+msgstr "Diese Brut der Laubkerle haben eine Nussschale die auf ihrem Kopf wächst im Gegensatz zu den üblichen Blättern und Blumen. Solch ein Schutz machte die Nusslinge sehr Wiederstandsfähig gegen konventionelle Waffen, ein Merkmal das die Dekus in Engpässen nutzen. Nusslinge waren auch klein genug dass sie sich unter ihren Kopfwuchs verstecken konnten, was sie unsichtbar gegenüber unachtsamen Passanten machte."
 
 #: simulation/templates/units/deku/deku_nutling_b.xml:44
 msgid "Small but sturdy defensive unit that has resistant non-magic armor."
-msgstr ""
+msgstr "Kleine aber robuste defensive Truppen die ordentliche Rüstwerte haben"
 
 #: simulation/templates/units/deku/deku_orhat_b.xml:4
 #: simulation/templates/units/gohma/gohma_larva_giant_b.xml:4
@@ -2129,11 +2129,11 @@ msgstr ""
 #: simulation/templates/units/gohma/gohma_tank_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Mandibles"
-msgstr ""
+msgstr "Mandibeln"
 
 #: simulation/templates/units/deku/deku_orhat_b.xml:47
 msgid "Orhat Beetle"
-msgstr ""
+msgstr "Nashornkäfer"
 
 #: simulation/templates/units/deku/deku_orhat_b.xml:48
 msgid ""
@@ -2141,7 +2141,7 @@ msgid ""
 " although even that is a bit of a stretch considering the hard time they had riding "
 "them. In battle the Orhats could skitter by enemies with frighting speed, and could be "
 "mounted a large variety of Deku Scrubs and Babas on their backs."
-msgstr ""
+msgstr "Die Nashornkäfer waren eine der wenigen Kreaturen die die Laubkerle domestizieren konnten, auch wenn slebst diese Aussage etwas weit gegriffen ist wenn man sich anschaut wie schwer es den Dekus fiel sie zu reiten. In der Schlacht konnten die Nashornkäfer mit furchterregenden Geschwindigkeit auf ihre Gegner hin krabbeln und von einer großen Anzahl an Laubkerlen und Dekurhanas beritten werden."
 
 #: simulation/templates/units/deku/deku_orhat_b.xml:52
 msgid "Quick moving Melee Creature unit that can be mounted by a Deku Scrub rider."
@@ -2155,11 +2155,11 @@ msgstr ""
 #: simulation/templates/units/ordona/ordona_titan_latoan.xml:12
 msgctxt "Name of an attack, usually the weapon."
 msgid "Horn"
-msgstr ""
+msgstr "Horn"
 
 #: simulation/templates/units/deku/deku_orhatgiant_b.xml:58
 msgid "Giant Orhat"
-msgstr ""
+msgstr "NashornKäfer Gigant"
 
 #: simulation/templates/units/deku/deku_orhatgiant_b.xml:59
 msgid ""
@@ -2169,43 +2169,43 @@ msgid ""
 "and directing the giant insects in battle. Giant Orhats were used as living battering "
 "rams and they could be upgraded with a carrying platform on their backs to ferry Deku "
 "Scrubs around."
-msgstr ""
+msgstr "Wenn es ihnen Möglich war wuchsen die Nashornkäfer zu einer alles überagenden Größe und entwickelten ein dickes und hartes Exoskelett. Zwar war es unmöglich so einen erwachsenen Käfer in der Wildnis zu zähmen, hatten Laubkerle die sie seit ihrer Geburt aufgezogen hatten kein Problem diese riesigen Insekten in der Schlacht zu führen und zu reiten. Nashornkäfer Giganten wurden oft als Rammböcke verwendet und konnten mit einer Transportplattform verbessert werden die Truppen von Dekus aufnehmen konnten."
 
 #: simulation/templates/units/deku/deku_orhatgiant_b.xml:63
 msgid "Giant Siege Creature that rips apart targets with its huge horn."
-msgstr ""
+msgstr "Gigantische Belagerungskreatur die Ziele mit ihren Riesigem Horn zerlegt"
 
 #: simulation/templates/units/deku/deku_orhatgiant_upgA.xml:50
 msgid "Giant Orhat (Platform Mount)"
-msgstr ""
+msgstr "Nashornkäfer Gigant (Truppenplattform)"
 
 #: simulation/templates/units/deku/deku_orhatgiant_upgB.xml:19
 msgid "Giant Orhat (Engine Mount)"
-msgstr ""
+msgstr "Nashornkäfer Gigant (Belagerungsplattform)"
 
 #: simulation/templates/units/deku/deku_peahat.xml:4
 #: simulation/templates/units/deku/deku_peahatmama.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Blades"
-msgstr ""
+msgstr "Klingen"
 
 #: simulation/templates/units/deku/deku_peahat.xml:42
 msgid "Peahat Larva"
-msgstr ""
+msgstr "Killerana Larve"
 
 #: simulation/templates/units/deku/deku_peahat.xml:43
 msgid ""
 "These strange flying predatory plants live in flatlands such as Hyrule Field, lying in "
 "wait for prey and hurtling at it at high speeds with their razor-sharp leaves."
-msgstr ""
+msgstr "Diese seltsamen fliegenden räuberischen Pflanzen leben in Flachlanden wie der Hyrule Ebene. Dor liegen sie auf der Lauer und schleudern sich selbst auf Opfer mit ihren rasiermesserscharfen Blättern."
 
 #: simulation/templates/units/deku/deku_peahat.xml:45
 msgid "Small hovering Creature unit that attacks with its razor blades."
-msgstr ""
+msgstr "Kleine schwebende Kreatur die mit ihren Rasierblättern angreift"
 
 #: simulation/templates/units/deku/deku_peahatdrift_b.xml:17
 msgid "Drifting Peahat"
-msgstr ""
+msgstr "Streifende Killerana"
 
 #: simulation/templates/units/deku/deku_peahatdrift_b.xml:18
 msgid ""
@@ -2213,17 +2213,17 @@ msgid ""
 "Scrubs to serve as pets and wards. They would often use them to monitor the perimeter "
 "of their territory or explore dangerous areas. Drifting Peahats could not be given "
 "direct orders and would automatically move around with the wind, hence their name."
-msgstr ""
+msgstr "Uncharakteristisch passive Killerana die von den Deku als Haustiere gezüchtet wurden. Sie werden oft eingesetzt um das Territorium in einen gewissen Bereich zu beobachten oder um gefährliche Orte zu erforschen. Die Streifenden Kileranas konnten keine direktenBefehle erteilt werden sondern sie trieben im Wind woher ihr Name herrührt."
 
 #: simulation/templates/units/deku/deku_peahatdrift_b.xml:22
 msgid ""
 "Creature Scout unit that cannot be given orders, it automatically explores the map at "
 "its own pace. Can detect Camouflaged and Stealthed units."
-msgstr ""
+msgstr "Späherkreatur der keine Befehle erteilt werden können. Sie erforscht die Karte auf eigene Faust und kann versteckte und getarnte Einheiten erspähen"
 
 #: simulation/templates/units/deku/deku_peahatmama.xml:63
 msgid "Peahat Mother"
-msgstr ""
+msgstr "Killerana Mutter"
 
 #: simulation/templates/units/deku/deku_peahatmama.xml:65
 msgid ""
@@ -2234,13 +2234,13 @@ msgid ""
 "the roots of their bodies, of which they use to decapitate and slice apart intruders. "
 "On rare occasions the Scrubs managed to domesticate a Brood Mother who would hover "
 "about and continually spawn Peahat Larva to follow her around. "
-msgstr ""
+msgstr "Eine häufiger Anblick in den Ebenen Hyrule die sehr territorial ist und aggresiv ist. Diese Biester sind in der Lage in der Luft zu sschweben indem sie sich sehr schnell auf der Stelle drehen und dabei von den gelben Säcken unterstützt werden die mit einer Art Gas gefüllt sind. Riesige Klingen befinden sich knapp über ihren Wurzeln mit denen sie Eindringlinge köpfen und zerhäckseln. Ab und zu schafften es die Dekus eine Brutmutter zu zähmen die kontinuierlich kleine Larven zeugte die ihr folgen würden."
 
 #: simulation/templates/units/deku/deku_peahatmama.xml:68
 msgid ""
 "King Kud-Loh-Kan's Unique unit. Hover Creature unit that can shred surrounding enemies "
 "with its many blades. She spawns swarms of her larva to protect her."
-msgstr ""
+msgstr "König Kud-Loh-Kans einzigartige Einheit. Schwebende Kreatur die umlegende Gegner mit ihren vielen Klingen schreddert. Sie zeugt einen Schwarm aus Larven um sich zu schützen."
 
 #: simulation/templates/units/deku/deku_pikit_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
