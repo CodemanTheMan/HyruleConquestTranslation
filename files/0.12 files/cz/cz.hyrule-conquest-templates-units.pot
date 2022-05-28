@@ -583,13 +583,15 @@ msgid ""
 "more useful utility forms. They have very minimal armor and their bites are hardly "
 "effective."
 msgstr ""
+"Druhotná pracovní síla pro Gómy, Úlní Larva může vyrůst do větších a užitečnějších "
+"prospěšných forem. Mají minimální brnění a jejich kousání je sotva efektivní."
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_hive_b.xml:46
 #: simulation/templates/units/gohma/gohma_larva_hive_b.xml:58
 msgid ""
 "A small and hairy larva that can grow into various non-combat, utility forms. They can "
 "aid Harvesters and Hive Keepers with gathering Food and construction duty respectively."
-msgstr ""
+msgstr "Malí chlupatá larva schopná vyrůst do různých nebojových prospěšných forem."
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_hive_b.xml:89
 msgid "Create Hive Keeper."
@@ -615,11 +617,14 @@ msgid ""
 "larger Queens and eventually produce even more offspring. They have a nasty bite but "
 "are not particularly durable or combat-worthy."
 msgstr ""
+"Potenciálně některé z nejdůležitějších Góm v jakémkoliv úlu, Královské Larvy mohou "
+"vyrůst vě větší Královny a vyprodukovat ještě více potomstva. Mají ostrá klepítka ale "
+"nejsou moc odolné nebo vhodné pro boj."
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_royal_b.xml:34
 #: simulation/templates/units/gohma/gohma_larva_royal_b.xml:37
 msgid "A small but bloated larva that can grow into various reproductive or support forms."
-msgstr ""
+msgstr "Malá odilá larva s nevhodná pro boj."
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_royal_b.xml:71
 msgid "Create Gohma Queen."
@@ -645,7 +650,7 @@ msgstr ""
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_soldier_b.xml:74
 msgid "Create Pincergohma."
-msgstr "Vytvořit Kleštěgómu"
+msgstr "Vytvořit Kleštigómu"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_soldier_b.xml:84
 msgid "Create Spinalgohma."
@@ -7356,12 +7361,12 @@ msgstr ""
 #: simulation/templates/units/labrynna/labrynna_organgun_common.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Cannonballs"
-msgstr ""
+msgstr "Dělové Koule"
 
 #: simulation/templates/units/labrynna/labrynna_organgun.xml:53
 #: simulation/templates/units/labrynna/labrynna_organgun_common.xml:54
 msgid "Ribauldequin"
-msgstr ""
+msgstr "Ribauldequin"
 
 #: simulation/templates/units/labrynna/labrynna_organgun.xml:55
 #: simulation/templates/units/labrynna/labrynna_organgun_common.xml:55
@@ -7372,6 +7377,11 @@ msgid ""
 "over a large area rather than picking out a target. The resulting volley could "
 "indiscriminately shred apart large swaths of enemy soldiers."
 msgstr ""
+"Přezdíván 'Varhanová Puška' svými nepřátely, Ribauldequin byla baterie lehčích děl "
+"spojených k sobě. Tato zbraň však fungovala mnohem jinak než její jednodělný protějšek; "
+"Varhanová Puška vydala rapidní brokovou střelu přes větší oblast místo toho aby si "
+"vybrala cíl. Výchozí salva byla schopna bez rozdílu roztrhat velké čety nepřátelských "
+"vojáků."
 
 #: simulation/templates/units/labrynna/labrynna_organgun.xml:58
 #: simulation/templates/units/labrynna/labrynna_organgun_common.xml:58
@@ -7379,10 +7389,12 @@ msgid ""
 "Queen Ambi's Unique Unit. Ranged Siege unit with very wide field of fire and Splash "
 "Damage."
 msgstr ""
+"Jednotka kterou může verbovat pouze Královna Ambi. Střelná obléhací jednotka s velice "
+"širokým rozsahem pálby a plošným požkozením."
 
 #: simulation/templates/units/labrynna/labrynna_pathfinder_b.xml:34
 msgid "Pathfinder"
-msgstr ""
+msgstr "Naváděč"
 
 #: simulation/templates/units/labrynna/labrynna_pathfinder_b.xml:35
 msgid ""
@@ -7390,14 +7402,17 @@ msgid ""
 "lands and resources to conquer. They are quite familiar with the lands of Labrynna and "
 "are more than prepared to face the challenges of Hyrule’s varied terrain."
 msgstr ""
+"Oči a uši Labrynnských hranic, Naváděči bez ustání hledali nové země a zdroje k "
+"dobytí. Jsou docela obeznámeni s Labrynnskými zeměmi a ještě připravenější čelit výzvám "
+"různorodých terémů světa."
 
 #: simulation/templates/units/labrynna/labrynna_pathfinder_b.xml:39
 msgid "A swift Scout unit armed with a sword. Can detect Camouflaged and Stealthed unit."
-msgstr ""
+msgstr "Hbitá průzkumnická jednotka ozbrojená mečem. Schopna detekovat jednotky s kamufláží a utajením."
 
 #: simulation/templates/units/labrynna/labrynna_pioneer_b.xml:42
 msgid "Pioneer"
-msgstr ""
+msgstr "Ženista"
 
 #: simulation/templates/units/labrynna/labrynna_pioneer_b.xml:43
 msgid ""
@@ -7406,12 +7421,18 @@ msgid ""
 "combat, Pioneers could construct all manner of defenses and barriers in enemy lands, as"
 " well as sapper and undermine enemy structures."
 msgstr ""
+"Páteř a pracovní síla Labrynnské armády, Ženisté operovali většinu strojů Království "
+"a udržovali přívodní vedení a tábory. Když nebyli zaměstnáni bojem, Ženisté byli schopni "
+"zbudovat všemožné obrany a ohrady v nepřátelských zemích, a také vyřadit a podkopat "
+"nepřátelských budov."
 
 #: simulation/templates/units/labrynna/labrynna_pioneer_b.xml:47
 msgid ""
 "Support unit that can build many defenses and traps outside of controlled territory, as"
 " well as repair Labrynnian buildings and engines."
 msgstr ""
+"Podpůrná jednotka schopna zbudovat mnoho obran a pastí v nekontrolovaném teritoriu, a "
+"také opravit Labrynnské budovy a stroje."
 
 #: simulation/templates/units/labrynna/labrynna_steamtank_b.xml:60
 msgid "Steam Tank"
@@ -7435,7 +7456,7 @@ msgstr ""
 
 #: simulation/templates/units/labrynna/labrynna_talusknight_b.xml:34
 msgid "Talus Knight"
-msgstr ""
+msgstr "Taluský Rytíř"
 
 #: simulation/templates/units/labrynna/labrynna_talusknight_b.xml:35
 msgid ""
@@ -7445,14 +7466,19 @@ msgid ""
 " as a durable shield, the Knights were a powerful melee force and one of the last icons"
 " of Labrynna’s pre-empire era."
 msgstr ""
+"Bohatí vojáci z vyšších vrstev, mnoho Rytířů v Labrynně se začalo vytrácet když "
+"Království dostalo k moci. Řád Rytiřů se sjednotil u Taluské hory a nakonec přísahali "
+"věrnost Královské rodině Ambi. Nosící okrášlené ale těžké brnění, a také odolný štít, "
+"tito rytíři bylo mocnou pěší silou a jednou z posledních ikon Labrynnské předimpérijské "
+"éry."
 
 #: simulation/templates/units/labrynna/labrynna_talusknight_b.xml:39
 msgid "Strong Melee unit with a durable suit of armor. Carries a sword and shield into battle."
-msgstr ""
+msgstr "Silná pěší jednotka s odolným brněním. Nese do bitvy meč a štít."
 
 #: simulation/templates/units/labrynna/labrynna_titan_makulab.xml:73
 msgid "Guardian of Labrynna"
-msgstr ""
+msgstr "Strážkyně Labrynny"
 
 #: simulation/templates/units/labrynna/labrynna_titan_makulab.xml:74
 msgid ""
@@ -7467,13 +7493,15 @@ msgstr ""
 
 #: simulation/templates/units/labrynna/labrynna_titan_makulab.xml:77
 msgid "Maku Tree of Labrynna"
-msgstr ""
+msgstr "Maku Strom z Labrynny"
 
 #: simulation/templates/units/labrynna/labrynna_titan_makulab.xml:78
 msgid ""
 "Labrynnian Titan unit. Huge Siege unit that can rip apart even the most sturdy of enemy"
 " defenses."
 msgstr ""
+"Labrynnská Mýtická jednotka. Velká obléhací jednotka schopna roztrhat nejrobustnější "
+"nepřátelské obrany."
 
 #: simulation/templates/units/labrynna/labrynna_tokayfodder_b.xml:38
 msgid "Tokay Fodder"
@@ -7510,7 +7538,7 @@ msgstr ""
 
 #: simulation/templates/units/labrynna/labrynna_ursawagon_b.xml:46
 msgid "Ursa Wagon"
-msgstr ""
+msgstr "Medvědí Vagón"
 
 #: simulation/templates/units/labrynna/labrynna_ursawagon_b.xml:47
 msgid ""
@@ -7518,12 +7546,16 @@ msgid ""
 " ranged units and used as mobile turrets. They were perhaps most effective being used "
 "by gunpowder units, allowing them to reload and fire while on the move."
 msgstr ""
+"Jednoduchý vagón tažen Labrynnským modrým medvědem, tyto platformy mohly vézt posádku "
+"střelných jednotek a využity jako mobilní střílny. Byly asi nejefektivnější využity "
+"jednotkami se střelným prachem, jelikož jim umožňovaly přebít a střílet při pohybu."
 
 #: simulation/templates/units/labrynna/labrynna_ursawagon_b.xml:52
 msgid ""
 "Cavalry Support unit that can transport other units to battle. Garrisoned ranged units "
 "can attack from the wagon."
 msgstr ""
+"Jezdecká jednotka transportující jiné jednotky do bitvy.
 
 #: simulation/templates/units/labrynna_trader_b.xml:12
 msgid "Comerciante"
@@ -7541,11 +7573,11 @@ msgstr ""
 #: simulation/templates/units/zora/zora_infiltrator_upg.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fin Blades"
-msgstr ""
+msgstr "Ploutvové Čepele"
 
 #: simulation/templates/units/lanayru/lanayru_aquamarine_b.xml:34
 msgid "Aquamarine"
-msgstr ""
+msgstr "Mariňák"
 
 #: simulation/templates/units/lanayru/lanayru_aquamarine_b.xml:35
 msgid ""
@@ -7555,14 +7587,18 @@ msgid ""
 "with ease. The nature of their armor allowed them to move just as fast in water as on "
 "land."
 msgstr ""
+"Nosící odolné ale lehké a vysoce ohebné Lanajrijské brnění, Mariňáci byli hlavní "
+"útočná jednotka Provincie. Ozbrojeni ďábelsky ostrými korájílnými rukavicemi, Mariňáci "
+"byli schopni roztrhat všelijaké brnění se snází. Jejich ohebné brnění jim umožňovalo "
+"se pohybovat ve vodě tak rychle jako na pevnině."
 
 #: simulation/templates/units/lanayru/lanayru_aquamarine_b.xml:40
 msgid "Fast moving Melee unit that deals armor piercing damage."
-msgstr ""
+msgstr "Rychlá pěší jednotka působící brnění-průrazné požkození."
 
 #: simulation/templates/units/lanayru/lanayru_arachdervish_b.xml:42
 msgid "Arach Dervish"
-msgstr ""
+msgstr "Arachský Derviš"
 
 #: simulation/templates/units/lanayru/lanayru_arachdervish_b.xml:43
 msgid ""
@@ -7573,14 +7609,20 @@ msgid ""
 "itself has two powerful claws and a venomous stinger on its tail, making them one of "
 "the most deadly creatures in Lanayru's army."
 msgstr ""
+"Starší Arachové jsou vzácní, jelikož mohou být domestikování pouze v útlém věku. I ti "
+"kteří byli domestikováni nemohou přijímat verbální příkazy, a musí být řízeni jezdci. "
+"Kvůli tomu jak agresivní a obtížní byli Arachové na zvládnutí, jejich jezdci nemohou "
+"útočit a musí se soustředit čistě na řízení svých zvířat. Arachové samotní měli dvě "
+"silná klepeta a jedovaté žihadlo na svém ocasu, což z nich dělalo jedny z "
+"nejsmrtelnějších tvorů v Lanajrijské armádě."
 
 #: simulation/templates/units/lanayru/lanayru_arachdervish_b.xml:48
 msgid "Fast Melee Unit that attacks with poisonous stinger."
-msgstr ""
+msgstr "Rychlá jednotka která útočí svým jedovatým žihadlem."
 
 #: simulation/templates/units/lanayru/lanayru_aruroda_b.xml:38
 msgid "Aruroda"
-msgstr ""
+msgstr "Aruroda"
 
 #: simulation/templates/units/lanayru/lanayru_aruroda_b.xml:39
 msgid ""
@@ -7590,14 +7632,19 @@ msgid ""
 "problems with the creatures. If caught at a young enough age, Arurodas could be "
 "domesticated and used as beasts of war."
 msgstr ""
+"Štíři domorodí Lanajrijským pouštím, Arurody jsou považovány za extrémně nebezpečné "
+"škůdce mnohými civilizacemi světa. Zorové z Provincie Lanajru našli způsoby jak "
+"se adaptovat a vyhnout jejich agresivních obdobích a zřídka mají s těmito tvory "
+"problémy. Pokud jsou chyceny dost mladé, Arurody mohly být domestikovány jako "
+"válečná zvířata."
 
 #: simulation/templates/units/lanayru/lanayru_aruroda_b.xml:44
 msgid "Light Melee Creature unit that can burrow to become Stealthed."
-msgstr ""
+msgstr "Lehký peší tvor schopný se zahrabat aby se utajil."
 
 #: simulation/templates/units/lanayru/lanayru_ballista_b.xml:52
 msgid "Siege Unit"
-msgstr ""
+msgstr "Obléhací Jednotka"
 
 #: simulation/templates/units/lanayru/lanayru_ballista_b.xml:53
 msgid ""
@@ -7607,18 +7654,22 @@ msgid ""
 "aimed properly, a single shot from the Ballista could impale nearly a dozen enemy "
 "soldiers at a time."
 msgstr ""
+"Sloužící jako hlavní obléhací zbraň Provincie, Korájílová Balista je schopna "
+"odpálit mocné a rychlé šípy. Korájílové hlavice byly dost silné aby prorazily téměř "
+"všechno, ať už je to kamenná zeĎ nebo četa těžce obrněných vojáků. Pokud dobře mířeny, "
+"jedinná střela z Balisty byla schopna napíchnout skoro tucet nepřátelských vojáků zaráz. "
 
 #: simulation/templates/units/lanayru/lanayru_ballista_b.xml:56
 msgid "Coralmold Ballista"
-msgstr ""
+msgstr "Korájílová Balista"
 
 #: simulation/templates/units/lanayru/lanayru_ballista_b.xml:57
 msgid "Light Siege unit that deals Linear Splash Damage to its targets."
-msgstr ""
+msgstr "Lehká obléhací jednotka s lineárním plošným požkozením."
 
 #: simulation/templates/units/lanayru/lanayru_battlecrab_b.xml:42
 msgid "Battlecrab"
-msgstr ""
+msgstr "Bojový Krab"
 
 #: simulation/templates/units/lanayru/lanayru_battlecrab_b.xml:44
 msgid ""
@@ -7627,10 +7678,14 @@ msgid ""
 "defenders and successfully domesticated the crustaceans. A Battlecrab is followed by a "
 "small host of its children, who seek out and attack anything near their mother."
 msgstr ""
+"Nepřátelské bestie nalezeny po celém Lanajrijském pobřeží v létě, Bojoví Krabi byli "
+"nejlépe necháni samotní. Generálka Ajdie viděla využití v těchto tvorech jako provizorní "
+"obránci a úspěšně ty korýše domestikovali. Bojoví Krabi byli následováni malou tlupou "
+"jejich dětí, kteří zaútočí na cokoliv kolem jejich matky."
 
 #: simulation/templates/units/lanayru/lanayru_battlecrab_b.xml:49
 msgid "Durable Melee Creature that continually spawns baby Battlecrabs."
-msgstr ""
+msgstr "Odolný tvor který rodí mladé Bojové Kraby."
 
 #: simulation/templates/units/lanayru/lanayru_civilianA.xml:8
 #: simulation/templates/units/lanayru/lanayru_handmaidenA.xml:56
@@ -7653,7 +7708,7 @@ msgstr ""
 
 #: simulation/templates/units/lanayru/lanayru_conscript_b.xml:35
 msgid "Conscript"
-msgstr ""
+msgstr "Odvedenec"
 
 #: simulation/templates/units/lanayru/lanayru_conscript_b.xml:36
 msgid ""
@@ -7662,15 +7717,18 @@ msgid ""
 "expenses being covered by the Province. Most Conscripts lacked even basic training, and"
 " their survival rate was rather low on the frontlines of battle."
 msgstr ""
+"Nic víc než občané Lanajru kterým byl dán meč, Odvedenci jsou dobrovolní kteří se "
+"přidali k armádě výměnou za pokrytí všech životních nákladů Provincií. Většině Odvedenců "
+"chyběl i základní trénink, a jejich míra přežití byla často malá na předních liniích. "
 
 #: simulation/templates/units/lanayru/lanayru_conscript_b.xml:40
 msgid "Cheap mass produced Melee unit armed with swords."
-msgstr ""
+msgstr "Levná masově trénovaná pěší jednotka ozbrojena mečem."
 
 #: simulation/templates/units/lanayru/lanayru_coralarcher_b.xml:42
 #: simulation/templates/units/lanayru/lanayru_coralarcher_garrisoned.xml:43
 msgid "Coral Archer"
-msgstr ""
+msgstr "Korálový Lukostřelec"
 
 #: simulation/templates/units/lanayru/lanayru_coralarcher_b.xml:43
 #: simulation/templates/units/lanayru/lanayru_coralarcher_garrisoned.xml:44
@@ -7679,20 +7737,23 @@ msgid ""
 "counter to heavily armored units. In most cases they could level the playing field by "
 "softening up heavy armor for Lanayru’s lighter forces to deal with."
 msgstr ""
+"Ozbrojeni nechvalnými šípy s korájílnými hroty, Koráloví Lučištníci byli levní "
+"vojáci nasazeni proti těžce ozbrojeným jednotkám. Ve většině přápadů dokázali vyrovnat "
+"hrací pole prorážením těžkým brněním aby se s ním nemuseli vypořádávat pěší síly."
 
 #: simulation/templates/units/lanayru/lanayru_coralarcher_b.xml:47
 #: simulation/templates/units/lanayru/lanayru_coralarcher_garrisoned.xml:48
 msgid "Light Archer unit with armor piercing arrows."
-msgstr ""
+msgstr "Lehká lučištnická jednotka s brněním-průraznými šípy."
 
 #: simulation/templates/units/lanayru/lanayru_flinger_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Shrapnel"
-msgstr ""
+msgstr "Šrapnel"
 
 #: simulation/templates/units/lanayru/lanayru_flinger_b.xml:60
 msgid "Shrapnel Flinger"
-msgstr ""
+msgstr "Vrhač Šrapnelů"
 
 #: simulation/templates/units/lanayru/lanayru_flinger_b.xml:61
 msgid ""
@@ -7702,10 +7763,14 @@ msgid ""
 "attack completely missed, soldiers could still accidentally step on the resting shards "
 "and slice their feet in half."
 msgstr ""
+"Vrhače Šrapnělů byli nejnechvalnější zbraň Provincie, i mezi vlastní armádou. Tyto "
+"katapulty bez rozdílu pálily bezpočet korájílných šípů ostrých jako břitvy, které mohly "
+"potenciálně rozřezat tucet vojáků v jedné salvě. I pokud útok naprosto minul, vojáci "
+"mohli omylem šlápnout na ležící střepy a rozříznou si chodidla. "
 
 #: simulation/templates/units/lanayru/lanayru_flinger_b.xml:63
 msgid "Support unit that hurls large fields of twisted caltrops to damage passing enemy units."
-msgstr ""
+msgstr "Podpůrná jednotka schopna vrhat mnohé střepy schopné způsobit požkození procházejícím jednotkám."
 
 #: simulation/templates/units/lanayru/lanayru_gleeoklingA_1.xml:38
 #: simulation/templates/units/lanayru/lanayru_gleeoklingA_2.xml:45
@@ -7713,7 +7778,7 @@ msgstr ""
 #: simulation/templates/units/lanayru/lanayru_gleeoklingB_2.xml:45
 #: simulation/templates/units/lanayru/lanayru_gleeoklingB_3.xml:45
 msgid "Gleeokling"
-msgstr ""
+msgstr "Glijočík"
 
 #: simulation/templates/units/lanayru/lanayru_gleeoklingA_1.xml:39
 #: simulation/templates/units/lanayru/lanayru_gleeoklingA_2.xml:46
@@ -7728,6 +7793,12 @@ msgid ""
 " and heal any injury so long as one of its heads remains attached to its body; thus the"
 " only way to slay this creature is to decapitate all of its heads."
 msgstr ""
+"Potomstvo legendárního draka Glijoka, tito obojživelní tvorové byli jedni z mála draků "
+"zbývajících na světě. Provincie Lanajru obětovali velkou snahu ochočit tyto bestie a "
+"využít jejich sílu aby pomohli armádě. Glijočík má několik hlad které se regenerují pokud "
+"je jedna ztracená. Glijoček může přežít a uzdravit se z jakéhokoliv zranění pokud jim "
+"zůstala alespoň jedna hlava na těle; jedinný způsob jak porazit tuto saň je jí useknout "
+"všechny hlavy."
 
 #: simulation/templates/units/lanayru/lanayru_gleeoklingA_1.xml:44
 #: simulation/templates/units/lanayru/lanayru_gleeoklingA_2.xml:51
@@ -7735,11 +7806,11 @@ msgstr ""
 #: simulation/templates/units/lanayru/lanayru_gleeoklingB_2.xml:51
 #: simulation/templates/units/lanayru/lanayru_gleeoklingB_3.xml:51
 msgid "Powerful Melee Creature unit that continues to fight after it loses its heads."
-msgstr ""
+msgstr "Mocný tvor kteřý bojuje do ztráty všech jeho hlav."
 
 #: simulation/templates/units/lanayru/lanayru_guardianmaiden_b.xml:33
 msgid "Guardian Maiden"
-msgstr ""
+msgstr "Strážná Panna"
 
 #: simulation/templates/units/lanayru/lanayru_guardianmaiden_b.xml:35
 msgid ""
@@ -7750,14 +7821,19 @@ msgid ""
 " Hero, the Guardian Maiden would receive all damage instead of that Commander or Hero "
 "until she was slain."
 msgstr ""
+"Strážné Panny byly Zorské ženy které zasvětily své životy obranou Provincie, konkrétně "
+"jejich královskou linii. Vzdávající se všeho majetku, vztahů, a jakéhokoliv osobního "
+"života, nedělali nic kromě své práce až do konce života; nejlépe v bitvě. Dokud byla "
+"Strážná Panna ve formaci s velitem nebo hrdinou, dostala všechno požkození místo velitele "
+"nebo hrdiny dokud nepadla."
 
 #: simulation/templates/units/lanayru/lanayru_guardianmaiden_b.xml:40
 msgid "Queen Rutela's Unique Unit. Powerful Melee attacker with very high Dodge potential."
-msgstr ""
+msgstr "Jednotka kterou může verbovat pouze Královna Rutela. Mocná peší útočnice s velice vysokým úhybným potenciálem."
 
 #: simulation/templates/units/lanayru/lanayru_hermitid_b.xml:45
 msgid "Hermitid"
-msgstr ""
+msgstr "Poustinid"
 
 #: simulation/templates/units/lanayru/lanayru_hermitid_b.xml:46
 msgid ""
@@ -7767,14 +7843,19 @@ msgid ""
 "of the Hermitid makes it a poor combatant, but a group of soldiers can ride inside its "
 "shell protected from enemy attacks."
 msgstr ""
+"Velice mohutný tvor pravděpodobně spřízněný s Krelovou Krevetou, Poustinid je pomalu "
+"se hýbající příšera s velice odolným a velkým krunýřem. Jejich tlustým brněním neprojde "
+"nic kromě nejmocnějších zbraní a magie. Pomalá rychlost Poustinida z nich dělá špatné "
+"bojovníky, ale skupina vojáků je schopna je řídit, chráněna proti nepřátelským útokům "
+"v záhybech jeho krunýře."
 
 #: simulation/templates/units/lanayru/lanayru_hermitid_b.xml:51
 msgid "Large Support Creature that can ferry large amounts of soldiers in its protective shell."
-msgstr ""
+msgstr "Velká podpůrná jednotka přenášející skupinu vojáků v jejich ochraném krunýři."
 
 #: simulation/templates/units/lanayru/lanayru_hero_aydia.xml:34
 msgid "Supreme Province General"
-msgstr ""
+msgstr "Vrchní Generálka Provincie"
 
 #: simulation/templates/units/lanayru/lanayru_hero_aydia.xml:36
 msgid ""
@@ -7783,18 +7864,22 @@ msgid ""
 "fell from a lack of military force. She has perhaps participated in more battles than "
 "any other Zora of the north, and bears scars from her numerous engagements."
 msgstr ""
+"Ajdie dlouho sloužila jako Maršálka v Lanajrijské armádě. Byla skoro úplně odpovědná "
+"za odvedenecký program Provincie a bez ní by národ pravděpodobně padl kvůli nedostatku "
+"armádních sil. Zúčastnila se asi ve více bitvách než jakákoliv jiná Zora z východu, "
+"a nosí ze svých minulých bitev mnoho jizev."
 
 #: simulation/templates/units/lanayru/lanayru_hero_aydia.xml:40
 msgid "Aydia Dorephan"
-msgstr ""
+msgstr "Ajdie Dorfanská"
 
 #: simulation/templates/units/lanayru/lanayru_hero_aydia.xml:41
 msgid "Strong Melee Hero with decent armor and commanding abilities."
-msgstr ""
+msgstr "Silná pěší hrdinka s decentním brněním a velitelskými schopnostmi."
 
 #: simulation/templates/units/lanayru/lanayru_hero_dorephan.xml:39
 msgid "Lord of Lanayru"
-msgstr ""
+msgstr "Lord Lanajrijský"
 
 #: simulation/templates/units/lanayru/lanayru_hero_dorephan.xml:41
 msgid ""
@@ -7804,18 +7889,22 @@ msgid ""
 "divorce of De Bon and Rutela broke apart his initial plans, but have since provided him"
 " amble opprotunity to use the schism and take over Lanayru Province."
 msgstr ""
+"Politicky mocný lord Zorů který si vyvrtal cestu k vládě přes většinu Provincie Lanajru. "
+"Dlouho byl přítelem Krále de Bona, ale tajně hromadil moc pod Královým nosem, doufající "
+"že dostane svoji rodinu na trůn. Rozvod de Bona a Rutely mu zkazil původní plány, ale od "
+"té doby mu dal příležitost využít rozkol a ovládnout Provincii Lanajru.
 
 #: simulation/templates/units/lanayru/lanayru_hero_dorephan.xml:45
 msgid "Duke Dorephan"
-msgstr ""
+msgstr "Hrabě Dorfan"
 
 #: simulation/templates/units/lanayru/lanayru_hero_dorephan.xml:46
 msgid "Mounted Cavalry Hero that attacks with his mounts sharp claws."
-msgstr ""
+msgstr "Jezdecký hrdina útočící ostrými klepety svého kraba."
 
 #: simulation/templates/units/lanayru/lanayru_hero_mipha.xml:43
 msgid "Champion of Lanayru"
-msgstr ""
+msgstr "Šampiónka Lanajrijská"
 
 #: simulation/templates/units/lanayru/lanayru_hero_mipha.xml:45
 msgid ""
@@ -7823,19 +7912,21 @@ msgid ""
 "follow her in her mother's footsteps and uphold her family's military lineage. Despite "
 "some talent with pole-arms, Mipha felt her place was not in taking life, but healing "
 "it."
-msgstr ""
+msgstr "Jediná dcera Hraběte Dorfana a Ajdie, Mifa byla nádádána od útlého věku k tomu "
+"aby následovala ve šlépějích její matky a udržovala armádní historii rodiny. Přestože má "
+"trochu talent s trojzubcem, Mifa cítí že její místo ve světě není brát životy, ale uzdravovat. "
 
 #: simulation/templates/units/lanayru/lanayru_hero_mipha.xml:49
 msgid "Mipha Dorephan"
-msgstr ""
+msgstr "Mifa Dorfanská"
 
 #: simulation/templates/units/lanayru/lanayru_hero_mipha.xml:50
 msgid "Melee Hero armed with her cermonial Trident and gifted with healing abilities."
-msgstr ""
+msgstr "Pěší hrdinka ozbrojena ceremoniálním trojzubcem a obdařena uzdravovacími schopnostmi."
 
 #: simulation/templates/units/lanayru/lanayru_hero_ralis.xml:39
 msgid "The Silver Prince"
-msgstr ""
+msgstr "Stříbrný Princ"
 
 #: simulation/templates/units/lanayru/lanayru_hero_ralis.xml:41
 msgid ""
@@ -7845,18 +7936,22 @@ msgid ""
 "bravado and aggressiveness with masculinity, leading to him becoming a somewhat "
 "reckless warrior Prince."
 msgstr ""
+"Syn Krále de Bona a Královny Rutely, Ralis byl narozen těsně po královském rozvodu. "
+"Většinu života mu chyběla otcovská figura a byl vychován pouze jeho matkou, což mu "
+"možná zpomalilo vývoj. Trochu pošetile si spojoval kuráž a agresivitu s mužností, "
+"což vedlo k tomu že se z něho stal lekhomyslný Princ válečník."
 
 #: simulation/templates/units/lanayru/lanayru_hero_ralis.xml:45
 msgid "Ralis"
-msgstr ""
+msgstr "Ralis"
 
 #: simulation/templates/units/lanayru/lanayru_hero_ralis.xml:46
 msgid "Mounted Cavalry Hero that attacks with his mighty Silver Sword."
-msgstr ""
+msgstr "Jezdecký hrdina útořící svým mocným stříbrným mečem."
 
 #: simulation/templates/units/lanayru/lanayru_hero_rutela.xml:34
 msgid "Queen of Lanayru Province"
-msgstr ""
+msgstr "Královna Provincie Lanajru"
 
 #: simulation/templates/units/lanayru/lanayru_hero_rutela.xml:36
 msgid ""
@@ -7865,18 +7960,21 @@ msgid ""
 "marriage she was a general in the Dominion’s army and had participated in the defense "
 "against Ganon’s first invasion. "
 msgstr ""
+"Bývalá manželka Krále de Bona XVI, Rutela se nakonec rozvedla od Dominia a víceméně "
+"formálně založila Provincii Lanajru jako odlišný národ. Před jejich manželstvím byla "
+"generálka v armádě Dominia a zúčastila se v mnohé obraně."
 
 #: simulation/templates/units/lanayru/lanayru_hero_rutela.xml:40
 msgid "Rutela"
-msgstr ""
+msgstr "Rutela"
 
 #: simulation/templates/units/lanayru/lanayru_hero_rutela.xml:41
 msgid "Melee Hero that leads her forces into battle."
-msgstr ""
+msgstr "Pěší hrdinka která velí svým silám v bitvě."
 
 #: simulation/templates/units/lanayru/lanayru_hero_sidon.xml:43
 msgid "Prince of Lanayru"
-msgstr ""
+msgstr "Princ Lanajrijský"
 
 #: simulation/templates/units/lanayru/lanayru_hero_sidon.xml:45
 msgid ""
@@ -7885,18 +7983,21 @@ msgid ""
 " liked by the nobles of both the Dominion and Lanayru, but behind his friendly and "
 "saavy words are the teeth of a shark."
 msgstr ""
+"Jediný syn Hraběte Dorfana a mladší bratr Mify. Sidon byl dlouho zastíněn svou sestrou "
+"i přes jeho charisma a lepší politickou mysl. Je oblíben šlechtou Dominia i Provincie, ale "
+"za jeho přátelskými a duchaplnými slovy jsou zuby žraloka."
 
 #: simulation/templates/units/lanayru/lanayru_hero_sidon.xml:49
 msgid "Sidon Dorephan"
-msgstr ""
+msgstr "Sidon Dorfan"
 
 #: simulation/templates/units/lanayru/lanayru_hero_sidon.xml:50
 msgid "Melee Hero armed with a cermonial Sword."
-msgstr ""
+msgstr "Pěší hrdina ozbrojen ceremoniálním mečem."
 
 #: simulation/templates/units/lanayru/lanayru_lancer_b.xml:39
 msgid "Coral Lancer"
-msgstr ""
+msgstr "Korálový Kopiník"
 
 #: simulation/templates/units/lanayru/lanayru_lancer_b.xml:40
 msgid ""
@@ -7905,14 +8006,17 @@ msgid ""
 "cheap counter to cavalry and other larger units that their enemies often threw in their"
 " direction."
 msgstr ""
+"Koráloví Kopiníci byli hlavní vojáci Provincie; sloužící jako policisté a rychlá odezva "
+"invazím. Ozbrojeni špičatou korájílovou halapartnou, byli lehnou odezvou proti jezdectvu "
+"jiným větším jednotkám vrhnutým jejich směrem."
 
 #: simulation/templates/units/lanayru/lanayru_lancer_b.xml:44
 msgid "Spear armed Melee Infantry unit with moderate armor."
-msgstr ""
+msgstr "Kopím vyzbrojená pěší jednotka s decentním brněním."
 
 #: simulation/templates/units/lanayru/lanayru_marshal_b.xml:33
 msgid "Marshal"
-msgstr ""
+msgstr "Maršál"
 
 #: simulation/templates/units/lanayru/lanayru_marshal_b.xml:34
 msgid ""
@@ -7920,29 +8024,34 @@ msgid ""
 "battle. With such a large and unprofessional army they were invaluable for guiding "
 "troops and directing them in engagements."
 msgstr ""
+"Maršálové byli vojáci provincie kteří měli skutečnou akademickou a polní zkušenost "
+"v bitvě. S tak velkou a neprofesionální armádou byli neocenitelní ve vedení vojáků "
+"a směrováním v boji."
 
 #: simulation/templates/units/lanayru/lanayru_marshal_b.xml:39
 msgid "Commander unit that improves the performance of other units."
-msgstr ""
+msgstr "Velitelská jednotka která zlepšuje výkon ostatních jednotek."
 
 #: simulation/templates/units/lanayru/lanayru_minicrab_b.xml:32
 #: simulation/templates/units/lanayru/lanayru_minicrab_b.xml:38
 msgid "Baby Battlecrab"
-msgstr ""
+msgstr "Mládě Bojoveho Kraba"
 
 #: simulation/templates/units/lanayru/lanayru_minicrab_b.xml:33
 msgid ""
 "Small spawn of a mother Battlecrab, these young creatures follow their parent around "
 "and will attack anything that comes too close."
 msgstr ""
+"Malé mládě matky Bojových krabů, tito malí tvorové následovali své rodiče a útočili na "
+"cokoliv co se moc přiblížilo."
 
 #: simulation/templates/units/lanayru/lanayru_minicrab_b.xml:39
 msgid "Tiny Melee Creature unit that follows their mother Battlecrab."
-msgstr ""
+msgstr "Malý tvor který následuje svoji matku."
 
 #: simulation/templates/units/lanayru/lanayru_prawnbowman_b.xml:43
 msgid "Prawn Bowman"
-msgstr ""
+msgstr "Krevetí Lučištník"
 
 #: simulation/templates/units/lanayru/lanayru_prawnbowman_b.xml:44
 msgid ""
@@ -7952,14 +8061,19 @@ msgid ""
 "While they are quite slow and not ideal for direct combat, their ability to climb rocky"
 " inclines and cliffs make them excellent platforms for archers."
 msgstr ""
+"Pomalé Krelové Krevety mohou být nalezeny v mělkých vodách Velkého moře, ale každý rok "
+"migrují přes pevninu ve velkých houfech. Zorové z Provincie chytali a domestikovali tyto "
+"pomelé tvory a používali je jako tažná zvířata. Přestože byli poměrně pomalí a ne ideální "
+"pro přímý boj, jejich schopnost překročit skalnaté svahy a útesy je dělala excelentními "
+"platformami pro lukostřelce."
 
 #: simulation/templates/units/lanayru/lanayru_prawnbowman_b.xml:49
 msgid "Slow moving Missile Cavalry that can climb any terrain."
-msgstr ""
+msgstr "Pomalý jezdecký střelec schopen překročit jakýkoliv terén."
 
 #: simulation/templates/units/lanayru/lanayru_sentry_b.xml:39
 msgid "Shore Sentry"
-msgstr ""
+msgstr "Pobřežní Hlídka"
 
 #: simulation/templates/units/lanayru/lanayru_sentry_b.xml:40
 msgid ""
@@ -7968,15 +8082,19 @@ msgid ""
 "camouflage. If enemy invaders approached the Shore Sentry could easily escape to warn "
 "the Province’s main force, or in more desperate situations ambush their enemies and "
 "stall their forces."
-msgstr ""
+msgstr "Všude kolem řek a břehů Provincie Lanajru hlídala a strážila síť Pobřežních "
+"Hlídek. Tyto lehce obrněné jednotky vyměnili brnění za rychlost a kamufláž. Pokud "
+"se nepřáelé přiblížili, Pobřežní Hlídka mohla rychle utéct aby varovala hlavní síly "
+"Provincie, a nebo v zoufalejších situacích přepadnout své nepřátele a zpomalit jejich "
+"síly."
 
 #: simulation/templates/units/lanayru/lanayru_sentry_b.xml:44
 msgid "Scout unit armed with a spear. Can detect Camouflaged and Stealthed units."
-msgstr ""
+msgstr "Průzkumná jednotka obrněná kopím. Umí detekovat jednotky a kamufláží a utajením."
 
 #: simulation/templates/units/lanayru/lanayru_shoreserpent_b.xml:38
 msgid "Shore Serpent"
-msgstr ""
+msgstr "Pobřežní Had"
 
 #: simulation/templates/units/lanayru/lanayru_shoreserpent_b.xml:39
 msgid ""
@@ -7985,23 +8103,27 @@ msgid ""
 "the beast are used by the Zora of Lanayru as pets and circus attractions, though they "
 "also make a frightening opponent when spread into their army."
 msgstr ""
+"Vodní hadi žijící na březích Airu, Pobřežní Hadi jsou v divočině velice agresivní a "
+"nepřátelští tvorové s mocným zkusem. Domestikované odrůdy těchto bestií jsou využívány "
+"Zory z Provincie jako mazlíčci nebo cirkusové atrakce, ale dělají děsivé protivníky "
+"když jsou nasazeny v armádě."
 
 #: simulation/templates/units/lanayru/lanayru_shoreserpent_b.xml:44
 msgid "Slithering Melee Creature with a venomous bite."
-msgstr ""
+msgstr "Pěší tvor s jedovatým kousnutím."
 
 #: simulation/templates/units/lanayru/lanayru_shrapnel.xml:37
 msgid "Shrapnel Field"
-msgstr ""
+msgstr "Pole Šrapnelů"
 
 #: simulation/templates/units/lanayru/lanayru_silverarcher_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Silver Arrows"
-msgstr ""
+msgstr "Stříbrné Šípy"
 
 #: simulation/templates/units/lanayru/lanayru_silverarcher_b.xml:42
 msgid "Silver Archer"
-msgstr ""
+msgstr "Stříbrný Lukostřelec"
 
 #: simulation/templates/units/lanayru/lanayru_silverarcher_b.xml:44
 msgid ""
@@ -8011,21 +8133,27 @@ msgid ""
 "Silver Archer's attack scaled in power with the size of its target. Regardless of size,"
 " a Silver Arrow could puncture through all but Magic armor."
 msgstr ""
+"Lovci masivních bestií světa, tajemství Stříbrných Lukostřelců je v jejich šípech. "
+"Jediný Stříbrný Šíp byl schopen zranit většinu obřích příšer světa, většinou čím "
+"největších co jde. Síla útoku Stříbrných Lukostřelců se zvětšovala s velikostí cíle. "
+"Stříbrné Šípy byly schopny prorazit čímkoliv kromě magického brnění."
 
 #: simulation/templates/units/lanayru/lanayru_silverarcher_b.xml:49
 msgid ""
 "Prince Ralis' Unique Unit. Strong Missile unit that deals progressively more damage to "
 "larger unit sizes and pierces all forms of armor."
 msgstr ""
+"Jednotka kterou může verbovat pouze Princ Ralis. Silná střelná jednotka která působí "
+"více požkození podle veliksti cíle a proáží všechny formy brnění."
 
 #: simulation/templates/units/lanayru/lanayru_silverslasher_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Crescent Spear"
-msgstr ""
+msgstr "Půlměsíční Kopí"
 
 #: simulation/templates/units/lanayru/lanayru_silverslasher_b.xml:39
 msgid "Silverscale Slasher"
-msgstr ""
+msgstr "Stříbrný Sekač"
 
 #: simulation/templates/units/lanayru/lanayru_silverslasher_b.xml:40
 msgid ""
@@ -8036,25 +8164,30 @@ msgid ""
 "against armored enemies, a spear tip was added to the other end of their elegant "
 "weapons to fight off invaders."
 msgstr ""
+"Nesoucí ceremoniální půlměsíc a nosící stříbrné brnění, Stříbrní Sekači byli více "
+"pro výstavy než praktické využití. Často byli využíváni ke strážení Trůnu Airu nebo "
+"jiných důležitých lokací. Protože byl ceremoniální půlměsíc původně využíván k "
+"lovu a obětování malých zvířat a nebyl praktickou zbraní proti obrněných nepřátelům, "
+"na druhý konec jejich elegantních zbraní byl přidán hrot kopí k boji proti vetřelcům. "
 
 #: simulation/templates/units/lanayru/lanayru_silverslasher_b.xml:45
 msgid "Defensive Melee unit armed with a srescent spear."
-msgstr ""
+msgstr "Obraná pěší jednotka ozbrojena půlměsíčním kopím."
 
 #: simulation/templates/units/lanayru/lanayru_titan_lake.xml:13
 msgid "Liquify"
-msgstr ""
+msgstr "Zkapalnit"
 
 #: simulation/templates/units/lanayru/lanayru_titan_vrylonacia.xml:12
 #: simulation/templates/units/zora/zora_kyameron_b.xml:4
 #: simulation/templates/units/zora/zora_morphite_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Water Mass"
-msgstr ""
+msgstr "Vodní Masa"
 
 #: simulation/templates/units/lanayru/lanayru_titan_vrylonacia.xml:72
 msgid "The Spirit of Lanayru"
-msgstr ""
+msgstr "Duše Lanajrijská"
 
 #: simulation/templates/units/lanayru/lanayru_titan_vrylonacia.xml:73
 msgid ""
@@ -8065,18 +8198,21 @@ msgid ""
 "in the world, Vrylonacia's influence and symbols can be found throughout all of the "
 "Province's architecture and culture."
 msgstr ""
+"Prvotní duše po které je pojmenována Provincie Lanajru, Vrylonácie byla pravděpodobně "
+"uctívána jako pohanský bůh starověkými Zory před příchodem Akalců a zavedením úctívání "
+"jejich bohů. Legenda říká že Vrylonácie spí někde ve vodách světa."
 
 #: simulation/templates/units/lanayru/lanayru_titan_vrylonacia.xml:76
 msgid "Vrylonacia"
-msgstr ""
+msgstr "Vrylonácie"
 
 #: simulation/templates/units/lanayru/lanayru_titan_vrylonacia.xml:77
 msgid "Lanayru Titan unit. Giant Melee unit that can slide over any terrain."
-msgstr ""
+msgstr "Lanajrijská Mýtická jednotka. Obří jednotka schopná se proplazit přes každý terén."
 
 #: simulation/templates/units/lanayru/lanayru_tridenteer_b.xml:39
 msgid "Lightscale Tridenteer"
-msgstr ""
+msgstr "Světelný Trojzubce"
 
 #: simulation/templates/units/lanayru/lanayru_tridenteer_b.xml:41
 msgid ""
@@ -8085,16 +8221,21 @@ msgid ""
 "exceptionally adept at killing creature units with their tridents, and when not in "
 "combat they could slowly heal their injuries."
 msgstr ""
+"Lovci všelijakých mořských bestií, od Gjorgů Velkého moře po Veleokty jihu, Světelní "
+"Trojzubci byli mocní válečníci ve vodách. Byli vyjímečně nadaní v zabíjení netvorů svými "
+"Trojzubci, a když nebyli v boji mohli vyléčit své zranění."
 
 #: simulation/templates/units/lanayru/lanayru_tridenteer_b.xml:46
 msgid ""
 "Mipha's Unique Unit. Fast moving Melee unit armed with a long reaching trident. Excells"
 " at combat against creatures and aquatic units."
 msgstr ""
+"Jednotka kterou může verbovat ppouze Mifa. Rychlá pěší jednotka ozbrojená dlouho dosahujícím "
+"torjzubcem. Exceluje v boji s vodními tvory a jednotkami."
 
 #: simulation/templates/units/lanayru/lanayru_wavewarrior_b.xml:33
 msgid "Wave Warrior"
-msgstr ""
+msgstr "Válečník z Vln"
 
 #: simulation/templates/units/lanayru/lanayru_wavewarrior_b.xml:34
 msgid ""
@@ -8102,10 +8243,13 @@ msgid ""
 " Lanayru Province's chief battle unit. They could go toe to toe with their enemies and "
 "quickly retreat back to the waters if need be."
 msgstr ""
+"Oblečeni ve stříbrném šupinovém brnění a ozbrojeni stříbrným falchionem, Válečníci z "
+"Vln byli vrchni bojovou jednotkou Provincie Lanajru. Dokázali se postavit svým nepřátelům "
+"a rychle se navrátit do vod pokud potřeba."
 
 #: simulation/templates/units/lanayru/lanayru_wavewarrior_b.xml:39
 msgid "Moderate Melee unit armed with a Silver Sword."
-msgstr ""
+msgstr "Střední pěší jednotka ozbrojena stříbrným mečem."
 
 #: simulation/templates/units/lanayru_trader_b.xml:12
 msgid "Broker"
