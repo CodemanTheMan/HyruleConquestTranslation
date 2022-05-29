@@ -2951,15 +2951,15 @@ msgid ""
 "reliable siege weapon for centuries. Made from the wood of Desert Palms, they are very "
 "easy to construct and maintain. The boulders launched by these engines can take down "
 "just about any stationary target, be it walls, gates, or enemy towers."
-msgstr ""
+msgstr "Die Gerudo nutzen Katapulte als verlässliche Belagerungswaffe schon seit Jahrhunderten um feindliche Städte zu attackieren. Sie waren einfach zu bauen und in Stand zu halten, da sie aus dem Holz von Palmen bestanden. Die katapultierten Felsbrocken zertrümmerten so gut wie jedes stationäres Ziel, sei Mauer, Tor oder Turm."
 
 #: simulation/templates/units/gerudo/gerudo_catapult_b.xml:61
 msgid "Cheap but effective Siege unit with a ranged attack."
-msgstr ""
+msgstr "Billige aber effektive Belagerungswaffe mit einem Distanzangriff"
 
 #: simulation/templates/units/gerudo/gerudo_despoiler_b.xml:43
 msgid "Despoiler"
-msgstr ""
+msgstr "Plünderin"
 
 #: simulation/templates/units/gerudo/gerudo_despoiler_b.xml:44
 msgid ""
@@ -2968,11 +2968,11 @@ msgid ""
 "Armed with a curved Moonlight Scimitar and durable shield, they are feared by civilians"
 " across the desert. During times of war, they answer to Emperor Ganondorf and serve him"
 " without question."
-msgstr ""
+msgstr "Auf den Rücken der seltenen Gerudokamele überleben die Plünderinnen, eine loser Zusammenschluss, von Kriegerinnen, indem sie Dörfer am Rande des Reiches überfallen und brandschatzen."
 
 #: simulation/templates/units/gerudo/gerudo_despoiler_b.xml:49
 msgid "Cavalry Melee unit that excels at fighting other Cavalry and burning enemy buildings."
-msgstr ""
+msgstr "Kavallerie die hervorragend gegen andere Kavallerie die Klingen kreuzt und Gebäude niederbrennt."
 
 #: simulation/templates/units/gerudo/gerudo_dunewalker_b.xml:4
 #: simulation/templates/units/gerudo/gerudo_dustsentinel_b.xml:4
@@ -3002,11 +3002,11 @@ msgstr ""
 #: simulation/templates/units/sheikah/sheikah_hero_purah.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Arrows"
-msgstr ""
+msgstr "Pfeile"
 
 #: simulation/templates/units/gerudo/gerudo_dunewalker_b.xml:44
 msgid "Dune Walker"
-msgstr ""
+msgstr "Dünen Reiterin"
 
 #: simulation/templates/units/gerudo/gerudo_dunewalker_b.xml:45
 msgid ""
@@ -3015,39 +3015,39 @@ msgid ""
 "desert, Sandseal Dune Walkers may lack speed, but they are guaranteed to bring "
 "themselves and their riders to their destinations, even if they have to cross bodies of"
 " water. Mounted by an archer, they are excellent rear-line cavalry."
-msgstr ""
+msgstr "Die in der Gerudowüste heimischen Sandrobben sind schwer zu zähmen aber die Gerudo sind die Herrinnen dieser Bestien geworden. Langsam aber sicher schaffen es die Sandrobben sich selbst und ihre Reiter ans Ziel zu bringen sei es gegen  die tödlichen Sandstürme der Wüste oder tiefe Gewässer. Beritten von einer Bogenschützin bieten sie eine exellente Kavallerie in den hinteren Reihen."
 
 #: simulation/templates/units/gerudo/gerudo_dunewalker_b.xml:50
 msgid ""
 "Slow moving cavalry Missile unit that can attack enemies from afar with her bow and "
 "arrows."
-msgstr ""
+msgstr "Langsame Bogenschützin der Kavallerie"
 
 #: simulation/templates/units/gerudo/gerudo_dustsentinel_b.xml:45
 msgid "Dust Sentinel"
-msgstr ""
+msgstr "Wüstenstaub Hüterin"
 
 #: simulation/templates/units/gerudo/gerudo_dustsentinel_b.xml:47
 msgid ""
 "The reclusive Dust Sentinels are the stoic guardians of the desert borders. Capable of "
 "bunkering down, these Sandseal riders create a thick cloud of dust around themselves, "
 "which renders them invisible even while attacking, so long as they are stationary."
-msgstr ""
+msgstr "Die zurückgezogenen Wüstenstaub Hüterinnen sind die stoischen Wächterinnen der Wüstengrenzen. Sie sind fähig sich einzubunkern und dabei eine dicke Staubwolke um sich zu formen welche sie unsichtbar macht solange sie sich nicht bewegen beim angreifen."
 
 #: simulation/templates/units/gerudo/gerudo_dustsentinel_b.xml:52
 msgid ""
 "Princess Riju's Unique Unit. Mounted Missile Cavalry that can attack from afar and "
 "cloak nearbye units in a Sandstorm"
-msgstr ""
+msgstr "Einzigartige Einheit von Prinzessin Riju. Bogenschützin der Kavallerie die sich und einen Sandsturm erzeugen kann um sich und Verbündete zu tarnen."
 
 #: simulation/templates/units/gerudo/gerudo_gerudadorf_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Katars"
-msgstr ""
+msgstr "Stoßdolch"
 
 #: simulation/templates/units/gerudo/gerudo_gerudadorf_b.xml:43
 msgid "Gerudadorf"
-msgstr ""
+msgstr "Gerudadorf"
 
 #: simulation/templates/units/gerudo/gerudo_gerudadorf_b.xml:44
 msgid ""
@@ -3055,21 +3055,21 @@ msgid ""
 "masters. Well trained in the art of stealth, Gerudadorf take advantage of both their "
 "environment and the chaos of battle to slip through enemy ranks and kill high-priority "
 "targets."
-msgstr ""
+msgstr "Mit zwei Stoßdolchen bewaffnet, dienen die Gerudadorf als Schlachtfeldattentäter und für Meisterinnen des Hinterhalts. Gut trainiert in der Kunst sich Blicken zu entziehen, schlüpften die Gerudadorf mithilfe ihrer Umgebung und im Schlachtgetümmel durch die feindlichen Reihen um hochranginge Ziele auszuschalten."
 
 #: simulation/templates/units/gerudo/gerudo_gerudadorf_b.xml:49
 msgid "Fast Melee unit with Camouflage, has a chance to deal Critical Hits to enemies."
-msgstr ""
+msgstr "Schnelle getarnte Nahkämpferin die kritische Treffer austeilen kann."
 
 #: simulation/templates/units/gerudo/gerudo_glaivegrunt_b.xml:4
 #: simulation/templates/units/labrynna/labrynna_hero_edgar.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Glaive"
-msgstr ""
+msgstr "Glefe"
 
 #: simulation/templates/units/gerudo/gerudo_glaivegrunt_b.xml:40
 msgid "Glaive Grunt"
-msgstr ""
+msgstr "Glefen Lanzerin"
 
 #: simulation/templates/units/gerudo/gerudo_glaivegrunt_b.xml:41
 msgid ""
@@ -3077,21 +3077,21 @@ msgid ""
 "the Empire's borders and keeping a vigilant watch for any incursion. Armed with the "
 "Gerudo's signature glaive, these women can halt charging enemies and keep cavalry at "
 "bay."
-msgstr ""
+msgstr "Dutzende von Glefen Lanzerinnen patrollierten die Militärbasen in der Gerudowüste, bewachen die Grenzen des Reiches und halten wachsam Ausschau für feindliche Überfälle. Bewaffnet mit der für die Gerudo typischen Glefe, bieten die Glefen Lanzerinnen feindlichen Angriffen und Kavallerie die Stirn."
 
 #: simulation/templates/units/gerudo/gerudo_glaivegrunt_b.xml:45
 msgid "Light Melee unit armed with a spear."
-msgstr ""
+msgstr "Leichte Lanzenkämpferinnen"
 
 #: simulation/templates/units/gerudo/gerudo_goldenglad_b.xml:4
 #: simulation/templates/units/gerudo/gerudo_hero_buliara.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Claymore"
-msgstr ""
+msgstr "Gerudo Zweihänder"
 
 #: simulation/templates/units/gerudo/gerudo_goldenglad_b.xml:33
 msgid "Golden Gladiator"
-msgstr ""
+msgstr "Goldene Gladiatrix"
 
 #: simulation/templates/units/gerudo/gerudo_goldenglad_b.xml:34
 msgid ""
@@ -3099,17 +3099,17 @@ msgid ""
 "and speed to overpower lesser enemies. They are swift on their feet, can dodge well in "
 "a melee, and their strength and weapon of choice allows them to crack open enemy armor "
 "with ease."
-msgstr ""
+msgstr "Mit ihrer großen Kraft und Geschwindigkeit überwältigen die Goldenen Gladiatrices mickrigere Gegner und mit dem mächtigen Gerudo Zweihänder knacken sie jede Rüstung.  "
 
 #: simulation/templates/units/gerudo/gerudo_goldenglad_b.xml:39
 msgid "Urbosa's Unique Unit. Strong Melee unit that has a very high Dodge rate."
-msgstr ""
+msgstr "Urbosas einzigartige Einheit. Starke Nahkämpferin die eine hohe Ausweichrate hat."
 
 #: simulation/templates/units/gerudo/gerudo_hero_aveil.xml:4
 #: simulation/templates/units/gerudo/gerudo_masterthief_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Scimitars"
-msgstr ""
+msgstr "Säbel"
 
 #: simulation/templates/units/gerudo/gerudo_hero_aveil.xml:40
 msgid "Queen of Pirates"
@@ -3211,19 +3211,19 @@ msgstr ""
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:52
 msgid "Creature"
-msgstr ""
+msgstr "Kreatur"
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:52
 msgid "Cavalry"
-msgstr ""
+msgstr "Kavallerie"
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:52
 msgid "Archer"
-msgstr ""
+msgstr "Bogenschütze"
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:52
 msgid "Bow"
-msgstr ""
+msgstr "Bogen"
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:52
 #: simulation/templates/units/labrynna/labrynna_organgun.xml:59
