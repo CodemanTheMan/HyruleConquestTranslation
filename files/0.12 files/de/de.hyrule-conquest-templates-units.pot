@@ -3113,7 +3113,7 @@ msgstr "Säbel"
 
 #: simulation/templates/units/gerudo/gerudo_hero_aveil.xml:40
 msgid "Queen of Pirates"
-msgstr ""
+msgstr "Königin der Piraten"
 
 #: simulation/templates/units/gerudo/gerudo_hero_aveil.xml:42
 msgid ""
@@ -3121,93 +3121,93 @@ msgid ""
 "Aveil has long lived without any oversight and plundered many sea fareres across the "
 "Great Sea over the years. Now her power and resources have been turned to the Gerudo "
 "navy."
-msgstr ""
+msgstr "Die Herrin der Gerudo Piraten wurde durch Ganondorf wieder unter das Banner der Gerudo gebracht. Aveil hat schon lange ohne Aufsicht gelebt und hat schon viele Seefahrer über die Jahre hinweg ausgeraubt. Ihr Einfluss und ressourcen dienen jetzt der Gerudo Flotte. "
 
 #: simulation/templates/units/gerudo/gerudo_hero_aveil.xml:46
 msgid "Aveil"
-msgstr ""
+msgstr "Aveil"
 
 #: simulation/templates/units/gerudo/gerudo_hero_aveil.xml:47
 msgid "Fast and underhanded Melee Hero armed with two scimitars."
-msgstr ""
+msgstr "Schnelle und hinterhältige Kämpferin mit Zwei Säbeln."
 
 #: simulation/templates/units/gerudo/gerudo_hero_buliara.xml:38
 msgid "Palace Guard"
-msgstr ""
+msgstr "Palastwache"
 
 #: simulation/templates/units/gerudo/gerudo_hero_buliara.xml:40
 msgid ""
 "The latest in a line of Gerudo who have guarded the throne. Buliara served as a "
 "personal bodyguard for Ganondorf and later his daughter Riju."
-msgstr ""
+msgstr "Bylla enstammt einer langen Linie von Gerudo die schon den thron bewachen. Sie diente als persönliche Leibwächterin für Ganondorf und später seiner Tochter Riju.."
 
 #: simulation/templates/units/gerudo/gerudo_hero_buliara.xml:44
 msgid "Buliara"
-msgstr ""
+msgstr "Bylla"
 
 #: simulation/templates/units/gerudo/gerudo_hero_buliara.xml:45
 msgid "Strong Infantry Melee Hero that can cleave enemies with her huge sword."
-msgstr ""
+msgstr "Starke Infanterie Heldin die Feinde mit ihrem großen Schwert zerteilt."
 
 #: simulation/templates/units/gerudo/gerudo_hero_ganondorf.xml:37
 msgid "Emperor of the Gerudo"
-msgstr ""
+msgstr "König der Gerudo"
 
 #: simulation/templates/units/gerudo/gerudo_hero_ganondorf.xml:39
 msgid ""
 "The last male Gerudo, and only man to be born since the century of their curse, "
 "Ganondorf rules as the undisputed Emperor of his people. He is utterly ruthless, and "
 "harbors a burning hatred for the Hylians and their wealthy lands."
-msgstr ""
+msgstr "Der letzte männliche Gerudo und einziger Mann der ein Jahrhundert nach  ihrem Fluch geboren wurde. Ganondorf regiert als unangefochtener König seines Volkes. Er ist absolut ruchlos und hegt einen brennenden Hass gegenüber den Hylianern und ihren reichen Ländereien."
 
 #: simulation/templates/units/gerudo/gerudo_hero_ganondorf.xml:43
 msgid "Ganondorf"
-msgstr ""
+msgstr "Ganondorf"
 
 #: simulation/templates/units/gerudo/gerudo_hero_ganondorf.xml:44
 msgid "Powerful Cavalry Hero that tramples enemies and attacks with his scimitar."
-msgstr ""
+msgstr "Mächtiger Held der Kavallerie der Feinde niedertrampelt und säbelt."
 
 #: simulation/templates/units/gerudo/gerudo_hero_nabooru.xml:44
 msgid "Sage of Spirits"
-msgstr ""
+msgstr "Weise der Geister"
 
 #: simulation/templates/units/gerudo/gerudo_hero_nabooru.xml:46
 msgid ""
 "The legal wife of Ganondorf and Empress of the Gerudo, as well as the Sage of Spirits. "
 "Nabooru faces a struggle between loyalty to her husband, and her duty of Sagehood and "
 "to the greater safety of Hyrule."
-msgstr ""
+msgstr "Die rechtliche Frau von Ganondorf und Königin der Gerudo, als auch Weise der Geister. Naboru steht im Zwiespalt mit ihrer Loyalität zu ihrem Mann und ihren Pflichten als Weise und der allgemeinen Sicherheit von ganz Hyrule."
 
 #: simulation/templates/units/gerudo/gerudo_hero_nabooru.xml:50
 msgid "Empress Nabooru"
-msgstr ""
+msgstr "Königin Naboru"
 
 #: simulation/templates/units/gerudo/gerudo_hero_nabooru.xml:51
 #: simulation/templates/units/sheikah/sheikah_hero_sheik.xml:51
 msgid ""
 "Fast moving Assassin Hero who is Stealthed and can detect other Stealthed and "
 "Camouflaged units. High damage output against infantry and heroes."
-msgstr ""
+msgstr "Schnelle Attentäterin die getarnt ist und andere getarnte und versteckte Einheiten erspäht. Hoher Schaden gegen Infanterie und Helden."
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:44
 msgid "Princess of the Gerudo"
-msgstr ""
+msgstr "Prinzessin der Gerudo"
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:46
 msgid ""
 "The daughter of Ganondorf and Nabooru and the legal heir to the Gerudo throne, Riju has"
 " a fondness for Sandseals, and seeks to rebuild the fallen Gerudo Empire through means "
 "other than conquest."
-msgstr ""
+msgstr "Die Tochter von Ganondorf und Naboru und die rechtmäßige Erbin des Gerudo Throns. Riju hat eine vorliebe for Sandrobben und versucht das gefallene Gerudo Reich wiederherzustellen abseits der Eroberung."
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:50
 msgid "Makeela Riju"
-msgstr ""
+msgstr "Makeela Riju"
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:51
 msgid "Mounted Calvary Missile Hero who can snipe enemies from afar with her bow and arrows."
-msgstr ""
+msgstr "Bogenschützin der Kavallerie die ihre Gegner Präzise aus weiter Entfernung trifft."
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:52
 msgid "Creature"
@@ -3229,35 +3229,35 @@ msgstr "Bogen"
 #: simulation/templates/units/labrynna/labrynna_organgun.xml:59
 #: simulation/templates/units/labrynna/labrynna_organgun_common.xml:59
 msgid "Ranged"
-msgstr ""
+msgstr "Distanz"
 
 #: simulation/templates/units/gerudo/gerudo_hero_urbosa.xml:34
 msgid "Ashinon General"
-msgstr ""
+msgstr "Ashinon General"
 
 #: simulation/templates/units/gerudo/gerudo_hero_urbosa.xml:36
 msgid ""
 "One of Ganondorf's countless daughters, born to a lowly mother, Urbosa seeks the "
 "approval of her father, and religiously serves in his army and supports his campaign to"
 " conquer all of Hyrule."
-msgstr ""
+msgstr "Als eine von Ganondorfs zahllosen Töchtern und ausgetragen von einer einfachen Mutter, sucht Urbosa die anerkennung ihres Vater und dient ihm religiös in der armee und unterstützt sein Vorhaben ganz Hyrule zu unterwerfen."
 
 #: simulation/templates/units/gerudo/gerudo_hero_urbosa.xml:40
 msgid "Urbosa"
-msgstr ""
+msgstr "urbosa"
 
 #: simulation/templates/units/gerudo/gerudo_hero_urbosa.xml:41
 msgid "Durable and hearty Infantry Melee Hero armed with a sword and shield."
-msgstr ""
+msgstr "Wiederstandsfähige und kräftige Heldin der infanterie mit Schwert und Schild ausgerüstet."
 
 #: simulation/templates/units/gerudo/gerudo_icearcher_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Ice Arrows"
-msgstr ""
+msgstr "Eispfeile"
 
 #: simulation/templates/units/gerudo/gerudo_icearcher_b.xml:60
 msgid "Ice Archer"
-msgstr ""
+msgstr "Eisschützinnen"
 
 #: simulation/templates/units/gerudo/gerudo_icearcher_b.xml:61
 msgid ""
@@ -3265,15 +3265,15 @@ msgid ""
 "infamous Gerudo Training Grounds. Should they survive, they emerge victorious. with Ice"
 " Arrows in hand. These ancient magical weapons can fire a deadly arrow coated in frost."
 " On contact. they explode and instantly freeze anything near their impact."
-msgstr ""
+msgstr "Nach Jahren von mühseligen Training wurde den Gerudo Frauen die Möglichkeit gegeben in die berüchtigten Gerudo Arenen einzutreten. Wer überlebt geht als Sieger mit Eispfeilen in Händen hervor. Diese antiken magischen Waffen werfen einen mit Eis umhüllten Pfeil ab der beim Aufprall eine Explosion verursacht die alles in der Umgebung einfriert."
 
 #: simulation/templates/units/gerudo/gerudo_icearcher_b.xml:66
 msgid "Gerudo Missile unit that can slow enemy targets with her ranged Ice Arrows."
-msgstr ""
+msgstr "Gerudo Schützen die mit ihren Eispfeilen Gegner verlangsamen können."
 
 #: simulation/templates/units/gerudo/gerudo_ironknuckle_b.xml:53
 msgid "Iron Knuckle"
-msgstr ""
+msgstr "Eisenprinz"
 
 #: simulation/templates/units/gerudo/gerudo_ironknuckle_b.xml:54
 msgid ""
@@ -3282,22 +3282,22 @@ msgid ""
 "Empire. These massive and durable constructs wield huge Gerudo War Axes into battle. "
 "Having already died in the distant past, they know absolutely no fear and will engage "
 "even the most terrifying enemy head-on."
-msgstr ""
+msgstr "Mit den Geistern toter Gerudo Könige beseelte Rüstungen, die wieder in der Welt der Lebenden wandeln um Krieg gegen die Feinde des Reiches zu führen. Diese massiven und unverwüstlichen Rüstungen führen riesige Gerudo Kriegsäxte mit sich in die Schlacht. Da sie schonmal gestorben sind fürchten sie nichts und niemanden und bieten selbst den furchterregendsten Gegnern die Stirn."
 
 #: simulation/templates/units/gerudo/gerudo_ironknuckle_b.xml:59
 msgid ""
 "Powerful but extremely slow moving Infantry Melee unit that deals Splash and Knockback "
 "damage."
-msgstr ""
+msgstr "Mächtiger aber langsamer Axtkämpfer der Flächenschaden und Rückstoß austeilt. "
 
 #: simulation/templates/units/gerudo/gerudo_ironknuckle_bounded.xml:36
 msgid "Bounded Iron Knuckle"
-msgstr ""
+msgstr "Gebundner Eisenprinz"
 
 #: simulation/templates/units/gerudo/gerudo_marauder_b.xml:33
 #: simulation/templates/units/stalfos/stalfos_lostsoul_b.xml:34
 msgid "Marauder"
-msgstr ""
+msgstr "Marodeurin"
 
 #: simulation/templates/units/gerudo/gerudo_marauder_b.xml:34
 msgid ""
@@ -3305,26 +3305,26 @@ msgid ""
 "out of training. With little armor to worry about, Marauders can sprint across the "
 "sands of their homeland with ease, and swiftly raid enemy settlements with their "
 "scimitar."
-msgstr ""
+msgstr "Gerudo Marodeurinnen bestehen aus den jüngsten Kriegerinnen des Reiches die gerade frisch aus dem Training kommen. Ausgerüstet mit wenig panzerung um die sie sich kümmern müssten können die Marodeurinnen mühelos über den Wüstensand sprinten und feindliche Siedlungen mit ihren Säbeln rasch überfallen."
 
 #: simulation/templates/units/gerudo/gerudo_marauder_b.xml:38
 msgid "Light Infantry Melee unit that can raid enemies."
-msgstr ""
+msgstr "Leichte Infanterie die Gegner überfällt"
 
 #: simulation/templates/units/gerudo/gerudo_masterthief_b.xml:39
 msgid "Master Thief"
-msgstr ""
+msgstr "Meisterdiebin"
 
 #: simulation/templates/units/gerudo/gerudo_masterthief_b.xml:41
 msgid ""
 "In the harsh desert, thievery is often the best means of survival, and the Gerudo are "
 "the undisputed champions. Master Thieves can sneak into just about any location and "
 "pickpocket, steal, murder, and engage in all-out melee."
-msgstr ""
+msgstr "In der harschen Wüste ist der Diebstahl of eine der besten Möglichkeiten zu Überleben und die Gerudo sind die unangefochtenen CHampions. Meistediebinnen can sich in so ziemlich jeden Ort reinschleichen um zu stehlen, rauben, morden oder gleich ein ganzes Gefecht vom Zeun zu brechen. "
 
 #: simulation/templates/units/gerudo/gerudo_masterthief_b.xml:46
 msgid "Swift Melee unit that is Stealthed."
-msgstr ""
+msgstr "Geschickte Nahkämpferinnen die getarnt sind."
 
 #: simulation/templates/units/gerudo/gerudo_sandsniper_b.xml:41
 msgid "Sand Sniper"
