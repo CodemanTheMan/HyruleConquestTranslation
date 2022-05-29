@@ -1797,7 +1797,7 @@ msgstr "Blase"
 
 #: simulation/templates/units/deku/deku_bubbling_b.xml:77
 msgid "Bubbling"
-msgstr "Seifling"
+msgstr "Seifkerl"
 
 #: simulation/templates/units/deku/deku_bubbling_b.xml:78
 msgid ""
@@ -1861,7 +1861,7 @@ msgstr "Belagerungswaffe die explosive Deku Nüsse schleudert"
 
 #: simulation/templates/units/deku/deku_guardling_b.xml:66
 msgid "Guardling"
-msgstr "Wächterling"
+msgstr "Wächterkerl"
 
 #: simulation/templates/units/deku/deku_guardling_b.xml:67
 msgid ""
@@ -2013,7 +2013,7 @@ msgstr "Belagerungsheld der mit seinem Dekupult auf Distanz angreift"
 
 #: simulation/templates/units/deku/deku_hornling_b.xml:45
 msgid "Hornling"
-msgstr "Hornistkerl"
+msgstr "Hornkerl"
 
 #: simulation/templates/units/deku/deku_hornling_b.xml:46
 msgid ""
@@ -2103,7 +2103,7 @@ msgstr "Kopp"
 
 #: simulation/templates/units/deku/deku_nutling_b.xml:39
 msgid "Nutling"
-msgstr "Nussling"
+msgstr "Nusskerl"
 
 #: simulation/templates/units/deku/deku_nutling_b.xml:40
 msgid ""
@@ -2141,11 +2141,11 @@ msgid ""
 " although even that is a bit of a stretch considering the hard time they had riding "
 "them. In battle the Orhats could skitter by enemies with frighting speed, and could be "
 "mounted a large variety of Deku Scrubs and Babas on their backs."
-msgstr "Die Nashornkäfer waren eine der wenigen Kreaturen die die Laubkerle domestizieren konnten, auch wenn slebst diese Aussage etwas weit gegriffen ist wenn man sich anschaut wie schwer es den Dekus fiel sie zu reiten. In der Schlacht konnten die Nashornkäfer mit furchterregenden Geschwindigkeit auf ihre Gegner hin krabbeln und von einer großen Anzahl an Laubkerlen und Dekurhanas beritten werden."
+msgstr "Die Nashornkäfer waren eine der wenigen Kreaturen die die Laubkerle domestizieren konnten, wobei "domestizieren" etwas weit gegriffen ist wenn man sich anschaut wie schwer es den Dekus fiel sie zu reiten. In der Schlacht konnten die Nashornkäfer mit furchterregenden Geschwindigkeit auf ihre Gegner hin krabbeln und von einer großen Anzahl an Laubkerlen und Dekurhanas beritten werden."
 
 #: simulation/templates/units/deku/deku_orhat_b.xml:52
 msgid "Quick moving Melee Creature unit that can be mounted by a Deku Scrub rider."
-msgstr ""
+msgstr "Schnelle Nahkampf Kreatur die von einem Deku beritten werden kann."
 
 #: simulation/templates/units/deku/deku_orhatgiant_b.xml:4
 #: simulation/templates/units/deku/deku_titan_stagnox.xml:12
@@ -2234,7 +2234,7 @@ msgid ""
 "the roots of their bodies, of which they use to decapitate and slice apart intruders. "
 "On rare occasions the Scrubs managed to domesticate a Brood Mother who would hover "
 "about and continually spawn Peahat Larva to follow her around. "
-msgstr "Eine häufiger Anblick in den Ebenen Hyrule die sehr territorial ist und aggresiv ist. Diese Biester sind in der Lage in der Luft zu sschweben indem sie sich sehr schnell auf der Stelle drehen und dabei von den gelben Säcken unterstützt werden die mit einer Art Gas gefüllt sind. Riesige Klingen befinden sich knapp über ihren Wurzeln mit denen sie Eindringlinge köpfen und zerhäckseln. Ab und zu schafften es die Dekus eine Brutmutter zu zähmen die kontinuierlich kleine Larven zeugte die ihr folgen würden."
+msgstr "Ein häufiger Anblick in den Ebenen von Hyrule, die sehr aggresiv und territorial veranlagt ist. Diese Biester sind in der Lage in der Luft zu sschweben indem sie sich sehr schnell auf der Stelle drehen und dabei von den gelben Säcken unterstützt werden die mit einer Art Gas gefüllt sind. Riesige Klingen befinden sich knapp über ihren Wurzeln mit denen sie Eindringlinge köpfen und zerhäckseln. Ab und zu schafften es die Dekus eine Brutmutter zu zähmen die kontinuierlich kleine Larven zeugte die ihr folgen würden."
 
 #: simulation/templates/units/deku/deku_peahatmama.xml:68
 msgid ""
@@ -2245,11 +2245,11 @@ msgstr "König Kud-Loh-Kans einzigartige Einheit. Schwebende Kreatur die umlegen
 #: simulation/templates/units/deku/deku_pikit_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Spiked Tongue"
-msgstr ""
+msgstr "Stachelzunge"
 
 #: simulation/templates/units/deku/deku_pikit_b.xml:44
 msgid "Pikit"
-msgstr ""
+msgstr "Pikit"
 
 #: simulation/templates/units/deku/deku_pikit_b.xml:45
 msgid ""
@@ -2271,12 +2271,12 @@ msgstr ""
 #: simulation/templates/units/sheikah/sheikah_smokescreener_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Deku Nuts"
-msgstr ""
+msgstr "Deku Nüsse"
 
 #: simulation/templates/units/deku/deku_scrubling_b.xml:65
 #: simulation/templates/units/deku/deku_scrubling_garrison.xml:51
 msgid "Scrubling"
-msgstr ""
+msgstr "Laubkerl"
 
 #: simulation/templates/units/deku/deku_scrubling_b.xml:66
 #: simulation/templates/units/deku/deku_scrubling_garrison.xml:52
@@ -2287,30 +2287,30 @@ msgid ""
 "Mad Scrub blights, and often they were the first to succumb to outbreaks. During "
 "invasions the Deku Scrubs would often rile up the anger of huge swarms of Scrublings "
 "before sending them to their doom."
-msgstr ""
+msgstr " Diese armlosen individueen waren eine der niedrigsten Klassen der Dekukerle und wurden von ihren Vorgesetzten oft als Rüpel und Schläger eingesetzt. Laubkerle hatten oft keine Bildung, waren geistig recht beschränkt und ließen sich von ihren starken Emotionsschwankungen beherrschen. Dies machte sie besonders anfällig für den Laubwahn und sie waren bei Ausbrüchen die ersten die ebenjenem erlagen. Vor einer Invasion würden die Deku Kerle die Wut von Horden von Laubkerlen entfachen bevor sie in ihr Verderben geschickt wurden."
 
 #: simulation/templates/units/deku/deku_scrubling_b.xml:69
 #: simulation/templates/units/deku/deku_scrubling_garrison.xml:55
 msgid "Tiny Missile unit that spots out Deku Nuts at their targets."
-msgstr ""
+msgstr "Kleiner Fernkämpfer der Nüsse auf seine Gegner spuckt."
 
 #: simulation/templates/units/deku/deku_scrubram_b.xml:52
 msgid ""
 "While its tiny size hardly made it an impressive siege weapon, a huge swarm of these "
 "rams could wear down gates and walls bit by bit until they finally broke down."
-msgstr ""
+msgstr "Weil ihre geringe Größe kaum eine beeindruckende Belagerungswaffe abgab, so konnte ein großer Schwarm Rammböcke feindliche Befestigungen stück um stück zermürben bis sie endgültig einbrachen."
 
 #: simulation/templates/units/deku/deku_scrubram_b.xml:55
 msgid "Scrubram"
-msgstr ""
+msgstr "Rammkerl"
 
 #: simulation/templates/units/deku/deku_scrubram_b.xml:56
 msgid "Small and cheap Siege unit that bashes enemy fortifications to the ground."
-msgstr ""
+msgstr "Leichte billige Belagerungswaffe die Befestigungen den Boden gleichmacht."
 
 #: simulation/templates/units/deku/deku_snapdragon_b.xml:48
 msgid "Snapdragon"
-msgstr ""
+msgstr "Löwenmaul"
 
 #: simulation/templates/units/deku/deku_snapdragon_b.xml:49
 msgid ""
@@ -2318,15 +2318,15 @@ msgid ""
 "even to their own Scrub captors. These creatures hopped around with their viney "
 "appendages and rapidly gobbled up whatever they could get their two tentacled arms "
 "unto."
-msgstr ""
+msgstr "Eine schnelles ungeheurlich gewalttätiges pflanzenhaftes Monster. Die Löwenmäuler waren selbst für ihre Deku Fänger extrem gefährlich. Diese Kreaturen hoppelten mit ihren Rebengliedern herum und verschlangen alles was sie mit ihren zwei tentakelarmen erfassten."
 
 #: simulation/templates/units/deku/deku_snapdragon_b.xml:53
 msgid "Faster moving Melee Creature unit with a rapdi attack rate."
-msgstr ""
+msgstr "Schnelle Kreatur mit einer schnellen Rate an Nahkampfangriffen"
 
 #: simulation/templates/units/deku/deku_thopter_b.xml:61
 msgid "Flower Thopter"
-msgstr ""
+msgstr "Blütenschrauber"
 
 #: simulation/templates/units/deku/deku_thopter_b.xml:63
 msgid ""
@@ -2335,34 +2335,34 @@ msgid ""
 "only spin when in the hand of a Scrub. Flower Thopters were slow but could drop large "
 "Deku Nuts from above on to armies below, causes quite a flash and stunning everyone in "
 "the blast. "
-msgstr ""
+msgstr "Ein königlicher Kerl der hoch über den Boden mit einem Paar an drehenden Blumen fliegt. Was diese Blumen antrieb war selbst den Deku Kerlen ein Mysterium und sie schienen nur zu fliegen wenn ein Deku Kerl sie hielt. Blütenschrauber waren langsam aber sie konnten große Deku Nüsse auf ihre Gegner abwerfen die in einen Hellen Lichtblitz explodierten und und alle Gegner in der Umgebung betäubten"
 
 #: simulation/templates/units/deku/deku_thopter_b.xml:68
 msgid ""
 "Princess Kad-A-Kana's Unique Unit. Flying Missile unit that drops explosive Deku Nuts "
 "on their targets."
-msgstr ""
+msgstr "Einzigartige Einheit von Prinzessin Kad-A-Kana. Fliegender Fernkämpfer der explosive Deku Nüsse abwirft"
 
 #: simulation/templates/units/deku/deku_tiffer_b.xml:54
 msgid "Tiffer"
-msgstr ""
-
+msgstr "Erpresser"
+ 
 #: simulation/templates/units/deku/deku_tiffer_b.xml:56
 msgid ""
 "A fast hovering Deku Scrub that could burn down enemies with its candle. Tiffers seemed"
 " to be in the private service of Kuh-Do and were likely used by him as tax collectors "
 "and general bullies to maintain his profits."
-msgstr ""
+msgstr "Eine schnelle schwebende Deku Kerl Einheit die ihre Gegner mit Kerzen niederbrennt. Diese Erpresser waren augenscheinlich im Dienst von Kuh-Do und wurden vermutlich als seine persönlichen Steuereintreiber und Schläger benutzt um siene Profite zu sichern."
 
 #: simulation/templates/units/deku/deku_tiffer_b.xml:61
 msgid ""
 "Butler Kuh-Do's Unique Unit. Hovering Missile unit that torches enemies with their "
 "burning candles."
-msgstr ""
+msgstr "Einzigartige Einheit von Kuh Do. Schwebende Einheit die ihre Gegner auf die Distanz mit Kerzen niederbrennt"
 
 #: simulation/templates/units/deku/deku_titan_stagnox.xml:73
 msgid "Armored Colossus"
-msgstr ""
+msgstr "Gepanzerter Riesenkäfer"
 
 #: simulation/templates/units/deku/deku_titan_stagnox.xml:74
 msgid ""
@@ -2371,15 +2371,15 @@ msgid ""
 "their behalf. The Stagnox may be slow, but his armor is some of the most impressive and"
 " durable in Hyrule. While the Stagnox has wings, his huge size makes his ability to fly"
 " very limited."
-msgstr ""
+msgstr "Dieser massige Nashornkäfer Gigant lauert schon lang in den östlichen Wäldern Hyrules. In manchen Fällen schafften es die Deku Kerle dieses große Monster dazu zu zwingen für sich kämpfen zu lassen. Der Gigakules ist zwar langsam aber seine Panzerung ist eine der beindruckendsten und stärksten im bekannten Hyrule. Zwar hat diser Käfer Flügel allerdings ist er so schwer das seine Flugfähigkeiten begrenzt sind."
 
 #: simulation/templates/units/deku/deku_titan_stagnox.xml:77
 msgid "Stagnox"
-msgstr ""
+msgstr "Gigakules"
 
 #: simulation/templates/units/deku/deku_titan_stagnox.xml:78
 msgid "Deku Scrub Titan unit. Giant Melee unit with extremely durable armor."
-msgstr ""
+msgstr "Deku Kerl Titan. Riesiger Nahkämpfer mit extrem starker Panzerung"
 
 #: simulation/templates/units/deku_trader_b.xml:12
 msgid "Business Scrub"
@@ -2395,7 +2395,7 @@ msgstr ""
 
 #: simulation/templates/units/dummy_unit.xml:33 simulation/templates/units/dummy_unit.xml:38
 msgid "If you can train this, it's a bug. Please report it."
-msgstr ""
+msgstr "Falls do das ausführen kannst, melde es bitte, es ist ein Fehler."
 
 #: simulation/templates/units/fairy/fairy_banshee_autumn.xml:4
 #: simulation/templates/units/fairy/fairy_banshee_b.xml:4
@@ -2404,7 +2404,7 @@ msgstr ""
 #: simulation/templates/units/fairy/fairy_banshee_winter.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Magic Wand"
-msgstr ""
+msgstr "Magischer Stab"
 
 #: simulation/templates/units/fairy/fairy_banshee_b.xml:38
 msgid "Banshee"
@@ -2427,7 +2427,7 @@ msgstr ""
 #: simulation/templates/units/fairy/fairy_bounded_summer.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Great Fairy Sword"
-msgstr ""
+msgstr "Großes Feenschwert"
 
 #: simulation/templates/units/fairy/fairy_bounded_b.xml:37
 msgid "Bounded"
@@ -2557,7 +2557,7 @@ msgstr ""
 #: simulation/templates/units/zora/zora_boomeranger_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Boomerang"
-msgstr ""
+msgstr "Bumerang"
 
 #: simulation/templates/units/fairy/fairy_galeboomer_b.xml:33
 msgid "Gale Boomerang"
@@ -2834,7 +2834,7 @@ msgstr ""
 #: simulation/templates/units/fairy/fairy_titan_makuhoron.xml:12
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fairy Burst"
-msgstr ""
+msgstr "Feen Sturm"
 
 #: simulation/templates/units/fairy/fairy_titan_makuhoron.xml:85
 msgid ""
@@ -2849,7 +2849,7 @@ msgstr ""
 
 #: simulation/templates/units/fairy/fairy_titan_makuhoron.xml:88
 msgid "Maku Tree of Horon"
-msgstr ""
+msgstr "Maku Baum von Horon"
 
 #: simulation/templates/units/fairy/fairy_titan_makuhoron.xml:89
 msgid "Fairy Titan unit. Support unit that continues to summon Fairy Droves into battle."
@@ -2876,11 +2876,11 @@ msgstr ""
 #: simulation/templates/units/gerudo/gerudo_vagrudanon_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Scimitar"
-msgstr ""
+msgstr "Säbel"
 
 #: simulation/templates/units/gerudo/gerudo_arbiter_b.xml:32
 msgid "Arbiter"
-msgstr ""
+msgstr "Vollstrecker"
 
 #: simulation/templates/units/gerudo/gerudo_arbiter_b.xml:34
 msgid ""
@@ -2888,13 +2888,13 @@ msgid ""
 "Ganondorf, seeing to the affairs of his desert Empire. All Gerudo fear them, and their "
 "arrival usually signals the coming of a great and deadly battle. Arbiters can "
 "dramatically improve the performance of all cavalry under their command."
-msgstr ""
+msgstr "Die Vollstrecker sind die rechte Hand des Gerudo Königs Ganondorf die als seine Richter und Henker in der Gerudo Wüste seine Angelegenheiten klären. Alle Gerudo fürchten sie und ihre Ankunft ist das Omen einer kommenden blutigen Schlacht. Die Gebieter können die Leistung der Kavallerie unter ihrem Kommando stark verbessern."
 
 #: simulation/templates/units/gerudo/gerudo_arbiter_b.xml:39
 msgid ""
 "Ganondorf's Unique Unit. Cavalry Commander unit that improves the performance of other "
 "Cavalry units."
-msgstr ""
+msgstr "Ganondorfs Einzigartige Einheit. Kavallerie Kommandant der andere Kavallerie verbessert"
 
 #: simulation/templates/units/gerudo/gerudo_artisanA.xml:63
 #: simulation/templates/units/gerudo/gerudo_civilianA.xml:8
@@ -2919,7 +2919,7 @@ msgstr ""
 
 #: simulation/templates/units/gerudo/gerudo_ashcap_b.xml:41
 msgid "Ashinon Captain"
-msgstr ""
+msgstr "Ashion Hauptfrau"
 
 #: simulation/templates/units/gerudo/gerudo_ashcap_b.xml:42
 msgid ""
@@ -2927,11 +2927,11 @@ msgid ""
 "Empire. Incredibly athletic and acrobatic, they are able to weave and parry their way "
 "to the throats of even the most heavily-armored enemies. They are perhaps most notable "
 "for their ability to command other women in battle."
-msgstr ""
+msgstr "Die Ashion Hauptfrauen waren ein paar der am besten ausgebildesten Soldatinnen in der Geschichte des Gerudo Reichs. Sie waren ausgesprochen akrobatisch un athletisch und konnten sich selbst zu den Kehlen der am besten gepanzerten Gegner durchfechten und parieren. Ihre wichtigste Fähigkeit war hingegen die anderen Frauen anzuspornen."
 
 #: simulation/templates/units/gerudo/gerudo_ashcap_b.xml:46
 msgid "Melee Commander unit that bolsters other Gerudo troops in battle."
-msgstr ""
+msgstr "Kommandant der andere Truppen im Nahkampf anführt"
 
 #: simulation/templates/units/gerudo/gerudo_catapult_b.xml:4
 #: simulation/templates/units/goron/goron_giant_b.xml:4
@@ -2939,11 +2939,11 @@ msgstr ""
 #: simulation/templates/units/ordona/ordona_catapult_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Boulder"
-msgstr ""
+msgstr "Brocken"
 
 #: simulation/templates/units/gerudo/gerudo_catapult_b.xml:58
 msgid "Gerudo Catapult"
-msgstr ""
+msgstr "Gerudo Katapult"
 
 #: simulation/templates/units/gerudo/gerudo_catapult_b.xml:59
 msgid ""
