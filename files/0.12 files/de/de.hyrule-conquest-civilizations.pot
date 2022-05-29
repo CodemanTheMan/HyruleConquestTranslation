@@ -279,11 +279,11 @@ msgid ""
 "their behalf. The Stagnox may be slow, but his armor is some of the most impressive and"
 " durable in Hyrule. While the Stagnox has wings, his huge size makes his ability to fly"
 " very limited."
-msgstr "Dieser gigantische massige Nashornkäfer lauerte schon lang in den östlichen Wäldern Hyrules. In manchen Fällen schafften es die Laubkerle dieses grosse Monster dazu zu zwingen für sich kämpfen zu lassen."
+msgstr "Dieser massige Nashornkäfer Gigant lauert schon lang in den östlichen Wäldern Hyrules. In manchen Fällen schafften es die Deku Kerle dieses große Monster dazu zu zwingen für sich kämpfen zu lassen. Der Gigakules ist zwar langsam aber seine Panzerung ist eine der beindruckendsten und stärksten im bekannten Hyrule. Zwar hat diser Käfer Flügel allerdings ist er so schwer das seine Flugfähigkeiten begrenzt sind."
 
 #: simulation/data/civs/deku.json:Structures[1].Name
 msgid "Titan: Stagnox, Armored Colossus"
-msgstr "Riesenkäfer Gigakules"
+msgstr "Gepanzerter Riesenkäfer Gigakules"
 
 #: simulation/data/civs/deku.json:TeamBonuses[0].Description
 msgid "25% land trade route bonus."
