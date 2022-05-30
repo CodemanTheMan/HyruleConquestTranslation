@@ -3265,11 +3265,11 @@ msgid ""
 "infamous Gerudo Training Grounds. Should they survive, they emerge victorious. with Ice"
 " Arrows in hand. These ancient magical weapons can fire a deadly arrow coated in frost."
 " On contact. they explode and instantly freeze anything near their impact."
-msgstr "Nach Jahren von mühseligen Training wurde den Gerudo Frauen die Möglichkeit gegeben in die berüchtigten Gerudo Arenen einzutreten. Wer überlebt geht als Sieger mit Eispfeilen in Händen hervor. Diese antiken magischen Waffen werfen einen mit Eis umhüllten Pfeil ab der beim Aufprall eine Explosion verursacht die alles in der Umgebung einfriert."
+msgstr "Nach Jahren von mühseligen Training wurde den Gerudo Frauen die Möglichkeit gegeben in die berüchtigten Gerudo Arenen einzutreten. Wer überlebt geht als Sieger mit Eispfeilen in den Händen hervor. Diese antiken magischen Waffen werfen einen mit Eis umhüllten Pfeil ab der beim Aufprall eine Explosion verursacht die alles in der Umgebung einfriert."
 
 #: simulation/templates/units/gerudo/gerudo_icearcher_b.xml:66
 msgid "Gerudo Missile unit that can slow enemy targets with her ranged Ice Arrows."
-msgstr "Gerudo Schützen die mit ihren Eispfeilen Gegner verlangsamen können."
+msgstr "Gerudo Schützininnen die mit ihren Eispfeilen Gegner verlangsamen können."
 
 #: simulation/templates/units/gerudo/gerudo_ironknuckle_b.xml:53
 msgid "Iron Knuckle"
@@ -3282,7 +3282,7 @@ msgid ""
 "Empire. These massive and durable constructs wield huge Gerudo War Axes into battle. "
 "Having already died in the distant past, they know absolutely no fear and will engage "
 "even the most terrifying enemy head-on."
-msgstr "Mit den Geistern toter Gerudo Könige beseelte Rüstungen, die wieder in der Welt der Lebenden wandeln um Krieg gegen die Feinde des Reiches zu führen. Diese massiven und unverwüstlichen Rüstungen führen riesige Gerudo Kriegsäxte mit sich in die Schlacht. Da sie schonmal gestorben sind fürchten sie nichts und niemanden und bieten selbst den furchterregendsten Gegnern die Stirn."
+msgstr "Mit den Geistern toter Gerudo Könige beseelte Rüstungen, die wieder in der Welt der Lebenden wandeln um Krieg gegen die Feinde des Reiches zu führen. Diese massiven und unverwüstlichen Rüstungen führen riesige Gerudo Kriegsäxte mit sich in die Schlacht. Da sie schon einmal gestorben sind fürchten sie nichts und niemanden und bieten selbst den furchterregendsten Gegnern die Stirn."
 
 #: simulation/templates/units/gerudo/gerudo_ironknuckle_b.xml:59
 msgid ""
@@ -3328,7 +3328,7 @@ msgstr "Geschickte Nahkämpferinnen die getarnt sind."
 
 #: simulation/templates/units/gerudo/gerudo_sandsniper_b.xml:41
 msgid "Sand Sniper"
-msgstr ""
+msgstr "Sand Scharfschützin"
 
 #: simulation/templates/units/gerudo/gerudo_sandsniper_b.xml:42
 #: simulation/templates/units/gerudo/gerudo_sandsniper_garrison.xml:43
@@ -3337,21 +3337,21 @@ msgid ""
 "from a very young age in the art of the bow, Sand Snipers are infamous for their "
 "ability to hit their targets dead-on from extremely long ranges. There are few "
 "individuals in Hyrule who can best them from a distance. "
-msgstr ""
+msgstr "Die Gerudo Sand Scharfschützinnen repäsentieren ein paar der besten Bogenschützen in der gesamten Wüste. Schon von klein auf im umgang mit denm Bogen trainiert waren die Scharfschützinnen berüchtigt für ihre Fähigkeit Gegner aus einer extremen Entfernung zu treffen. Es gibt wenige Individuen in Hyrule die sie im Distanzkampf herauszufordern."
 
 #: simulation/templates/units/gerudo/gerudo_sandsniper_b.xml:47
 #: simulation/templates/units/gerudo/gerudo_sandsniper_garrison.xml:48
 msgid "Long ranged Infantry Missile unit that has Camouflage."
-msgstr ""
+msgstr "Getarnte Bogenschützinnen mit einer hohen Reichweite"
 
 #: simulation/templates/units/gerudo/gerudo_sandsniper_garrison.xml:42
 #: simulation/templates/units/hylian/hylian_soldier_archer_garrison.xml:42
 msgid "Garrison Archer"
-msgstr ""
+msgstr "Garnison Schützeninnen"
 
 #: simulation/templates/units/gerudo/gerudo_sealplower_b.xml:39
 msgid "Sandseal Plower"
-msgstr ""
+msgstr "Sandrobben Pflug"
 
 #: simulation/templates/units/gerudo/gerudo_sealplower_b.xml:40
 #: simulation/templates/units/npc_tokay/npc_tok_aquajockey_b.xml:37
@@ -3359,15 +3359,15 @@ msgid ""
 "Fitted with a giant head-mounted horn, the Sandseal Plower serves as a living battering"
 " ram for Gerudo armies. Capable of crossing harsh deserts as well as bodies of water, "
 "the Plower can charge into buildings and walls, tearing them apart brick-by-brick."
-msgstr ""
+msgstr "Sandrobben Pflüge sind lebende Rammböcke der Gerudo Armeen,denen ein riesiges Horn auf dem Kopf angebracht wurde. Mit der Fähigkeit sowohl die harsche Wüste als auch die Gewässer zu überqueren, können sie jede Mauer oder Gebäude stürmen und Stein um Stein einreißen."
 
 #: simulation/templates/units/gerudo/gerudo_sealplower_b.xml:45
 msgid "Strong but slow moving Cavalry Siege unit."
-msgstr ""
+msgstr "Starke aber langsame Belagerungeinheit der Kavallerie"
 
 #: simulation/templates/units/gerudo/gerudo_serpentkeep_b.xml:40
 msgid "Serpent Slayer"
-msgstr ""
+msgstr "Schlangentöterin"
 
 #: simulation/templates/units/gerudo/gerudo_serpentkeep_b.xml:42
 msgid ""
@@ -3376,22 +3376,26 @@ msgid ""
 " Khopesh and the legendary Mirror Shield, they are completely immune to all elemental "
 "and magical attacks, making them excellent at killing mages and other mystical beasts "
 "in battle."
-msgstr ""
+msgstr "In zeremonieller goldener Rüstung gekleidet, der ersten Weise der Geister Kovaloo nachempfunden,  "
+"bewachen die Schlangetöterinnen die verborgenen Tiefen der in der Wüste verteilten Gerudo Grüfte. "
+"Mit Chepesch in der einen und dem legendärem Spiegeschild in der anderen Hand, "
+"sind sie immun gegen alle Angriffe von der Elemente und Magie, "
+"was sie zu ausgezeichnet im ausschalten von Magiern und mytischen Bestien macht. "
 
 #: simulation/templates/units/gerudo/gerudo_serpentkeep_b.xml:47
 msgid ""
 "Urbosa's Unique Unit. Relatively slow but durable anti-mage unit that can reflect Magic"
 " damage through the mirror shield."
-msgstr ""
+msgstr "Urbosas einzigartige Einheit, relativ langsam aber langlebige Antimagierin die magischen Schaden reflektieren kann."
 
 #: simulation/templates/units/gerudo/gerudo_titan_twinrova.xml:12
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fire and Ice Magic"
-msgstr ""
+msgstr "Feuer und Eis Magie"
 
 #: simulation/templates/units/gerudo/gerudo_titan_twinrova.xml:74
 msgid "The Sorceress Sisters"
-msgstr ""
+msgstr "Hollische Hexenarmada"
 
 #: simulation/templates/units/gerudo/gerudo_titan_twinrova.xml:75
 msgid ""
@@ -3399,17 +3403,20 @@ msgid ""
 "magically merging into a powerful and malevolent entity known as Twinrova. When "
 "combined, the witches are capable of unleashing devastating fire and ice magic against "
 "enemies."
-msgstr ""
+msgstr "Die Zwillingschwestern Koume und Kotake sind die Ziehmütter von Ganondorf"
+"und in der Lage magisch in eine mächtige und bösartige Entität bekannt als Twinrova "
+"zu verschmelzen. Wenn sie verschmolzen sind können sie vernichtende Feuer und Eis Magie"
+"auf ihre gegner niederregnen lassen."
 
 #: simulation/templates/units/gerudo/gerudo_titan_twinrova.xml:78
 msgid "Twinrova"
-msgstr ""
+msgstr "Twinrova"
 
 #: simulation/templates/units/gerudo/gerudo_titan_twinrova.xml:79
 msgid ""
 "Gerudo Titan unit. Powerful hovering ranged Mage that deals both Fire and Water damage "
 "to enemies."
-msgstr ""
+msgstr "Gerudo Titan. Mächtige schwebende Magierin die gleichzetig Feuer und Wasser Schaden verursacht."
 
 #: simulation/templates/units/gerudo/gerudo_tombguard_b.xml:4
 #: simulation/templates/units/lanayru/lanayru_hero_mipha.xml:4
@@ -3419,11 +3426,11 @@ msgstr ""
 #: simulation/templates/units/npc_zuna/npc_zun_tridenteer_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Trident"
-msgstr ""
+msgstr "Dreizack"
 
 #: simulation/templates/units/gerudo/gerudo_tombguard_b.xml:38
 msgid "Tomb Guard"
-msgstr ""
+msgstr "Totenwache"
 
 #: simulation/templates/units/gerudo/gerudo_tombguard_b.xml:39
 msgid ""
@@ -3431,50 +3438,55 @@ msgid ""
 "long-deceased Gerudo Kings, as well as the Royal Palace and other political centers. "
 "Armed with a Trident-Spear and shining Golden Shield, Tomb Guards can stand their "
 "ground and hold off almost any foe."
-msgstr ""
+msgstr "Hochrangige Soldatinnen des Gerudo Militärs, die sowohl über die Gräber der lang "  
+"verstobenen Könige als auch den Königlichen Palast und anderen politischen Zentren wachen. "
+"Mit einem Dreizack und einem goldenen Schild ausgerüstet können die Totenwachen sich gegen fast jeden Gegner behaupten.
 
 #: simulation/templates/units/gerudo/gerudo_tombguard_b.xml:43
 msgid "Strong defensive Infantry unit armed with a spear and shield."
-msgstr ""
+msgstr "Starke defensive Infanterie mit Speer und Shield."
 
 #: simulation/templates/units/gerudo/gerudo_trailblazer_b.xml:41
 msgid "Trailblazer"
-msgstr ""
+msgstr "Vorreiterin"
 
 #: simulation/templates/units/gerudo/gerudo_trailblazer_b.xml:42
 msgid ""
 "A scout and explorer, the Trailblazer spends most of her life on the borders of the "
 "Gerudo Desert or in foreign lands. During times of war, Trailblazers are called to "
 "track the movements of enemy forces, whom in most cases they can easily outrun."
-msgstr ""
+msgstr "Als Entdecker und Späherinnen verbringen die Voreiterinnen die meiste Zeit ihres Lebens "
+"and Grenzen der Gerudo Wüste oder in Fremden Ländern. In Kriegszeiten werden die Vorreiterinnen"
+"gerufen um die feindliche Truppenbewegungen zu überwachen denen sie einfach davonreiten können"
 
 #: simulation/templates/units/gerudo/gerudo_trailblazer_b.xml:46
 msgid "Fast mounted Scout unit armed with a bow and arrow."
-msgstr ""
+msgstr "Schnelle Späher und Bogenschützinnen der Kavallerie"
 
 #: simulation/templates/units/gerudo/gerudo_vagrudanon_b.xml:33
 msgid "Vagrudanon"
-msgstr ""
+msgstr "Vagrudanon"
 
 #: simulation/templates/units/gerudo/gerudo_vagrudanon_b.xml:34
 msgid ""
 "Riding on the signature black horses of the Desert, the Vagrudanon fill the core of the"
 " Gerudo's military cavalry. They are some of the fastest riders in all of Hyrule, and "
 "can strike terror into their enemies with unrelenting raids."
-msgstr ""
+msgstr "Den Kern der Gerudo Kavallerie bilden die Vagrudanon auf den für die Wüste charakteristischen schwarzen Pferden reiten."
+"Sie gehören zu den schnellsten Reiterinnen in Hyrule und lassen ihre Feinde in Furcht erzittern mit höufigen Überfällen"
 
 #: simulation/templates/units/gerudo/gerudo_vagrudanon_b.xml:39
 msgid "Fast and Light Cavalry unit geared towards raiding enemy targets."
-msgstr ""
+msgstr "SChnelle leichte Kavallerie die auf Überfälle spezialisiert ist."
 
 #: simulation/templates/units/gerudo/gerudo_windwitch_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Witch's Wind"
-msgstr ""
+msgstr "Hexenwind"
 
 #: simulation/templates/units/gerudo/gerudo_windwitch_b.xml:53
 msgid "Wind Witch"
-msgstr ""
+msgstr "Windhexe"
 
 #: simulation/templates/units/gerudo/gerudo_windwitch_b.xml:54
 msgid ""
@@ -3482,11 +3494,13 @@ msgid ""
 "after their male kings became extinct. Dark magics of the ancient desert have given "
 "them extraordinarily long lives, as well as power over sand and wind. They are feared "
 "and revered by all Gerudo."
-msgstr ""
+msgstr "Ältere Matriarchen der Gerudo die an die Macht kamen nachdem die männlichen Könige ausstarben"
+"Dunkle Magie aus der alten Wüste hat ihnen ein außergewöhnlich langes Leben und die Macht über"
+"Saand und Wind geschenkt. Sie werden von allen Gerudo gefürchtet und verehrt."
 
 #: simulation/templates/units/gerudo/gerudo_windwitch_b.xml:59
 msgid "Mage unit with powerful Wind attack that deals Knockback damage."
-msgstr ""
+msgstr "Magierin mit einer mächtigen Wind attacke die Gegner wegschleudert."
 
 #: simulation/templates/units/gerudo_trader_b.xml:18
 #: simulation/templates/units/gerudo_trader_upg.xml:9
@@ -3588,28 +3602,30 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_titan_stallord.xml:12
 msgctxt "Name of an attack, usually the weapon."
 msgid "Claws"
-msgstr ""
+msgstr "Klauen"
 
 #: simulation/templates/units/gohma/gohma_burst_b.xml:41
 msgid "Burst Gohma"
-msgstr ""
+msgstr "Explosionsgohma"
 
 #: simulation/templates/units/gohma/gohma_burst_b.xml:42
 msgid ""
 "A small Gohma that the hive will use is desparate situations. These tiny nightmares "
 "seek out their targets and selflessly kill themselves by erupting into a burning green "
 "ooze."
-msgstr ""
+msgstr "Eine kleine Gohma die der Schwarm in verzweifelten Situationen einsetzt"
+"Diese kleinen Albträume suchen sich ein Ziel und töten sich selbstlos "
+"indem sie in einer brennenden grünen Masse explodieren"
 
 #: simulation/templates/units/gohma/gohma_burst_b.xml:46
 msgid "Small Gohma that explodes into burning acid when slain."
-msgstr ""
+msgstr "Kleine Gohma die in brennender säure explodiert wenn sie getötet wird."
 
 #: simulation/templates/units/gohma/gohma_caretaker_b.xml:4
 #: simulation/templates/units/gohma/gohma_spinegohma_garrison.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Acid"
-msgstr ""
+msgstr "Säure"
 
 #: simulation/templates/units/gohma/gohma_caretaker_b.xml:41
 msgid "Caretaker"
@@ -3649,7 +3665,7 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_eggB.xml:23
 msgid "Egg"
-msgstr ""
+msgstr "Ei"
 
 #: simulation/templates/units/gohma/gohma_eggB.xml:24
 msgid ""
@@ -3660,7 +3676,7 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_eggB.xml:26
 msgid "Gohma Egg"
-msgstr ""
+msgstr "Gohma Ei"
 
 #: simulation/templates/units/gohma/gohma_eggB.xml:27
 msgid "Egg that can grow and hatch into various types of Larva."
@@ -3861,7 +3877,7 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_larva_giant_b.xml:29
 msgid "Eye Gohma"
-msgstr ""
+msgstr "Augen Gohma"
 
 #: simulation/templates/units/gohma/gohma_larva_giant_b.xml:30
 msgid ""
@@ -3900,7 +3916,7 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_mite_b.xml:29
 msgid "Gohma Mite"
-msgstr ""
+msgstr "Gohma Milbe"
 
 #: simulation/templates/units/gohma/gohma_mite_b.xml:30
 #: simulation/templates/units/gohma/gohma_mite_b.xml:34
@@ -4119,21 +4135,21 @@ msgstr ""
 
 #: simulation/templates/units/goron/goron_battlebro_b.xml:40
 msgid "Battle Brother"
-msgstr ""
+msgstr "Kampfbrüder"
 
 #: simulation/templates/units/goron/goron_battlebro_b.xml:41
 msgid ""
 "Skilled in commanding Goron soldiers, Battle Brothers head Goron armies as captains to "
 "guide them into battle."
-msgstr ""
+msgstr "Fähig darin Goronen Soldaten anzuführen, dient als Kampfbruder als Kommandant von Armeen"
 
 #: simulation/templates/units/goron/goron_battlebro_b.xml:45
 msgid "Commander unit that aids Gorons in battle."
-msgstr ""
+msgstr "Kommandant der Goronen in der Schlacht hilft"
 
 #: simulation/templates/units/goron/goron_beastmaster_b.xml:43
 msgid "Beastmaster"
-msgstr ""
+msgstr "Bestienzähmer"
 
 #: simulation/templates/units/goron/goron_beastmaster_b.xml:44
 msgid ""
@@ -4141,22 +4157,24 @@ msgid ""
 "frequently had to deal with packs of Dodongos and other strong monsters. Beastmasters "
 "were dedicated hunters of all manner of creatures, and were exceptionally adept at "
 "fighting any creature unit they came across."
-msgstr ""
+msgstr "Das Todesgebirge war die Heimat einer Vielzahl von Raubtieren und die Goronen "
+"mussten oft mit einer Herde Dodongos oder anderen starken Monstern klarkommen. Bestienzähmer"
+"waren berufliche Jäger von allen möglichen Kreaturen und waren gewandt darin sie zu bekämpfem."
 
 #: simulation/templates/units/goron/goron_beastmaster_b.xml:48
 msgid ""
 "Multipurpose Melee unit that has a damage bonus when attacking both Creatures and "
 "Cavalry."
-msgstr ""
+msgstr "Vielseitiger Nahkämpfer die einen bonusschaden gegen Kreaturen und Kavallerie haben."
 
 #: simulation/templates/units/goron/goron_berserker_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Flaming Fists"
-msgstr ""
+msgstr "Flammende Fäuste "
 
 #: simulation/templates/units/goron/goron_berserker_b.xml:40
 msgid "Berserker"
-msgstr ""
+msgstr "Berserker"
 
 #: simulation/templates/units/goron/goron_berserker_b.xml:42
 msgid ""
@@ -4164,13 +4182,17 @@ msgid ""
 "control of anger, which the Gorons have long considered a danger due to their tendency "
 "to lose control during fits of rage. On the battlefield this is less of a problem, and "
 "Berserkers can unleash quite a flurry of punches when worked up into a frenzy."
-msgstr ""
+msgstr "Berserker waren individuen die ihrem Leben dem der Hingabe und der Kontrolle"
+"ihres Ingrimms widmeten was von den Goronen lange verpönt wurde das sie in ihrer Wut"
+"oft die Beherrschung verlieren. Auf dem Schlachtfeld ist dies ein kleineres Problem"
+und die Berserker konnten einen ordentlichen Hagel von schlägen entfesseln wenn sie"
+"sich zur Raserei trieben"
 
 #: simulation/templates/units/goron/goron_berserker_b.xml:47
 msgid ""
 "Darunia's Unique Unit. Fast attack Melee unit that deals both Crushing and Fire Damage "
 "to enemy units."
-msgstr ""
+msgstr "Darunias einzigartige Einheit. Schneller flammender Faustkämpfer"
 
 #: simulation/templates/units/goron/goron_bombthrower_b.xml:4
 #: simulation/templates/units/goron/goron_bombthrower_garrison.xml:4
@@ -4178,12 +4200,12 @@ msgstr ""
 #: simulation/templates/units/sheikah/sheikah_saboteur_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Bombs"
-msgstr ""
+msgstr "Bomben"
 
 #: simulation/templates/units/goron/goron_bombthrower_b.xml:53
 #: simulation/templates/units/goron/goron_bombthrower_garrison.xml:53
 msgid "Bomb Thrower"
-msgstr ""
+msgstr "Bombenwerfer"
 
 #: simulation/templates/units/goron/goron_bombthrower_b.xml:54
 #: simulation/templates/units/goron/goron_bombthrower_garrison.xml:54
@@ -4192,27 +4214,31 @@ msgid ""
 "harvested by the Gorons for use as explosive weaponry in battle. Bomb Throwers bring "
 "terrifying firepower to a warzone, decimating groups of enemy units in an incinerating "
 "blast of fire."
-msgstr ""
+msgstr "Die berüchtigten Donnerblumen wurden schon lange auf dem ihrem heimischen Todesberg"
+"kultiviert,geerntet und von den Goronen zu Sprengstoff verarbeitet. Bombenwerfe bringen"
+"furchterregende Feurerkraft ins Schlachtfeld und äschern Horden von Gegnern ein."
 
 #: simulation/templates/units/goron/goron_bombthrower_b.xml:58
 #: simulation/templates/units/goron/goron_bombthrower_garrison.xml:58
 msgid "Powerful Missile unit that tosses explosive Bombs."
-msgstr ""
+msgstr "Mächtige Bombenwerfer"
 
 #: simulation/templates/units/goron/goron_brotheratarms_b.xml:46
 msgid "Brother-at-Arms"
-msgstr ""
+msgstr "Waffebrüder"
 
 #: simulation/templates/units/goron/goron_brotheratarms_b.xml:48
 msgid ""
 "Carrying the famous blades of the smithy Biggoron, Brothers-at-Arms are loyal defenders"
 " of Death Mountain and fearless in the face of battle. Their long blades have a very "
 "huge attack arc, allowing them to cut through multiple foes with one swing."
-msgstr ""
+msgstr "Mit den berühmten Schwertern des Schmieds Biggoron verteidigen die loyalen und"
+"und furchtlosen Waffenbrüder den Todesberg. Ihre langen Klingen treffen in einem großen Bogen"
+"mit dem sie in einem Hieb durch mehrere Gegner schneiden. "
 
 #: simulation/templates/units/goron/goron_brotheratarms_b.xml:53
 msgid "Medigoron's Unique Unit. Swift Melee unit that deals a wide area of Splash Damage."
-msgstr ""
+msgstr "Medigorons einzigartige Einheit". Geschickter Schwetkämpfer mit Flächenschaden
 
 #: simulation/templates/units/goron/goron_civilianA.xml:8
 #: simulation/templates/units/goron/goron_minerA.xml:52
@@ -4235,18 +4261,20 @@ msgstr ""
 
 #: simulation/templates/units/goron/goron_drummer_b.xml:28
 msgid "Drummer"
-msgstr ""
+msgstr "Trommler"
 
 #: simulation/templates/units/goron/goron_drummer_b.xml:29
 msgid ""
 "Gorons are famous drummers and dancers, and some of their most talented players will "
 "direct soldiers to battle with their beats. These drummers can keep Gorons in marching "
 "order and morale high as they enter into a warzone."
-msgstr ""
+msgstr "Goronen sind berühmte Trommler und Tänzer und einpaar ihrer besten spieler "
+"dirigieren Soldaten durch die Schlacht mit ihren Schlägen. Diese Trommler halten "
+"die Moral hoch und Marschordnung gerade wenn es in die Schlacht geht. "
 
 #: simulation/templates/units/goron/goron_drummer_b.xml:34
 msgid "Support unit that increases the movement speed of other Gorons."
-msgstr ""
+msgstr "Unterstützungseinheit die die Bewegungsgeschwindigkeit erhöht."
 
 #: simulation/templates/units/goron/goron_firewarrior_b.xml:4
 #: simulation/templates/units/goron/goron_hero_darunia.xml:4
@@ -4255,11 +4283,11 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_hero_gabora.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Hammer"
-msgstr ""
+msgstr "Hammer"
 
 #: simulation/templates/units/goron/goron_firewarrior_b.xml:50
 msgid "Fire Warrior"
-msgstr ""
+msgstr "Feuer Krieger"
 
 #: simulation/templates/units/goron/goron_firewarrior_b.xml:51
 msgid ""
