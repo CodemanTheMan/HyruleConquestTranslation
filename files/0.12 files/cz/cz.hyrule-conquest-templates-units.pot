@@ -8265,7 +8265,7 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_aeralfire_b.xml:46
 msgid "Fiery Aeralfos"
-msgstr ""
+msgstr "Ohnivý Aeralfos"
 
 #: simulation/templates/units/lizalfos/lizalfos_aeralfire_b.xml:48
 msgid ""
@@ -8273,14 +8273,17 @@ msgid ""
 "Aeralfos could attack and bombard enemies from a distance, making them extremely "
 "difficult to catch and kill without the proper ranged weaponry."
 msgstr ""
+"Speciální Aeralfos který mohl plivat ohnivé koule ze své tlamy. Ohnivý Aeralfos "
+"byl schopný útočit a bombardovat své nepřátele z dáli, což dělalo extrémně obtížné "
+"ho chytit a zabít bez střelných zbraní."
 
 #: simulation/templates/units/lizalfos/lizalfos_aeralfire_b.xml:53
 msgid "Vakat's Unique Unit. A Flying Mage unit that spits fireballs at their targets."
-msgstr ""
+msgstr "Jednotka kterou může verbovat pouze Vakat. Létající mág který plive ohnivé koule."
 
 #: simulation/templates/units/lizalfos/lizalfos_aeralfos_b.xml:37
 msgid "Aeralfos"
-msgstr ""
+msgstr "Aeralfos"
 
 #: simulation/templates/units/lizalfos/lizalfos_aeralfos_b.xml:38
 msgid ""
@@ -8290,10 +8293,15 @@ msgid ""
 "Lizalfos kind. Such a fall from grace has brought shame to their kind, and very few are"
 " lucky if they even manage an adviser position in government."
 msgstr ""
+"Kdysi páni všech Ještěrfosů a mistři starověkého Smrtohorského impéria, Aeralfosové jsou "
+"teď rozděleni a mají jen málo moci nad svými Ještěrfoskými bratry. Dodnes jsou obviňováni "
+"z kolapsu jejich bývalého velkého impéria zbytkem Jěštěrfoského druhu. Tento pád v "
+"nemilost přinesl jejich druhu ostudu, a málo z nich má dost štěstí aby vůbec dosáhli "
+"rádcovské pozice ve vládě."
 
 #: simulation/templates/units/lizalfos/lizalfos_aeralfos_b.xml:43
 msgid "Flying Melee unit wielding a sword and shield."
-msgstr ""
+msgstr "Létající jednotka nesoucí meč a štít."
 
 #: simulation/templates/units/lizalfos/lizalfos_aeralpeonA.xml:70
 msgid "Aeralfos Peon"
@@ -8315,7 +8323,7 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_butcher_b.xml:33
 msgid "Dinolfos Butcher"
-msgstr ""
+msgstr "Dinolfoský Hrdlořez"
 
 #: simulation/templates/units/lizalfos/lizalfos_butcher_b.xml:34
 msgid ""
@@ -8325,15 +8333,19 @@ msgid ""
 "the Butchers would cleave their targets apart with axes, assuming they failed to toast "
 "their victim with fire breath."
 msgstr ""
+"Dinolfosové byli větší odrůda Ještěrfosů kteří tvrdili že mají Volganskou krev ve svých "
+"žilách. Částečně to musela být pravda, protože mohli plivat ohnivé koule ze svých tlam a "
+"naprosto jim nevadilo extrémní horko. V bitvě mohli Hrdlořezové rozseknout cíl vejpůl "
+"svou sekyrou, pokud je nestihli spálit svým ohnivým dechem.
 
 #: simulation/templates/units/lizalfos/lizalfos_butcher_b.xml:39
 msgid "Swift Melee unit armed with a strong axe."
-msgstr ""
+msgstr "Hbitá pěší jednotka ozbrojena silnou sekyrou."
 
 #: simulation/templates/units/lizalfos/lizalfos_capturetest_b.xml:44
 #: simulation/templates/units/lizalfos/lizalfos_predator_b.xml:40
 msgid "Predator"
-msgstr ""
+msgstr "Dravec"
 
 #: simulation/templates/units/lizalfos/lizalfos_capturetest_b.xml:45
 #: simulation/templates/units/lizalfos/lizalfos_predator_b.xml:41
@@ -8343,20 +8355,24 @@ msgid ""
 "battlefield, preferring to hide, set traps, and ambush their targets. Their quick speed"
 " and ability to leap high into the air made them difficult for enemies to strike."
 msgstr ""
+"Lovci, zabijáci a vojáci, Dravci byli mladí Ještěrfosové s trochou dovednosti s "
+"čepelí. Mnoho z jejich stopovacích a loveckých dovedností uplatili na bojišti, kde "
+"se preferovali shcovávat, tvořit pasti, a přepadávat své cíle. Jejich rychlost a "
+"schopnost vyskočit vysoko do vzduchu je pro nepřátele dělala těžké trefit.
 
 #: simulation/templates/units/lizalfos/lizalfos_capturetest_b.xml:50
 #: simulation/templates/units/lizalfos/lizalfos_predator_b.xml:46
 msgid "A raiding Melee unit that has excellent dodge skill unit armed with a sword."
-msgstr ""
+msgstr "Plenící pěší jednotka s excelentní úhybnou dovedností ozbrojena mečem."
 
 #: simulation/templates/units/lizalfos/lizalfos_carcasslauncher_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Cow Corpse"
-msgstr ""
+msgstr "Kraví Mrtvola"
 
 #: simulation/templates/units/lizalfos/lizalfos_carcasslauncher_b.xml:56
 msgid "Carcass Launcher"
-msgstr ""
+msgstr "Vrhač Mršin"
 
 #: simulation/templates/units/lizalfos/lizalfos_carcasslauncher_b.xml:57
 msgid ""
@@ -8365,10 +8381,13 @@ msgid ""
 "would lob the diseased corpses of cows and other animals into enemy cities and "
 "fortifications. "
 msgstr ""
+"Přestože byli Ještěrfosové více než dychtiví rozpárat nepřátelské zdi, často si "
+"libovali v lákání nepřátel z jejich obran. K provedení takpvého činu vrhali chorobné "
+"mrtvoly krav a jiných zvířat do nepřátelských měst a opevneních."
 
 #: simulation/templates/units/lizalfos/lizalfos_carcasslauncher_b.xml:60
 msgid "Support unit that launcher rotting corpses at its targets, spreading poison and disease."
-msgstr ""
+msgstr "Podpůrná jednotka která vrhá rozpadající se mrtvoly na cíle, čímž šíří jed a nemoc."
 
 #: simulation/templates/units/lizalfos/lizalfos_civilianA.xml:8
 #: simulation/templates/units/lizalfos/lizalfos_peonA.xml:70
@@ -8378,11 +8397,11 @@ msgstr ""
 #: simulation/templates/units/lizalfos/lizalfos_cowcorpse.xml:38
 #: simulation/templates/units/moblin/moblin_dungpile.xml:37
 msgid "Moblin Dung Pile"
-msgstr ""
+msgstr "Hrouda Hnoje"
 
 #: simulation/templates/units/lizalfos/lizalfos_darkhammer_b.xml:53
 msgid "Darkhammer"
-msgstr ""
+msgstr "Brnalfos"
 
 #: simulation/templates/units/lizalfos/lizalfos_darkhammer_b.xml:54
 msgid ""
@@ -8391,14 +8410,18 @@ msgid ""
 "lone Darkhammer can smash and rupture enemy armor with one mighty swing as well as "
 "knock down the foundations of structures with ease."
 msgstr ""
+"Podsaditá a objemná odrůda Ještěrfosů, Brnalfosové nebyli tak rychlí jako jejich bratři, "
+"ale v bitvě byly brutální příšery. Nesoucí obří kouli na řetězu, jediný Brnalfos byl "
+"schopen rozbít a rozdrtit nepřátelské brnění jedným pořádným mávnutím a také jím bez "
+"námahy srazit k zemi základy budov."
 
 #: simulation/templates/units/lizalfos/lizalfos_darkhammer_b.xml:59
 msgid "Very powerful Siege unit armed with a huge ball and chain."
-msgstr ""
+msgstr "Velice silná obléhací jednotka ozbrojena mohutnou koulí na řetězu."
 
 #: simulation/templates/units/lizalfos/lizalfos_dodongosnake_b.xml:39
 msgid "Dodongo Snake"
-msgstr ""
+msgstr "Dodongský Had"
 
 #: simulation/templates/units/lizalfos/lizalfos_dodongosnake_b.xml:40
 msgid ""
@@ -8406,14 +8429,17 @@ msgid ""
 "digging deep in the earth and eating rocks. As they got larger, the Lizalfos could "
 "train them to eat more than just rocks."
 msgstr ""
+"Larva Moldug, Dodongští Hadi trávili většinu svého mládí neškodným vrtáním hluboko "
+"pod zemí a požíráním kamenů. Když vyrostli, Ještěrfosové je mohli trénovat aby zřali "
+"více než jenom kameny."
 
 #: simulation/templates/units/lizalfos/lizalfos_dodongosnake_b.xml:45
 msgid "Large Creature unit that deals progressively more damage to units smaller than its size."
-msgstr ""
+msgstr "Velký tvor působící progresivně více požkození jednotkám menší než on."
 
 #: simulation/templates/units/lizalfos/lizalfos_footman_b.xml:33
 msgid "Dinolfos Footman"
-msgstr ""
+msgstr "Dinolfoská Pěchota"
 
 #: simulation/templates/units/lizalfos/lizalfos_footman_b.xml:34
 msgid ""
@@ -8422,14 +8448,18 @@ msgid ""
 "their ancestors, they were still deadly warriors in battle and posed a much more "
 "durable threat than their unarmored kin."
 msgstr ""
+"Nosící brnění ukované podle starého Volgského designu, Dinolfoská Pěchota byla podlední "
+"zbytek ze starověkého Smrtohorského impéria. Přestože byli jenom stít jejich předků, "
+"byli stále smrtonosní válečníci v bitvě a představovali mnohem větší hrozbu než jejich "
+"druhové bez brnění."
 
 #: simulation/templates/units/lizalfos/lizalfos_footman_b.xml:39
 msgid "Heavily armored Melee unit carrying a sword and shield."
-msgstr ""
+msgstr "Těžce obrněná jednotka nesoucí meč a štít."
 
 #: simulation/templates/units/lizalfos/lizalfos_hammarine_b.xml:36
 msgid "Hammarine"
-msgstr ""
+msgstr "Kladivová Princezna"
 
 #: simulation/templates/units/lizalfos/lizalfos_hammarine_b.xml:37
 msgid ""
@@ -8437,19 +8467,21 @@ msgid ""
 "colors of her chosen clutch. With such mighty force they could rupture armored victims "
 "without resistance."
 msgstr ""
+"Sekta princezen válečnic, Kladidové Princezny nesly mocné kladivo a nosily barvy jejich "
+snůšky. S takovou mocnou silou mohly rozdrtit obrněné nepřátele bez námahy."
 
 #: simulation/templates/units/lizalfos/lizalfos_hammarine_b.xml:42
 msgid "Powerful Melee unit armed with a giant warhammer."
-msgstr ""
+msgstr "Mocná pěší jednotka ozbrojena obřím válečným kladivem."
 
 #: simulation/templates/units/lizalfos/lizalfos_heatoise_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Shell"
-msgstr ""
+msgstr "Krunýř"
 
 #: simulation/templates/units/lizalfos/lizalfos_heatoise_b.xml:37
 msgid "Heatoise"
-msgstr ""
+msgstr "Sopečná Želva"
 
 #: simulation/templates/units/lizalfos/lizalfos_heatoise_b.xml:38
 msgid ""
@@ -8458,32 +8490,38 @@ msgid ""
 " has the invaluable trait of being able to survive extremely hot conditions and is "
 "immune to all fire. They also are decent, if clumsy, swimmers."
 msgstr ""
+"Kdysi domorodá na Želví skále na Hoře smrti, Sopečná Želva utrpěla podobný osud jako "
+"zbytek Ještěrfosů a byla vyhnána ze svých domovin Gorony. Sopečné Želvy mají nedocenitelnou "
+"schopnost přežít extrémně horké podmínky a jsou imunní všemu ohni. Jsou také decentní, i "
+"když nemotorní plavci."
 
 #: simulation/templates/units/lizalfos/lizalfos_heatoise_b.xml:43
 msgid "Slow but very durable Melee Creature that can cross lava and bodies of water."
-msgstr ""
+msgstr "Pomalá ale velmi odolná jednotka schopná překročit lávu a vodu."
 
 #: simulation/templates/units/lizalfos/lizalfos_helmbaby_b.xml:33
 msgid "Light Creature Unit"
-msgstr ""
+msgstr "Lehký Tvor"
 
 #: simulation/templates/units/lizalfos/lizalfos_helmbaby_b.xml:34
 msgid ""
 "Helmasaur babies would often follow their mother for the first few months of their "
 "lived untle their skulls had begun to grow."
 msgstr ""
+"Mláďata Helmasaurů často následovala svoji matku prvních několik něsíců svého života "
+"dokud jim začaly růst jejich lebky."
 
 #: simulation/templates/units/lizalfos/lizalfos_helmbaby_b.xml:39
 msgid "Helmasaur Baby"
-msgstr ""
+msgstr "Helmasauří Mládě"
 
 #: simulation/templates/units/lizalfos/lizalfos_helmbaby_b.xml:40
 msgid "Small Melee Creature that bites and bashes with its skull."
-msgstr ""
+msgstr "Malý pěší tvor který kouše a naráží svojí lekbou."
 
 #: simulation/templates/units/lizalfos/lizalfos_helmqueen_b.xml:64
 msgid "Helmasaur Queen"
-msgstr ""
+msgstr "Helmasauří Královna"
 
 #: simulation/templates/units/lizalfos/lizalfos_helmqueen_b.xml:65
 msgid ""
@@ -8492,20 +8530,24 @@ msgid ""
 "hunt. A Helmasaur Queen was large and slow, but she could spawn baby Helmasaurs to "
 "follow her around in battle."
 msgstr ""
+"Jedna z mnohých samic v harému Helmasauřího Krále, tyto členky zuřivých Helmasaurů "
+"měly na starost snášet snůšky vajec a vychovávat jejich mláďata k lovu. Helmasauří "
+"Královny byly mohutné a pomalé, ale byly schopny snášet Helmasauří mláďata které ji "
+"následovaly v bitvě."
 
 #: simulation/templates/units/lizalfos/lizalfos_helmqueen_b.xml:70
 msgid "Very large Melee Creature unit who spawns smaller babies to follow her into battle."
-msgstr ""
+msgstr "Velký tvor který snáší mnláďata která ho následují do bitvy."
 
 #: simulation/templates/units/lizalfos/lizalfos_helmram_b.xml:4
 #: simulation/templates/units/lizalfos/lizalfos_helmram_upg.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Skull"
-msgstr ""
+msgstr "Lebka"
 
 #: simulation/templates/units/lizalfos/lizalfos_helmram_b.xml:47
 msgid "Helmasaurus Ram"
-msgstr ""
+msgstr "Helmasauří Beranidlo"
 
 #: simulation/templates/units/lizalfos/lizalfos_helmram_b.xml:48
 msgid ""
@@ -8514,14 +8556,17 @@ msgid ""
 "buildings and walls. The Lizalfos did not hesitate to use them as living battering "
 "rams."
 msgstr ""
+"Velký a silný Helmasaurus kteří vyrostl do ohromné velikosti, tento tvor byl schopný "
+"podupat cokoliv menšího než on sám a prorazit velké díry do budov a zdí. Ještěrfosové "
+"neváhali je použít jako živoucí beranidla."
 
 #: simulation/templates/units/lizalfos/lizalfos_helmram_b.xml:53
 msgid "Large Siege Creature that attacks by smashing its thick skull into targets."
-msgstr ""
+msgstr "Velký obléhací tvor který útočí narážením do cílů svou tvrdou lebkou."
 
 #: simulation/templates/units/lizalfos/lizalfos_helmtracker_b.xml:36
 msgid "Helmasaur Tracker"
-msgstr ""
+msgstr "Helmasauří Stopař"
 
 #: simulation/templates/units/lizalfos/lizalfos_helmtracker_b.xml:37
 msgid ""
@@ -8531,10 +8576,15 @@ msgid ""
 "skulls were more durable than most iron armor, and anything unfortunate enough to be "
 "caught in a charge was sure to be splattered to guts."
 msgstr ""
+"Podsadití Helmasauři domorodí na Hoře smrti byli přineseni Ještěrfosy během exodu z "
+"jejich domovin. Používáni jako mazlíčci, tažná zvířata a jezdecké bestie, Helmasauři byli "
+"sice malá, ale měli děsivý náraz. Jejich vnější lebky byly tvrdší než většina železného "
+"brnění, a cokoliv dost nešťastné aby se ocitlo před nimi za dost velké rychlosti bylo "
+"rozdrceno na mleté masou."
 
 #: simulation/templates/units/lizalfos/lizalfos_helmtracker_b.xml:42
 msgid "Durable Cavalry unit that chases down enemies with their axes in hand."
-msgstr ""
+msgstr "Odolná jezdecká jadnotka která pronásleduje nepřátele se sekyrou."
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_nardu.xml:4
 #: simulation/templates/units/lizalfos/lizalfos_sneak_b.xml:4
@@ -8542,11 +8592,11 @@ msgstr ""
 #: simulation/templates/units/sheikah/sheikah_spy_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Dagger"
-msgstr ""
+msgstr "Dýka"
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_nardu.xml:34
 msgid "Queen of Faron"
-msgstr ""
+msgstr "Královna Faronská"
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_nardu.xml:36
 msgid ""
@@ -8558,18 +8608,25 @@ msgid ""
 "Lizalfos. She believes all the Pantheon of gods unworthy of worship, and seeks to prove"
 " that only she herself is deserving of worship by her people."
 msgstr ""
+"Pocházející s kdysi miniaturní a politicky slabé Čistě bílé snušky, Nardin tajuplný "
+"nástup k moci a korunování Matronou udělalo její rodinou linii přes noc slavnou. Je "
+"mnoho rozpaků kolem toho jak Nardu přes noc nashromáždila takovou sílu z ničeho, ale "
+"nikdo se ji neodváží konfrontovat, leda že by chtěli riskovat svou vlastní oběť na "
+"oltáři. Přestože umí být neskutečně násilná, Nardu je pro Ještěrfosku trochu "
+"necharakteristická. Věří že celý panteon bohů není hodný úctívání, a chce dokázat že "
+"pouze ona si zaslouží uctívání jejího lidu."
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_nardu.xml:40
 msgid "Nardu the White"
-msgstr ""
+msgstr "Nardu Bílá"
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_nardu.xml:41
 msgid "Strong Support Hero that can convert enemy units to her cause."
-msgstr ""
+msgstr "Silná podpůrná hrdinka schopna konvertovat nepřátelské jednotky k jejímu účelu."
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_okakusha.xml:33
 msgid "Matron of Faron"
-msgstr ""
+msgstr "Matrona Faronská"
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_okakusha.xml:35
 msgid ""
@@ -8581,18 +8638,24 @@ msgid ""
 "of retaking Death Mountain. Why risk another collapse when the new Lizalfos empire is "
 "just beginning to thrive in the forest?"
 msgstr ""
+"Chameleofoska narozena dlouho po tom co byli Ještěrfosové vyhnáni ze severu, Okakuša "
+"bránila hranice Faronu většinu své dospělosti a moc nemyslela na svět za nimi. Celým "
+"srdcem následuje boha Farona, a věří že její lid má stěstí že jim poskytl nové impérium "
+"v jeho lese. Pozdější dobou je Okakuša trochu znepokojena nástupem Nardu Bílé a "
+"zvyšující se popularitou znovudobytí Hory smrti. Proč riskovat další kolaps když začíná "
+"nové Ještěrfoské impérium vzkvétat v lese?"
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_okakusha.xml:39
 msgid "Okakusha the Green"
-msgstr ""
+msgstr "Okakuša Zelená"
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_okakusha.xml:40
 msgid "Quick Hero with Stealth that uses her spear in battle."
-msgstr ""
+msgstr "Rychlá hrdinka s utajením která v boji využívá kopí."
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_talik.xml:33
 msgid "Matron of Death Mountain"
-msgstr ""
+msgstr "Matrona Hory Smrti"
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_talik.xml:35
 msgid ""
@@ -8605,18 +8668,25 @@ msgid ""
 "highly of Nardu or why she so loyally serves her, but many think the key the Queen’s "
 "power lies in their cooperation."
 msgstr ""
+"Nestvůrný potomek Dinolfoského a Volganského sdružení, Talik Rudá si libuje ve strachu "
+"který vychází z jejího lidu kvůli krvi v jejích žilách. Pravá ruka Nardu Bílé, Talik je "
+"povolána když je k provedení Královniných cílů potřeba tvrdé síly. Talik věří že je "
+"nadřazená všemu Ještěrfoskému lidu, v čemž ji pomáhá její Volganská krev a tyčící se výška. "
+"Nemá respekt pro nikoho kromě Bílé Královny. Není známo proč Talik tak poc respektuje "
+"Nardu nebo proč je jí tak loajální, ale mnozí si myslí že Královnina moc spočívá v jejich "
+"kooperaci."
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_talik.xml:39
 msgid "Talik the Red"
-msgstr ""
+msgstr "Talil Rudá"
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_talik.xml:40
 msgid "Strong Melee Hero with durable armor and a long spear."
-msgstr ""
+msgstr "Silná pěší hrdinka s odolným brněním a dlouhým kopím."
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_vakat.xml:33
 msgid "Lord of Aeralfos"
-msgstr ""
+msgstr "Pán Aeralfosů"
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_vakat.xml:35
 msgid ""
@@ -8627,23 +8697,29 @@ msgid ""
 "shame, Vakat is a pessimist and often spends his time in the wilderness alone. One day "
 "he wishes to find a way to restore his and his people’s status."
 msgstr ""
+"Poslední Aeralfos který žil během Smrtohorského impéria, Vakat Okřídlený byl kdysi "
+"respektovaný vůdce Ještěrfoského lidu před tím než je Goroni odehnali na jih. Dnes ho "
+"mnozí považují za starého blázna, obviňující ho a ostatní Aeralfose ze ztráty jejich "
+"staré domoviny Goronům. Možná kvůli tolika věkům ostudy, Vakat je pesimista a často "
+"tráví svůj čas sám v divočině. Jednoho dne doufá že najde způsob jak obnovit status "
+"sebe a jeho lidí."
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_vakat.xml:39
 msgid "Vakat the Winged"
-msgstr ""
+msgstr "Vakat Okřídlený"
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_vakat.xml:40
 msgid "Flying Hero unit that attacks enemies with his sword."
-msgstr ""
+msgstr "Létající hrdina který útočí na nepřátele svým mečem."
 
 #: simulation/templates/units/lizalfos/lizalfos_iguanalfos_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Poison Breath"
-msgstr ""
+msgstr "Jedovatý Dech"
 
 #: simulation/templates/units/lizalfos/lizalfos_iguanalfos_b.xml:41
 msgid "Iguanalfos"
-msgstr ""
+msgstr "Leguánalfos"
 
 #: simulation/templates/units/lizalfos/lizalfos_iguanalfos_b.xml:43
 msgid ""
@@ -8653,15 +8729,20 @@ msgid ""
 "at their targets. Unfortunate victims would often become fatally ill hours after being "
 "soaked by their toxic spray."
 msgstr ""
+"Leguánalfosové jsou jedni z nedávných odrůd Ještěrfosů kteří se objevili ve světě. "
+"Pravděpodobně produkty Ješěrfoského a Dinolfoského páření s jedovatými ještěry domorodými "
+"Faronu, Leguánalfosové jsou schopni vrhat jedovaté plivance z dlouhých vzdáleností na "
+"své cíle. Nešťastné oběti se často staly smrtelně nemocnými hodiny po tom co byli pokryti "
+"jejich jedovatou sprškou."
 
 #: simulation/templates/units/lizalfos/lizalfos_iguanalfos_b.xml:48
 msgid "Okakusha's Unique Unit. Missile unit that sprays its enemies with poison globs."
-msgstr ""
+msgstr "Jednotka kterou může verbovat pouze Okakuša. Střelná jednotka která plive na napřátele jed."
 
 #: simulation/templates/units/lizalfos/lizalfos_matron_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fire Sword"
-msgstr ""
+msgstr "Ohnivý Meč"
 
 #: simulation/templates/units/lizalfos/lizalfos_matron_b.xml:32
 msgid ""
@@ -8669,18 +8750,21 @@ msgid ""
 "belonging to their family line. When threatened by any enemy the Matron would bring a "
 "powerful flaming sword with her into battle, igniting anything she attacked on fire."
 msgstr ""
+"Matrony byly vrchní matky Snůšek a vlastnily tak všechnu pracovní sílu a vojáky "
+"patřící k jejich rodinné linii. Pokud ohroženy nepřáteli, Matrony přinesly mocný "
+"hořící meč do bitvy, zapalující cokoliv na co útočily."
 
 #: simulation/templates/units/lizalfos/lizalfos_matron_b.xml:37
 msgid "Matron"
-msgstr ""
+msgstr "Matrona"
 
 #: simulation/templates/units/lizalfos/lizalfos_matron_b.xml:38
 msgid "Talik's Unique Unit. Poweful Melee unit armed with a flaming sword."
-msgstr ""
+msgstr "Jednotka kterou může verbovatt pouze Talik. Mocná pěší jednotka ozbrojena hřícím mečem."
 
 #: simulation/templates/units/lizalfos/lizalfos_monitor_b.xml:33
 msgid "Monitor"
-msgstr ""
+msgstr "Kontrolor"
 
 #: simulation/templates/units/lizalfos/lizalfos_monitor_b.xml:34
 msgid ""
@@ -8688,14 +8772,17 @@ msgid ""
 "performing their orders in battle. With a large and colorful display of feathers "
 "signifying their rank, a Monitor was never questioned by those under his command."
 msgstr ""
+"Ještěrfosští Kontroloři byli přiřazeni dohlížet a starat se o to aby ostatní vojáci "
+"dodržovali jejich rozkazy v bitvě. S mnohým a barevným vystaveným peřím označujícím "
+"jejich hodnost, Kontroloři nikdy nebyli zpochybňováni těmi pod jejich velením.
 
 #: simulation/templates/units/lizalfos/lizalfos_monitor_b.xml:39
 msgid "Commander unit that improves the performance of other Lizalfos."
-msgstr ""
+msgstr "Velitelská jednotka která zlepšuje výkon ostatních Ještěrfosů."
 
 #: simulation/templates/units/lizalfos/lizalfos_rope_b.xml:32
 msgid "Rope"
-msgstr ""
+msgstr "Rop"
 
 #: simulation/templates/units/lizalfos/lizalfos_rope_b.xml:33
 msgid ""
@@ -8703,21 +8790,24 @@ msgid ""
 "Their ability to traverse any terrain made them a very nasty surprise for enemies "
 "ambushed by them in unexpected locations."
 msgstr ""
+"Malý hadí tvor, Ropové byli velmi křehčí, ale mohli být množeni ve velikých houfech. "
+"Jejich schopnost se pohybovat přes jakýkoliv terén z nich dělala nemilé překvapení pro "
+"nepřátele přepadené v nečekaných místech."
 
 #: simulation/templates/units/lizalfos/lizalfos_rope_b.xml:38
 msgid "Small Melee Creature who can move over any terrain."
-msgstr ""
+msgstr "Malý tvor schopný se hýbat přes jakýkoliv terén."
 
 #: simulation/templates/units/lizalfos/lizalfos_shaman_b.xml:4
 #: simulation/templates/units/sheikah/sheikah_hero_paya.xml:4
 #: simulation/templates/units/sheikah/sheikah_protector_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Staff"
-msgstr ""
+msgstr "Hůl"
 
 #: simulation/templates/units/lizalfos/lizalfos_shaman_b.xml:32
 msgid "Shaman"
-msgstr ""
+msgstr "Šaman"
 
 #: simulation/templates/units/lizalfos/lizalfos_shaman_b.xml:33
 msgid ""
@@ -8725,14 +8815,17 @@ msgid ""
 "religion. Day in and out they go about chanting and dancing, encouraging tithes and "
 "sacrifices in order to appease the various gods and prevent disaster."
 msgstr ""
+"Po usazení ve Faronských lesích se tito Šamani stali dominantní sektou v Ještěrfoském "
+"náboženství. Každý den skandovali a tancovali, povzbuzující desátky a oběti aby "
+"uspokojili různé bohy a předešli katastrofě."
 
 #: simulation/templates/units/lizalfos/lizalfos_shaman_b.xml:38
 msgid "Support unit that can offer sacrifices at Altars for various benefits."
-msgstr ""
+msgstr "Podpůrná jednotka schopná obětovat jednotky pro různé účely."
 
 #: simulation/templates/units/lizalfos/lizalfos_sneak_b.xml:33
 msgid "Chameleofos Skink"
-msgstr ""
+msgstr "Chamelefoský Schovávač"
 
 #: simulation/templates/units/lizalfos/lizalfos_sneak_b.xml:34
 msgid ""
@@ -8740,14 +8833,17 @@ msgid ""
 " to their natural Camouflage. A Sneak could hide just feet away from a target and "
 "remain completely invisible, so long as they stood still."
 msgstr ""
+"Chameleofosové z Faronských lesů byli nedocenitelnými členy Ještěrfoského druhu díky "
+"její přírodní kamufláži. Schovávač mohl stát pár stop od jejich cíle a zůstat naprosto "
+"neviditelný dokud zůstal nehybný."
 
 #: simulation/templates/units/lizalfos/lizalfos_sneak_b.xml:39
 msgid "Stealthed Scout unit that can detect other Stealthed and Camouflaged units."
-msgstr ""
+msgstr "Utajená průzkumnická jednotka schopna detekovat jednotka s utajením a kamufláží."
 
 #: simulation/templates/units/lizalfos/lizalfos_songsayer_b.xml:32
 msgid "Songsayer"
-msgstr ""
+msgstr "Zpěvačka"
 
 #: simulation/templates/units/lizalfos/lizalfos_songsayer_b.xml:34
 msgid ""
@@ -8756,21 +8852,26 @@ msgid ""
 "Lizalfos men: the Whisper Song. When backed into a corner they could kill their "
 "assailant with a wicked dagger."
 msgstr ""
+"Zpěvačky byly Ještěrfosky určeny k velení nad jejich mužskými protějšky. Stále poměrně "
+"mladé, Zpěvačky praktikovaly jejich nechvalnou techniku ovládnou Ještěrfoské muže: "
+"Šeptající Píseň. Pokud zatlačeny do rohu, mohly zabít své útočníky svou ostrou dýkou."
 
 #: simulation/templates/units/lizalfos/lizalfos_songsayer_b.xml:39
 msgid ""
 "Nardu's Unique Unit. Support unit that can briefly turn enemy units against their "
 "masters."
 msgstr ""
+"Jednotka kterou může verbovat pouze Nardu. Podpůrná jednotka schopná kráce obrátit "
+"nepřátelské jednotky proti svým pánům."
 
 #: simulation/templates/units/lizalfos/lizalfos_spearlauncher_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Spear Bolts"
-msgstr ""
+msgstr "Vystřelené Kopí"
 
 #: simulation/templates/units/lizalfos/lizalfos_spearlauncher_b.xml:51
 msgid "Poison Spear Launcher"
-msgstr ""
+msgstr "Střílna Jedovatých Kopí"
 
 #: simulation/templates/units/lizalfos/lizalfos_spearlauncher_b.xml:52
 msgid ""
@@ -8778,33 +8879,38 @@ msgid ""
 "the Lizalfos. A spear from this small ballista could puncture through large creatures, "
 "monsters, and even buildings well enough."
 msgstr ""
+"Rychlá a snadno nasazená zbraň, Střílna Jedovatých Kopí byla oblíbeným nástrojem "
+"Ještěrfosů. Kopí z této balisty bylo schopné propíchnout velké tvory, příšery, a "
+"dokonce i budovy."
 
 #: simulation/templates/units/lizalfos/lizalfos_spearlauncher_b.xml:55
 msgid "Siege engine that launches large poison bolts at its targets."
-msgstr ""
+msgstr "Obléhací stroj který stříli velké jedovaté šípy na cíle."
 
 #: simulation/templates/units/lizalfos/lizalfos_striker_b.xml:32
 msgid "Chameleofos Striker"
-msgstr ""
+msgstr "Chameleofoský Útočník"
 
 #: simulation/templates/units/lizalfos/lizalfos_striker_b.xml:33
 msgid ""
 "A warrior class of the Faron Chameleofos, the Striker was suited in armor and carried a"
 " spear into battle. Their natural camouflage allowed them to hide and ambush enemies."
 msgstr ""
+"Válečná vrstva Faronských Chameleofosů, Útočníci byli oblečeni v brnění a do bitvy nesli "
+"kopí. Jejich přírodní kamufláž jim umožňovala se schovat a přepadnout nepřátele."
 
 #: simulation/templates/units/lizalfos/lizalfos_striker_b.xml:38
 msgid "Armored Melee unit armed with a long reaching spear."
-msgstr ""
+msgstr "Obrněná pěší jednotka ozbrojena kopím s dlouhým dosahem."
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_helmking.xml:12
 msgctxt "Name of an attack, usually the weapon."
 msgid "Skull and Tail"
-msgstr ""
+msgstr "Lebka a Ocas"
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_helmking.xml:70
 msgid "The Helmasaur King"
-msgstr ""
+msgstr "Král Helmasaurů"
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_helmking.xml:71
 msgid ""
@@ -8814,20 +8920,25 @@ msgid ""
 " intelligent and is easily riled to fits of anger. His huge form can easily knock over "
 "buildings and his spiky carapace naturally impales enemies that try to get too close."
 msgstr ""
+"Kdysi tyran na Hoře smrti, Král Helmasaurů byl vyhnán z jeho domova a usadil se ve "
+"Východním palíci ve Faronských lesech kde si ho mnozí Ještěrfosové přidali do panteonu "
+"bohů. Přestože byl očividně chytřejší než zvíře, Král Helmasaurl byl sotva inteligentní "
+"a byl snadno přiveden do záchvatů vzteku. Jeho velká forma je schopna snadno porazit "
+"budovy a jeho spičatý krunýř napíchne nepřátele kteří se pokusí moc přiblížit."
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_helmking.xml:74
 msgid "Garnyle Og"
-msgstr ""
+msgstr "Garnyle Og"
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_helmking.xml:75
 msgid ""
 "Lizalfos Titan unit. Giant Siege unit that rams into enemies with its huge skull and "
 "large whip tail."
-msgstr ""
+msgstr "Ještěrfoská Mýtická jednotka. Obří obléhací jednotka která naráží do nepřátel svou mohutnou lebkou a dlouhým ocasem."
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_trinexx.xml:84
 msgid "Lord of Turtle Rock"
-msgstr ""
+msgstr "Pán Želví Skály
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_trinexx.xml:85
 msgid ""
@@ -8837,21 +8948,26 @@ msgid ""
 "both fire and ice blasts and crush smaller victims with its central head. Only crushing"
 " damage or magic powers can crack the rocky shell of this mighty beast."
 msgstr ""
+"Pán Želví skály na Hoře smrti, Trinexx byl poražen Gorony a vyhnán do lesů kde si ho "
+"Ještěrfosové přidali do svého panteonu bohů. Velice mohutná a silná Spoečná Želva, "
+"Trinexx je schopný útočit na nepřátele ohnivými a ledovými výbuchy a rozdrtit menší "
+"nepřátele svou střední hlavou. Pouze drtící požkození nebo magické síly mohou prorazit "
+"kamenný krunýř této mocné bestie."
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_trinexx.xml:88
 msgid "Trinexx"
-msgstr ""
+msgstr "Trinexx"
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_trinexx.xml:89
 msgid ""
 "Lizalfos Titan unit. Giant Missile unit that unleashes fire and ice projectiles at "
 "enemies."
-msgstr ""
+msgstr "Ještěrfoská Mýtická jednotka. Obří střelná jednotka která vypouští ohnivé a ledové projektily na nepřátele."
 
 #: simulation/templates/units/lizalfos/lizalfos_trapper_b.xml:41
 #: simulation/templates/units/lizalfos/lizalfos_trapper_garrison.xml:42
 msgid "Trapper"
-msgstr ""
+msgstr "Pytlák"
 
 #: simulation/templates/units/lizalfos/lizalfos_trapper_b.xml:42
 #: simulation/templates/units/lizalfos/lizalfos_trapper_garrison.xml:43
@@ -8861,15 +8977,18 @@ msgid ""
 "poison tipped bows, their shots were guaranteed to inflict illness or kill whatever "
 "they managed to hit at a later time."
 msgstr ""
+"Zkušení ve stoponáví a zabíjení smrtelné kořisti, Pytláci byli smrtelní vzazi pokud "
+"přeřazeni z loveckých revírů na bojové pole. Ozbrojeni jedovatými šípy, jejich střely "
+"zaručeně přinesli nemoc nebo smrt čemukoliv co trefili, třebaže později."
 
 #: simulation/templates/units/lizalfos/lizalfos_trapper_b.xml:46
 #: simulation/templates/units/lizalfos/lizalfos_trapper_garrison.xml:47
 msgid "Missile unit armed with a bow and poison arrows."
-msgstr ""
+msgstr "Střelná jednotka ozbrojena lukem a jedovatými šípy."
 
 #: simulation/templates/units/lizalfos/lizalfos_treehopper_b.xml:39
 msgid "Treehopper"
-msgstr ""
+msgstr "Skákavka"
 
 #: simulation/templates/units/lizalfos/lizalfos_treehopper_b.xml:40
 msgid ""
@@ -8879,10 +8998,14 @@ msgid ""
 "use their speed and jumping abilities to stay one step ahead of their enemies, parrying"
 " attacks with ease."
 msgstr ""
+"Ozbrojeny dlouhým kopím a dvěmi silnými nohami, Skákavky byly ostřílené lovkyně-vojačky "
+"Ještěrfoských armád. Uměly vyskočit vysoko do vzduchu, a často skákaly mezo korunami "
+"stromů aby zůstaly nad kořistí. Na bojovém poli Skákavky využívaly svoji rychlost a "
+"schopnost skákat aby zůstaly krok napřed svým nepřátelům, jejichž útoky bez námahy odrážely."
 
 #: simulation/templates/units/lizalfos/lizalfos_treehopper_b.xml:45
 msgid "Fast moving Melee unit armed with a spear."
-msgstr ""
+msgstr "Rychlá pěší jednotka ozbrojena kopím."
 
 #: simulation/templates/units/lizalfos_trader_b.xml:12
 msgid "Sellsayer"
@@ -8899,11 +9022,11 @@ msgstr ""
 
 #: simulation/templates/units/mad/mad_underlingA.xml:19
 msgid "Mad Underling"
-msgstr ""
+msgstr "Vzteklý Podrost"
 
 #: simulation/templates/units/merc_daira_b.xml:39
 msgid "Daira Marauder"
-msgstr ""
+msgstr "Dájrský Marodér"
 
 #: simulation/templates/units/merc_daira_b.xml:40
 msgid ""
@@ -8915,10 +9038,16 @@ msgid ""
 "recent times the Daira have begun to migrate south into the Gerudo Desert, where both "
 "the Gerudo and Darknuts have made uneasy pacts with them."
 msgstr ""
+"Obvzláště divodá skupina, Dájrové jsou pravděpodobně zpříznění moderních Ještěrfosů. "
+"Zatímco většina Ještěrfosů migrovala na jih do Faronských lesů z Pohoří smrti, Dájrové "
+"migrovali do Bídných blat a jiných bažin světa. Jsou jednou z mála ras které přežily "
+"útoky domorodých Góm, a jsou často najímání jako průvodci poutníky hodajícími se "
+"překročit Bídná blata. V nedávných časech začali migrovat na sever do Gerudské pouště, "
+"kde s nimi Gerudy a Temnáři vytvořili nejisté pakty."
 
 #: simulation/templates/units/merc_daira_b.xml:44
 msgid "Large axe wielding Melee unit that can cross bodies of water."
-msgstr ""
+msgstr "Velká pěší jednotka ozbrojená sekyrou schopná překročit vody."
 
 #: simulation/templates/units/darknut/darknut_hero_alros.xml:66
 #: simulation/templates/units/darknut/darknut_hypaspist_b.xml:39
@@ -8944,12 +9073,12 @@ msgstr ""
 #: simulation/templates/units/ordona/ordona_hero_ashei_b.xml:42
 #: simulation/templates/units/ordona/ordona_theresistance_b.xml:63
 msgid "Mercenary"
-msgstr ""
+msgstr "Žoldák"
 
 #: simulation/templates/units/merc_deadarm_b.xml:37
 #: simulation/templates/units/sheikah/sheikah_deadarm_b.xml:37
 msgid "Deadarm"
-msgstr ""
+msgstr "Smrtipaže"
 
 #: simulation/templates/units/merc_deadarm_b.xml:38
 #: simulation/templates/units/sheikah/sheikah_deadarm_b.xml:38
@@ -8958,16 +9087,19 @@ msgid ""
 " their prey, then slowly approach to decapitate them with one giant bite from their "
 "unhinged jaws."
 msgstr ""
+"Při konfrontaci s obětí využívaly Smrtidlaně nespočet volných paži k chycení jejich "
+"kořisti, potom se k ní pomalu přiblížili a potom jim ukousli hlavu svou nezavěšenou "
+"čelistí."
 
 #: simulation/templates/units/merc_deadarm_b.xml:42
 #: simulation/templates/units/sheikah/sheikah_deadarm_b.xml:42
 msgid "Melee Creature unit that grabs and rips apart its enemies."
-msgstr ""
+msgstr "Pěší tvor který chytá a trhá svoje nepřátele."
 
 #: simulation/templates/units/merc_deadhand_b.xml:42
 #: simulation/templates/units/sheikah/sheikah_deadhand_b.xml:44
 msgid "Deadhand"
-msgstr ""
+msgstr "Smrtidlaň"
 
 #: simulation/templates/units/merc_deadhand_b.xml:43
 msgid ""
@@ -8976,15 +9108,18 @@ msgid ""
 " ReDead, it's theorised these monsters were the product of unspeakable psychological "
 "trauma during their lifetime."
 msgstr ""
+"Nestrůrná noční můra vytvořená prvotními démony, Smrtidlaně byly naštestí vzácné ale "
+"o nic míň děsivé. Zaseknuté někde mezi životem a smrtí jako ZnovuMrtví, je teoretizováno "
+"že tyto příšery jsou produktem nevýslovného psychologického traumatu za jejich života."
 
 #: simulation/templates/units/merc_deadhand_b.xml:47
 #: simulation/templates/units/sheikah/sheikah_deadhand_b.xml:51
 msgid "Large Creature unit that can summon hordes of disembodied arms to attack its targets."
-msgstr ""
+msgstr "Mohutný tvor schopný povolat hordy volných paží."
 
 #: simulation/templates/units/merc_forestthief_b.xml:42
 msgid "Forest Thief"
-msgstr ""
+msgstr "Lesní Lupič"
 
 #: simulation/templates/units/merc_forestthief_b.xml:43
 msgid ""
@@ -8993,10 +9128,13 @@ msgid ""
 "mercy, Forest Thieves are more then willing to steal from anyone, and even more then "
 "willing to kill anyone if they are paid up front."
 msgstr ""
+"Kokiři kteří opustili vliv Velkého Deku Stromu, Lesní Lupiči začali znovu růst a "
+"převzali kulturu původních Kokirských banditů. Nemilosrdní, Lesní Lupiči jsou více než "
+"ochotní od kohokoliv krást, a ještě ochotnější kohokoliv zabít pokud jsou předem zaplaceni."
 
 #: simulation/templates/units/merc_forestthief_b.xml:46
 msgid "Missile unit that tosses knives at their victims from a distance."
-msgstr ""
+msgstr "Střelná jednotka která z dáli háže nože."
 
 #: simulation/templates/units/darknut/darknut_glasswitch_b.xml:51
 #: simulation/templates/units/darknut/darknut_hero_onon.xml:55
@@ -9067,11 +9205,11 @@ msgstr ""
 #: simulation/templates/units/sheikah/sheikah_smokescreener_b.xml:62
 #: simulation/templates/units/zora/zora_boomeranger_b.xml:55
 msgid "Missile"
-msgstr ""
+msgstr "Střela"
 
 #: simulation/templates/units/merc_geru_b.xml:38
 msgid "Geru Maceman"
-msgstr ""
+msgstr "Geruový Palcátník"
 
 #: simulation/templates/units/merc_geru_b.xml:39
 msgid ""
@@ -9081,14 +9219,18 @@ msgid ""
 "rather, they roam the lands in groups and earn their living fighting in wars for "
 "others."
 msgstr ""
+"Kdysi součástí Ještěrfoské rasy, Geruové migrovali na sever a východ místo jihozápadu, "
+"jako většina jejich druhu. Jejich fyzické rozdíly jsou velmi malé, ale jejich kultura "
+"je mnohem jiná. Geurové nežijí ve vesnicícha nebudují impéria; místo toho se potulují "
+"ve skupinách a živí se bojem ve válkách pro jiné."
 
 #: simulation/templates/units/merc_geru_b.xml:43
 msgid "Melee unit armed with a mace that can travel across bodies of water."
-msgstr ""
+msgstr "Pěší jednotka ozbrojena palcátem schopna se pohybovat ve vodě."
 
 #: simulation/templates/units/merc_gibdo_b.xml:36
 msgid "Gibdo"
-msgstr ""
+msgstr "Gibdo
 
 #: simulation/templates/units/merc_gibdo_b.xml:37
 msgid ""
@@ -9096,14 +9238,17 @@ msgid ""
 "come to be scattered across Hyrule and serve in the armies of necromancers. They are "
 "capable for stunning their victims with a terrible screech."
 msgstr ""
+"Gibdové jsou můmie vytvořené jako osobní sluhové Evalynou. Od jejich původního stvoření "
+"jsou rozprášení po světě a slouži v armádách nekromantů. Jsou schopní ustrnou nepřátele "
+"svým hrozným řevem."
 
 #: simulation/templates/units/merc_gibdo_b.xml:41
 msgid "Support unit that stuns its enemies with a horrible screech."
-msgstr ""
+msgstr "Podpůrná jednotka která omračuje nepřátele svým hrozným řevem."
 
 #: simulation/templates/units/merc_gimos_b.xml:32
 msgid "Gimos"
-msgstr ""
+msgstr "Gimos"
 
 #: simulation/templates/units/merc_gimos_b.xml:33
 msgid ""
@@ -9111,16 +9256,20 @@ msgid ""
 "likeness can be found in ruins across Hyrule. To those old enough to know, Gimos can be"
 " found and hired to serve for Rupees."
 msgstr ""
+"Tajemní létající tvorové dlouho považováni za vyhynulé, mnoho soch v jejich podobě může "
+"být nalezeno v ruinách světa. Pro ty dost staré aby je znali, Gimosové mohou být nalezeni "
+"a najmuti za Rupie."
 
 #: simulation/templates/units/merc_gimos_b.xml:37
 msgid "Hovering Creature unit that carries a trident into battle."
-msgstr ""
+msgstr "Vznášející se tvor který s sebou nese do bitvy trojzubec."
 
 #: simulation/templates/units/merc_gimos_b.xml:79
 msgid ""
 "Transform into Stone. (Becomes Stationary and can't attack, but gains massive health "
 "regeneration)"
 msgstr ""
+"Změnit v Kámen (Stane se nehybným a nemůže útočit, ale dostane masivní regeneraci zdraví."
 
 #: simulation/templates/units/boss/boss_madmanhandla.xml:29
 #: simulation/templates/units/boss/boss_moldarach.xml:29
@@ -9254,11 +9403,11 @@ msgstr ""
 #: simulation/templates/units/zora/zora_morphite_b.xml:25
 #: simulation/templates/units/zora/zora_sapwarden_upg.xml:15
 msgid "Circular"
-msgstr ""
+msgstr "Kruh"
 
 #: simulation/templates/units/merc_goriya_b.xml:50
 msgid "Goriya"
-msgstr ""
+msgstr "Gorija"
 
 #: simulation/templates/units/merc_goriya_b.xml:51
 msgid ""
