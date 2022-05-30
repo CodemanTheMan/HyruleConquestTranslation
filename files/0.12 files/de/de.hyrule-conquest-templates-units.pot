@@ -4295,30 +4295,35 @@ msgid ""
 "Warriors are the ultimate Goron soldiers. One swing from their hammer can send groups "
 "of soldiers flying, and none but the most powerful weaponry in Hyrule can crack their "
 "armor."
-msgstr ""
+msgstr "Die Feuer Krieger sind die ultimativen Goronen Soldaten und von Kopf bis Fuß in "
+"rotgetönter Rüstung eingedeckt und bewaffnet mit einem mächtigen Stahlhammer. Ein Schwung "
+"von ihren Hämmern kann Gruppen an Soldaten das fliegen lehren und nur die stärksten Waffen "
+"können ihre Panzerung knacken."
 
 #: simulation/templates/units/goron/goron_firewarrior_b.xml:55
 msgid "Slow moving but heavily armored Melee unit that deals tons of Splash Damage to enemies."
-msgstr ""
+msgstr "Langsame aber schwer gepanzerte Hammerkämpfer der Flächenschaden austeilt."
 
 #: simulation/templates/units/goron/goron_giant_b.xml:53
 msgid "Goron Giant"
-msgstr ""
+msgstr "Goronen Gigant"
 
 #: simulation/templates/units/goron/goron_giant_b.xml:54
 msgid ""
 "Some of the largest Gorons on record, these Giants were slow to move and even slower to"
 " bring to battle. In a fight they preferred to hurl giant boulders from impressive "
 "distances, bowling down groups of enemy soldiers or toppling over enemy buildings."
-msgstr ""
+msgstr "Diese Riesen gehören zu den größten Goronen der Geschichte und sind entsprechend"
+"langsam. In einem Kampf bevorzugten sie es riesige Felsen aus beeindruckenden Entfernungen"
+"zu werfen die Soldaten und Gebäude zertümmerten."
 
 #: simulation/templates/units/goron/goron_giant_b.xml:59
 msgid "Large Goron Siege unit that can destroy targets from a distance by hurling boulders."
-msgstr ""
+msgstr "Große Goronische Belagerungseinheit die auf Felsen aus der Ferne schleudert."
 
 #: simulation/templates/units/goron/goron_guardian_b.xml:33
 msgid "Guardian"
-msgstr ""
+msgstr "Wächter"
 
 #: simulation/templates/units/goron/goron_guardian_b.xml:34
 msgid ""
@@ -4327,43 +4332,47 @@ msgid ""
 "are nonetheless rather durable and strong for their size, and can take on armored "
 "enemies. Lacking weapons and armor, the Guardians are able to curl themselves up and "
 "roll at fast speeds to reach critical areas much more swiftly than their brothers."
-msgstr ""
+msgstr "Wächter wurden aus der Zivilen Bevölkerung rekrutiert um während Kriegszeiten "
+"die Heimat ,den Todesberg, zu verteidigen. Nur mit ihren Fäusten ausgestattet waren"
+"die Goronen Wächter trotzdem sehr zäh und stark für ihre Größe und konnten es mit gepanzerten"
+"Gegner aufnehmen. Ohne Rüstung und Waffen konnten die Wächter sich einrollen und schneller"
+"kritische Orte  erreichen als ihre Brüder."
 
 #: simulation/templates/units/goron/goron_guardian_b.xml:38
 msgid "Light Infantry Melee unit that can roll up and zoom across the map at rapid speeds."
-msgstr ""
+msgstr "Leichte Infanterie die sich einrollen kann und über die Karte düsen"
 
 #: simulation/templates/units/goron/goron_guardian_b.xml:84
 msgid "Enter Rolling mode. (+ Movement Speed, but no Line-of-Sight and Attack)"
-msgstr ""
+msgstr "Einrollen"
 
 #: simulation/templates/units/goron/goron_guardian_roll.xml:4
 #: simulation/templates/units/goron/goron_sumo_roll.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Rolling"
-msgstr ""
+msgstr "Überrollen"
 
 #: simulation/templates/units/goron/goron_guardian_roll.xml:16
 msgid "Rolling"
-msgstr ""
+msgstr "Rollen"
 
 #: simulation/templates/units/goron/goron_guardian_roll.xml:19
 msgid "Rolling Guardian"
-msgstr ""
+msgstr "Rollender Wächter"
 
 #: simulation/templates/units/goron/goron_guardian_roll.xml:37
 #: simulation/templates/units/goron/goron_sumo_roll.xml:41
 msgid "Leave Rolling mode."
-msgstr ""
+msgstr "Entrollen"
 
 #: simulation/templates/units/goron/goron_hero_dangoro.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Iron Fists"
-msgstr ""
+msgstr "Eisenfaust"
 
 #: simulation/templates/units/goron/goron_hero_dangoro.xml:43
 msgid "Guardian of Death Mountain"
-msgstr ""
+msgstr "Hüter des Todesbergs"
 
 #: simulation/templates/units/goron/goron_hero_dangoro.xml:45
 msgid ""
@@ -4377,7 +4386,7 @@ msgstr ""
 
 #: simulation/templates/units/goron/goron_hero_dangoro.xml:49
 msgid "Dangoro"
-msgstr ""
+msgstr "Dangoro"
 
 #: simulation/templates/units/goron/goron_hero_dangoro.xml:50
 msgid "Large Goron Siege Hero that can decimate structures and units alike."
@@ -4385,7 +4394,7 @@ msgstr ""
 
 #: simulation/templates/units/goron/goron_hero_daruk.xml:38
 msgid "Goron Elder"
-msgstr ""
+msgstr "Goronen Ältester"
 
 #: simulation/templates/units/goron/goron_hero_daruk.xml:40
 msgid ""
@@ -4406,7 +4415,7 @@ msgstr ""
 
 #: simulation/templates/units/goron/goron_hero_darunia.xml:48
 msgid "Sage of Fire"
-msgstr ""
+msgstr "Weise des Feuers"
 
 #: simulation/templates/units/goron/goron_hero_darunia.xml:50
 msgid ""
@@ -4421,7 +4430,7 @@ msgstr ""
 
 #: simulation/templates/units/goron/goron_hero_darunia.xml:54
 msgid "King Darunia"
-msgstr ""
+msgstr "König Darunia"
 
 #: simulation/templates/units/goron/goron_hero_darunia.xml:55
 msgid ""
@@ -4432,7 +4441,7 @@ msgstr ""
 #: simulation/templates/units/goron/goron_hero_gorcoron.xml:33
 #: simulation/templates/units/goron/goron_hero_gorebizo.xml:51
 msgid "Elder of Death Mountain"
-msgstr ""
+msgstr "Ältester des Todesbergs"
 
 #: simulation/templates/units/goron/goron_hero_gorcoron.xml:35
 msgid ""
@@ -4440,15 +4449,17 @@ msgid ""
 "elders and by far the most loved. Gor Coron oversaw much of the Goron's military during"
 " his younger days, though he now prefers to spend his time fighting in sport against "
 "other Gorons."
-msgstr ""
+msgstr "Einer der zwei verbliebeen Ältesten des Todesberges. Don Corone war der jüngste und der"
+"bei weitem beliebteste der vier Ältesten. Don Corone beufsichtigte das Goronen Militär in seinen"
+"jüngeren Jahren doch er bevorzugt es seine Zeit mit anderen Goronen im Sport zu verbringen
 
 #: simulation/templates/units/goron/goron_hero_gorcoron.xml:39
 msgid "Gor Coron"
-msgstr ""
+msgstr "Don Corone"
 
 #: simulation/templates/units/goron/goron_hero_gorcoron.xml:40
 msgid "Faster Melee Goron Hero that has excellent parry skills."
-msgstr ""
+msgstr "Schneller Faustkämpfer der ausgezeichnet parieren kann"
 
 #: simulation/templates/units/goron/goron_hero_gorebizo.xml:4
 #: simulation/templates/units/goron/goron_salamander_b.xml:4
@@ -4457,7 +4468,7 @@ msgstr ""
 #: simulation/templates/units/lizalfos/lizalfos_aeralfire_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fire Breath"
-msgstr ""
+msgstr "Feueratem"
 
 #: simulation/templates/units/goron/goron_hero_gorebizo.xml:53
 msgid ""
@@ -4466,16 +4477,20 @@ msgid ""
 "Goron people. His leadership saw success against the Zora Dominion during the Gorons' "
 "many wars with their people."
 msgstr ""
+"Einer der zwei verbliebeen Ältesten des Todesberges. Don Ebizo wurde oft als der stille und "
+"geistesabwesende seiner Brüder betrachtet, aber in Wahrheit ist er vermutlich der "
+"brillianteste Gorone.. Seine Führung sah großen Erfolg gegen das Reich der Zora während der"
+"vielen Kriege zwischen den beiden Völkern."
 
 #: simulation/templates/units/goron/goron_hero_gorebizo.xml:57
 msgid "Gor Ebizo"
-msgstr ""
+msgstr "Don Ebizo"
 
 #: simulation/templates/units/goron/goron_hero_gorebizo.xml:58
 msgid ""
 "Economic Goron Hero that starts out weak, but can ride a Salamander Warbeast as he "
 "levels up, boosting his combat prowess."
-msgstr ""
+msgstr "Ökonomischer Held der auf einer Salamader Kriegsbestie reitet"
 
 #: simulation/templates/units/goron/goron_hero_medigoron.xml:43
 msgid "Brotherhood Leader"
