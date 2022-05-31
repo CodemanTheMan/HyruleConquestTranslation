@@ -9416,14 +9416,17 @@ msgid ""
 "Boomerangs, which they use to stun their enemies and allow their employers to kill or "
 "take hostage."
 msgstr ""
+"Sprostí nájemní vojáci, Gorijové dlouho sloužili jako válečníci pro rozmanitá impéria "
+"a armády během staletí. Zdokonalili využití bumerangů, které využívají k omráčení jejich "
+"nepřátel a umožňují jejich zaměstnavatelům je zabít nebo vzít jako rukojmí.
 
 #: simulation/templates/units/merc_goriya_b.xml:55
 msgid "Missile unit that tosses boomerangs at several targets simultaneously."
-msgstr ""
+msgstr "Střelná jednotka která háže bumerang na několik cílů zaráz."
 
 #: simulation/templates/units/merc_mago_b.xml:41
 msgid "Mago"
-msgstr ""
+msgstr "Maga"
 
 #: simulation/templates/units/merc_mago_b.xml:42
 msgid ""
@@ -9432,10 +9435,14 @@ msgid ""
 "often losing their sanity as they attempt ever deadlier and crazier magics. A fair sum "
 "of Rupees might be enough to encourage one to torch your enemies with a fireball."
 msgstr ""
+"Kdysi praktikující čarodějnice, Maga zašla se svými zaklínadly až moc daleko a vyloučena "
+"ze společnosti i většinou vyhnanců. Mnohé Magy žily osamělé v lese, většinou ztrácející "
+"svůj zdravý rozum během jejich pokusů o ještě smrtelnější a šílenější magie. Dost Rupií "
+"by mělo být dost aby přesvědčilo jedu z nich ke spálení vašich nepřátel ohnivou koulí."
 
 #: simulation/templates/units/merc_mago_b.xml:46
 msgid "Small Mage unit that can hurl fireballs at their targets."
-msgstr ""
+msgstr "Malá magická jednotka schopná vrhat ohnivé koule na své nepřátele."
 
 #: simulation/templates/units/darknut/darknut_immortal_b.xml:54
 #: simulation/templates/units/darknut/darknut_immortal_regen.xml:30
@@ -9469,11 +9476,11 @@ msgstr ""
 #: simulation/templates/units/zora/zora_sapwarden_b.xml:48
 #: simulation/templates/units/zora/zora_sparkmage_b.xml:51
 msgid "Mage"
-msgstr ""
+msgstr "Mág"
 
 #: simulation/templates/units/merc_meteo_b.xml:48
 msgid "Meteo Magician"
-msgstr ""
+msgstr "Meteo Čaroděj"
 
 #: simulation/templates/units/merc_meteo_b.xml:49
 msgid ""
@@ -9481,14 +9488,17 @@ msgid ""
 "effortless across the sky. Their motives are lost amongst all, but the right number of "
 "rupees might convince them to rain down molted rocks on your foes."
 msgstr ""
+"Tajemný mág ze zapomenutých časů, Meteo Čarodějové bez námahy tancují a smějí se v "
+"oblacích. Jejich motivy jsou nad všechny ostatní, ale správná suma Rupií by je měla "
+"přesvědčít k tomu aby přinesli déšť roztavených kamenů na vaše nepřátele."
 
 #: simulation/templates/units/merc_meteo_b.xml:53
 msgid "Hovering Mage unit that hurls flaming rocks at their targets."
-msgstr ""
+msgstr "Vznášející se mág která vrhá ohnivé kameny na nepřátele."
 
 #: simulation/templates/units/merc_pikku_b.xml:33
 msgid "Pikku"
-msgstr ""
+msgstr "Pikku"
 
 #: simulation/templates/units/merc_pikku_b.xml:34
 msgid ""
@@ -9497,14 +9507,17 @@ msgid ""
 "greater. For the right price they will be more than happy to aid you in the theft and "
 "death of your enemies."
 msgstr ""
+"Nomádské liščí stvoření které se zpravidla drží zalesněných zemí, Pikkuové jsou v tom "
+"jen pro sebe. Zajímá je jen majetné bohatství a nebojují pro nic většího. Za správnou "
+"cenu budou více než šťastní vám pomoci v krádeži majetku a života vašich nepřátel."
 
 #: simulation/templates/units/merc_pikku_b.xml:38
 msgid "Stealthed Melee unit that has a high dodge chance."
-msgstr ""
+msgstr "Utajená pěší jednotka s vysokou mírou úhybů."
 
 #: simulation/templates/units/merc_polsvoice_b.xml:32
 msgid "Pols Voice"
-msgstr ""
+msgstr "Polův Hlas"
 
 #: simulation/templates/units/merc_polsvoice_b.xml:33
 msgid ""
@@ -9514,10 +9527,15 @@ msgid ""
 "right price a Pols Voice can be hired to take on your enemies, latching on like a "
 "viscious leech with their giant gaping toothed maws."
 msgstr ""
+"Tajemný a samotářský tvor z legend, Polovy Hlasy se schovávají od světa a vzácně se "
+"ukazují. Mnozí věří že jsou pouze mýtické bestie, ale ti se starověkým moudrem ví kde "
+"tyto tvory najít a jak s nimi konverzovat. Za správnou cenu může být Polův Hlas najmut "
+"na boj s nepřáteli, ke kterým se přilepí jako zřavá pijavice se svými obřími zejícími "
+"ozubenými tlamami."
 
 #: simulation/templates/units/merc_polsvoice_b.xml:37
 msgid "Strange Creature unit that hops right into their enemies to attack."
-msgstr ""
+msgstr "Zvláštní tvor který zkáče na své nepřátele."
 
 #: simulation/templates/units/merc_stalchild_b.xml:33
 #: simulation/templates/units/stalfos/stalfos_civilianA.xml:15
@@ -9542,7 +9560,7 @@ msgstr ""
 
 #: simulation/templates/units/merc_taros_b.xml:58
 msgid "Taros"
-msgstr ""
+msgstr "Taros"
 
 #: simulation/templates/units/merc_taros_b.xml:59
 msgid ""
@@ -9551,14 +9569,18 @@ msgid ""
 "right pay they can convinced to fight as soldiers for hire and use their charging "
 "trident attacks to impale their targets."
 msgstr ""
+"Mohutná býčí stvoření která žijí v mnoha zemích , Tarosové se zpravidla stydí "
+"ukazovat v civilizaci a preferují žít na hranicích světa. Za správnou cenu mohou být "
+"přesvědčeni bojovat jako vojáci za žold a využívat svoje nájezdy s trojzubcem "
+"k propíchnutí svých cílů."
 
 #: simulation/templates/units/merc_taros_b.xml:63
 msgid "Fast charging Melee unit that rams into targets with its trident."
-msgstr ""
+msgstr "Rychlá pěší jednotka která naráží do svých nepřátel s trojzubcem."
 
 #: simulation/templates/units/merc_tinsuit_b.xml:40
 msgid "Tinsuit"
-msgstr ""
+msgstr "Cíňák"
 
 #: simulation/templates/units/merc_tinsuit_b.xml:41
 msgid ""
@@ -9568,14 +9590,18 @@ msgid ""
 "pike and a suit of armor, the Tinsuits are especially favored for fighting against "
 "cavalry."
 msgstr ""
+"Potulná družina vysokých mužů kteří si říkají Cíňáci, je málo informací ohledně "
+"původu těchto najumutelných vojáků. Co je známo je že jsou excelentní vojáci a pracují "
+"za decentní žold. Ozbrojeni dlouhým okřídleným kopím a brněním, Cíňáci jsou především "
+"oblíbení pro boj s jezdectvem."
 
 #: simulation/templates/units/merc_tinsuit_b.xml:45
 msgid "Large and strong Melee unit armed with a spear."
-msgstr ""
+msgstr "Velká a silná pěší jednotka ozbrojená kopím."
 
 #: simulation/templates/units/merc_wosu_b.xml:41
 msgid "Wosu Knight"
-msgstr ""
+msgstr "Rytíř Wosu"
 
 #: simulation/templates/units/merc_wosu_b.xml:42
 msgid ""
@@ -9585,46 +9611,56 @@ msgid ""
 "themselves will deny such claims. They pledge their services to the highest bidder and "
 "are more than willing to fight anyone's war if the pay is right."
 msgstr ""
+"Galantní rytíři kteří se usídlili ve sněžných pohoří světa, Wosuové jsou mohutní válečníci "
+"nosící zlaté brnění a nesoucí mocný meč. Nekteré legendy říkají že jsou potomci Temnářů "
+"ze západu, ale oni sami toto tvrzení odmítají. Svoje služby zaručují nejvyššímu dražiteli "
+"a jsou více než ochotní bojovat číkoliv válku pokud je plat dobrý."
 
 #: simulation/templates/units/merc_wosu_b.xml:46
 msgid "Hulking Melee unit that deals Knockback Damage."
-msgstr ""
+msgstr "Mohutná peší jednotka způsobující odrazné požkození."
 
 #: simulation/templates/units/moblin/moblin_baddyram_b.xml:47
 msgid "Bugblin Baddy Ram"
-msgstr ""
+msgstr "Broukblinský Beranidlo"
 
 #: simulation/templates/units/moblin/moblin_baddyram_b.xml:48
 msgid ""
 "Crafty little Bugblins they made a pretty cool big stick to knock down the gates! Get "
 "one of these beauty sticks out and take down them walls and houses!"
-msgstr ""
+msgstr 
+"Mazaní malí Broukblini udělali docela suprovej velkej klacek aby srazili brány!"
+"Vem si jeden z těch pěknejch klacků a poraž ty zdi a baráky!"
 
 #: simulation/templates/units/moblin/moblin_baddyram_b.xml:51
 msgid "Bangin Melee Siege unit goes a banging on the enemy doors to knock em down!"
 msgstr ""
+"Vobouchávací pěchotná voblíhací jednotka která vobouchává nepřátelský dveře aby "
+"je srazila!"
 
 #: simulation/templates/units/moblin/moblin_bar_packed.xml:18
 msgid "Bestin' Bar n Drinks"
-msgstr ""
+msgstr "Nejlepšejší Hospoda a Moky"
 
 #: simulation/templates/units/moblin/moblin_bar_packed.xml:19
 msgid ""
 "Oh man the Boko juice is the best! We Moblins when we are done fighting we gulp that "
 "stuff up real nice like! Makes us happy for the night and ready for more fighting!"
 msgstr ""
+"Tý vole, Broučí štáva je nejlepšejší! My Moblini když máme voraz vod boje to vypijem "
+"jak zvířata! Dělá nás to šťastný na spaní a připravený na víc bojování!"
 
 #: simulation/templates/units/moblin/moblin_bar_packed.xml:21
 msgid "Fun Bar has nice stuff for Moblins to fight better!"
-msgstr ""
+msgstr "Fajná hospoda má suprový věci pro Mobliny ať bojujem líp!"
 
 #: simulation/templates/units/moblin/moblin_bar_packed.xml:58
 msgid "Unpack this Bestin' Bar n Drinks."
-msgstr ""
+msgstr "Vybal už tudle Nejlepšejší Hospodu a Moky."
 
 #: simulation/templates/units/moblin/moblin_barracksA_packed.xml:18
 msgid "Blin Base n' Camp"
-msgstr ""
+msgstr "Blinská Báze a Kemp"
 
 #: simulation/templates/units/moblin/moblin_barracksA_packed.xml:19
 msgid ""
@@ -9632,19 +9668,22 @@ msgid ""
 "old camp the best place for us Moblins and bigger Blins of all types to get the sharp "
 "stick and nice armor to go fight the baddies!"
 msgstr ""
+"Blini jsou dycky připravení bojovat! Ale občas se můžem bejt ještě připravenější bojovat! "
+"Tudle starej kemp je nejlepšejší místo pro nás Mobliny a větší Bliny všech typů kde si "
+"berem klacek a pěkný brnění a jsem bojovat se zlounama!"
 
 #: simulation/templates/units/moblin/moblin_barracksA_packed.xml:21
 msgid "Makes the Moblins and lots of fighting Blin units!"
-msgstr ""
+msgstr "Dělá Mobliny a spoustu bojujících Blinskejch jednotek!"
 
 #: simulation/templates/units/moblin/moblin_barracksA_packed.xml:58
 msgid "Unpack this Blin Base n' Camp."
-msgstr ""
+msgstr "Vybal už tudle Blinskou Bázi a Kemp."
 
 #: simulation/templates/units/moblin/moblin_barracksB_packed.xml:18
 #: simulation/templates/units/moblin/moblin_barracksD_packed.xml:18
 msgid "Big n' Best Blin Camp"
-msgstr ""
+msgstr "Velkej a suprovej Blinskej Kemp"
 
 #: simulation/templates/units/moblin/moblin_barracksB_packed.xml:19
 msgid ""
@@ -9652,19 +9691,21 @@ msgid ""
 "helps us fight down them ugly Hylians!  They real big and real scary! They can knock "
 "down a Moblin house just by bonking into it!"
 msgstr ""
+"Tyyyyyyy vole Velblini! Mám z nich naděláno do kalhot! Pomáhaj nám zabíjet ty blbý "
+"Hyliány! Jsou fakt velcí a sakra děsiví! Umí porazit barák tím že do něj narazí!"
 
 #: simulation/templates/units/moblin/moblin_barracksB_packed.xml:21
 msgid "Makes the biggest and bestest Blin units!"
-msgstr ""
+msgstr "Dělá největší a nejlepšejší Blinský jednotky!"
 
 #: simulation/templates/units/moblin/moblin_barracksB_packed.xml:58
 #: simulation/templates/units/moblin/moblin_barracksD_packed.xml:58
 msgid "Unpack this Big n' Best Blin Camp."
-msgstr ""
+msgstr "Vybal tudle Velkej a suprovej Blinskej Kemp"
 
 #: simulation/templates/units/moblin/moblin_barracksC_packed.xml:18
 msgid "Contraption Camp"
-msgstr ""
+msgstr "Kemp Mašinek"
 
 #: simulation/templates/units/moblin/moblin_barracksC_packed.xml:19
 msgid ""
@@ -9672,14 +9713,17 @@ msgid ""
 "awesome that they take the tree with em wherever they go! Smart little Bugblins! They "
 "also make smart contraptions to go knock downb the baddies houses! "
 msgstr ""
+"Báááááájo tidle Broukblini mají nejsuprovější dům ve stromě! Bájo! Broukblinskej dům "
+"ve stromě je tak suprovej že si ho berou všude kam dou! Chytří mají Broukblini! Taky "
+"umí dělat chytrý mašinky který ničí těm blbcům domy!"
 
 #: simulation/templates/units/moblin/moblin_barracksC_packed.xml:21
 msgid "Get the cool Siege units from here!"
-msgstr ""
+msgstr "Tady si vem suprový oblíhací mašinky!"
 
 #: simulation/templates/units/moblin/moblin_barracksC_packed.xml:58
 msgid "Unpack this Contraption Cam."
-msgstr ""
+msgstr "Vybal tudle Kemp Mašinek"
 
 #: simulation/templates/units/moblin/moblin_barracksD_packed.xml:19
 msgid ""
@@ -9687,28 +9731,33 @@ msgid ""
 "helps us fight down them ugly Hylians! Oh man and Uncle Gooma and Hinox! They real big "
 "and real scary! They can knock down a Moblin house just by bonking into it!"
 msgstr ""
+"Tyyyyyyy vole Velblini! Mám z nich naděláno do kalhot! Pomáhaj nám zabíjet ty blbý "
+"Hyliány! Jo, a taky strejda Guma a Hinox! Jsou fakt velcí a sakra děsiví! Umí porazit "
+"barák tím že do něj narazí!"
 
 #: simulation/templates/units/moblin/moblin_barracksD_packed.xml:21
 msgid "Moblins get really big guys from this camp!"
-msgstr ""
+msgstr "Moblini berou fakt velký chlapy z tohohle kempu!"
 
 #: simulation/templates/units/moblin/moblin_barracks_packed.xml:18
 msgid "Lil Blin Camp"
-msgstr ""
+msgstr "Kemp Malejch Blinů"
 
 #: simulation/templates/units/moblin/moblin_barracks_packed.xml:19
 msgid ""
 "Ahhh some Blins cursed with being really small like! They small, and weak, and very "
 "dumb! But even small Blin can bash em on the head! Small Blins go here!"
 msgstr ""
+"Ááá někteří Blini maj fakt smůlu a sou jako fakt malí! Malí, slabí, a fakt blbí. "
+"Ale i malí Blini můžou přetáhnout po hlavě. Jinak jsou sem!"
 
 #: simulation/templates/units/moblin/moblin_barracks_packed.xml:21
 msgid "Makes small Blin units!"
-msgstr ""
+msgstr "Dělá malý Blinský jednotky!"
 
 #: simulation/templates/units/moblin/moblin_barracks_packed.xml:58
 msgid "Unpack this Lil Blin Camp Camp."
-msgstr ""
+msgstr "Vybal tudle Kemp Malejch Blinů."
 
 #: simulation/templates/units/moblin/moblin_bigblin_b.xml:4
 #: simulation/templates/units/moblin/moblin_bullborider_b.xml:4
@@ -9716,11 +9765,11 @@ msgstr ""
 #: simulation/templates/units/moblin/moblin_thug_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Club"
-msgstr ""
+msgstr "Kyj"
 
 #: simulation/templates/units/moblin/moblin_bigblin_b.xml:60
 msgid "Bigblin"
-msgstr ""
+msgstr "Velblin"
 
 #: simulation/templates/units/moblin/moblin_bigblin_b.xml:61
 msgid ""
@@ -9728,14 +9777,17 @@ msgid ""
 " best! When a Bigblin comes out for the fun we all have fun! One Bigblin makes all the "
 "baddies go flying around all over, we get the biggest laugh outta that!"
 msgstr ""
+"Velkej drsňáckej zábavnej Blin, bratranec Moblinů! Velblini jsou největší a nejlepšejší! "
+"Když přijde Velblin se bavit, všichni se bavíme! Jeden Velblin posílá všechny blbe do "
+"vzduchu, s toho se dycky poserem!"
 
 #: simulation/templates/units/moblin/moblin_bigblin_b.xml:65
 msgid "Big Creature with even bigger club to hit the baddies on the head!"
-msgstr ""
+msgstr "Velkej Blin s ještě většim kyjem kterym přetahuje blbce po hlavě!"
 
 #: simulation/templates/units/moblin/moblin_blacksmithA_packed.xml:18
 msgid "Smart Science Makers"
-msgstr ""
+msgstr "Chytrý Vědátoři"
 
 #: simulation/templates/units/moblin/moblin_blacksmithA_packed.xml:19
 msgid ""
@@ -9743,18 +9795,21 @@ msgid ""
 "ones know how to read, and they read from the Olden Timey books and make super awersome"
 " weapons and armor for all the Blins! They the best!”"
 msgstr ""
+"Se nebojíme říct že Moblini nejsou nejchytřejší... ale vobčas jsme! Chytrý umí číst, a "
+"čtou ze starejch knížek a dělaj super a úžasný zbraně a brnění pro všechny Bliny! Jsou "
+"fakt nejlepšejší!"
 
 #: simulation/templates/units/moblin/moblin_blacksmithA_packed.xml:21
 msgid "Moblins get smarter stuff from this place!"
-msgstr ""
+msgstr "Moblini vocaď dostávaj chytřejší věci!"
 
 #: simulation/templates/units/moblin/moblin_blacksmithA_packed.xml:58
 msgid "Unpack this Smart Science Makers."
-msgstr ""
+msgstr "Vybal tudle Chytrý Vědátory."
 
 #: simulation/templates/units/moblin/moblin_blacksmith_packed.xml:18
 msgid "Handmedown Armor Place"
-msgstr ""
+msgstr "Brněný z Druhý Ruky"
 
 #: simulation/templates/units/moblin/moblin_blacksmith_packed.xml:19
 msgid ""
@@ -9762,18 +9817,21 @@ msgid ""
 " that there thing! When our armor gets all worn down, we put it on the shelf and sell "
 "it like new! Half the Blinys don’t know the difference ahaahahah!"
 msgstr ""
+"Hyliáni dělaj věci pro ňáký Rupie. My sme v tom ale vychytralejší! Když je naše brnění "
+"už vobnosený, dáme to zpátky na polici a prodáme jako nový! Půlka Blinů to ani nepozná "
+"ahahahahaha!"
 
 #: simulation/templates/units/moblin/moblin_blacksmith_packed.xml:21
 msgid "Moblins get better armor from this here place!"
-msgstr ""
+msgstr "Moblini vocaď dostávaj lepší brnění!"
 
 #: simulation/templates/units/moblin/moblin_blacksmith_packed.xml:58
 msgid "Unpack this Handmedown Armor Place."
-msgstr ""
+msgstr "Vybal tudle Brnění z Druhý Ruky."
 
 #: simulation/templates/units/moblin/moblin_bokoblin_b.xml:33
 msgid "Bokoblin Rabble"
-msgstr ""
+msgstr "Bokoblinská Chátra"
 
 #: simulation/templates/units/moblin/moblin_bokoblin_b.xml:34
 msgid ""
@@ -9781,14 +9839,17 @@ msgid ""
 " the fight, cause they listen and run right in! Sure they get beat up a lot because "
 "they are so small, but we can always find more of them to send in! Go Bokoblins!"
 msgstr ""
+"Bokoblini jsou dost prťaví, ale maj fakt kuráž! Je rádi posíláme bojovat, páč dycky "
+"poslouchají a dou tam! Jo, skoro dycky je zmlátí páč jsou tak prťaví, ale dycky můžem "
+"najít víc co tam poslat! Hurá Bokoblini!"
 
 #: simulation/templates/units/moblin/moblin_bokoblin_b.xml:38
 msgid "Really cheap bunch of little Bokoblins! They got swords and shields!"
-msgstr ""
+msgstr "Fakt levnej tým malejch Bokoblinů! Maj meče a štíty!"
 
 #: simulation/templates/units/moblin/moblin_bokonox_b.xml:38
 msgid "Bokonox"
-msgstr ""
+msgstr "Broukonox"
 
 #: simulation/templates/units/moblin/moblin_bokonox_b.xml:40
 msgid ""
@@ -9797,20 +9858,26 @@ msgid ""
 "pretty good at takin the big bad beating from the baddies! Send em in first to get hit "
 "and we all come in after to hit back!"
 msgstr ""
+"No, jednou se ňákej blbej Hinox a blbej Broukblin rozhodli udělat děcko! Vodporný! Ale "
+"dívejte co udělali! Velký blbý Broukonoxe! Jsou pomapí, to je fakt, ale dost dobře snášej "
+"velký ztrestání od těch blbů. Je posíláme napřed aby se nechali trefit a potom tam chodíme "
+"je trefit zpátky!"
 
 #: simulation/templates/units/moblin/moblin_bokonox_b.xml:45
 msgid ""
 "Only cool boss Glutko can make these guys! Big bad Creature unit can take seriously "
 "lots of hits before he goes down!"
 msgstr ""
+"Jenom suprovej šéf Otesa může tydle chlápky přinést! Velkej tvor co vydrží fakt dost "
+"ran než chcípne!"
 
 #: simulation/templates/units/moblin/moblin_bonepit_packed.xml:18
 msgid "Big Bone Pit"
-msgstr ""
+msgstr "Velká Hrouda Kostí"
 
 #: simulation/templates/units/moblin/moblin_bonepit_packed.xml:19
 msgid "Moblins get better weapons from this here o bone pile!"
-msgstr ""
+msgstr "Moblini si berou lepší zbraně z tady týdle hromady kostí!"
 
 #: simulation/templates/units/moblin/moblin_bonepit_packed.xml:21
 msgid ""
@@ -9818,22 +9885,25 @@ msgid ""
 "eaten ratty in the biggo pile of stink! That was a free meal! Moblins smart we look in "
 "all the junk and make great time!"
 msgstr ""
+"My nacházíme tolik věcí co vostatní lidi odhodili jako vodpad! Jednou jsem našel napůl "
+"snězenou kdysu ve smradlavé hroudě! Svačina zdarma! My chytří Moblini hledáme ve vodpadu "
+"a ještě se u toho bavíme!"
 
 #: simulation/templates/units/moblin/moblin_bonepit_packed.xml:58
 msgid "Unpack this Big Bone Pit."
-msgstr ""
+msgstr "Vybal tudle Velkou Hroudu Kostí."
 
 #: simulation/templates/units/moblin/moblin_bugblin_b.xml:4
 #: simulation/templates/units/moblin/moblin_bugblin_thrown_b.xml:4
 #: simulation/templates/units/moblin/moblin_bugblin_upg.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Various"
-msgstr ""
+msgstr "Různé"
 
 #: simulation/templates/units/moblin/moblin_bugblin_b.xml:32
 #: simulation/templates/units/moblin/moblin_bugblin_thrown_b.xml:29
 msgid "Bugblin Battler"
-msgstr ""
+msgstr "Broukblinskej Bojovník"
 
 #: simulation/templates/units/moblin/moblin_bugblin_b.xml:33
 #: simulation/templates/units/moblin/moblin_bugblin_thrown_b.xml:30
@@ -9842,6 +9912,8 @@ msgid ""
 "crafty on their feet! Get a big enough rabble and they can go a bashing in the country "
 "side and get the nice loot!"
 msgstr ""
+"Mmmmm Broukblini jsou docela fajn a srandovní hlouk! Ne moc stateční, ale docela chytrý! "
+"Dost jich posbírej a voni klidně pudou přetahovat po venkově a sesbíraj pěknou kořist!"
 
 #: simulation/templates/units/moblin/moblin_bugblin_b.xml:37
 #: simulation/templates/units/moblin/moblin_bugblin_thrown_b.xml:34
@@ -9849,38 +9921,43 @@ msgid ""
 "Little Bugblins hit the baddies with their clubs and can get better weapons from dead "
 "guys!"
 msgstr ""
+"Malí Broukblini přetahujou blbce svýma kyjena a dostávaj lepší zbraně z mrtvejch chlápků!"
 
 #: simulation/templates/units/moblin/moblin_builder_packed.xml:18
 msgid "Building Builder Camp"
-msgstr ""
+msgstr "Barák Baráků"
 
 #: simulation/templates/units/moblin/moblin_builder_packed.xml:21
 msgid "Get new buildings from this place!"
-msgstr ""
+msgstr "Tady si ber nový baráky!"
 
 #: simulation/templates/units/moblin/moblin_builder_packed.xml:58
 msgid "Unpack this Building Builder Camp."
-msgstr ""
+msgstr "Vybal tudle Barák Baráků."
 
 #: simulation/templates/units/moblin/moblin_bullboram_b.xml:47
 msgid "Bullbo War Ram"
-msgstr ""
+msgstr "Bullbskej Beran"
 
 #: simulation/templates/units/moblin/moblin_bullboram_b.xml:49
 msgid ""
 "Big Bullbo hit his dummy head on the wall and the wall comes falling down nice and "
 "fast! Big Bullbo not scared of baddies either, he can take all the hits!"
 msgstr ""
+"Velkej Bullbo se trefí svou blbou hlavou vo zeď a zeď hezky a rychle spadne! Velkej "
+"Bullbo se taky nebojí blbů, vydrží všechny rány!"
 
 #: simulation/templates/units/moblin/moblin_bullboram_b.xml:54
 msgid ""
 "Whoah really biiiiig Bullbo! I mean reaaaallly big one! So big that only King Bulblin "
 "can make these guys! Siege Creature knock down bad guy buildings with his head!"
 msgstr ""
+"Páni fakt vééélkej Bullbo! Jako fááákt velkej! Tak velkej že ho může dělat jenom Král "
+"Bulblin! Voblíhací zvířátko který umí srazit k zemi baráky svou kebulí!"
 
 #: simulation/templates/units/moblin/moblin_bullborider_b.xml:53
 msgid "Bullbo Rider"
-msgstr ""
+msgstr "Jezdec na Bullbovi"
 
 #: simulation/templates/units/moblin/moblin_bullborider_b.xml:54
 msgid ""
@@ -9888,22 +9965,25 @@ msgid ""
 "legs to go against the horses! Send these fast guys in to trample the baddies and load "
 "em up with an extra Thug to let them know Blins are the best!"
 msgstr ""
+"Tidle chytří malí Bulblini vochočili tady prasečí Bullby! Teď máme ňáky pškný čtyry nohy "
+"aby sme mohli jít proti koňům! Pošli tydle rychlý chlapy podupat blbce a nalož je extra "
+"Rváčem, ať ví že Blini jsou nejlepší!"
 
 #: simulation/templates/units/moblin/moblin_bullborider_b.xml:58
 msgid "Great Melee Cavalry Bulblin go hit the bad guys with his awesome club!"
-msgstr ""
+msgstr "Velkej jezdeckej Bublin co jde přetáhnout blbce svým suprovým kyjem!"
 
 #: simulation/templates/units/moblin/moblin_collector_b.xml:23
 msgid "Ugpug Cart"
-msgstr ""
+msgstr "Vošklimopsí Vagón"
 
 #: simulation/templates/units/moblin/moblin_collector_b.xml:25
 msgid "Stalfos dropsite for resources."
-msgstr ""
+msgstr "Stalfoský Sklad Zdrojů"
 
 #: simulation/templates/units/moblin/moblin_defense_tower_packed.xml:18
 msgid "Watchin' You Tower"
-msgstr ""
+msgstr "Hlejdací Věžička"
 
 #: simulation/templates/units/moblin/moblin_defense_tower_packed.xml:19
 msgid ""
@@ -9912,14 +9992,18 @@ msgid ""
 " we all eat and we all fight the real enemies over the hills! If we was not here, all "
 "Blins kill themselves! The world would be a sadder place!"
 msgstr ""
+"Blbí Blini, furt si chcou dělat co chcou dělat! Jsou moc blbí aby byli svobodní! Proto "
+"my Moblini je musíme furt sledovat a šéfovat jim! S náma jako šéfové, všici žerem a "
+"všici bojujem se skutečnejma nepřátelama přes kopce! Kdybysme tady nebejvali, všici "
+"Blini by se pozabíjeli navzájem! Svět by byl vo to smutnější!"
 
 #: simulation/templates/units/moblin/moblin_defense_tower_packed.xml:21
 msgid "Pew pew towers shoot the arrows at bad guys in Moblin places!"
-msgstr ""
+msgstr "Pěkný věžičky který střílej šípy na blbce v Moblinskejch místech!"
 
 #: simulation/templates/units/moblin/moblin_defense_tower_packed.xml:58
 msgid "Unpack this Watchin' You Tower."
-msgstr ""
+msgstr "Vybal tudle Hlejdací Věžičku."
 
 #: simulation/templates/units/moblin/moblin_demonblight_b.xml:61
 msgid ""
@@ -9928,16 +10012,22 @@ msgid ""
 "Demonblighty guy can take on fifty, no, one hundred shiny Hylian knights! That's right,"
 " one hundred!"
 msgstr ""
+"Velký temný děsivý čáry dělaj velký temný děsivý Mobliny! Démonsnětci sou vysočejší než "
+"všici Blini, silnější než všici Blini, děsivější než všici Blini na celým světě! Jeden "
+"Démonsnětec zvládne porazit padesánm ne, sto blejskajících se Hyliánskejch Rytířů! Jako "
+"fakt, sto!"
 
 #: simulation/templates/units/moblin/moblin_demonblight_b.xml:66
 msgid "Demonblight"
-msgstr ""
+msgstr "Démonsnětec"
 
 #: simulation/templates/units/moblin/moblin_demonblight_b.xml:67
 msgid ""
 "Only our Goddy Ukblinro's favorite servant Ghirahim can make these guys! Really tall "
 "doomy Melee Creature with big huge scary sword!"
 msgstr ""
+"Jenom oblíbenej sluha našeho můžka Ukblinra Girahím umí dělat tyhle chlápky! Fakt "
+"vysoký a zkázný zvířátka s velkým děsivým mečem!"
 
 #: simulation/templates/units/moblin/moblin_dummyA.xml:65
 msgid "Dodoblin Dummy"
@@ -9958,11 +10048,11 @@ msgstr ""
 #: simulation/templates/units/moblin/moblin_dungflinger_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Dung"
-msgstr ""
+msgstr "Hnůj"
 
 #: simulation/templates/units/moblin/moblin_dungflinger_b.xml:61
 msgid "Dungflinger"
-msgstr ""
+msgstr "Hnojopal"
 
 #: simulation/templates/units/moblin/moblin_dungflinger_b.xml:62
 msgid ""
@@ -9972,14 +10062,18 @@ msgid ""
 "confused! They dance around all smelly while we go in an whack em all dead! Thanks "
 "smart science makers!"
 msgstr ""
+"Nejlepšejší co chytrý vědátoři všeho Blinstva udělali! Uzřete Hnojopal! Takovej chytrej "
+"nápad že nevím proč jsem ho nevymyslel sám! Dáš hnůj do vozejku a necháš to vodpálit "
+"a páni, fakt to ty blbce mate! Tancujou kolem toho smradlaví zatím co my tam jdeme a "
+"všechny je přetáhneme! Dík, chytrý vědátoři!"
 
 #: simulation/templates/units/moblin/moblin_dungflinger_b.xml:65
 msgid "Big Moblin Support thing flings the dung at the baddies to slow them down!"
-msgstr ""
+msgstr "Velkej Moblinskej porpůrnej tentononc co brhá hnůj na blbe aby je zpomalil!"
 
 #: simulation/templates/units/moblin/moblin_durpyblin_b.xml:40
 msgid "Durpyblin Defender"
-msgstr ""
+msgstr "Durpyblinskej Vobránce"
 
 #: simulation/templates/units/moblin/moblin_durpyblin_b.xml:41
 msgid ""
@@ -9987,14 +10081,17 @@ msgid ""
 "dumber, they cant even do all the nice work! Instead we give em a big pointy stick and "
 "tell em to stay put or run that way!"
 msgstr ""
+"Jediná věc blbejší než Durpyblin je Dodoblin! Anebo jsou tidle možná blbejší, ani neumí "
+"udělat pěknou práci! Místo toho jim dáváme velkej ostrej klacek a říkáme ať zůstanou nebo "
+"utečou!"
 
 #: simulation/templates/units/moblin/moblin_durpyblin_b.xml:45
 msgid "Big fat hard to kill Melee guy with a spear and shield!"
-msgstr ""
+msgstr "Velkej tlustej těžko zabitej pěší chlápek s kopím a štítem!"
 
 #: simulation/templates/units/moblin/moblin_field_packed.xml:22
 msgid "Prey Breedin' Place"
-msgstr ""
+msgstr "Plac na Množení Kořisti"
 
 #: simulation/templates/units/moblin/moblin_field_packed.xml:23
 msgid ""
@@ -10002,18 +10099,21 @@ msgid ""
 " like the neighbors breed the cows and the goats and the horseys?!” So we Moblins did "
 "just that and now we gots lots of food running around!"
 msgstr ""
+"Jeden dost chytrej Moblin si jednou řekl, "Hej, co kdybysme množili kořist jako sousedi "
+"množí krávy a kozy a koně?! Tak mi Moblini udělali právě to a teď nám tady pochoduje "
+"spoustu jídla!"
 
 #: simulation/templates/units/moblin/moblin_field_packed.xml:25
 msgid "We grow prey here to hunt and get some more food!"
-msgstr ""
+msgstr "Tady množíme kořist a pak ji jdem lovit a máme z ní jídlo!"
 
 #: simulation/templates/units/moblin/moblin_field_packed.xml:62
 msgid "Unpack this Prey Breedin' Place."
-msgstr ""
+msgstr "Vybal tudle Plac na Množení Kořisti."
 
 #: simulation/templates/units/moblin/moblin_fortress_packed.xml:18
 msgid "Big Bad Battle Base"
-msgstr ""
+msgstr "Valká Rvačská Základna"
 
 #: simulation/templates/units/moblin/moblin_fortress_packed.xml:19
 msgid ""
@@ -10023,18 +10123,23 @@ msgid ""
 "arrows! So great! When we fast enough we can set up Big Bad Battle Base right at the "
 "baddy base! Base Battle times!"
 msgstr ""
+"Jóóóó Velká Rvačská Základna! Největší nejlepšejší nejsuprovější základna co kdy byla! "
+"Moblini dělaj Velkou Rvačskou Základnu aby přivezli boj k blbcům! Víc Moblinů než prsty "
+"napočítaj můžou stát ve velký rvačský základně a bojovat s blbcama šípy! Takt suprový! "
+"Když jsme dost rychlí můžem postavit Velkou Rvačskou Základnu hnedka u blbecký základny! "
+"Rvačka základen!"
 
 #: simulation/templates/units/moblin/moblin_fortress_packed.xml:21
 msgid "Big base defends the Moblin lands from all the baddies!"
-msgstr ""
+msgstr "Velká základna brání Moblinský země před všema blbcama!"
 
 #: simulation/templates/units/moblin/moblin_fortress_packed.xml:58
 msgid "Unpack this Big Bad Battle Base."
-msgstr ""
+msgstr "Vybal tudle Velkou Rvačskou Základnu."
 
 #: simulation/templates/units/moblin/moblin_gooma_b.xml:57
 msgid "Gooma"
-msgstr ""
+msgstr "Guma"
 
 #: simulation/templates/units/moblin/moblin_gooma_b.xml:58
 msgid ""
@@ -10042,14 +10147,17 @@ msgid ""
 " Swinging around his biggo ball on a chain! Pretty great at crushing the baddies with "
 "that! Just keep in mind he's nice and slow!"
 msgstr ""
+"Starej dobrej dobrák Guma! Je jako ten divnej bratranec co máš na svých polonarozeninách! "
+"Točí svou velkou koulí na řetězu! Je s tím dost dobrej v drcení nepřátel! Jenom si pamatuj "
+"že je dost pomalej!"
 
 #: simulation/templates/units/moblin/moblin_gooma_b.xml:62
 msgid "Big Melee Siege unit with a biggo range!"
-msgstr ""
+msgstr "Velká pěší voblíhací jednotka s velkym dosahem!"
 
 #: simulation/templates/units/moblin/moblin_grunt_b.xml:39
 msgid "Moblin Grunt"
-msgstr ""
+msgstr "Moblinskej Vojín"
 
 #: simulation/templates/units/moblin/moblin_grunt_b.xml:40
 msgid ""
@@ -10057,14 +10165,17 @@ msgid ""
 "the nice sticks and armor and they go a stabbin away! Get good Grunts to make the army "
 "nice and good like the baddies! No, better than the baddies!"
 msgstr ""
+"Moblini sou dobrý v bojování, ale některý Moblini sou lepší než vostatní! Nejlepší "
+"Moblini dostávaj klacky a brnění a dou píchat! Sežeň dobrý vojíny abys udělal armádu "
+"pěknou a suprovou jako blbci! Ne, nepší než blbci!"
 
 #: simulation/templates/units/moblin/moblin_grunt_b.xml:44
 msgid "Good armor and good spear make this a good Melee unit for the Moblins!"
-msgstr ""
+msgstr "Dobrý brnění a dobrý kopí ho dělaj dobrou pěší jednotkou pro Mobliny!"
 
 #: simulation/templates/units/moblin/moblin_hero_ganon.xml:39
 msgid "King Warlord of the Blins"
-msgstr ""
+msgstr "Král Vojevůdce Blinů"
 
 #: simulation/templates/units/moblin/moblin_hero_ganon.xml:41
 msgid ""
@@ -10075,18 +10186,24 @@ msgid ""
 "made us so close to conquering all of Hyrule, were it not for those stinking traitorous"
 " Sheikah! Hail Ganon the Great!"
 msgstr ""
+"Ááá starej dobrej Ganon, nejvěrší a nejlepšejší ze všech Blinů! Když jsme bejvali na "
+"dně Ganon přišel a udělal nás zase silný! Sjednotil Mobliny, sjednotil Broukbliny, "
+"sjednotil Bokobliny, u velkýho Ukblinra vždyť sjednotil i Dodobliny! Ganon byl "
+"nejchytřejší z nás, ošizoval a překonával Hyliány na každym kromu! Málej nás dotáhl "
+"až k dobytí celýho Hyliánska, kdyby nebylo těch blbejch zrádců Šejků! Sláva Ganonovi "
+"Velkýmu!"
 
 #: simulation/templates/units/moblin/moblin_hero_ganon.xml:45
 msgid "Ganon"
-msgstr ""
+msgstr "Ganon"
 
 #: simulation/templates/units/moblin/moblin_hero_ganon.xml:46
 msgid "Big Giant Hero with reaallly big Trident for stabbin the baddies!"
-msgstr ""
+msgstr "Velkej obří hrdina s fááákt velkym trojzubcem kterým propichuje blbce!"
 
 #: simulation/templates/units/moblin/moblin_hero_ghirahim.xml:56
 msgid "Fallen Spirit"
-msgstr ""
+msgstr "Padlá Duše"
 
 #: simulation/templates/units/moblin/moblin_hero_ghirahim.xml:58
 msgid ""
@@ -10095,18 +10212,22 @@ msgid ""
 " fear! There's a good reason Ukblinro, our great god blessed be his awesome name, made "
 "Ghirahim his most trusted servant... he's that good at killing!"
 msgstr ""
+"Óóó strašidelnej Girahím, velká zbraň našeho velkýho boha Zkázy! Tendle děsivej duch "
+"umí dělat meče co kolem něj lítaj úplně jako ptácí, sekají hlavy a nutí Hyliány utíkat "
+"ve strachu! Je dobrej důvod proč Ukblinro, náš velkej bůh posvěť se jeho suprový jméno, "
+"udělal Girahíma svým nejdůvěryhodnějším sluhou... je tak dobrej v zabíjení!"
 
 #: simulation/templates/units/moblin/moblin_hero_ghirahim.xml:62
 msgid "Ghirahim"
-msgstr ""
+msgstr "Girahím"
 
 #: simulation/templates/units/moblin/moblin_hero_ghirahim.xml:63
 msgid "Powerful Hero Spirit goes attackin the baddies by making swords fly all over!"
-msgstr ""
+msgstr "Mocnej hrdinskej duch kterej útočí na blbce tím že nutí meče lítat!"
 
 #: simulation/templates/units/moblin/moblin_hero_glutko.xml:39
 msgid "King of the Boxonoxes"
-msgstr ""
+msgstr "Král Bruokonoxů"
 
 #: simulation/templates/units/moblin/moblin_hero_glutko.xml:41
 msgid ""
@@ -10114,18 +10235,20 @@ msgid ""
 " and green! He rules the other bokonoxes and brings them to battle for big bad fun "
 "times! Ahhhhhhhhhhhhhh!"
 msgstr ""
+"Otesa velkej, Otesa ošklivej, Otesa co tě přetáhne po hlavě! Otesa je velkej a oškivej "
+"a zelenej! Velí ostatním Broukonoxům a vede je do bitvy pro velkou švandu! Áááááááá!"
 
 #: simulation/templates/units/moblin/moblin_hero_glutko.xml:45
 msgid "Glutko"
-msgstr ""
+msgstr "Otesa"
 
 #: simulation/templates/units/moblin/moblin_hero_glutko.xml:46
 msgid "Big ugly Glutko he the king of the Bokonoxes!"
-msgstr ""
+msgstr "Velkej ošklivej Otesa co přetahuje po hlavě!"
 
 #: simulation/templates/units/moblin/moblin_hero_kingbulblin.xml:38
 msgid "Boss of the Bulblins"
-msgstr ""
+msgstr "Šéf Bulblinů"
 
 #: simulation/templates/units/moblin/moblin_hero_kingbulblin.xml:40
 msgid ""
@@ -10134,18 +10257,21 @@ msgid ""
 " into battle to lop some heads off of the stinking Hylians and anyone who gets in the "
 "Moblin way!"
 msgstr ""
+"Král Bulblin je dost děsivej, my Blini máme legendy co říkaj že spadl z mostu a přežil..."
+"dvakrát! Jezdí na zídech starýho dobrýho Pána Bullba, jde se sekyrou do bitvy aby usekl "
+"nějaký hlavy smrdícím Hyliáncům a komukoliv kdo se plete do cesty Moblinům!"
 
 #: simulation/templates/units/moblin/moblin_hero_kingbulblin.xml:44
 msgid "King Bulblin"
-msgstr ""
+msgstr "Král Bulblin"
 
 #: simulation/templates/units/moblin/moblin_hero_kingbulblin.xml:45
 msgid "Big bad Cavalry Hero who chops up the baddies with his big axe!"
-msgstr ""
+msgstr "Velkej jezdeckej hrdina co seká hlavy blbcům svou velkou sekyrou!"
 
 #: simulation/templates/units/moblin/moblin_hero_kojaku.xml:42
 msgid "Can't Die Bugblin"
-msgstr ""
+msgstr "Broukblin co Nemůže Chcípnout"
 
 #: simulation/templates/units/moblin/moblin_hero_kojaku.xml:44
 msgid ""
@@ -10153,18 +10279,21 @@ msgid ""
 "other Bugblins and even Moblins! Lose in eye in many fights, all his bones broken in "
 "many fights! But look he still alive!"
 msgstr ""
+"Kodžaku je Broukblin co nemůže chcípnou, co se dá víc říst?! Žije dýl než všici ostatní "
+"Broukblini a dokonce Moblini! Ztratil oko někde v bitvě, všechny jeho kosti jsou "
+"rozmlácený! Ale dívejte, furt žije!"
 
 #: simulation/templates/units/moblin/moblin_hero_kojaku.xml:48
 msgid "Kojaku"
-msgstr ""
+msgstr "Kodžaku"
 
 #: simulation/templates/units/moblin/moblin_hero_kojaku.xml:49
 msgid "This Bugblin he can't die! He live longer than all other Bugblin!"
-msgstr ""
+msgstr "Tenhle Broukblin nemůže chcípnout! Žije dýl než všici ostatní Broukblini!"
 
 #: simulation/templates/units/moblin/moblin_hero_ogalon.xml:34
 msgid "Big Bad Baddy Commander"
-msgstr ""
+msgstr "Velká Šéfařka"
 
 #: simulation/templates/units/moblin/moblin_hero_ogalon.xml:36
 msgid ""
@@ -10173,18 +10302,22 @@ msgid ""
 "Ogalon could kill ten whole H﻿ylians all at once! Well maybe not that many, but she was"
 " a smart and stro﻿ng fighter and lead Blins to winning﻿﻿!"
 msgstr ""
+"Pravá ruka a ženská Ganona, Ogalon byla chytrá Blinka se kterou všechny jeho plány "
+"fungovaly a staly se! Páč nosí dobrý brnění a pěknej ostrej klacek, Ogalon uměla zabít "
+"deset Hyliánců zaráz! No dobře, možná ne tak moc, ale byla chytrá a silná bojovnice a "
+"vedla Bliny k vítězství!"
 
 #: simulation/templates/units/moblin/moblin_hero_ogalon.xml:40
 msgid "Ogalon"
-msgstr ""
+msgstr "Ogalon"
 
 #: simulation/templates/units/moblin/moblin_hero_ogalon.xml:41
 msgid "Ganon's best Hero lady! She stab the bad guys with her spear and has a big shield!"
-msgstr ""
+msgstr "Ganonova nejlepšejší hrdinka! Píchá do blbců svým kopím a má velkej štít!"
 
 #: simulation/templates/units/moblin/moblin_hinox_b.xml:53
 msgid "Hinox"
-msgstr ""
+msgstr "Hinox"
 
 #: simulation/templates/units/moblin/moblin_hinox_b.xml:54
 msgid ""
@@ -10193,14 +10326,18 @@ msgid ""
 "Hinox are cool! They throw big boom bombs at the baddies and make everything go on "
 "fire! So fun! Hinox are the best!"
 msgstr ""
+"Ty vole, nevíme kde se tady ti podivíni vzali! Nějací blbí lidi lžou a říkaj že jsou "
+"z části Moblini, a z části Hyliánci! To je kravina! Hyliánci jsou blbí a Hinoxové jsou "
+"suproví! Házej velký vybuchující bomby na blbce a všecko zapalují! To je prča! Hinoxové "
+"jsou super!"
 
 #: simulation/templates/units/moblin/moblin_hinox_b.xml:58
 msgid "Big Siege guy throw the boomy bombs at the bad guys base!"
-msgstr ""
+msgstr "Velkej vohlíhací chlápek co hází bomby na základny blbců!"
 
 #: simulation/templates/units/moblin/moblin_house_packed.xml:18
 msgid "Housin' Yurt"
-msgstr ""
+msgstr "Vobytná Jurta"
 
 #: simulation/templates/units/moblin/moblin_house_packed.xml:19
 msgid ""
@@ -10208,24 +10345,27 @@ msgid ""
 "learn from us! Our houses only fall down maybe two or three times a season instead of "
 "five!"
 msgstr ""
+"Áááá domov sladkej domov! My Moblini děláme nejlepší domy pro náš druh! Jiní Blini by "
+"se vod nás mohli učit! Naše baráky padaj jenom dvakrát nebo třikrát za roční období "
+"místo pětkrát!"
 
 #: simulation/templates/units/moblin/moblin_house_packed.xml:21
 msgid "We live here!"
-msgstr ""
+msgstr "Tady žijem!"
 
 #: simulation/templates/units/moblin/moblin_house_packed.xml:62
 #: simulation/templates/units/moblin/moblin_house_packed_upg.xml:12
 msgid "Unpack this Housin' Yurt."
-msgstr ""
+msgstr "Vybal tudle Vobytnou Jurtu."
 
 #: simulation/templates/units/moblin/moblin_lynelblin_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Spear."
-msgstr ""
+msgstr "Kopí"
 
 #: simulation/templates/units/moblin/moblin_lynelblin_b.xml:36
 msgid "Lynelblin"
-msgstr ""
+msgstr "Lvynelblin"
 
 #: simulation/templates/units/moblin/moblin_lynelblin_b.xml:38
 msgid ""
@@ -10233,16 +10373,21 @@ msgid ""
 "oopsie! Preeeettyyyy gross! But Lynelblins are pretty great if you ask me! They can run"
 " nice and fast and beat those dead horses!"
 msgstr ""
+"Myslíme že jeden Lvynel se pomátl a udělal mimino s Moblinkou a byly z toho problémy! "
+"Dóóóst vodporný! Ale Lvynelblini jsou docela fajnoví jestli se ptáte mně! Umí běhat "
+"hezky a rychle a předběhnout tamty mrtvý koně!"
 
 #: simulation/templates/units/moblin/moblin_lynelblin_b.xml:43
 msgid ""
 "Only the Great Ganon can make these guys! Half Moblin Half Lynel that run down the "
 "baddies with point spear stick!"
 msgstr ""
+"Jenom velkej Ganon může udělat tydle chlapy! Napůl Moblini a napůl Lvynelové kteří "
+"umí dohnat blbce se svýma ostrýma klackama!"
 
 #: simulation/templates/units/moblin/moblin_market_packed.xml:18
 msgid "Swap Meet n' Meat"
-msgstr ""
+msgstr "Výměna Masa a Žrádla"
 
 #: simulation/templates/units/moblin/moblin_market_packed.xml:19
 msgid ""
@@ -10250,22 +10395,25 @@ msgid ""
 "that shinies are a joke though, just a trick they Hylians made to make money on stuff! "
 "So smartest Moblins sell it to dumber Moblins and make lots of money!"
 msgstr ""
+"Tý vole, když Moblin dostane nějakej šperk, je jako ňákej král! Nejchytřejší ale ví že "
+"šperky jsou blbiny, jenom trik co vymysleli Hyliánci aby na nich vydělali! Takže "
+"nejchytřejší Moblini je prodávaj blbejším Moblinům a dělaj spoustu peněz!"
 
 #: simulation/templates/units/moblin/moblin_market_packed.xml:21
 msgid "Moblins trade the money here and make the trade with their big bad friends too!"
-msgstr ""
+msgstr "Moblini tady mění peníze a obchodují se svýma super kamarádama!"
 
 #: simulation/templates/units/moblin/moblin_market_packed.xml:58
 msgid "Unpack this Swap Meet n' Meat."
-msgstr ""
+msgstr "Vybal tudle Výměnu Masa a Žrádla"
 
 #: simulation/templates/units/moblin/moblin_mercs_packed.xml:18
 msgid "Cool Friend's Club"
-msgstr ""
+msgstr "Super Klub Prátel"
 
 #: simulation/templates/units/moblin/moblin_mercs_packed.xml:19
 msgid "Moblins hire cool friends here to do the fighting for them!"
-msgstr ""
+msgstr "Moblini tady najímaj super přátele aby bojovali za ně!"
 
 #: simulation/templates/units/moblin/moblin_mercs_packed.xml:21
 msgid ""
@@ -10273,14 +10421,17 @@ msgid ""
 "others! Like the doggydarknutys! Sometimes Skeleton-mans cause they scary! But not the "
 "Hylians! They is bad! That why Ukblinro made a peacey treaty with them! Oh wait..."
 msgstr ""
+"Jó, my víme že sme vobčas moc zlí! Vobčas musíme být s ostatníma kámoši! Jako s pejskama "
+"Temnáři! Nebo kostlivco-chlapama protože jsou děsiví! Ale ne Hyliánci! Jsou zlí! Proto s "
+"nima Ukblinro uzavřel mírovou dohodu! Jo počkat..."
 
 #: simulation/templates/units/moblin/moblin_mercs_packed.xml:58
 msgid "Unpack this Cool Friend's Club."
-msgstr ""
+msgstr "Vybal tudle Super Klub Přutel"
 
 #: simulation/templates/units/moblin/moblin_mob_b.xml:33
 msgid "Moblin Mob"
-msgstr ""
+msgstr "Moblinská Lůza"
 
 #: simulation/templates/units/moblin/moblin_mob_b.xml:34
 msgid ""
@@ -10288,28 +10439,32 @@ msgid ""
 "and we make nice big angry army! Just give us a nice big stick and we go a bashing on "
 "the heads!"
 msgstr ""
+"Ááá staří dobří Moblini, my sme nejlepší! Proto šéfujem! Naserte nás a uděláme velkou "
+"nasranou armádu! Jenon nám dejte pěknej velkej klacem a my půjdem přetáhnout hlavy!"
 
 #: simulation/templates/units/moblin/moblin_mob_b.xml:38
 msgid "Big Melee Moblin hit them on the head with mightly club!"
-msgstr ""
+msgstr "Velkej pěší Moblin co přetahuje hlavy velkým klackem!"
 
 #: simulation/templates/units/moblin/moblin_picket_b.xml:41
 msgid "Bulblin Picket"
-msgstr ""
+msgstr "Bulblinskej Hlídač"
 
 #: simulation/templates/units/moblin/moblin_picket_b.xml:42
 msgid ""
 "Very sneaky arrow shooty Bulblin! Pickets are great, they can just get up places all "
 "sneaky like and fill enemies with arrows! Ahahahaha Pickets make us win!"
 msgstr ""
+"Dost záludnej střílející Bulblin! Hlídačí jsou super, hezky se schovávaj na místech "
+"úplně záludně a potom střílejí na nepřátele šípy! Ahahaha, Hlídači nám vyhrávaj!"
 
 #: simulation/templates/units/moblin/moblin_picket_b.xml:45
 msgid "Little Missile unit shoot the arrow at their heads! He also sneaky and hide when still!"
-msgstr ""
+msgstr "Malej střelec co stříli šípy na jejich hlavy! Taky je záludnej a schovává se když stojí!"
 
 #: simulation/templates/units/moblin/moblin_squaddie_b.xml:32
 msgid "Dodoblin Squaddie"
-msgstr ""
+msgstr "Dodoblinskej Četař"
 
 #: simulation/templates/units/moblin/moblin_squaddie_b.xml:33
 msgid ""
@@ -10318,14 +10473,17 @@ msgid ""
 " check out the new place before we go in an wreck it all up! Hahahah they will do any "
 "dumb job we tell them to do!"
 msgstr ""
+"Moblini dycky potřebujou nový lidi se kterýma bojovat! Ale občas jsou nový lidi moc silní! "
+"Občas místo novejch lidí najdeme draka! Tak tam pošleme blbý Dobobliny ať to místo omrknou "
+"než to tak jdeme rozbordelit! Hahaha, odělaj jakoukoliv kravinu co jim řeknem!"
 
 #: simulation/templates/units/moblin/moblin_squaddie_b.xml:37
 msgid "Small sumb Dodoblin with a little sword and shield, send em in first to get beat up!"
-msgstr ""
+msgstr "Malej blbej Dodoblin s malým mečem a štítem, pošli je tam první se nechat zrubat!"
 
 #: simulation/templates/units/moblin/moblin_storehouse_packed.xml:18
 msgid "Good Stuff Stockin'"
-msgstr ""
+msgstr "Sklad Dobrejch Věcí"
 
 #: simulation/templates/units/moblin/moblin_storehouse_packed.xml:19
 msgid ""
@@ -10333,23 +10491,26 @@ msgid ""
 "gots the ding dang metal! We gots the shiny rupees! Them dumb Dodoblins they bring it "
 "all here, set it all down, and we take it all for ourselves! Hahaha stupid Dodo!"
 msgstr ""
+"My Moblini jsme skvělí, berem si všecko dobrý! Berem si maso! Berem si stromy! Berem si "
+"všecko lesklý brnění! Berem si leský Rupie! Ti blbí Dodoblini to sem všeckou přinášej, "
+"položí, a my si to berem pro sebe! Hahaha, blbí Dodové!"
 
 #: simulation/templates/units/moblin/moblin_storehouse_packed.xml:21
 msgid "Dodoblins bring all the resources here so Moblins can make cool stuff with them!"
-msgstr ""
+msgstr "Dodoblini sem berou všechny zdroje aby sme si to my Moblini vzali s sebou!"
 
 #: simulation/templates/units/moblin/moblin_storehouse_packed.xml:58
 msgid "Unpack this Good Stuff Stockin'."
-msgstr ""
+msgstr "Vybal tudle Sklad Dobrejch Věcí"
 
 #: simulation/templates/units/moblin/moblin_tallblin_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Bugblins"
-msgstr ""
+msgstr "Broukblini"
 
 #: simulation/templates/units/moblin/moblin_tallblin_b.xml:57
 msgid "Tallblin Tosser"
-msgstr ""
+msgstr "Vysokoblinskej Házeč"
 
 #: simulation/templates/units/moblin/moblin_tallblin_b.xml:58
 msgid ""
@@ -10357,14 +10518,17 @@ msgid ""
 "These guys throw the little bugblins at the baddies, nice and far and over the walls! "
 "Get a few of these guys and we can get past any nasty gate﻿﻿!"
 msgstr ""
+"Občas vyroste Broukblin pěkně vysoko a my mu říkáme Vysokoblin! Chytrý jméno! Tidle "
+"chlapi házej malý Broukbliny na blbce, hezky a daleko přes zdi! Sežeň pár z nich a "
+"dostanem se přes jakoukoliv bránu!"
 
 #: simulation/templates/units/moblin/moblin_tallblin_b.xml:62
 msgid "Big tall Tallblin a big tall Missile unit that throws Bugblins at the baddies!"
-msgstr ""
+msgstr "Velkej vysokej Vysokoblin je velkej vysokou střelec co hází Broukbliny na blbce!"
 
 #: simulation/templates/units/moblin/moblin_thug_b.xml:36
 msgid "Bulblin Thug"
-msgstr ""
+msgstr "Bulblinskej Rváč"
 
 #: simulation/templates/units/moblin/moblin_thug_b.xml:37
 msgid ""
@@ -10372,19 +10536,22 @@ msgid ""
 "some shiny money and they can do the job pretty great! They're good with those clubs "
 "and attackin from sneaky places, we Moblins are braver than that!"
 msgstr ""
+"Óóó ti Bulblini jsou fakt o dost chytřejší než ostatní Blinskej druh! Dej jim trochu "
+"lesklejch penízků a voni vodvedou dost dobrou práci! Jsou dobrý s těma kyjema a útočení "
+"ze skrytejch míst, my Moblini jsme o něco vodvážnější!"
 
 #: simulation/templates/units/moblin/moblin_thug_b.xml:41
 msgid "Little Melee Bulblin bash them on the head with his club!"
-msgstr ""
+msgstr "Malej pěší Bulblin co přetahuje hlavy svým kyjem!"
 
 #: simulation/templates/units/moblin/moblin_titan_demise.xml:12
 msgctxt "Name of an attack, usually the weapon."
 msgid "Sword of Demise"
-msgstr ""
+msgstr "Meč Zkázy"
 
 #: simulation/templates/units/moblin/moblin_titan_demise.xml:70
 msgid "Bringer of Demise"
-msgstr ""
+msgstr "Zkázonoš"
 
 #: simulation/templates/units/moblin/moblin_titan_demise.xml:71
 msgid ""
@@ -10393,26 +10560,30 @@ msgid ""
 "our God is best, so he survived and is back and better than ever! Goddy Ukblinro brings"
 " a biiiigggggg sword into the fight, and he goes and makes us win! All hail Ukblinro!"
 msgstr ""
+"Jóóó náš bůh Ukblinro! Nejlepšejší bůžek co je na celým světe a jinejch místech! Kdysi "
+"dávno byl ošklivě zraněnej ve velký bitce s tou blbou Hyliánskou bohyní Hylií! Ale náš "
+"bůh je nejlepší, takže přežil a je zpátky a lepší než kdy předtím! Bůžek Ukblinro nese "
+"do bitvy vééélkej meč, a jde a vyhrává za nás! Sláva Ukblinrovi!"
 
 #: simulation/templates/units/moblin/moblin_titan_demise.xml:74
 msgid "Ukblinro"
-msgstr ""
+msgstr "Ukblinro"
 
 #: simulation/templates/units/moblin/moblin_titan_demise.xml:75
 msgid "Moblin Titan unit! Big Moblin Goddy hit them all with biggest sword!"
-msgstr ""
+msgstr "Moblinská Mýtická jednotka! Velkej Moblinskej bůžek co seká největším mečem!"
 
 #: simulation/templates/units/moblin/moblin_titan_demise.xml:76
 msgid "Titan"
-msgstr ""
+msgstr "Mýt"
 
 #: simulation/templates/units/moblin/moblin_titan_demise.xml:76
 msgid "Blunt"
-msgstr ""
+msgstr "Tupé"
 
 #: simulation/templates/units/moblin/moblin_totem_packed.xml:18
 msgid "Moblin Totem"
-msgstr ""
+msgstr "Moblinskej Totem"
 
 #: simulation/templates/units/moblin/moblin_totem_packed.xml:19
 msgid ""
@@ -10421,18 +10592,22 @@ msgid ""
 "More Blins, more better the world is! When the land is bad we can pick up the Totem and"
 " move it to brand new best land! Moblins are smart!"
 msgstr ""
+"Tady todle je největší umění Moblinskýho druhu! Moblinskej totem voznačuje zemi co je "
+"naše! S Moblinským Totemem můžem postavit všecky velký baráka a základny abysme udělali "
+"víc Blinů! Čím víc Blinů, tím lepší je svět! Když je země na nic můžem sbalit Totel a "
+"posunout ho na novou nejpelšejší zemi! Moblini jsou chytrý!"
 
 #: simulation/templates/units/moblin/moblin_totem_packed.xml:21
 msgid "Blin Totem make more territory for Blins to make big bad base on!"
-msgstr ""
+msgstr "Blinskej Totem dělá víc teritoria pro Bliny kam si můžem postavit velkou základnu!"
 
 #: simulation/templates/units/moblin/moblin_totem_packed.xml:58
 msgid "Unpack this Moblin Totem."
-msgstr ""
+msgstr "Vybal tudle Moblinskej Totem."
 
 #: simulation/templates/units/moblin/moblin_warlord_b.xml:38
 msgid "Moblin Warlord"
-msgstr ""
+msgstr "Moblinskej Vojevůdce"
 
 #: simulation/templates/units/moblin/moblin_warlord_b.xml:39
 msgid ""
@@ -10440,10 +10615,13 @@ msgid ""
 "super bossy! He has nice awesome axe and can eat other Moblins for breakfast! Ok that "
 "last part was made up, but still listen to him or else!"
 msgstr ""
+"Páááni velkej šék Moblin! Radší ho poslouchej, Vojevůdce je fakt chytrej a sakra "
+"panovačnej! Má pěknou suprovou sekyru a žere jiný Mobliny k snídani! Dobře, tu poslední "
+"část jsem si vymyslel, ale stejně ho radší poslouchej!"
 
 #: simulation/templates/units/moblin/moblin_warlord_b.xml:43
 msgid "Big bad bossy unit that can boss around other Blins!"
-msgstr ""
+msgstr "Velká velitelská jednotka co šéfuje ostatním Blinům!"
 
 #: simulation/templates/units/moblin_trader_b.xml:12
 msgid "Bargainer"
