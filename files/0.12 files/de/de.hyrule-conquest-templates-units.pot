@@ -4913,7 +4913,7 @@ msgstr ""
 "Junge Magier die in die Lehre von Lana fielen und die Magie lernten die sie von Pyromagi"
 "erlernte. Diese Soldaten sind etwas leichtsinnig, da sie wie Lana die Macht in ihren "
 "Händen nicht ganz verstehen. In ihrer Höchstform können die Akolythen Feinde mit ihren"
-"magischen SChwertern einäschern."
+"magischen Schwertern einäschern."
 
 #: simulation/templates/units/hylian/hylian_acolyte_b.xml:48
 msgid ""
@@ -5185,7 +5185,7 @@ msgstr "Unterstützungsheldin die Wunden Verbündeter heilt"
 #: simulation/templates/units/hylian/hylian_hero_zeldaV.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Royal Estoc"
-msgstr "Königliche Panzerstecher"
+msgstr "Königliche Rapier"
 
 #: simulation/templates/units/hylian/hylian_hero_zeldaV.xml:39
 msgid "Princess of Hyrule"
@@ -5214,7 +5214,7 @@ msgstr "Starke Fernkämpferin mit Bogen und Lichtpfeilen. Sie kann sicc mit ihre
 
 #: simulation/templates/units/hylian/hylian_kingdom_cavalry.xml:24
 msgid "Kingdom Cavalry"
-msgstr ""
+msgstr "Königliche Kavallerie"
 
 #: simulation/templates/units/hylian/hylian_kingdom_cavalry.xml:25
 #: simulation/templates/units/hylian/hylian_levy_cavalry.xml:37
@@ -5256,7 +5256,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_kingdom_maceman.xml:24
 msgid "Heavy unit armed with a flail and shield. Deals Crushing damage."
-msgstr "Schwere Einheit mit Flegel und Schild"
+msgstr "Schwere Infanterie mit Flegel und Schild. Verursacht Stumpfschaden"
 
 #: simulation/templates/units/hylian/hylian_kingdom_spearman.xml:30
 msgid "Kingdom Spearman"
@@ -5274,11 +5274,11 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_kingdom_spearman.xml:34
 msgid "Heavy unit armed with a spear and shield. Deals Piercing damage."
-msgstr ""
+msgstr "Schwere Infanterie mit Lanze und Schild. Verursacht Stichschaden"
 
 #: simulation/templates/units/hylian/hylian_kingdom_swordsman.xml:24
 msgid "Kingdom Swordsman"
-msgstr ""
+msgstr "Königlicher Schwertträger"
 
 #: simulation/templates/units/hylian/hylian_kingdom_swordsman.xml:25
 #: simulation/templates/units/hylian/hylian_levy_swordsman.xml:36
@@ -5293,7 +5293,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_kingdom_swordsman.xml:28
 msgid "Heavy unit armed with a sword and shield. Deals Hacking damage."
-msgstr ""
+msgstr "Schwere Infanterie mit Schwert und Schild. Verursacht Hackschaden"
 
 #: simulation/templates/units/hylian/hylian_knightofhyrule_b.xml:36
 msgid "Knight of Hyrule"
@@ -5301,7 +5301,7 @@ msgstr "Ritter von Hyrule"
 
 #: simulation/templates/units/hylian/hylian_levy_archer.xml:44
 msgid "Levy Archer"
-msgstr ""
+msgstr "Landser Schützen"
 
 #: simulation/templates/units/hylian/hylian_levy_archer.xml:45
 #: simulation/templates/units/hylian/hylian_soldier_archer.xml:42
@@ -5323,41 +5323,41 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_levy_cavalry.xml:36
 msgid "Levy Cavalry"
-msgstr ""
+msgstr "Landser Kavallerie"
 
 #: simulation/templates/units/hylian/hylian_levy_cavalry.xml:42
 msgid "Lightly armored cavalry unit armed with a mace."
-msgstr ""
+msgstr "Leicht gepanzerte Kavallerie mit einem Streitkolben bewaffnet"
 
 #: simulation/templates/units/hylian/hylian_levy_maceman.xml:35
 msgid "Levy Maceman"
-msgstr ""
+msgstr "Landser Kolbenträger"
 
 #: simulation/templates/units/hylian/hylian_levy_maceman.xml:40
 msgid "Light unit armed with a mace and shield. Deals Crushing damage."
-msgstr ""
+msgstr "Leichte Infanterie mit Kolben und Schild. Verursacht Stumpfschaden"
 
 #: simulation/templates/units/hylian/hylian_levy_spearman.xml:40
 msgid "Levy Spearman"
-msgstr ""
+msgstr "Landser Lanzenträger"
 
 #: simulation/templates/units/hylian/hylian_levy_spearman.xml:45
 msgid "Light unit armed with a spear and shield. Deals Piercing damage."
-msgstr ""
+msgstr "Leichte Infanterie mit Speer und Schild. Verursacht Stichschaden"
 
 #: simulation/templates/units/hylian/hylian_levy_swordsman.xml:35
 msgid "Levy Swordsman"
-msgstr ""
+msgstr "Landser Schwertträger"
 
 #: simulation/templates/units/hylian/hylian_levy_swordsman.xml:40
 #: simulation/templates/units/stalfos/stalfos_staltroop_b.xml:40
 #: simulation/templates/units/stalfos/stalfos_staltroop_summon.xml:41
 msgid "Light unit armed with a sword and shield. Deals Hacking damage."
-msgstr ""
+msgstr "Leichte Infanterie mit Schwert und Schild. Verursacht Hackschaden."
 
 #: simulation/templates/units/hylian/hylian_light_cavalry.xml:32
 msgid "Light Cavalry"
-msgstr ""
+msgstr "Leichte Kavallerie"
 
 #: simulation/templates/units/hylian/hylian_light_cavalry.xml:37
 #: simulation/templates/units/hylian/hylian_scout_cavalry.xml:38
@@ -5365,6 +5365,8 @@ msgid ""
 "Light and fast cavalry unit with excellent vision range. Can detect Camouflaged and "
 "Stealthed units."
 msgstr ""
+"Leichte und schnelle Kavallerie mit großem Sichtradius. Kann getrante "
+"Einheiten erspähen"
 
 #: simulation/templates/units/hylian/hylian_lightarrow_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
@@ -5455,15 +5457,15 @@ msgid ""
 "Large and slow moving ranged unit that deals Piercing linear Splash Damage. Takes a few"
 " moments to unpack and repack."
 msgstr ""
-"Große und langsame Distanzwaffe die lineare stich Flächenschaden verursacht
+"Große und langsame Distanzwaffe die linearen stich Flächenschaden verursacht"
 
 #: simulation/templates/units/hylian/hylian_scout_cavalry.xml:33
 msgid "Scout Cavalry"
-msgstr "Spähercavallerie"
+msgstr "Späherkavallerie"
 
 #: simulation/templates/units/hylian/hylian_siegeram_b.xml:35
 msgid "Siege Ram"
-msgstr "Belagerungsramm"
+msgstr "Belagerungsrammbock"
 
 #: simulation/templates/units/hylian/hylian_siegeram_b.xml:36
 msgid ""
@@ -5478,49 +5480,49 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_soldier_archer.xml:41
 msgid "Soldier Archer"
-msgstr "Soldaten Bogenschütze
+msgstr "Soldaten Bogenschützen"
 
 #: simulation/templates/units/hylian/hylian_soldier_cavalry.xml:24
 msgid "Soldier Cavalry"
-msgstr "Soldaten Kavallerie
+msgstr "Soldaten Kavallerie"
 
 #: simulation/templates/units/hylian/hylian_soldier_cavalry.xml:29
 msgid "Medium armored cavalry unit armed with a mace."
-msgstr ""
+msgstr "Mittel gepanzerte Kavallerie mit einenm Streitkolben"
 
 #: simulation/templates/units/hylian/hylian_soldier_maceman.xml:20
 msgid "Soldier Maceman"
-msgstr "Soldaten Kolbenträger
+msgstr "Soldaten Streitkolbenträger"
 
 #: simulation/templates/units/hylian/hylian_soldier_maceman.xml:24
 msgid "Medium unit armed with a mace and shield. Deals Crushing damage."
-msgstr ""
+msgstr "Mittlere Infanterie mit Streitkolben und Schild. Verursacht Stumpfschaden"
 
 #: simulation/templates/units/hylian/hylian_soldier_spearman.xml:39
 msgid "Soldier Spearman"
-msgstr "Soldaten Lanzenträger
+msgstr "Soldaten Lanzenträger"
 
 #: simulation/templates/units/hylian/hylian_soldier_spearman.xml:43
 msgid "Medium unit armed with a spear and shield. Deals Piercing damage."
-msgstr ""
+msgstr "Mittlere Infanterie mit Lanze und Schild. Verursacht Stichschaden"
 
 #: simulation/templates/units/hylian/hylian_soldier_swordsman.xml:24
 msgid "Soldier Swordsman"
-msgstr "Soldaten Schwertträger
+msgstr "Soldaten Schwertträger"
 
 #: simulation/templates/units/hylian/hylian_soldier_swordsman.xml:28
 msgid "Medium unit armed with a sword and shield. Deals Hacking damage."
-msgstr ""
+msgstr "Mittlere Infanterie mit Schwert und Schild. Verursacht Hackschaden"
 
 #: simulation/templates/units/hylian/hylian_titan_fi.xml:12
 #: simulation/templates/units/moblin/moblin_hero_ghirahim.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Spirit Swords"
-msgstr "Astralschwerter
+msgstr "Schwebende Schwerter"
 
 #: simulation/templates/units/hylian/hylian_titan_fi.xml:61
 msgid "Spirit of the Master Sword"
-msgstr "Schwertgeist des Masterschwerts
+msgstr "Schwertgeist des Masterschwerts"
 
 #: simulation/templates/units/hylian/hylian_titan_fi.xml:62
 msgid ""
@@ -5529,12 +5531,12 @@ msgid ""
 " against enemies of the Kingdom."
 msgstr ""
 "Ein mächtiger Geist der gegen ihren Willen im Masterschwert gebunden war. Befreit aus"
-"ihrem Gefängnis, zeigt Phai eine enorme Kraft und kann schwebende SChwerter gegen die
+"ihrem Gefängnis, zeigt Phai eine enorme Kraft und kann schwebende SChwerter gegen die"
 "Feinde des Königreichs mit führen."
 
 #: simulation/templates/units/hylian/hylian_titan_fi.xml:65
 msgid "Fi"
-msgstr "Phai
+msgstr "Phai"
 
 #: simulation/templates/units/hylian/hylian_titan_fi.xml:66
 msgid "Hylian Titan unit. Fast moving spirit that attacks enemies with animated swords."
@@ -5543,7 +5545,7 @@ msgstr "Hylianischer Titan. Schneller Schwertgeist der mit schwebenden Schwerter
 #: simulation/templates/units/hylian/hylian_trebuchet.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Hurled Stone"
-msgstr "Geworfene Steine
+msgstr "Geworfene Steine"
 
 #: simulation/templates/units/hylian/hylian_trebuchet.xml:54
 #: simulation/templates/units/hylian/hylian_trebuchet_common.xml:52
@@ -5558,11 +5560,16 @@ msgid ""
 "the impact of these projectiles will usually crushed or burned in the resulting "
 "shockwave."
 msgstr ""
+"Diese riesigen Belagerungswaffen werden vom Königreich wärend Invasionen feindlicher Städte"
+"eingesetzt. Sie können riesige brennende Brocken mit enormer Kraft schleudern und extrem"
+wiederstandsfähige Befestigungen einreissen.Jeder Soldat der unglücklich genug ist neben so " 
+"einer Einschlag dieser Projektilevwird normalerweise erschlagen oder verbrannt in der "
+"resultierenden Schockwelle."
 
 #: simulation/templates/units/hylian/hylian_trebuchet.xml:57
 #: simulation/templates/units/hylian/hylian_trebuchet_common.xml:56
 msgid "Powerful and long ranged siege unit. Must take several moments to pack and unpack."
-msgstr ""
+msgstr "Mächtige und weitreichende Belagerungswaffe."
 
 #: simulation/templates/units/hylian/hylian_trebuchet_common.xml:53
 msgid ""
@@ -5572,11 +5579,16 @@ msgid ""
 "the impact of these projectiles will usually be crushed or burned in the resulting "
 "shockwave."
 msgstr ""
+"Diese riesigen Belagerungswaffen werden vom Königreich wärend Invasionen feindlicher Städte"
+"eingesetzt. Sie können riesige brennende Brocken mit enormer Kraft schleudern und extrem"
+wiederstandsfähige Befestigungen einreissen.Jeder Soldat der unglücklich genug ist neben so " 
+"einer Einschlag dieser Projektilevwird normalerweise erschlagen oder verbrannt in der "
+"resultierenden Schockwelle."
 
 #: simulation/templates/units/hylian/hylian_vanguard_b.xml:43
 #: simulation/templates/units/lizalfos/lizalfos_matron_b.xml:30
 msgid "Unique Unit"
-msgstr ""
+msgstr "Einzigartige Einheit"
 
 #: simulation/templates/units/hylian/hylian_vanguard_b.xml:45
 msgid ""
@@ -5587,7 +5599,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_vanguard_b.xml:50
 msgid "Triforce Vanguard"
-msgstr ""
+msgstr "Triforce Vorhut"
 
 #: simulation/templates/units/hylian/hylian_vanguard_b.xml:51
 msgid ""
@@ -5595,18 +5607,21 @@ msgid ""
 "resistance to all forms of Magic damage, and is immune to knockback and gains bonus "
 "armor when in friendly territory."
 msgstr ""
+"Raurus einzigartige Einheit. Langsame Infanterie mit einen Streitkolben bewaffnet ist."
+"Sehr resistent gegen alle Arten der Magie, immun gegen Rückstoß. Außerdem kriegt sie "
+"einen Rüstbonus i freundlichen Territorium."
 
 #: simulation/templates/units/hylian/malkariko_crossbowman_b.xml:3
 msgid "Malkariko Crossbowman"
-msgstr ""
+msgstr "Malkariko Armbrustschütze"
 
 #: simulation/templates/units/hylian/malkariko_knightofhyrule_b.xml:3
 msgid "Knight of Malkariko"
-msgstr ""
+msgstr "Ritter von Malkariko"
 
 #: simulation/templates/units/hylian/malkariko_town_guard_b.xml:3
 msgid "Malkariko Town Guard"
-msgstr ""
+msgstr "Malkariko Stadtwache"
 
 #: simulation/templates/units/hylian_trader_b.xml:14
 msgid "Merchant"
@@ -5621,7 +5636,7 @@ msgstr ""
 
 #: simulation/templates/units/kokiri/kokiri_bouldershot_b.xml:52
 msgid "Bouldershot"
-msgstr ""
+msgstr "Felsschleuder"
 
 #: simulation/templates/units/kokiri/kokiri_bouldershot_b.xml:53
 msgid ""
@@ -5629,16 +5644,21 @@ msgid ""
 " weapon. These contraptions could fling giant boulders across large distances to take "
 "out walls, gates, towers, and even enemy units that happened to be in the way."
 msgstr ""
+"Felsschleudern, im Grunde genommen riesige Steinschleudern auf Rädern, waren DIE "
+"Belagerungswaffe der Kokiri. Diese Konstrukte konnten riesige Felsen über große Ferne"
+"hinweg auf Mauern, Türme, Tore und sogar feindliche Soldaten schleudern."
 
 #: simulation/templates/units/kokiri/kokiri_bouldershot_b.xml:56
 msgid ""
 "Small Siege unit that can launch boulders at targets. Decent at knocking down walls and"
 " buildings but not nearly as powerful as most siege weapons."
 msgstr ""
-
+"Kleine Belagerungswaffe die Felsen auf Ziele schleudert. Nützlich um Mauern und Gebäude "
+"einzureissen aber schwächer als die meisten Belagerungswafffen.
+"
 #: simulation/templates/units/kokiri/kokiri_buckrider_b.xml:41
 msgid "Buck Rider"
-msgstr ""
+msgstr "Hirsch Reiter"
 
 #: simulation/templates/units/kokiri/kokiri_buckrider_b.xml:42
 msgid ""
@@ -5647,21 +5667,26 @@ msgid ""
 " excellent at dealing with such units. When outmatched these deer are frighteningly "
 "adept at retreating and vanishing into nothingness."
 msgstr ""
+"Auf den fast schon legendären Kokiri Hirsche reitend, ist diese schnelle Kavallerie mit"
+"der Axt im Walde. Diese Kavallerie kann in Gegnerische Infanterie rammen und sind wie "
+"gemacht gegen diese Einheiten. Wenn sie bedrängt werden sind diese Hirsche errschreckend "
+"fähig im Rückzug und im verschwinden ins nichts."
 
 #: simulation/templates/units/kokiri/kokiri_buckrider_b.xml:46
 msgid ""
 "A very fast Melee Cavalry unit armed with an axe in hand. These melee cavalry can ram "
 "into enemy Infantry and are excellent at dealing with such units."
-msgstr ""
+msgstr "Eine sehr schnelle Kavallerie mit einer Axt bewaffnet. Diese Kavallerie kann in  "
+"Gegnerische Infanterie rammen und sind wie gemacht gegen diese Einheiten"
 
 #: simulation/templates/units/kokiri/kokiri_bush.xml:18
 #: simulation/templates/units/kokiri/kokiri_tree.xml:18
 msgid "Flora"
-msgstr ""
+msgstr "Flora"
 
 #: simulation/templates/units/kokiri/kokiri_bush.xml:20
 msgid "Kokiri Berry Bush"
-msgstr ""
+msgstr "Kokiri Beeren Busch"
 
 #: simulation/templates/units/kokiri/kokiri_bush.xml:21
 msgid "Harvest Kokiri Berries for food. Max gatherers: 1."
@@ -5670,12 +5695,12 @@ msgstr ""
 #: simulation/templates/units/kokiri/kokiri_bush.xml:22
 #: simulation/templates/units/kokiri/kokiri_tree.xml:22
 msgid "Resource"
-msgstr ""
+msgstr "Ressource"
 
 #: simulation/templates/units/kokiri/kokiri_chief_b.xml:39
 #: simulation/templates/units/kokiri/kokiri_chief_mounted.xml:39
 msgid "Kokiri Chief"
-msgstr ""
+msgstr "Kokiri Häuptling"
 
 #: simulation/templates/units/kokiri/kokiri_chief_b.xml:40
 #: simulation/templates/units/kokiri/kokiri_chief_mounted.xml:40
@@ -5686,18 +5711,24 @@ msgid ""
 "shield into battle and were capable of getting their underlings to run into a fight "
 "much faster."
 msgstr ""
+"Häuptlinge waren die Aführer der Kokiri Dörfer und Armeen die andere Kokiri herumschubsen"
+"Befehle vom großen Deku Baum ausführen. When ein Korok Ältester nicht die Führung in übernahm"
+"würde ein Häuptling die Rolle annehmen. Sie trugen eine Axt und ein Schild und konnten ihre"
+"Bande schnell in einen Kampf jagen."
 
 #: simulation/templates/units/kokiri/kokiri_chief_b.xml:45
 msgid ""
 "Kokiri Commander unit armed with an axe, improves the performance of Kokiri infantry "
 "within its aura."
-msgstr ""
+msgstr "Kokiri Häuptling mit Axt in der Hand.Verbessert die Leistung von"
+"Kokiri Infanterie""
 
 #: simulation/templates/units/kokiri/kokiri_chief_mounted.xml:45
 msgid ""
 "Mounted Kokiri Commander unit armed with an axe, improves the performance of Kokiri "
 "infantry within its aura."
-msgstr ""
+msgstr "Reitender Kokiri Häuptling mit Axt in der Hand. Verbessert die Leistung von"
+"Kokiri Infanterie"
 
 #: simulation/templates/units/kokiri/kokiri_civilianA.xml:8
 #: simulation/templates/units/kokiri/kokiri_laborerA.xml:54
@@ -5726,11 +5757,11 @@ msgstr ""
 #: simulation/templates/units/labrynna/labrynna_titan_makulab.xml:12
 msgctxt "Name of an attack, usually the weapon."
 msgid "Roots"
-msgstr ""
+msgstr "Wurzeln"
 
 #: simulation/templates/units/kokiri/kokiri_dekutree_b.xml:82
 msgid "Deku Tree"
-msgstr ""
+msgstr "Deku Baum"
 
 #: simulation/templates/units/kokiri/kokiri_dekutree_b.xml:83
 #: simulation/templates/units/kokiri/kokiri_dekutree_large_b.xml:84
@@ -5740,22 +5771,27 @@ msgid ""
 "that they spend a vast majority of their life sleeping, and looking like any other tree"
 " to the naked eye. When disturbed or threatened however, they uproot themselves to "
 "reveal a multi-legged monstrosity."
-msgstr ""
+msgstr "" 
+"Herren der nördlichen Kokiri Wälder, die sanftmütigen und zurückgezogenen Deku Bäume,"
+"verbringen die meisten schlafend schlafend  und schauen dabei aus wie jeder andere"
+"Baum für das bloße Auge. Wenn sie gestört oder bedroht. Entwurzeln sie sich um eine "
+"vielbeinige Monstrosität zu enblößen"
 
 #: simulation/templates/units/kokiri/kokiri_dekutree_b.xml:87
 #: simulation/templates/units/kokiri/kokiri_dekutree_large_b.xml:88
 msgid ""
 "Saria's Unique Unit. Large lumbering Creature Siege unit that can cross deep bodies of "
 "water. Can be garrisoned with infantry units."
-msgstr ""
+msgstr ""Sarias einzigartige einheit. Große schwerfällige Belagerungskreatur die    
+"Gewässer überqueren kann."
 
 #: simulation/templates/units/kokiri/kokiri_dekutree_large_b.xml:83
 msgid "Large Deku Tree"
-msgstr ""
+msgstr "Großer Dekut Baum"
 
 #: simulation/templates/units/kokiri/kokiri_doetrotter_b.xml:38
 msgid "Doe Trotter"
-msgstr ""
+msgstr "Hirschkuh Reiter"
 
 #: simulation/templates/units/kokiri/kokiri_doetrotter_b.xml:39
 msgid ""
@@ -5764,12 +5800,17 @@ msgid ""
 "unit types. Like their male counterparts they are masters at slipping away from battle "
 "and fleeing into the shadows."
 msgstr ""
+"Sehr schnelle Kavalleire die mit einem Speer bewaffnet. Sie sind herrvorragend darin"
+"andere Kavallerie aufzuhalten, aber nicht besonders wiederstandsfähig im Kampf gegen"
+"andere Einheiten.Wie ihre männlichen Gegenstücke sind sie Meister im verschwinden"
+"aus der SChlacht und eintauchen in die Schatten."
 
 #: simulation/templates/units/kokiri/kokiri_doetrotter_b.xml:43
 msgid ""
 "A very fast moving Melee Cavalry unit armed with a spear. Inflicts bonus damage against"
 " cavalry and can Camouflage."
 msgstr ""
+"Sehr schnelle Kavalleire die mit einem Speer bewaffnet. Bonusschaden gegen andere Kavallerie"
 
 #: simulation/templates/units/kokiri/kokiri_emarcher_b.xml:42
 msgid "Emerald Archer"
