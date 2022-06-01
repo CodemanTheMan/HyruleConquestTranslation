@@ -10654,7 +10654,7 @@ msgstr ""
 
 #: simulation/templates/units/npc_lonlon/npc_lon_cowcart_b.xml:24
 msgid "Cow Cart"
-msgstr ""
+msgstr "Kraví Vůz"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_cowcart_b.xml:25
 msgid ""
@@ -10662,14 +10662,17 @@ msgid ""
 "could return to this supply and refresh themselves, even healing some of their wound "
 "before returning to the frontlines."
 msgstr ""
+"Jednoduchý vůz nesoucí export slavného Lon Lonského mléka. Uprostřed bitvy se mohli "
+"vojáci navrátit k této zásobovací stanici a osvěžit se. Dokonce si mohli vyléčit některá "
+"zranění než se vrátili na přední linie."
 
 #: simulation/templates/units/npc_lonlon/npc_lon_cowcart_b.xml:28
 msgid "Support unit that can heal nearby units."
-msgstr ""
+msgstr "Porpůrná jednotka schopná uzdravit jednotky na blízko."
 
 #: simulation/templates/units/npc_lonlon/npc_lon_cowgirl_b.xml:41
 msgid "Cowgirl"
-msgstr ""
+msgstr "Kovbojka"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_cowgirl_b.xml:42
 msgid ""
@@ -10677,28 +10680,33 @@ msgid ""
 "safe from thieves and would be conquerors. Armed with a bow and arrow, Cowgirls could "
 "outride and snipe their targets."
 msgstr ""
+"Kovbojky z Lon Lonského ranče pomáhaly zvládat jejich stáda a také chránily majetek "
+"před zloději a rádoby dobyvateli. Ozbrojeny lukem a šípem, Kovbojky byly schopny "
+"předjet a sestřelit své cíle."
 
 #: simulation/templates/units/npc_lonlon/npc_lon_cowgirl_b.xml:45
 msgid "Missile Cavalry unit that attacks with bow and arrow."
-msgstr ""
+msgstr "Střelecká jezdecká jednotka která útočí lukem a šípem."
 
 #: simulation/templates/units/npc_lonlon/npc_lon_hand_b.xml:44
 msgid "Ranch Hand"
-msgstr ""
+msgstr "Pomocník na Ranči"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_hand_b.xml:45
 msgid ""
 "Ranch Hands helped maintain Lon Lon Ranch, doing some of the heavier dirty work and "
 "keeping wild animals away from their livestock."
 msgstr ""
+"Pomocníci na Ranči pomáhali udržovat ranč, dělali některou obtížnejší špinavou práci "
+"a drželi divoká zvířata od dobytku."
 
 #: simulation/templates/units/npc_lonlon/npc_lon_hand_b.xml:48
 msgid "Light Melee unit that can help workers construct buildings and gather resources."
-msgstr ""
+msgstr "Lehká pěší jednotka ozbrojená vidlemi."
 
 #: simulation/templates/units/npc_lonlon/npc_lon_hero_malon.xml:30
 msgid "Famous Rancher of Lon Lon"
-msgstr ""
+msgstr "Slavná Rančerka z Lon Lonu"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_hero_malon.xml:31
 msgid ""
@@ -10706,14 +10714,17 @@ msgid ""
 "of Hyrule. Continuing her father's work, she runs and operates Lon Lon Ranch, raising "
 "the world's best horses and selling the most famous milk to countless customers."
 msgstr ""
+"Malon Lontská je majitelka Lon Lonského Ranče a proslulá podnikatelka v Království "
+"Hyliánském. Pokračující v práci jejího otce, vede a operuje Lon Lonský Ranč, šlechtí "
+"nejlepší koně světa a prodává nejslavnější mléko nespočetným zákazníkům."
 
 #: simulation/templates/units/npc_lonlon/npc_lon_hero_malon.xml:34
 msgid "Malon"
-msgstr ""
+msgstr "Malon"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_hero_malon.xml:35
 msgid "Missile Cavalry Hero that snipes her enemies with bow and arrows on horseback."
-msgstr ""
+msgstr "Střelecká jezdecká hrdinka která odstřeluje nepřátele lukem a šípem ze zad koně."
 
 #: simulation/templates/units/npc_lonlon/npc_lon_rancherA.xml:23
 msgid "Rancher"
@@ -10734,11 +10745,11 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_stalmaster_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Swords"
-msgstr ""
+msgstr "Meče"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_riders_b.xml:38
 msgid "Ranch Riders"
-msgstr ""
+msgstr "Jezdci z Ranče"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_riders_b.xml:39
 msgid ""
@@ -10746,14 +10757,17 @@ msgid ""
 " Field with vigilance to protect the busienss and services of their employer. Nothing "
 "on foot could match their speed."
 msgstr ""
+"Posazeni na nejrychlejších koník na světě, Jezdci z Lon Lonského Ranče drželi hlídky "
+"nad Hyliánskem, plní ostražitosti a dychtivosti ochránit podnik a služby jejich "
+"zaměstnavatelky. Nic pěšího se nevyrovnalo jejich rychlosti."
 
 #: simulation/templates/units/npc_lonlon/npc_lon_riders_b.xml:42
 msgid "Fast Melee Cavalry unit that can take on and best other cavalry units."
-msgstr ""
+msgstr "Rychlá jezdecká jednotka schopná předběhnout nejlepší jezdecké jednotky."
 
 #: simulation/templates/units/npc_lonlon/npc_lon_watch_b.xml:41
 msgid "Ranch Watch"
-msgstr ""
+msgstr "Hlídka z Ranče"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_watch_b.xml:42
 msgid ""
@@ -10762,10 +10776,13 @@ msgid ""
 "of the property and keep an eye out for attackers. Should the situation turn bad they "
 "could defend the ranch with their bows and arrows."
 msgstr ""
+"Lon Lonský Ranč byl cílem pro jeckteré rádoby dobyvatele, a bylo mnoho pokusů nahradit "
+"rodinu Lontů jako majitele. Hlídky z Ranče byly najmuty jako posádky zdí majetku a hlídky "
+"pro útočníky. Pokud se situace zhoršila, byli schopní ubránit ranč svými luky a šípy.
 
 #: simulation/templates/units/npc_lonlon/npc_lon_watch_b.xml:45
 msgid "Light Missile unit that can pelt enemies with their bow and arrows."
-msgstr ""
+msgstr "Lehká střelecká jednotka schopná útočit na nepřátele svými luky a šípy."
 
 #: simulation/templates/units/npc_stormzora/npc_stz_viper_b.xml:33
 msgid "Storm Zora Viper"
@@ -10785,20 +10802,20 @@ msgstr ""
 
 #: simulation/templates/units/npc_tokay/npc_tok_aquajockey_b.xml:36
 msgid "Aquadongo Jockey"
-msgstr ""
+msgstr "Žokej na Akvadongovi"
 
 #: simulation/templates/units/npc_tokay/npc_tok_aquajockey_b.xml:41
 msgid "Melee Cavalry unit that can cross over bodies of water."
-msgstr ""
+msgstr "Jezdecká jednotka schopná překročit vodu."
 
 #: simulation/templates/units/npc_tokay/npc_tok_bonker_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Coconut"
-msgstr ""
+msgstr "Kokos"
 
 #: simulation/templates/units/npc_tokay/npc_tok_bonker_b.xml:36
 msgid "Tokay Bonker"
-msgstr ""
+msgstr "Plazounský Nárazník"
 
 #: simulation/templates/units/npc_tokay/npc_tok_bonker_b.xml:37
 msgid ""
@@ -10806,14 +10823,17 @@ msgid ""
 "lines. They would ram into targets much larger than themselves, more often than not "
 "sending themselves and their foes staggering in opposite directions."
 msgstr ""
+"Nosící slupku kokosu na jejich hlavách, Plazounští Nárazníci byli posláni hlavou před "
+"do nepřátelských linií. Tam nnaráželi do cílů mnohem větších než oni sami, čímž často "
+"poslali sebe i své nepřátele potácející-se v do opačných směrů."
 
 #: simulation/templates/units/npc_tokay/npc_tok_bonker_b.xml:41
 msgid "Fast moving Melee unit that rams into enemies and stunf them with their head."
-msgstr ""
+msgstr "Rychlá pěší jednotka která naráží do svých nepřátel a omačuje je svou hlavou."
 
 #: simulation/templates/units/npc_tokay/npc_tok_hero_otaylo.xml:53
 msgid "Tokay Big Boss"
-msgstr ""
+msgstr "Velká Plazounská Šéfka"
 
 #: simulation/templates/units/npc_tokay/npc_tok_hero_otaylo.xml:54
 msgid ""
@@ -10822,18 +10842,21 @@ msgid ""
 " Labrynna duping most of her people into slavery, something she’s not all that proud "
 "of."
 msgstr ""
+"Otajlo se stala šéfkou Plazounů ne díky moci, intelektu nebo krevní linii... ale proto "
+"že si koupila modré tričko z Labrynny. Její jednání neúmyslně vedlo k Labrynnskému "
+"dobytí jejího lidu, na noč není moc hrdá."
 
 #: simulation/templates/units/npc_tokay/npc_tok_hero_otaylo.xml:57
 msgid "Otaylo"
-msgstr ""
+msgstr "Otajlo"
 
 #: simulation/templates/units/npc_tokay/npc_tok_hero_otaylo.xml:58
 msgid "Melee Hero unit that attacks with her hunting spear."
-msgstr ""
+msgstr "Pěší hrdinka která útočí svým loveckým kopím."
 
 #: simulation/templates/units/npc_tokay/npc_tok_hunter_b.xml:42
 msgid "Tokay Hunter"
-msgstr ""
+msgstr "Plazounský Lovec"
 
 #: simulation/templates/units/npc_tokay/npc_tok_hunter_b.xml:43
 msgid ""
@@ -10841,10 +10864,13 @@ msgid ""
 " and hunt the many large fish that roamed the sea. When threatened on land they could "
 "easily hold their ground as well."
 msgstr ""
+"Ozbrojeni kopím v rukou, Plazounští Lovci plavali kolem pobřeží Půlměsíčního ostrova a "
+"lovili mnohé velké ryby které plavaly v moři. Pokud ohroženi na pevnině, uměli se beze "
+snází ubránit."
 
 #: simulation/templates/units/npc_tokay/npc_tok_hunter_b.xml:47
 msgid "Melee unit armed with a hunting spear. Can hunt fish and wild animals for meat."
-msgstr ""
+msgstr "Pěší jednotka ozbrojená loveckým kopím."
 
 #: simulation/templates/units/npc_tokay/npc_tok_noshirtA.xml:42
 msgid "Tokay No-Shirt"
@@ -10864,11 +10890,11 @@ msgstr ""
 #: simulation/templates/units/npc_tokay/npc_tok_slinger_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Sling"
-msgstr ""
+msgstr "Prak"
 
 #: simulation/templates/units/npc_tokay/npc_tok_slinger_b.xml:41
 msgid "Tokay Slinger"
-msgstr ""
+msgstr "Plazounský Prakovník"
 
 #: simulation/templates/units/npc_tokay/npc_tok_slinger_b.xml:42
 msgid ""
@@ -10876,10 +10902,13 @@ msgid ""
 "up anyone who invaded. Large groups of Slingers could unleash a huge storm of stones "
 "with terrifying speed."
 msgstr ""
+"Plazounští Prakovníci byli obránci své ostrovní domoviny, a omračovali a zabíjeli "
+"kohokoliv kdo je napadnul. Velké skupiny Prakovníků byly schopny vytvořit obří bouři "
+"kamenů s vysokou rychlostí."
 
 #: simulation/templates/units/npc_tokay/npc_tok_slinger_b.xml:45
 msgid "Missile unit that hurls stones from their slings."
-msgstr ""
+msgstr "Střelecká jednotka která brhá kameny ze svých praků."
 
 #: simulation/templates/units/npc_zuna/npc_zun_craftsmanA.xml:42
 msgid "Craftsman"
@@ -10898,7 +10927,7 @@ msgstr ""
 
 #: simulation/templates/units/npc_zuna/npc_zun_hero_vorday.xml:44
 msgid "Vizier of Zunayus"
-msgstr ""
+msgstr "Vezír Zunajský"
 
 #: simulation/templates/units/npc_zuna/npc_zun_hero_vorday.xml:45
 msgid ""
@@ -10908,14 +10937,18 @@ msgid ""
 "lead to the Zuna becoming a giant merchant empire and biggest arms dealer in all of "
 "Hyrule."
 msgstr ""
+"Nejbohatější a nejmocnější Zuna co kdy žil, Pán Vordaj shromažďoval svůj majetek tím že "
+"byl patolízal a přitakávač různých impérií v Gerudské Poušti. Přestože byl považován za "
+"naprostého zbabělce cizinci, jeho zvyk se zaprodávat cizincům udělal ze Zunů obří "
+"obxhodnické impérium a největší prodejce zbraní na celém světě."
 
 #: simulation/templates/units/npc_zuna/npc_zun_hero_vorday.xml:48
 msgid "Master Vorday"
-msgstr ""
+msgstr "Pán Vordaj"
 
 #: simulation/templates/units/npc_zuna/npc_zun_hero_vorday.xml:49
 msgid "Melee Hero unit that uses his golden trident in battle."
-msgstr ""
+msgstr "Pěší hrdina který v bitvě používá svůj zlatý trojzubec."
 
 #: simulation/templates/units/npc_zuna/npc_zun_merchantman_b.xml:19
 msgid "Zuna Merchantman"
@@ -10940,18 +10973,22 @@ msgid ""
 "they managed to break into the mighty Darknut fortress. The Siege Tower can "
 "effortlessly destroy the heaviest of fortifications and garrison troops inside."
 msgstr ""
+"Obří a mocné beranidlo kterým Zunové kdysi zničili mnoho hradů, bylo asi nejznámější "
+"v historii v bitvě proti Baralově Štítu, kde se dokázali probořit do mocné Temnářské "
+"základny. Obléhací věz je schopna bez námahy zničit nejtěžší opevnění a nosit posádku "
+"vojáků."
 
 #: simulation/templates/units/npc_zuna/npc_zun_siegetower_b.xml:88
 msgid "Zunayun Siege Tower"
-msgstr ""
+msgstr "Zunajská Obléhací Věž"
 
 #: simulation/templates/units/npc_zuna/npc_zun_siegetower_b.xml:89
 msgid "Large Siege tower that tears apart enemy structures up close."
-msgstr ""
+msgstr "Velká obléhací věž která drtí nepřátelské budovy z blízka."
 
 #: simulation/templates/units/npc_zuna/npc_zun_triballista_b.xml:57
 msgid "Triballista"
-msgstr ""
+msgstr "Trojbalista"
 
 #: simulation/templates/units/npc_zuna/npc_zun_triballista_b.xml:58
 msgid ""
@@ -10959,14 +10996,17 @@ msgid ""
 "three giant bolts at a time instead of one. A single Triballista could hurl these bolts"
 " at mutliple targets, potentially breaking open multiple holes in an enemy’s defense."
 msgstr ""
+"Podobně jako jejich ruční protějšky, Zunajská Trojbalista umožňovala její posádce nabít "
+"až tři obří šipky místo jedné. Jedna Trojbalista mohla vrhat tyto šipky na několik cílů "
+"zaráz, a potenciálně otevřít několik dír v nepřátelské obraně."
 
 #: simulation/templates/units/npc_zuna/npc_zun_triballista_b.xml:60
 msgid "Ranged Siege unit that unleashes a triad of giant bolts at its targets."
-msgstr ""
+msgstr "Střelecká obléhací jednotka která stříli tři obří šipky zaráz."
 
 #: simulation/templates/units/npc_zuna/npc_zun_tribowman_b.xml:49
 msgid "Zuna Tribowman"
-msgstr ""
+msgstr "Zunajský Trojkušiník"
 
 #: simulation/templates/units/npc_zuna/npc_zun_tribowman_b.xml:50
 msgid ""
@@ -10975,14 +11015,17 @@ msgid ""
 "hold and store up to three bolts instead of one, giving them the chance to fire several"
 " shots before reloading."
 msgstr ""
+"Podél řadových zdí Zunaje, čety těchto smrtelných střelců bránily hlavní město po mnohé "
+"generace. Zvláštní design Zunajských kuší jim umožnil nabít až tři šípy místo jednoho, "
+"což jim dávalo šanci vystřelit několik střel před přebitím."
 
 #: simulation/templates/units/npc_zuna/npc_zun_tribowman_b.xml:53
 msgid "Missile unit that looses a triad of projectiles from its crossbow."
-msgstr ""
+msgstr "Střelecká jednotka která stříli trio projektilů ze své kuše."
 
 #: simulation/templates/units/npc_zuna/npc_zun_tridenteer_b.xml:38
 msgid "Zuna Tridenteer"
-msgstr ""
+msgstr "Zunajský Trojzubce"
 
 #: simulation/templates/units/npc_zuna/npc_zun_tridenteer_b.xml:39
 msgid ""
@@ -10991,33 +11034,38 @@ msgid ""
 "these Zuna are sufficiently trained to defend against a full-scale invasion of their "
 "homeland."
 msgstr ""
+"Nesoucí jejich ikonické trojzubce v rukou, tito Zunajští vojáci hlídají vnitřek a "
+"hranice hlavního města, Zunaje. Přesto že jsou teoreticky pouze policie, tito Zunové "
+"jsou dost vycvičeni k obraně plnohodnotné invaze jejich domoviny."
 
 #: simulation/templates/units/npc_zuna/npc_zun_tridenteer_b.xml:43
 msgid "Melee unit carrying a far reaching trident."
-msgstr ""
+msgstr "Pěší jednotka nesoucí daleko dosahující trojzubec."
 
 #: simulation/templates/units/ordona/ordona_attackgoat_b.xml:32
 msgid "Ordonian Goat"
-msgstr ""
+msgstr "Ordonský Kozel"
 
 #: simulation/templates/units/ordona/ordona_attackgoat_b.xml:33
 msgid ""
 "The iconic blue Goats of Ordona are a stock source of meat, wool, and milk throughout "
 "much of Hyrule. Domesticated varieties could be traied to attack"
 msgstr ""
+"Ikonocné modroststé kozy z Ordony jsou základním zdrojem masa, vlny, a mléka v mnoha "
+"částech světa. Domestikované odrůdy mohly být trénovány k útoku."
 
 #: simulation/templates/units/ordona/ordona_attackgoat_b.xml:37
 msgid "Melee Creature unit with a strong headbutt and kick."
-msgstr ""
+msgstr "Tvor se silným nárazem a kopem."
 
 #: simulation/templates/units/ordona/ordona_beekeeper_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Beehives"
-msgstr ""
+msgstr "Včelí Úly"
 
 #: simulation/templates/units/ordona/ordona_beekeeper_b.xml:69
 msgid "Beekeeper"
-msgstr ""
+msgstr "Včelař"
 
 #: simulation/templates/units/ordona/ordona_beekeeper_b.xml:70
 msgid ""
@@ -11026,14 +11074,17 @@ msgid ""
 "to generate Food (and later Rupees) for Ordona Province. They can also carry sealed "
 "gourds full of angry bees, which they toss into a crowd of attacking enemies."
 msgstr ""
+"Med byl v výnosným průmyslem v Ordoně, která byla na jaře pařeništěm aktivity pro různé "
+"včely. Včelaři nosí zapečetěné tykve plné naštvaných včel, které hází na skupiny útočících "
+"nepřátel."
 
 #: simulation/templates/units/ordona/ordona_beekeeper_b.xml:75
 msgid "Support unit that tosses Beehives at enemies, summoning swarms of the insects to attack."
-msgstr ""
+msgstr "Podpůrná jednotka která háže včelí úly na napřátele."
 
 #: simulation/templates/units/ordona/ordona_billybat_b.xml:37
 msgid "Billy Battler"
-msgstr ""
+msgstr "Kozlí Bitevník"
 
 #: simulation/templates/units/ordona/ordona_billybat_b.xml:38
 msgid ""
@@ -11044,14 +11095,19 @@ msgid ""
 "with their axe. Like all of Ordona's goat cavalry, the Billy Battler can climb over "
 "mountainous terrain."
 msgstr ""
+"Kozlí Bitevník je tváří Ordonské armády, a možná nejpočetnější armádní jednotka národa. "
+"Trénovaný válečník jezdící na zádech naštvaného Ordonského kozla, této obrněné pěchotě "
+"chybí rychlost, ale mají velkou sílu. Po nárazu do nepřátelů svými spojenými rohy, jezdec "
+"seká a utíná hlavy nepřátel svou sekyrou. Jako všechno kozlí jezdectvo, Kozlí Bitevník "
+"umí překračovat přes horský terén."
 
 #: simulation/templates/units/ordona/ordona_billybat_b.xml:43
 msgid "Medium Cavalry unit with a strong melee attack and Knockback damage."
-msgstr ""
+msgstr "Střední jezdecká jednotka se silným útokem na blízko a odrazným poškozením."
 
 #: simulation/templates/units/ordona/ordona_catapult_b.xml:48
 msgid "Ordona Catapult"
-msgstr ""
+msgstr "Ordonský Katapult"
 
 #: simulation/templates/units/ordona/ordona_catapult_b.xml:49
 msgid ""
@@ -11060,16 +11116,20 @@ msgid ""
 "towers. Ordonian catapults could hurl boulders from safe behind their army's lines, "
 "busting open gates and taking out large targets with ease."
 msgstr ""
+"S nepřáteli na všech stranách, Ordona byla často na obraně. V případech kdy se situace "
+"otočila, Katapulty sloužily jako jejich velké zbraně pro porážení nepřátelských zdí a "
+"bran. Ordonské Katapulty byly schopny vrhat velké balvany z bezpečí až za nepřátelské "
+"linie, bez námahy drtící brány a vojáky.
 
 #: simulation/templates/units/ordona/ordona_catapult_b.xml:51
 msgid "Small but effective ranged Siege unit that can knock down enemy structures."
-msgstr ""
+msgstr "Malá ale efektivní střelecká obléhací jednotka která drtí nepřátelské budovy."
 
 #: simulation/templates/units/ordona/ordona_civilianA.xml:8
 #: simulation/templates/units/ordona/ordona_civilianB.xml:8
 #: simulation/templates/units/ordona/ordona_serfA.xml:61
 msgid "Serf"
-msgstr ""
+msgstr "Nevolník"
 
 #: simulation/templates/units/ordona/ordona_civilianA.xml:9
 #: simulation/templates/units/ordona/ordona_civilianB.xml:9
@@ -11091,11 +11151,11 @@ msgstr ""
 #: simulation/templates/units/ordona/ordona_drunkard_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Booze"
-msgstr ""
+msgstr "Chlast"
 
 #: simulation/templates/units/ordona/ordona_drunkard_b.xml:55
 msgid "Drunkard"
-msgstr ""
+msgstr "Opilec"
 
 #: simulation/templates/units/ordona/ordona_drunkard_b.xml:56
 msgid ""
@@ -11104,14 +11164,18 @@ msgid ""
 "enemies and buildings aflame and are excellent at crowd control, but an Ordonian "
 "commander must be careful: friendly fire is guaranteed without careful coordination."
 msgstr ""
+"Ozbrojeni levným chlastem a trochou ohně, Opilci házeli své výbušné lahve na cíle a "
+"sledovali násilné následky. Hlouk Opilců je schopen rychle zapálit nepřátele a budovy "
+"a jsou excelentní ve zvládání čet, ale Ordonský velutel si musí dávat pozor: palba do "
+"vlastních řad je garantévána bez opatrné koordinace."
 
 #: simulation/templates/units/ordona/ordona_drunkard_b.xml:60
 msgid "Support unit that tosses flaming bottles of booze at their targets."
-msgstr ""
+msgstr "Porpůrná jednotka která háže hořící lahve chlastu na své cíle."
 
 #: simulation/templates/units/ordona/ordona_fieflord_b.xml:33
 msgid "Fief Lord"
-msgstr ""
+msgstr "Lenní Pán"
 
 #: simulation/templates/units/ordona/ordona_fieflord_b.xml:34
 msgid ""
@@ -11120,14 +11184,18 @@ msgid ""
 "a talent that when combined with their natural job of bossing people around made them "
 "excellent officers for managing Province troops."
 msgstr ""
+"Lenní Páni jsou jediní členové Ordony kteří legálně vlastnili pozemky, často s tucty "
+"sedláky pod jejich panstvím. Lenní Páni také měli základní armádní zkušenost; talent, "
+"který je, když kombinován s jejich přirozenou schopností šéfovat lidem dělal exelentními "
+"důstojníky vojákům Provincie."
 
 #: simulation/templates/units/ordona/ordona_fieflord_b.xml:38
 msgid "Infantry Commander that improves upon other Infantry units."
-msgstr ""
+msgstr "Pěší velitel který zlepšuje ostatní pěchotu."
 
 #: simulation/templates/units/ordona/ordona_goatlord_b.xml:34
 msgid "Goat Lord"
-msgstr ""
+msgstr "Kozlí Pán"
 
 #: simulation/templates/units/ordona/ordona_goatlord_b.xml:36
 msgid ""
@@ -11137,15 +11205,19 @@ msgid ""
 "hold their own in a melee. Like all of Ordona's goat cavalry, the Goat Lord can climb "
 "over mountainous terrain."
 msgstr ""
+"Silný starý kozel nesoucí jednoho ze Starostů Ordonské Provincie, Kozlí Páni vedou celé "
+"populace Ordoňanů do bitvy a k vítězství. S praporem v jedné ruce a mocným kopím ve druhé, "
+"Kozlí Páni pohou se snází porazit nepřátelské jezdectvo a vydržet v boji na blízko. Jako "
+"všechno Kozlí jezdectvo Ordony, Kozlí Páni mohou překročit horský terén."
 
 #: simulation/templates/units/ordona/ordona_goatlord_b.xml:41
 msgid "Heavy Cavalry Commander unit armed with a large lance that improves other Cavalry units."
-msgstr ""
+msgstr "Těžká jezdecká velitelská jednotka ozbrojena velkým kopím která zlepšuje ostatní jezdecké jednotky."
 
 #: simulation/templates/units/ordona/ordona_hawk_b.xml:30
 #: simulation/templates/units/ordona/ordona_hawk_b2.xml:31
 msgid "Ordona Hawk"
-msgstr ""
+msgstr "Ordonský Sokol"
 
 #: simulation/templates/units/ordona/ordona_hawk_b.xml:31
 #: simulation/templates/units/ordona/ordona_hawk_b2.xml:32
@@ -11154,6 +11226,9 @@ msgid ""
 "families to serve as messengers, hunting companions, and in times of war they could be "
 "deployed as scouts and unconventional battle units."
 msgstr ""
+"Tito velcí draví ptáci domorodí v Provincii byli často trénováni Ordonskými rodinami "
+"jako poslové, lovečtíspolečníci, a ve válce mohli být nasazeni jako průzkumníci a "
+"nekonvenční bojové jednotky."
 
 #: simulation/templates/units/ordona/ordona_hawk_b.xml:35
 #: simulation/templates/units/ordona/ordona_hawk_b2.xml:37
@@ -11162,10 +11237,12 @@ msgid ""
 "Flying Creature Scout unit that can cover much ground and detect Camouflaged and "
 "Stealthed units."
 msgstr ""
+"Létající průzkumný tvor schopný přeletět přes velké vzdálenosti a detekovat jednotky "
+"s kamufláží a utajením."
 
 #: simulation/templates/units/ordona/ordona_hero_ashei_b.xml:34
 msgid "Master Mercenary"
-msgstr ""
+msgstr "Mistrovská Žoldačka"
 
 #: simulation/templates/units/ordona/ordona_hero_ashei_b.xml:36
 msgid ""
@@ -11181,18 +11258,26 @@ msgid ""
 "learning a wide variety of combat techniques and sword fighting arts from various "
 "cultures."
 msgstr ""
+"Dcera Hyliánského rytíře, Ašejin otec byl vyhnán z jeho řádu protože měl dítě s Ordonskou "
+"ženou a poskvrnil pokrevní linii svých členů. S malým uplatněním jako farmář v Ordoně, Ašejin "
+"otec místo toho putoval do Labrynnských hor kde později založil Odboj: polovojenský řád "
+"rytiřů a žoldáků který vyhledával a zastavoval hrozby pro Hyliánsko než vůbec začla válka. "
+"Vychoval Ašej jako rytířku jako byl on, a doufal že Odboj zdědí. Bez přísného řádu a "
+"dohledem armády nad jejím tréninkem, Ašej se stala jinou než většina profesionálních vojáků "
+"Bez žádného spojení k žádnému národu, byla více žoldačka než rytířka, a adaptovala a učila se "
+"mnoha bojovým technikám a šermířských umění z různých kultur."
 
 #: simulation/templates/units/ordona/ordona_hero_ashei_b.xml:40
 msgid "Ashei"
-msgstr ""
+msgstr "Ašej"
 
 #: simulation/templates/units/ordona/ordona_hero_ashei_b.xml:41
 msgid "Fast running Mercenary Hero armed with a sword."
-msgstr ""
+msgstr "Rychlá žoldnéřská hrdinka ozbrojena mečem."
 
 #: simulation/templates/units/ordona/ordona_hero_beth_b.xml:42
 msgid "Lady of Ordon"
-msgstr ""
+msgstr "Paní Ordonská"
 
 #: simulation/templates/units/ordona/ordona_hero_beth_b.xml:44
 msgid ""
@@ -11201,19 +11286,23 @@ msgid ""
 " trade and hopes to keep the Province one of Hyrule's greatest market powers. While not"
 " skilled in fighting, she has enough training with a bow and arrows."
 msgstr ""
+"Dcera Sery a dědička jejího podniku, Běta vede jednomu z největších podniků v Ordoně. "
+"Je spojena s ekonomickou prosperitou a zahraničním obchodem Ordony a doufá že zůstane "
+"jednou z ekonomických velmocí světa. Přestože není zkušení v boji, má dost tréninku s "
+"lukem a šípy."
 
 #: simulation/templates/units/ordona/ordona_hero_beth_b.xml:48
 msgid "Beth"
-msgstr ""
+msgstr "Běta"
 
 #: simulation/templates/units/ordona/ordona_hero_beth_b.xml:49
 #: simulation/templates/units/sheikah/sheikah_hero_purah.xml:49
 msgid "Ranged Hero carrying a bow and arrow."
-msgstr ""
+msgstr "Střelecká hrdinka nesoucí luk a šípy."
 
 #: simulation/templates/units/ordona/ordona_hero_colin_b.xml:34
 msgid "Squire of Ordon"
-msgstr ""
+msgstr "Ordonský Panoš"
 
 #: simulation/templates/units/ordona/ordona_hero_colin_b.xml:36
 msgid ""
@@ -11222,18 +11311,21 @@ msgid ""
 "a profession in his adulthood. He has since become a Squire in hopes of attaining "
 "Knighthood."
 msgstr ""
+"Syn Ruslův, Kolin většinu svého života vyrostl jako farmář. Jeho otec v něm zasadil "
+"lásku pro meč a naučil ho šermu, zkušenost kterou si Kolin odnesl do dospělého života. "
+"Od té doby se stal Panošem v naději získat Rytiřství."
 
 #: simulation/templates/units/ordona/ordona_hero_colin_b.xml:40
 msgid "Colin"
-msgstr ""
+msgstr "Kolin"
 
 #: simulation/templates/units/ordona/ordona_hero_colin_b.xml:41
 msgid "Quick Melee Hero armed with a sword and shield."
-msgstr ""
+msgstr "Rychlý pěší hrdina ozbrojen mečem a štítem."
 
 #: simulation/templates/units/ordona/ordona_hero_ilia_b.xml:42
 msgid "Mayor's Daughter"
-msgstr ""
+msgstr "Starostova Dcera"
 
 #: simulation/templates/units/ordona/ordona_hero_ilia_b.xml:44
 msgid ""
@@ -11247,18 +11339,27 @@ msgid ""
 "hopes to one day out-compete the famous horse breeder. In battle Ilia rides atop a "
 "horse, using a Ranger Crossbow to snipe down anyone who threatens the Province."
 msgstr ""
+"Ilie byla dcera Starosty Boa a obchodní asistentka Rusly ve svém mládí. Jelikož se "
+"narodila do privilegované vrstvy, měla možnost si vyzkoušet několik pracovních "
+"linií před tím než se usadila ve šlechtění a trénovaní koní. V mladé dospělosti se Ilie "
+"stala pořádnou podnikatelkou v Ordonské Provincii, a získala některé z nejlepších koní "
+"světa zatímco zároveň řídila lesnickou společnost aby zásobovala stavbu stájí po celém "
+"Hyliánsku. Byla známá svou večírků-milující povahou a zvykem udežet v sobě spoustu piva. "
+"Má přátelské rivalství s Malon z Lon Lonského Ranče, a doufá že slavnou šlechtitelku koní "
+"jednou předčí. V bitvě Ilie jezdí na koni, a využívá lesnickou kuši aby sestřelila kohokoliv "
+"kdo ohrožuje Provincii.
 
 #: simulation/templates/units/ordona/ordona_hero_ilia_b.xml:47
 msgid "Ilia"
-msgstr ""
+msgstr "Ilie"
 
 #: simulation/templates/units/ordona/ordona_hero_ilia_b.xml:48
 msgid "Fast Missile Cavalry Hero armed with an armor piercing Crossbow."
-msgstr ""
+msgstr "Rychlá jezdecká hrdinka ozbrojena brnění-průraznou kuší."
 
 #: simulation/templates/units/ordona/ordona_hero_mayorbo_b.xml:38
 msgid "Lord Mayor of Ordona Province"
-msgstr ""
+msgstr "Pán Starosta Ordonské Provincie"
 
 #: simulation/templates/units/ordona/ordona_hero_mayorbo_b.xml:40
 msgid ""
@@ -11271,18 +11372,24 @@ msgid ""
 "Mayor Bo rides on top of his Elder Goat, swinging the family axe into the heads of his "
 "enemies."
 msgstr ""
+"Pán Starosta a vrchní celé Ordonské Provincie, Starosta Bo sloužil velitelskou rolí "
+"déle než jakýkoliv jiný Ordoňan. Je milován svým lidem pro svou skromnou povahu a "
+"zkučnost pro podřadnou práci s nevolníky Provincie. Starosta Bo byl muž působivé "
+"odolnosti, a byl známý svými sumo bitvami s Gorony. Jeho dcera Ilie tvrdí že utrhl roh "
+"z Moblina se kterým uzavřel sázku, ale on sám odmítá že by takovou věc provedl. V bitvě "
+"jezdí Starosta Bo na svém starém kozlovi, a ohání se svou sekyrou."
 
 #: simulation/templates/units/ordona/ordona_hero_mayorbo_b.xml:44
 msgid "Bo"
-msgstr ""
+msgstr "Bo"
 
 #: simulation/templates/units/ordona/ordona_hero_mayorbo_b.xml:45
 msgid "Slow but powerful Melee Cavalry Hero aramed with a lance."
-msgstr ""
+msgstr "Pomalý ale mocný hrdina ozbrojený kopím."
 
 #: simulation/templates/units/ordona/ordona_hero_rusl_b.xml:34
 msgid "Knight of Ordon"
-msgstr ""
+msgstr "Rytíř Ordonský"
 
 #: simulation/templates/units/ordona/ordona_hero_rusl_b.xml:36
 msgid ""
@@ -11295,18 +11402,26 @@ msgid ""
 "kindness and perhaps most importantly, calmness. Even in sticky situations he "
 "maintained a level head and never showed any signs of panic."
 msgstr ""
+"Pro mnohé v Ordonské Provincii, Rusl byl jen obyčejný obchodník který cestoval v "
+"Hyliánsku a Provincii Lanajru. Ti co ho znali osobně si byli pravděpodobně vědomi jeho "
+"bývalé práce v armádě. Narozdíl od mnoha Ordoňanů, Rusl byl ve skutečnosti profesionálně "
+"trénován v několika Hyliánských armádních akademiích, a je fáma že se pokoušel stát "
+"prvním Hyliánským Rytířem z Ordonské Provincie. Někdy během té doby opustil studia "
+"a stal se obchodníkem jako který byl později znám. Rusl byl znám svojí laskavostí a "
+"asi nejdůležitěji, klidností. I v nebezpečných situacích zachoval chladnou hlavu a nikdy "
+"neukazoval paniku."
 
 #: simulation/templates/units/ordona/ordona_hero_rusl_b.xml:40
 msgid "Rusl"
-msgstr ""
+msgstr "Rusl"
 
 #: simulation/templates/units/ordona/ordona_hero_rusl_b.xml:41
 msgid "Stalwart and durable Melee Hero armed with a sword and shield."
-msgstr ""
+msgstr "Statný a odolný pěší hrdina ozbrojen mečem a štítem."
 
 #: simulation/templates/units/ordona/ordona_horseman_b.xml:33
 msgid "Horseman"
-msgstr ""
+msgstr "Jezdec"
 
 #: simulation/templates/units/ordona/ordona_horseman_b.xml:34
 msgid ""
@@ -11315,10 +11430,13 @@ msgid ""
 "shield and wielding a sword, these swift riders could decapitate just about any foe "
 "with a neck."
 msgstr ""
+"Ordonská Provincie vyšlechtila nejlepší jezdectvo v historii světa, a tyto čety jezdeckých "
+"válečníků vykazovaly hrdost uprostřed bitvy. Ozbrojeni stítem a nesoucí meč, tito hbitá jezdci "
+"byli schopni utnou hlavu jakémukoliv nepříteli s krkem."
 
 #: simulation/templates/units/ordona/ordona_horseman_b.xml:39
 msgid "Fast moving Melee Cavalry unit armed with swords."
-msgstr ""
+msgstr "Rychlá jezdecká jednotka ozbroja mečem."
 
 #: simulation/templates/units/ordona/ordona_lumberjack_b.xml:32
 msgid "Worker Unit"
@@ -11332,18 +11450,22 @@ msgid ""
 " not professionally trained in military tactics, their sheer brutality could beat down "
 "and scare off most enemies."
 msgstr ""
+"Farmáři byli sice většina pracovníků Provincie, ale velká družstva Dřevorubců poskytovala "
+"dřevo a přístřeší Ordoňanům po celý rok. Tito silní chlapi mohli nést svoje sekyry do bitvy, "
+"a přestože nebyli profesionálně trénováni v armádních taktikách, jejich čirá brutalita "
+"byla schopna vyděsit většinu nepřátel."
 
 #: simulation/templates/units/ordona/ordona_lumberjack_b.xml:37
 msgid "Lumberjack"
-msgstr ""
+msgstr "Dřevorubec"
 
 #: simulation/templates/units/ordona/ordona_lumberjack_b.xml:38
 msgid "Strong Melee unit armed with axes. They also excell at harvesting wood from trees."
-msgstr ""
+msgstr "Silná pěší jednotka ozbrojena sekyrami."
 
 #: simulation/templates/units/ordona/ordona_militia_b.xml:33
 msgid "Militia"
-msgstr ""
+msgstr "Milice"
 
 #: simulation/templates/units/ordona/ordona_militia_b.xml:34
 msgid ""
@@ -11351,14 +11473,17 @@ msgid ""
 "wartime. Often they had basic military training, and while some had state-crafted armor"
 " and swords, just as many brought their own handmade weapons and shields to battle."
 msgstr ""
+"Milice byli civilisti dobrovolně i nedobrovolně nasazeni do armádní služby během války. "
+"Často měli základní armádní trénink, a přesto že mnozí měli brnění a meče od státu, "
+"spoustu si přineslo domácky vytvořené zbraně a štíty do bitvy."
 
 #: simulation/templates/units/ordona/ordona_militia_b.xml:38
 msgid "Cheap but eager Melee units armed with a sword and shield."
-msgstr ""
+msgstr "Levná ale dychtivá pěší jednotka ozbrojena mečem a štítem."
 
 #: simulation/templates/units/ordona/ordona_parcher_b.xml:41
 msgid "Peasant Archer"
-msgstr ""
+msgstr "Rolnický Lučištník"
 
 #: simulation/templates/units/ordona/ordona_parcher_b.xml:42
 msgid ""
@@ -11366,14 +11491,17 @@ msgid ""
 "food stocks. At least one member of a Farmer's household was trained in the use of the "
 "bow, and during snowfall would venture into Faron Woods to hunt game."
 msgstr ""
+"Během zim, když plodiny umřely, lov se stal způsobem jako doplnit zásoby jídla. Alespoň "
+"jeden člen z farmářského domu byl trénován se využití luku, a během zim šli do Faronských "
+"lesů lovit zvěř."
 
 #: simulation/templates/units/ordona/ordona_parcher_b.xml:45
 msgid "Cheap light Missile unit that attacks with a bow and arrows."
-msgstr ""
+msgstr "Levná a lehká střelecká jednotka která útočí lukem a šípy."
 
 #: simulation/templates/units/ordona/ordona_ranger_b.xml:42
 msgid "Ranger"
-msgstr ""
+msgstr "Lesník"
 
 #: simulation/templates/units/ordona/ordona_ranger_b.xml:43
 msgid ""
@@ -11384,19 +11512,25 @@ msgid ""
 "wilderness and take out almost any foe before they knew what hit them. They can snipe "
 "enemies with their Ranger Crossbows as well as switch to using battle axes in a melee."
 msgstr ""
+"Ordonští Lesníci byli zasvěceni ochranou divokých hranic Provincie před vpády. Původně "
+"ustanoveni na západních hranicích aby sledovali a varovali před Ještěrfoskými invazemi, "
+"Lesníci mohou nyní být nalezeni na všech okrajích Ordony, od Faronu po zapovězené lesy "
+"Kokiri. Tito nenápadní vojáci ví jak přežít v divočině a zabít jakéhokoliv nepřítele "
+"před tím než ví co je trefilo. Umí odstřelovat nepřátele svými Lesnickými kušemu a poté "
+"v boji na blízko využit sekyru."
 
 #: simulation/templates/units/ordona/ordona_ranger_b.xml:47
 msgid "Fast moving heavy Missile unit armed with a powerful crossbow."
-msgstr ""
+msgstr "Rychlá těžká střelecká jednotka ozbrojena mocnou kuší."
 
 #: simulation/templates/units/ordona/ordona_reverend_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Effigy"
-msgstr ""
+msgstr "Podobizna"
 
 #: simulation/templates/units/ordona/ordona_reverend_b.xml:38
 msgid "Reverend"
-msgstr ""
+msgstr "Reverend"
 
 #: simulation/templates/units/ordona/ordona_reverend_b.xml:39
 msgid ""
@@ -11405,14 +11539,18 @@ msgid ""
 "Mudora and knowledge of the Goddesses to all of Hyrule. These Reverends will preach in "
 "just about any land, be they welcoming or hostile to their intent."
 msgstr ""
+"Přestože Ordonská Provincie není tak dogmatická jako Hyliánské duchovo, tento národ "
+"vyšlechtil vášnivější a výraznější linii kněží aby šířili svaté texty a vědění o Hyliánských "
+"bozích. Tito Reverendi jsou schopni zvěstovat v jakékoliv zemi, ať už jsou přátelské nebo "
+"nepřátelské jejich úmyslům."
 
 #: simulation/templates/units/ordona/ordona_reverend_b.xml:44
 msgid "Support unit with several buffing abilities."
-msgstr ""
+msgstr "Podpůrná jednotka s několika posilujícími schopnosmi."
 
 #: simulation/templates/units/ordona/ordona_roughrider_b.xml:33
 msgid "Rough Rider"
-msgstr ""
+msgstr "Drsný Jezdec"
 
 #: simulation/templates/units/ordona/ordona_roughrider_b.xml:35
 msgid ""
@@ -11423,16 +11561,24 @@ msgid ""
 "particularly durable, they swing a ferocious axe in a fight and can deal some serious "
 "damage. When things are too tough they can easily retreat before it's too late."
 msgstr ""
+"Speciální batalión na koni jezdících nájezdníků založen Ilií krátce po Labrynnské invazi "
+"Ordonské Provincie. Drsní Jezdci tlačí na rychlost nad vše ostatní v naději být obtížnými "
+"cíly pro Labrynnský střelný prach. Jsou nejrychlejší jezdectvo na celém světě, a nic se jim "
+"v rychlosti nevyrovná. Přestože nejsou poměrně odolní, ohání se ostrou sekyrou v bitvě a "
+"jsou schopni způsobit vážné požkození. Pokud se situace obrátí proti nim, mohou se rychle "
+"stáhnout než je moc pozdě."
 
 #: simulation/templates/units/ordona/ordona_roughrider_b.xml:40
 msgid ""
 "Ilia's Unique Unit. Melee Cavalry unit armed with axes. The fastest Cavalry in all of "
 "Hyrule."
 msgstr ""
+"Jednotka kterou může verbovat pouze Ilie. Jezdecká jednotka ozbrojena sekyrou. "
+"Nejrychlejší jezdectvo na celém světě."
 
 #: simulation/templates/units/ordona/ordona_sergeant_b.xml:38
 msgid "Sergeant"
-msgstr ""
+msgstr "Seržant"
 
 #: simulation/templates/units/ordona/ordona_sergeant_b.xml:39
 msgid ""
@@ -11444,15 +11590,21 @@ msgid ""
 "swordplay (as well as to keep costs down), Sergeants were outfitted with easy-to-use "
 "spears."
 msgstr ""
+"Pocházející z rodin druhořadé majetnosti a prestiže, Seržanti jsou občané Ordonské "
+"Provincie nasazeni do armádní služby, ozbrojeni a posláni do zálohy dokud nedostanou "
+"rozkazy. Během většiny jejich času žijí své obvyklé životy, ale rychle opustí své úkony "
+"vezmou si zbraně a brnění a seřadí se do řad pokud povoláni. Trénink Seržantů byl "
+"lehký jako mezi většinou Ordoňanů, a aby ušetřili čas (a peníze) na učení šermu, "
+"Seržanti byli vybaveni lehce použitelným kopím."
 
 #: simulation/templates/units/ordona/ordona_sergeant_b.xml:43
 msgid "Melee unit wearing decent armor and armed with a spear."
-msgstr ""
+msgstr "Pěší jednotka s decentním brněním ozbrojena kopím."
 
 #: simulation/templates/units/ordona/ordona_shepherd_b.xml:27
 #: simulation/templates/units/ordona/ordona_shepherd_b.xml:33
 msgid "Shepherd"
-msgstr ""
+msgstr "Pastýř"
 
 #: simulation/templates/units/ordona/ordona_shepherd_b.xml:28
 msgid ""
@@ -11461,14 +11613,18 @@ msgid ""
 "nearly sacred to the people of the province. A Shepherd can summon a small flock of "
 "Ordonian goats that follow their leader around, attacking any enemies that come near."
 msgstr ""
+"Pastýři se starají o kozy domorodé v Ordoně. Poskytující maso a mléko a také sloužící "
+"jako tažná a válečná zvířata, Ordonské kozy jsou ceněny a skoro svaté lidu provincie. "
+"Pastýř je schopen povolat malé stádo Ordonských kozlů kteří následují svého vůdce, a "
+"útočí na nepřátele kteří se přiblíží."
 
 #: simulation/templates/units/ordona/ordona_shepherd_b.xml:34
 msgid "Support unit that summons herds of Attack Goats to swarm their enemies."
-msgstr ""
+msgstr "Porpůrná jednotka schopna povolat stády útočných kozlů."
 
 #: simulation/templates/units/ordona/ordona_siegeram_b.xml:43
 msgid "Battering Ram"
-msgstr ""
+msgstr "Beranidlo"
 
 #: simulation/templates/units/ordona/ordona_siegeram_b.xml:44
 msgid ""
@@ -11477,28 +11633,34 @@ msgid ""
 "Their capped roof makes them quite resistant to ranged attacks, forcing enemies to "
 "bombard them with fire or stop them in a melee."
 msgstr ""
+"Vytvořené z pevného Faronského dřeva a zahroceno velkou ocelovou kozlí hlavou, "
+"Beranidlo umožňovalo Ordoňanům se probít zdmi a bránami do chráněných míst. Jejich "
+"střecha je dělala poměrně odolné střeleckým útokům, což nutilo nepřátele je bombardovat "
+"ohněm nebo je zastavit v boji na blízko."
 
 #: simulation/templates/units/ordona/ordona_siegeram_b.xml:46
 msgid "Cheap Melee Siege unit that can bash down walls and gates."
-msgstr ""
+msgstr "Levná obléhací jednotka která proráží zdi a brány."
 
 #: simulation/templates/units/ordona/ordona_spiritgoat_b.xml:30
 msgid "Spirit Goat"
-msgstr ""
+msgstr "Spektrální Kozel"
 
 #: simulation/templates/units/ordona/ordona_spiritgoat_b.xml:31
 msgid ""
 "A mystical spirit of a long dead Elder Goat. It is said that the Spirit of Ordona will "
 "summon these beings to defend his lands in times of great peril."
 msgstr ""
+"Mystická duše dlouho mrtvého starého kozla. Říká se že Duše Ordony povolá tyto stvoření "
+"aby bránili jeho země během časů velkého nebezpečí."
 
 #: simulation/templates/units/ordona/ordona_spiritgoat_b.xml:35
 msgid "Spirit Creature unit that attacks enemies in close quarters."
-msgstr ""
+msgstr "Spektrální jednotka která útočí na nepřátele z blízka."
 
 #: simulation/templates/units/ordona/ordona_theresistance_b.xml:57
 msgid "The Resistance"
-msgstr ""
+msgstr "Odboj"
 
 #: simulation/templates/units/ordona/ordona_theresistance_b.xml:59
 msgid ""
@@ -11521,14 +11683,30 @@ msgid ""
 "he charted on his many ventures into the wilderness and currently maintains its many "
 "supply routes."
 msgstr ""
+"Jednotka kterou může verbovat pouze Ašej. Funguje jako extra hrdinská jednotka, skládající "
+"se z Auruho, Telmy, a Šada."
+"Kdysi Hyliánský Rytíř který sloužil v mnoha válkách, Auru byl osobní přítel Ašejina otce "
+"a první muž co se připojil k jeho Odboji. Po svém přijetí se rychle stal zásobovatelem "
+"skupiny, a využíval své mnohé konexe v Hyliánsku a mimo aby skupině přinášel brnění i "
+"zbraně. Po smrti Ašejina otce se stal neoficiálním vůdcem organizace než se samotná Ašej "
+"chopila moci. Dostal se k ručnímu dělu z Labrynny, a doufá že se mu podaří dostat více "
+"pokročilých zbraní v budoucnosti. "
+"Slavná pro svoji hospodu v Hradově, Telma je Hyliánka která pochází z Gerudské pokrevní "
+"linie a byla vychována na východní hranici pouště. Má mnohé konexe díky své hospodě, "
+"legální i nelegální, a poskytuje různé kontrakty a zdroje odboji. Není moc dobrá bojovnice, "
+"ale umí se bránit holí. "
+"Šad pochází z východní země Labrynnské, a je zkušený odborník a archaeologista. Putuje a "
+"prozkoumává různé zříceniny světa, a má zvláštní zájem o Nebešťany. Po tom co se stal členem "
+"odboje, poskytl nesčetné mapy tajných pasáží a dávno opuštěné cesty které zmapoval na svých "
+"mnohých cestách do divočiny a v současné době udržuje zásobovací trasy."
 
 #: simulation/templates/units/ordona/ordona_theresistance_b.xml:62
 msgid "A squad of secondary Support Heroes with multiple attacks and abilities."
-msgstr ""
+msgstr "Četa druhotných podpůrných hrdinů s několika útoky a schopnostmi."
 
 #: simulation/templates/units/ordona/ordona_titan_latoan.xml:81
 msgid "The Spirit of Ordona"
-msgstr ""
+msgstr "Duše Ordony]]"
 
 #: simulation/templates/units/ordona/ordona_titan_latoan.xml:82
 msgid ""
@@ -11542,18 +11720,19 @@ msgid ""
 "an eye, bring a healing rain forth from the sky, and summon a flock of ghostly goats to"
 " protect the borders of his land from enemies."
 msgstr ""
+"TBA"
 
 #: simulation/templates/units/ordona/ordona_titan_latoan.xml:85
 msgid "Latoan"
-msgstr ""
+msgstr "Ordona"
 
 #: simulation/templates/units/ordona/ordona_titan_latoan.xml:86
 msgid "Ordonian Titan unit. Giant Melee unit that is followed by a herd of Spirit Goats."
-msgstr ""
+msgstr "Ordonská Mýtická jednotka. Obří jednotka která je následována stádem Spektrálních Kozlů."
 
 #: simulation/templates/units/ordona/ordona_valiant_b.xml:33
 msgid "Valiant"
-msgstr ""
+msgstr "Chrabrý"
 
 #: simulation/templates/units/ordona/ordona_valiant_b.xml:35
 msgid ""
@@ -11564,16 +11743,23 @@ msgid ""
 " and enemy walls. They can also Camouflage into the wilderness, allowing them to set up"
 " ambushes."
 msgstr ""
+"Řád rytířů založen Ruslem, trénovaných k mnohem větší mnohoúčelnosti než většina těžce "
+"obrněných Hyliánských rytířů. Spolu s jednoduchým mečem a štítem, Chrabří jsou také vybaveni "
+"mnohými dalšími zvláštními nástroji a výbavou která jim dává navrch v divokých a drsných "
+"podmínkách, například jejich zakotvovací háky které jim umožňují přelézt útesy a nepřátelské "
+"zdi. Také mohou využít kamufláž v divočině, což jim umožňuje přepadávat nepřátele."
 
 #: simulation/templates/units/ordona/ordona_valiant_b.xml:40
 msgid ""
 "Rusl's Unique Unit. Medium Melee unit armed with a sword, they can climb over any "
 "terrain."
 msgstr ""
+"Jednotka kterou může verbovat pouze Rusl. Střední pěší jednotka ozbrojena mečem, "
+"ůže přelézt přes každý terén."
 
 #: simulation/templates/units/ordona/ordona_warwagon_b.xml:60
 msgid "War Wagon"
-msgstr ""
+msgstr "Válečný Vagón"
 
 #: simulation/templates/units/ordona/ordona_warwagon_b.xml:61
 msgid ""
@@ -11584,6 +11770,10 @@ msgid ""
 " order to drop off their combat load. Ranged units can also attack from the windows of "
 "the carriage, allowing War Wagons to become mobile attack platforms."
 msgstr ""
+"Většinou tyto kočáry sloužily jako transport, pro lidi i suroviny, ale ve válce byly "
+"konvertovány na nosiče které vezly vojáky přes rozlehlé Ordonské pláně. Válečné Vagóny "
+"mohly nést až šest vojáků a převézt je přes rychle přes velké úseky, což je dělalo "
+"ideální pro rychlý převoz armár za věže a obrany."
 
 #: simulation/templates/units/ordona/ordona_warwagon_b.xml:66
 msgid ""
