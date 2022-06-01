@@ -4525,7 +4525,7 @@ msgstr "Ökonomischer Held der auf einer Salamader Kriegsbestie reitet"
 
 #: simulation/templates/units/goron/goron_hero_medigoron.xml:43
 msgid "Brotherhood Leader"
-msgstr ""
+msgstr "Anführer der Bruderschaft"
 
 #: simulation/templates/units/goron/goron_hero_medigoron.xml:45
 msgid ""
@@ -4537,7 +4537,7 @@ msgstr ""
 
 #: simulation/templates/units/goron/goron_hero_medigoron.xml:49
 msgid "Medigoron"
-msgstr ""
+msgstr "Medigoron"
 
 #: simulation/templates/units/goron/goron_hero_medigoron.xml:50
 msgid "Melee Goron Hero with decent speed and very wide Splash Damage."
@@ -4557,7 +4557,7 @@ msgstr ""
 
 #: simulation/templates/units/goron/goron_patriarch_b.xml:45
 msgid "Patriarch"
-msgstr ""
+msgstr "Patriarch"
 
 #: simulation/templates/units/goron/goron_patriarch_b.xml:46
 msgid ""
@@ -4566,21 +4566,25 @@ msgid ""
 "Patriarch can turn the tide of battle by rallying his soldiers and keeping them in "
 "line."
 msgstr ""
+"Die Patriachren sind ältere Goronen, die schon lange trainieren und Armeen in die "
+"Schlacht führen. Es gibt keine besseren Kommandanten innerhalb der Bruderschaft,"
+"und ein einziger Patriarch kann das Blatt einer Schlacht wenden indem er seine "
+"Soldaten neugruppiert und in Formation bringt"
 
 #: simulation/templates/units/goron/goron_patriarch_b.xml:50
 msgid "Goron Commander unit that helps other Gorons fight better."
-msgstr ""
+msgstr "Goronen Kommandant die andere Goronen besser kämpfen lässt."
 
 #: simulation/templates/units/goron/goron_powderkegl.xml:4
 #: simulation/templates/units/goron/goron_powderkegl_common.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Powder Keg"
-msgstr ""
+msgstr "Pulverfass"
 
 #: simulation/templates/units/goron/goron_powderkegl.xml:58
 #: simulation/templates/units/goron/goron_powderkegl_common.xml:58
 msgid "Powder Keg Launcher"
-msgstr ""
+msgstr "Pulverfass Werfer"
 
 #: simulation/templates/units/goron/goron_powderkegl.xml:59
 #: simulation/templates/units/goron/goron_powderkegl_common.xml:59
@@ -4590,17 +4594,20 @@ msgid ""
 "fiery carnage. A battery of Powder Keg Launchers can reduce any city to smoking rubble "
 "with a consistent barrage. "
 msgstr ""
+"Die explosiven Pulverfässer haben genug Kraft um ganze Klippenzüge aufzusprengen. Wenn"
+"sie in die Mitte einer feindlichen Armee geworfen werde erzeugt die Explosion ein "
+"feuriges Gemetzel."
 
 #: simulation/templates/units/goron/goron_powderkegl.xml:61
 #: simulation/templates/units/goron/goron_powderkegl_common.xml:60
 msgid ""
 "Long ranged Siege unit with a powerful explosive attack that deals lots of Splash "
 "Damage."
-msgstr ""
+msgstr "Belagerungswaffe mit hoher Reichweite die viel Flächenschaden verursacht."
 
 #: simulation/templates/units/goron/goron_ram_b.xml:38
 msgid "Ram"
-msgstr ""
+msgstr "Rammer"
 
 #: simulation/templates/units/goron/goron_ram_b.xml:39
 msgid ""
@@ -4609,22 +4616,27 @@ msgid ""
 " into a bloody pulp. Their reckless power and inability to slow themselves down makes "
 "them exceptionally good at charging into enemies."
 msgstr ""
+"Diese massigen Behemoths sind im Grunde genommen lebende Belagerungswaffen. Ein Goronen"
+"Rammer kann Kopfnüsse und Schläge austeilen, die einen erwachsenen Mann durch die Luft"
+"schleudern und so ziemlich in blutige Matsch verwandeln. Ihre unbändige Kraft und  "
+"Unfähigkeit zu bremsen macht sie besonders gut in Feindliche Linien zu stürmen"
 
 #: simulation/templates/units/goron/goron_ram_b.xml:43
 msgid ""
 "Large Infantry Siege unit that can pulverize enemy buildings as well as engage units on"
 " the field."
 msgstr ""
+"Große Infanterie die feindliche Gebäude pulverisiert und Feinde in der Schlacht bekämpft"
 
 #: simulation/templates/units/goron/goron_rocktosser_b.xml:4
 #: simulation/templates/units/goron/goron_rocktosser_garrison.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Rocks"
-msgstr ""
+msgstr "Steine"
 
 #: simulation/templates/units/goron/goron_rocktosser_b.xml:43
 msgid "Rock Tosser"
-msgstr ""
+msgstr "Steinwerfer"
 
 #: simulation/templates/units/goron/goron_rocktosser_b.xml:44
 msgid ""
@@ -4632,16 +4644,20 @@ msgid ""
 "strength to hurl rocks at fast speeds at their enemies from a distance. A well-placed "
 "shot from a Rock Tosser can leave quite a dent in a knight's helm."
 msgstr ""
+"Die Steinwerfer bestehen aus den weniger schlachtreifen Mitgliedern der Goronen und "
+"nutzen ihre Kraft um Steine mit hoher Geschwindigkeit auf ihre Gegner zu schleudern."
+"Ein guter Wurf kann eine ordentliche Delle in einen Ritterhelm schlagen."
 
 #: simulation/templates/units/goron/goron_rocktosser_b.xml:48
 msgid ""
 "Light Missile unit that tosses rocks at enemies from a distance. Has a chance to deal "
 "Critical Hits."
 msgstr ""
+"Leichter Fernkämpfer der Steine wirft. Hat eine Chance kritische Treffer zu verursachen"
 
 #: simulation/templates/units/goron/goron_rubyguard_b.xml:33
 msgid "Ruby Guard"
-msgstr ""
+msgstr "Rubinwache"
 
 #: simulation/templates/units/goron/goron_rubyguard_b.xml:34
 msgid ""
@@ -4649,14 +4665,17 @@ msgid ""
 " enemy invasions. Despite their small size and slow speed by Goron standards, they are "
 "extremely durable and can take many blows from enemy weapons before falling in battle."
 msgstr ""
+"Mit einem Hammer und Schild bewaffnet, verteidigen die Rubinwachen Goronen Siedlungen"
+"gegen feindliche Invasionen. Trotz ihrer kleinen Größe und langsamen Gangart für Goronen"
+"Verhältnisse, sind sie extrem wiederstandsfähig und können viele Treffer einstecken."
 
 #: simulation/templates/units/goron/goron_rubyguard_b.xml:38
 msgid "Very durable and defensive Melee unit armed with a skull crushing hammer and shield."
-msgstr ""
+msgstr "Sehr wiederspenstige und defensiver Hammerkämpfer."
 
 #: simulation/templates/units/goron/goron_salamander_b.xml:52
 msgid "Salamander"
-msgstr ""
+msgstr "Salamander"
 
 #: simulation/templates/units/goron/goron_salamander_b.xml:53
 msgid ""
@@ -4665,48 +4684,60 @@ msgid ""
 "Salamanders to guard homes or other low-priority locations from enemies. Salamanders "
 "can breath a small burst of fire at close range against their enemies."
 msgstr ""
+"Eine kleinere und fügsamere Dodonge Brut, die von den Goronen schon seit langem gezähmt"
+"wird. So wie Wachhunde, werden die Salamder genutzt um Häuser oder andere niedrigrangige"
+"zu bewachen. Salamander haben einen kleinen Feueratem gegen Gegner auf kurze Distanz."
 
 #: simulation/templates/units/goron/goron_salamander_b.xml:57
 msgid "Small Melee Creature unit that deals Fire damage to enemies."
-msgstr ""
+msgstr "Kleine Kreatur die Feuerschaden verteilt."
 
 #: simulation/templates/units/goron/goron_salawagon_b.xml:45
 msgid "Salamander Wagon"
-msgstr ""
+msgstr "Salamander Wagen"
 
 #: simulation/templates/units/goron/goron_salawagon_b.xml:46
 msgid ""
 "Larger Salamanders are used by Gorons are beasts of burden, useful for hauling carts "
 "and supplies around the craggy terrain of their homeland. These wagons can also be used"
 " as platforms for up to four Goron ranged units in battle. "
-msgstr ""
+msgstr 
+"Größere Salamander wurden als Lasttiere verwendet um Karren und Vorräte durch das schroffe"
+"Land der Goronen zu transportieren. Diese Wagen konnten auch als Platform für Goronen"
+"Fernkämpfer verwendet werden"
 
 #: simulation/templates/units/goron/goron_salawagon_b.xml:51
 msgid ""
 "Cavalry Support unit that can transport other Goron units into battle. Ranged units can"
 " attack from the Wagon while garrisoned."
-msgstr ""
+msgstr "Unterstüzende Fernkämpfer der Kavallerie"
 
 #: simulation/templates/units/goron/goron_shieldbreaker_b.xml:42
 msgid "Shieldbreaker"
-msgstr ""
+msgstr "Schildberster"
 
 #: simulation/templates/units/goron/goron_shieldbreaker_b.xml:44
 msgid ""
 "Wearing a suit of armor and two powerful gauntlets, Shieldbreakers can build up and "
 "unleash a frightening level of force in a single punch. Their attack rate is quite "
 "slow, but a single punch can shatter just about any armor, and send enemies flying."
-msgstr ""
+msgstr "" 
+"Mit Panzerung und zwei mächtigen Kampfhandschuhen ausgerüstet, können die Schildberster"
+"eine ungeheure Kraft aufbauen mit nur einem Schlag entfesseln. Ihre Angriffsrate is recht"
+"langsam, aber ein einziger Schlag kann jede Rüstung zerschmettern und Gegner in die Luft"
+"befördern"
 
 #: simulation/templates/units/goron/goron_shieldbreaker_b.xml:49
 msgid ""
 "Dangoro's Unique Unit. Slow moving and powerful Melee unit that can send enemies flying"
 " and deal damage through armor."
 msgstr ""
+"Dangoros Einzigartige Einheit. Langsame aber mächtiger Nahkämpfer mit hohem Rückstoß und"
+"Panzer durchdringendem Schaden"
 
 #: simulation/templates/units/goron/goron_sumo_b.xml:37
 msgid "Sumo"
-msgstr ""
+msgstr "Sumo"
 
 #: simulation/templates/units/goron/goron_sumo_b.xml:38
 msgid ""
@@ -4716,22 +4747,27 @@ msgid ""
 "Since they lack any heavy armor or weapons, Sumos are able to curl up and roll at very "
 "fast speeds."
 msgstr ""
+"Als Champions des beliebten goronischen Ringkampfes, bringen diese massigen Schränke"
+""ihren gesamten Fähigkeiten in die Schlacht. Unerwartet gewandt für ihre Größe, können"
+"sie mit ihren Paraden und Griffen ihre überraschte Gegner ausschalten. Da sie keine "
+" Rüstung oder Waffen tragen, können Sumos sich einrollen und schnell davonmachen."
 
 #: simulation/templates/units/goron/goron_sumo_b.xml:42
 msgid "Large Melee unit that has a change to dodge enemy attacks. Can roll up to move rapidly."
 msgstr ""
+"Großer Nahkämpfer mit einer hohen Ausweichrate. Kann sich einrollen um schneller zu werden"
 
 #: simulation/templates/units/goron/goron_sumo_b.xml:83
 msgid "Enter Rolling mode. (+Movement Speed, but no Line-of-Sight and Attack)"
-msgstr ""
+msgstr "Einrollen"
 
 #: simulation/templates/units/goron/goron_sumo_roll.xml:20
 msgid "Rolling Sumo"
-msgstr ""
+msgstr "Rollender Sumo"
 
 #: simulation/templates/units/goron/goron_titan_biggoron.xml:70
 msgid "Legendary Smithy"
-msgstr ""
+msgstr "Legendärer Schmied"
 
 #: simulation/templates/units/goron/goron_titan_biggoron.xml:71
 msgid ""
@@ -4742,23 +4778,29 @@ msgid ""
 "weapons and bloodshed, Biggoron is a pacifist at heart, and creates his work for the "
 "sake of art and self-defense."
 msgstr ""
+"Vermutlich der der größte Gorone seit der Geschichtsschreibung. Biggoron lebt ein einsames"
+"Leben am Gipfel des Todesberges. Dor verbringt er die meiste Zeit damit die Raffinerie von"
+"Metallen zu perfektionieren. Seine Arbeit ist die Schmiedebasis für ein paar der stärksten "
+"Goronen Panzer und Waffen. Obwohl sein Name mit Kriegsgerät und Blutvergiessen in Verbindung"
+"gebracht wird so ist Biggoron ein Pazifist im Herzen und schafft seine Arbeit für die Kunst"
+"an sich und zur Selbstverteidigung"
 
 #: simulation/templates/units/goron/goron_titan_biggoron.xml:74
 msgid "Biggoron"
-msgstr ""
+msgstr "Biggoron"
 
 #: simulation/templates/units/goron/goron_titan_biggoron.xml:75
 msgid "Goron Titan unit. Giant Siege unit capable of destroying fortifications with ease."
-msgstr ""
+msgstr "Goronen Titan. Riesige Belagerungseinheit"
 
 #: simulation/templates/units/goron/goron_tribalmonk_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Spade"
-msgstr ""
+msgstr "Spaten"
 
 #: simulation/templates/units/goron/goron_tribalmonk_b.xml:43
 msgid "Tribal Monk"
-msgstr ""
+msgstr "Wilder Mönch"
 
 #: simulation/templates/units/goron/goron_tribalmonk_b.xml:45
 msgid ""
