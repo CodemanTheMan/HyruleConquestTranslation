@@ -4810,16 +4810,23 @@ msgid ""
 "with a metal spade, Tribal Monks have a very long reach for their size. Years of "
 "meditation have given them the ability to regenerate health."
 msgstr ""
+"Wilde Mönche sind isolierte Sekten von Goronen die sich in zurückgelegenen Klöstern "
+"des Todesgebirge verstecken. Falls die Goronen von einem größeren Krieg bedroht werden."
+"graben sie sich en masse aus um ihre Bergige Heimat zu verteidigen. Mit einem "
+"Metalspaten bewaffnet, haben die Wilden Mönche einen große Reichweite für ihre Größe."
+"Jahre der Meditiation gab ihnen die Fähigkeit sich zu heilen."
 
 #: simulation/templates/units/goron/goron_tribalmonk_b.xml:50
 msgid ""
 "Daruk's Unique Unit. Infantry Melee unit with long reach that can regenerate from "
 "damage while idle."
 msgstr ""
+"Daruks Einzigartige Einheit. Infanterie mit langer Reichweite die sich regeneriert "
+"wenn sie still steht."
 
 #: simulation/templates/units/goron/goron_warsalamander_b.xml:52
 msgid "Salamander Warbeast"
-msgstr ""
+msgstr "Salamander Kriegsbiest"
 
 #: simulation/templates/units/goron/goron_warsalamander_b.xml:53
 msgid ""
@@ -4828,10 +4835,14 @@ msgid ""
 "distance at their targets. A group of these creatures can burn down enemy buildings and"
 " defensive emplacements."
 msgstr ""
+"Diese großen und miesgelaunten Salamder der werden für schwere Feuergefechte eingestzt"
+"gegen Feinde der Goronen eingesetzt. Sie sind fähig einen großen Feuerball über große "
+"Distanzen zu spucken. Eine Gruppe dieser Kreaturen kann Gebäude und Befestigungen"
+"des Feindes niederbrennen"
 
 #: simulation/templates/units/goron/goron_warsalamander_b.xml:58
 msgid "Large Creature unit with a ranged Fire attack."
-msgstr ""
+msgstr "Große Kreatur mit einer Feuerigen Distanzangriff"
 
 #: simulation/templates/units/goron_trader_b.xml:9
 msgid "Retailer"
@@ -4849,48 +4860,48 @@ msgstr ""
 #: simulation/templates/units/hylian/hylian_M_childA.xml:14
 #: simulation/templates/units/hylian/hylian_M_civilianA.xml:14
 msgid "Civilian"
-msgstr ""
+msgstr "Zivilist"
 
 #: simulation/templates/units/hylian/hylian_F_childA.xml:15
 #: simulation/templates/units/hylian/hylian_F_childA.xml:20
 #: simulation/templates/units/hylian/hylian_M_childA.xml:15
 #: simulation/templates/units/hylian/hylian_M_childA.xml:20
 msgid "A Child from the Kingdom of Hyrule."
-msgstr ""
+msgstr "Ein Kind des Königreich Hyrule"
 
 #: simulation/templates/units/hylian/hylian_F_childA.xml:19
 #: simulation/templates/units/hylian/hylian_M_childA.xml:19
 msgid "Hylian Child"
-msgstr ""
+msgstr "Hylianer Kind"
 
 #: simulation/templates/units/hylian/hylian_F_childA.xml:21
 #: simulation/templates/units/hylian/hylian_F_civilianA.xml:21
 #: simulation/templates/units/hylian/hylian_M_childA.xml:21
 #: simulation/templates/units/hylian/hylian_M_civilianA.xml:21
 msgid "Citizen"
-msgstr ""
+msgstr "Bürger"
 
 #: simulation/templates/units/hylian/hylian_F_civilianA.xml:15
 #: simulation/templates/units/hylian/hylian_F_civilianA.xml:20
 #: simulation/templates/units/hylian/hylian_M_civilianA.xml:15
 #: simulation/templates/units/hylian/hylian_M_civilianA.xml:20
 msgid "A Civilian from the Kingdom of Hyrule."
-msgstr ""
+msgstr "Ein Zivilist des Königreichs Hyrule"
 
 #: simulation/templates/units/hylian/hylian_F_civilianA.xml:19
 #: simulation/templates/units/hylian/hylian_M_civilianA.xml:19
 msgid "Hylian Civilian"
-msgstr ""
+msgstr "Hylianischer Zivilist"
 
 #: simulation/templates/units/hylian/hylian_acolyte_b.xml:4
 #: simulation/templates/units/hylian/hylian_magecaptain_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Magic Sword"
-msgstr ""
+msgstr "Magisches Schwert"
 
 #: simulation/templates/units/hylian/hylian_acolyte_b.xml:41
 msgid "Acolyte"
-msgstr ""
+msgstr "Akolyth"
 
 #: simulation/templates/units/hylian/hylian_acolyte_b.xml:43
 msgid ""
@@ -4899,16 +4910,20 @@ msgid ""
 "entirely understand the powers their wield. When at their full potential these Acolytes"
 " can incinerate enemies with their magic swords."
 msgstr ""
+"Junge Magier die in die Lehre von Lana fielen und die Magie lernten die sie von Pyromagi"
+"erlernte. Diese Soldaten sind etwas leichtsinnig, da sie wie Lana die Macht in ihren "
+"Händen nicht ganz verstehen. In ihrer Höchstform können die Akolythen Feinde mit ihren"
+"magischen SChwertern einäschern."
 
 #: simulation/templates/units/hylian/hylian_acolyte_b.xml:48
 msgid ""
 "Melee Mage unit that can attack with magic from a distance so long as she has full "
 "health."
-msgstr ""
+msgstr "Nahkampfmagier, der einem Fernkampfangriff hat so lange er volle Leben hat"
 
 #: simulation/templates/units/hylian/hylian_captain_b.xml:42
 msgid "Captain"
-msgstr ""
+msgstr "Hauptmann"
 
 #: simulation/templates/units/hylian/hylian_captain_b.xml:43
 msgid ""
@@ -4916,14 +4931,17 @@ msgid ""
 "field of the battle. Their bravery often inspired other soldiers, and their fall in "
 "battle was considered a great loss."
 msgstr ""
+"Hylianische Hauptmänner waren Ritter mit Ehrfahrung ganze Armeen in der Schlacht zu "
+"kommandieren. Ihr Mut inspirierte oft andere Soldaten und ihr vorzeitiges Ableben war "
+"ein großer Verlust."
 
 #: simulation/templates/units/hylian/hylian_captain_b.xml:47
 msgid "Heavily armored Infantry Commander unit. Leads other Hylians into battle."
-msgstr ""
+msgstr "Schwerer Infanterie Kommandant."
 
 #: simulation/templates/units/hylian/hylian_championknight_b.xml:49
 msgid "Champion Knight"
-msgstr ""
+msgstr "Champion Ritter"
 
 #: simulation/templates/units/hylian/hylian_championknight_b.xml:51
 msgid ""
@@ -4931,16 +4949,20 @@ msgid ""
 "Ancient Hylians and command great bravery and courage in battle. They dramatically "
 "improve the performance of all Infantry under their command."
 msgstr ""
+"Trainiert von dem letzten Erben Gustafs, zeigen diese Ritter die okkulten Künste"
+"der antiken Hylianer und beweisen grossen Mut Tapferkeit in Kampf. "
 
 #: simulation/templates/units/hylian/hylian_championknight_b.xml:56
 msgid ""
 "Link's Unique Unit. Extremely powerful infantry unit that is immune to Knockback and "
 "inflicts bonus damage against large creature units and commanders."
 msgstr ""
+"Links einzigartige Einheit. Diese mächtige Infanterie ist immun gegen Rückstoß und "
+"verursacht Bonusschaden gegen Große Kreaturen und Kommandanten."
 
 #: simulation/templates/units/hylian/hylian_citizenA.xml:62
 msgid "Hylian Citizen"
-msgstr ""
+msgstr "Hlianischer Bürger"
 
 #: simulation/templates/units/hylian/hylian_citizenA.xml:63
 msgid ""
@@ -4957,7 +4979,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_crossbowman_b.xml:44
 msgid "Kingdom Crossbowman"
-msgstr ""
+msgstr "Königlicher armbrustschütze"
 
 #: simulation/templates/units/hylian/hylian_crossbowman_b.xml:45
 msgid ""
@@ -4966,22 +4988,26 @@ msgid ""
 "ranged arsenal. Much like the Kingdom Infantry, these soldiers are funded by the "
 "governmental forces of Hyrule and are provided basic training and gear."
 msgstr ""
+"Auch wenn traditionelles Bogenschießen ein populärer Sport in der Geschichte des "
+"Königreiches war, so bevorzugte das Militär billige und einfach zu benutzende Armbrüste."
+"Wie die königliche Infanterie, wurden diese Soldaten mit staatlichen Mitteln finanziert"
+"und ihnen grundlegendes Training und Ausrüstung zur Verfügung gestellt."
 
 #: simulation/templates/units/hylian/hylian_crossbowman_b.xml:50
 msgid "Slow firing but powerful armor piercing ranged unit."
-msgstr ""
+msgstr "Langsam feuernder aber mächtiger panzerdurchdringender Fernkämpfer"
 
 #: simulation/templates/units/hylian/hylian_cuccogirl_b.xml:4
 msgid "Cucco Girl"
-msgstr ""
+msgstr "Hühner Mädchen."
 
 #: simulation/templates/units/hylian/hylian_cuccogirl_b.xml:7
 msgid "."
-msgstr ""
+msgstr "."
 
 #: simulation/templates/units/hylian/hylian_deacon_b.xml:35
 msgid "Goddess Deacon"
-msgstr ""
+msgstr "Diakonin der Göttinnnen"
 
 #: simulation/templates/units/hylian/hylian_deacon_b.xml:36
 #: simulation/templates/units/hylian/hylian_priestess_b.xml:15
@@ -4991,11 +5017,15 @@ msgid ""
 "alongside Hyrule's soldiers to chant various psalms and incantations from among the "
 "holy texts, improving the performance of their allies in battle."
 msgstr ""
+"Mitglieder von Hyrules Klerus, wandeln sie in Grenzgebiete Hyrules um die Doktrin der "
+"Göttinnen zu verbreiten. Während eines Krieges marschieren sie mit den Soldaten Hyrules"
+"um verschiedne Psalme und Beschwörungen aus den heiligen Texten zu singen" und damit"
+"ihre verbündeten zu stärken."
 
 #: simulation/templates/units/hylian/hylian_deacon_b.xml:40
 #: simulation/templates/units/hylian/hylian_priestess_b.xml:18
 msgid "Support unit with many aiding abilities."
-msgstr ""
+msgstr "Unterstützungseinhei mit verschiedenen Fähigkeiten"
 
 #: simulation/templates/units/hylian/hylian_hero_kazakk.xml:39
 msgid "King of Hyrule"
@@ -5018,7 +5048,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_hero_krin.xml:34
 msgid "Royal Captain"
-msgstr ""
+msgstr "Königlicher Hauptmann"
 
 #: simulation/templates/units/hylian/hylian_hero_krin.xml:36
 msgid ""
@@ -5026,23 +5056,26 @@ msgid ""
 " pilgrimages and later Princess Zelda after her ascent to the throne. In truth he "
 "followed Rauru to converse with his Deacon, Seres."
 msgstr ""
+"Aus dem Hause Arcd stammend diente Hauptmann Krin schon lange als ein Leibwächter Raurus"
+"auf seinen Pilgerfahrten und später Prinzessin Zelda nachdem sie den Thron bestieg."
+"Der whre Grund warum er Rauru folgte war um mit seiner Diakonin Seres zu unterhalten"
 
 #: simulation/templates/units/hylian/hylian_hero_krin.xml:40
 msgid "Captain Krin"
-msgstr ""
+msgstr "Hauptmann Krin"
 
 #: simulation/templates/units/hylian/hylian_hero_krin.xml:41
 msgid "Melee Hero that participates with fellow soldiers and boosts their performance."
-msgstr ""
+msgstr "Nahkampf Held der mit seinen Soldaten kämpft und sie stärkt."
 
 #: simulation/templates/units/hylian/hylian_hero_lana.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Cane of Byrna"
-msgstr ""
+msgstr "Byrna Stab"
 
 #: simulation/templates/units/hylian/hylian_hero_lana.xml:59
 msgid "The White Mage"
-msgstr ""
+msgstr "Die weiße Magierin"
 
 #: simulation/templates/units/hylian/hylian_hero_lana.xml:61
 msgid ""
@@ -5052,23 +5085,28 @@ msgid ""
 "loyaties to the crown and Hyrule are not in question, many including Rauru feel her "
 "immense powers are more than enough for her to control."
 msgstr ""
+"Lana, eine junge Frau deren Herkunft bis nach Calatia zurückführbar ist wurde als Diakonin"
+"von Rauru ausgebildet. Mit ihrer bescheidenen Klerus Rolle unzufrieden studierte Lana etwas"
+"esoterischere Magie im geheimen mit der Hilfe der zwielichtigen Pyromagi in Byrna. Auch wenn"
+"ihre Loyalität zu der Krone und Hyrule nicht in Frage stellen, denken viele, Rauru inklusive"
+"das ihre immensen Kräfte mehr als genug für sie zum befehligen sind"
 
 #: simulation/templates/units/hylian/hylian_hero_lana.xml:65
 msgid "Lana"
-msgstr ""
+msgstr "Lana"
 
 #: simulation/templates/units/hylian/hylian_hero_lana.xml:66
 msgid "Melee Mage Hero that can push enemies with her cane and summon protective magics."
-msgstr ""
+msgstr "Nahkampmgierin die Gegner mit ihrem Stab wegschiebt und Schutzmagie"
 
 #: simulation/templates/units/hylian/hylian_hero_link.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Master Sword"
-msgstr ""
+msgstr "Meisterschwert"
 
 #: simulation/templates/units/hylian/hylian_hero_link.xml:49
 msgid "Heir of King Gustaf"
-msgstr ""
+msgstr "Erbe von König Gustaf"
 
 #: simulation/templates/units/hylian/hylian_hero_link.xml:51
 msgid ""
@@ -5076,26 +5114,30 @@ msgid ""
 " warrior amongst the Order of the Wizzrobe. With knowledge of both martial skill and "
 "arcane powers, he trains and leads Hyrule's Knights into battle."
 msgstr ""
+"Der letzter Überlebende der Blutline ersten Königs von Hyrule.Als Krieger aufgezogen durch"
+"den Orden der Pyromagi trainiert und führtLink mit Wissen über den Kampf und Arkane Fähigkeiten"
+"die Ritter von Hyrule an"
 
 #: simulation/templates/units/hylian/hylian_hero_link.xml:55
 msgid "Link"
-msgstr ""
+msgstr "Link"
 
 #: simulation/templates/units/hylian/hylian_hero_link.xml:56
 msgid ""
 "Swift and powerful Melee Hero that attacks with his sword and defends with his shield. "
 "Effective against Heroes, Commanders, Monsters in particular."
-msgstr ""
+msgstr "Geschickter und mächtiger Nahkampfheld mit Schwert und Schild. Effektiv gegen "
+"Helden, Kommandanten und Monster im besonderem."
 
 #: simulation/templates/units/hylian/hylian_hero_rauru.xml:4
 #: simulation/templates/units/hylian/hylian_vanguard_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Holy Mace"
-msgstr ""
+msgstr "Heiliger Kolben"
 
 #: simulation/templates/units/hylian/hylian_hero_rauru.xml:42
 msgid "Sage of Light"
-msgstr ""
+msgstr "Weise des Lichts"
 
 #: simulation/templates/units/hylian/hylian_hero_rauru.xml:44
 msgid ""
@@ -5103,20 +5145,24 @@ msgid ""
 "and has long defended the Kingdom of Hyrule. An adviser to Princess Zelda, he is "
 "entrusted with detecting and forewarning of supernatural threats against the Kingdom."
 msgstr ""
+"Der unsterbliche Weise des Lichts und Architekt des Tempels der Zeit, Rauru, ist Jahrhunderte" 
+"alt und hat das Königreich schon lange verteidigt. Als Berater für Prinzessin Zelda ist er"
+"damit beuftragt übernatürliche Gefahren für das Königreich zu erkennen und zu warnen."
 
 #: simulation/templates/units/hylian/hylian_hero_rauru.xml:48
 msgid "Rauru"
-msgstr ""
+msgstr "Rauru"
 
 #: simulation/templates/units/hylian/hylian_hero_rauru.xml:49
 msgid ""
 "Durable and Defensive Melee Hero armed with a helm crushing Mace. Resistant to all "
 "forms of Magic Damage."
-msgstr ""
+msgstr "Wiederspenstiger und defensiver Nahkampfheld der mit einem Helmschmetterndem"
+"Streitkolben. Resistent gegen alleArten der Magie.
 
 #: simulation/templates/units/hylian/hylian_hero_seres.xml:28
 msgid "Deacon"
-msgstr ""
+msgstr "Diakonin"
 
 #: simulation/templates/units/hylian/hylian_hero_seres.xml:30
 msgid ""
@@ -5124,23 +5170,26 @@ msgid ""
 "been his favorite pupil. Seres was trained in healing, though she has devoted much of "
 "her time to collecting tomes and historical documents for archiving."
 msgstr ""
+"Eine Diakonin die im Norden von Hyrule Stadt aufwuchs. Seres dient Rauru schon lange"
+"und ist seine Lieblingsschülerin.Sie ist in der Heilkunst ausgebildet doch verbringt"
+"ihre Zeit häufig mit dem Sammeln von Büchern und historischen Dokumenten zur Archivierung"
 
 #: simulation/templates/units/hylian/hylian_hero_seres.xml:34
 msgid "Seres"
-msgstr ""
+msgstr "Seres"
 
 #: simulation/templates/units/hylian/hylian_hero_seres.xml:35
 msgid "Support Hero that can heal the injuries of fellow allies."
-msgstr ""
+msgstr "Unterstützungsheldin die Wunden Verbündeter heilt"
 
 #: simulation/templates/units/hylian/hylian_hero_zeldaV.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Royal Estoc"
-msgstr ""
+msgstr "Königliche Panzerstecher"
 
 #: simulation/templates/units/hylian/hylian_hero_zeldaV.xml:39
 msgid "Princess of Hyrule"
-msgstr ""
+msgstr "Prinzessin von Hyrule"
 
 #: simulation/templates/units/hylian/hylian_hero_zeldaV.xml:41
 msgid ""
@@ -5148,16 +5197,20 @@ msgid ""
 "the power of Prophecy, the Princess can foresee events both small and large in her "
 "dreams."
 msgstr ""
+"Die Kronprinzessin von Hyrule und die fünfte Frau die den Namen Zelda trägt."
+"Mit der Gabe der Prophezeihung kann die Prinzessin kleine und große Ereignisse"
+"in ihren Träumen vorhersehen."
 
 #: simulation/templates/units/hylian/hylian_hero_zeldaV.xml:45
 msgid "Tetralyna Zelda V"
-msgstr ""
+msgstr "Tetralyna Zelda V"
 
 #: simulation/templates/units/hylian/hylian_hero_zeldaV.xml:46
 msgid ""
 "A strong Missile Hero armed with a Bow and Light Arrows. She can defend herself with "
 "two Rapiers if forced into close combat."
-msgstr ""
+msgstr "Starke Fernkämpferin mit Bogen und Lichtpfeilen. Sie kann sicc mit ihren zwei Rapieren"
+"verteidigen wenn sie in den Nahkampf gezwungen wird."
 
 #: simulation/templates/units/hylian/hylian_kingdom_cavalry.xml:24
 msgid "Kingdom Cavalry"
@@ -5176,12 +5229,12 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_kingdom_cavalry.xml:29
 msgid "Heavy armored cavalry unit armed with a flail."
-msgstr ""
+msgstr "Schwer gepanzerte Kavallerie mit einem Flegel ausgestattet. "
 
 #: simulation/templates/units/hylian/hylian_kingdom_maceman.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Flail"
-msgstr ""
+msgstr "Dreschflegel"
 
 #: simulation/templates/units/hylian/hylian_kingdom_maceman.xml:20
 msgid "Kingdom Maceman"
