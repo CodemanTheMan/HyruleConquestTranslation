@@ -11780,10 +11780,11 @@ msgid ""
 "Cavalry Support unit that can transport other units to battle. Ranged units can attack "
 "from the Wagon while garrisoned."
 msgstr ""
+"Podpůrná jezdecká jednotka schopná transportovat jiné jednotky do bitvy."
 
 #: simulation/templates/units/ordona/ordona_yeoman_b.xml:38
 msgid "Yeoman"
-msgstr ""
+msgstr "Sedlák"
 
 #: simulation/templates/units/ordona/ordona_yeoman_b.xml:39
 msgid ""
@@ -11794,10 +11795,15 @@ msgid ""
 " match enemy cavalry. Like all of Ordona's goat cavalry, the Yeoman can climb over "
 "mountainous terrain."
 msgstr ""
+"Sedláci byly hlavy Ordonských domácností, často s několika rodinami farmářů pod nimi. "
+"Přestože byli o trochu majetnější než jejich pracovníci, stále odpovídali jejich lennímu "
+"pánu a byli odvedeni do povinné armádní služby. Sedláci často jezdili na rodinném kozlu, "
+"a nesli s sebou kopí aby se vyrovnali nepřátelskému jezdectvu. Jako vše kozlí jezdectvo, "
+"Sedláci mohou překročit horský povrch."
 
 #: simulation/templates/units/ordona/ordona_yeoman_b.xml:44
 msgid "Light Melee Cavalry unit armed with a spear, ideal for attacking other Cavalry units."
-msgstr ""
+msgstr "Lehká jezdecká jednotka ozbrojena kopím, ideální na útok proti jinému jezdectvu."
 
 #: simulation/templates/units/ordona_trader_b.xml:8
 msgid "Salesman"
@@ -11868,15 +11874,20 @@ msgid ""
 "Bottlenose. The few Arwing X-02's that were built were bought by James McCloud and were"
 " made famous by the Star Fox Team."
 msgstr ""
+"Model II Arwingu byl zažádán Kornerijskou Armádou a vytvořen společností Arspace "
+"Dynamics jako potentiání náhrada stíhačky AL1 Tursiops. Přestože stíhačka překonala vše "
+"očekávání, Kornerijská Armáda od projektu ustoupila ve prospěch AL2 Tursiopse. Pár "
+"Arwingů X-02 které byly vyrobeny odkoupil James McCloud a proslavil je se svým týmem "
+"Star Fox."
 
 #: simulation/templates/units/sheikah/sheikah_assassin_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Daggers"
-msgstr ""
+msgstr "Dýky"
 
 #: simulation/templates/units/sheikah/sheikah_assassin_b.xml:44
 msgid "Assassin"
-msgstr ""
+msgstr "Vrah"
 
 #: simulation/templates/units/sheikah/sheikah_assassin_b.xml:45
 msgid ""
