@@ -5102,7 +5102,7 @@ msgstr "Nahkampmgierin die Gegner mit ihrem Stab wegschiebt und Schutzmagie"
 #: simulation/templates/units/hylian/hylian_hero_link.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Master Sword"
-msgstr "Meisterschwert"
+msgstr "Masterschwert"
 
 #: simulation/templates/units/hylian/hylian_hero_link.xml:49
 msgid "Heir of King Gustaf"
@@ -5238,7 +5238,7 @@ msgstr "Dreschflegel"
 
 #: simulation/templates/units/hylian/hylian_kingdom_maceman.xml:20
 msgid "Kingdom Maceman"
-msgstr ""
+msgstr "Königlicher Kolbenträger"
 
 #: simulation/templates/units/hylian/hylian_kingdom_maceman.xml:21
 #: simulation/templates/units/hylian/hylian_levy_maceman.xml:36
@@ -5249,14 +5249,18 @@ msgid ""
 "lack experience and notable armor, they can cause quite a dent in enemy armor with "
 "their blunt weapons."
 msgstr ""
+"Rekrutiert während Kriegszeiten aus ihren Dörfern und Städten, wurden diesen Rekruten"
+"ein einfacher Schild und Kolben gegeben um die Armeen von Hyrule zu Schützen und Stärken."
+"Auch wennn s ihnen an Erfahrung und Rüstung mangelte, konnten sie selber ordentliche"
+"Dellen in feindliche rüstung mit ihren stumpfen Waffen schlagen."
 
 #: simulation/templates/units/hylian/hylian_kingdom_maceman.xml:24
 msgid "Heavy unit armed with a flail and shield. Deals Crushing damage."
-msgstr ""
+msgstr "Schwere Einheit mit Flegel und Schild"
 
 #: simulation/templates/units/hylian/hylian_kingdom_spearman.xml:30
 msgid "Kingdom Spearman"
-msgstr ""
+msgstr "Königlicher Lanzenträger"
 
 #: simulation/templates/units/hylian/hylian_kingdom_spearman.xml:31
 #: simulation/templates/units/hylian/hylian_levy_spearman.xml:41
