@@ -3426,7 +3426,7 @@ msgstr "Feuer und Eis Magie"
 
 #: simulation/templates/units/gerudo/gerudo_titan_twinrova.xml:74
 msgid "The Sorceress Sisters"
-msgstr "Hollische Hexenarmada"
+msgstr "Höllische Hexenarmada"
 
 #: simulation/templates/units/gerudo/gerudo_titan_twinrova.xml:75
 msgid ""
@@ -5297,7 +5297,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_knightofhyrule_b.xml:36
 msgid "Knight of Hyrule"
-msgstr ""
+msgstr "Ritter von Hyrule"
 
 #: simulation/templates/units/hylian/hylian_levy_archer.xml:44
 msgid "Levy Archer"
@@ -5369,11 +5369,11 @@ msgstr ""
 #: simulation/templates/units/hylian/hylian_lightarrow_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Light Arrows"
-msgstr ""
+msgstr "Lichtpfeile"
 
 #: simulation/templates/units/hylian/hylian_lightarrow_b.xml:63
 msgid "Light Arrow Archer"
-msgstr ""
+msgstr "Lichtbogenschützin"
 
 #: simulation/templates/units/hylian/hylian_lightarrow_b.xml:65
 msgid ""
@@ -5381,32 +5381,39 @@ msgid ""
 "These powerful projectiles can blind their victims with a flash of light, as well as "
 "destroy Shadow enemies with ease."
 msgstr ""
+"Ein Orden von Bogenschützen,der das Geheimnis wahrt die mystischen Lichtpfeile zu schaffen."
+"Diese mächtigen Projektile blenden ihre Opfer in einem Lichtblitz und merzen Geschöpfe der"
+"Schatten problemlos aus"
 
 #: simulation/templates/units/hylian/hylian_lightarrow_b.xml:70
 msgid ""
 "Princess Zelda's Unique Unit. Long range archer unit that deals magic Light damage as "
 "well as stuns enemies."
-msgstr ""
+msgstr "Prinzessin Zeldas einzigartige Einheit. Bogenschützin mit hoher Reichweite die"
+"Lichtschaden und Betäubung verursacht."
 
 #: simulation/templates/units/hylian/hylian_magecaptain_b.xml:49
 msgid "Mage Captain"
-msgstr ""
+msgstr "Hauptmagierin"
 
 #: simulation/templates/units/hylian/hylian_magecaptain_b.xml:51
 msgid ""
 "Lana's most poweful and truested soldiers, she used these Captains to replace those of "
 "the Hylian army during her brief takeover of the Kingdom."
 msgstr ""
+"Lana mächtigste und vertrautesten Soldatinnen. Sie nutze die Kommandanten um die der "
+"Hyöianischen Armee zu ersetzen während ihrer kurzen Übernahme des Königreiches."
 
 #: simulation/templates/units/hylian/hylian_magecaptain_b.xml:56
 msgid ""
 "Commander unit that can attack with magic from a distance so long as she has full "
 "health."
 msgstr ""
+"Kommandantin die auf distanz mit Magie angreifen kann solange sie volle Leben hat."
 
 #: simulation/templates/units/hylian/hylian_priestess_b.xml:14
 msgid "Goddess Priestess"
-msgstr ""
+msgstr "Priesterin der Göttinnen"
 
 #: simulation/templates/units/hylian/hylian_redlion_b.xml:40
 msgid "Knight of the Red Lion"
@@ -5428,7 +5435,7 @@ msgstr ""
 #: simulation/templates/units/hylian/hylian_scorpio_b.xml:54
 #: simulation/templates/units/hylian/hylian_scorpio_garrison.xml:54
 msgid "Scorpio"
-msgstr ""
+msgstr "Skorpion"
 
 #: simulation/templates/units/hylian/hylian_scorpio_b.xml:55
 #: simulation/templates/units/hylian/hylian_scorpio_garrison.xml:55
@@ -5438,6 +5445,9 @@ msgid ""
 "force that they can impale almost a dozen men at a time and pierce all but the "
 "strongest of gates."
 msgstr ""
+"Geniale Kontraptionen die mit Magazinen von Armbrustbolzen geladen und dann schnell auf"
+"feindliche Formationen abgefeurt werden kann. Die Bolzen werden mit so einer Wucht abgefeuert"
+"Das sie fast ein Dutzend Männer auf einmal aufspießen und fast alle Tore durchdringen. können"
 
 #: simulation/templates/units/hylian/hylian_scorpio_b.xml:58
 #: simulation/templates/units/hylian/hylian_scorpio_garrison.xml:58
@@ -5445,14 +5455,15 @@ msgid ""
 "Large and slow moving ranged unit that deals Piercing linear Splash Damage. Takes a few"
 " moments to unpack and repack."
 msgstr ""
+"Große und langsame Distanzwaffe die lineare stich Flächenschaden verursacht
 
 #: simulation/templates/units/hylian/hylian_scout_cavalry.xml:33
 msgid "Scout Cavalry"
-msgstr ""
+msgstr "Spähercavallerie"
 
 #: simulation/templates/units/hylian/hylian_siegeram_b.xml:35
 msgid "Siege Ram"
-msgstr ""
+msgstr "Belagerungsramm"
 
 #: simulation/templates/units/hylian/hylian_siegeram_b.xml:36
 msgid ""
@@ -5467,11 +5478,11 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_soldier_archer.xml:41
 msgid "Soldier Archer"
-msgstr ""
+msgstr "Soldaten Bogenschütze
 
 #: simulation/templates/units/hylian/hylian_soldier_cavalry.xml:24
 msgid "Soldier Cavalry"
-msgstr ""
+msgstr "Soldaten Kavallerie
 
 #: simulation/templates/units/hylian/hylian_soldier_cavalry.xml:29
 msgid "Medium armored cavalry unit armed with a mace."
@@ -5479,7 +5490,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_soldier_maceman.xml:20
 msgid "Soldier Maceman"
-msgstr ""
+msgstr "Soldaten Kolbenträger
 
 #: simulation/templates/units/hylian/hylian_soldier_maceman.xml:24
 msgid "Medium unit armed with a mace and shield. Deals Crushing damage."
@@ -5487,7 +5498,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_soldier_spearman.xml:39
 msgid "Soldier Spearman"
-msgstr ""
+msgstr "Soldaten Lanzenträger
 
 #: simulation/templates/units/hylian/hylian_soldier_spearman.xml:43
 msgid "Medium unit armed with a spear and shield. Deals Piercing damage."
@@ -5495,7 +5506,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_soldier_swordsman.xml:24
 msgid "Soldier Swordsman"
-msgstr ""
+msgstr "Soldaten Schwertträger
 
 #: simulation/templates/units/hylian/hylian_soldier_swordsman.xml:28
 msgid "Medium unit armed with a sword and shield. Deals Hacking damage."
@@ -5505,11 +5516,11 @@ msgstr ""
 #: simulation/templates/units/moblin/moblin_hero_ghirahim.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Spirit Swords"
-msgstr ""
+msgstr "Astralschwerter
 
 #: simulation/templates/units/hylian/hylian_titan_fi.xml:61
 msgid "Spirit of the Master Sword"
-msgstr ""
+msgstr "Schwertgeist des Masterschwerts
 
 #: simulation/templates/units/hylian/hylian_titan_fi.xml:62
 msgid ""
@@ -5517,24 +5528,27 @@ msgid ""
 " Now freed from her prison, Fi exhibits tremendous power, and can bring animated swords"
 " against enemies of the Kingdom."
 msgstr ""
+"Ein mächtiger Geist der gegen ihren Willen im Masterschwert gebunden war. Befreit aus"
+"ihrem Gefängnis, zeigt Phai eine enorme Kraft und kann schwebende SChwerter gegen die
+"Feinde des Königreichs mit führen."
 
 #: simulation/templates/units/hylian/hylian_titan_fi.xml:65
 msgid "Fi"
-msgstr ""
+msgstr "Phai
 
 #: simulation/templates/units/hylian/hylian_titan_fi.xml:66
 msgid "Hylian Titan unit. Fast moving spirit that attacks enemies with animated swords."
-msgstr ""
+msgstr "Hylianischer Titan. Schneller Schwertgeist der mit schwebenden Schwertern angreift"
 
 #: simulation/templates/units/hylian/hylian_trebuchet.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Hurled Stone"
-msgstr ""
+msgstr "Geworfene Steine
 
 #: simulation/templates/units/hylian/hylian_trebuchet.xml:54
 #: simulation/templates/units/hylian/hylian_trebuchet_common.xml:52
 msgid "Trebuchet"
-msgstr ""
+msgstr "Tribock
 
 #: simulation/templates/units/hylian/hylian_trebuchet.xml:55
 msgid ""
