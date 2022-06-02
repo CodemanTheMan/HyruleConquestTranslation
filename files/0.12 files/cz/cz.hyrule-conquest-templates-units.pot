@@ -12523,7 +12523,7 @@ msgstr "Obléhací tvor který rozbíjí budovy svým celým tělem."
 
 #: simulation/templates/units/stalfos/stalfos_battleforged_b.xml:34
 msgid "Battleforged"
-msgstr ""
+msgstr "Zkroucenec"
 
 #: simulation/templates/units/stalfos/stalfos_battleforged_b.xml:35
 msgid ""
@@ -12533,14 +12533,18 @@ msgid ""
 "smashing them apart would only temporarily halt their advance as they assemble "
 "themselves back together."
 msgstr ""
+"Produkt zkroucení a kombinování částí mnohých válečníků, Zkroucenci byli vytvořeni ve "
+"starověkých dobách výslovně aby bojovali a zničili nepřátele jejich pánů. Reputace "
+"těchto monstrozit byla že jsou nezničitelní: rozbít je na kusy je jen zpomalilo "
+"zatím co se seskládali zpátky."
 
 #: simulation/templates/units/stalfos/stalfos_battleforged_b.xml:38
 msgid "Melee unit armed with an armor crushing mace. Can reform itself after being destroyed."
-msgstr ""
+msgstr "Pěší jednotka ozbrojena brnění-drtícím palcátem. Může se po zničení reformovat."
 
 #: simulation/templates/units/stalfos/stalfos_bluebubble_b.xml:43
 msgid "Blue Bubble"
-msgstr ""
+msgstr "Modrá Letka"
 
 #: simulation/templates/units/stalfos/stalfos_bluebubble_b.xml:44
 msgid ""
@@ -12549,22 +12553,25 @@ msgid ""
 "find themselves struggling to hit their targets, as if jinxed with poor aim and "
 "reflexes."
 msgstr ""
+"Hořící variace vznášejících se Letek, tyto modré příšery s sebou nosí temnou kletbu "
+"kterou přenášejí na své oběti. Ti kousnuti těmito nemrtvými mají potíže trefit svoje "
+"cíle, jako by bylu uhranuti špatným mířením a reflexy."
 
 #: simulation/templates/units/stalfos/stalfos_bluebubble_b.xml:49
 msgid "Small flying Creature unit that reduces the damage of enemy units it attacks."
-msgstr ""
+msgstr "Malý létající tvor který zmenšuje požkození nepřátelských jednotek na které útočí."
 
 #: simulation/templates/units/stalfos/stalfos_bonepileA.xml:13
 msgid "Corpse Pile"
-msgstr ""
+msgstr "Hromada Mrtvol"
 
 #: simulation/templates/units/stalfos/stalfos_bonepileA.xml:16
 msgid "Pile of dead bones that can gathered by Stalchildren."
-msgstr ""
+msgstr "Hromada mrtvých kostí které mohou být sesbírány Staldětmi."
 
 #: simulation/templates/units/stalfos/stalfos_bubble_b.xml:33
 msgid "Bubble"
-msgstr ""
+msgstr "Letka"
 
 #: simulation/templates/units/stalfos/stalfos_bubble_b.xml:34
 #: simulation/templates/units/stalfos/stalfos_eyesoar_b.xml:32
@@ -12573,10 +12580,13 @@ msgid ""
 "Sprouting wings from the sides of their desiccated heads, Bubbles are able to hover "
 "about and will viciously try to bite and tear the flesh from their victims."
 msgstr ""
+"Letky jsou malé vznášející se lebky jejichž těla byly za čas ztraceny. Protože jim "
+"místo toho vyrostly křídla ze stran jejich hlav, Letky jsou schopné poletovat kolem "
+"a zuřivě sse zakousnou a roztrhají maso jejich obětí."
 
 #: simulation/templates/units/stalfos/stalfos_bubble_b.xml:38
 msgid "Small flying Creature unit."
-msgstr ""
+msgstr "Malý létající tvor."
 
 #: simulation/templates/units/stalfos/stalfos_civilianA.xml:16
 #: simulation/templates/units/stalfos/stalfos_stalchildA.xml:31
@@ -12596,15 +12606,15 @@ msgstr ""
 
 #: simulation/templates/units/stalfos/stalfos_collector_b.xml:23
 msgid "Collector"
-msgstr ""
+msgstr "Sběratel"
 
 #: simulation/templates/units/stalfos/stalfos_eyesoar_b.xml:31
 msgid "Eyesoar"
-msgstr ""
+msgstr "Mrtvook"
 
 #: simulation/templates/units/stalfos/stalfos_hero_blind.xml:38
 msgid "The Thief"
-msgstr ""
+msgstr "Zloděj"
 
 #: simulation/templates/units/stalfos/stalfos_hero_blind.xml:40
 msgid ""
@@ -12614,23 +12624,28 @@ msgid ""
 "and gained the power of undeath. Now Blind roams the western dunes and caves as a "
 "relentless Stalfos, killing and stealing anything of value he comes across."
 msgstr ""
+"Slepec byl za svého života legendární zloděj. Legenda říká že dokonce dokázal "
+"infiltroat Šejky z Kakarika a ukrást jejich mnohé poklady. Jelikož se bál že přijde "
+"o své poklady, Slepec si očividně sjednal setkání s některým věhlasným nekromantem "
+"a získal moc nad nesmrtí. Slepec se teď potuluje po západních dunách a jeskyních jako "
+"neúprosný Stalfos, zabíjící a okrádající vše s hodnotou na co přijde."
 
 #: simulation/templates/units/stalfos/stalfos_hero_blind.xml:43
 msgid "Blind"
-msgstr ""
+msgstr "Slepec"
 
 #: simulation/templates/units/stalfos/stalfos_hero_blind.xml:44
 msgid "Slithering Melee Hero with Camouflage."
-msgstr ""
+msgstr "Plazící se pěší hrdina s kamufláží."
 
 #: simulation/templates/units/stalfos/stalfos_hero_dampe.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Shovel"
-msgstr ""
+msgstr "Lopata"
 
 #: simulation/templates/units/stalfos/stalfos_hero_dampe.xml:34
 msgid "Gravedigger"
-msgstr ""
+msgstr "Hrobař"
 
 #: simulation/templates/units/stalfos/stalfos_hero_dampe.xml:36
 msgid ""
@@ -12640,18 +12655,22 @@ msgid ""
 "Stalchildren around Hyrule. He denies these accusations... or at least the malevolent "
 "intentions implied in them."
 msgstr ""
+"Dampé byl dlouho v Hyliánsku nepovšimnutý, sloužící jako pohřebák ve vesnici Kakariko. "
+"Zatímco jeho služby byly respektovány většinu jeho života, za desetiletí byl podezříván "
+"a obviněn ze zvyšujících nálezů Staldětí po celém Hyliánsku. Odmítá tato obvinění... "
+"nebo alespoň nevyslovené zlovolné záměry.
 
 #: simulation/templates/units/stalfos/stalfos_hero_dampe.xml:39
 msgid "Dampe"
-msgstr ""
+msgstr "Dampé"
 
 #: simulation/templates/units/stalfos/stalfos_hero_dampe.xml:40
 msgid "Support Hero that summons swarms of Stalchidren."
-msgstr ""
+msgstr "Porpůrný hrdina který povolává čety Staldětí."
 
 #: simulation/templates/units/stalfos/stalfos_hero_deathsword.xml:59
 msgid "The Executioner"
-msgstr ""
+msgstr "Popravčí"
 
 #: simulation/templates/units/stalfos/stalfos_hero_deathsword.xml:61
 msgid ""
@@ -12663,18 +12682,24 @@ msgid ""
 "destroyed from Hyrule. He is considered the father of all current Stalfos that haunt "
 "and torment the living of Hyrule."
 msgstr ""
+"Jeho jméno bylo ztraceno z paměti. Jeho původ je přinejlépe nejasný: říká se že byl "
+"jeden z předchozích Gerudských Králů před časem jejich Velké Kletby. Jediné co zbývá z "
+"této nechvalně proslulé bestie je příběh jeho zapečetění hluboko uvnitř Paláce Arbitráže: "
+"příběh který sám má mnoho verzí i tajemství. Smrtimeč byl odsouzen za zločiny vyhrabání "
+"a re-instituce necromancie potom co bla zničena a vykázána ze světa. Je považován za "
+"otce všech přítomných Stalfosů kteří straší a trýzní vše žijící na světě."
 
 #: simulation/templates/units/stalfos/stalfos_hero_deathsword.xml:64
 msgid "Death Sword"
-msgstr ""
+msgstr "Smrtimeč"
 
 #: simulation/templates/units/stalfos/stalfos_hero_deathsword.xml:65
 msgid "Hovering Melee Hero that attacks with giant sword."
-msgstr ""
+msgstr "Vznášející se pěší hrdina který útočí obřím mečem."
 
 #: simulation/templates/units/stalfos/stalfos_hero_gabora.xml:38
 msgid "Dark Blacksmith"
-msgstr ""
+msgstr "Temný Kovář"
 
 #: simulation/templates/units/stalfos/stalfos_hero_gabora.xml:40
 msgid ""
@@ -12684,14 +12709,18 @@ msgid ""
 "these famous blacksmiths. Many warriors have sought the lost knowledge of Gabora; few "
 "who did have returned from the dead as themselves."
 msgstr ""
+"Legenda říká že ti co hledají perfektní meč musí vyhledat mrtvé a vzdát hold nejlepšímu "
+"kováři co kdy žil. V životě Gabora a jeho partner Zubora získali takovou reputaci, "
+"reputaci která vydržela dloho po životě těchto slavných kovářů. Mnozí válečníci hledali "
+"ztracené vědomosti Gabory: málo z nich se vrátilo z mrtvých jako oni sami."
 
 #: simulation/templates/units/stalfos/stalfos_hero_gabora.xml:43
 msgid "Gabora"
-msgstr ""
+msgstr "Gabora"
 
 #: simulation/templates/units/stalfos/stalfos_hero_irene.xml:43
 msgid "Witch Disciple"
-msgstr ""
+msgstr "Čarodějka Učednice"
 
 #: simulation/templates/units/stalfos/stalfos_hero_irene.xml:45
 msgid ""
@@ -12701,23 +12730,27 @@ msgid ""
 "history, but this feisty young witch has been found working with the Stalfos and should"
 " be treated as such."
 msgstr ""
+"Irena kdysi sloužila jako jedna ze tří jáhenek Raurovi. Po mnoha neschodách se svým pánem, "
+"nakonec vyhledala temná umění Čarodějnic. Cesta ze ctihodné jáhenky ke vzpurné spojence "
+"nemrtvých ještě není známá historii, ale tato divoká mladá čarodějnice byla viděna jak "
+"spolupracuje se Stalfosy a měla by být považována jako jedna z nich."
 
 #: simulation/templates/units/stalfos/stalfos_hero_irene.xml:48
 msgid "Irene"
-msgstr ""
+msgstr "Irena"
 
 #: simulation/templates/units/stalfos/stalfos_hero_irene.xml:49
 msgid "Flying mage unit that can lob fireballs from the sky."
-msgstr ""
+msgstr "Létající mág který vrhá na nepřátele ohnivé koule."
 
 #: simulation/templates/units/stalfos/stalfos_hero_meg.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Torch"
-msgstr ""
+msgstr "Louč"
 
 #: simulation/templates/units/stalfos/stalfos_hero_meg.xml:36
 msgid "Poe Sister"
-msgstr ""
+msgstr "Postrašná Sestra"
 
 #: simulation/templates/units/stalfos/stalfos_hero_meg.xml:38
 msgid ""
@@ -12727,18 +12760,23 @@ msgid ""
 " enigmatic ghost is foolish at best; seeking her service is dangerous beyond all "
 "reason."
 msgstr ""
+"Jedna ze čtyř Postrašných sester z legendy, život Meg a okolnosti které vedli k jejímu "
+"strašení v Kokirském lese je zahalen tajemstvím. Kde se Meg potuluje, tam kostlivé "
+"pozůstatky dávno zapomenutých duší vstanou a následují. Hledat rozhovor s touto "
+"enigmatickou duší je přinejlepším bláhové; hledat její službu je nebezpečné nad zdravý "
+"rozum."
 
 #: simulation/templates/units/stalfos/stalfos_hero_meg.xml:41
 msgid "Meg"
-msgstr ""
+msgstr "Meg"
 
 #: simulation/templates/units/stalfos/stalfos_hero_meg.xml:42
 msgid "Mage unit that can pass through any obstacle and torch enmies with fire."
-msgstr ""
+msgstr "Magická jednotka schopna projit jakoukoliv překážkou a spálit nepřátele ohněm."
 
 #: simulation/templates/units/stalfos/stalfos_knight_b.xml:36
 msgid "Stalknight"
-msgstr ""
+msgstr "Stalrytíř"
 
 #: simulation/templates/units/stalfos/stalfos_knight_b.xml:37
 msgid ""
@@ -12748,6 +12786,10 @@ msgid ""
 "Knight in combat: they have had centuries to hone their skills that were already "
 "formidable in life."
 msgstr ""
+"Kdysi vznešení páni a válečníci za života, Stalfosští Rytíři byly kostry těch kteří "
+"opustili svá pravidla obchodem za nesmrtelnost. Dostali co chtěli, ale jako otroci jejich "
+"nekromantických pánů. Všichni by se měli vyvarovat Stalfoských Rytířů v boji: měli "
+"staletí zdokonalovat svoje dovednosti které byly úctyhodné už za jejich života."
 
 #: simulation/templates/units/stalfos/stalfos_lostsoul_b.xml:35
 msgid ""
@@ -12758,19 +12800,24 @@ msgid ""
 "across. They attack with surprisingly skilled swordplay for an undead creature and are "
 "able to parry just about any blow."
 msgstr ""
+"Je málo lidové tradice ohledně identity lidí kteří se stali těmito obživlými mrtvolami. "
+"Nejčastější přesvědčení je že byli kdysi dávno vojáky ve službách Meg, přivedeni z "
+"mrtvých temnými silami hluboko v lese. Ať už byli kdokoliv, tyto Ztracené Duše se "
+"toulají temnými končinami lesa a vyzývají kohokoliv na koho narazí. Útočí s překvapivě "
+"zručným šermem na nemrtvá stvoření a jsou schopni odrazit skoro jakoukoliv ránu. "
 
 #: simulation/templates/units/stalfos/stalfos_lostsoul_b.xml:39
 msgid "Infantry Melee unit with very high skill at Dodging. Has Camouflage."
-msgstr ""
+msgstr "Pěší jednotka s vysokou mírou úhybů. Má kamufláž."
 
 #: simulation/templates/units/stalfos/stalfos_phantomrider_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Ghost Lance"
-msgstr ""
+msgstr "Přízračné Kopí"
 
 #: simulation/templates/units/stalfos/stalfos_phantomrider_b.xml:34
 msgid "Phantom Rider"
-msgstr ""
+msgstr "Přízračný Jezdec"
 
 #: simulation/templates/units/stalfos/stalfos_phantomrider_b.xml:35
 msgid ""
@@ -12779,10 +12826,14 @@ msgid ""
 "cull and reap unsuspecting populations. Normal weapons have little effect; perhaps some"
 " kind of magic must be used to banish these specters to the underworld."
 msgstr ""
+"Duše rytířů z dávných věků, tito Přízrační Jezdci pochází z času ztraceného historii. "
+"Nyní nemyslící otroci jejich pánů, Přízrační Jezdci jsou posíláni v noci aby posekali "
+"a sklízeli netušící populace. Normální zbraně na ně neplatí; možná je vyhnání těchto "
+"duchů do podsvětí nutná nějaká forma magie."
 
 #: simulation/templates/units/stalfos/stalfos_phantomrider_b.xml:38
 msgid "Ghost cavalry that can pass through any obstacle."
-msgstr ""
+msgstr "Přízračné jezdectvo schopné projít jakoukoliv překážkou."
 
 #: simulation/templates/units/stalfos/stalfos_poe_b.xml:4
 #: simulation/templates/units/stalfos/stalfos_poebig_b.xml:4
@@ -12790,11 +12841,11 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_poenecro_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Lantern"
-msgstr ""
+msgstr "Lucera"
 
 #: simulation/templates/units/stalfos/stalfos_poe_b.xml:39
 msgid "Poe"
-msgstr ""
+msgstr "Postrach"
 
 #: simulation/templates/units/stalfos/stalfos_poe_b.xml:40
 msgid ""
@@ -12803,14 +12854,18 @@ msgid ""
 "lanterns to attack their living foes. Many dark necromancers would seek out and bind "
 "these tortured souls to their causes."
 msgstr ""
+"Postrachy nikdy neopustili zemskou říši, ale zůstali nepokojní u vlastních hrobů. Pokud "
+"byly hroby narušeny, tito duchové se objevili, a oháněli se svými přízračnými lucernami "
+"aby zaútočili na živoucí nepřátele. Mnozí temní nekromanti vyhledávali a svazovali tyto "
+"trpící duše k vlastním účelům."
 
 #: simulation/templates/units/stalfos/stalfos_poe_b.xml:43
 msgid "Floating unit with Camouflage."
-msgstr ""
+msgstr "Vznášející se jednotka s kamufláží."
 
 #: simulation/templates/units/stalfos/stalfos_poebig_b.xml:39
 msgid "Big Poe"
-msgstr ""
+msgstr "Velký Postrach"
 
 #: simulation/templates/units/stalfos/stalfos_poebig_b.xml:40
 msgid ""
@@ -12819,6 +12874,10 @@ msgid ""
 " Poes will relentlessly bash attackers with their lanterns. Their victims slain, the "
 "Big Poe will drag their spirits from their bodies and bring about more Poes."
 msgstr ""
+"Tyto velké přízračné hrozby se rozhodly rozšířit svoji bídu daleko za svůj hrob a "
+"snaží se stáhnout žijící do Postrašství. Jako jejich menší protějšky, Velké Postrachy "
+"bez ustání mlátí nepřátele svými lucernami. Pokud obět padne, Velký Postrach vytáhne "
+"její duši z jejího těla a vytvoří nového Postracha."
 
 #: simulation/templates/units/stalfos/stalfos_poebig_b.xml:43
 msgid "Floating unit with Camouflage. Can raise Poes from the corpses of fallen enemies."
