@@ -11492,7 +11492,7 @@ msgid ""
 "bow, and during snowfall would venture into Faron Woods to hunt game."
 msgstr ""
 "Během zim, když plodiny umřely, lov se stal způsobem jako doplnit zásoby jídla. Alespoň "
-"jeden člen z farmářského domu byl trénován se využití luku, a během zim šli do Faronských "
+"jeden člen z farmářského domu byl trénován ve využití luku, a během zim šli do Faronských "
 "lesů lovit zvěř."
 
 #: simulation/templates/units/ordona/ordona_parcher_b.xml:45
@@ -11706,7 +11706,7 @@ msgstr "Četa druhotných podpůrných hrdinů s několika útoky a schopnostmi.
 
 #: simulation/templates/units/ordona/ordona_titan_latoan.xml:81
 msgid "The Spirit of Ordona"
-msgstr "Duše Ordony]]"
+msgstr "Duše Ordony"
 
 #: simulation/templates/units/ordona/ordona_titan_latoan.xml:82
 msgid ""
@@ -11899,15 +11899,21 @@ msgid ""
 "one of these skilled murderers, and even then the Cadre would only send in another to "
 "finish where the first failed."
 msgstr ""
+"Ultimátní nástroj Kádru, Vrazi vykonávají konečný soud Klanů a už dlouho utvářejí "
+"historii světa. Pokud Král překročí mezi, šlechtic se stane moc ambiciózní nebo se "
+"nějaký čaroděj ponoří moc hluboko do magií démonů, Vrah vykonal vůli Kádru a vymazal "
+"je z historie. Pokud označeni Šejky, bylo málo kteří byli schopni přežít pokusy na jejich "
+"život od jednoho z těchto nadaných Vrahů, a Kádr stejně mohl poslat dalšího aby dokončil "
+"práci kde první selhal."
 
 #: simulation/templates/units/sheikah/sheikah_assassin_b.xml:50
 msgid "Fast Melee unit with Stealth, has a chance to deal Critical Hits to enemies."
-msgstr ""
+msgstr "Rychlá pěší jednotka s utajením, má šanci způsobit kritické požkození nepřátelům."
 
 #: simulation/templates/units/sheikah/sheikah_blademaster_b.xml:36
 #: simulation/templates/units/zora/zora_blademaster_b.xml:33
 msgid "Blademaster"
-msgstr ""
+msgstr "Mistr Meče"
 
 #: simulation/templates/units/sheikah/sheikah_blademaster_b.xml:37
 msgid ""
@@ -11915,14 +11921,16 @@ msgid ""
 "Blademaster is unequaled in skill with a sword and their many decades in combat make "
 "them unmatched commanders."
 msgstr ""
+"Šejk který zasvětil svůj stoletý život válečnému boji. Mistr Meče nemá rovna v "
+"dovednosti s mečem a jejich mnéhá desetiletí v boji je dělá nepřekonatelnými veliteli."
 
 #: simulation/templates/units/sheikah/sheikah_blademaster_b.xml:42
 msgid "Infantry Commander unit. Leads other Sheikah into battle."
-msgstr ""
+msgstr "Pěší velitelská jednotka. Vede ostatní Šejky do bitvy."
 
 #: simulation/templates/units/sheikah/sheikah_crowling_b.xml:37
 msgid "Crowling"
-msgstr ""
+msgstr "Vrána"
 
 #: simulation/templates/units/sheikah/sheikah_crowling_b.xml:38
 msgid ""
@@ -11931,10 +11939,13 @@ msgid ""
 "rare in modern Hyrule, though the Cadre still uses them to send messages, scout, and "
 "harass their enemies."
 msgstr ""
+"V Šejkských legendách jsou tyto Vrány strážci podsvětí které zamezují nehodným duším "
+"opustit své hrobky a vrátit se do světa živých. Poslední dobou jsou relativně vzácné, "
+"ale Kádr je stále využívá k posílání zpráv, průzkumu, a harašení nepřátel."
 
 #: simulation/templates/units/sheikah/sheikah_crowling_b.xml:42
 msgid "Flying Creature unit that is Camouflaged."
-msgstr ""
+msgstr "Létající tvor s kamufláží."
 
 #: simulation/templates/units/sheikah/sheikah_deadhand_b.xml:46
 msgid ""
@@ -11944,15 +11955,19 @@ msgid ""
 "will rip apart their victims with their large mouths, leaving the corpse behind so that"
 " a large worm like arm and hand may grow from it."
 msgstr ""
+"Původ Smrtidlaní je zahalen záhadou, ovšem některé legendy říkají že jsou lidé neprávem "
+"popraveni Kádrem kteří se vrátili pomstít. Smrtidlaň samotná je trpělivá a pomalá "
+"monstrozita která nemá paže. Své nepřátele roztrhávají svou velkou tlamou, a zanechávají "
+"mrtvoly ze kterých vyroste dlouhá červí paže a dlaň."
 
 #: simulation/templates/units/sheikah/sheikah_demoncarver_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Demon Carvers"
-msgstr ""
+msgstr "Trhače Démonů"
 
 #: simulation/templates/units/sheikah/sheikah_demoncarver_b.xml:39
 msgid "Demon Carver"
-msgstr ""
+msgstr "Trhač Démonů"
 
 #: simulation/templates/units/sheikah/sheikah_demoncarver_b.xml:41
 msgid ""
@@ -11961,14 +11976,18 @@ msgid ""
 "to such monsters of madness has made the Demon Carvers themselves somewhat insane, and "
 "they have been known to ritually bathe and drink the blood of those they defeat."
 msgstr ""
+"Mající původ v nejstarších počátcích Šejků, Trhači Démonů byli vybraní válečníci "
+"trénováni v boji a zabíjení nejnebezpečnějších démonů plazící se do světa. Z vystavení "
+"takovým příšerám šílenství Trhači Démonů sami trochu zešíleli, a bylo známo že se "
+"rituálně koupali a pili krev těch které porazili."
 
 #: simulation/templates/units/sheikah/sheikah_demoncarver_b.xml:46
 msgid "Swift Melee unit that siphons health with each attack."
-msgstr ""
+msgstr "Hbitá pěší jednotka která krade zdraví s každým útokem."
 
 #: simulation/templates/units/sheikah/sheikah_devoured_b.xml:42
 msgid "Devoured"
-msgstr ""
+msgstr "Pozřen"
 
 #: simulation/templates/units/sheikah/sheikah_devoured_b.xml:43
 msgid ""
@@ -11977,14 +11996,18 @@ msgid ""
 "guides them unseen. The Sheikah have found ways to dominate these monsters and use them"
 " to fight against other demons that would threaten Hyrule."
 msgstr ""
+"Hrůzná příšera, prý kdysi Šejkský Mnich pozřený temnými magiemi. Pozření nejsou na první "
+"pohled nic víc než divoké příšery, ale Kádr ví že je vede nějaký neviděný zlý intelekt. "
+"Šejkové našli způsoby jak tyto příšery ovládat a využít je proti jiným démonům kteří by "
+"ohrozili svět."
 
 #: simulation/templates/units/sheikah/sheikah_devoured_b.xml:48
 msgid "Powerful Creature that stuns enemy units."
-msgstr ""
+msgstr "Mocný tvor který omračuje nepřátelské jednotky."
 
 #: simulation/templates/units/sheikah/sheikah_executioner_b.xml:36
 msgid "Executioner"
-msgstr ""
+msgstr "Popravčí"
 
 #: simulation/templates/units/sheikah/sheikah_executioner_b.xml:38
 msgid ""
@@ -11993,14 +12016,18 @@ msgid ""
 " step out of line or fall too far into the darkness. In battle the Executioner can use "
 "their two handed sword to damage enemy armors."
 msgstr ""
+"Nesoucí velkou řeznickou čepel, Popravčí hrají důležitou roli v Šejské kultuře. Jak "
+"napovídá jejich jméno, popravují kriminálníky Kádru kteří překročili hranice nebo upadli "
+"moc hluboo do temnoty. V bitvě mohou popravčí využít svůj dvouruký meč k požkození "
+"nepřátelských brnění."
 
 #: simulation/templates/units/sheikah/sheikah_executioner_b.xml:43
 msgid "Strong Melee unit that ingores and damages enemy armor."
-msgstr ""
+msgstr "Silná pěší jednotka která ignoruje a požkozuje nepřátelské brnění."
 
 #: simulation/templates/units/sheikah/sheikah_floormaster_b.xml:41
 msgid "Floormaster"
-msgstr ""
+msgstr "Poddlaň"
 
 #: simulation/templates/units/sheikah/sheikah_floormaster_b.xml:42
 #: simulation/templates/units/sheikah/sheikah_floormaster_tiny.xml:33
@@ -12009,22 +12036,25 @@ msgid ""
 " around like some kind of arachnid and kills any living creature it happens upon. The "
 "Cadre will capture these monsters and use them against their enemies."
 msgstr ""
+"Menší ale o nic míc nebezpečná varianta Zdidlaně, Poddlaně cupitají jako nějací pavouci "
+"a zabíjejí kteréhokoliv živého tvora na kterého narazí. Kádr tyto příšery chytá a využívá "
+"je proti nepřátelům."
 
 #: simulation/templates/units/sheikah/sheikah_floormaster_b.xml:46
 msgid "Camouflaged Melee Creature unit that splits into several smaller creatures when slain."
-msgstr ""
+msgstr "Pěší tvor s kamufláží který se rozpadá na několik menších tvorů pokud zabit."
 
 #: simulation/templates/units/sheikah/sheikah_floormaster_tiny.xml:32
 msgid "Tiny Floormaster"
-msgstr ""
+msgstr "Malá Poddlaň"
 
 #: simulation/templates/units/sheikah/sheikah_floormaster_tiny.xml:37
 msgid "Tiny Melee Creature unit."
-msgstr ""
+msgstr "Malý pěší tvor."
 
 #: simulation/templates/units/sheikah/sheikah_ghoulrat_b.xml:40
 msgid "Ghoul Rat"
-msgstr ""
+msgstr "Ghúlská Krysa"
 
 #: simulation/templates/units/sheikah/sheikah_ghoulrat_b.xml:41
 msgid ""
@@ -12033,14 +12063,17 @@ msgid ""
 "make them perfect at finding ways of sneaking into fortified areas, and legend says a "
 "Ghoul Rat can slip through even the most fortified of walls."
 msgstr ""
+"Havěť poskvrněná magií démonů, Gúlí Krysy jsou využívány Kádrem k přenášení nemoci a "
+"vyklízení míst of mrtvol. Malá velikost Ghúlských Krys je dělala perfektní k propližování "
+"do opevněných míst, a legenda říká že Ghúlská Krysa projde i nejtlustčí zdí."
 
 #: simulation/templates/units/sheikah/sheikah_ghoulrat_b.xml:45
 msgid "Camouflaged Creature unit that can pass through walls."
-msgstr ""
+msgstr "Tvor s kamufláží schopný projít zdmi."
 
 #: simulation/templates/units/sheikah/sheikah_hawkeye_b.xml:43
 msgid "Hawkeye"
-msgstr ""
+msgstr "Sokolí Oko"
 
 #: simulation/templates/units/sheikah/sheikah_hawkeye_b.xml:44
 msgid ""
@@ -12049,16 +12082,21 @@ msgid ""
 "uncanny ability to hit exactly what they set out to hit, regardless of the chaos of "
 "battle."
 msgstr ""
+"Přestože bylo mnoho kultur které praktikovaly působivé lučištnictví, Šejkové udělali "
+"z přesnosti své vlastní umění. Sokolí Oka jsou nechvalní pro svoji neskutečnou schopnost "
+"trefit přesně to co chtějí trefit, bez ohledu na chaos bitvy."
 
 #: simulation/templates/units/sheikah/sheikah_hawkeye_b.xml:47
 msgid ""
 "Archer unit armed with a bow and arrows. Deals moderate Piercing damage and has 100% "
 "accuracy."
 msgstr ""
+"Lukostřeleská jednotka ozbrojena lukem a šípem. Působí střední průrazné požkození a "
+"má 100% přesnost."
 
 #: simulation/templates/units/sheikah/sheikah_hero_impa.xml:48
 msgid "Sage of Shadows"
-msgstr ""
+msgstr "Mudryně Stínů"
 
 #: simulation/templates/units/sheikah/sheikah_hero_impa.xml:50
 msgid ""
@@ -12071,23 +12109,30 @@ msgid ""
 "She is in truth a very motherly figure to those that have her in their lives, perhaps "
 "an echo of a life she could have had in ages past."
 msgstr ""
+"Náčelnice Kakarkého i Naldarského Klanu a také Mudryně Stínů, Impa má bezprecedentní "
+"politickou moc v Kádru a dlouho sloužila Šejkům i Královské rodině Hyliánské. Možná "
+"nejlepší šermířka v historii světa, její přítomnost často vzbuzuje strach nebo úctu, "
+"podle toho kdo je její přítel či nepřítel. Těmi co Impu neznají je často viděna jako "
+"chladná zabijačka bez emocí, což možná způsobuje její věk a vzdálenost od společnosti. "
+"Ve skutečnosti je velice mateřská figura těm co ji mají v životě, možná ozvěna života "
+"který mohla kdysi žít."
 
 #: simulation/templates/units/sheikah/sheikah_hero_impa.xml:54
 msgid "Impa"
-msgstr ""
+msgstr "Impa"
 
 #: simulation/templates/units/sheikah/sheikah_hero_impa.xml:55
 msgid "Stealthed Melee Hero that has a high chance to Critical Hit her targets."
-msgstr ""
+msgstr "Utajená pěší hrdinka s vysokou šancí způsobit kritické požkození jejím cílům."
 
 #: simulation/templates/units/sheikah/sheikah_hero_kohga.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Sickles"
-msgstr ""
+msgstr "Srpy"
 
 #: simulation/templates/units/sheikah/sheikah_hero_kohga.xml:34
 msgid "Yiga Master"
-msgstr ""
+msgstr "Pán Jigů"
 
 #: simulation/templates/units/sheikah/sheikah_hero_kohga.xml:36
 msgid ""
@@ -12098,23 +12143,28 @@ msgid ""
 "pride, though he often seeks to gain people on his side through lavish gifts, parties, "
 "and bribes."
 msgstr ""
+"Náčelník Klanu Jiga, Mistr Kóga dlouho žil na hranicích Hyliánska a je horlivý zastánce "
+"svrchovanosti jeho klanu v Kádru. I přes jeho pokusy Kádr odtlačil Klan Jiga ze svého "
+"koncilu, což ho vedlo k rozčarování nad ostatními Klanovými Náčelníky. Samotný Kóga je "
+"rozpustilý a plný pýchy, ale často se snaží získat lidi na svoji stranu dárky, večírky, "
+"a podplatem."
 
 #: simulation/templates/units/sheikah/sheikah_hero_kohga.xml:40
 msgid "Kohga"
-msgstr ""
+msgstr "Kóga"
 
 #: simulation/templates/units/sheikah/sheikah_hero_kohga.xml:41
 msgid "Durable and hearty Infantry Melee Hero armed with a a pair of sickles."
-msgstr ""
+msgstr "Odolný pěší hrdina ozbrojený párem srpů."
 
 #: simulation/templates/units/sheikah/sheikah_hero_mazkoshia.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Lightning Sword"
-msgstr ""
+msgstr "Bleskový Meč"
 
 #: simulation/templates/units/sheikah/sheikah_hero_mazkoshia.xml:47
 msgid "Ancient Monk"
-msgstr ""
+msgstr "Starověký Mnich"
 
 #: simulation/templates/units/sheikah/sheikah_hero_mazkoshia.xml:49
 msgid ""
@@ -12125,19 +12175,24 @@ msgid ""
 "disconnected from the rest of his kind after centuries of isolation, and none know his "
 "true motives."
 msgstr ""
+"Nejstarší z Nirvatských Mnichů a nejobávanější čaroděj Kádru, Maz Košia dlouho vládl nad "
+"radou Stařešin a po staletí Kádr ovlivňoval. S vyjímkou svých krátkých výstupů na srazech "
+"koncilu, Maz Košia žije v naprosté samotě hluboko pod zemí, a shromažďuje temné síly. "
+"Je naprosto odloučen od zbytku svého druhu po staletích osamění, a nikdo nezná jeho pravé "
+"motivy."
 
 #: simulation/templates/units/sheikah/sheikah_hero_mazkoshia.xml:53
 msgid "Maz Koshia"
-msgstr ""
+msgstr "Maz Košia"
 
 #: simulation/templates/units/sheikah/sheikah_hero_mazkoshia.xml:54
 #: simulation/templates/units/zora/zora_hero_telara.xml:45
 msgid "Melee Hero that can shock and Stun enemies with her attacks."
-msgstr ""
+msgstr "Pěší hrdina který omračuje nepřátele svými útoky."
 
 #: simulation/templates/units/sheikah/sheikah_hero_paya.xml:33
 msgid "Shadow Apprentice"
-msgstr ""
+msgstr "Učednice Stínů"
 
 #: simulation/templates/units/sheikah/sheikah_hero_paya.xml:35
 msgid ""
@@ -12146,18 +12201,22 @@ msgid ""
 "information and secrets from those that let their guard down around her. She is skilled"
 " in the art of drunken monkey and fighting with a quarterstaff."
 msgstr ""
+"Mladá nadaná učednice Impy, Pája žije skromný život ve vesnici Kakariko. Pro ostatní se "
+"zdá být umírněná a nemotorná hlupačka, ale to je pouze její způsob získávání informací a "
+"tajemství od těch co si kolem ní nedávají pozor. Je zkušená v umění Opilé Opice a bojem "
+"s holí."
 
 #: simulation/templates/units/sheikah/sheikah_hero_paya.xml:39
 msgid "Paya"
-msgstr ""
+msgstr "Pája"
 
 #: simulation/templates/units/sheikah/sheikah_hero_paya.xml:40
 msgid "Melee Hero with countering abilities."
-msgstr ""
+msgstr "Pěší hrdinka s obracujícími schopnostmi."
 
 #: simulation/templates/units/sheikah/sheikah_hero_purah.xml:42
 msgid "Shadow Hermit"
-msgstr ""
+msgstr "Temná Poustevnice"
 
 #: simulation/templates/units/sheikah/sheikah_hero_purah.xml:44
 msgid ""
@@ -12168,20 +12227,25 @@ msgid ""
 " and vain desires. Many other Sheikah find her unbearable to be around, something that "
 "Purah seems to approve of since she prefers to live as a hermit alone."
 msgstr ""
+"Starší sestra Impy, Pura kdysi dávno objevila tajemství věčného mládí. Nikdy to temné "
+"umění nikomu neprozradila, a přestože je více než století stará, zachovala si svůj mladý "
+"vzhled. Navzdory svému pokročilému věku očividně neshromáždila moudro své mladší dcery; "
+"je známo že ji vedou malicherné a marnotratné touhy. Mnoho ostatních Šejků ji nemůže "
+"vystát, což Puře očividně nevadí, protože preferuje žít sama jako poustevnice."
 
 #: simulation/templates/units/sheikah/sheikah_hero_purah.xml:48
 msgid "Purah"
-msgstr ""
+msgstr "Pura"
 
 #: simulation/templates/units/sheikah/sheikah_hero_sheik.xml:4
 #: simulation/templates/units/sheikah/sheikah_needler_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Needles"
-msgstr ""
+msgstr "Jehle"
 
 #: simulation/templates/units/sheikah/sheikah_hero_sheik.xml:44
 msgid "The Lost Vagabond"
-msgstr ""
+msgstr "Ztracený Pobuda"
 
 #: simulation/templates/units/sheikah/sheikah_hero_sheik.xml:46
 msgid ""
@@ -12190,14 +12254,17 @@ msgid ""
 "a portent of a cataclysmic event about to transpire in Hyrule, and death is sure to "
 "follow."
 msgstr ""
+"Tajemná figura která očividně není z žádného Klanu, válečník známý jenom jako Šejk "
+"slouží Nirvatským Mnichům. Šejkova přítomnost je často předzvěst kataklyzmických událostí, "
+"a následuje je smrt."
 
 #: simulation/templates/units/sheikah/sheikah_hero_sheik.xml:50
 msgid "Sheik"
-msgstr ""
+msgstr "Šejk"
 
 #: simulation/templates/units/sheikah/sheikah_moa_b.xml:38
 msgid "Moa"
-msgstr ""
+msgstr "Moa"
 
 #: simulation/templates/units/sheikah/sheikah_moa_b.xml:39
 msgid ""
@@ -12205,14 +12272,17 @@ msgid ""
 " the dark, cursed to wander the underworld. Some Sheikah Monks will use them as "
 "familiars or pets to help them see hidden things within the world."
 msgstr ""
+"Moové jsou prý duše mrtvých Šejků které nebyly úspěšné v ovládnutí temnoty, prokleti "
+"a nuceni se potulovat v podsvětí. Někteří Šejkští Mniši je využívají jako familáry nebo "
+"domácí mazlíčky aby jim pomohli vidět skryté věci ve světě."
 
 #: simulation/templates/units/sheikah/sheikah_moa_b.xml:43
 msgid "Floating Mage Creature with Camouflage."
-msgstr ""
+msgstr "Létající magický tvor s kamufláží."
 
 #: simulation/templates/units/sheikah/sheikah_needler_b.xml:44
 msgid "Needler"
-msgstr ""
+msgstr "Jehlař"
 
 #: simulation/templates/units/sheikah/sheikah_needler_b.xml:45
 msgid ""
@@ -12222,21 +12292,25 @@ msgid ""
 "employs them to track down and capture people of interest, especially when information "
 "needs to be extracted."
 msgstr ""
+"Jehla je jedna z ikonických Šejských zbraní a má mnohoúčelné využití. Or harašení "
+"nepřátel na bojovém poli či mučení obětí při výslechu, Jehlaři jsou většinou obáváni "
+"těmi co o nich slyšeli příběhy. Kádr je často najímá ke stopování a chycení lidí v "
+"jejich zájmu, především pokud je nutné z nich získat informace."
 
 #: simulation/templates/units/sheikah/sheikah_needler_b.xml:50
 msgid "Armor piercing ranged unit."
-msgstr ""
+msgstr "Brnění-průrazná střelná jednoka."
 
 #: simulation/templates/units/sheikah/sheikah_nirvatamonk_b.xml:4
 #: simulation/templates/units/zora/zora_magecannon_b.xml:4
 #: simulation/templates/units/zora/zora_sparkmage_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Lightning"
-msgstr ""
+msgstr "Blesk"
 
 #: simulation/templates/units/sheikah/sheikah_nirvatamonk_b.xml:42
 msgid "Nirvata Monk"
-msgstr ""
+msgstr "Nirvatský Mnich"
 
 #: simulation/templates/units/sheikah/sheikah_nirvatamonk_b.xml:43
 msgid ""
@@ -12247,14 +12321,20 @@ msgid ""
 "the earth, the Nirvata Monks are detached and distant even to their own kind. In battle"
 " they bring ancient magics to bear on their enemies."
 msgstr ""
+"Nejstarší žijící Šejkové, Mniši z Klanu Nirvata existují na hranici života a smrti. Ve "
+"starověkých dobách prý sloužili jako poslové mezi smrtelníky a Nebešťany a možná takovou "
+"roli stále slouží. Protože žili mnohé desetiletí v naprosté izolaci a temnotě aby mohli "
+"rozjímat a objevovat temná tajemství pod zemí, Nirvatští Mniši jsou odloučeni a vzdáleni "
+"i svému vlatnímu druhu. V bitvě přinášejí Nirvatští Mniši starověké magie na svoje "
+"nepřátele."
 
 #: simulation/templates/units/sheikah/sheikah_nirvatamonk_b.xml:47
 msgid "Sheikah mage unit that attacks with an electric shock and deals splash damage."
-msgstr ""
+msgstr "Šejská magická jednotka která útočí elektrickým šokem a působí plošné požkození."
 
 #: simulation/templates/units/sheikah/sheikah_protector_b.xml:34
 msgid "Protector"
-msgstr ""
+msgstr "Ochránce"
 
 #: simulation/templates/units/sheikah/sheikah_protector_b.xml:35
 msgid ""
@@ -12263,14 +12343,17 @@ msgid ""
 " of turning an enemy's attack against themselves and have been known to parry "
 "everything from arrows to magical attacks."
 msgstr ""
+"Ochránci slouží jako osobní strážci pro své klany. Jsou často nasazováni jako tělěsná "
+"stráž pro důležité figury Kádru. Ochránci zdokonalili umění obrácení útoků nepřátel "
+"proti nim a byli známi schopností odrazit cokoliv od šípů po magické útoky. "
 
 #: simulation/templates/units/sheikah/sheikah_protector_b.xml:39
 msgid "Counter melee unit with a high Dodge rate."
-msgstr ""
+msgstr "Pěší jednotka s vysokou úrovní úhybů."
 
 #: simulation/templates/units/sheikah/sheikah_saboteur_b.xml:57
 msgid "Saboteur"
-msgstr ""
+msgstr "Sabotér"
 
 #: simulation/templates/units/sheikah/sheikah_saboteur_b.xml:58
 msgid ""
@@ -12279,10 +12362,13 @@ msgid ""
 "carries with him an explosive contraption that can destroy a building's foundations "
 "with ease."
 msgstr ""
+"Občas je pevnost vážne neprorazitelná a není možné na ni vylézt nebo se do ní proplížit. "
+"V těchto případech přijde Sabotér; méně rafinovaný způsob vloupání. Sabotér s sebou nese "
+"bombu která bez nesnází zničí základy budovy."
 
 #: simulation/templates/units/sheikah/sheikah_saboteur_b.xml:62
 msgid "Siege unit that can plant explosives on buildings."
-msgstr ""
+msgstr "Obléhací jednotka která k budovám přikládá bomby."
 
 #: simulation/templates/units/sheikah/sheikah_shadowfolkA.xml:60
 msgid "Shadowfolk"
@@ -12303,7 +12389,7 @@ msgstr ""
 
 #: simulation/templates/units/sheikah/sheikah_sidewinder_b.xml:39
 msgid "Sidewinder"
-msgstr ""
+msgstr "Nájezdník"
 
 #: simulation/templates/units/sheikah/sheikah_sidewinder_b.xml:40
 msgid ""
@@ -12311,18 +12397,21 @@ msgid ""
 "Despite the fact they ride on horses, many stories tell of the Sidewinders appearing "
 "suddenly without any warning of their approach."
 msgstr ""
+"LEgendární Nájezdníci slouží jako jezdci a útočníci pro své klany. Přestože jezdí na "
+"koních, mnohé příběhy vyprávějí o Nájezdnících kteří se s ničeho nic objeví bez "
+"varování jejich příchodu."
 
 #: simulation/templates/units/sheikah/sheikah_sidewinder_b.xml:45
 msgid "Fast moving Melee Cavalry unit armed with crescent spears."
-msgstr ""
+msgstr "Rychlá jezdecká jednotka ozbrojena kopím."
 
 #: simulation/templates/units/sheikah/sheikah_smoke.xml:37
 msgid "Sheikah Smoke"
-msgstr ""
+msgstr "Šejkský Kouř"
 
 #: simulation/templates/units/sheikah/sheikah_smokescreener_b.xml:55
 msgid "Smoke Screener"
-msgstr ""
+msgstr "Zahalovač"
 
 #: simulation/templates/units/sheikah/sheikah_smokescreener_b.xml:56
 msgid ""
@@ -12331,14 +12420,17 @@ msgid ""
 "but they often use a traditional technique of throwing Deku Nuts that explode into "
 "smoke."
 msgstr ""
+"Zahalovači jsou mistři úniku. Často jsou využíváni kádrem aby pomohli s loupežemi, "
+"únosy, nebo vraždmi. Nástroje Zahalovačů jsou mnohé, ale často využívají tradiční "
+"techniku házení Deku Ořechů z kterých se po rozbití kouří."
 
 #: simulation/templates/units/sheikah/sheikah_smokescreener_b.xml:61
 msgid "Support unit that disrupts enemy movement and accuracy."
-msgstr ""
+msgstr "Podpůrná jednotka která vyrušuje nepřátelský pohyb a přesnost."
 
 #: simulation/templates/units/sheikah/sheikah_spy_b.xml:33
 msgid "Spy"
-msgstr ""
+msgstr "Špión"
 
 #: simulation/templates/units/sheikah/sheikah_spy_b.xml:34
 msgid ""
@@ -12349,10 +12441,14 @@ msgid ""
 "The Spy is Stealthed and can only be seen by Detector units and buildings, they can "
 "however see other Stealthed units."
 msgstr ""
+"Informace je centrem Šejské kultury, a jejich obdivuhodná síť Špiónů je způsob kterým "
+"vykonává Kádr své zásady. Většina Klanů má vlastní Špióny a vytvořila celou ekonomiku "
+"prodeje informací mezi klany. Samotní Špióni jsou trénováni v boji, většinou ozbrojeni "
+"nindžatem nebo krátkým mečem.
 
 #: simulation/templates/units/sheikah/sheikah_spy_b.xml:38
 msgid "Scout unit that can detect Camouflaged and Stealthed units. The Spy is stealthed."
-msgstr ""
+msgstr "Průzkumná jednotka schopná detekovat jednotky s kamufláží nebo utajením. Sama je utajená."
 
 #: simulation/templates/units/sheikah/sheikah_titan_bongobongo.xml:69
 msgid ""
@@ -12364,18 +12460,24 @@ msgid ""
 "appears as a large headless corpse with disembodied hands that follow it around as it "
 "goes."
 msgstr ""
+"Starověké monstrum které Kádr zapečetil pod vesnicí Kakariko před mnoha věky, tvor "
+"známý jako Bongo Bongo se stal pouze nejasnou legendou i ostatním Šejkům. Nirvatští "
+"Mniši se v minulosti občas pokoušeli ovládnout tohoto démona pro své vlastní účely. "
+"Mnoho pokusů selhalo, a Bongo Bongo působil zpoušť dokud nebyl znovu zapečetěn. "
+"Samotná příšera se objevune jako bezhlavá mrtvola s useknutými rukami které ji "
+"následují kam jde."
 
 #: simulation/templates/units/sheikah/sheikah_titan_bongobongo.xml:71
 msgid "Bongo Bongo"
-msgstr ""
+msgstr "Bongo Bongo"
 
 #: simulation/templates/units/sheikah/sheikah_titan_bongobongo.xml:72
 msgid "Camouflaged Legend unit that crushes enemies with its two massive hands."
-msgstr ""
+msgstr "Mýtická jednotka s kamufláží která drtí nepřátele svými dvěma masivními rukami."
 
 #: simulation/templates/units/sheikah/sheikah_trainee_b.xml:34
 msgid "Trainee"
-msgstr ""
+msgstr "Učeň"
 
 #: simulation/templates/units/sheikah/sheikah_trainee_b.xml:35
 msgid ""
@@ -12385,19 +12487,23 @@ msgid ""
 "Spy or Assassin. Trainees are armed with weapons from their respective clans, such as "
 "Ninjatos for Kakari or Sickles for Yiga."
 msgstr ""
+"Učňové jsou mladí inicianti v Kádru. Každý Klan si ze svého lidu vybírá slibné jedince "
+"které trénuje v různých Šejských bojových umění. Po desetiletí služby je Učeň povýšen "
+"a specializuje se na konktérní roli, například Špión nebo Vrah. Učňové jsou vyzbrojeni "
+"zbraněmi ze svých klanů, například nindžata pro Kakary a srpy pro Jigy."
 
 #: simulation/templates/units/sheikah/sheikah_trainee_b.xml:39
 msgid "Light Infantry Melee unit."
-msgstr ""
+msgstr "Lehká pěší jednotka."
 
 #: simulation/templates/units/sheikah/sheikah_wallmaster_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fist"
-msgstr ""
+msgstr "Pěst"
 
 #: simulation/templates/units/sheikah/sheikah_wallmaster_b.xml:47
 msgid "Wallmaster"
-msgstr ""
+msgstr "Zdidlaň"
 
 #: simulation/templates/units/sheikah/sheikah_wallmaster_b.xml:48
 msgid ""
@@ -12406,10 +12512,14 @@ msgid ""
 "Cadre sometimes dominates these vile creatures and uses them to their own ends, be it "
 "pinning down enemy targets or smashing the walls of buildings."
 msgstr ""
+"Monstrózní beztělná ruka které daly život zvláštní a zlé magie, Zdidlaně se samy "
+"ukrývají v nejhlubších a nejodlehlejších místech a dělá si své. Kádr občas tyto ohavná "
+"stvoření ovládne a využije je pro vlastní účely, ať už je to chytit nepřátelské cíle nebo "
+"rozbít zdi budov."
 
 #: simulation/templates/units/sheikah/sheikah_wallmaster_b.xml:53
 msgid "Siege Creature that rips buildings apart with its hand-like body."
-msgstr ""
+msgstr "Obléhací tvor který rozbíjí budovy svým celým tělem."
 
 #: simulation/templates/units/stalfos/stalfos_battleforged_b.xml:34
 msgid "Battleforged"
