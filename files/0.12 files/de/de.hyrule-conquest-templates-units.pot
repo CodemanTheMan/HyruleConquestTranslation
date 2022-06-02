@@ -6389,7 +6389,7 @@ msgstr ""
 
 #: simulation/templates/units/labrynna/labrynna_aquadongo_b.xml:37
 msgid "Aquadongo"
-msgstr ""
+msgstr "Aquadongo"
 
 #: simulation/templates/units/labrynna/labrynna_aquadongo_b.xml:38
 msgid ""
@@ -6399,14 +6399,18 @@ msgid ""
 "occasionally used Aquadongos to traverse dangerous oceans and attack enemies near "
 "bodies of water."
 msgstr ""
+"Ein auf der Mondinsel und im Wasser lebendes Reptil, das Labrynna ürsprünglich aufs Festland"
+"brachte um sie in Zoos auszustellen. Nach genügender Zähmung konnten ihnen Befehle erteilt "
+"um sie als Lastentiere zu nutzen. Das Reich nutze sie gelegentlich auch um stürmische Gewässer"
+"zu überqueren oder Gegner in Küstennähe anzugreifen."
 
 #: simulation/templates/units/labrynna/labrynna_aquadongo_b.xml:42
 msgid "Melee Creature unit that can swim across any body of water."
-msgstr ""
+msgstr "Nahkampfkreatur die durch jedes Gewässer schwimmt."
 
 #: simulation/templates/units/labrynna/labrynna_blainoboxer_b.xml:40
 msgid "Blaino Boxer"
-msgstr ""
+msgstr "Boxo Boxer"
 
 #: simulation/templates/units/labrynna/labrynna_blainoboxer_b.xml:41
 msgid ""
@@ -6415,14 +6419,17 @@ msgid ""
 "at times use these strange beasts to beat up enemy forces with their vicious punches "
 "and kicks"
 msgstr ""
+"Eine exotische Kreatur vom Berg ???, Boxos war einspitzname für diese feindlich gesinnten"
+"Kreaturen die mit alles und jedem Streit anfingen. Labrynna nutzte diese merkwürdigen Kreaturen,"
+"mit ihren fiesen Fausthieben und Tritten, um feindliche Truppen zusammenzuschlagen."
 
 #: simulation/templates/units/labrynna/labrynna_blainoboxer_b.xml:45
 msgid "Very fast moving Creature unit that beats up enemies with its fists."
-msgstr ""
+msgstr "Sehr schnelle Kreatur die Gegner mit ihren Fäusten Gegnern eins überzieht."
 
 #: simulation/templates/units/labrynna/labrynna_bluecaballero_b.xml:40
 msgid "Blue Caballerro"
-msgstr ""
+msgstr "Blauer Caballerro"
 
 #: simulation/templates/units/labrynna/labrynna_bluecaballero_b.xml:41
 msgid ""
@@ -6431,14 +6438,18 @@ msgid ""
 "horses in their homelands. While the rider poses little threat, enemy soldiers were "
 "rightfully more worried about being mauled by the bear itself."
 msgstr ""
+"Die Blauen Caballeros füllen den Mangel an Kavallerie den Labrynna aufgrund eines Pferdemangels"
+"jahrhunderte lang hatte mit den in der Grenzregion von Holodrum und Labrynna lebenden Blaubären."
+"Zwar ging von dem Reiter relativ wenig Gefahr aus, so waren die meisten Gegner doch eher darum "
+"behmüht nicht vom Bären zerfleischt zu werden."
 
 #: simulation/templates/units/labrynna/labrynna_bluecaballero_b.xml:46
 msgid "Aggresive Melee Cavalry unit that can maul enemies with their claws."
-msgstr ""
+msgstr "Aggresive Nahkampf Kavallerie die Gegner mit ihren Klauen reißt."
 
 #: simulation/templates/units/labrynna/labrynna_borderguard_b.xml:42
 msgid "Borderguard"
-msgstr ""
+msgstr "Grenzwache"
 
 #: simulation/templates/units/labrynna/labrynna_borderguard_b.xml:43
 msgid ""
