@@ -5249,7 +5249,7 @@ msgid ""
 "lack experience and notable armor, they can cause quite a dent in enemy armor with "
 "their blunt weapons."
 msgstr ""
-"Rekrutiert während Kriegszeiten aus ihren Dörfern und Städten, wurden diesen Rekruten"
+" Während Kriegszeiten aus ihren Dörfern und Städten rekrutiert, wurden diesen Rekruten"
 "ein einfacher Schild und Kolben gegeben um die Armeen von Hyrule zu Schützen und Stärken."
 "Auch wennn s ihnen an Erfahrung und Rüstung mangelte, konnten sie selber ordentliche"
 "Dellen in feindliche rüstung mit ihren stumpfen Waffen schlagen."
@@ -5473,10 +5473,13 @@ msgid ""
 "battering rams to break down walls and storm their targets. Their Siege Rams were "
 "capped and could protect its crew from projectiles."
 msgstr ""
+"Wenn das Aushungern des Feindes keinen Erfolg versprach, nutzten die Hylianer
+"ihre Rammböcke um Mauern einzureissen und ihre Ziele zu stürmen. Diese Rämme"
+"waren Beschlagen und beschützten ihre Mannschaft vor Projektilen. "
 
 #: simulation/templates/units/hylian/hylian_siegeram_b.xml:39
 msgid "Close combar Siege unit that can batter down enemy structures."
-msgstr ""
+msgstr "Nahkampf Belagerungswaffe"
 
 #: simulation/templates/units/hylian/hylian_soldier_archer.xml:41
 msgid "Soldier Archer"
@@ -5596,7 +5599,9 @@ msgid ""
 " into the hands of the Kingdom's enemies. Armed with a powerful mace, these warriors "
 "may be slow, but they can smash through most armor, and are quite durable themselves."
 msgstr ""
-
+"Ein Orden von Kriegermönchen die von Rauru höchstpersönlich gegründet wurden um das Triforce"
+"davor zu schützen in falsche Hände zu fallen. Sie sind mit einem mächtigen Streitkolben "
+"bewaffnet der Rüstung zerschmettert. Diese Krieger sind langsam aber hart im nehmen."
 #: simulation/templates/units/hylian/hylian_vanguard_b.xml:50
 msgid "Triforce Vanguard"
 msgstr "Triforce Vorhut"
@@ -5609,7 +5614,7 @@ msgid ""
 msgstr ""
 "Raurus einzigartige Einheit. Langsame Infanterie mit einen Streitkolben bewaffnet ist."
 "Sehr resistent gegen alle Arten der Magie, immun gegen Rückstoß. Außerdem kriegt sie "
-"einen Rüstbonus i freundlichen Territorium."
+"einen Rüstbonus in freundlichen Territorium."
 
 #: simulation/templates/units/hylian/malkariko_crossbowman_b.xml:3
 msgid "Malkariko Crossbowman"
@@ -5654,8 +5659,8 @@ msgid ""
 " buildings but not nearly as powerful as most siege weapons."
 msgstr ""
 "Kleine Belagerungswaffe die Felsen auf Ziele schleudert. Nützlich um Mauern und Gebäude "
-"einzureissen aber schwächer als die meisten Belagerungswafffen.
-"
+"einzureissen aber schwächer als die meisten Belagerungswafffen."
+
 #: simulation/templates/units/kokiri/kokiri_buckrider_b.xml:41
 msgid "Buck Rider"
 msgstr "Hirsch Reiter"
@@ -5727,7 +5732,8 @@ msgstr "Kokiri Häuptling mit Axt in der Hand.Verbessert die Leistung von"
 msgid ""
 "Mounted Kokiri Commander unit armed with an axe, improves the performance of Kokiri "
 "infantry within its aura."
-msgstr "Reitender Kokiri Häuptling mit Axt in der Hand. Verbessert die Leistung von"
+msgstr ""
+"Reitender Kokiri Häuptling mit Axt in der Hand. Verbessert die Leistung von"
 "Kokiri Infanterie"
 
 #: simulation/templates/units/kokiri/kokiri_civilianA.xml:8
@@ -5782,7 +5788,8 @@ msgstr ""
 msgid ""
 "Saria's Unique Unit. Large lumbering Creature Siege unit that can cross deep bodies of "
 "water. Can be garrisoned with infantry units."
-msgstr ""Sarias einzigartige einheit. Große schwerfällige Belagerungskreatur die    
+msgstr ""
+"Sarias einzigartige einheit. Große schwerfällige Belagerungskreatur die    
 "Gewässer überqueren kann."
 
 #: simulation/templates/units/kokiri/kokiri_dekutree_large_b.xml:83
@@ -5814,7 +5821,7 @@ msgstr ""
 
 #: simulation/templates/units/kokiri/kokiri_emarcher_b.xml:42
 msgid "Emerald Archer"
-msgstr ""
+msgstr "Smaragdschützen"
 
 #: simulation/templates/units/kokiri/kokiri_emarcher_b.xml:43
 msgid ""
@@ -5823,21 +5830,27 @@ msgid ""
 "Archers could snipe enemies from a very long distance, as well as retreat to safe "
 "ground should the enemy close the gap."
 msgstr ""
+"Smaragd Schützen sind ein paar der langlebigsten Kokiri, die kurz vor der Verwandlung "
+"in einen Korok stehen. Mit einem guten altem Waldbogen und scharfem Blick, waren die"
+"Smaragdschützen auch ausgezeichnete Scharfschützen und verstanden sich darauf zurück-"
+"zuziehen sollte der Feinde näherrücken."
 
 #: simulation/templates/units/kokiri/kokiri_emarcher_b.xml:47
 msgid ""
 "Elite Kokiri Missile unit with a long range and decent movement speed. Can also "
 "Camouflage and inflict Magic Damage through the Fairy Bow upgrade."
 msgstr ""
+"Elite Fernkämpfer mit hoher reichweite und schnellem Fuß. Kann sich außerdem tarnen "
+"und Magieschaden mit der Feenbogen Technologie austeilen"
 
 #: simulation/templates/units/kokiri/kokiri_enchant_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Guardian Fairy"
-msgstr ""
+msgstr "Schutzfee"
 
 #: simulation/templates/units/kokiri/kokiri_enchant_b.xml:41
 msgid "Enchantress"
-msgstr ""
+msgstr "Verzauberin "
 
 #: simulation/templates/units/kokiri/kokiri_enchant_b.xml:43
 msgid ""
@@ -5845,11 +5858,15 @@ msgid ""
 "often quite old for a Kokiri and they tend to display a mischievous (and sometimes "
 "downright mean-spirited) sense of humor. The Enchantress can confuse enemies and "
 "deflect ranged attacks back at their attackers."
-msgstr ""
+msgstr 
+"Eine seltene Kokiri Magierin die sich mit ein paar abtrünnigen Feen angefreundet hat. "
+"Sie sind oft sehr alt für Kokiri und haben oft einen schelmischen (und manchmal sogar"
+"boshaften) Sinn für Humor. Eine Verzauberin kann Gegner verwirren und magische Attacken"
+"zurück auf ihre Gegner Werfen"
 
 #: simulation/templates/units/kokiri/kokiri_enchant_b.xml:48
 msgid "Support Mage unit that can deflect ranged projectile back at their attackers."
-msgstr ""
+msgstr "Uterstützungsmagierin die magische Projektile zurückwirft."
 
 #: simulation/templates/units/kokiri/kokiri_explorer_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
@@ -5876,7 +5893,7 @@ msgstr ""
 
 #: simulation/templates/units/kokiri/kokiri_fiddler_b.xml:25
 msgid "Fiddler"
-msgstr ""
+msgstr "Geiger"
 
 #: simulation/templates/units/kokiri/kokiri_fiddler_b.xml:27
 msgid ""
@@ -5885,17 +5902,21 @@ msgid ""
 " playing Fiddlers. When marching into battle these players could improve the speed with"
 " which fellow Kokiri moved."
 msgstr ""
+"Musik wird bei den Kokiri sehr geschätzt und ihre musikalischen Kreationen waren Hyruleweit"
+"bekannt. Ihre wahrscheinlich bekanntesten Kompositionen kamen von diesen Violine spielenden"
+"Geigern. Wenn sie in die Schlacht marschieren können diese Musikanten den Laufschritt ihrer"
+"Kokiri Freunde verbessern"
 
 #: simulation/templates/units/kokiri/kokiri_fiddler_b.xml:33
 msgid "Fado's Unique Unit. Support unit that improves all Kokiri units with his music."
-msgstr ""
+msgstr ""Fodos einzigartige Einheit. Unterstützungseinheit die alle Kokiri mit Musik verbessert"
 
 #: simulation/templates/units/kokiri/kokiri_fiddler_songearth.xml:14
 #: simulation/templates/units/kokiri/kokiri_fiddler_songwind.xml:19
 #: simulation/templates/units/kokiri/kokiri_fiddler_upg_songearth.xml:14
 #: simulation/templates/units/kokiri/kokiri_fiddler_upg_songwind.xml:19
 msgid "Play the Saria's Song."
-msgstr ""
+msgstr "Spiel Salias lied"
 
 #: simulation/templates/units/kokiri/kokiri_fiddler_songearth.xml:19
 #: simulation/templates/units/kokiri/kokiri_fiddler_songsaria.xml:14
@@ -5905,7 +5926,7 @@ msgstr ""
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songsaria.xml:16
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songstorm.xml:21
 msgid "Play the Wind God's Aria."
-msgstr ""
+msgstr "Spiel die Hymne des Zephirgottes"
 
 #: simulation/templates/units/kokiri/kokiri_fiddler_songsaria.xml:19
 #: simulation/templates/units/kokiri/kokiri_fiddler_songwind.xml:14
@@ -5915,11 +5936,11 @@ msgstr ""
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songstorm.xml:26
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songwind.xml:16
 msgid "Play the Earth God's Lyric."
-msgstr ""
+msgstr "Spiel die Hymne des Terragottes"
 
 #: simulation/templates/units/kokiri/kokiri_grovewatch_b.xml:33
 msgid "Grove Watcher"
-msgstr ""
+msgstr "Hain Hüter"
 
 #: simulation/templates/units/kokiri/kokiri_grovewatch_b.xml:34
 msgid ""
@@ -5928,17 +5949,22 @@ msgid ""
 " kind, their bravery is unmatched and they will fight to the death to protect the "
 "forest from invaders."
 msgstr ""
+"Ein pflichtberufener Soldat, ausgestattet mit dem Ikonischen Kokiri-Schwert und Dekuschild."
+"Diese Krieger werden dafür ausgebildet die Haine des Waldes zu bewachen. Anders als die meisten"
+"ihrer Art, beweisen sie unvergleichlichen Mut und kämpfen bis in den Tod zum Schutz des Waldes"
 
 #: simulation/templates/units/kokiri/kokiri_grovewatch_b.xml:39
 msgid ""
 "Medium Melee unit armed with a sword and shield that is also partially resistant to "
 "Knockback. Can also Camouflage and is unaffected by Fear and Terror. Finally, gain "
 "improved stats when fighting within friendly territory."
-msgstr ""
+msgstr "" 
+"Mittlere Infanterie mit Schwert und Schild die etwas Rückstoß resistent sind."
+"Kann sich tarnen und spürt keine Angst. Verbesserte Werte im eigenen Territorium"
 
 #: simulation/templates/units/kokiri/kokiri_hero_domiso.xml:34
 msgid "The Know-It-All-Brothers"
-msgstr ""
+msgstr "Allwissende Brüder"
 
 #: simulation/templates/units/kokiri/kokiri_hero_domiso.xml:36
 msgid ""
@@ -5946,19 +5972,22 @@ msgid ""
 "no Kokiri can tell the brothers apart. They spend most of their time doing chores "
 "around the Deku Tree's Grove, much to their dismay. The leader of the brothers, Domiso,"
 " is a bit skilled with a sword and can defend his people if needs be."
-msgstr ""
+msgstr"" 
+"Die allwissenden Brüder sind berühmt dafür das sie niemand auseinanderhalten kann."
+"Zu ihrem Leid müssen sie die meiste Zeit Hausarbeiten um den Hain des Dekubaumes abarbeiten."
+"Ihr Anführer Domiso kann mit dem Schwert umgehen und seine Leute in der Not verteidigen"
 
 #: simulation/templates/units/kokiri/kokiri_hero_domiso.xml:40
 msgid "Domiso"
-msgstr ""
+msgstr "Domiso"
 
 #: simulation/templates/units/kokiri/kokiri_hero_domiso.xml:41
 msgid "Melee Hero that summons his brothers to battle."
-msgstr ""
+msgstr "Schwertkämpfender Held der seine Brüder beschwört."
 
 #: simulation/templates/units/kokiri/kokiri_hero_fado_base.xml:31
 msgid "Sage of Winds"
-msgstr ""
+msgstr "Weise des Windes"
 
 #: simulation/templates/units/kokiri/kokiri_hero_fado_base.xml:33
 msgid ""
@@ -5968,39 +5997,45 @@ msgid ""
 " to domesticate feral beasts and monsters by playing the right tune. Fado was a friend "
 "of Saria’s and he was deeply fond of her. When she needed an heir to replace her as a "
 "Sage he volunteered for the title."
-msgstr ""
+msgstr""
+"Fodo war ein sehr talentierter Musiker und beliebter Geiger unter den Kokiri. Er war"
+"Pazifist und weigerte sicher etwas lebendem nur ein Haar zu krümmen, so schwer es auch"
+"war das einzuhalten. Seine Musik schien etwas magisches zu an sich zu haben denn er konnte "
+"wilde Bestien und Monster mit den richtigen Noten zähmen. Fodo war ein Freund Salias und "
+"hatte sie mochte sie sehr. Wenn sie einen Erben als Weisen benötigte meldete er sich"
+"freiwillig"
 
 #: simulation/templates/units/kokiri/kokiri_hero_fado_base.xml:37
 msgid "Fado"
-msgstr ""
+msgstr "Fodo"
 
 #: simulation/templates/units/kokiri/kokiri_hero_fado_base.xml:38
 msgid "Support Hero that can create many powerful global buffs and debuffs."
-msgstr ""
+msgstr "Unterstützungsheld der viele Kartenweite Stärkungen und Schwächungen verursacht"
 
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songearth.xml:21
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songofstorms.xml:16
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songsaria.xml:26
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songwind.xml:21
 msgid "Play the Song of Storms."
-msgstr ""
+msgstr "Spiel die Hymne des Sturms"
 
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songearth.xml:26
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songstorm.xml:31
 #: simulation/templates/units/kokiri/kokiri_hero_fado_songwind.xml:26
 msgid "Play Saria's Song."
-msgstr ""
+msgstr "Spiel Salias Lied"
 
 #: simulation/templates/units/kokiri/kokiri_hero_fadola.xml:4
 #: simulation/templates/units/kokiri/kokiri_slingshotter_b.xml:4
 #: simulation/templates/units/kokiri/kokiri_slingshotter_garrison.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Deku Seeds"
-msgstr ""
+msgstr "Deku Kerne"
 
 #: simulation/templates/units/kokiri/kokiri_hero_fadola.xml:47
 msgid "Kokiri Watcher"
-msgstr ""
+msgstr "Kokiri Aufpasser"
 
 #: simulation/templates/units/kokiri/kokiri_hero_fadola.xml:49
 msgid ""
@@ -6009,19 +6044,23 @@ msgid ""
 " that know her. Rumor has it that Fadola is the world's greatest Slingshotter, but she "
 "lacks the pride to boast and prove if it's true."
 msgstr ""
+"Fado is eine der weniger gesselligen Kokiri die ihre Zeit oft an hohen Orten verbringt auf"
+"die sich die anderen Kokiri nicht trauen. Sie ist sehr gelassen und freundlich für die die"
+"sie kennen. Gerüchten zufolge ist sie die beste Steinschleuderin der Welt , aber sie hat "
+"nicht den Stolz damit anzugeben und es zu beweisen."
 
 #: simulation/templates/units/kokiri/kokiri_hero_fadola.xml:53
 msgid "Fadola"
-msgstr ""
+msgstr "Fado"
 
 #: simulation/templates/units/kokiri/kokiri_hero_fadola.xml:54
 msgid "Ranged hero that attacks with her Slingshot."
-msgstr ""
+msgstr "Fernkämpferin mit Steinschleuder"
 
 #: simulation/templates/units/kokiri/kokiri_hero_gulley.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Antlers"
-msgstr ""
+msgstr "Geweih"
 
 #: simulation/templates/units/kokiri/kokiri_hero_gulley.xml:34
 msgid "The First Kokiri"
@@ -6090,7 +6129,7 @@ msgstr ""
 
 #: simulation/templates/units/kokiri/kokiri_hero_saria.xml:43
 msgid "Sage of the Forests"
-msgstr ""
+msgstr "Weise des Waldes"
 
 #: simulation/templates/units/kokiri/kokiri_hero_saria.xml:45
 msgid ""
@@ -6101,20 +6140,28 @@ msgid ""
 "after facing her untimely death. She was extremely fond of music and was quite skilled "
 "in playing the Ocarina, Fiddle, and several other instruments."
 msgstr ""
+"Geboren um die Erbin des Großen Dekubaumes als Weise und Königin der Kokiri zu werden,"
+"war sie seine größte Schöpfung. Trotz seiner Bemühungen die Kokiri zu beschützen, wurde "
+"Salia in der Schlacht getötet und der große Dekubaum war gezwungen sie viel früher als Weise"
+"zu erwecken als er plante. Salia war für ihren optimistische Lebenseinstellung bekannt,"
+"selbst nach ihrem frühen Tod- Sie mochte die Musik und war geschickt darin Okarina, Fideln"
+"und andere Instrumente zu spielen."
 
 #: simulation/templates/units/kokiri/kokiri_hero_saria.xml:49
 msgid "Saria"
-msgstr ""
+msgstr "Salia"
 
 #: simulation/templates/units/kokiri/kokiri_hero_saria.xml:50
 msgid ""
 "Quick Missile Hero with a powerful long ranged magic attack and the ability to "
 "Camouflage."
 msgstr ""
+"Schnelle Fernkampfheldin mit magischen Angriffen und der Fähigkeit sich"
+"zu tarnen"
 
 #: simulation/templates/units/kokiri/kokiri_huntingfox_b.xml:40
 msgid "Hunting Fox"
-msgstr ""
+msgstr "Jagdfuchs"
 
 #: simulation/templates/units/kokiri/kokiri_huntingfox_b.xml:41
 msgid ""
@@ -6123,10 +6170,12 @@ msgid ""
 "storehouses. A mossy green color grows on their backsides, allowing them to hide in the"
 " underbrush and ambush their prey."
 msgstr ""
+"Eine kleine und Schnelle Kreatur die von den Kokiri zur Jagd eingesetzt wird."
+"Ein moosiges grünliches Fell wächst auf ihren Rücken zur Tarnung."
 
 #: simulation/templates/units/kokiri/kokiri_huntingfox_b.xml:45
 msgid "Quick Creature unit that can hunt for meat."
-msgstr ""
+msgstr "Schnelle Kreatur"
 
 #: simulation/templates/units/kokiri/kokiri_mantlet_b.xml:47
 msgid "Mudman Mantlet"
@@ -6148,21 +6197,24 @@ msgstr ""
 #: simulation/templates/units/kokiri/kokiri_minutemen_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Kitchen Tools"
-msgstr ""
+msgstr "Küchengeräte"
 
 #: simulation/templates/units/kokiri/kokiri_minutemen_b.xml:35
 msgid "Minutemen"
-msgstr ""
+msgstr "Minutenkinder"
 
 #: simulation/templates/units/kokiri/kokiri_minutemen_b.xml:36
 msgid ""
 "Everyday citizens of the Kokiri on constant standby for enemy invaders. Everything from"
 " kitchen knives to deku sticks are picked up and used as weapons to defend their homes."
 msgstr ""
+"Die Zivilisten der Kokiri die permanent abrufbar sind bei feindlichen Invasionen. Alles"
+"von Küchenmesser bis Dekustöcken wurde als Waffe zweckentfremdet um ihre Heime zu schützen."
+
 
 #: simulation/templates/units/kokiri/kokiri_minutemen_b.xml:40
 msgid "Cheap Infantry Melee unit that can be deployed in large numbers. Can also Camouflage."
-msgstr ""
+msgstr "Billige Infanterie die in großer Zahl eingesetzt wird. Kann sich tarnen."
 
 #: simulation/templates/units/kokiri/kokiri_mudjabber_b.xml:38
 msgid "Mudman Jabber"
@@ -6206,7 +6258,7 @@ msgstr ""
 
 #: simulation/templates/units/kokiri/kokiri_shrinecourage_b.xml:24
 msgid "Shrine of Courage"
-msgstr ""
+msgstr "Schrein des Mutes"
 
 #: simulation/templates/units/kokiri/kokiri_shrinecourage_b.xml:25
 msgid ""
