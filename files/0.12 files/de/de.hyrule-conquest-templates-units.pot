@@ -6274,7 +6274,7 @@ msgstr ""
 
 #: simulation/templates/units/kokiri/kokiri_slingshotter_b.xml:45
 msgid "Slingshotter"
-msgstr ""
+msgstr "Steinschleuderer"
 
 #: simulation/templates/units/kokiri/kokiri_slingshotter_b.xml:46
 msgid ""
@@ -6282,16 +6282,20 @@ msgid ""
 " with their attack. Slingshotters might not pack much of a punch but a cluster of them "
 "can send enemies spinning in circles."
 msgstr ""
+"Zwar haben diese Fernkämpfer nicht viel Schaden und Reichweite, aber mit ihren Feenschleudern"
+"können sie in großen Gruppen Gegner Sterne sehen lassen."
 
 #: simulation/templates/units/kokiri/kokiri_slingshotter_b.xml:49
 msgid ""
 "Light and cheap missile unit that has a small chance to stun enemy units with its "
 "ranged attack."
-msgstr ""
+msgstr 
+"Leichte und billiger Distanzkämpfer der eine Chance hat feindliche Einheiten"
+"mit einem Angriff zu betäuben."
 
 #: simulation/templates/units/kokiri/kokiri_stagchariot_b.xml:57
 msgid "Stag Chariot"
-msgstr ""
+msgstr "Hirschwagen"
 
 #: simulation/templates/units/kokiri/kokiri_stagchariot_b.xml:59
 msgid ""
@@ -6301,6 +6305,10 @@ msgid ""
 "They were not particularly strong but could be garrisoned with a pair of ranged units "
 "to boost their damage output."
 msgstr ""
+"Ein leichter und wendiger Streitwagen, der vermutlich von denen inspiert war, die die Vorfahren"
+"der Kokiri, Hylianische Banditen, benutzten. Die Kokiri würden sie öfter mal zum Transport von"
+"Vorräten benutzten, aber in Kriegszeiten transportierten sie Soldaten an die Front. Sie waren  "
+"nicht besonders stark aber konnten ein paar Fernkämpfer mitnehmen um Schaden zu verursachen."
 
 #: simulation/templates/units/kokiri/kokiri_stagchariot_b.xml:64
 msgid "Gulley's Unique Unit. Fast Cavalry Support Unit that can garrison other units inside."
@@ -6308,7 +6316,7 @@ msgstr ""
 
 #: simulation/templates/units/kokiri/kokiri_titan_gdt.xml:73
 msgid "The Great Deku Tree"
-msgstr ""
+msgstr "Der große Deku Baum"
 
 #: simulation/templates/units/kokiri/kokiri_titan_gdt.xml:74
 msgid ""
@@ -6318,18 +6326,21 @@ msgid ""
 "uprooted, he is a slow moving creature unit that deals massive area damage around "
 "himself."
 msgstr ""
+"Dieses mächtige und stämmige Wesen ist der Herr über den gesamten Kokiri Wald und Schutzpatron"
+"vieler Waldvölker. Er kann sich einpflanzen und entwurzeln. Eingepflanzt dient er als Turm und"
+Entwurzelt  ist er eine Langsame Kreatur die großen Schaden um sich herum verursacht"
 
 #: simulation/templates/units/kokiri/kokiri_titan_gdt.xml:77
 msgid "Kasuto"
-msgstr ""
+msgstr "Kasuto"
 
 #: simulation/templates/units/kokiri/kokiri_titan_gdt.xml:78
 msgid "Kokiri Titan unit. Giant Melee unit capable of attacking large enemy groups."
-msgstr ""
+msgstr "Kokiri Titan. Giganischer Kämpfer der große Gruppen im Nahkampf attackiert."
 
 #: simulation/templates/units/kokiri/kokiri_tree.xml:20
 msgid "Kokiri Forest Tree"
-msgstr ""
+msgstr "Kokiri Baum"
 
 #: simulation/templates/units/kokiri/kokiri_tree.xml:21
 msgid "Harvest Kokiri Forest Tree for wood. Max gatherers: 1."
@@ -8218,7 +8229,7 @@ msgstr ""
 #: simulation/templates/units/ordona/ordona_hero_ashei_b.xml:42
 #: simulation/templates/units/ordona/ordona_theresistance_b.xml:63
 msgid "Mercenary"
-msgstr ""
+msgstr "Söldner"
 
 #: simulation/templates/units/merc_deadarm_b.xml:37
 #: simulation/templates/units/sheikah/sheikah_deadarm_b.xml:37
