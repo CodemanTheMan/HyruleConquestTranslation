@@ -6370,7 +6370,7 @@ msgstr ""
 
 #: simulation/templates/units/kokiri/kokiri_wolfos_b.xml:35
 msgid "Wolfos"
-msgstr ""
+msgstr "Wolfos"
 
 #: simulation/templates/units/kokiri/kokiri_wolfos_b.xml:37
 msgid ""
@@ -6469,14 +6469,18 @@ msgid ""
 "Armed with a Crossbow these sentinels could ambush and delay invaders long enough to "
 "warn the Empire of their intrusion."
 msgstr ""
+"An den Rändern des Reiches war die Landschaft durchsägt mit Türmen und Außenposten."
+"Grenzwachen wurden an solchen Orten stationiert um gegen feindliche Einmärsche vorzugehen."
+"Mit Armbrüsten konnten diese Wächter aus dem Hinterhalt angreifen um das Königreich vor "
+"der Invasion zu warnen."
 
 #: simulation/templates/units/labrynna/labrynna_borderguard_b.xml:47
 msgid "Ranged Missile unit armed with an armor piercing crossbow."
-msgstr ""
+msgstr "Fernkämpfer mit einer Armbrust ausgerüstet."
 
 #: simulation/templates/units/labrynna/labrynna_brigada_b.xml:39
 msgid "Brigada"
-msgstr ""
+msgstr "Brigada"
 
 #: simulation/templates/units/labrynna/labrynna_brigada_b.xml:40
 msgid ""
@@ -6484,20 +6488,23 @@ msgid ""
 "Labrynna's multiple fronts, answering only to the Queen herself. Brigadas had years of "
 "academic training, as well as personal experience in multiple skirmishes and campaigns."
 msgstr ""
+"Brigadas, zu erkennen an ihren Goldenen Leunen Masken, waren die Oberbefehlshaber an Labrynnas"
+"vielen Fronten und antworteten nur der Königin. Brigadas hatten Jahre von akademischen "
+"Training hinter sich, und Ehrfahrung in mehreren Scharmützeln und Kampagnen."
 
 #: simulation/templates/units/labrynna/labrynna_brigada_b.xml:44
 msgid "Labrynnian Commander unit who leads other soldiers into battle."
-msgstr ""
+msgstr "Labrynnischer Kommandant der andere Soldaten in die Schlacht führt."
 
 #: simulation/templates/units/labrynna/labrynna_campeador_b.xml:4
 #: simulation/templates/units/zora/zora_halberdier_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Halberd"
-msgstr ""
+msgstr "Hellebarde"
 
 #: simulation/templates/units/labrynna/labrynna_campeador_b.xml:34
 msgid "Campeador"
-msgstr ""
+msgstr "Campeador"
 
 #: simulation/templates/units/labrynna/labrynna_campeador_b.xml:36
 msgid ""
@@ -6509,12 +6516,20 @@ msgid ""
 "Blue Bear; personally killing one of these beasts is a requirement to enter into their "
 "order."
 msgstr ""
+"Ein Ritterorden der sich kurz vor dem Aufstieg des Königreiches gebildet hat und sind"
+"eine der wenigen Gruppen die etwas getrennt vom Reich sind. Sie stehen allerdings nicht"
+"über Bezahlung, und die Krone ist mehr als willig ihre Ränke mit diesen Rittern gegen "
+"Nahrung und Rubine aufzufüllen. Die Campeador sind bekannt für ihre Hellebarden, goldene"
+"Bärenmasken und und einem gehäuteten Fell von einem Blaubären. Eine dieser Bestien zu "
+"erlegen war ain Aufnahmekriterium um in den Orden einzutreten."
 
 #: simulation/templates/units/labrynna/labrynna_campeador_b.xml:41
 msgid ""
 "Edgar the Giant's Unique Unit. Strong Melee Knight armed with a halberd, excellent at "
 "fighting Creature units."
-msgstr ""
+msgstr 
+"Einzigartige Einheit von Edgar dem Riesen. Starker Ritter mit Hellebarde."
+"Ausgezeichnet im Bekämpfen von Kreaturen"
 
 #: simulation/templates/units/labrynna/labrynna_cannon.xml:4
 #: simulation/templates/units/labrynna/labrynna_cannon_common.xml:4
@@ -6523,12 +6538,12 @@ msgstr ""
 #: simulation/templates/units/ordona/ordona_theresistance_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Cannonball"
-msgstr ""
+msgstr "Kanonenkugel"
 
 #: simulation/templates/units/labrynna/labrynna_cannon.xml:61
 #: simulation/templates/units/labrynna/labrynna_cannon_common.xml:62
 msgid "Cannon"
-msgstr ""
+msgstr "Kanone"
 
 #: simulation/templates/units/labrynna/labrynna_cannon.xml:62
 #: simulation/templates/units/labrynna/labrynna_cannon_common.xml:63
@@ -6536,23 +6551,26 @@ msgid ""
 "The powerful cannons of Labrynna were some of the deadliest siege weapons of their "
 "time. They easily outmatched many other conventional siege engines found in Hyrule, and"
 " could tear apart walls and buildings with ease."
-msgstr ""
+msgstr 
+"Die mächtigen Kanonen Labrynnas gehörten zu den tödlichsten Belagerungswaffen ihrer Zeit."
+"Sie übertrafen die meisten Konventionellen Belagerungswaffen in Hyrule und konnten Mauern"
+"und Gebäude mit Einfachheit zerschmettern."
 
 #: simulation/templates/units/labrynna/labrynna_cannon.xml:64
 #: simulation/templates/units/labrynna/labrynna_cannon_common.xml:65
 msgid "Extremely powerful and long ranged Siege weapon."
-msgstr ""
+msgstr "Belagerungswaffe mit extremer Kraft und hoher Reichweite. "
 
 #: simulation/templates/units/labrynna/labrynna_conqueror_b.xml:4
 #: simulation/templates/units/labrynna/labrynna_hero_ralph.xml:4
 #: simulation/templates/units/labrynna/labrynna_pioneer_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Bullets"
-msgstr ""
+msgstr "Kugeln"
 
 #: simulation/templates/units/labrynna/labrynna_conqueror_b.xml:42
 msgid "Conqueror"
-msgstr ""
+msgstr "Konquistador"
 
 #: simulation/templates/units/labrynna/labrynna_conqueror_b.xml:43
 msgid ""
@@ -6561,14 +6579,18 @@ msgid ""
 " Conquerors could devastate enemies with volleys of gunfire and then engage in a melee "
 "when things became hectic. "
 msgstr ""
+"Die Konquistadoren, erkennbar an der MAske eines grimmigen Leunen, waren die primären"
+"Fußsoldaten und mitwirked an der rapiden Expansion. Bewaffnet mit Büchse und Degen"
+"konnten die Konquistadoren Gegner im Kugelhagel verheerenden Schaden anrichten und"
+"danach im Nahkampf agieren falls die Situation hitzig wurde."
 
 #: simulation/templates/units/labrynna/labrynna_conqueror_b.xml:47
 msgid "Powerful Missile unit that can puncture many armors with their gunpowder rifles. "
-msgstr ""
+msgstr "Mächtiger Fernkämpfer die mit Donnerbüchsen Rüstungen durchdringt"
 
 #: simulation/templates/units/labrynna/labrynna_guerrilla_b.xml:26
 msgid "Tokay Guerrilla"
-msgstr ""
+msgstr "Tokay Guerilla"
 
 #: simulation/templates/units/labrynna/labrynna_guerrilla_b.xml:28
 msgid ""
@@ -6586,7 +6608,7 @@ msgstr ""
 
 #: simulation/templates/units/labrynna/labrynna_handcannon_b.xml:66
 msgid "Hand Cannoneer"
-msgstr ""
+msgstr "Handrohrschützen"
 
 #: simulation/templates/units/labrynna/labrynna_handcannon_b.xml:67
 msgid ""
@@ -6595,14 +6617,18 @@ msgid ""
 "barrage of volley fire often did enough damage to enemy morale to send half their army "
 "into retreat."
 msgstr ""
+"Mit einer großen mächtigen und handlichen Donnerbüchse, konnten diese Kanoniere Gegner "
+"mit explosiven Sperrfeuer eindecken. Trotz ihrer Ungenauigkeit, konnte ein Hagel von"
+"Feuerslaven genug Schaden an der gegnerischen Moral verursachen um die Hälfte einer "
+"Armee in die Flucht zu schlagen."
 
 #: simulation/templates/units/labrynna/labrynna_handcannon_b.xml:70
 msgid "Long ranged Missile unit armed with an explosive portable cannon."
-msgstr ""
+msgstr "Fernkämpfer mit einer explosiven weitreichenden Kanone."
 
 #: simulation/templates/units/labrynna/labrynna_hero_ambi.xml:35
 msgid "Queen of Labrynna"
-msgstr ""
+msgstr "Königin von Labrynna"
 
 #: simulation/templates/units/labrynna/labrynna_hero_ambi.xml:37
 msgid ""
@@ -6615,18 +6641,25 @@ msgid ""
 " depression seemed to overcome her, as well as a great sense of impatience for "
 "everything."
 msgstr ""
+"Die derzeitige Königin aus der langen Ambi Dynastie, Königin Solado Ambi, bestieg den "
+"Thron kurz nach dem Tod ihres Vaters. Irgendwann in ihrer Herrschaft begegnete sie Veran "
+"die kurz darauf als persönlicher Beraterin fungierte. Kurz darauf leitete Ambi eine Zeit "
+"der Expansion ein und etablierte des Königreich."Königin Ambi war während ihrer ersten"
+"Phase ihrer Herrschaft als sanftmütige Person bekannt. Kurz nach Verans Eintritt ihren"
+"Hof verschlechterte sich ihr Verhalten. Depressive Phasen überkamen sie und eine große  "
+"Ungeduld für jede Kleinigkeit."
 
 #: simulation/templates/units/labrynna/labrynna_hero_ambi.xml:41
 msgid "Solado Ambi"
-msgstr ""
+msgstr "Solado Ambi"
 
 #: simulation/templates/units/labrynna/labrynna_hero_ambi.xml:42
 msgid "Commanding Hero unit who augments her soldiers with powerful abilities."
-msgstr ""
+msgstr "Kommandantin die ihre Soldaten mit mächtigen Fähigkeiten verstärkt."
 
 #: simulation/templates/units/labrynna/labrynna_hero_edgar.xml:60
 msgid "Giant of Labrynna"
-msgstr ""
+msgstr "Riese von Labrynna"
 
 #: simulation/templates/units/labrynna/labrynna_hero_edgar.xml:62
 msgid ""
@@ -6637,11 +6670,12 @@ msgid ""
 "found himself conquering them. In recent times he has found himself supervising the "
 "young and arrogant Ralph on behalf of the Queen just as much as he has been ordered to "
 "march out further north."
-msgstr ""
+msgstr 
+""
 
 #: simulation/templates/units/labrynna/labrynna_hero_edgar.xml:66
 msgid "Edgar"
-msgstr ""
+msgstr "Edgar"
 
 #: simulation/templates/units/labrynna/labrynna_hero_edgar.xml:67
 msgid "Towering Melee Hero armed with a long reaching glaive."
