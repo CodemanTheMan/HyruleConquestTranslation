@@ -4213,10 +4213,11 @@ msgid ""
 "control of anger, which the Gorons have long considered a danger due to their tendency "
 "to lose control during fits of rage. On the battlefield this is less of a problem, and "
 "Berserkers can unleash quite a flurry of punches when worked up into a frenzy."
-msgstr "Berserker waren individuen die ihrem Leben dem der Hingabe und der Kontrolle"
-"ihres Ingrimms widmeten was von den Goronen lange verpönt wurde das sie in ihrer Wut"
-"oft die Beherrschung verlieren. Auf dem Schlachtfeld ist dies ein kleineres Problem"
-und die Berserker konnten einen ordentlichen Hagel von schlägen entfesseln wenn sie"
+msgstr ""
+"Berserker waren individuen die ihrem Leben dem der Hingabe und der Kontrolle ihres"
+"Ingrimms widmeten was von den Goronen lange verpönt wurde das sie in ihrer Wut oft"
+"die Beherrschung verlieren. Auf dem Schlachtfeld ist dies ein kleineres Problem"
+"und die Berserker konnten einen ordentlichen Hagel von Schlägen entfesseln wenn sie"
 "sich zur Raserei trieben"
 
 #: simulation/templates/units/goron/goron_berserker_b.xml:47
@@ -4245,7 +4246,8 @@ msgid ""
 "harvested by the Gorons for use as explosive weaponry in battle. Bomb Throwers bring "
 "terrifying firepower to a warzone, decimating groups of enemy units in an incinerating "
 "blast of fire."
-msgstr "Die berüchtigten Donnerblumen wurden schon lange auf dem ihrem heimischen Todesberg"
+msgstr ""
+"Die berüchtigten Donnerblumen wurden schon lange auf dem ihrem heimischen Todesberg"
 "kultiviert,geerntet und von den Goronen zu Sprengstoff verarbeitet. Bombenwerfe bringen"
 "furchterregende Feurerkraft ins Schlachtfeld und äschern Horden von Gegnern ein."
 
@@ -4263,8 +4265,9 @@ msgid ""
 "Carrying the famous blades of the smithy Biggoron, Brothers-at-Arms are loyal defenders"
 " of Death Mountain and fearless in the face of battle. Their long blades have a very "
 "huge attack arc, allowing them to cut through multiple foes with one swing."
-msgstr "Mit den berühmten Schwertern des Schmieds Biggoron verteidigen die loyalen und"
-"und furchtlosen Waffenbrüder den Todesberg. Ihre langen Klingen treffen in einem großen Bogen"
+msgstr ""
+"Mit den berühmten Schwertern des Schmieds Biggoron verteidigen diese loyalen und"
+"furchtlosen Waffenbrüder den Todesberg. Ihre langen Klingen treffen in einem großen Bogen"
 "mit dem sie in einem Hieb durch mehrere Gegner schneiden. "
 
 #: simulation/templates/units/goron/goron_brotheratarms_b.xml:53
@@ -4318,7 +4321,7 @@ msgstr "Hammer"
 
 #: simulation/templates/units/goron/goron_firewarrior_b.xml:50
 msgid "Fire Warrior"
-msgstr "Feuer Krieger"
+msgstr "Feuerkrieger"
 
 #: simulation/templates/units/goron/goron_firewarrior_b.xml:51
 msgid ""
@@ -4326,10 +4329,11 @@ msgid ""
 "Warriors are the ultimate Goron soldiers. One swing from their hammer can send groups "
 "of soldiers flying, and none but the most powerful weaponry in Hyrule can crack their "
 "armor."
-msgstr "Die Feuer Krieger sind die ultimativen Goronen Soldaten und von Kopf bis Fuß in "
-"rotgetönter Rüstung eingedeckt und bewaffnet mit einem mächtigen Stahlhammer. Ein Schwung "
-"von ihren Hämmern kann Gruppen an Soldaten das fliegen lehren und nur die stärksten Waffen "
-"können ihre Panzerung knacken."
+msgstr ""
+"Die Feuerkrieger sind die ultimativen Goronen Soldaten und von Kopf bis Fuß in karmesiner"
+"Rüstung eingedeckt und bewaffnet mit einem mächtigen Stahlhammer. Ein Schwung von ihren"
+"Hämmern kann Gruppen an Soldaten das fliegen lehren und nur die stärksten Waffen können "
+"ihre Panzerung knacken."
 
 #: simulation/templates/units/goron/goron_firewarrior_b.xml:55
 msgid "Slow moving but heavily armored Melee unit that deals tons of Splash Damage to enemies."
@@ -4747,8 +4751,8 @@ msgid ""
 "Since they lack any heavy armor or weapons, Sumos are able to curl up and roll at very "
 "fast speeds."
 msgstr ""
-"Als Champions des beliebten goronischen Ringkampfes, bringen diese massigen Schränke"
-""ihren gesamten Fähigkeiten in die Schlacht. Unerwartet gewandt für ihre Größe, können"
+"Als Champions des beliebten goronischen Ringkampfes bringen diese massigen Schränke"
+"ihren gesamten Fähigkeiten in die Schlacht. Unerwartet wendig für ihre Größe, können"
 "sie mit ihren Paraden und Griffen ihre überraschte Gegner ausschalten. Da sie keine "
 " Rüstung oder Waffen tragen, können Sumos sich einrollen und schnell davonmachen."
 
@@ -4962,7 +4966,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_citizenA.xml:62
 msgid "Hylian Citizen"
-msgstr "Hlianischer Bürger"
+msgstr "Hylianischer Bürger"
 
 #: simulation/templates/units/hylian/hylian_citizenA.xml:63
 msgid ""
@@ -4979,7 +4983,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_crossbowman_b.xml:44
 msgid "Kingdom Crossbowman"
-msgstr "Königlicher armbrustschütze"
+msgstr "Königlicher Armbrustschütze"
 
 #: simulation/templates/units/hylian/hylian_crossbowman_b.xml:45
 msgid ""
@@ -5056,9 +5060,9 @@ msgid ""
 " pilgrimages and later Princess Zelda after her ascent to the throne. In truth he "
 "followed Rauru to converse with his Deacon, Seres."
 msgstr ""
-"Aus dem Hause Arcd stammend diente Hauptmann Krin schon lange als ein Leibwächter Raurus"
-"auf seinen Pilgerfahrten und später Prinzessin Zelda nachdem sie den Thron bestieg."
-"Der whre Grund warum er Rauru folgte war um mit seiner Diakonin Seres zu unterhalten"
+"Der aus dem Hause Arcad stammende Hauptmann Krin diente schon lange als ein Leibwächter "
+"Raurus auf seinen Pilgerfahrten und später Prinzessin Zelda nachdem sie den Thron bestieg."
+"Der wahre Grund warum er Rauru folgte war um mit seiner Diakonin Seres zu unterhalten"
 
 #: simulation/templates/units/hylian/hylian_hero_krin.xml:40
 msgid "Captain Krin"
@@ -5114,8 +5118,8 @@ msgid ""
 " warrior amongst the Order of the Wizzrobe. With knowledge of both martial skill and "
 "arcane powers, he trains and leads Hyrule's Knights into battle."
 msgstr ""
-"Der letzter Überlebende der Blutline ersten Königs von Hyrule.Als Krieger aufgezogen durch"
-"den Orden der Pyromagi trainiert und führtLink mit Wissen über den Kampf und Arkane Fähigkeiten"
+"Der letzter Überlebende der Blutline des ersten Königs von Hyrule. Als Krieger aufgezogen durch"
+"den Orden der Pyromagi, trainiert und führt Link mit Wissen über den Kampf und arkane Fähigkeiten"
 "die Ritter von Hyrule an"
 
 #: simulation/templates/units/hylian/hylian_hero_link.xml:55
@@ -5126,14 +5130,15 @@ msgstr "Link"
 msgid ""
 "Swift and powerful Melee Hero that attacks with his sword and defends with his shield. "
 "Effective against Heroes, Commanders, Monsters in particular."
-msgstr "Geschickter und mächtiger Nahkampfheld mit Schwert und Schild. Effektiv gegen "
-"Helden, Kommandanten und Monster im besonderem."
+msgstr ""
+"Geschickter und mächtiger Held mit Schwert und Schild. Effektiv gegen "
+"Helden, Kommandanten und ins besondere Monster."
 
 #: simulation/templates/units/hylian/hylian_hero_rauru.xml:4
 #: simulation/templates/units/hylian/hylian_vanguard_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Holy Mace"
-msgstr "Heiliger Kolben"
+msgstr "Heiliger Streitkolben"
 
 #: simulation/templates/units/hylian/hylian_hero_rauru.xml:42
 msgid "Sage of Light"
@@ -5158,7 +5163,7 @@ msgid ""
 "Durable and Defensive Melee Hero armed with a helm crushing Mace. Resistant to all "
 "forms of Magic Damage."
 msgstr "Wiederspenstiger und defensiver Nahkampfheld der mit einem Helmschmetterndem"
-"Streitkolben. Resistent gegen alleArten der Magie.
+"Streitkolben. Resistent gegen alle Arten der Magie.
 
 #: simulation/templates/units/hylian/hylian_hero_seres.xml:28
 msgid "Deacon"
@@ -5185,7 +5190,7 @@ msgstr "Unterstützungsheldin die Wunden Verbündeter heilt"
 #: simulation/templates/units/hylian/hylian_hero_zeldaV.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Royal Estoc"
-msgstr "Königliche Rapier"
+msgstr "Königliche Degen"
 
 #: simulation/templates/units/hylian/hylian_hero_zeldaV.xml:39
 msgid "Princess of Hyrule"
@@ -5563,11 +5568,11 @@ msgid ""
 "the impact of these projectiles will usually crushed or burned in the resulting "
 "shockwave."
 msgstr ""
-"Diese riesigen Belagerungswaffen werden vom Königreich wärend Invasionen feindlicher Städte"
-"eingesetzt. Sie können riesige brennende Brocken mit enormer Kraft schleudern und extrem"
-wiederstandsfähige Befestigungen einreissen.Jeder Soldat der unglücklich genug ist neben so " 
-"einer Einschlag dieser Projektilevwird normalerweise erschlagen oder verbrannt in der "
-"resultierenden Schockwelle."
+"Diese riesigen Belagerungswaffen werden vom Königreich während der Invasionen feindlicher "
+"Städte eingesetzt. Sie können riesige brennende Brocken mit enormer Kraft schleudern und "
+"extrem wiederstandsfähige Befestigungen einreissen. Jeder Soldat der unglücklich genug  " 
+"ist neben so einem Einschlag dieser Projektilev zu stehen wird normalerweise erschlagen oder  "
+"verbrennt in derresultierenden Schockwelle."
 
 #: simulation/templates/units/hylian/hylian_trebuchet.xml:57
 #: simulation/templates/units/hylian/hylian_trebuchet_common.xml:56
@@ -5584,7 +5589,7 @@ msgid ""
 msgstr ""
 "Diese riesigen Belagerungswaffen werden vom Königreich wärend Invasionen feindlicher Städte"
 "eingesetzt. Sie können riesige brennende Brocken mit enormer Kraft schleudern und extrem"
-wiederstandsfähige Befestigungen einreissen.Jeder Soldat der unglücklich genug ist neben so " 
+"wiederstandsfähige Befestigungen einreissen.Jeder Soldat der unglücklich genug ist neben so " 
 "einer Einschlag dieser Projektilevwird normalerweise erschlagen oder verbrannt in der "
 "resultierenden Schockwelle."
 
@@ -5675,14 +5680,14 @@ msgstr ""
 "Auf den fast schon legendären Kokiri Hirsche reitend, ist diese schnelle Kavallerie mit"
 "der Axt im Walde. Diese Kavallerie kann in Gegnerische Infanterie rammen und sind wie "
 "gemacht gegen diese Einheiten. Wenn sie bedrängt werden sind diese Hirsche errschreckend "
-"fähig im Rückzug und im verschwinden ins nichts."
+"fähig im sich zurückzuziehen und im nichts zu verschwinden."
 
 #: simulation/templates/units/kokiri/kokiri_buckrider_b.xml:46
 msgid ""
 "A very fast Melee Cavalry unit armed with an axe in hand. These melee cavalry can ram "
 "into enemy Infantry and are excellent at dealing with such units."
-msgstr "Eine sehr schnelle Kavallerie mit einer Axt bewaffnet. Diese Kavallerie kann in  "
-"Gegnerische Infanterie rammen und sind wie gemacht gegen diese Einheiten"
+msgstr "Eine sehr schnelle Kavallerie mit einer Axt bewaffnet. Die Rammattacken "
+"sind wie gemacht um gegen Infanterie zu kämpfen"
 
 #: simulation/templates/units/kokiri/kokiri_bush.xml:18
 #: simulation/templates/units/kokiri/kokiri_tree.xml:18
@@ -5691,7 +5696,7 @@ msgstr "Flora"
 
 #: simulation/templates/units/kokiri/kokiri_bush.xml:20
 msgid "Kokiri Berry Bush"
-msgstr "Kokiri Beeren Busch"
+msgstr "Kokiri Beerenstrauch"
 
 #: simulation/templates/units/kokiri/kokiri_bush.xml:21
 msgid "Harvest Kokiri Berries for food. Max gatherers: 1."
@@ -5779,7 +5784,7 @@ msgid ""
 "reveal a multi-legged monstrosity."
 msgstr "" 
 "Herren der nördlichen Kokiri Wälder, die sanftmütigen und zurückgezogenen Deku Bäume,"
-"verbringen die meisten schlafend schlafend  und schauen dabei aus wie jeder andere"
+"verbringen die meisten schlafend schlafend und schauen dabei aus wie jeder andere"
 "Baum für das bloße Auge. Wenn sie gestört oder bedroht. Entwurzeln sie sich um eine "
 "vielbeinige Monstrosität zu enblößen"
 
@@ -5789,8 +5794,8 @@ msgid ""
 "Saria's Unique Unit. Large lumbering Creature Siege unit that can cross deep bodies of "
 "water. Can be garrisoned with infantry units."
 msgstr ""
-"Sarias einzigartige einheit. Große schwerfällige Belagerungskreatur die    
-"Gewässer überqueren kann."
+"Sarias einzigartige einheit. Große schwerfällige Belagerungskreatur, die Gewässer"    
+"überqueren kann."
 
 #: simulation/templates/units/kokiri/kokiri_dekutree_large_b.xml:83
 msgid "Large Deku Tree"
@@ -5909,7 +5914,7 @@ msgstr ""
 
 #: simulation/templates/units/kokiri/kokiri_fiddler_b.xml:33
 msgid "Fado's Unique Unit. Support unit that improves all Kokiri units with his music."
-msgstr ""Fodos einzigartige Einheit. Unterstützungseinheit die alle Kokiri mit Musik verbessert"
+msgstr "Fodos einzigartige Einheit. Unterstützungseinheit die alle Kokiri mit Musik verbessert"
 
 #: simulation/templates/units/kokiri/kokiri_fiddler_songearth.xml:14
 #: simulation/templates/units/kokiri/kokiri_fiddler_songwind.xml:19
@@ -5971,7 +5976,7 @@ msgid ""
 "The Know-It-All-Brothers are quite famous among the Kokiri, mainly for the trait that "
 "no Kokiri can tell the brothers apart. They spend most of their time doing chores "
 "around the Deku Tree's Grove, much to their dismay. The leader of the brothers, Domiso,"
-" is a bit skilled with a sword and can defend his people if needs be."
+"is a bit skilled with a sword and can defend his people if needs be."
 msgstr"" 
 "Die allwissenden Brüder sind berühmt dafür das sie niemand auseinanderhalten kann."
 "Zu ihrem Leid müssen sie die meiste Zeit Hausarbeiten um den Hain des Dekubaumes abarbeiten."
@@ -6274,7 +6279,7 @@ msgstr ""
 
 #: simulation/templates/units/kokiri/kokiri_slingshotter_b.xml:45
 msgid "Slingshotter"
-msgstr "Steinschleuderer"
+msgstr "Feenschleuder"
 
 #: simulation/templates/units/kokiri/kokiri_slingshotter_b.xml:46
 msgid ""
@@ -6290,7 +6295,7 @@ msgid ""
 "Light and cheap missile unit that has a small chance to stun enemy units with its "
 "ranged attack."
 msgstr 
-"Leichte und billiger Distanzkämpfer der eine Chance hat feindliche Einheiten"
+"Leichte und billige Distanzkämpfer der eine Chance haben feindliche Einheiten"
 "mit einem Angriff zu betäuben."
 
 #: simulation/templates/units/kokiri/kokiri_stagchariot_b.xml:57
