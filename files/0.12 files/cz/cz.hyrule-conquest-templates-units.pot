@@ -13380,15 +13380,16 @@ msgid ""
 msgstr ""
 "Ošetřování a ranhojení zraněných je velké pole studia mezi Zory, a své znalosti "
 "uplatnili na bojovém poli. Zorské Ranhojičky přinášejí svůj ošetřovatelský talent na "
-"přední linie. Pád
+"přední linie. Podávají lektvary a magickou pomoc zraněným vojákům aby mohli bojovat a "
+"přeží déle."
 
 #: simulation/templates/units/zora/zora_healer_b.xml:44
 msgid "Support unit that can heal wounded soldiers with her magic."
-msgstr ""
+msgstr "Podpůrná jednotka schopná vyléčit zraněné vojáky svou magií."
 
 #: simulation/templates/units/zora/zora_healersupreme_b.xml:52
 msgid "Healer Supreme"
-msgstr ""
+msgstr "Vrchní Ranhojička"
 
 #: simulation/templates/units/zora/zora_healersupreme_b.xml:53
 msgid ""
@@ -13397,21 +13398,25 @@ msgid ""
 "bandage them up before moving onto the next. They are trained in basic combat as well, "
 "allowing them to fight off aggressors."
 msgstr ""
+"Vrchní Ranhojičky jsou trénovány pro rychlou odezvu ve válečných zónách. Jejich hlavní "
+"povinnost je rychle určit pokud může být voják zachráněn, a rychle je ošetřit a "
+"vyhledat ostatní. Jsou také trénovány pro základní boj, což jim umožňuje se ubránit "
+"proti nepřátelům."
 
 #: simulation/templates/units/zora/zora_healersupreme_b.xml:57
 msgid "Zaleen's Unique Unit. Melee unit that can also heal wounded units."
-msgstr ""
+msgstr "Jednotka kterou může trénovat pouze Zalin. Pěší jednotka schopná ošetřit jednotky."
 
 #: simulation/templates/units/zora/zora_hero_debon.xml:4
 #: simulation/templates/units/zora/zora_hydrocanopy_b.xml:4
 #: simulation/templates/units/zora/zora_hydrodemolish_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Hooves"
-msgstr ""
+msgstr "Podkovy"
 
 #: simulation/templates/units/zora/zora_hero_debon.xml:71
 msgid "King of the Dominion"
-msgstr ""
+msgstr "Král Dominia"
 
 #: simulation/templates/units/zora/zora_hero_debon.xml:73
 msgid ""
@@ -13422,23 +13427,29 @@ msgid ""
 "unlawfully married the half-breed Zora, Rutela, only to divorce her and thereby pollute"
 " the royal bloodline, and splinter the Dominion into two empires."
 msgstr ""
+"Nejnovější v dlouhé linii monarchů Dominia, Král Zora Farkos je poměrně nedůstojný "
+"vládce který zneužívá svého postavení. Je zodpovědný za několik nepotřebných kampaní "
+"expanze, jedna z kterých vedla k plné invazi Hory smrti. Král Farkos je známý jako velice "
+"sobecký jedinec vyhýbající se tradici. Nezákonně se oženil s polo-krevnou Zorou, Rutelou, "
+"jenom aby se s í rozvedl a poskvrnil královskou pokrevnou linii, a rozpůlil Dominium ve "
+"dvě impéria."
 
 #: simulation/templates/units/zora/zora_hero_debon.xml:77
 msgid "Zora Farkos De Bon XVI"
-msgstr ""
+msgstr "Zora Farkos de Bon XVI"
 
 #: simulation/templates/units/zora/zora_hero_debon.xml:78
 msgid "Melee Cavalry Hero that attacks enemies with two dangerous claws."
-msgstr ""
+msgstr "Pěší jezdecký hrdina který jezdí na Hydrofantovi."
 
 #: simulation/templates/units/zora/zora_hero_jabun.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Head Lantern"
-msgstr ""
+msgstr "Lucerna na Hlavě"
 
 #: simulation/templates/units/zora/zora_hero_jabun.xml:43
 msgid "Spawn of Lord Jabu"
-msgstr ""
+msgstr "Jikra Pána Džabuna"
 
 #: simulation/templates/units/zora/zora_hero_jabun.xml:45
 msgid ""
@@ -13446,24 +13457,27 @@ msgid ""
 "Princess Ruto's only loyal friends. Jabun spends most of his time in the Great Sea, but"
 " heeds any summon to the Domain when needed."
 msgstr ""
+"Jediný žijící potomek Pána Džabu Džabu, mladý Dýabun slouží jako jeden z jediných "
+"loajálních přátel princezny Ruto. Džabun tráví většinu času na Velkém moři, ale vyslýchá "
+"každé povolání do Dominia když je ho třeba."
 
 #: simulation/templates/units/zora/zora_hero_jabun.xml:49
 msgid "Jabun"
-msgstr ""
+msgstr "Džabun"
 
 #: simulation/templates/units/zora/zora_hero_jabun.xml:50
 msgid "Flying Mage Hero that can attack with burning fireballs."
-msgstr ""
+msgstr "Létající magický hrdina který útočí ohnivými koulemi."
 
 #: simulation/templates/units/zora/zora_hero_laruto.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Sage Water"
-msgstr ""
+msgstr "Mudrcká Voda"
 
 #: simulation/templates/units/zora/zora_hero_laruto.xml:52
 #: simulation/templates/units/zora/zora_hero_ruto.xml:60
 msgid "Sage of Water"
-msgstr ""
+msgstr "Mudryně Vody"
 
 #: simulation/templates/units/zora/zora_hero_laruto.xml:54
 msgid ""
@@ -13471,19 +13485,22 @@ msgid ""
 "Dominion both as a priestess and advisor to royalty. Laruto's power over water is "
 "unmatched and she has defended her people without equal during her long service."
 msgstr ""
+"Vychovatelka Princezny Ruto a jedna ze stařešinských Mudrců, Laruto dlouho "
+"sloužila Dominiu jako kněžka i poradkyně královské rodině. Larutina moc nad vodou "
+"nemá rovna a dlouho tak bránila svůj lid během její dlouhé služby."
 
 #: simulation/templates/units/zora/zora_hero_laruto.xml:58
 msgid "Laruto"
-msgstr ""
+msgstr "Laruto"
 
 #: simulation/templates/units/zora/zora_hero_laruto.xml:59
 msgid "Powerful Mage Hero that can attack many enemies with her water magic."
-msgstr ""
+msgstr "Pocná magická hrdinka která útočí na mnohé nepřátele vodní magií."
 
 #: simulation/templates/units/zora/zora_hero_ruto.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Sage Ice"
-msgstr ""
+msgstr "Mudrcký Led"
 
 #: simulation/templates/units/zora/zora_hero_ruto.xml:62
 msgid ""
@@ -13496,24 +13513,31 @@ msgid ""
 " demeanor, she withholds a lifelong sadness after the splitting of her parents, that "
 "she tries to cure by finding a husband; a venture she often spectacularly fails in."
 msgstr ""
+"Dcera Krále Farkose a Královny Rutely, Rutina pokrevní linie byla poskvrněna jejich "
+"sdružením, což je jí vidět na očích. Přesto si ponechala titul a dědictví trůnu "
+"Dominia po rozvodu jejích rodičů. Nehoda která ji skoro zabila v ranném dětství vedl "
+"k jejímu jmenování Mudrctví. Dodnes je jedna z nejmladších Mudryní co kdy žily. Ruto "
+"je známá svou divokou a agresivní povahou, a v některých případech je popisována jako "
+"naprostý spratek. Navzdory její povaze, v srdci nosí smutek po rozvodu jejích rodičů, "
+"který se snaží vyléčit nalezením manžela; dobrodružství ve kterém velkolepě selhává."
 
 #: simulation/templates/units/zora/zora_hero_ruto.xml:66
 msgid "Princess Ruto"
-msgstr ""
+msgstr "Princezna Ruto"
 
 #: simulation/templates/units/zora/zora_hero_ruto.xml:67
 msgid "Powerful Mage Hero that can attack many enemies with her icy magic."
-msgstr ""
+msgstr "Mocná magická hrdinka schopná útočit na mnoho nepřátel svou ledovou magií."
 
 #: simulation/templates/units/zora/zora_hero_telara.xml:4
 #: simulation/templates/units/zora/zora_stormbolter_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Stormbolter"
-msgstr ""
+msgstr "Třestublesk"
 
 #: simulation/templates/units/zora/zora_hero_telara.xml:38
 msgid "Headmaster Historian"
-msgstr ""
+msgstr "Vrchní Historička"
 
 #: simulation/templates/units/zora/zora_hero_telara.xml:40
 msgid ""
@@ -13524,14 +13548,19 @@ msgid ""
 "is rather introverted and avoids appearing in public unless in the company of Zaleen or"
 " her library."
 msgstr ""
+"Původně trénovaná jako mág, Telara opustila společenství aby mohla žít bezpečnější život. "
+"Nakonec si vzala Zalina a stala se knihovnice v Zorčelonu, kde seskládávala historické "
+"dokumenty a zkompilovala většinu informací které byly později využity v Seresině Historii "
+"Hyronu. Telařina osobnost je známá jako tichá a ostýchavá. Je spíše introvertní a vyhýbá se "
+"výstupech na veřejnosti pokud není ve společnosti Zalina nebo její knihovny."
 
 #: simulation/templates/units/zora/zora_hero_telara.xml:44
 msgid "Telara"
-msgstr ""
+msgstr "Telara"
 
 #: simulation/templates/units/zora/zora_hero_zaleen.xml:41
 msgid "Ambassador Supreme"
-msgstr ""
+msgstr "Vrchní Velvyslanec"
 
 #: simulation/templates/units/zora/zora_hero_zaleen.xml:43
 msgid ""
@@ -13542,18 +13571,23 @@ msgid ""
 " and resulted in her adoption into Sagehood. Since then he has maintained emotional "
 "(and literal) distance from her and has grown antagonistic to her rise to the throne."
 msgstr ""
+"Po mnoho let, Zalin sloužil jako velvyslanec mezi Dominiem a jeho mnohými sousedy. Je "
+"možná nejčtenější v písmech a kulturách, částečně díky knihovně informací od jeho ženy. "
+"Zalin byl blízký přítel Ruto v jejím mládí, ale nehoda ve které byl zapleten ji málem "
+"zabila, a způsobila její přijmutí Mudrctví. Od té doby udržuje emocionální (a doslovnou) "
+"vzdálenost od ní a stal se antagonistický jejímu nástupu na trůn."
 
 #: simulation/templates/units/zora/zora_hero_zaleen.xml:47
 msgid "Zaleen"
-msgstr ""
+msgstr "Zalin"
 
 #: simulation/templates/units/zora/zora_hero_zaleen.xml:48
 msgid "Strong Melee Hero who excells at fighting other enemy Heroes."
-msgstr ""
+msgstr "Silný pěší hrdina který exceluje v boji s ostatními hrdiny."
 
 #: simulation/templates/units/zora/zora_hydrocanopy_b.xml:65
 msgid "Hydrophant Canopy"
-msgstr ""
+msgstr "Hydrofantí Hauda"
 
 #: simulation/templates/units/zora/zora_hydrocanopy_b.xml:67
 msgid ""
@@ -13563,6 +13597,10 @@ msgid ""
 " attack and crush enemies in melee, though it has a difficult time against large mobs "
 "surrounding it."
 msgstr ""
+"Tito masivní Hydrofanti jsou vybaveni haudami na jejich zádech které mohou nést různé "
+"Zorské jednotky. Střelecké jednotky jako mágové jsou schopni snadno útočit z vrchu haudy, "
+"a přitom využívat obrany od pěších útoků. Samotný Hydrofant může dozdrtit nepřátele v boji "
+"na blízko, ale nemá obranu proti obkličujícím nepřátelům."
 
 #: simulation/templates/units/zora/zora_hydrocanopy_b.xml:72
 msgid ""
@@ -13573,10 +13611,11 @@ msgid ""
 "Hydrophant's offensive and disruptive capabilities. The Hydrophant itself can attack "
 "and crush enemies in melee as well, dealing both Knockback and Splash Damage."
 msgstr ""
+"Jednotka kterou může verbovat pouze de Bon. Velký tvor nosící několik mágů."
 
 #: simulation/templates/units/zora/zora_hydrodemolish_b.xml:37
 msgid "Hydrophant Demolisher"
-msgstr ""
+msgstr "Hydrofantský Drtič"
 
 #: simulation/templates/units/zora/zora_hydrodemolish_b.xml:38
 msgid ""
@@ -13586,14 +13625,16 @@ msgid ""
 "against smaller and mobile targets, seeing as Hydrophants have a difficult time "
 "focusing on movement below their heads."
 msgstr ""
+"Vedeni Zorským jezdcem, tito obří dospělí Hydrofanti mohou využít své masivní váhy "
+"k narážení do velkých cílů.
 
 #: simulation/templates/units/zora/zora_hydrodemolish_b.xml:42
 msgid "Large Cavalry Siege unit that excells at destroying enemy structures."
-msgstr ""
+msgstr "Mohutná jezdecká obléhací jednotka excelující v ničení nepřátelských budov."
 
 #: simulation/templates/units/zora/zora_hydrolancer_b.xml:43
 msgid "Hydrophant Lancer"
-msgstr ""
+msgstr "Hydrofantský Kopiník"
 
 #: simulation/templates/units/zora/zora_hydrolancer_b.xml:44
 msgid ""
@@ -13601,14 +13642,17 @@ msgid ""
 " for the Dominion. While Hydrophants are slower on land compared to mounts used by "
 "other races of Hyrule, they have quite an advantage when crossing into bodies of water."
 msgstr ""
+"Jezdící na zádech mladého Hydrofanta, tito kopím-ozbrojení válečníci slouží jako jezdectvo "
+"Dominia. Přestože jsou Hydrofanti pomalejší na souši v porovnání s jezdectvem jiných ras "
+"Hyronu, mají výhodu pokud překročí do vody."
 
 #: simulation/templates/units/zora/zora_hydrolancer_b.xml:48
 msgid "Large Melee Cavalry unit armed with a lance, excellent to use against other Cavalry."
-msgstr ""
+msgstr "Mohutná jezdecká jednotka ozbrojená kopím, excelentní proti jinému jezdectvu."
 
 #: simulation/templates/units/zora/zora_infiltrator_b.xml:32
 msgid "Infiltrator"
-msgstr ""
+msgstr "Infiltrátorka"
 
 #: simulation/templates/units/zora/zora_infiltrator_b.xml:33
 msgid ""
@@ -13618,16 +13662,22 @@ msgid ""
 "skeleton can get through. Such talents are used by the Dominion to scout and spy on "
 "their neighboring lands."
 msgstr ""
+"Po podstoupení roků extrémního tvarování těla, Infiltrátorky se mohou proplížit v "
+"podstatě kamkoliv kde potřebují získat informace. Jejich zkroucené postavy jim "
+"umožňují se zkroutit do skoro jakékoliv pozice, a vmáčknout se kterýmkoliv otvorem "
+"kterým projde jejich kostra. Tyto talenty jsou využity Dominiem na průzkum a "
+"špehování jejich sousedních zemí."
 
 #: simulation/templates/units/zora/zora_infiltrator_b.xml:37
 msgid ""
 "Zora Scout unit that can detect Camouflaged and Stealthed units. The Infiltrator is "
 "stealthed."
 msgstr ""
+"Zorská průzkumná jednotka schopná detekovat kamufláž a utajení. Sama má utajení."
 
 #: simulation/templates/units/zora/zora_kyamaster_b.xml:28
 msgid "Kyameron Master"
-msgstr ""
+msgstr "Paní Kjameronů"
 
 #: simulation/templates/units/zora/zora_kyamaster_b.xml:29
 msgid ""
@@ -13637,14 +13687,18 @@ msgid ""
 "the Dominion during times of war. A Kyameron Master can summon autonomous blobs of "
 "living water to go forth and attack enemy forces."
 msgstr ""
+"Vzácný typ mága ze Zorského Dominia, Paní Kjameronů nesou moc nad kříšením a životadáváním "
+"vodě. Jejich medoty jsou tajemstvím těm vně kultům zasvěceným Malkorbagii, ale jsou více "
+"než ochotné poskytnou armádní pomoc Dominiu během války. Paní Kjameronů je schopna "
+"povolat autonomní kapky živoucí vody aby šly kupředu a útočily na nepřátelské síly."
 
 #: simulation/templates/units/zora/zora_kyamaster_b.xml:35
 msgid "Support Mage that can summon swarms of Kyamerons to do her bidding."
-msgstr ""
+msgstr "Podpůrná magická jednotka schopná povolat hejna Kjameronů k jejím účelům."
 
 #: simulation/templates/units/zora/zora_kyameron_b.xml:43
 msgid "Kyameron"
-msgstr ""
+msgstr "Kjameron"
 
 #: simulation/templates/units/zora/zora_kyameron_b.xml:44
 msgid ""
@@ -13652,14 +13706,16 @@ msgid ""
 "that summoned it. Kyamerons are near useless in combat, but they can easily keep an "
 "enemy army distracted."
 msgstr ""
+"Oživlá kapka vody schopná poslouchat jednoduché rozkazy of paní která ji povolala. "
+"Kjameroni jsou skoro zbyteční v boji, ale snadno udrží pozornost nepřátel."
 
 #: simulation/templates/units/zora/zora_kyameron_b.xml:48
 msgid "Small Melee Creature unit with a weak Water attack."
-msgstr ""
+msgstr "Malý pěší tvor se slabým vodním útokem."
 
 #: simulation/templates/units/zora/zora_magecannon_b.xml:57
 msgid "Mage Cannon"
-msgstr ""
+msgstr "Magické Dělo"
 
 #: simulation/templates/units/zora/zora_magecannon_b.xml:58
 msgid ""
@@ -13668,14 +13724,18 @@ msgid ""
 "power. When reaching capacity, a Mage Cannon will explode with tremendous force and "
 "unleash a powerful electrical bolt that can incinerate just about anything it hits."
 msgstr ""
+"Vytvořeny ze střepu v mocného magického krystalu položeném v mobilním podvozku, tyto "
+"děla mohou být tlačeny Zorskými uživateli magie a přebity silou. Když dosáhnou kapacity, "
+"Magická Děla vypálí s ohromnou silou a vydají mocná elektrický blesk schopný spálit vše "
+"čeho se dotkne."
 
 #: simulation/templates/units/zora/zora_magecannon_b.xml:60
 msgid "Very long ranged Siege unit that blasts and stuns enemies with bolts of electricity."
-msgstr ""
+msgstr "Střelecká ohléhací jednotka která spaluje a omračuje nepřátele záblesky elektřiny."
 
 #: simulation/templates/units/zora/zora_morphite_b.xml:55
 msgid "Morphite"
-msgstr ""
+msgstr "Morfa"
 
 #: simulation/templates/units/zora/zora_morphite_b.xml:56
 msgid ""
@@ -13683,16 +13743,21 @@ msgid ""
 "Masters. A Morphite can cause much havoc on the battlefield, flailing widely and "
 "dealing damage to anything around itself."
 msgstr ""
+"Velké příšerné chapadlo z vody vytvořeno skupinou mocných Kjameronských Paní. Morfa "
+"je schopna zpustošit bitevní pole tím že se divoce rozmachuje a požkozuje vše kolem "
+"sebe."
 
 #: simulation/templates/units/zora/zora_morphite_b.xml:60
 msgid ""
 "Large Creature unit that has a large Splash Damage attack. Spawns Kyamerons when slain "
 "in battle."
 msgstr ""
+"Kohutný tvor s velkým plošným požkozením. Rozpadne se na několik Kjameronů pokud padne "
+"v bitvě."
 
 #: simulation/templates/units/zora/zora_nayrublessed_b.xml:28
 msgid "Nayru's Blessed"
-msgstr ""
+msgstr "Najřina Požehnaná"
 
 #: simulation/templates/units/zora/zora_nayrublessed_b.xml:30
 msgid ""
@@ -13700,16 +13765,21 @@ msgid ""
 " their staffs. These mages can use such an ability to create defenses around themselves"
 " and their brethren in battle."
 msgstr ""
+"Najřiny Požehnané nesou extrémně vzácnou magii která umí vytvořit krystalické bariéry "
+"z jejich holí. Tyto čarodějky mohou využít tuto schopnost k vytvoření obran kolem sebe "
+"a jejich bratrů v bitvě."
 
 #: simulation/templates/units/zora/zora_nayrublessed_b.xml:36
 msgid ""
 "Princess Ruto's Unique Unit. Support Mage unit that increases both the non-magic and "
 "magic armor of units."
 msgstr ""
+"Jednotka kterou může verbovat pouze Princezna Ruto. Podpůrná magická jednotka která "
+"zvyšuje nemagické i magické brnění jednotek."
 
 #: simulation/templates/units/zora/zora_riverpatrol_b.xml:32
 msgid "River Patrol"
-msgstr ""
+msgstr "Říční Hlídka"
 
 #: simulation/templates/units/zora/zora_riverpatrol_b.xml:33
 msgid ""
@@ -13717,14 +13787,17 @@ msgid ""
 "order within the Dominion. With their light spear and buckler, they are able to handle "
 "all sorts of minor threats, from bandits, to wild creatures, to criminal uprisings."
 msgstr ""
+"Často viděni jak hlídkují podél Zorské řeky, tyto policejní síly Zorů se drží hluboko "
+"v Dominiu. Se svým lehkým kopím a štítem jsou schopni vydržet všelijaké malé hrozby, od "
+"banditů, po divoká zvířata, a i vzpouru."
 
 #: simulation/templates/units/zora/zora_riverpatrol_b.xml:37
 msgid "Light Melee unit armed with a spear. They can gather fish from bodies of water."
-msgstr ""
+msgstr "Lehká pěší jednotka ozbrojena kopím."
 
 #: simulation/templates/units/zora/zora_sapwarden_b.xml:42
 msgid "Sapphire Warden"
-msgstr ""
+msgstr "Safírová Dozorkyně"
 
 #: simulation/templates/units/zora/zora_sapwarden_b.xml:43
 msgid ""
@@ -13733,14 +13806,18 @@ msgid ""
 "deadly weapon. Their attacks can dramatically slow the movement of approaching enemies,"
 " and the cold flames can persist for some time after landing on the ground."
 msgstr ""
+"Zorští mágové kteří dlouho studovali magii, Safírové Dozorkyně mohou manipulovat s vodou "
+"a ohněm až do bodu tvorby Modrého Ohně, mrazícího plamene který může být využit jako "
+"smrtonosná zbraň. Jejich útoky dramaticky zpomalují pohyb blížících se nepřátel, a "
+"mrazivý ohěň přetrvává po nějaký čas po dopadu na zem."
 
 #: simulation/templates/units/zora/zora_sapwarden_b.xml:47
 msgid "Ranged Mage unit that can burn enemies with their Blue Fire attack."
-msgstr ""
+msgstr "Střelecká magická jednotka schopná spálit nepřátele modrým ohněm."
 
 #: simulation/templates/units/zora/zora_shocktroop_b.xml:33
 msgid "Shock Trooper"
-msgstr ""
+msgstr "Úderník"
 
 #: simulation/templates/units/zora/zora_shocktroop_b.xml:34
 msgid ""
@@ -13748,16 +13825,21 @@ msgid ""
 "when enemy forces begin to pose a serious threat. Armed with a falchion and durable "
 "coralmold shield, Shock Troopers can serve a variety of roles in the Dominion army."
 msgstr ""
+"Nejtěžší vojáci ve službách Dominia, Úderníci jsou posíláni do bitvy když se "
+"nepřátelské síly stanou seriózní hrozbou. Ozbrojeni čepelí a odolným korájílovým "
+"štítem, Úderníci mohou sloužit několika různým rolím v armádě Dominia."
 
 #: simulation/templates/units/zora/zora_shocktroop_b.xml:39
 msgid ""
 "Heavy Infantry unit armed with a curved sword and a large shield, and that is also "
 "resistant to Knockback."
 msgstr ""
+"Těžká pěší jednotka ozbrojená zahnutým mečem a velkým štítem která je také "
+"odolná odrazům."
 
 #: simulation/templates/units/zora/zora_sparkmage_b.xml:45
 msgid "Spark Mage"
-msgstr ""
+msgstr "Bleskumetka"
 
 #: simulation/templates/units/zora/zora_sparkmage_b.xml:46
 msgid ""
@@ -13766,14 +13848,18 @@ msgid ""
 "and sometimes instantly incinerate a target. Spark Mages need protection however; they "
 "are very vulnerable to damage and can do little to defend themselves in a melee."
 msgstr ""
+"Nesoucí elektrifikovaný krystal v jedné ruce, mocné Bleskumetky jsou schopny "
+"vystřelit z dálky blesk rozpálený do běla. Jediná střela je schopna omráčit svoji "
+"oběť, a občas spálit cíl na popel. Bleskumetky ale vyžadují obranu; jsou velmi "
+"zranitelné požkození a nemohou se nijak bránit v boji na blízko."
 
 #: simulation/templates/units/zora/zora_sparkmage_b.xml:50
 msgid "Ranged Mage unit that hurls electic bolts at enemies from afar."
-msgstr ""
+msgstr "Střelecká magická jednotka která vrhá elektrické blesky z dáli."
 
 #: simulation/templates/units/zora/zora_stormbolter_b.xml:37
 msgid "Stormbolter"
-msgstr ""
+msgstr "Trestubleskařka"
 
 #: simulation/templates/units/zora/zora_stormbolter_b.xml:38
 msgid ""
@@ -13782,16 +13868,22 @@ msgid ""
 "enemy units hit. They are decent for crowd control, with compliments of melee soldiers "
 "moving in behind them to attack stupefied enemies."
 msgstr ""
+"Přestože nejsou skuteční mágové, Trestubleskařky nesou hole které byly nabity mocnou "
+"elektrickou magií. Tyto hole mohou být v boji z blízka využity jako palice které "
+"elektrifikují a omračují nepřátelské jednotky. Jsou decentní pro kontrolu davu pokud "
+"jsou v zádech pěší jednotky schopné útočit na omráčené nepřátele."
 
 #: simulation/templates/units/zora/zora_stormbolter_b.xml:42
 msgid ""
 "Zora Melee unit that attacks with an electric shock, briefly stunning units. Partially "
 "cover the role of an early game swordman unit, which the Dominion lacks"
 msgstr ""
+"Zorská pěší jednotka která útočí elektrickou holí, a omračuje nepřátele. Částečně "
+"hraje roli ranného šermíře, který Dominiu chybí."
 
 #: simulation/templates/units/zora/zora_titan_jabujabu.xml:41
 msgid "Founder of the Dominion"
-msgstr ""
+msgstr "Zakladatel Dominia"
 
 #: simulation/templates/units/zora/zora_titan_jabujabu.xml:42
 msgid ""
@@ -13803,14 +13895,20 @@ msgid ""
 "Many spending time near Lord Jabu Jabu have had wounds and sicknesses cured in short "
 "order."
 msgstr ""
+"Džabun, častěji známý jako Pán Džabu Džabu je druhý Mudrc Vody v Hyronu a zakladatel "
+"Zorského Dominia. Džabun je známý svou malicherností a přerostlým egem. Odmítá mluvit "
+"s kýmkoliv kromě svých sluhů nebo uctívatelů. Má nenasytnou chuť a je také znám pro "
+"svoji neotesanost a lenost. Jakožto starověký Ošunit má ohromnou magickou moc, konkrétně "
+"hojit maso. Mnohým kteří trávili čas u Pána Džabu Džabuho se zanedlouho vyléčily rány a "
+"nemoci."
 
 #: simulation/templates/units/zora/zora_titan_jabujabu.xml:45
 msgid "Lord Jabu Jabu"
-msgstr ""
+msgstr "Pán Džabu Džabu"
 
 #: simulation/templates/units/zora/zora_titan_jabujabu.xml:46
 msgid "Zora Titan unit. Giant Support unit that can heal many injured Zora."
-msgstr ""
+msgstr "Zorská Mýtická jednotka. Obří porpůrná jednotka schopná vyléčit mnohé zranené Zory."
 
 #: simulation/templates/units/zora_trader_b.xml:18
 msgid "Vendor"
