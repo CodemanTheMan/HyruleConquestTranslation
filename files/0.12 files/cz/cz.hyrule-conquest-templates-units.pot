@@ -13254,14 +13254,17 @@ msgid ""
 "invasion forces on many occasions. They emphasize speed and form over brute strength "
 "and durability, preferring to disarm their targets."
 msgstr ""
+"Ozbrojeni zahnutou čepelí, Zorští Šermíri pochodují na předvojích jejich invazních "
+"sil. Dávají důraz na rychlost a formu nad čirou silou a odolností, a preferují své "
+"nepřátel odzbrojit."
 
 #: simulation/templates/units/zora/zora_blademaster_b.xml:39
 msgid "Medium Melee unit armed with a sword."
-msgstr ""
+msgstr "Střední pěší jednotka ozbrojena mečem."
 
 #: simulation/templates/units/zora/zora_boomeranger_b.xml:49
 msgid "Boomeranger"
-msgstr ""
+msgstr "Bumeranger"
 
 #: simulation/templates/units/zora/zora_boomeranger_b.xml:50
 msgid ""
@@ -13270,10 +13273,13 @@ msgid ""
 "and mages, but the wide arc of their attack can hit multiple enemies and deal quite a "
 "bit of splash damage."
 msgstr ""
+"Bumerangy jsou unikátní zbraně vytvořené Zory, a tito hbitá válečníci jsou zkušeni v "
+"jejich bitevním využití. Bumerang nemá dosah většiny lukostřelců a mágů, ale jejich "
+"široký rozsah může trefit několik nepřátel zároveň a způsobit spoustu plošného požkození."
 
 #: simulation/templates/units/zora/zora_boomeranger_b.xml:54
 msgid "Light Ranged unit that can stun multiple enemies with each attack."
-msgstr ""
+msgstr "Lehká střelecká jednotka schopná omráčit několik nepřátel svým útokem."
 
 #: simulation/templates/units/zora/zora_civilianA.xml:8
 #: simulation/templates/units/zora/zora_servantA.xml:62
@@ -13295,7 +13301,7 @@ msgstr ""
 
 #: simulation/templates/units/zora/zora_domsupreme_b.xml:41
 msgid "Domain Supreme"
-msgstr ""
+msgstr "Vrchní z Dominia"
 
 #: simulation/templates/units/zora/zora_domsupreme_b.xml:42
 msgid ""
@@ -13303,19 +13309,22 @@ msgid ""
 "commanders. A lone Domain Supreme can keep a unit functioning and morale high, while an"
 " entire legion of Supremes can dramatically improve the performance of an entire army."
 msgstr ""
+"Veteráni z armád Dominia, Vrchní z Dominia jsou zkušení válečníci a velitelé. Jediný "
+"Vrchní z Dominia může udržet jednotku funkční a morálku vysokou, zatímco celá legie "
+"Vrchních je schopna dramaticky zlepšit výkon celé armády."
 
 #: simulation/templates/units/zora/zora_domsupreme_b.xml:46
 msgid "Commander unit that increases the performance of other Zora units."
-msgstr ""
+msgstr "Velitelská jednotka která zlepšuje výkon ostatních Zorských jednotek."
 
 #: simulation/templates/units/zora/zora_floodmaster_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Water Blast"
-msgstr ""
+msgstr "Vodní Náraz"
 
 #: simulation/templates/units/zora/zora_floodmaster_b.xml:59
 msgid "Floodmaster"
-msgstr ""
+msgstr "Paní Povodně"
 
 #: simulation/templates/units/zora/zora_floodmaster_b.xml:61
 msgid ""
@@ -13325,14 +13334,18 @@ msgid ""
 "summon forth a surge of rushing water, knocking back enemies much larger than the mage "
 "quite a distance."
 msgstr ""
+"Paní Povodně jsou některé z nejmocnějších mágů jeden v Dominiu, ale na celém světě. "
+"Třeba že jim trvá celý život se zdokonalit, jejich schopnost tvarovat a ovládat vodu "
+"se rovná samotnému Mudrci Vody. Jediná Paní Povodně je schopna povolat příval vody který "
+"odráží nepřátele mnohem větší než ony samotné, a dost daleko."
 
 #: simulation/templates/units/zora/zora_floodmaster_b.xml:66
 msgid "Powerful Mage unit that knocks enemies around with waves of water."
-msgstr ""
+msgstr "Mocná magická jednotka která odráží nepřátele vlnami vody."
 
 #: simulation/templates/units/zora/zora_halberdier_b.xml:39
 msgid "Halberdier"
-msgstr ""
+msgstr "Halapartník"
 
 #: simulation/templates/units/zora/zora_halberdier_b.xml:40
 msgid ""
@@ -13340,6 +13353,9 @@ msgid ""
 "centuries. Armed with their signature bladed polearms, Halberdiers are slow and clunky "
 "on land, but quite a force to face in the waters of their own cities."
 msgstr ""
+"Čety Zorských Halapartníků bránily hranice Dominia mnohá staletí. Ozbrojeni jejich "
+"ikonickými halapartnami, Halapartníci jsou pomalí a neohrabaní na pevnině, ale je "
+"poměrně nebezpečné jim čelit tváří v tvář ve vodách jejich vlastních měst."
 
 #: simulation/templates/units/zora/zora_halberdier_b.xml:45
 msgid ""
@@ -13347,10 +13363,13 @@ msgid ""
 "enemy cavalry. Zora Halberdiers are available in the Town Phase, unlike most halberdier"
 " units."
 msgstr ""
+"Střední pěší jednotka ozbrojena halapartnou, schopná prorážet brnění a drtit nepřátelské "
+"jezdectvo. Zorští Halapartníci jsou dostupní ve Městské Fázi, narozdíl od většiny "
+"halapartníků."
 
 #: simulation/templates/units/zora/zora_healer_b.xml:38
 msgid "Zora Healer"
-msgstr ""
+msgstr "Zorská Ranhojička"
 
 #: simulation/templates/units/zora/zora_healer_b.xml:39
 msgid ""
@@ -13359,6 +13378,9 @@ msgid ""
 "talent to the frontlines, giving potions and magical aid to injured soldiers so they "
 "might fight on and survive longer."
 msgstr ""
+"Ošetřování a ranhojení zraněných je velké pole studia mezi Zory, a své znalosti "
+"uplatnili na bojovém poli. Zorské Ranhojičky přinášejí svůj ošetřovatelský talent na "
+"přední linie. Pád
 
 #: simulation/templates/units/zora/zora_healer_b.xml:44
 msgid "Support unit that can heal wounded soldiers with her magic."
