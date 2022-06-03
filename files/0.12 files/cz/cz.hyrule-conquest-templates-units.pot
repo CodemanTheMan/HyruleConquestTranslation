@@ -12881,15 +12881,15 @@ msgstr ""
 
 #: simulation/templates/units/stalfos/stalfos_poebig_b.xml:43
 msgid "Floating unit with Camouflage. Can raise Poes from the corpses of fallen enemies."
-msgstr ""
+msgstr "Vznáející se jednotka s kamufláží. Umí vzkřísit Postrachy z mrtvol padlých nepřátel."
 
 #: simulation/templates/units/stalfos/stalfos_poeicy_b.xml:19
 msgid "Icy Big Poe"
-msgstr ""
+msgstr "Velký Ledovy Postrach"
 
 #: simulation/templates/units/stalfos/stalfos_poenecro_b.xml:39
 msgid "Poe Necromancer"
-msgstr ""
+msgstr "Postrach Nekromant"
 
 #: simulation/templates/units/stalfos/stalfos_poenecro_b.xml:40
 msgid ""
@@ -12898,14 +12898,18 @@ msgid ""
 "to increase their number, the tall and lumbering Poe Necromancers will glide across the"
 " battlefield and animate the slain corpses of their victims."
 msgstr ""
+"Dlouho zesnulé duše starověkých nekromantů, tito přízrační Postrachové mají tajemství "
+"nekonečné nesmrti ve své dlani. Když se kolem potulují Stalfosové a vtrhávají aby si "
+"zvýšili počty, vysocí a tyčící Postrachové Nekromanti se vznášejí nad bojovým polem "
+"a křísí padlé mrtvoly jejich obětí."
 
 #: simulation/templates/units/stalfos/stalfos_poenecro_b.xml:43
 msgid "Ghost unit that can pass through any obstacle and raise the dead from corpses."
-msgstr ""
+msgstr "Přízračná jednotka schopná projít jakoukoliv překážkou a vzkřísit mrtvé."
 
 #: simulation/templates/units/stalfos/stalfos_redead_b.xml:37
 msgid "ReDead"
-msgstr ""
+msgstr "Znovumrtvý"
 
 #: simulation/templates/units/stalfos/stalfos_redead_b.xml:38
 msgid ""
@@ -12917,18 +12921,24 @@ msgid ""
 "all who look upon them... and their ghastly screams can completely paralize even the "
 "bravest of warriors."
 msgstr ""
+"Hrůzostrašné kostlivé stvoření které číhá hluboko pod zemí. Je mnoho legend o původu "
+"Znovumrtvých. Někteří věří že jsou výsledky neúspěšných rituálů nesmrtelnosti, jiní "
+"říkají že byli strážci Šejkských hrobek zotročeni do služeb zlých nekromantů. Ve "
+"službě Stalfosů jsou nasazováni do bitvy aby kompletně zdemoralizovali jejich nepřátele: "
+"vhled Znovumrtvého vyvolává znepokojení skoro ve všech kdo na ně pohlédnou... a jejich "
+"příšerný řed kompletně paralyzuje i nejstatečnější válečníky."
 
 #: simulation/templates/units/stalfos/stalfos_redead_b.xml:41
 msgid "Support unit that slows down and stuns enemies."
-msgstr ""
+msgstr "Podpůrná jednotka která zpomaluje a obračuje nepřátele."
 
 #: simulation/templates/units/stalfos/stalfos_redeadknight_b.xml:22
 msgid "ReDead Knight"
-msgstr ""
+msgstr "Znovumrtvý Rytíř"
 
 #: simulation/templates/units/stalfos/stalfos_staldra_b.xml:51
 msgid "Staldra"
-msgstr ""
+msgstr "Staldra"
 
 #: simulation/templates/units/stalfos/stalfos_staldra_b.xml:52
 msgid ""
@@ -12937,15 +12947,18 @@ msgid ""
 " surround them. They seem to also possess the ability to regenerate, making them very "
 "difficult to destroy."
 msgstr ""
+"Vzkřísené pozůstatky příšer předcházejících historii a mýty. Tyto vícehlavá stvoření jsou "
+"schopna útočit z několika směrů, což dělá nemožné je obklíčit. Také mají schopnost se "
+"regenerovat, což je dělá velice těžké zničit."
 
 #: simulation/templates/units/stalfos/stalfos_staldra_b.xml:55
 msgid "Melee Creature unit in that can attack multiple enemies at once. Has regeneration."
-msgstr ""
+msgstr "Pěší tvor schopný útočit z několika směrů zárověň. Má regeneraci."
 
 #: simulation/templates/units/stalfos/stalfos_stalgiant_b.xml:40
 #: simulation/templates/units/stalfos/stalfos_stalgiant_summon.xml:37
 msgid "Stalgiant"
-msgstr ""
+msgstr "Stalobr"
 
 #: simulation/templates/units/stalfos/stalfos_stalgiant_b.xml:41
 #: simulation/templates/units/stalfos/stalfos_stalgiant_summon.xml:38
@@ -12955,15 +12968,19 @@ msgid ""
 "skeleton, Stalgiants usually all behave the same way; mindlessly shuffling towards "
 "their targets and bashing at them with their large appendages."
 msgstr ""
+"Stalobři jsou společné jméno kostlivých válečníků vzkřísených z mrtvol velkých "
+"nepřátel. Zatímco jejich vzhled se liší podle jejich původního kostlivce, Stalobři "
+"se většinou chovají stejně; bezdušně se potácejí směrem k jejich cíli a mlátí ho "
+"svými velkými údy."
 
 #: simulation/templates/units/stalfos/stalfos_stalgiant_b.xml:44
 #: simulation/templates/units/stalfos/stalfos_stalgiant_summon.xml:41
 msgid "Large skeletal creature that bashes enemies with its limbs."
-msgstr ""
+msgstr "Velký kostlivý tvor který mlátí nepřátele svými končetinami."
 
 #: simulation/templates/units/stalfos/stalfos_stalhorse_b.xml:36
 msgid "Stalhorse"
-msgstr ""
+msgstr "Stalkůň"
 
 #: simulation/templates/units/stalfos/stalfos_stalhorse_b.xml:37
 msgid ""
@@ -12972,14 +12989,17 @@ msgid ""
 "farmers and smaller targets to leave behind fresh corpses for the army to raise upon "
 "arrival."
 msgstr ""
+"Vzkřísení koně, tito hbití neprtví nosí Stalfoské válečníky do bitvy. Jejich pánové "
+"často využívají tyto bestie jako předvoj jejich invazí; podnikají nájezdy na farmáře "
+"a menší cíle a zanechávají čerstvé mrtvoly které jejich armáda vzkřísí při svém příchodu. "
 
 #: simulation/templates/units/stalfos/stalfos_stalhorse_b.xml:40
 msgid "Lightly armored cavalry unit armed with a sword."
-msgstr ""
+msgstr "Lehce obrněné jezdectvo ozbrojené mečem."
 
 #: simulation/templates/units/stalfos/stalfos_stalhound_b.xml:41
 msgid "Stalhound"
-msgstr ""
+msgstr "Stalpsisko"
 
 #: simulation/templates/units/stalfos/stalfos_stalhound_b.xml:42
 msgid ""
@@ -12989,15 +13009,19 @@ msgid ""
 "Stalhounds are one of the few undead abominations that are able to run swiftly as they "
 "did in life."
 msgstr ""
+"Stalpsiska jsou mrtvoly psů kteří kdysi sloužili jako hlídací psi svých pánů ve skutečném "
+"životě. Ke svým aktivitám se vrací i v nesmrti, a chrání hřbitovy či jiná místa důležité "
+"ke vzkřísení více mrtvých. Dychtiví potěšit své pány, Stalpsiska jsou jedny z mála "
+"nemrtvých nestvůrností schopných běhat tak rychle jako mohli za života."
 
 #: simulation/templates/units/stalfos/stalfos_stalhound_b.xml:45
 msgid "A swift moving creature unit that mauls victims with its claws."
-msgstr ""
+msgstr "Rychlý tvor které trhá nepřátele svými drápy."
 
 #: simulation/templates/units/stalfos/stalfos_stalkin_b.xml:39
 #: simulation/templates/units/stalfos/stalfos_stalkin_summon.xml:37
 msgid "Stalkin"
-msgstr ""
+msgstr "Stalbrat"
 
 #: simulation/templates/units/stalfos/stalfos_stalkin_b.xml:40
 #: simulation/templates/units/stalfos/stalfos_stalkin_summon.xml:38
@@ -13007,6 +13031,10 @@ msgid ""
 "Stalkin usually all behave the same way; mindlessly shuffling towards their targets and"
 " stabbing them with any sharp instrument they can get their hands on."
 msgstr ""
+"Stalbrati jsou kolektivní název pro kostlivé válečníky vzkříšené z mrtvol malých "
+"nepřátel. Zatímco jejich vzhled je často shodný s jejich původní kostrou, Stalbrati se "
+"většinou všichni chovají stejně; bezdušně se potácejí ke svým cílům a bodají je s "
+"jakýmkoliv ostrým nástrojem který se jim dostane do rukou."
 
 #: simulation/templates/units/stalfos/stalfos_stalkin_b.xml:43
 #: simulation/templates/units/stalfos/stalfos_stalkin_summon.xml:41
@@ -13014,10 +13042,12 @@ msgid ""
 "Small spear unit that is raised from the corpses of Small sized creatures. Effective "
 "against cavalry."
 msgstr ""
+"Malá kopím ozbrojená jednotka vzkříšena z mrtvol malých nepřátel. Efektivní proti "
+"jezdectvu."
 
 #: simulation/templates/units/stalfos/stalfos_stalmaster_b.xml:55
 msgid "Stalmaster"
-msgstr ""
+msgstr "Stalmistr"
 
 #: simulation/templates/units/stalfos/stalfos_stalmaster_b.xml:56
 msgid ""
@@ -13026,20 +13056,24 @@ msgid ""
 "perfect their fighting skills with a wide variety of implements. The sight of a "
 "Stalmaster can only mean one thing: his large army is about to invade."
 msgstr ""
+"Vrchol nemrtvých válečníků, Stalmistři jsou šampióni svých nekromantských pánů. "
+"Nesoucí čtyři zbraně ve svých mnohých rukách, Stalmistři měli staletí zdokonalit své "
+"bojové schopnosti širokou rozmanitostí nástrojů. Pohled na Stalmistra může znamenat "
+"pouze jednu věc: brzo vpadne velká armáda."
 
 #: simulation/templates/units/stalfos/stalfos_stalmaster_b.xml:59
 msgid "Heavily armored Infantry Commander unit. Leads other Stalfos into battle."
-msgstr ""
+msgstr "Těžce ozbrojená pěší velitelská jednotka. Vede ostatní Stalfose do bitvy."
 
 #: simulation/templates/units/stalfos/stalfos_stalreaper_b.xml:4
 #: simulation/templates/units/zora/zora_sapwarden_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Blue Fire"
-msgstr ""
+msgstr "Modrý Oheň"
 
 #: simulation/templates/units/stalfos/stalfos_stalreaper_b.xml:47
 msgid "Stalreaper"
-msgstr ""
+msgstr "Stalžnec"
 
 #: simulation/templates/units/stalfos/stalfos_stalreaper_b.xml:48
 msgid ""
@@ -13050,15 +13084,20 @@ msgid ""
 "about anything with their burning attacks, as well as defend themselves with their "
 "scythes in a melee."
 msgstr ""
+"V některých kulturách jsou tito nemrtví mágové známí jako Modří Stalfosové, ale ve "
+"všech mýtech hrají stejnou roli: sklízí duše živých aby je přidali do svých rostoucích "
+"armád. Stalženci jsou mocní mágové s mocí nad Modrým Ohněm, a možná byli kdysi za "
+"života vystudovaní váleční čarodějové. Mohou spálit skoro cokoliv svými ohnivými "
+"útoky, a také se ubránit svými kosami."
 
 #: simulation/templates/units/stalfos/stalfos_stalreaper_b.xml:52
 msgid "Hovering Mage unit that attacks enemies with blue fireballs from a distance."
-msgstr ""
+msgstr "Vznášející se magická jednotka která útočí na nepřátele modrými ohnivými koulemi."
 
 #: simulation/templates/units/stalfos/stalfos_staltroop_b.xml:36
 #: simulation/templates/units/stalfos/stalfos_staltroop_summon.xml:37
 msgid "Staltroop"
-msgstr ""
+msgstr "Stalvoják"
 
 #: simulation/templates/units/stalfos/stalfos_titan_stallord.xml:81
 msgid ""
@@ -13070,16 +13109,24 @@ msgid ""
 "Stallord himself is a slow moving and crawling monstrosity that can vomit up dusty "
 "corpses and amass a following of Stalfos soldiers to follow him."
 msgstr ""
+"Masivní a nesmírně starověký kostlivec hluboko v Gerudské poušti, Stalkrál byl "
+"pravděpodobně jeden z mnoha starověkých draků kteří pustošili svět před počátkem historie. "
+"Gerudská mytologie tvrdí že jejich staří bohové tohoto draka zabili a použili jeho mrtvolu "
+"k tvorbě světa, čímž jeho kostru pohřbili hluboko v poušti. Pokud bude kostra odstraněna, "
+"Gerudy věří že svět skončí. Samotný vzkříšený Stalpán je pomalu se potácející monstrozita "
+"schopná vyvrhnout zaprášené mrtvoly a vzkřísit následující Stalfoské vojáky."
 
 #: simulation/templates/units/stalfos/stalfos_titan_stallord.xml:83
 msgid "Stallord"
-msgstr ""
+msgstr "Stalkrál"
 
 #: simulation/templates/units/stalfos/stalfos_titan_stallord.xml:84
 msgid ""
 "Legend unit that crushes enemies with its two massive hands and summons hordes of "
 "disposable undead."
 msgstr ""
+"Mýtická jednotka která drtí nepřátele svými dvěma masivními rukami a křísí hordy "
+"nahraditelných nemrtvých."
 
 #: simulation/templates/units/darknut/darknut_dux_b.xml:4
 #: simulation/templates/units/darknut/darknut_dux_legendary.xml:4
@@ -13167,7 +13214,7 @@ msgstr ""
 #: simulation/templates/units/zora/zora_shocktroop_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Sword"
-msgstr ""
+msgstr "Meč"
 
 #: simulation/templates/units/test_unit.xml:36
 msgid "Test Knight of Hyrule"
@@ -13182,6 +13229,10 @@ msgid ""
 "their armorial achievements and bear the icon of the holy Triforce as they answer the "
 "call of the Royal Family."
 msgstr ""
+"Majetní šlechtici, bohaté elity, a zkušení válečníci, Rytíři Hyliánští jsou, během "
+"míru, autonomní vojáci kteří se sami trénují a financují svým životem práce a vzděláí. "
+"Když začne v Hyliánsku válka, opustí své zbrojní úspěchy a nasadí si ikonu svaté Trojmoci "
+"zatímco odpoví volání Královské rodiny."
 
 #: simulation/templates/units/hylian/hylian_knightofhyrule_b.xml:41
 #: simulation/templates/units/stalfos/stalfos_knight_b.xml:40
@@ -13190,10 +13241,12 @@ msgid ""
 "Heavily armored infantry unit. Very resistant to non-magic damage and Knockback. A "
 "powerful all-round late game unit."
 msgstr ""
+"Těžce obrněná pěší jednotka. Velice odolná nemagickému požkození a odrazům. Celkově "
+"mocná jednotka v pozdní hře."
 
 #: simulation/templates/units/wild_cuccoA.xml:13
 msgid "Chicken"
-msgstr ""
+msgstr "Kuře"
 
 #: simulation/templates/units/zora/zora_blademaster_b.xml:34
 msgid ""
