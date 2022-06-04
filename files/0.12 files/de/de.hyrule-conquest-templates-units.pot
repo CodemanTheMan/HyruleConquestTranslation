@@ -6676,7 +6676,12 @@ msgid ""
 "young and arrogant Ralph on behalf of the Queen just as much as he has been ordered to "
 "march out further north."
 msgstr 
-""
+"Edgar, ein Mann von Gigantischer Statur, verdiente sich seinen Spitznamen durch seine Größe" 
+"und unglaubliche Stärke. Er verdiente sich seine Position als General jedoch nicht durch "
+"seine Kraft sondern durch sein strategisches Denken auf dem Schlachtfeld. Ursprünglich Teil"
+"der Heimwehr kam er durch die Expansion von Labrynna schnell dazu Leunen nicht nur die Stirn"
+"zu bieten sondern sie auch zurückzudrängen. Neuerdings lauten seine Befehle auf den jungen und "
+"arroganten Ralphs aufzupassen und die Truppen nach Norden zu führen."
 
 #: simulation/templates/units/labrynna/labrynna_hero_edgar.xml:66
 msgid "Edgar"
@@ -6684,18 +6689,18 @@ msgstr "Edgar"
 
 #: simulation/templates/units/labrynna/labrynna_hero_edgar.xml:67
 msgid "Towering Melee Hero armed with a long reaching glaive."
-msgstr ""
+msgstr "Riesiger Kämpfer mit einer Glefe "
 
 #: simulation/templates/units/labrynna/labrynna_hero_onox.xml:4
 #: simulation/templates/units/lizalfos/lizalfos_darkhammer_b.xml:4
 #: simulation/templates/units/moblin/moblin_gooma_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Ball and Chain"
-msgstr ""
+msgstr "Morgenstern"
 
 #: simulation/templates/units/labrynna/labrynna_hero_onox.xml:56
 msgid "General of Darkness"
-msgstr ""
+msgstr "General der Finsternis"
 
 #: simulation/templates/units/labrynna/labrynna_hero_onox.xml:58
 msgid ""
@@ -6704,18 +6709,22 @@ msgid ""
 "wearing a near invulnerable suit of armor into battle, Onox's presence alone is "
 "sometimes enough to bring about a surrender."
 msgstr ""
+"Ein schwarzer Drache der von Veran beschwört wurde. Die Meisterin der Schatten schickt Genreal"
+"Onox auf Missionen die zu gefährlich für irgendeinen Labrynner wären. Mit einen mächtigen Morgenstern"
+"und einer nahezu undurchdringlichen Rüstung in der Schlacht, ist die Anwesenheit von Onox oft Grund" 
+"genug um zu kapitulieren"
 
 #: simulation/templates/units/labrynna/labrynna_hero_onox.xml:63
 msgid "Onox"
-msgstr ""
+msgstr "Onox"
 
 #: simulation/templates/units/labrynna/labrynna_hero_onox.xml:64
 msgid "Powerful Siege Hero with a huge Flail."
-msgstr ""
+msgstr "Mächtiger Belagerungsheld mit einem rieigen Morgenstern"
 
 #: simulation/templates/units/labrynna/labrynna_hero_ralph.xml:52
 msgid "Prince of Labrynna"
-msgstr ""
+msgstr "Prinz von Labrynna"
 
 #: simulation/templates/units/labrynna/labrynna_hero_ralph.xml:54
 msgid ""
@@ -6727,18 +6736,25 @@ msgid ""
 "supernatural, in particular he hopes to uncover the mythical Fairies and ancient "
 "creatures that once coexisted in his homeland."
 msgstr ""
+"Der Enkel von Königin Ambi Ralphonso, wurde in der ersten Generation geboren die im neuen "
+"Königreich von Labrynna aufwuchs. Maschinerie liegt ihm im Blut, und Jahre der der Bildung "
+"haben ihm ein Praktikum im Kommandieren von Kanonenbatterien ermöglicht. Trotz Ralphs offen-"
+"sichtlicher Bewunderung für Labrynnas technischen Fortschritt, fühlt er als ob Labrynna in "
+"einer Ära des Verfalls steht wie wenn etwas fehlen würde. Seitdem sucht er das Übernatürliche,"
+"insbesondere hofft er den mythischen Feen auf dem Grund zu gehen und den antiken Kreaturen" 
+"die einst in seiner Heimat lebten."
 
 #: simulation/templates/units/labrynna/labrynna_hero_ralph.xml:58
 msgid "Ralphonso Ambi"
-msgstr ""
+msgstr "Ralphonso Ambi"
 
 #: simulation/templates/units/labrynna/labrynna_hero_ralph.xml:59
 msgid "Missile Hero unit that attacks with a long ranged pistol."
-msgstr ""
+msgstr "Schützenheld mit einer weitreichenden Pistole."
 
 #: simulation/templates/units/labrynna/labrynna_hero_veran.xml:60
 msgid "Sorceress of Shadows"
-msgstr ""
+msgstr "Meisterin der Schatten"
 
 #: simulation/templates/units/labrynna/labrynna_hero_veran.xml:62
 msgid ""
@@ -6752,18 +6768,27 @@ msgid ""
 " structure designed to serve as the new throne of Queen Ambi. Some suspect there’s more"
 " to the tower’s purpose than just an ego trip for Veran’s royal friend, however."
 msgstr ""
+"Verans Vergangenheit, ein Mystrerium für jeden in Labrynna, selbst ihre Vertrauten,"
+"ist eine furchtbare Trägodie voller Verlust und Traume. Einst war sie eine Große Fee "
+"doch Umstände führten zu ihrer Verbannung in das Schattenreich zusammen mit anderen "
+"Verbrecher ihres Volkes. Irgendwann während der Gerudo Kriege gelang es ihr nach Hyrule" 
+"zurückzukehren wo sie sich mit Königin Ambi anfreundete. Derzeit sind Verans Pläne unbekannt."
+"Sie ist jedoch eindeutig mit dem rapiden militärischen Wachstum in Labrynna verknüpft."
+"Veran ist die Architektin des Schwarzen Turms, einem massiven kolossalen Gebilde der als "
+"Thron für Ambi dient. Manch einer vermutet das mehr hinter dem Zweck des Turmes steckt als"
+"nur ein Egotrip der Königin."
 
 #: simulation/templates/units/labrynna/labrynna_hero_veran.xml:66
 msgid "Veran"
-msgstr ""
+msgstr "Veran"
 
 #: simulation/templates/units/labrynna/labrynna_hero_veran.xml:67
 msgid "Tall and slow moving Melee Hero with a powerful Splash Damage whip."
-msgstr ""
+msgstr "Große und langsame Heldin die mit ihrer Peitsche Flächenschaden austeilt"
 
 #: simulation/templates/units/labrynna/labrynna_hero_vire.xml:42
 msgid "Minion of Veran"
-msgstr ""
+msgstr "Diener von Veran"
 
 #: simulation/templates/units/labrynna/labrynna_hero_vire.xml:44
 msgid ""
@@ -6773,18 +6798,23 @@ msgid ""
 "prank than actually hurt someone, when threatened or ordered to kill he is more than "
 "capable of incinerating a victim with fireballs from his throat."
 msgstr ""
+"Vire ist ein mysteriöses Koboldhaftes Wesen das Veran gehorsam leistet. Nur wenige wissen "
+"was seine Missionen eigentlich beinhalten da die Bestie im Schutze der Nacht agiert."
+"Auch wenn Vire etwas albern ist und jemanden eher Streiche spielt als sie zu verletzen"
+"so zögert er, falls er bedroht oder der Befehl zum Töten erhält, nicht seine Opfer "
+"mit Feuerbällen einzuäschern."
 
 #: simulation/templates/units/labrynna/labrynna_hero_vire.xml:49
 msgid "Vire"
-msgstr ""
+msgstr "Vire"
 
 #: simulation/templates/units/labrynna/labrynna_hero_vire.xml:50
 msgid "Secondary Hero unit that attacks with magical fireballs from a distance"
-msgstr ""
+msgstr "Held der mit Feuerbällen aus der Distanz angreift."
 
 #: simulation/templates/units/labrynna/labrynna_homeguard_b.xml:36
 msgid "Homeguard"
-msgstr ""
+msgstr "Heimwehr"
 
 #: simulation/templates/units/labrynna/labrynna_homeguard_b.xml:37
 msgid ""
@@ -6793,10 +6823,14 @@ msgid ""
 "when a city came under siege. Armed with a mace and shield, they could pound a hostile "
 "into submission, especially when in squads."
 msgstr ""
+"Die Heimwehr dient als Polizei und Strafverfolger in Labrynnas Siedlungen. Auch wenn "
+"traditionell nicht tödliche Gewalt angewendet wird, waren sie bei einer Belagerung  "
+"oft die erste Verteidigungslinie. Mit Streitkolben und Schild ausgerüstet, konnten "
+"sie einen Feind in Gewahrsam prügeln, besonders in Gruppen "
 
 #: simulation/templates/units/labrynna/labrynna_homeguard_b.xml:41
 msgid "Light defensive Melee unit equiped with a mace and shield."
-msgstr ""
+msgstr "Leichte defensive Infanterie mit Streitkolben und Schild"
 
 #: simulation/templates/units/labrynna/labrynna_lynnapike_b.xml:4
 #: simulation/templates/units/labrynna/labrynna_lynnapike_upg.xml:4
