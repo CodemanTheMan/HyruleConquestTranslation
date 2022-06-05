@@ -6840,7 +6840,7 @@ msgstr ""
 
 #: simulation/templates/units/labrynna/labrynna_lynnapike_b.xml:33
 msgid "Lynna Pike"
-msgstr ""
+msgstr "Lynna Pikeniere"
 
 #: simulation/templates/units/labrynna/labrynna_lynnapike_b.xml:34
 msgid ""
@@ -6849,21 +6849,25 @@ msgid ""
 "operating out of Lynna city, the Pikeman bring their pole arms to the fight to hold "
 "enemy cavalry at bay."
 msgstr ""
+"Mit der Maske eines Eisenhelmkäfer des Kugelkamm geziert, sorgten diese Männer und Frauen"
+"bei ihrem Leben das kein Staatsgebiet in die Hände des Feindes fiel. Außerhalb von"
+"von Lynna Stadt, bringen die Pikeniere ihre Stangenwaffen in die Schlacht um feindliche"
+"Kavallerie zu stoppen"
 
 #: simulation/templates/units/labrynna/labrynna_lynnapike_b.xml:38
 msgid "Melee unit with a very far reaching pike."
-msgstr ""
+msgstr "Infanterie mit einem weitreichenden Spieß"
 
 #: simulation/templates/units/labrynna/labrynna_organgun.xml:4
 #: simulation/templates/units/labrynna/labrynna_organgun_common.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Cannonballs"
-msgstr ""
+msgstr "Kanonenschrot"
 
 #: simulation/templates/units/labrynna/labrynna_organgun.xml:53
 #: simulation/templates/units/labrynna/labrynna_organgun_common.xml:54
 msgid "Ribauldequin"
-msgstr ""
+msgstr "Ribauldequin"
 
 #: simulation/templates/units/labrynna/labrynna_organgun.xml:55
 #: simulation/templates/units/labrynna/labrynna_organgun_common.xml:55
@@ -6873,33 +6877,43 @@ msgid ""
 "barreled counterpart however; the Organ Gun would unleash a rapid fire shotgun spray "
 "over a large area rather than picking out a target. The resulting volley could "
 "indiscriminately shred apart large swaths of enemy soldiers."
-msgstr ""
+msgstr"" 
+"Auch Orgelgeschütz von ihren Feinden genannt war die Ribauldequin eine Batterie von"
+"kleinen verbundenen Kanonenrohren. Die Waffe funktionierte sehr unterschiedlich als"
+"als ihr einrohriges Bruder; Das Orgelgeschütz entfesselt einen rasenden Schrothagel"
+"über eine weite Fläche anstatt sich auf ein Ziel zu konzentrieren. So eine Salve "
+"konnte feindliche Battalione unbarmherzig auseinandernehmen."
 
 #: simulation/templates/units/labrynna/labrynna_organgun.xml:58
 #: simulation/templates/units/labrynna/labrynna_organgun_common.xml:58
 msgid ""
 "Queen Ambi's Unique Unit. Ranged Siege unit with very wide field of fire and Splash "
 "Damage."
-msgstr ""
+msgstr 
+"Einzigartige Einheit von Königin Ambi. Belagerungswaffe mit einem weit gefächerten Feuerradius"
+"und Flächenschaden"
 
 #: simulation/templates/units/labrynna/labrynna_pathfinder_b.xml:34
 msgid "Pathfinder"
-msgstr ""
+msgstr "Pfadfinder"
 
 #: simulation/templates/units/labrynna/labrynna_pathfinder_b.xml:35
 msgid ""
 "The eyes and ears of Labrynna's frontiers, Pathfinders relentlessly search for new "
 "lands and resources to conquer. They are quite familiar with the lands of Labrynna and "
 "are more than prepared to face the challenges of Hyrule’s varied terrain."
-msgstr ""
+msgstr 
+"Die Pfadfinder waren die Augen und Ohren an Labrynnas Grenzen und unermüdlich auf der Suche"
+"nach neuen Ländereien und Ressourcen die es zu erobern galt. Sie sind sehr vertraut mit"
+"der Natur Labrynnas and mehr als bereit es mit Hyrules vielfältigen Terrain aufzunehmen"
 
 #: simulation/templates/units/labrynna/labrynna_pathfinder_b.xml:39
 msgid "A swift Scout unit armed with a sword. Can detect Camouflaged and Stealthed unit."
-msgstr ""
+msgstr "Ein schneller Späher mit einem Schwert. Kann Getarnte Einheiten erkennen."
 
 #: simulation/templates/units/labrynna/labrynna_pioneer_b.xml:42
 msgid "Pioneer"
-msgstr ""
+msgstr "Pionier"
 
 #: simulation/templates/units/labrynna/labrynna_pioneer_b.xml:43
 msgid ""
@@ -6917,7 +6931,7 @@ msgstr ""
 
 #: simulation/templates/units/labrynna/labrynna_steamtank_b.xml:60
 msgid "Steam Tank"
-msgstr ""
+msgstr "Dampfpanzer"
 
 #: simulation/templates/units/labrynna/labrynna_steamtank_b.xml:61
 msgid ""
@@ -6928,6 +6942,12 @@ msgid ""
 "submission without having to fire a single shot, but their slow speed and significant "
 "blind spots could be exploited by those who knew better."
 msgstr ""
+"Die Krönung von Labrynnas ingenieurischer und militärischer Macht. Der Dampfpanzer war eine"
+"mobile Kanone mit dicker Panzerung. Um der Besatzung zu helfen so eine schwere Waffe zu bewegen"
+"wurde ein primitivee aber funkrionierende Dampfmaschiene eingebaut die alles langsam aber stetig"
+"vorantrieb. Diese schwerfälligen und lauten Maschinen waren oft bedrohlich genug einen Gegner"
+"zur Kapitulation zu treiben ohne auch nur einen Schuss abzugeben, aber die ehrfahreren konnten"
+"diese Eigenschaften ausnutzen und aus toten Winkeln angreifen."
 
 #: simulation/templates/units/labrynna/labrynna_steamtank_b.xml:63
 msgid ""
@@ -6937,7 +6957,7 @@ msgstr ""
 
 #: simulation/templates/units/labrynna/labrynna_talusknight_b.xml:34
 msgid "Talus Knight"
-msgstr ""
+msgstr "Talus Ritter"
 
 #: simulation/templates/units/labrynna/labrynna_talusknight_b.xml:35
 msgid ""
@@ -6947,6 +6967,11 @@ msgid ""
 " as a durable shield, the Knights were a powerful melee force and one of the last icons"
 " of Labrynna’s pre-empire era."
 msgstr ""
+"Wohlhabene Soldaten der Oberschicht, auch wenn das Rittertum in Labrynna mit dem neuen"
+"Kurs des Königreichs schwand. Ein Orden von Ritter die sich in Talus zusammenschlossen "
+"und irgendwann der Ambidynastie die Treue schworen. Mit schwerer und kunstvoller Rüstung"
+"und einem stabilen Schild, waren die Ritter eine schlagkräftige Truppe und  gehörten zu "
+" den letzen Überreste vom alten Labrynna "
 
 #: simulation/templates/units/labrynna/labrynna_talusknight_b.xml:39
 msgid "Strong Melee unit with a durable suit of armor. Carries a sword and shield into battle."
@@ -6954,7 +6979,7 @@ msgstr ""
 
 #: simulation/templates/units/labrynna/labrynna_titan_makulab.xml:73
 msgid "Guardian of Labrynna"
-msgstr ""
+msgstr "Hüterin von Labrynna"
 
 #: simulation/templates/units/labrynna/labrynna_titan_makulab.xml:74
 msgid ""
@@ -6966,16 +6991,24 @@ msgid ""
 "transformation, it’s clear that the Maku Tree is now out to conquer the land rather "
 "than guard it from invaders."
 msgstr ""
+"Einst eine mächtige Naturgewalt die lange über die Lande von Labrynna wachte. Mit der "
+"Ankunft von Varen änderte sich das Verhalten des Makubaums dramatisch. Ihr Aussehen "
+"änderte sich mit diesen mit diesen auch. Angetrieben durch die Macht Labrynnas, wurde"
+"aus dem einst sanften und netten Wesen des Makubaums ein blutrünstiges und kampfbereites"
+"Monster. Was auch immer hinter ihrer Verwandlung steckt, ist es dennoch klar das der"
+"Makubaum nun darauf aus ist das Land zu unterwerfen als es zu schützen."
 
 #: simulation/templates/units/labrynna/labrynna_titan_makulab.xml:77
 msgid "Maku Tree of Labrynna"
-msgstr ""
+msgstr "Makubaum von Labrynna"
 
 #: simulation/templates/units/labrynna/labrynna_titan_makulab.xml:78
 msgid ""
 "Labrynnian Titan unit. Huge Siege unit that can rip apart even the most sturdy of enemy"
 " defenses."
-msgstr ""
+msgstr 
+"Labrynnas Titan. Riesige Belagerungskreatur die selbst die hartnäckigsten"
+"Verteidigungslinien durchbricht"
 
 #: simulation/templates/units/labrynna/labrynna_tokayfodder_b.xml:38
 msgid "Tokay Fodder"
@@ -7012,7 +7045,7 @@ msgstr ""
 
 #: simulation/templates/units/labrynna/labrynna_ursawagon_b.xml:46
 msgid "Ursa Wagon"
-msgstr ""
+msgstr "Ursawagen"
 
 #: simulation/templates/units/labrynna/labrynna_ursawagon_b.xml:47
 msgid ""
@@ -7020,12 +7053,16 @@ msgid ""
 " ranged units and used as mobile turrets. They were perhaps most effective being used "
 "by gunpowder units, allowing them to reload and fire while on the move."
 msgstr ""
+"Ein einfacher Wagen der von Labrynnischen Blaubären gezogen wird. Sie konnten mit ein "
+"paar Fernkämpfern beldaen werden und als mobiler Turm eingesetzt werden. Sie werden am"
+"besten von Schießpulver einheiten genutzt was ihnen ermöglicht zu schießen, nachzuladen"
+"und in Bewegung zu bleiben."
 
 #: simulation/templates/units/labrynna/labrynna_ursawagon_b.xml:52
 msgid ""
 "Cavalry Support unit that can transport other units to battle. Garrisoned ranged units "
 "can attack from the wagon."
-msgstr ""
+msgstr "Unterstützung der Kavallerie"
 
 #: simulation/templates/units/labrynna_trader_b.xml:12
 msgid "Comerciante"
@@ -7043,11 +7080,11 @@ msgstr ""
 #: simulation/templates/units/zora/zora_infiltrator_upg.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fin Blades"
-msgstr ""
+msgstr "Flossenklingen"
 
 #: simulation/templates/units/lanayru/lanayru_aquamarine_b.xml:34
 msgid "Aquamarine"
-msgstr ""
+msgstr "Aquamarine"
 
 #: simulation/templates/units/lanayru/lanayru_aquamarine_b.xml:35
 msgid ""
@@ -7057,14 +7094,19 @@ msgid ""
 "with ease. The nature of their armor allowed them to move just as fast in water as on "
 "land."
 msgstr ""
+"Die Aquamarine war ausgerüstet mit zäher und flexibeler Lanayru Rüstung und waren die"
+"Hauptstreitmacht der Provinz wenn es darum ging den Krieg zu ihren Feinden zu bringen."
+"Mit scharfen Korallenguss Stulpen, konnten die Auqamarine jede Art von Rüstung entfernen. "
+"Die Eigenschaften der Rüstung ermögichten es sich genauso schnell im Wasser wie auf Land"
+"zu bewegen."
 
 #: simulation/templates/units/lanayru/lanayru_aquamarine_b.xml:40
 msgid "Fast moving Melee unit that deals armor piercing damage."
-msgstr ""
+msgstr "Schnelle Infanterie rüstungen durchdringt."
 
 #: simulation/templates/units/lanayru/lanayru_arachdervish_b.xml:42
 msgid "Arach Dervish"
-msgstr ""
+msgstr "Meghad Derwisch"
 
 #: simulation/templates/units/lanayru/lanayru_arachdervish_b.xml:43
 msgid ""
@@ -7074,15 +7116,20 @@ msgid ""
 "its rider cannot attack and must focus entirely on directing its mount. The Arach "
 "itself has two powerful claws and a venomous stinger on its tail, making them one of "
 "the most deadly creatures in Lanayru's army."
-msgstr ""
+msgstr "Ältere Meghads sind selten da sie nur in jungen Jahren gezähmt werden können. Selbst"
+"trainierte Tiere können nicht auf mündliche Befehle hören und brauchen einen Reiter zur "
+"Kontrolle. Da sie aggressiv und schwer zu Kontrolieren sind kann der Reiter nicht angreifen"
+"und muss sich ganz auf das Tier konzentrieren. Der Meghad hat zwei scharfe Scheren und "
+"einen giftigen Stachel auf seinem Schwanz , was ihn zu einem der tödlichsten Kreaturen in "
+"Lanayrus Armee macht."
 
 #: simulation/templates/units/lanayru/lanayru_arachdervish_b.xml:48
 msgid "Fast Melee Unit that attacks with poisonous stinger."
-msgstr ""
+msgstr "Schnelle Kreatur die mit ihren Giftstachel angreift."
 
 #: simulation/templates/units/lanayru/lanayru_aruroda_b.xml:38
 msgid "Aruroda"
-msgstr ""
+msgstr "Aruroda"
 
 #: simulation/templates/units/lanayru/lanayru_aruroda_b.xml:39
 msgid ""
@@ -7092,14 +7139,19 @@ msgid ""
 "problems with the creatures. If caught at a young enough age, Arurodas could be "
 "domesticated and used as beasts of war."
 msgstr ""
+"Diese skorpionhaften Medighads die in den Sanden von Lanayru beheimatet sind, gelten  "
+"überall in Hyrule als extrem gefährlichsten Schädlinge.Die Zora der Lanayru Provinz "
+"haben Wege gefunden sich den gefährlichen Saisons anzupassen oder ihnen auszuweichen"
+"und haben selten Probleme mit den Kreaturen. Wenn sie jung genug als Minighad gefangen"
+"wurden konnten sie gezähmt und als Kriegsbestien eingesetzt werden"
 
 #: simulation/templates/units/lanayru/lanayru_aruroda_b.xml:44
 msgid "Light Melee Creature unit that can burrow to become Stealthed."
-msgstr ""
+msgstr "Leichte Kreatur die sich tarnen und vergraben kann und im Nahkampf anzugreift"
 
 #: simulation/templates/units/lanayru/lanayru_ballista_b.xml:52
 msgid "Siege Unit"
-msgstr ""
+msgstr "Belagerungswaffe"
 
 #: simulation/templates/units/lanayru/lanayru_ballista_b.xml:53
 msgid ""
@@ -7109,18 +7161,22 @@ msgid ""
 "aimed properly, a single shot from the Ballista could impale nearly a dozen enemy "
 "soldiers at a time."
 msgstr ""
+"Die Korallenguss Balliste dient als Hauptbelagerungswaffe und feuert mächtige Bolzen"
+"mit hoher Geschwindigkeit ab. Die Korallenguss spitze  war stark genug um fast alles"
+"zu perforieren, sei es Steinmauer oder schwer gepanzerte Soldaten. Wenn richtig gezielt"
+"wurde konnte ein Schuss nahezu ein Dutzend Soldaten aufspießen."
 
 #: simulation/templates/units/lanayru/lanayru_ballista_b.xml:56
 msgid "Coralmold Ballista"
-msgstr ""
+msgstr "Korralenguss Balliste"
 
 #: simulation/templates/units/lanayru/lanayru_ballista_b.xml:57
 msgid "Light Siege unit that deals Linear Splash Damage to its targets."
-msgstr ""
+msgstr "Leichte Belagerungswaffe die Linearen Flächenschaden verursacht."
 
 #: simulation/templates/units/lanayru/lanayru_battlecrab_b.xml:42
 msgid "Battlecrab"
-msgstr ""
+msgstr "Kampfkrabbe"
 
 #: simulation/templates/units/lanayru/lanayru_battlecrab_b.xml:44
 msgid ""
@@ -7129,10 +7185,13 @@ msgid ""
 "defenders and successfully domesticated the crustaceans. A Battlecrab is followed by a "
 "small host of its children, who seek out and attack anything near their mother."
 msgstr ""
+"Bösartige Biester die im Sommer an der gesamten Küste Lanayrus zu finden sind und "
+"besser in Ruhe lässt. Eine Kampfkrabbe wird von einer kleinen gruppe an Babies begleitet"
+"die alles angreift was ihrer Mutter zu nahe kommt."
 
 #: simulation/templates/units/lanayru/lanayru_battlecrab_b.xml:49
 msgid "Durable Melee Creature that continually spawns baby Battlecrabs."
-msgstr ""
+msgstr "Wiederstandsfähige Nahkampfkreatur die kontinuierlich Baby Kampfkrabben erzeugt."
 
 #: simulation/templates/units/lanayru/lanayru_civilianA.xml:8
 #: simulation/templates/units/lanayru/lanayru_handmaidenA.xml:56
@@ -7155,7 +7214,7 @@ msgstr ""
 
 #: simulation/templates/units/lanayru/lanayru_conscript_b.xml:35
 msgid "Conscript"
-msgstr ""
+msgstr "Rekruten"
 
 #: simulation/templates/units/lanayru/lanayru_conscript_b.xml:36
 msgid ""
@@ -7164,15 +7223,19 @@ msgid ""
 "expenses being covered by the Province. Most Conscripts lacked even basic training, and"
 " their survival rate was rather low on the frontlines of battle."
 msgstr ""
+"Nicht mehr als ein Bürger Lanayrus dem ein Schwert in die Hand gedrückt wurde. Rekruten"
+"waren nicht mehr als ein paar Freiwillige die der Armee en Masse beitraten um ihren"
+"Lebensunterhalt von der Provinz finanziert bekamen. Die meisten Rekruten hatten oft "
+"nicht mal ein rudimentäres Training und ihr Überlebensrate war dementscprechend niedrig"
 
 #: simulation/templates/units/lanayru/lanayru_conscript_b.xml:40
 msgid "Cheap mass produced Melee unit armed with swords."
-msgstr ""
+msgstr "Billige in Massen produzierte Infanterie mit einem Schwert"
 
 #: simulation/templates/units/lanayru/lanayru_coralarcher_b.xml:42
 #: simulation/templates/units/lanayru/lanayru_coralarcher_garrisoned.xml:43
 msgid "Coral Archer"
-msgstr ""
+msgstr "Korallenschützen"
 
 #: simulation/templates/units/lanayru/lanayru_coralarcher_b.xml:43
 #: simulation/templates/units/lanayru/lanayru_coralarcher_garrisoned.xml:44
@@ -7181,20 +7244,23 @@ msgid ""
 "counter to heavily armored units. In most cases they could level the playing field by "
 "softening up heavy armor for Lanayru’s lighter forces to deal with."
 msgstr ""
+"Lanayrus Korallenschützen, berüchtigt für ihre berüchtigten Korallenguss Pfeile, waren "
+"ein billiger Konter gegen schwer gepanzerte Truppen. In den meisten Fällen weichten sie"
+"schwere Truppen auf damit die leichten Truppen Lanayrus ein einfacheres Spiel hatten."
 
 #: simulation/templates/units/lanayru/lanayru_coralarcher_b.xml:47
 #: simulation/templates/units/lanayru/lanayru_coralarcher_garrisoned.xml:48
 msgid "Light Archer unit with armor piercing arrows."
-msgstr ""
+msgstr "Leichter Bogenschütze mit Panzerbrechenden Pfeilen"
 
 #: simulation/templates/units/lanayru/lanayru_flinger_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Shrapnel"
-msgstr ""
+msgstr "Schrapnell"
 
 #: simulation/templates/units/lanayru/lanayru_flinger_b.xml:60
 msgid "Shrapnel Flinger"
-msgstr ""
+msgstr "Schrapnell Werfer"
 
 #: simulation/templates/units/lanayru/lanayru_flinger_b.xml:61
 msgid ""
@@ -7204,10 +7270,15 @@ msgid ""
 "attack completely missed, soldiers could still accidentally step on the resting shards "
 "and slice their feet in half."
 msgstr ""
+"Die Schrapnell Werfer waren vermutlich die verrufensten Waffen der Provinz sogar unter"
+"den eigenen Reihen. Dieses Katapult entfesselt ohne Rücksicht auf Verluste zahllose Scherben an "
+"rasiermesserscharfen Korallenguss die dutzende Soldaten in einer Salve aufschlitzen. Selbst wenn "
+"Der Angriff komplett verfehlte bestand immer noch die Gefahr das Soldatenin die Scherben traten"
+"und sich die Füße abschlitzten."
 
 #: simulation/templates/units/lanayru/lanayru_flinger_b.xml:63
 msgid "Support unit that hurls large fields of twisted caltrops to damage passing enemy units."
-msgstr ""
+msgstr "Unterstützungseinheit die ein großes Feld mit Krähenfüßen füllt die passierende Feinden schaden"
 
 #: simulation/templates/units/lanayru/lanayru_gleeoklingA_1.xml:38
 #: simulation/templates/units/lanayru/lanayru_gleeoklingA_2.xml:45
@@ -7215,7 +7286,7 @@ msgstr ""
 #: simulation/templates/units/lanayru/lanayru_gleeoklingB_2.xml:45
 #: simulation/templates/units/lanayru/lanayru_gleeoklingB_3.xml:45
 msgid "Gleeokling"
-msgstr ""
+msgstr "Gleeokwyrm"
 
 #: simulation/templates/units/lanayru/lanayru_gleeoklingA_1.xml:39
 #: simulation/templates/units/lanayru/lanayru_gleeoklingA_2.xml:46
@@ -7230,6 +7301,12 @@ msgid ""
 " and heal any injury so long as one of its heads remains attached to its body; thus the"
 " only way to slay this creature is to decapitate all of its heads."
 msgstr ""
+"Die Brut des legendären Drachen Gleeok. Diese seimaquatischen Kreaturen gehören zu den wenigen"
+"verbliebenen Drachen in Hyrule. Die Lanayru Provinz hat große Mühen auf sich genommen um diese "
+"Bestien zu zähmen und sie in ihre Armee zu integrieren. Ein Gleeokwyrm hat viele hat viele  "
+"Köpfe auf seinem Kopf welche nach einer Weile regenerieren falls einer Verloren geht. Ein Gleeokwyrm"
+"kann jede Wunde überstehen solange es noch Köpfe gibt weshalb der einzige weg einen zu töten ist  "
+"ihm alle Köpfe abzuschlagen."
 
 #: simulation/templates/units/lanayru/lanayru_gleeoklingA_1.xml:44
 #: simulation/templates/units/lanayru/lanayru_gleeoklingA_2.xml:51
@@ -7237,11 +7314,11 @@ msgstr ""
 #: simulation/templates/units/lanayru/lanayru_gleeoklingB_2.xml:51
 #: simulation/templates/units/lanayru/lanayru_gleeoklingB_3.xml:51
 msgid "Powerful Melee Creature unit that continues to fight after it loses its heads."
-msgstr ""
+msgstr "Mächtige Nahkampfkreatur die weiterkämpft wenn sie Köpfe verliert."
 
 #: simulation/templates/units/lanayru/lanayru_guardianmaiden_b.xml:33
 msgid "Guardian Maiden"
-msgstr ""
+msgstr "Schildmaid"
 
 #: simulation/templates/units/lanayru/lanayru_guardianmaiden_b.xml:35
 msgid ""
@@ -7252,10 +7329,15 @@ msgid ""
 " Hero, the Guardian Maiden would receive all damage instead of that Commander or Hero "
 "until she was slain."
 msgstr ""
+"Die Schildmaiden bestand aus Zora Frauen die ihr Leben dem Schutz der Provinz widmeten,"
+"insbesondere der Königlichen Blutlinie. Sie entsagten allem Materielen Wohlstand, Partnerschaften"
+"und jeglicher Form eines persönlichen Lebens bis in den, hoffentlich kriegerischen, Tod. So lange"
+"wie eine Schildmaid in Formation mit einem Kommandanten oder Helden war würde sie an ihrer statt "
+" jeden Schaden auf sich nehmen bis daran erlag."
 
 #: simulation/templates/units/lanayru/lanayru_guardianmaiden_b.xml:40
 msgid "Queen Rutela's Unique Unit. Powerful Melee attacker with very high Dodge potential."
-msgstr ""
+msgstr "Königin Rutelas einzigartige Einheit. Mächtige Infaterie mit hoher Ausweichrate"
 
 #: simulation/templates/units/lanayru/lanayru_hermitid_b.xml:45
 msgid "Hermitid"
