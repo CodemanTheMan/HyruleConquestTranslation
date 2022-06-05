@@ -411,7 +411,7 @@ msgid ""
 "guard passages and other important locations, as those found active will begin to "
 "rampage and defend the immediate area."
 msgstr ""
-"Většinou nalézány v lesních zříceninách, tyhle sochy, a jejich tvůrci, jsou dodnes "
+"Většinou nalézány v lesních zříceninách Hyronu, tyhle sochy, a jejich tvůrci, jsou dodnes "
 "záhadou. Co se dá předpokládat je že byly určeny strážit průchody a podobná důležitá "
 "místa, neboť ty nalezené aktivní začnou řádit a bránit bezprostřední okolí."
 
@@ -448,7 +448,7 @@ msgid ""
 "passages and other important locations, as those found active will begin to rampage and"
 " defend the immediate area."
 msgstr ""
-"Většinou nalézány v pouštních zříceninách, tyhle sochy, a jejich tvůrci, jsou dodnes "
+"Většinou nalézány v zříceninách Hyronských pouští, tyhle sochy, a jejich tvůrci, jsou dodnes "
 "záhadou. Co se dá předpokládat je že byly určeny strážit průchody a podobná důležitá místa, "
 "neboť ty nalezené aktivní začnou řádit a bránit bezprostřední okolí."
 
@@ -1080,7 +1080,8 @@ msgid ""
 "Darknut people despite him refusing to join the Legion proper."
 msgstr ""
 "Známý jako Termnářský Náčelník, Onon vedl úspěšnou obranu Ontheonu a několika dalších "
-"měst proti Gerudám. Stal se z něho lidový hrdina mezi Temnářským lidem přesto že odmítá se připojit k Legii."
+"měst proti Gerudám. Stal se z něho lidový hrdina mezi Temnářským lidem přesto že odmítá "
+"se oficiálně připojit k Legii."
 
 #: simulation/templates/units/darknut/darknut_hero_onon.xml:53
 msgid "Onon"
@@ -1104,11 +1105,12 @@ msgid ""
 "legend. Still, there are some words spoken that this grim warrior still walks in the "
 "shadows of Hyrule and serves the Legion to this day."
 msgstr ""
-"Senturon sloužil jako jeden z Vátiho vojevůdce za jeho invaze za starověku. Očividně "
-"nezabitelný, začaly se šuškat pověsti že Senturon měl moc vztát z mrtvých. Ať už pravda "
-"byla jakákoliv, bez milosti konal příkazy Legie a kompletně vyhnal Kmen Větrů ze světa. "
-"Po tři tisíce letech bylo jméno Senturon zapomenuto a přídomek Černý Rytíř se stal legendou. 
-"Přesto, slova se šuškají že tenhle ponurý bojovník stále chodí ve stínech světa a dodnes slouží Legii."
+"Senturon sloužil jako jeden z Vátiho vojevůdce za jeho invaze za Hyronského starověku. "
+"Zdánlivě nezabitelný, začaly se šuškat pověsti že Senturon měl moc vztát z mrtvých. Ať už "
+"pravda byla jakákoliv, bez milosti konal příkazy Legie a kompletně vyhnal Kmen Větrů ze "
+"světa. Po tři tisíce letech bylo jméno Senturon zapomenuto a přídomek Černý Rytíř se stal "
+"legendou. Přesto, slova se šuškají že tenhle ponurý bojovník stále chodí ve stínech světa "
+"a dodnes slouží Legii."
 
 #: simulation/templates/units/darknut/darknut_hero_senturon.xml:64
 msgid "Senturon"
@@ -1118,7 +1120,9 @@ msgstr "Senturon"
 msgid ""
 "Extremely durable Melee Hero with a heavy suit of armor. He can take tremendous "
 "punishment before falling in battle."
-msgstr "Extrémně odolný z blízka bojující hrdina s těžkým brněním. Vydrží obrovské ztrestání než padne v bitvě."
+msgstr ""
+"Extrémně odolný z blízka bojující hrdina s těžkým brněním. Vydrží obrovské "
+"ztrestání než padne v bitvě."
 
 #: simulation/templates/units/darknut/darknut_hero_yaraxonal.xml:58
 msgid "The Glass Sage"
@@ -1135,11 +1139,12 @@ msgid ""
 " and veneration as a god, Yaraxonal was rather humble and was responsible for expanding"
 " the Legion through diplomacy and assimilation rather than conquest."
 msgstr ""
-"Jaraxonal byla bývalá Mudryně, a také náčelnice a hlavní bohyně Temnářské Legie před "
-"Zalunbarem. Pod nosem Temnářského lidu byla uvězněna v kamenu Vátim a sesazena Zalunbarem. "
-"Za tři tisíce let zmizela její vzpomínka, zatímco používala svoji moc jako Mudryně aby "
-"poslala zprávu pro pomoc. Měla moc nad pouštními větry a používala je proti nepřátelům Legie. 
-"Navzdory její moci a úctíváním jako bohyně, Jaraxonal byla spíše pokorná a zasloužila se o růst Legie diplomacií místo dobýváním."
+"Jaraxonal byla bývalá Mudryně Hyronu, a také náčelnice a hlavní bohyně Temnářské Legie "
+"před Zalunbarem. Pod nosem Temnářského lidu byla uvězněna v kamenu Vátim a sesazena "
+"Zalunbarem. Za tři tisíce let zmizela její vzpomínka, zatímco používala svoji moc jako "
+"Mudryně aby poslala zprávu pro pomoc. Měla moc nad pouštními větry a používala je proti "
+"nepřátelům Legie. Navzdory její moci a úctíváním jako bohyně, Jaraxonal byla spíše "
+"pokorná a zasloužila se o růst Legie diplomacií místo dobýváním."
 
 #: simulation/templates/units/darknut/darknut_hero_yaraxonal.xml:64
 msgid "Yaraxonal"
@@ -1205,9 +1210,9 @@ msgid ""
 "guards, national patrols, and emergency reinforcements to back up armies during "
 "wartime."
 msgstr ""
-"Temnářští Hoplíti byli vojáci níže v hierarchii kteří prošli pouze minimálním výcvikem "
-"místo toho aby se stali životními členy Legie. Místo toho sloužili jako městští hlídači, "
-"národní stráž, a nouzové posily pro armády během války."
+"Temnářští Hoplíti byli vojáci níže v hierarchii kteří prošli pouze minimálním "
+"výcvikem místo toho aby se stali životními členy Legie. Místo toho sloužili jako "
+"městští hlídači, národní stráž, a nouzové posily pro armády během války."
 
 #: simulation/templates/units/darknut/darknut_hoplite_b.xml:44
 msgid "Defensive Melee unit armed with a long spear."
@@ -1228,7 +1233,7 @@ msgid ""
 "could leap staggering distances. They were just as swift in a melee as well, swiping "
 "and countering enemy blows almost effortlessly."
 msgstr ""
-"Tito dlouhodobí členové LEgie kteří byli asimilováni to Temnářské kultury propůjčili "
+"Tito dlouhodobí členové Legie kteří byli asimilováni to Temnářské kultury propůjčili "
 "svůj vlastní druh vojáků bitvě. Fokští Hypaspisti byli extrémně rychlí a uměli skákat "
 "ohromně daleko. V boji na blízko byli stejně hbití, a bez námahi čelili a odráželi "
 "nepřátelské rány."
@@ -1513,8 +1518,9 @@ msgid ""
 " the Legion. Despite their size, Patra are infamous for their ability to hide and "
 "strike at enemies from the shadows."
 msgstr ""
-"Plody a služebnictvo démona Vátiho, Patry slouží jako oči těch u moci Legie. I přes jejich "
-"velikost jsou Patry nechvalně známé pro svoji schopnost se schovat a udeřit na svoje nepřátele ze stínu. "
+"Plody a služebnictvo démona Vátiho, Patry slouží jako oči těch u moci Legie. I přes "
+"jejich velikost jsou Patry nechvalně známé pro svoji schopnost se schovat a udeřit na "
+"svoje nepřátele ze stínu. "
 
 #: simulation/templates/units/darknut/darknut_patra_b.xml:41
 msgid "Zalunbar's Unique Unit. Flying Scout Creature concealed with Camouflage."
@@ -1602,10 +1608,10 @@ msgid ""
 " one hand and a sword in the other, Rebonacks could knock down enemy soldiers with ease"
 " and lob the heads off of those that survived."
 msgstr ""
-"Skoro jako bozi, Levionáři byli nejzkušenější vojáci v celé Legii a možná jejich nejděsivější "
-"válečníci. Levionáři jezdili na zádech obřích černých ořů kteří byli po staletí šlechtěni "
-"výhradně pro velikost. Ozbrojeni kopím v jedné ruce a mečem ve druhé, Levioáři byli schopní "
-"bez námahy srazit nepřátelské vojáky a useknout hlavu těm co přežili."
+"Skoro jako bozi, Levionáři byli nejzkušenější vojáci v celé Legii a možná jejich "
+"nejděsivější válečníci. Levionáři jezdili na zádech obřích černých ořů kteří byli po "
+"staletí šlechtěni výhradně pro velikost. Ozbrojeni kopím v jedné ruce a mečem ve druhé, "
+"Levioáři byli schopní bez námahy srazit nepřátelské vojáky a useknout hlavu těm co přežili."
 
 #: simulation/templates/units/darknut/darknut_rebonack_b.xml:59
 msgid "Slow but extremely armored Cavalry unit carrying a huge lance."
@@ -1696,7 +1702,7 @@ msgid ""
 "Vaati disguise and reveals his horrific bat-like form."
 msgstr ""
 "Kdysi člen rasy Menšíků, Váti se setkal s jedním z pravěkých démonů který řádil v "
-"prvotním světě a uzavřel s tou bestií pakt. Démon mu dal neuvěřitelnou moc, ale Váti "
+"prvotním Hyronu a uzavřel s tou bestií pakt. Démon mu dal neuvěřitelnou moc, ale Váti "
 "se nakonec ztratil v posedlosti té bestie. Přestože už nebyl sám sebou, démon si "
 "ponechal Vátiho vzhled, jméno a osobnost zatímco se vydal za svými cíly ve světě. "
 "Pokud je v ohrožení, démon opustí svůj převlek a odhalí svoji hroznou netopýrnou podobu."
@@ -1716,7 +1722,7 @@ msgstr "Tornádo"
 
 #: simulation/templates/units/darknut/darknut_vaatinado.xml:74
 msgid "Vaati's Tornado"
-msgstr "Váátiho Tornádo"
+msgstr "Vátiho Tornádo"
 
 #: simulation/templates/units/darknut_trader_b.xml:12
 msgid "Dealer"
@@ -1823,7 +1829,7 @@ msgstr ""
 #: simulation/templates/units/zora/zora_titan_jabujabu.xml:47
 #: simulation/templates/units/zora_trader_b.xml:23
 msgid "Support"
-msgstr "Podpora"
+msgstr "Podpůrná Jednotka"
 
 #: simulation/templates/units/deku/deku_baba_b.xml:37
 msgid "Deku Baba"
@@ -1838,7 +1844,7 @@ msgid ""
 "mounted on the heads of many Deku Scrubs and the backs of their Orhat Beetles however, "
 "giving whatever unit they were attached to a bonus melee attack."
 msgstr ""
-"Tyhle podlé rostliny vzkvétaly jako nenasytný plevel z různých lesech světa, ale byly "
+"Tyhle podlé rostliny vzkvétaly jako nenasytný plevel z různých lesech Hyronu, ale byly "
 "poměrně přátelské k Deku Rostům. Mnozí Rosti si z nich udělali domácí zvířata, a navíc "
 "byly používány jejich armádami jako stráž. Deku Baby byly kompletně nehybné a samy nemohly "
 "udělat víc než bránit své bezprostřední okolí. Mohly však být nasazeny na hlavy mnoha Rostů "
@@ -1932,7 +1938,7 @@ msgid ""
 " the nastiest trick of this weapon was the packs of Baba seeds attached to the bolts, "
 "which could then hatch and grow into Deku Babas shortly after landing on the mark."
 msgstr ""
-"Babalista je šílený stroj vynalezen samotným Kadem. Když vypálíla obří šipku ze své malé "
+"Babalista je šílený stroj vynalezen samotným Kadem. Když vypálila obří šipku ze své malé "
 "konstrukce, její útok snadno dokázal prorazit díru ve většině cílů. Asi nejpodlejší trik "
 "této zbraně byly semínka Bab přivázaná k šipkám, které se mohly vylíhnout a vyrůst do "
 "Deku bab krátce po přistání."
@@ -2299,7 +2305,7 @@ msgid ""
 "arms."
 msgstr ""
 "Tihle mohutní Deku Rosti neměli ve své kultuře jiný účel než mlátit hlavy jejich "
-"nepřátel. Přestože byli vzácně větší než obvyklý Hylián, byli to největší Rosti co "
+"nepřátel. Přestože byli vzácně větší než obvyklý Hyliánec, byli to největší Rosti co "
 "kdy žili a byli svým lidem považováni za vrchol jejich rasy. V bitvě neúprosně "
 "mlátili něpřátele svýma dvěma rukama s pařáty."
 
@@ -2472,7 +2478,7 @@ msgid ""
 "On rare occasions the Scrubs managed to domesticate a Brood Mother who would hover "
 "about and continually spawn Peahat Larva to follow her around. "
 msgstr ""
-"Velice obvyklý tvor často nalezen v pláních světa, Luskoni jsou velmi snadno "
+"Velice obvyklý tvor často nalezen v pláních Hyronu, Luskoni jsou velmi snadno "
 "naštvané příšery které zaútočí na cokoliv co přijde do jejich teritoria. Tyto bestie "
 "se umí vznášet ve vzduchu tím že se prudce točí na místě, s čímž jim pomáhají "
 "početné žluté vaky plné nějakého druhu plynu. Těsně nad kořeny jejich těl se točí "
@@ -2623,7 +2629,7 @@ msgid ""
 "and general bullies to maintain his profits."
 msgstr ""
 "Rychle levitující Deku Rost který byl schopen svou svící spálit nepřátele. Zapalovači se "
-"zdáli být v osobní službě Kud.Da a byli jím využíváni jako sběratelé daní a vymahači "
+"zdáli být v osobní službě Kuh-Da a byli jím využíváni jako sběratelé daní a vymahači "
 "pro jeho vlastní zisk."
 
 #: simulation/templates/units/deku/deku_tiffer_b.xml:61
@@ -2646,10 +2652,10 @@ msgid ""
 " durable in Hyrule. While the Stagnox has wings, his huge size makes his ability to fly"
 " very limited."
 msgstr ""
-"Tento obří a mohutný brouk Rohlav už dlouho číhá v jižních lesích. V některých případech "
-"bylo známo že Rosti donutili tuhle obří příšeru aby bojovala za ně. Vidlopuch je pomalý, "
-"ale jeho brnění je jedno z nejpůsobivějších a nejodolnějších na světě. Má sice křídla, "
-"ale jeho mohutná velikost značně omezuje jeho let."
+"Tento obří a mohutný brouk Rohlav už dlouho číhá v jižních lesích Hyronu. V některých "
+"případech bylo známo že Rosti donutili tuhle obří příšeru aby bojovala za ně. Vidlopuch "
+"je pomalý, ale jeho brnění je jedno z nejpůsobivějších a nejodolnějších na světě. Má sice "
+"křídla, ale jeho mohutná velikost značně omezuje jeho let."
 
 #: simulation/templates/units/deku/deku_titan_stagnox.xml:77
 msgid "Stagnox"
@@ -2968,6 +2974,12 @@ msgid ""
 "fall, Dezaia was associated with the season of Autumn. She was said to hush animals to "
 "sleep in preparation for the dark of winter."
 msgstr ""
+"Dezaja byla kdysi mocná Velká Víla která se rovnala všem ostaní. Její ambice ale "
+"přerostli nad ni, a začala věřit že mohla dobýt samotného Tarma a ovládnout síly "
+"přírody. Po započetí občanské války byla nakonec poražena. Jako trest za to že málem "
+"roztrhnula její společnost, Detaja byla odříznuta od magie a navdy uvězněna v pavoučím "
+"brnění které sloužilo jako její věznice. Před jejím pádem byla Dezaja spojována s ročním "
+"obdobím pozdimu. Říká se že uspávala zvířata a připravovala je na temnotu zimy. "
 
 #: simulation/templates/units/fairy/fairy_hero_dezaia.xml:40
 msgid "Dezaia"
@@ -3121,7 +3133,7 @@ msgid ""
 "depending on their mood they may grant wanderers magical gifts or torch them into "
 "oblivion."
 msgstr ""
-"Šílené Mystičky byly řád Velkých Víl které se s Venuší vydaly do dalekých koutů světa. "
+"Šílené Mystičky byly řád Velkých Víl které se s Venuší vydaly do dalekých koutů Hyronu. "
 "Říká se že strávily staletí samy a byly dovedeny k šílenství tajemstvími které odhalily "
 "a mocí kterou získaly z jejich exodu. Šílené Mystičky teď tráví většinu jejich času "
 "šíleným bezdůvodným smíchem v divočině, a podle jejich nálady mohou nabídnout poutníkům "
@@ -3146,7 +3158,7 @@ msgstr ""
 #: simulation/templates/units/labrynna/labrynna_hero_ralph.xml:28
 #: simulation/templates/units/labrynna/labrynna_steamtank_b.xml:33
 msgid "Linear"
-msgstr "Lineár"
+msgstr "Lineární"
 
 #: simulation/templates/units/fairy/fairy_mistwalker_b.xml:50
 msgid "Mistwalker"
@@ -3665,7 +3677,7 @@ msgid ""
 msgstr ""
 "Jedna z Ganondorfových nespočetných dcer, narozena rolnické matce. Urbosa hledá u "
 "svého otce zalíbení, a nábožně slouží v jeho armádě a podporuje jeho kampaň na "
-"dobytí světa."
+"dobytí Hyronu."
 
 #: simulation/templates/units/gerudo/gerudo_hero_urbosa.xml:40
 msgid "Urbosa"
@@ -3740,7 +3752,7 @@ msgid ""
 "sands of their homeland with ease, and swiftly raid enemy settlements with their "
 "scimitar."
 msgstr ""
-"Gerudské Hrdlořezky byly nejmnadší vojačky národa, čerstvě trénované. Protože se "
+"Gerudské Hrdlořezky byly nejmladší vojačky národa, čerstvě trénované. Protože se "
 "nemusely zabývat brněním, Hrdlořezky uměly bez bez problémů sprintovat po písku jejich "
 "domova,  a hbitě drancovat nepřátelské osady svými šavlemi."
 
@@ -4374,7 +4386,7 @@ msgid ""
 "their size, and function as Cavalry for the Gohma. They can keep pace with horses and "
 "other mounted units deployed by their enemies."
 msgstr ""
-"Velká a děsivá forma s velice dlouhámi nohami. Tyto jednotky jsou na svoji velikost "
+"Velká a děsivá forma s velice dlouhými nohami. Tyto jednotky jsou na svoji velikost "
 "velice rychlé, a fungují jako jezdectvo pro Gómy. Umí držet krok s koňmi a jiným "
 "jezdectvem nasazeným jejími nepřáteli."
 
@@ -4629,7 +4641,7 @@ msgid ""
 "Skilled in commanding Goron soldiers, Battle Brothers head Goron armies as captains to "
 "guide them into battle."
 msgstr ""
-"Zkušení ve velení Goroních vojájů, Bitevní Bratři vedou Goroním armádám jako kapitáni "
+"Zkušení ve velení Goroních vojájů, Bitevní Bratři vedou Goronským armádám jako kapitáni "
 "a provádí je do bitvy."
 
 #: simulation/templates/units/goron/goron_battlebro_b.xml:45
@@ -5198,6 +5210,7 @@ msgid ""
 "Cavalry Support unit that can transport other Goron units into battle. Ranged units can"
 " attack from the Wagon while garrisoned."
 msgstr ""
+"Jezdecká jednotka která transportuje ostatní Gorony do bitvy."
 
 #: simulation/templates/units/goron/goron_shieldbreaker_b.xml:42
 msgid "Shieldbreaker"
@@ -5431,7 +5444,7 @@ msgid ""
 "improve the performance of all Infantry under their command."
 msgstr ""
 "Trénování posledním dědicem Gustafovým, tito rytíři používají ztracené techniky "
-"starověkých Hyliánů a mají spoustu odvahy a luráže v bitvě. Dramaticky zlepšují "
+"starověkých Hyliánců a mají spoustu odvahy a luráže v bitvě. Dramaticky zlepšují "
 "výkon všech pěších jednotek pod jejich velením."
 
 #: simulation/templates/units/hylian/hylian_championknight_b.xml:56
@@ -5439,7 +5452,7 @@ msgid ""
 "Link's Unique Unit. Extremely powerful infantry unit that is immune to Knockback and "
 "inflicts bonus damage against large creature units and commanders."
 msgstr ""
-"Jednotka kterou může trénovat pouze Link. EXtrémně silná pěší jednotka imunní odrazům "
+"Jednotka kterou může verbovat pouze Link. EXtrémně silná pěší jednotka imunní odrazům "
 "a schopná způsobit bonusové požkození proti velkým tvorům a velitelům."
 
 #: simulation/templates/units/hylian/hylian_citizenA.xml:62
@@ -5461,7 +5474,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_crossbowman_b.xml:44
 msgid "Kingdom Crossbowman"
-msgstr "Královský Střelec z Kuše"
+msgstr "Královský Kušiník"
 
 #: simulation/templates/units/hylian/hylian_crossbowman_b.xml:45
 msgid ""
@@ -5489,7 +5502,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_deacon_b.xml:35
 msgid "Goddess Deacon"
-msgstr "Jáhenka"
+msgstr "Jáhenka Bohyň"
 
 #: simulation/templates/units/hylian/hylian_deacon_b.xml:36
 #: simulation/templates/units/hylian/hylian_priestess_b.xml:15
@@ -5499,9 +5512,10 @@ msgid ""
 "alongside Hyrule's soldiers to chant various psalms and incantations from among the "
 "holy texts, improving the performance of their allies in battle."
 msgstr ""
-"Členky Hyliánského duchovenska, Jáhenky tradičně cestují do hraničních zemí Hyliánska a "
-"šírí doktrínu Hyliánských bohů. Během války pochodují vedle Hyliánských vojáků aby zpívali "
-"různé žalmy a inkantace ze svatých písem, čímž zlepšují výkon jejich spojenců v bitvě."
+"Členky Hyliánského duchovenska, Jáhenky Bohyň tradičně cestují do hraničních zemí "
+"Hyronu a šíří doktrínu Hyliánských bohů. Během války pochodují vedle Hyliánských vojáků "
+"aby zpívali různé žalmy a inkantace ze svatých písem, čímž zlepšují výkon jejich spojenců "
+"v bitvě."
 
 #: simulation/templates/units/hylian/hylian_deacon_b.xml:40
 #: simulation/templates/units/hylian/hylian_priestess_b.xml:18
@@ -5880,8 +5894,8 @@ msgid ""
 "These powerful projectiles can blind their victims with a flash of light, as well as "
 "destroy Shadow enemies with ease."
 msgstr ""
-"Řád lukostřelkyň který stále zná tajemnství tvorby mystických Světelných Šípů. Tyto "
-"mocné projektily mohou oslepit své oběti zábleskem světla, a také také se snází "
+"Řád lukostřelkyň který stále stráží tajemnství tvorby mystických Světelných Šípů. "
+"Tyto mocné projektily mohou oslepit své oběti zábleskem světla, a také také se snází "
 "zničit stínové nepřátele."
 
 #: simulation/templates/units/hylian/hylian_lightarrow_b.xml:70
@@ -5913,7 +5927,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/hylian_priestess_b.xml:14
 msgid "Goddess Priestess"
-msgstr "Kněžka"
+msgstr "Kněžka Bohyní"
 
 #: simulation/templates/units/hylian/hylian_redlion_b.xml:40
 msgid "Knight of the Red Lion"
@@ -6020,7 +6034,7 @@ msgstr "Středně obrněná jednotka ozbrojená mečem a štítem. Působí drt�
 #: simulation/templates/units/moblin/moblin_hero_ghirahim.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Spirit Swords"
-msgstr "Spektrální Meče"
+msgstr "Přízračné Meče"
 
 #: simulation/templates/units/hylian/hylian_titan_fi.xml:61
 msgid "Spirit of the Master Sword"
@@ -6033,7 +6047,7 @@ msgid ""
 " against enemies of the Kingdom."
 msgstr ""
 "Mocná duše svázána proti své vůli v Meči Pánů. Osvobozena z jejího vězení, Fi projevuje "
-"ohromnou sílu, a a přináší spektrální meče proti nepřátelům Království. "
+"ohromnou sílu, a a přináší přízračné meče proti nepřátelům Království. "
 
 #: simulation/templates/units/hylian/hylian_titan_fi.xml:65
 msgid "Fi"
@@ -6087,7 +6101,7 @@ msgstr ""
 #: simulation/templates/units/hylian/hylian_vanguard_b.xml:43
 #: simulation/templates/units/lizalfos/lizalfos_matron_b.xml:30
 msgid "Unique Unit"
-msgstr ""
+msgstr "Unikátní Jednotka"
 
 #: simulation/templates/units/hylian/hylian_vanguard_b.xml:45
 msgid ""
@@ -6115,7 +6129,7 @@ msgstr ""
 
 #: simulation/templates/units/hylian/malkariko_crossbowman_b.xml:3
 msgid "Malkariko Crossbowman"
-msgstr "Malkarský Lučištník z Kuše"
+msgstr "Malkarský Kušiník"
 
 #: simulation/templates/units/hylian/malkariko_knightofhyrule_b.xml:3
 msgid "Knight of Malkariko"
@@ -6214,7 +6228,7 @@ msgid ""
 "shield into battle and were capable of getting their underlings to run into a fight "
 "much faster."
 msgstr ""
-"Náčelníci byli vůdci Kokirských vesnic a armád, šéfující ostatním Kokirůma posílajícím "
+"Náčelníci byli vůdci Kokirských vesnic a armád, šéfující ostatním Kokirům a posílajícím "
 "rozkazů od Velkého Deku Stromu. Když nebyl kolem Korokský stařešina aby vedl, náčelník ho "
 "zastoupil. Náčelníci nosili sykeru a štít do bitvy a byli schopní donutit svoje podřízené "
 "vběhnout do boje mnohem rychleji."
@@ -6381,6 +6395,10 @@ msgid ""
 " compared to their kin, and have learned to traverse a wide range of environments. "
 "Carries a Deku stick in hand to whack any would be foes in the face."
 msgstr ""
+"Kokiři si jen vzácně troufají vyjít z lesů, a do širého světa posílají pouze statečné "
+"dobrovolníky když to potřebují. Kokirská Průzkumnice je trochu více adaptovaná vnějšímu "
+"světu v porovnání s jejím druhem, a naučila se cestovat širokým rozsahem prostředí. V "
+"ruce nosí Deku klacek kterým přetahuje jakékoliv rádoby nepřátele."
 
 #: simulation/templates/units/kokiri/kokiri_explorer_b.xml:37
 msgid ""
@@ -6572,6 +6590,11 @@ msgid ""
 "appearance. He is quite detached from the world in his old age, spending most of his "
 "time isolated and away from even his fellow Kokiri."
 msgstr ""
+"Syn Hyliánského kováře který podporoval Kokirské bandity, Rokla byl ušetřen smrti "
+"družiny jeho otce a byl první Hyliánec přeměmen na Kokira Vekým Deku Stromem. Zdá se "
+"sice jako malý a neškodný, ale je starší než jakýkoliv ostatní Kokiri a ochočil mnohou "
+"lesní zvěř. Roklovy léta zrazují jeho dětský vzhed. Na stará kolena je poměrně odtažitý, "
+"a tráví většinu času izolován i od svých vlastních Kokirů."
 
 #: simulation/templates/units/kokiri/kokiri_hero_gulley.xml:40
 msgid "Gulley"
@@ -6602,6 +6625,11 @@ msgid ""
 "prefered to solve problems through force and saw ranged weapons as dishonorable. She "
 "was also quite a wild dancer, as is common amongst the Mudmen."
 msgstr ""
+"Vůdkně Blatníků z Faronu, Mirora krátce sloužila jako vrchní Náčelnice všech Kokirů po "
+"Midově exilu z lesa. Ačkoliv nebyla vhodná pro vládnutí, Mirorina léta zkušeností v "
+"obraně lesních hranic ji dělala ideální generálkou. Mirora byla známá její vznětlivostí, "
+"především pro Kokiru. Preferovala řešit problémy silou a považovala střelné zbraně za "
+"nečestné. Také byla docela divoká tanečnice, jak je obyčej mezi Kokiry."
 
 #: simulation/templates/units/kokiri/kokiri_hero_mirora.xml:56
 #: simulation/templates/units/kokiri/kokiri_hero_mirora_nomount.xml:41
@@ -6684,6 +6712,9 @@ msgid ""
 "up by the Kokiri to lead and protect the frontline of their armies from ranged attacks."
 " When in range of enemies they toss javelins from behind their shield."
 msgstr ""
+"Pár Blatníků schovávajících se za velkou pavézou. Tento pár Blatníků je přivezen Kokiry "
+"aby vedli a chránili předvoje jejich armád od střelných útoků. Pokud jsou dost blízko, "
+"házeli kopí z poza svých štítů."
 
 #: simulation/templates/units/kokiri/kokiri_mantlet_b.xml:53
 msgid ""
@@ -6724,6 +6755,9 @@ msgid ""
 "spears to the fray and are quick on their feet. Unlike most Kokiri, the Mudmen love to "
 "fight and are more than willing to get their hands a bit bloody."
 msgstr ""
+"Člen kmenu Blatníků z Faronu. Tyto nepřátelské a divoké děti s sebou nesou ostrá kopí "
+"a jsou docela hbití. Narozdíl od většiny Kokirů Blatníci zbožňují boj a jsou více než "
+"ochotní si trochu zakrvácet ruce."
 
 #: simulation/templates/units/kokiri/kokiri_mudjabber_b.xml:43
 msgid ""
@@ -6745,6 +6779,9 @@ msgid ""
 "quickly and batter down gates with ease. They are quite vulnerable to attacks however "
 "and lack any form of armor."
 msgstr ""
+"Nemají sice náraz většiny obléhacích zbraní, ale tento pár Blatníků se rychle hýbe "
+"a tluče na brány. Jsou ale poměrně zranitelní proti útokum a nemají žádnou formu "
+"brnění."
 
 #: simulation/templates/units/kokiri/kokiri_mudram_b.xml:50
 msgid "Mudman Battering Ram"
@@ -6858,6 +6895,9 @@ msgid ""
 "excellent at fighting and slaying Creature units. They are quite well off being out in "
 "the wild, and in fact prefer it over the comfort of civilization."
 msgstr ""
+"Obzvláště násilný člen Blatnického kmenu nesoucí Kudlančí čepele, jsou excelentní v boji "
+"a porážení tvorů. Dobře si poradí v divočině, a dokonce ji preferují před komfortem "
+"civilizace."
 
 #: simulation/templates/units/kokiri/kokiri_wolfkiller_b.xml:47
 msgid ""
@@ -6949,7 +6989,7 @@ msgstr "Velice rychlý tvor který mlátí nepřátele svými pěstmi."
 
 #: simulation/templates/units/labrynna/labrynna_bluecaballero_b.xml:40
 msgid "Blue Caballerro"
-msgstr "Modrý Kabaléro"
+msgstr "Modrý Kavalír"
 
 #: simulation/templates/units/labrynna/labrynna_bluecaballero_b.xml:41
 msgid ""
@@ -6958,7 +6998,7 @@ msgid ""
 "horses in their homelands. While the rider poses little threat, enemy soldiers were "
 "rightfully more worried about being mauled by the bear itself."
 msgstr ""
-"Posazeni na modrých medvědech z výšin mezi Labrynnou a Holodrumí, Modří Kabaléři plnili "
+"Posazeni na modrých medvědech z výšin mezi Labrynnou a Holodrumí, Modří Kavalíři plnili "
 "jezdeckou mezeru kterou Labrynna po staletí měla kvůli absenci koní v jejích domovinách. "
 "Zatímco jezdec není moc nebezpečný, nepřátelští vojáci se oprávněně více báli být "
 "roztrhání samotným medvědem."
@@ -7272,7 +7312,7 @@ msgstr ""
 "Tajemnstvím všem a v Labrynně, i těm co jí mají blízko, Veranina minulost je hrozná "
 "sága osobní ztráty a traumatu. Kdysi Velká Víla, okolnosti v její minulosti vedly k "
 "jejímu vyhnanství do Říše Soumraku s jinými kriminálními živly jejího lidu. Někdy kolem "
-"Gerudských Válek se dokázala navrátit do světa, a utelka daleko na východ do Labrynny "
+"Gerudských Válek se dokázala navrátit do Hyronu, a utelka daleko na východ do Labrynny "
 "kde slídila a stala se kamarádkou Královny Ambi. V přítomnosti je Veranin plán neznámý. "
 "Je ale očividně spojena s rapidním a extrémním armádním růstem Labrynny. Je architektka "
 "Černé věže, masivní monolitické struktury navržené jako nový trůn pro Královnu Ambi. "
@@ -7404,7 +7444,7 @@ msgid ""
 msgstr ""
 "Oči a uši Labrynnských hranic, Naváděči bez ustání hledali nové země a zdroje k "
 "dobytí. Jsou docela obeznámeni s Labrynnskými zeměmi a ještě připravenější čelit výzvám "
-"různorodých terémů světa."
+"různorodých terémů Hyronu."
 
 #: simulation/templates/units/labrynna/labrynna_pathfinder_b.xml:39
 msgid "A swift Scout unit armed with a sword. Can detect Camouflaged and Stealthed unit."
