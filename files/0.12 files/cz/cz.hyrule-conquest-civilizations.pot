@@ -173,7 +173,12 @@ msgid ""
 "himself, the demon retained Vaati's image, name, and personality as it set out to "
 "accomplish its goals in Hyrule. When exposed and under threat, the demon abandons his "
 "Vaati disguise and reveals his horrific bat-like form."
-msgstr "Kdysi člen rasy Menšíků, Váti se setkal s jedním z pravěkých démonů který řádil v prvotním světě a uzavřel s tou bestií pakt. Démon mu dal neuvěřitelnou moc, ale Váti se nakonec ztratil v posedlosti té bestie. Přestože už nebyl sám sebou, démon si ponechal Vátiho vzhled, jméno a osobnost zatímco se vydal za svými cíly ve světě. Pokud je v ohrožení, démon opustí svůj převlek a odhalí svoji hroznou netopýrnou podobu."
+msgstr ""
+"Kdysi člen rasy Menšíků, Váti se setkal s jedním z pravěkých démonů který řádil v "
+"prvotním Hyronu a uzavřel s tou bestií pakt. Démon mu dal neuvěřitelnou moc, ale Váti "
+"se nakonec ztratil v posedlosti té bestie. Přestože už nebyl sám sebou, démon si "
+"ponechal Vátiho vzhled, jméno a osobnost zatímco se vydal za svými cíly ve světě. "
+"Pokud je v ohrožení, démon opustí svůj převlek a odhalí svoji hroznou netopýrnou podobu."
 
 #: simulation/data/civs/darknut.json:Structures[1].Name
 msgid "Titan: Vaati, the Wind Demon"
@@ -191,7 +196,9 @@ msgstr "Konexe na Žoldáky"
 msgid ""
 "There is a small chance that any Deku Scrub unit (except for Orhats, Giant Orhats, and "
 "Stagnox) will become a Mad Scrub on death, attacking anything near itself."
-msgstr "Je malá šance že kterýkoliv jednotka Deku Rostů (kromě Rohlavů, Obřích Rohlavů a Vidlopucha) se stane Vzteklým Rostem po smrti, a začne útočit na všechno kolem."
+msgstr ""
+"Je malá šance že kterýkoliv jednotka Deku Rostů (kromě Rohlavů, Obřích Rohlavů a "
+"Vidlopucha) se stane Vzteklým Rostem po smrti, a začne útočit na všechno kolem."
 
 #: simulation/data/civs/deku.json:CivBonuses[0].Name
 msgid "Mad Blight Disease"
@@ -222,7 +229,13 @@ msgid ""
 "angry demeanor, the King's motivations seem to be rooted in his love for his daughter. "
 "Though kept secret, he had been struck with a case of Mad Scrub and wished for her to "
 "replace him on the throne after his passing."
-msgstr "Možná jeden z nejmocnějších panovníků Deku Rostů, Král Kud-Loh-Kan byl první ze své rasy který sjednotil všechny Rosty pod jeden prapor, i když pouze dočasně. Jeho úspěch však neproudil z dobré vůle jeho lidu; Král Kud-Loh-Kan panoval jako tyran a stále  vyhrožoval svému lidu popravou. I přes jeho vzteklou povahu, Králova motivace byla zakořeněna v lásce pro jeho dceru. Držel to tajemnstím, ale byl nakažen Vzteklou Snětí a přál si aby ho nahradila na trůnu po jeho smrti."
+msgstr ""
+"Možná jeden z nejmocnějších panovníků Deku Rostů, Král Kud-Loh-Kan byl první ze své "
+"rasy který sjednotil všechny Rosty pod jeden prapor, i když pouze dočasně. Jeho úspěch "
+"však neproudil z dobré vůle jeho lidu; Král Kud-Loh-Kan panoval jako tyran a neustále "
+"vyhrožoval svému lidu popravou. Navzdory jeho vzteklé povaze, Králova motivace byla "
+"zakořeněna v lásce pro jeho dceru. Držel to tajemnstím, ale byl nakažen Vzteklou Snětí "
+"a přál si aby ho nahradila na trůnu po jeho smrti."
 
 #: simulation/data/civs/deku.json:AINames[0]
 #: simulation/data/civs/deku.json:Factions[0].Heroes[0].Name
@@ -238,7 +251,12 @@ msgid ""
 "Kad-A-Kana was noted for her long bouts of sadness, punctuated by violent bursts of "
 "anger. When her father became a victim of the terminal Mad Scrub, her motivations and "
 "intentions turned to darker places elsewhere."
-msgstr "Jediná dcera Krále Kud-Loh-Kana, Kad-A-Kana možná neseděla na trůnu, ale rozhodně vládla. Její otec si nemohl pomoci jí splnit požadavky, a mnoho Rostů nevědělo kdo přesně vedl. To se změnilo když byl Král diagnostikován se Vzteklou Snětí. Princezna Kad-A-Kana upadla do dlouhých dob smutku, opatrovaným násilnými záchvaty vzteku. Když se její otec stal obětí smrtelné Vtzeklé Sněti, její motivace ji vedly k temnějším místům."
+msgstr ""
+"Jediná dcera Krále Kud-Loh-Kana, Kad-A-Kana možná neseděla na trůnu, ale rozhodně "
+"vládla. Její otec si nemohl pomoci jí splnit požadavky, a mnoho Rostů nevědělo kdo "
+"přesně vedl. To se změnilo když byl Král diagnostikován se Vzteklou Snětí. Princezna "
+"Kad-A-Kana upadla do dlouhých dob smutku, opatrovaným násilnými záchvaty vzteku. Když "
+"se její otec stal obětí smrtelné Vtzeklé Sněti, její motivace ji vedly k temnějším místům."
 
 #: simulation/data/civs/deku.json:AINames[1]
 #: simulation/data/civs/deku.json:Factions[0].Heroes[1].Name
@@ -255,7 +273,14 @@ msgid ""
 "compensating with his clearly more exercised brain and ending up in the King's favor, "
 "his lot in life changed quite considerably. He currently serves as an adviser to the "
 "Princess, and has grown concerned with her interest in ancient Odolwan rituals."
-msgstr "Brilantní inženým, syn lokaje Kuh-Dy, a jediný přítel Princezny Kad-A-Kany, Kado byl u popředí tvorby obléhacích strojů o jiných zařízení pro Rostsvo. Byl nesmírně fascinován sledováním jak věci padají na zem... Většinou jako výsledek jednoho z jeho nových katapultů. Kado byl poměrně malý, i na Deku Rosta, a byl většinu svého života terčem smíchu. Potom co si kompenzoval se svým očividně vyspělejším mozkem a získal náklonnost Krále, jeho úděl v životě se značně změnil. Současně slouží jako rádce Princezně, a obává se jejího zájmu o starověké Odolwanské rituály."
+msgstr ""
+"Brilantní inženýr, syn lokaje Kuh-Dy, a jediný přítel Princezny Kad-A-Kany, Kado "
+"byl u popředí tvorby obléhacích strojů o jiných zařízení pro Rostsvo. Byl nesmírně "
+"fascinován sledováním jak věci padají na zem... Většinou jako výsledek jednoho z jeho "
+"nových katapultů. Kado byl poměrně malý, i na Deku Rosta, a byl většinu svého života "
+"terčem smíchu. Potom co si kompenzoval se svým očividně vyspělejším mozkem a získal "
+"náklonnost Krále, jeho úděl v životě se značně změnil. Současně slouží jako rádce Princezně, "
+"a obává se jejího zájmu o starověké Odolwanské rituály."
 
 #: simulation/data/civs/deku.json:AINames[2]
 #: simulation/data/civs/deku.json:Factions[0].Heroes[2].Name
@@ -269,7 +294,11 @@ msgid ""
 "hands seemed to be tied to the Scrubs' every growing markets across Hyrule, and he "
 "maintained his own force of tax collectors and bullies to insure that the royal "
 "coffers... and his personal bank account... were flowing with Rupees."
-msgstr "Osobní sluha Kud-Loh-Kana a správce všech leho peněz, Lokaj Kud-Do byl tichý a nikdy ve středu věcí, ale očividně měl značnou moc nad Rostsvem. Jeho ruce měly co do činění s každým Rostským trhem, a on sám si udržoval vlastní síly výběrčí daní a násilníků aby se postaral o to že královský truhla... a jeho osobní bankovní účet... byly plné Rupií."
+msgstr ""
+"Osobní sluha Kud-Loh-Kana a správce všech jeho peněz, Lokaj Kud-Do byl tichý a nikdy "
+"ve středu věcí, ale očividně měl značnou moc nad Rostsvem. Jeho ruce měly co do činění "
+"s každým Rostským trhem, a on sám si udržoval vlastní síly výběrčí daní a násilníků aby "
+"se postaral o to že královský truhla... a jeho osobní bankovní účet... byly plné Rupií."
 
 #: simulation/data/civs/deku.json:AINames[3]
 #: simulation/data/civs/deku.json:Factions[0].Heroes[3].Name
@@ -287,7 +316,11 @@ msgid ""
 "anger and their perpetual short-man's complex, large gatherings of these normally "
 "comical forest dwellers could result in terrifying destruction and chaos when unleashed"
 " on Hyrule."
-msgstr "Královstí Deku Rostů byla konfederace lenních teritorií hluboko za jižním okrajem Faronských lesů. Známí pro své iracionální záchvaty vzteku a stálým komplexem malého muže, velké hlouky těhto obvykle legračních obyvatelů lesa mohly vyvodit v příšernou zkázu a chaos pokud byli vypuštěni do světa."
+msgstr ""
+"Královstí Deku Rostů byla konfederace lenních teritorií hluboko za jižním okrajem "
+"Faronských lesů. Známí pro své iracionální záchvaty vzteku a stálým komplexem malého "
+"muže, velké hlouky těhto obvykle legračních obyvatelů lesa mohly vyvodit v příšernou "
+"zkázu a chaos pokud byli vypuštěni do světa."
 
 #: simulation/data/civs/deku.json:Name
 msgid "Deku Scrubs"
@@ -299,7 +332,11 @@ msgid ""
 "ages past, but despite their iconagraphy carved into its stone the design has little "
 "resemblence to their civilization. The massive temple is home to many Orhat Beetle "
 "nests and the structure seems to have sunken into the ground since its construction."
-msgstr "Velký a starověký chrám v Dekuho lesech. Rosti tvrdí že ho postavily před věky, ale navzdory jejich ikonografii vyryté do jeho kamene, konstrukce má málo podoby jejich civilizaci. Tento masivní chrám je domovem mnoha hnízd Rohlavů a zdá se že se celá budova od stavby ponořila do země."
+msgstr ""
+"Velký a starověký chrám v Dekuho lesech. Rosti tvrdí že ho postavily před věky, ale "
+"navzdory jejich ikonografii vyryté do jeho kamene, konstrukce má málo podoby jejich "
+"civilizaci. Tento masivní chrám je domovem mnoha hnízd Rohlavů a zdá se že se celá "
+"budova od stavby ponořila do země."
 
 #: simulation/data/civs/deku.json:Structures[0].Name
 msgid "Wonder: Wooded Temple"
@@ -312,7 +349,11 @@ msgid ""
 "their behalf. The Stagnox may be slow, but his armor is some of the most impressive and"
 " durable in Hyrule. While the Stagnox has wings, his huge size makes his ability to fly"
 " very limited."
-msgstr "Tento obří a mohutný brouk Rohlav už dlouho číhá v jižních lesích. V některých případech bylo známo že Rosti donutili tuhle obří příšeru aby bojovala za ně. Vidlopuch je pomalý, ale jeho brnění je jedno z nejpůsobivějších a nejodolnějších na světě. Má sice křídla, ale jeho mohutná velikost značně omezuje jeho let."
+msgstr ""
+"Tento obří a mohutný brouk Rohlav už dlouho číhá v jižních lesích Hyronu. V některých "
+"případech bylo známo že Rosti donutili tuhle obří příšeru aby bojovala za ně. Vidlopuch "
+"je pomalý, ale jeho brnění je jedno z nejpůsobivějších a nejodolnějších na světě. Má sice "
+"křídla, ale jeho mohutná velikost značně omezuje jeho let."
 
 #: simulation/data/civs/deku.json:Structures[1].Name
 msgid "Titan: Stagnox, Armored Colossus"
@@ -377,7 +418,13 @@ msgid ""
 "described as a very peaceful and friendly Fairy, to children anyway. Legends say she "
 "will never appear to adults, and if one happens to catch her off guard they will find "
 "themselves in serious peril."
-msgstr "Mnohým známá jako Víla Větrů, Sekaja se objevuje v mnoha kulturách jako duše která přináší jaro a odhání zimu. Je spojována se semeny a chrání mladé rostlin i zvířat. Některé báje dokonce říkají že dává Hyliánským dětem bumerangy na ochranu dokud neudrží luky a šípy. Je popisována jako velice mírumilovná a přátelská víla, alespoň dětem. Báje říkají že se nikdy neukazuje dospělým, a pokud ji některý přistihne, dostane se do vážného nebezpečí."
+msgstr ""
+"Mnohým známá jako Víla Větrů, Sekaja se objevuje v mnoha kulturách jako duše která "
+"přináší jaro a odhání zimu. Je spojována se semeny a chrání mladé rostlin i zvířat. "
+"Některé báje dokonce říkají že dává Hyliánským dětem bumerangy na ochranu dokud neudrží "
+"luky a šípy. Je popisována jako velice mírumilovná a přátelská víla, alespoň dětem. "
+"Báje říkají že se nikdy neukazuje dospělým, a pokud ji některý přistihne, dostane se "
+"do vážného nebezpečí."
 
 #: simulation/data/civs/fairy.json:AINames[0]
 #: simulation/data/civs/fairy.json:Factions[0].Heroes[0].Name
@@ -393,7 +440,13 @@ msgid ""
 "beauty and legend says that one can summon her with ease by challenging her appearance."
 " She is connected to the season of Summer and is said to cause the plants and animals "
 "to dance with fury under the heat of the sun."
-msgstr "Divoká víla která se jen vzácně objevuje s ostatními Vílami, Venuše je Královna Šílených v mnoha kulturách a prý sužuje ty kteří ji vyhledávají šílenstvím. Před věky se ona a její Mystičky rozšířily po světě a říká se že jejich samota je vedla k šílenství, smíchu a hysterii. Je popisována jako marnotratná a posedlá krásou a říká se že se dá ji přivolat výzvou porovnání krásy. Je spojována s ročním obdobím léta a říká se že nutí rostliny a zvěřstvo zběsile tancovat pod horkem slunce."
+msgstr ""
+"Divoká víla která se jen vzácně objevuje s ostatními Vílami, Venuše je Královna Šílených "
+"v mnoha kulturách a prý sužuje ty kteří ji vyhledávají šílenstvím. Před věky se ona a "
+"její Mystičky rozšířily po světě a říká se že jejich samota je vedla k šílenství, smíchu "
+"a hysterii. Je popisována jako marnotratná a posedlá krásou a říká se že se dá ji přivolat "
+"výzvou porovnání krásy. Je spojována s ročním obdobím léta a říká se že nutí rostliny a "
+"zvěřstvo zběsile tancovat pod horkem slunce."
 
 #: simulation/data/civs/fairy.json:AINames[1]
 #: simulation/data/civs/fairy.json:Factions[0].Heroes[1].Name
@@ -410,6 +463,12 @@ msgid ""
 "fall, Dezaia was associated with the season of Autumn. She was said to hush animals to "
 "sleep in preparation for the dark of winter."
 msgstr ""
+"Dezaja byla kdysi mocná Velká Víla která se rovnala všem ostaní. Její ambice ale "
+"přerostli nad ni, a začala věřit že mohla dobýt samotného Tarma a ovládnout síly "
+"přírody. Po započetí občanské války byla nakonec poražena. Jako trest za to že málem "
+"roztrhnula její společnost, Detaja byla odříznuta od magie a navdy uvězněna v pavoučím "
+"brnění které sloužilo jako její věznice. Před jejím pádem byla Dezaja spojována s ročním "
+"obdobím pozdimu. Říká se že uspávala zvířata a připravovala je na temnotu zimy. "
 
 #: simulation/data/civs/fairy.json:AINames[2]
 #: simulation/data/civs/fairy.json:Factions[0].Heroes[2].Name
@@ -428,7 +487,16 @@ msgid ""
 "witness to. The Queen of All Fairies is associated with the season of Winter. Her "
 "presence is said to freeze all who look on her, and the land itself shivers until she "
 "passes on."
-msgstr "Zbývá málo bájí o Královně která vládla Vílám Tarmu, málo ještě zná její pravé jméno. Říká se že často volila velmi dětský vzhled a chování, což skrývalo její ohromující intelekt a božskou moc. Hrdinové kteří potkali Královnu Všech Víl ji popisovali jako zvědavou a snadno zabavitelnou, plnou dětské radosti a divu nad přátelskými cizinci. Jeden člověk jí však prohlédl, a viděl nespočetné generace války, utrpení, traumat a ztráty kterým byla tato ponurá a neskutečně starověká bytost svědkem. Královna všech víl je spojována s obdobím zimy. Její přítomnost prý mrazí vše co na ni vzhlédne, a samotná země se třese zimou dokud neodejde."
+msgstr ""
+"Zbývá málo bájí o Královně která vládla Vílám Tarmu, málo ještě zná její pravé jméno. "
+"Říká se že často volila velmi dětský vzhled a chování, což skrývalo její ohromující "
+"intelekt a božskou moc. Hrdinové kteří potkali Královnu Všech Víl ji popisovali jako "
+"zvědavou a snadno zabavitelnou, plnou dětské radosti a divu nad přátelskými cizinci. "
+"Jeden člověk jí však prohlédl, a viděl nespočetné generace války, utrpení, traumat a "
+"ztráty kterým byla tato ponurá a neskutečně starověká bytost svědkem. Královna všech "
+"víl je spojována s obdobím zimy. Její přítomnost prý mrazí vše co na ni vzhlédne, a "
+"samotná země se třese zimou dokud neodejde."
+
 
 #: simulation/data/civs/fairy.json:Factions[0].Heroes[3].Name
 msgid "Queen of all Fairies"
@@ -456,7 +524,12 @@ msgid ""
 " tending to nature or causing mischief when no one was looking. As the land cried out "
 "in pain however, these wild principles would gather together and cause a lot more than "
 "a little mischief."
-msgstr "Možná jedna z největších záhad světa, Víly byly mýtické a samotářské bytosti, které byly jen vzácně spatřeny, přesto že se vyskytovaly ve všech koutech světa. Víly si většinou řešily své, bez jednoty nebo vedení, a staraly se o přírodu nebo tropily neplechy když se nikdo nedíval. Ale když země skučela bolestí, tyhle divoké principy se sjednotily a působily mnohem víc než jenom malou neplechu."
+msgstr ""
+"Možná jedna z největších záhad světa, Víly byly mýtické a samotářské bytosti, které byly "
+"jen vzácně spatřeny, přesto že se vyskytovaly ve všech koutech světa. Víly si většinou "
+"řešily své, bez jednoty nebo vedení, a staraly se o přírodu nebo tropily neplechy když se "
+"nikdo nedíval. Ale když země skučela bolestí, tyhle divoké principy se sjednotily a "
+"působily mnohem víc než jenom malou neplechu."
 
 #: simulation/data/civs/fairy.json:Name
 msgid "Fairies of Tarm"
@@ -467,7 +540,10 @@ msgid ""
 "A mythical fountain still believed to be unreal. Many have searched their entire lives "
 "for this fabled wonder, and none have found it. Legend says that only a Fairy may visit"
 " the Unicorn Fountain, and she may permit a mortal friend a glimpse in their sleep."
-msgstr "Mýtická fontána stále považována za neskutečnou. Mnozi celé své životy hledali tenhle bájný div, a nikdo z nich ji nenašel. Legenda říká že pouze víla může navštívit Fontánu Jednorožce, a smrtelnému příteli může dovolit ji spatřit ve spánku."
+msgstr ""
+"Mýtická fontána stále považována za fiktivní. Mnozi celé své životy hledali tenhle bájný "
+"div, a nikdo z nich ji nenašel. Legenda říká že pouze víla může navštívit Fontánu "
+"Jednorožce, a smrtelnému příteli může dovolit ji spatřit ve spánku."
 
 #: simulation/data/civs/fairy.json:Structures[0].Name
 msgid "Wonder: Unicorn Fountain"
@@ -482,7 +558,11 @@ msgid ""
 "myths of Horon it was said that this giant tree did battle alongside his sister Maku "
 "Tree and the Fairies of Tarm to defeat the dragons of the east and bring peace to the "
 "land."
-msgstr "Jeden z legendárních Maku stromů a možná jeden z posledních stále naživu, strážce Horonu strávil většinu svého času dřímotem na kraji Tarmova Lesa a byl uctíván domorodci kraje. Pouze přání Víly ho může probudit. Ve starověkých Horonských mýtech je řečeno že tento obří strom bojoval se svou sestrou a Vílami Tarmu aby porazil draky východu a přinesl kraji mír."
+msgstr ""
+"Jeden z legendárních Maku stromů a možná jeden z posledních stále naživu, strážce Horonu "
+"strávil většinu svého času dřímotem na kraji Tarmova Lesa a byl uctíván domorodci kraje. v
+"Pouze přání Víly ho může probudit. Ve starověkých Horonských mýtech je řečeno že tento obří "
+"strom bojoval se svou sestrou a Vílami Tarmu aby porazil draky východu a přinesl kraji mír."
 
 #: simulation/data/civs/fairy.json:Structures[1].Name
 msgid "Titan: The Maku Tree of Horon"
@@ -539,6 +619,9 @@ msgid ""
 "has a personal hatred for Hylians, whom he blames for preventing the Gerudo from "
 "expanding to save themselves."
 msgstr ""
+"Poslední Gerudský muž, a jedinný muž narozen od staletí jejich prokletí, "
+"Ganondorf vládne nesporně jakožto císař svého lidu. Je naprosto nemilosrdný, "
+"a kultivuje zapálenou nenávist vůči Hyliáncům a jejich bohatým zemím."
 
 #: simulation/data/civs/gerudo.json:AINames[0]
 #: simulation/data/civs/gerudo.json:Factions[0].Heroes[0].Name
@@ -556,6 +639,8 @@ msgid ""
 "her in direct opposition with Ganondorf, and perhaps more notably, his surrogate "
 "mothers, Koume and Kotake."
 msgstr ""
+"Legální žena Ganondorfa a císařovna Gerud, a také Mudryně Duší. Nabóru čelí boji mezi "
+"loajalitou svému muži, a své povinnosti vúči Mudrctví pro větší bezpečí světa. "
 
 #: simulation/data/civs/gerudo.json:AINames[1]
 #: simulation/data/civs/gerudo.json:Factions[0].Heroes[1].Name
@@ -572,6 +657,9 @@ msgid ""
 "jealous of his legal daughter, the Princess Riju. She is quite brutal in her demeanor "
 "and will to fight."
 msgstr ""
+"Jedna z Ganondorfových nespočetných dcer, narozena rolnické matce. Urbosa hledá u "
+"svého otce zalíbení, a nábožně slouží v jeho armádě a podporuje jeho kampaň na "
+"dobytí Hyronu."
 
 #: simulation/data/civs/gerudo.json:AINames[2]
 #: simulation/data/civs/gerudo.json:Factions[0].Heroes[2].Name
@@ -588,6 +676,8 @@ msgid ""
 "through the conquest her father seeks. Many Gerudo see such ideas as naive, and certain"
 " to doom their people."
 msgstr ""
+"Dcera Ganondorfa a Nabóru a legální dědička Gerudského trůnu, Ridžu má zálibu v Pouštních "
+"Mrožích, a plánuje obnovit padlé Gerudské impérium jinými způsoby než dobýváním."
 
 #: simulation/data/civs/gerudo.json:AINames[3]
 #: simulation/data/civs/gerudo.json:Factions[0].Heroes[3].Name
@@ -602,6 +692,10 @@ msgid ""
 "that wiped out all the men of their race, the Gerudo have suffered a continuous barrage"
 " of brutal hardships, setbacks, and wars without abandon."
 msgstr ""
+"Rasa válečnic žijící v poušti, Gerudy jsou potomkyně starověkého a mocného impéria které "
+"se po nespočetná staletí roztahovalo po severozápadních útesech Hyronu. Ze všech stran "
+"obklíčeny nepřátelskými národy, nedostatkem surovin, a kletbou která pobila všechny muže "
+"jejich rasy, Gerudy trpá nepřetržitou baráží brutálního strádání, nezdarů a válek."
 
 #: simulation/data/civs/gerudo.json:Name
 msgid "Gerudo"
@@ -628,6 +722,9 @@ msgid ""
 "combined, the witches are capable of unleashing devastating fire and ice magic against "
 "enemies."
 msgstr ""
+"Náhradní matky Ganondorfa, dvojčata Koume a Kotake jsou schopny se magicky spojit do "
+"mocné a zlostné entity jménem Dvojróba. Když jsou spojeny, tyto čarodějnice jsou schopny "
+"vypustit devastující ohnivou a ledovou magii proti svým nepřátelům."
 
 #: simulation/data/civs/gerudo.json:Structures[1].Name
 msgid "Titan: Twinrova, the Sorceress Sisters"
@@ -841,6 +938,12 @@ msgid ""
 "that earn his respect. Dancing is among his favorite pastimes. and he will search far "
 "and wide across Hyrule to listen to the music of other races."
 msgstr ""
+"Král Goronů a třetí v linii Ohnivých Mudrců, Darunia vedl svůj lid po více než století "
+"skrze nespočetné utrpení. Ať už to je svržení Volgů, nebo bojem s dlouhými zimami kterým "
+"Hora smrti čelila, je dost velká šance že bez jeho velení, Goroni by vymřeli. Darunia je "
+"znám svou agresivní povahou, přestože je docela žoviální a přátelský těm co si získají "
+"jeho respekt. Tanec je jeden z jeho oblíbených koníčků, a široce po světě vyhledává muziku "
+"jiných ras."
 
 #: simulation/data/civs/goron.json:Factions[0].Heroes[0].Name
 msgid "Darunia, Sage of Fire"
@@ -857,6 +960,9 @@ msgid ""
 "Age has differentiated the two brothers, and Daruk now comes across as a man who has "
 "clearly lost pride in his people."
 msgstr ""
+"Mladší bratr Daruniy, Daruk se odloučil v osamělých v klášterech po tom, co byli "
+"Volgové vyhnáni z Hory smrti. Nebyl už Gorony viděn po desetiletí, a vrací se pouze "
+"když je jeho lid pod velkou hrozbou."
 
 #: simulation/data/civs/goron.json:Factions[0].Heroes[1].Name
 msgid "Elder Daruk"
@@ -871,6 +977,10 @@ msgid ""
 "powerful gauntlets and is not shy of ramming into and punching his targets without "
 "abandon."
 msgstr ""
+"Vychován v dolech kráteru Hory smrti, Dangoro žil život strádání. Po tom co zachránil "
+"Daruniu z pasti Dodongů, byl přeřazen ze své služby jako horník a stal se strážný bratr. "
+"Dangoro není moc chytrý, ale rychle pozná hrozbu a řeší ji. Tradičně nosí spíče těžké "
+"brnění a mocné rukavice a bez otázky nebo konce naráží a mlatí do svýh cílů.
 
 #: simulation/data/civs/goron.json:Factions[0].Heroes[2].Name
 msgid "Dangoro"
@@ -886,6 +996,9 @@ msgid ""
 "ability to act out and succeed. Conversely, he's not particularly bright and lacks "
 "foresight, perhaps one of the reasons he favors being a brawler."
 msgstr ""
+"Bladší bratr legendárního Velgorona, Mezigoron je pouze napůl tak vysoký, ale přesto "
+"je velký i na Gorona. Chybí mu tvůrčí schopnost svého brata, ale rozhodně umí efektivně "
+"používat zbraně Velegoron tvoří."
 
 #: simulation/data/civs/goron.json:Factions[0].Heroes[3].Name
 msgid "Medigoron"
@@ -903,6 +1016,10 @@ msgid ""
 "tenacity for battle is legendary and has earned them a place in the vast history of the"
 " land."
 msgstr ""
+"Mocní kamenní muži pocházející z Hory smrti, Goroni jsou lid válečníků, horníků a "
+"divokých pařičů. Nejmocnější zbraně v Hyronu jsou ukovány jejich rukami, a výsledek "
+"mnoha válek závisel na jejich účasti. Jejich houževnatost pro boj je legendární a "
+"získala jim místo v široké historii světa."
 
 #: simulation/data/civs/goron.json:Name
 msgid "Gorons"
@@ -930,6 +1047,11 @@ msgid ""
 "weaponry and bloodshed, Biggoron is a pacifist at heart, and creates his work for the "
 "sake of art and self-defense."
 msgstr ""
+"Asi největší Goron v zaznamenané historii, Velegoron žije především samotářský život "
+"na vrcholku Hory smrti. Tam tráví většinu času zdokonalováním zpracovávání kovů. Jeho "
+"práce se stala bází pro kování nejmocnějších zbraní a brnění Goronů. Přestože je jeho "
+"jmého spojeno se zbraněmi a krveprolitím, Velegoron je v srdci pacifista, a tvoří svou "
+"práci pro smysl umění a sebeobrany."
 
 #: simulation/data/civs/goron.json:Structures[1].Name
 msgid "Titan: Biggoron"
@@ -988,6 +1110,8 @@ msgid ""
 "by powerful premonitions, and will often wait to see if such visions give her foresight"
 " of a situation."
 msgstr ""
+"Koruní Princena Hyliánská a pátá žena nesoucí jméno Zelda. Obdařena mocí proroctví, "
+"Princezna umí předpovídat události malé i velké ve svých snech."
 
 #: simulation/data/civs/hylian.json:AINames[0]
 #: simulation/data/civs/hylian.json:Factions[0].Heroes[0].Name
@@ -1004,6 +1128,9 @@ msgid ""
 "under the suspicion that he was the lost heir of Gustaf. Hylia personally trained Link "
 "before unleashing him unto Hyrule to do her bidding."
 msgstr ""
+"Poslední přeživší člen pokrevní linie prvního Krále Hyliánského, Link byl vychován jako "
+"válečník v Řádu Čaróbů. Se bojovnou zkušeností a tajnou mocí, trénuje a vede rytíře "
+"Hyliánska do bitvy."
 
 #: simulation/data/civs/hylian.json:AINames[1]
 #: simulation/data/civs/hylian.json:Factions[0].Heroes[1].Name
@@ -1018,6 +1145,10 @@ msgid ""
 "loyaties to the crown and Hyrule are not in question, many including Rauru feel her "
 "immense powers are more than enough for her to control."
 msgstr ""
+"Mladá žena jejíž rod pochází z Kalaty, Lana byla trénována jako jáhenka pod Raurem. "
+"Nenaplněna svou pokornou duchovnickou rolí, Lana studovala tajně esoteričtější magie "
+"s Čaróby z Byrny. Přestože její loajalita koruně a Hyliánsku není v otázce, mnoho lidí "
+"včetně Rauruho cítí že její nesmírné moci jsou více než dokáže ovládnout."
 
 #: simulation/data/civs/hylian.json:Factions[0].Heroes[2].Name
 msgid "Lanafi Valashi"
@@ -1032,6 +1163,9 @@ msgid ""
 "years preaching the word of the Goddesses and guarding over the gate that houses the "
 "Triforce."
 msgstr ""
+"Nesmrtelný Mudrc Světla a architekt Chrámu Času, Rauru je staletí starý a dlouho chránil "
+"Hyliánské Království. Jakožto poradce Princezny Zeldy, je pověřen detekováním a varováním "
+"před nadpřirozenými hrozbami Království.
 
 #: simulation/data/civs/hylian.json:AINames[5]
 #: simulation/data/civs/hylian.json:Factions[0].Heroes[3].Name
@@ -1045,6 +1179,10 @@ msgid ""
 "people have rallied behind the banner of the winged Triforce, creating one of the "
 "largest and most successful armies the land has ever known."
 msgstr ""
+"Císařská monarchie známá jako Království Hyliánské je jedno z nejdéle žijících a "
+"nejmocnějších impérií co kdy existovaly. Po skoro tři tisíce let se Hyliánský lid "
+"schromažďoval pod praporem okřídlené Trojmoci, a vytvořil jednu z největších a "
+"nejúspěšnějších armád co kdy na světě existovaly.
 
 #: simulation/data/civs/hylian.json:Name
 msgid "Kingdom of Hyrule"
@@ -1068,6 +1206,8 @@ msgid ""
 " Now freed from her prison, Fi exhibits tremendous power and can bring animated swords "
 "against enemies of the Kingdom."
 msgstr ""
+"Mocná duše svázána proti své vůli v Meči Pánů. Osvobozena z jejího vězení, Fi projevuje "
+"ohromnou sílu, a a přináší přízračné meče proti nepřátelům Království. "
 
 #: simulation/data/civs/hylian.json:Structures[1].Name
 msgid "Titan: Fi, Spirit of the Master Sword"
@@ -1118,11 +1258,15 @@ msgid ""
 "was killed in battle and the Great Deku Tree was forced to awaken her as a Sage much "
 "earlier then he anticipated."
 msgstr ""
+"Narozena aby se stala dědičkou Mudrctví Velkého Deku Stromu a Královnou Kokirskou, "
+"Sárie byla jeho nejcenějším výtvorem. Přes jeho pokusy ochránit Kokiry, Sárie byla "
+"zabita v bitvě a Velký Deku Strom byl nicen ji probudit jako Mudryni mnohem dříve než "
+"očekával."
 
 #: simulation/data/civs/kokiri.json:AINames[0]
 #: simulation/data/civs/kokiri.json:Factions[0].Heroes[0].Name
 msgid "Saria, Sage of Forests"
-msgstr "Sárie, Mudryně LEsů"
+msgstr "Sárie, Mudryně Lesů"
 
 #: simulation/data/civs/kokiri.json:Factions[0].Heroes[1].History
 msgid ""
@@ -1131,6 +1275,12 @@ msgid ""
 "looms over the forest he plays a tune to keep spirits high and troops in marching "
 "order."
 msgstr ""
+"Fado byl velmi talentovaný muzikant a milovaný houslista mezi svým lidem. Byl pacifista "
+"a odmítal zaútočit na cokoliv živé, což byla ideologie kterou měl potíže dodržet. Jeho "
+"hudba se zdála mít téměř kouzelnou moc; byl velice schopný domestikovat divoká zvířata "
+"a příšery tím že zahrál správnou notu. Fado byl přítel Sárie a cítil k ní velkou "
+"náklonost. Když potřebovala někoho aby ji nahradil jakožto Mudryně, dobrovolně se "
+"přihlásil k roli."
 
 #: simulation/data/civs/kokiri.json:AINames[1]
 #: simulation/data/civs/kokiri.json:Factions[0].Heroes[1].Name
@@ -1143,6 +1293,9 @@ msgid ""
 "Forest. Although not quite suited for governance, Mirora's years of experience "
 "defending the borders of the Forest made her an ideal general."
 msgstr ""
+"Vůdkně Blatníků z Faronu, Mirora krátce sloužila jako vrchní Náčelnice všech Kokirů po "
+"Midově exilu z lesa. Ačkoliv nebyla vhodná pro vládnutí, Mirorina léta zkušeností v "
+"obraně lesních hranic ji dělala ideální generálkou."
 
 #: simulation/data/civs/kokiri.json:AINames[2]
 #: simulation/data/civs/kokiri.json:Factions[0].Heroes[2].Name
@@ -1157,7 +1310,7 @@ msgstr ""
 
 #: simulation/data/civs/kokiri.json:Factions[0].Heroes[3].Name
 msgid "Prince Kasuto"
-msgstr "Princ Kasuto"
+msgstr "Lol"
 
 #: simulation/data/civs/kokiri.json:Factions[0].Technologies[0].Name
 msgid "Food, Wood, Stone, and Rupees"
@@ -1171,6 +1324,10 @@ msgid ""
 " utopia would not last however, and as wars ravaged the surface of Hyrule time and "
 "again, such conflict would bring the Kokiri into the field of battle."
 msgstr ""
+"Hluboko v lesích jihovýchodního Hyronu bylo království jako žádné jiné. Pod vedením "
+"a panstvím Velkého Deku Stromu, dětští Kokirští vzali kontrolu nad touto lesní říší a "
+"založili zemi míru a izolace. Utopia Velkého Deku Stromu ale netvrala navždy, a když "
+"války znovu a znovu pustošily Hyron, konflikt přinesl Kokiry na bitevní pole."
 
 #: simulation/data/civs/kokiri.json:Name
 msgid "Kokiri"
@@ -1197,6 +1354,10 @@ msgid ""
 "the Kokiri generation after generation, altering their nature on the path to becoming "
 "Koroks."
 msgstr ""
+"Tento masivní mohutný tvor je pánem celého Kokirského lesa a patronským bohem mnohého "
+"lesního lidu. Umí se zakořenit a vykořenit. Když je zakořenen, je odolná vež a může "
+"sloužit jako sklad zdrojů. Pokud vykořeněn, je pomale se hýbající tvor který působí "
+"masivní plošné požkození kolem sebe."
 
 #: simulation/data/civs/kokiri.json:TeamBonuses[0].Description
 msgid "Allies gain a slow trickle of Material resources."
@@ -1243,6 +1404,13 @@ msgid ""
 " depression seemed to overcome her, as well as a great sense of impatience for "
 "everything."
 msgstr ""
+"Nejnovější členka dlouhodobé dynastie Ambi, Královna Solado Ambi byla posazena na "
+"trůn nedlouho po smrti svého otce. Později za své vlády potkala Veran, kterou rychle "
+"udělala svou osobní rádkyní. Brzy potom Ambi započala nový věk expanze a formálně "
+"založila nové Království. Královna Ambi byla známa jako milosrdná a šetrná odoba za "
+"první část její vlády nad Labrynnou. Brzy po příchodu Veran do jejího dvora však začala "
+"Ambina povaha degenerovat. Začaly ji přemáhat záchvaty deprese, a také netrpělivost pro "
+"všechno."
 
 #: simulation/data/civs/labrynna.json:AINames[0]
 #: simulation/data/civs/labrynna.json:Factions[0].Heroes[0].Name
@@ -1261,6 +1429,15 @@ msgid ""
 " structure designed to serve as the new throne of Queen Ambi. Some suspect there’s more"
 " to the tower’s purpose than just an ego trip for Veran’s royal friend, however."
 msgstr ""
+"Tajemnstvím všem a v Labrynně, i těm co jí mají blízko, Veranina minulost je hrozná "
+"sága osobní ztráty a traumatu. Kdysi Velká Víla, okolnosti v její minulosti vedly k "
+"jejímu vyhnanství do Říše Soumraku s jinými kriminálními živly jejího lidu. Někdy kolem "
+"Gerudských Válek se dokázala navrátit do Hyronu, a utelka daleko na východ do Labrynny "
+"kde slídila a stala se kamarádkou Královny Ambi. V přítomnosti je Veranin plán neznámý. "
+"Je ale očividně spojena s rapidním a extrémním armádním růstem Labrynny. Je architektka "
+"Černé věže, masivní monolitické struktury navržené jako nový trůn pro Královnu Ambi. "
+"Nekteří se ale domnívají věž má větší účel než sloužit jako vyvýšení ega Veraniny "
+"kamarádky."
 
 #: simulation/data/civs/labrynna.json:AINames[1]
 #: simulation/data/civs/labrynna.json:Factions[0].Heroes[1].Name
@@ -1277,6 +1454,12 @@ msgid ""
 "supernatural, in particular he hopes to uncover the mythical Fairies and ancient "
 "creatures that once coexisted in his homeland."
 msgstr ""
+"Vnuk Královny Ambi, Ralfonso byl nrozen do první generace která žila za nového "
+"Labrynnského Království. Stroje jsou pro něj druhou přirozeností, a roky vzdělání "
+"mu přinesly stáž ve velení pluku děl. Přestože Ralf očividně obdivuje technologickou "
+"revoluci Labrynny, cítí že Labrynna upadá a že jí něco chybí. Začal vyhledávat "
+"nadpřirozené, a zejména se snaží odtajit mýtické Víly a starověké tvory kteří kdysi "
+"koexistovali v jeho domovině."
 
 #: simulation/data/civs/labrynna.json:AINames[2]
 #: simulation/data/civs/labrynna.json:Factions[0].Heroes[2].Name
@@ -1293,6 +1476,12 @@ msgid ""
 "young and arrogant Ralph on behalf of the Queen just as much as he has been ordered to "
 "march out further north."
 msgstr ""
+"Muž tyčící se výšky, Edgar si vysloužil své jméno pro svoji velikost a neuvěřitelnou "
+"sílu. Své místo jako generál si ale vysloužil ne svojí fyzičkou, ale svou bitevní "
+"strategií. Původně Domobrance v Labrynně, expanze Království ho vedla k velení vojákům "
+"na předních liniích, a místo boje s Lvynely se zasloužil o jejich porážku. V nedávných "
+"časech dohlíží nad mladým a arogantním Ralfem jménem Královny tak moc jako byl nucen "
+"pochodovat na sever."
 
 #: simulation/data/civs/labrynna.json:AINames[3]
 #: simulation/data/civs/labrynna.json:Factions[0].Heroes[3].Name
@@ -1307,6 +1496,11 @@ msgid ""
 "advancing their military might and political power. Now no longer a Province of the "
 "Kingdom of Hyrule, Labrynna plans to challenge the crown with its expanding armies."
 msgstr ""
+"Kdysi zářící maják civilizace na východě, Labrynna sloužila jako Provincie Království "
+"Hyliánského a důležitým spojem s Velkým mořem. V nedávné době se Velká Víla Veran dokázala "
+"provrtat do víry Labrynnského Královského Dvoru, a pomohla mu pokročit jejich armádní sílu "
+"a politickou moc. Nyní když už není Provincií Hyliánského Království, Labrynna plánuje "
+"vyzvat korunu svými rostoucími armádami."
 
 #: simulation/data/civs/labrynna.json:Name
 msgid "Kingdom of Labrynna"
@@ -1349,7 +1543,7 @@ msgstr "Vědecká Metoda"
 
 #: simulation/data/civs/lanayru.json:CivBonuses[0].Description
 msgid "All land units can move or swim through deep water."
-msgstr ""
+msgstr "Všechny pěší jednotky se mohou pohybovat hlubokou vodou."
 
 #: simulation/data/civs/lanayru.json:CivBonuses[0].Name
 #: simulation/data/civs/zora.json:CivBonuses[0].Name
@@ -1386,6 +1580,9 @@ msgid ""
 "Despite this, she was incredibly kind and clearly a non-violent pacifist in her "
 "policies and goals."
 msgstr ""
+"Bývalá manželka Krále de Bona XVI, Rutela se nakonec rozvedla od Dominia a víceméně "
+"formálně založila Provincii Lanajru jako odlišný národ. Před jejich manželstvím byla "
+"generálka v armádě Dominia a zúčastila se v mnohé obraně."
 
 #: simulation/data/civs/lanayru.json:AINames[0]
 #: simulation/data/civs/lanayru.json:Factions[0].Heroes[0].Name
@@ -1403,6 +1600,10 @@ msgid ""
 "Perhaps foolishly he associated bravado and aggressiveness with masculinity, leading to"
 " him becoming a somewhat reckless warrior Prince."
 msgstr ""
+"Syn Krále de Bona a Královny Rutely, Ralis byl narozen těsně po královském rozvodu. "
+"Většinu života mu chyběla otcovská figura a byl vychován pouze jeho matkou, což mu "
+"možná zpomalilo vývoj. Trochu pošetile si spojoval kuráž a agresivitu s mužností, "
+"což vedlo k tomu že se z něho stal lekhomyslný Princ válečník."
 
 #: simulation/data/civs/lanayru.json:AINames[1]
 #: simulation/data/civs/lanayru.json:Factions[0].Heroes[1].Name
@@ -1420,6 +1621,10 @@ msgid ""
 " to survive. While not a warmonger by any means, she was never slow to suggest direct "
 "military action as a solution to any potential problem. "
 msgstr ""
+"Ajdie dlouho sloužila jako Maršálka v Lanajryjské armádě. Byla skoro úplně odpovědná "
+"za odvedenecký program Provincie a bez ní by národ pravděpodobně padl kvůli nedostatku "
+"armádních sil. Zúčastnila se asi ve více bitvách než jakákoliv jiná Zora z východu, "
+"a nosí ze svých minulých bitev mnoho jizev."
 
 #: simulation/data/civs/lanayru.json:AINames[2]
 #: simulation/data/civs/lanayru.json:Factions[0].Heroes[2].Name
@@ -1437,6 +1642,9 @@ msgid ""
 " of her personal life, other than her habit of fishing in Airu with her younger "
 "brother."
 msgstr ""
+"Jediná dcera Hraběte Dorfana a Ajdie, Mifa byla nádádána od útlého věku k tomu aby "
+"následovala ve šlépějích její matky a udržovala armádní historii rodiny. Přestože má "
+"trochu talent s trojzubcem, Mifa cítí že její místo ve světě není brát životy, ale uzdravovat. "
 
 #: simulation/data/civs/lanayru.json:AINames[3]
 #: simulation/data/civs/lanayru.json:Factions[0].Heroes[3].Name
@@ -1457,6 +1665,11 @@ msgid ""
 "homeland allowed for rapid wealth, but made the small and young nation a prime target "
 "for constant invasions at the hands of greedy and hungry forces."
 msgstr ""
+"Kdysi založen jako malý vazalský stát svazem Hyliánců a Zor sňatky, Lanajrijská "
+"Provincie rychle rostla a stala se ekonomickým kolosem který se finančně rovnal větším "
+"impériům světa. Bohaté zdroje jejich domova jim umožnily rapidně zbohanout, ale udělala "
+"tento malý a mladý národ hlavním cílem pro neustálé invaze rukami chamtivých a hladových "
+"sil."
 
 #: simulation/data/civs/lanayru.json:Name
 msgid "Lanayru Province"
@@ -1486,6 +1699,9 @@ msgid ""
 "?in the world, Vrylonacia's influence and symbols can be found throughout all of the "
 "Province's architecture and culture."
 msgstr ""
+"Prvotní duše po které je pojmenována Provincie Lanajru, Vrylonácie byla pravděpodobně "
+"uctívána jako pohanský bůh starověkými Zory před příchodem Akalců a zavedením úctívání "
+"jejich bohů. Legenda říká že Vrylonácie spí někde ve vodách světa."
 
 #: simulation/data/civs/lanayru.json:TeamBonuses[0].Description
 msgid "Allies gain a slow trickle of Currency Resources."
@@ -1531,6 +1747,13 @@ msgid ""
 "Lizalfos. She believes all the Pantheon of gods unworthy of worship, and seeks to prove"
 " that only she herself is deserving of worship by her people."
 msgstr ""
+"Pocházející s kdysi miniaturní a politicky slabé Čistě bílé snušky, Nardin tajuplný "
+"nástup k moci a korunování Matronou udělalo její rodinou linii přes noc slavnou. Je "
+"mnoho rozpaků kolem toho jak Nardu přes noc nashromáždila takovou sílu z ničeho, ale "
+"nikdo se ji neodváží konfrontovat, leda že by chtěli riskovat svou vlastní oběť na "
+"oltáři. Přestože umí být neskutečně násilná, Nardu je pro Ještěrfosku trochu "
+"necharakteristická. Věří že celý panteon bohů není hodný úctívání, a chce dokázat že "
+"pouze ona si zaslouží uctívání jejího lidu."
 
 #: simulation/data/civs/lizalfos.json:AINames[0]
 #: simulation/data/civs/lizalfos.json:Factions[0].Heroes[0].Name
@@ -1546,6 +1769,12 @@ msgid ""
 "shame, Vakat is a pessimist and often spends his time in the wilderness alone. One day "
 "he wishes to find a way to restore his and his people�s status."
 msgstr ""
+"Poslední Aeralfos který žil během Smrtohorského impéria, Vakat Okřídlený byl kdysi "
+"respektovaný vůdce Ještěrfoského lidu před tím než je Goroni odehnali na jih. Dnes ho "
+"mnozí považují za starého blázna, obviňující ho a ostatní Aeralfose ze ztráty jejich "
+"staré domoviny Goronům. Možná kvůli tolika věkům ostudy, Vakat je pesimista a často "
+"tráví svůj čas sám v divočině. Jednoho dne doufá že najde způsob jak obnovit status "
+"sebe a jeho lidí."
 
 #: simulation/data/civs/lizalfos.json:AINames[1]
 #: simulation/data/civs/lizalfos.json:Factions[0].Heroes[1].Name
@@ -1563,6 +1792,13 @@ msgid ""
 "highly of Nardu or why she so loyally serves her, but many think the key the Queen�s "
 "power lies in their cooperation."
 msgstr ""
+"Nestvůrný potomek Dinolfoského a Volganského sdružení, Talik Rudá si libuje ve strachu "
+"který vychází z jejího lidu kvůli krvi v jejích žilách. Pravá ruka Nardu Bílé, Talik je "
+"povolána když je k provedení Královniných cílů potřeba tvrdé síly. Talik věří že je "
+"nadřazená všemu Ještěrfoskému lidu, v čemž ji pomáhá její Volganská krev a tyčící se výška. "
+"Nemá respekt pro nikoho kromě Bílé Královny. Není známo proč Talik tak poc respektuje "
+"Nardu nebo proč je jí tak loajální, ale mnozí si myslí že Královnina moc spočívá v jejich "
+"kooperaci."
 
 #: simulation/data/civs/lizalfos.json:AINames[2]
 #: simulation/data/civs/lizalfos.json:Factions[0].Heroes[2].Name
@@ -1579,6 +1815,12 @@ msgid ""
 "of retaking Death Mountain. Why risk another collapse when the new Lizalfos empire is "
 "just beginning to thrive in the forest?"
 msgstr ""
+"Chameleofoska narozena dlouho po tom co byli Ještěrfosové vyhnáni ze severu, Okakuša "
+"bránila hranice Faronu většinu své dospělosti a moc nemyslela na svět za nimi. Celým "
+"srdcem následuje boha Farona, a věří že její lid má stěstí že jim poskytl nové impérium "
+"v jeho lese. Pozdější dobou je Okakuša trochu znepokojena nástupem Nardu Bílé a "
+"zvyšující se popularitou znovudobytí Hory smrti. Proč riskovat další kolaps když začíná "
+"nové Ještěrfoské impérium vzkvétat v lese?"
 
 #: simulation/data/civs/lizalfos.json:AINames[3]
 #: simulation/data/civs/lizalfos.json:Factions[0].Heroes[3].Name
@@ -1598,6 +1840,11 @@ msgid ""
 "all throughout Faron. While many of their kin are content to hunt and dance in their "
 "newfound home, some have more ambitions to expand their holdings."
 msgstr ""
+"Kdysi páni Pohoří smrti před tím než je jejich porážka rukami Goronů donutila k exodu, "
+"Ještěrfosové se usadili lhuboko v lesích jihozápadně od jejich domova. Po staletích znovu "
+"vybudovali své brutální impérium a vytesali své hranice po celém Faronu. Zatímco mnozí "
+"z jejich druhu jsou spokojeni s tím lovit a tancovat ve svém novém domově, jiní mají "
+"větší ambice rozšířit jejich země."
 
 #: simulation/data/civs/lizalfos.json:Name
 msgid "Lizalfos"
@@ -1624,6 +1871,11 @@ msgid ""
 " intelligent and is easily riled to fits of anger. His huge form can easily knock over "
 "buildings and his spiky carapace naturally impales enemies that try to get too close."
 msgstr ""
+"Kdysi tyran na Hoře smrti, Král Helmasaurů byl vyhnán z jeho domova a usadil se ve "
+"Východním paláci ve Faronských lesech kde si ho mnozí Ještěrfosové přidali do panteonu "
+"bohů. Přestože byl očividně chytřejší než zvíře, Král Helmasaurl byl sotva inteligentní "
+"a byl snadno přiveden do záchvatů vzteku. Jeho velká forma je schopna snadno porazit "
+"budovy a jeho spičatý krunýř napíchne nepřátele kteří se pokusí moc přiblížit."
 
 #: simulation/data/civs/lizalfos.json:Structures[1].Name
 msgid "Titan: Garnyle Og, the Helmasaur King"
@@ -1637,6 +1889,11 @@ msgid ""
 "both fire and ice blasts and crush smaller victims with its central head. Only crushing"
 " damage or magic powers can crack the rocky shell of this mighty beast."
 msgstr ""
+"Pán Želví skály na Hoře smrti, Trinexx byl poražen Gorony a vyhnán do lesů kde si ho "
+"Ještěrfosové přidali do svého panteonu bohů. Velice mohutná a silná Spoečná Želva, "
+"Trinexx je schopný útočit na nepřátele ohnivými a ledovými výbuchy a rozdrtit menší "
+"nepřátele svou střední hlavou. Pouze drtící požkození nebo magické síly mohou prorazit "
+"kamenný krunýř této mocné bestie."
 
 #: simulation/data/civs/lizalfos.json:Structures[2].Name
 msgid "Titan: Trinexx, Lord of Turtle Rock"
@@ -1681,6 +1938,9 @@ msgid ""
 "horses to the Kingdom of Hyrule and the Ordonians from her farmland. She is perhaps the"
 " most skilled rider of her time and is deadly with a bow and arrow."
 msgstr ""
+"Malon Lontská je majitelka Lon Lonského Ranče a proslulá podnikatelka v Království "
+"Hyliánském. Pokračující v práci jejího otce, vede a operuje Lon Lonský Ranč, šlechtí "
+"nejlepší koně světa a prodává nejslavnější mléko nespočetným zákazníkům."
 
 #: simulation/data/civs/minor_lonlon.json:AINames[0]
 #: simulation/data/civs/minor_lonlon.json:Factions[0].Heroes[0].Name
@@ -1701,6 +1961,9 @@ msgid ""
 "food for nearly a quarter of the Hylian populace, as well as a majority of the "
 "military's horses."
 msgstr ""
+"Znám po celém Hyliánsku pro svoje slavné koně a plody, Lon Lonský Ranč byl ve službě "
+"po několik generací bez známky že by se kdy měl zastavit. Ranč poskytuje jídlo pro téměř "
+"čtvrtinu Hyliánského obyvatelstva, a také většinu koní armádě."
 
 #: simulation/data/civs/minor_lonlon.json:Name simulation/data/civs/npc_lonlon.json:Name
 msgid "Lon Lon Ranch"
@@ -1714,6 +1977,9 @@ msgid ""
 " Labrynna duping most of her people into slavery, something she’s not all that proud "
 "of."
 msgstr ""
+"Otajlo se stala šéfkou Plazounů ne díky moci, intelektu nebo krevní linii... ale proto "
+"že si koupila modré tričko z Labrynny. Její jednání neúmyslně vedlo k Labrynnskému "
+"dobytí jejího lidu, na noč není moc hrdá."
 
 #: simulation/data/civs/minor_tokay.json:Factions[0].Heroes[0].Name
 #: simulation/data/civs/npc_tokay.json:Factions[0].Heroes[0].Name
@@ -1729,6 +1995,11 @@ msgid ""
 " the Tokay proved to be more than a pushover tribe of spear wielding reptile "
 "barbarians."
 msgstr ""
+"Pocházející z Půlměsíčního ostrova východně od Labrynny, Plazouni byli na první pohled "
+"kmenový a primitivní lid. Jejich zvláštní způsob mluvení, trapné chování a posedlost "
+"všedními objekty jako oblečení místo rupií jim dala reputaci zvláštnosti nebo prostě "
+"blbosti. Navzdory jejich svérázným výstupům, Plazouni se prokázali jako více než slabý "
+"kmen barbarů s klacky."
 
 #: simulation/data/civs/minor_tokay.json:Name simulation/data/civs/npc_tokay.json:Name
 msgid "Tokay"
@@ -1743,6 +2014,10 @@ msgid ""
 "lead to the Zuna becoming a giant merchant empire and biggest arms dealer in all of "
 "Hyrule."
 msgstr ""
+"Nejbohatější a nejmocnější Zuna co kdy žil, Pán Vordaj shromažďoval svůj majetek tím že "
+"byl patolízal a přitakávač různých impérií v Gerudské Poušti. Přestože byl považován za "
+"naprostého zbabělce cizinci, jeho zvyk se zaprodávat cizincům udělal ze Zunů obří "
+"obxhodnické impérium a největší prodejce zbraní na celém světě."
 
 #: simulation/data/civs/minor_zuna.json:Factions[0].Heroes[0].Name
 #: simulation/data/civs/npc_zuna.json:Factions[0].Heroes[0].Name
@@ -1759,6 +2034,12 @@ msgid ""
 "ornate swords for their soldiers. Despite their famous profession, the Zuna rarely ever"
 " engage in warfare and their public army usually only operates out of defense."
 msgstr ""
+"Asi jedna z nejstarších ras domorodých Gerudské poušti, Zunové jsou izolovaná kultura "
+"plazounských stavbařů a řemeslníků zbraní. Přestože se zdají přátelští Temnářské Legii, "
+"Zunové vzácně kontaktují jiná impéria nebo rasy pokud nejde o prodej zbraní. Zručnost se "
+"kterou Zunové vyrábí své zbraně je legendární, tak legendární že je Legie najímá k výrobě "
+"neuvěřitelně okrášlených zbraní pro své vojáky. Navzdory jejich známému zaměstnání, "
+"Zunové se vzácně účastní válek a jejich armáda většinou operuje pouze na obranu."
 
 #: simulation/data/civs/minor_zuna.json:Name simulation/data/civs/npc_zuna.json:Name
 msgid "Zuna"
@@ -1799,6 +2080,12 @@ msgid ""
 "made us so close to conquering all of Hyrule, were it not for those stinking traitorous"
 " Sheikah! Hail Ganon the Great!"
 msgstr ""
+"Ááá starej dobrej Ganon, největší a nejlepšejší ze všech Blinů! Když jsme bejvali na "
+"dně Ganon přišel a udělal nás zase silný! Sjednotil Mobliny, sjednotil Broukbliny, "
+"sjednotil Bokobliny, u velkýho Ukblinra vždyť sjednotil i Dodobliny! Ganon byl "
+"nejchytřejší z nás, ošizoval a překonával Hyliány na každym kromu! Málej nás dotáhl "
+"až k dobytí celýho Hyliánska, kdyby nebylo těch blbejch zrádců Šejků! Sláva Ganonovi "
+"Velkýmu!"
 
 #: simulation/data/civs/moblin.json:AINames[0]
 #: simulation/data/civs/moblin.json:Factions[0].Heroes[0].Name
@@ -1812,6 +2099,9 @@ msgid ""
 " into battle to lop some heads off of the stinking Hylians and anyone who gets in the "
 "Moblin way!"
 msgstr ""
+"Král Bulblin je dost děsivej, my Blini máme legendy co říkaj že spadl z mostu a přežil..."
+"dvakrát! Jezdí na zídech starýho dobrýho Pána Bullba, jde se sekyrou do bitvy aby usekl "
+"nějaký hlavy smrdícím Hyliáncům a komukoliv kdo se plete do cesty Moblinům!"
 
 #: simulation/data/civs/moblin.json:AINames[1]
 #: simulation/data/civs/moblin.json:Factions[0].Heroes[1].Name
@@ -1825,6 +2115,10 @@ msgid ""
 "Ogalon could kill ten whole Hylians all at once! Well maybe not that many, but she was "
 "a smart and strong fighter and lead Blins to winning!"
 msgstr ""
+"Pravá ruka a ženská Ganona, Ogalon byla chytrá Blinka se kterou všechny jeho plány "
+"fungovaly a staly se! Páč nosí dobrý brnění a pěknej ostrej klacek, Ogalon uměla zabít "
+"deset Hyliánců zaráz! No dobře, možná ne tak moc, ale byla chytrá a silná bojovnice a "
+"vedla Bliny k vítězství!"
 
 #: simulation/data/civs/moblin.json:AINames[2]
 #: simulation/data/civs/moblin.json:Factions[0].Heroes[2].Name
@@ -1838,11 +2132,15 @@ msgid ""
 " fear! There's a good reason Ukblinro, our great god blessed be his awesome name, made "
 "Ghirahim his most trusted servant... he's that good at killing!"
 msgstr ""
+"Óóó strašidelnej Girahím, velká zbraň našeho velkýho boha Zkázy! Tendle děsivej duch "
+"umí dělat meče co kolem něj lítaj úplně jako ptácí, sekají hlavy a nutí Hyliány utíkat "
+"ve strachu! Je dobrej důvod proč Ukblinro, náš velkej bůh posvěť se jeho suprový jméno, "
+"udělal Girahíma svým nejdůvěryhodnějším sluhou... je tak dobrej v zabíjení!"
 
 #: simulation/data/civs/moblin.json:AINames[3]
 #: simulation/data/civs/moblin.json:Factions[0].Heroes[3].Name
 msgid "Ghirahim"
-msgstr "Gírahim"
+msgstr "Girahim"
 
 #: simulation/data/civs/moblin.json:History
 msgid ""
@@ -1880,6 +2178,10 @@ msgid ""
 "brings a biiiigggggg sword into the fight, and he goes and makes us win! All hail "
 "Ukblinro!"
 msgstr ""
+"Jóóó náš bůh Ukblinro! Nejlepšejší bůžek co je na celým světe a jinejch místech! Kdysi "
+"dávno byl ošklivě zraněnej ve velký bitce s tou blbou Hyliánskou bohyní Hylií! Ale náš "
+"bůh je nejlepší, takže přežil a je zpátky a lepší než kdy předtím! Bůžek Ukblinro nese "
+"do bitvy vééélkej meč, a jde a vyhrává za nás! Sláva Ukblinrovi!"
 
 #: simulation/data/civs/moblin.json:Structures[1].Name
 msgid "Titan: Ukbklinro, Bringer of Demise"
@@ -1926,6 +2228,9 @@ msgid ""
 "his humble attitude and knack for partaking in menial labor with the Serfs of the "
 "Province."
 msgstr ""
+"Pán Starosta a vrchní celé Ordonské Provincie, Starosta Bo sloužil velitelskou rolí "
+"déle než jakýkoliv jiný Ordoňan. Je milován svým lidem pro svou skromnou povahu a "
+"zkučnost pro podřadnou práci s nevolníky Provincie."
 
 #: simulation/data/civs/ordona.json:AINames[0]
 #: simulation/data/civs/ordona.json:Factions[0].Heroes[0].Name
@@ -1939,6 +2244,12 @@ msgid ""
 "some of the best horses in Hyrule while simultaneously managing a lumber company to "
 "supply the building of stables across Hyrule."
 msgstr ""
+"Ilie byla dcera Starosty Boa a obchodní asistentka Rusly ve svém mládí. Jelikož se "
+"narodila do privilegované vrstvy, měla možnost si vyzkoušet několik pracovních "
+"linií před tím než se usadila ve šlechtění a trénovaní koní. V mladé dospělosti se Ilie "
+"stala pořádnou podnikatelkou v Ordonské Provincii, a získala některé z nejlepších koní "
+"světa zatímco zároveň řídila lesnickou společnost aby zásobovala stavbu stájí po celém "
+"Hyliánsku."
 
 #: simulation/data/civs/ordona.json:AINames[1]
 #: simulation/data/civs/ordona.json:Factions[0].Heroes[1].Name
@@ -1953,11 +2264,16 @@ msgid ""
 "trained in several Hylian military academies, with rumors that he was attempting to "
 "become the first Hyrulean Knight from Ordona Province. "
 msgstr ""
+"Pro mnohé v Ordonské Provincii, Rusl byl jen obyčejný obchodník který cestoval v "
+"Hyliánsku a Provincii Lanajru. Ti co ho znali osobně si byli pravděpodobně vědomi jeho "
+"bývalé práce v armádě. Narozdíl od mnoha Ordoňanů, Rusl byl ve skutečnosti profesionálně "
+"trénován v několika Hyliánských armádních akademiích, a je fáma že se pokoušel stát "
+"prvním Hyliánským Rytířem z Ordonské Provincie."
 
 #: simulation/data/civs/ordona.json:AINames[2]
 #: simulation/data/civs/ordona.json:Factions[0].Heroes[2].Name
 msgid "Rusl"
-msgstr "Rasl"
+msgstr "Rusl"
 
 #: simulation/data/civs/ordona.json:Factions[0].Heroes[3].History
 msgid ""
