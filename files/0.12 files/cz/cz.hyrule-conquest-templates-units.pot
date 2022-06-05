@@ -2208,7 +2208,7 @@ msgstr ""
 "fascinován sledováním jak věci padají na zem... Většinou jako výsledek jednoho z jeho "
 "nových katapultů. Kado byl poměrně malý, i na Deku Rosta, a byl většinu svého života "
 "terčem smíchu. Potom co si kompenzoval se svým očividně vyspělejším mozkem a získal "
-náklonnost Krále, jeho úděl v životě se značně změnil. Současně slouží jako rádce Princezně, "
+"náklonnost Krále, jeho úděl v životě se značně změnil. Současně slouží jako rádce Princezně, "
 "a obává se jejího zájmu o starověké Odolwanské rituály."
 
 #: simulation/templates/units/deku/deku_hero_kado.xml:69
