@@ -6836,7 +6836,7 @@ msgstr "Leichte defensive Infanterie mit Streitkolben und Schild"
 #: simulation/templates/units/labrynna/labrynna_lynnapike_upg.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Pike"
-msgstr ""
+msgstr "Spieß"
 
 #: simulation/templates/units/labrynna/labrynna_lynnapike_b.xml:33
 msgid "Lynna Pike"
@@ -7341,7 +7341,7 @@ msgstr "Königin Rutelas einzigartige Einheit. Mächtige Infaterie mit hoher Aus
 
 #: simulation/templates/units/lanayru/lanayru_hermitid_b.xml:45
 msgid "Hermitid"
-msgstr ""
+msgstr "Einseidlerkrebs"
 
 #: simulation/templates/units/lanayru/lanayru_hermitid_b.xml:46
 msgid ""
@@ -7351,14 +7351,19 @@ msgid ""
 "of the Hermitid makes it a poor combatant, but a group of soldiers can ride inside its "
 "shell protected from enemy attacks."
 msgstr ""
+"Eine sehr große Kreatur die vermutlich mit den Paddelgarnelen verwandt ist. Der Einsiedlerkrebs"
+"ist ein langsames Monster mit einer stabilen und riesigen Schale. Nichts bis auf die mächtigsten"
+"stumpfen Waffen und Magie konnten durch die dicke Schale dieser Kreatur brechen. Da sie so langsam"
+"sind, sind Einsiedlerkrebse keine guten Kämpfer, aber eine Gruppe von Soldaten can im inneren der "
+"Schale geschützt reiten."
 
 #: simulation/templates/units/lanayru/lanayru_hermitid_b.xml:51
 msgid "Large Support Creature that can ferry large amounts of soldiers in its protective shell."
-msgstr ""
+msgstr "Große Unterstützungs einheit die eine vielzahl an Soldaten in ihrer Schale mitnimmt."
 
 #: simulation/templates/units/lanayru/lanayru_hero_aydia.xml:34
 msgid "Supreme Province General"
-msgstr ""
+msgstr "Feldmarshall der Provinz "
 
 #: simulation/templates/units/lanayru/lanayru_hero_aydia.xml:36
 msgid ""
@@ -7367,18 +7372,22 @@ msgid ""
 "fell from a lack of military force. She has perhaps participated in more battles than "
 "any other Zora of the north, and bears scars from her numerous engagements."
 msgstr ""
+"Aydia diente schon lange als Marshall in Lanayrus Armee. Sie war fast im Alleingang für "
+"das Rekrutenprogramm der Provinz verantwortlich ohne dem die Provinz schon lange an Truppenmangel"
+"zugrunde gegangen wäre. Sie hat an vermutlich mehr Schlachten teilgenommen als irgendein anderer"
+"Zora und ihre vielen Narben zeugen davon."
 
 #: simulation/templates/units/lanayru/lanayru_hero_aydia.xml:40
 msgid "Aydia Dorephan"
-msgstr ""
+msgstr "Aydia Dorephan"
 
 #: simulation/templates/units/lanayru/lanayru_hero_aydia.xml:41
 msgid "Strong Melee Hero with decent armor and commanding abilities."
-msgstr ""
+msgstr "Starke Infanterieheldin mit guter rüstung und Führungsfähigkeiten"
 
 #: simulation/templates/units/lanayru/lanayru_hero_dorephan.xml:39
 msgid "Lord of Lanayru"
-msgstr ""
+msgstr "Fürst von Lanayru"
 
 #: simulation/templates/units/lanayru/lanayru_hero_dorephan.xml:41
 msgid ""
@@ -7388,18 +7397,24 @@ msgid ""
 "divorce of De Bon and Rutela broke apart his initial plans, but have since provided him"
 " amble opprotunity to use the schism and take over Lanayru Province."
 msgstr ""
+"Ein politische einflussreicher Fürst der Zora, der sich in die Kontolle über Lanayru "
+"eingeschleimt hat. Er ist schon lange mit König De Bon befreundet, bündelt aber im  "
+"geheimen seine Macht unter der Nase des Zorakönigs in der Hoffnung die Dorephan Familie "
+"auf Thron zu patzieren. Die Scheidung zwischen De Bon und Rutela hat einen Strich durch "
+"die Rechnung gemacht, hat ihm aber genug Möglichkeiten gegeben die Spaltug zu nutzen und"
+"die Lanayru Provinz zu übernehmen."
 
 #: simulation/templates/units/lanayru/lanayru_hero_dorephan.xml:45
 msgid "Duke Dorephan"
-msgstr ""
+msgstr "Fürst Dorephan"
 
 #: simulation/templates/units/lanayru/lanayru_hero_dorephan.xml:46
 msgid "Mounted Cavalry Hero that attacks with his mounts sharp claws."
-msgstr ""
+msgstr "Held der Kavallerie der mit scharfen Krabbenscheren angreift"
 
 #: simulation/templates/units/lanayru/lanayru_hero_mipha.xml:43
 msgid "Champion of Lanayru"
-msgstr ""
+msgstr "Reckin von Lanayru"
 
 #: simulation/templates/units/lanayru/lanayru_hero_mipha.xml:45
 msgid ""
@@ -7408,18 +7423,22 @@ msgid ""
 "some talent with pole-arms, Mipha felt her place was not in taking life, but healing "
 "it."
 msgstr ""
+"Die einzige Tochter von Fürst Dorephan und Aydia, stand in der Pflicht in die Fußstapfen"
+"ihrer Mutter zu treten und die militärische Abstammung der Familie aufrechtzuerhalten."
+"Trotz ihrem Telent mit Lanzenwaffen, fühlte Mipha das ihre Aufgabe darin bestand leben"
+"zu retten und nicht zu beenden."
 
 #: simulation/templates/units/lanayru/lanayru_hero_mipha.xml:49
 msgid "Mipha Dorephan"
-msgstr ""
+msgstr "Mipha Dorephan"
 
 #: simulation/templates/units/lanayru/lanayru_hero_mipha.xml:50
 msgid "Melee Hero armed with her cermonial Trident and gifted with healing abilities."
-msgstr ""
+msgstr "Held der Infanterie mit einem Zeremoniellen Dreizack"
 
 #: simulation/templates/units/lanayru/lanayru_hero_ralis.xml:39
 msgid "The Silver Prince"
-msgstr ""
+msgstr "Der Silberprinz"
 
 #: simulation/templates/units/lanayru/lanayru_hero_ralis.xml:41
 msgid ""
@@ -7429,18 +7448,23 @@ msgid ""
 "bravado and aggressiveness with masculinity, leading to him becoming a somewhat "
 "reckless warrior Prince."
 msgstr ""
+"Der Sohn von König De Bon und Königin Rutela, Ralis, wurde kurz nach der Scheidung"
+"geboren. Ihm fehlte für die längste Zeit seines Lebens eine Vaterfigur und er wurde"
+"nur von seiner Mutter aufgezogen, was vielleicht seine Reife verkümmern ließ. Etwas"
+"töricht verband er Prahlerei und Aggresion mit Männlichkeit, was ihm zu einen "
+"waghalsigen Kriegerprinz macht"
 
 #: simulation/templates/units/lanayru/lanayru_hero_ralis.xml:45
 msgid "Ralis"
-msgstr ""
+msgstr "Ralis"
 
 #: simulation/templates/units/lanayru/lanayru_hero_ralis.xml:46
 msgid "Mounted Cavalry Hero that attacks with his mighty Silver Sword."
-msgstr ""
+msgstr "Held der Kavallerlie der mit einem mächtigen Silberschwert."
 
 #: simulation/templates/units/lanayru/lanayru_hero_rutela.xml:34
 msgid "Queen of Lanayru Province"
-msgstr ""
+msgstr "Königin der Lanayru Provinz"
 
 #: simulation/templates/units/lanayru/lanayru_hero_rutela.xml:36
 msgid ""
@@ -7448,19 +7472,21 @@ msgid ""
 "more or less formally sanctified Lanayru Province as a distinct nation. Prior to her "
 "marriage she was a general in the Dominion’s army and had participated in the defense "
 "against Ganon’s first invasion. "
-msgstr ""
+msgstr "Rutela, die ehemalige Frau von König Zora De Bon" XVI, ratifizierte durch ihre Trennung"  
+"vom Hoheitsgebiet mehr oder weniger Lanayru Provinz als eigenständige Nation. Vor ihrer Heirat"
+"diente sie als General im Hoheitsgebiet."
 
 #: simulation/templates/units/lanayru/lanayru_hero_rutela.xml:40
 msgid "Rutela"
-msgstr ""
+msgstr "Rutela"
 
 #: simulation/templates/units/lanayru/lanayru_hero_rutela.xml:41
 msgid "Melee Hero that leads her forces into battle."
-msgstr ""
+msgstr "Heldin der Infanterie "
 
 #: simulation/templates/units/lanayru/lanayru_hero_sidon.xml:43
 msgid "Prince of Lanayru"
-msgstr ""
+msgstr "Prinz von Lanayru"
 
 #: simulation/templates/units/lanayru/lanayru_hero_sidon.xml:45
 msgid ""
@@ -7469,18 +7495,22 @@ msgid ""
 " liked by the nobles of both the Dominion and Lanayru, but behind his friendly and "
 "saavy words are the teeth of a shark."
 msgstr ""
+"Der einzige Sohn von Fürst Dorephan und jüngerer Bruder von Mipha, stand schon lange"
+"im Schatten seiner Schwester trotz seines Charismas und überlegeneren politschen Sinn."
+"Er ist beliebt beim Adel der Provinz und dem Hoheitsgebiet, aber hinter seinen klugen "
+"und freundlichen Worten sind die Zähne eines Hais."
 
 #: simulation/templates/units/lanayru/lanayru_hero_sidon.xml:49
 msgid "Sidon Dorephan"
-msgstr ""
+msgstr "Sidon Dorephan"
 
 #: simulation/templates/units/lanayru/lanayru_hero_sidon.xml:50
 msgid "Melee Hero armed with a cermonial Sword."
-msgstr ""
+msgstr "Held er Infanterie mit einem zeremoniellen Schwert"
 
 #: simulation/templates/units/lanayru/lanayru_lancer_b.xml:39
 msgid "Coral Lancer"
-msgstr ""
+msgstr "Korallenlanzer"
 
 #: simulation/templates/units/lanayru/lanayru_lancer_b.xml:40
 msgid ""
@@ -7489,14 +7519,18 @@ msgid ""
 "cheap counter to cavalry and other larger units that their enemies often threw in their"
 " direction."
 msgstr ""
+"Korallenlanzer waren die Standard Soldaten der Provinz. Sie dinen als Polizei und als"
+"schnelle Eingreiftruppe im Falle einer Invasion. Mit einer spitzen Korallenguss Lanze"
+"waren sie ein billiger Konter gegen Kavallerie und andere größere Einheiten die oft in"
+"Richtung losgelassen wurden."
 
 #: simulation/templates/units/lanayru/lanayru_lancer_b.xml:44
 msgid "Spear armed Melee Infantry unit with moderate armor."
-msgstr ""
+msgstr "Lanzeninfanterie mit mittelmäßiger Rüstung"
 
 #: simulation/templates/units/lanayru/lanayru_marshal_b.xml:33
 msgid "Marshal"
-msgstr ""
+msgstr "Marshall"
 
 #: simulation/templates/units/lanayru/lanayru_marshal_b.xml:34
 msgid ""
@@ -7504,29 +7538,34 @@ msgid ""
 "battle. With such a large and unprofessional army they were invaluable for guiding "
 "troops and directing them in engagements."
 msgstr ""
+"Marshälle waren Soldate von Lanayru die tatsächliche akademische und militärische Ehrfahrung "
+"in Kampf hatten. Mit einer generell unprofessionellen Armee waren sie essentiell die Truppen"
+"im Gefecht anzuführen"
 
 #: simulation/templates/units/lanayru/lanayru_marshal_b.xml:39
 msgid "Commander unit that improves the performance of other units."
-msgstr ""
+msgstr "Kommandant der Leistung der Truppen verbessert."
 
 #: simulation/templates/units/lanayru/lanayru_minicrab_b.xml:32
 #: simulation/templates/units/lanayru/lanayru_minicrab_b.xml:38
 msgid "Baby Battlecrab"
-msgstr ""
+msgstr "Baby Kampfkrabbe"
 
 #: simulation/templates/units/lanayru/lanayru_minicrab_b.xml:33
 msgid ""
 "Small spawn of a mother Battlecrab, these young creatures follow their parent around "
 "and will attack anything that comes too close."
 msgstr ""
+"Kleine Brut einer Kampfkrabbenmutter. Diese jungen Kreaturen folgen ihrer Mutter"
+"überall hin und greifen alles an was ihnen zu nah kommt."
 
 #: simulation/templates/units/lanayru/lanayru_minicrab_b.xml:39
 msgid "Tiny Melee Creature unit that follows their mother Battlecrab."
-msgstr ""
+msgstr "Kleine Nahkampfkreatur die ihrer Mutter Kampfkrabbe folgt"
 
 #: simulation/templates/units/lanayru/lanayru_prawnbowman_b.xml:43
 msgid "Prawn Bowman"
-msgstr ""
+msgstr "Garnelen Schützen"
 
 #: simulation/templates/units/lanayru/lanayru_prawnbowman_b.xml:44
 msgid ""
@@ -7536,14 +7575,19 @@ msgid ""
 "While they are quite slow and not ideal for direct combat, their ability to climb rocky"
 " inclines and cliffs make them excellent platforms for archers."
 msgstr ""
+"Die langsamen Paddelgarnelen findet man in den seichten Gewässern des großen Meeres"
+"auch wenn sie jedes Jahr über das Land in langen Zügen wandern. Dire Lanayrru Zora"
+"fangen und zähmen diese langsamen Kreaturen und nutzen sie als Lastentiere. Auch wenn"
+"Sie nicht ideal für den direkten Kampf sind, ist ihre Fähigeit steinige Gefälle und "
+"Klippen zu erklimmen excellent für Bogenschützen "
 
 #: simulation/templates/units/lanayru/lanayru_prawnbowman_b.xml:49
 msgid "Slow moving Missile Cavalry that can climb any terrain."
-msgstr ""
+msgstr "Langsame Bogenschützen der Kavallerie die jedes Terrain erklimmen."
 
 #: simulation/templates/units/lanayru/lanayru_sentry_b.xml:39
 msgid "Shore Sentry"
-msgstr ""
+msgstr "Küstenwache"
 
 #: simulation/templates/units/lanayru/lanayru_sentry_b.xml:40
 msgid ""
@@ -7553,14 +7597,19 @@ msgid ""
 "the Province’s main force, or in more desperate situations ambush their enemies and "
 "stall their forces."
 msgstr ""
+"An den Flüssern und Stränden der Lanayru Provinz stand ein Netzwerk an von Wachposten."
+"Diese leicht gepanzerten Einheiten lagen ihre Rüstung ab im Gegenzug für Geschwindigkeit"
+"und Tarnung. im falle einer feindlichen Invasion, konnten die Küstenwachen schnell zur"
+"Hauptstreitmacht der Provinzfliehen um sie zu warnen oder in dringenderen Fällen ihren"
+"Feinden auflauern um Zeit zu gewinnen."
 
 #: simulation/templates/units/lanayru/lanayru_sentry_b.xml:44
 msgid "Scout unit armed with a spear. Can detect Camouflaged and Stealthed units."
-msgstr ""
+msgstr "Späher mit Speer. Kann getarnte Einheiten erkennen."
 
 #: simulation/templates/units/lanayru/lanayru_shoreserpent_b.xml:38
 msgid "Shore Serpent"
-msgstr ""
+msgstr "Strandschlange"
 
 #: simulation/templates/units/lanayru/lanayru_shoreserpent_b.xml:39
 msgid ""
@@ -7569,23 +7618,27 @@ msgid ""
 "the beast are used by the Zora of Lanayru as pets and circus attractions, though they "
 "also make a frightening opponent when spread into their army."
 msgstr ""
+"Wasserschlangen die an den Küsten von Airu leben und in der Wildnis sehr aggresiv und"
+"feindselig gesinnt sind mit ihren starken Bissen. Gezähmte Verianten dieser Bestie werden"
+"als Haustiere und Zirkus Attraktionen von den LAnayru Zora genutzt, doch auch in der Armee "
+"machen sie einen furchteinflößenden Anblick für ihre Gegner."
 
 #: simulation/templates/units/lanayru/lanayru_shoreserpent_b.xml:44
 msgid "Slithering Melee Creature with a venomous bite."
-msgstr ""
+msgstr "Schlängelnde Kreatur mit einen giftigen Biss"
 
 #: simulation/templates/units/lanayru/lanayru_shrapnel.xml:37
 msgid "Shrapnel Field"
-msgstr ""
+msgstr "Schrapnell Feld"
 
 #: simulation/templates/units/lanayru/lanayru_silverarcher_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Silver Arrows"
-msgstr ""
+msgstr "Silbepfeile"
 
 #: simulation/templates/units/lanayru/lanayru_silverarcher_b.xml:42
 msgid "Silver Archer"
-msgstr ""
+msgstr "Silberschützen"
 
 #: simulation/templates/units/lanayru/lanayru_silverarcher_b.xml:44
 msgid ""
@@ -7595,21 +7648,27 @@ msgid ""
 "Silver Archer's attack scaled in power with the size of its target. Regardless of size,"
 " a Silver Arrow could puncture through all but Magic armor."
 msgstr ""
+"Das Geheimnis dieser Jäger von massigen und gigantischen Bestien aus ganz Hyrule liegt in"
+"ihren Pfeilen. Ein einzelner Silberpfeil konnte viele gigantische Monster in ganz Hyrule "
+"verwunden und je größer sie waren desto stärker der Schmerz. Ein Angriff der Silberschützen"
+"wuchs proportionall mit dem Ziel . Unabhängig der Größe konnte ein Silberpfeil alles außer"
+"Magischer Rüstung durchdringen."
 
 #: simulation/templates/units/lanayru/lanayru_silverarcher_b.xml:49
 msgid ""
 "Prince Ralis' Unique Unit. Strong Missile unit that deals progressively more damage to "
 "larger unit sizes and pierces all forms of armor."
-msgstr ""
+msgstr "Einzigartige Einheit. Starke Bogenschützen deren Angriff proportional zum Ziel"
+"steigt und jede Rüstung durchdringt."
 
 #: simulation/templates/units/lanayru/lanayru_silverslasher_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Crescent Spear"
-msgstr ""
+msgstr "Schuppenlanze"
 
 #: simulation/templates/units/lanayru/lanayru_silverslasher_b.xml:39
 msgid "Silverscale Slasher"
-msgstr ""
+msgstr "Silberschuppen Schneider"
 
 #: simulation/templates/units/lanayru/lanayru_silverslasher_b.xml:40
 msgid ""
@@ -7620,25 +7679,31 @@ msgid ""
 "against armored enemies, a spear tip was added to the other end of their elegant "
 "weapons to fight off invaders."
 msgstr ""
+"Die Silschuppen Schneider trugen schwere Rüstung und einen zeremonielle Schuppenlanze"
+"auch wenn sie mehr zur Schau als Nutzen hatten. Sie bewachten den Thron von Airu und "
+"andere wichtige Orte. Da die Schuppenlanze ursprünlich nur zur Jagd und dem Opfern"
+"kleiner Tiere diente war sie nicht effektiv gegen gepanzerte Gegner, weshalb eine "
+"weitere Speerspitze am anderen Ende der eleganten Waffe hinzugefügt wurde um "
+"Invasoren abzuwehren."
 
 #: simulation/templates/units/lanayru/lanayru_silverslasher_b.xml:45
 msgid "Defensive Melee unit armed with a srescent spear."
-msgstr ""
+msgstr "Defensive Infanterie mit einer Schuppenlanze"
 
 #: simulation/templates/units/lanayru/lanayru_titan_lake.xml:13
 msgid "Liquify"
-msgstr ""
+msgstr "Verflüssigen"
 
 #: simulation/templates/units/lanayru/lanayru_titan_vrylonacia.xml:12
 #: simulation/templates/units/zora/zora_kyameron_b.xml:4
 #: simulation/templates/units/zora/zora_morphite_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Water Mass"
-msgstr ""
+msgstr "Wassermassen"
 
 #: simulation/templates/units/lanayru/lanayru_titan_vrylonacia.xml:72
 msgid "The Spirit of Lanayru"
-msgstr ""
+msgstr "Der Lichtgeist von Lanayru"
 
 #: simulation/templates/units/lanayru/lanayru_titan_vrylonacia.xml:73
 msgid ""
@@ -7652,7 +7717,7 @@ msgstr ""
 
 #: simulation/templates/units/lanayru/lanayru_titan_vrylonacia.xml:76
 msgid "Vrylonacia"
-msgstr ""
+msgstr "Vrylonacia"
 
 #: simulation/templates/units/lanayru/lanayru_titan_vrylonacia.xml:77
 msgid "Lanayru Titan unit. Giant Melee unit that can slide over any terrain."
