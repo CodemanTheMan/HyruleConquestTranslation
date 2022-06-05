@@ -2126,7 +2126,7 @@ msgstr ""
 "Možná jeden z nejmocnějších panovníků Deku Rostů, Král Kud-Loh-Kan byl první ze své "
 "rasy který sjednotil všechny Rosty pod jeden prapor, i když pouze dočasně. Jeho úspěch "
 "však neproudil z dobré vůle jeho lidu; Král Kud-Loh-Kan panoval jako tyran a neustále "
-vyhrožoval svému lidu popravou. Navzdory jeho vzteklé povaze, Králova motivace byla "
+"vyhrožoval svému lidu popravou. Navzdory jeho vzteklé povaze, Králova motivace byla "
 "zakořeněna v lásce pro jeho dceru. Držel to tajemnstím, ale byl nakažen Vzteklou Snětí "
 "a přál si aby ho nahradila na trůnu po jeho smrti."
 
