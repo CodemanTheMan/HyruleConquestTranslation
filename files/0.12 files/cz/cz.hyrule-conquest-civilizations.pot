@@ -2282,6 +2282,10 @@ msgid ""
 " connection to any nation, she was more mercenary than knight, adapting and learning a "
 "wide variety of combat techniques and sword fighting arts from various cultures."
 msgstr ""
+"Dcera Hyliánského rytíře, Ašejin otec byl vyhnán z jeho řádu protože měl dítě s Ordonskou "
+"ženou a poskvrnil pokrevní linii svých členů. Bez žádného spojení k žádnému národu, byla "
+"více žoldačka než rytířka, a adaptovala a učila se mnoha bojovým technikám a šermířským "
+"uměním z různých kultur."
 
 #: simulation/data/civs/ordona.json:AINames[3]
 #: simulation/data/civs/ordona.json:Factions[0].Heroes[3].Name
@@ -2302,6 +2306,11 @@ msgid ""
 "finest brew this side of Lake Hylia. Motivated by hard work and having a good time, the"
 " people of Ordona Province were nonetheless some of the toughest folks around."
 msgstr ""
+"Založena jako vazalský stát Hyliánského Království, Ordonská Provincie se časem stala "
+"nejmocnějším zemědělským národem v celé historii. Co jim chybělo v armádní síle "
+"nahrazovali mocnou ekonomikou poháněnou plody, dobytkem, a nejlepším pivem na jejich "
+"straně Hyliina jezera. Motivováni tvrdou prací a dobrým orazem, lidé Ordonské Provincie "
+"byli přece jenom jedni z nejtvrdších kolem."
 
 #: simulation/data/civs/ordona.json:Name
 msgid "Ordona Province"
@@ -2367,6 +2376,9 @@ msgid ""
 "a portent of a cataclysmic event about to transpire in Hyrule, and death is sure to "
 "follow."
 msgstr ""
+"Tajemná figura která očividně není z žádného Klanu, válečník známý jenom jako Šejk "
+"slouží Nirvatským Mnichům. Šejkova přítomnost je často předzvěst kataklyzmických událostí, "
+"a následuje je smrt."
 
 #: simulation/data/civs/sheikah.json:AINames[2]
 #: simulation/data/civs/sheikah.json:Factions[0].Heroes[0].Name
@@ -2382,6 +2394,11 @@ msgid ""
 "pride, though he often seeks to gain people on his side through lavish gifts, parties, "
 "and bribes."
 msgstr ""
+"Náčelník Klanu Jiga, Mistr Kóga dlouho žil na hranicích Hyliánska a je horlivý zastánce "
+"svrchovanosti jeho klanu v Kádru. I přes jeho pokusy Kádr odtlačil Klan Jiga ze svého "
+"koncilu, což ho vedlo k rozčarování nad ostatními Klanovými Náčelníky. Samotný Kóga je "
+"rozpustilý a plný pýchy, ale často se snaží získat lidi na svoji stranu dárky, večírky, "
+"a podplatem."
 
 #: simulation/data/civs/sheikah.json:AINames[3]
 #: simulation/data/civs/sheikah.json:Factions[0].Heroes[1].Name
@@ -2399,6 +2416,13 @@ msgid ""
 "She is in truth a very motherly figure to those that have her in their lives, perhaps "
 "an echo of a life she could have had in ages past."
 msgstr ""
+"Náčelnice Kakarkého i Naldarského Klanu a také Mudryně Stínů, Impa má bezprecedentní "
+"politickou moc v Kádru a dlouho sloužila Šejkům i Královské rodině Hyliánské. Možná "
+"nejlepší šermířka v historii světa, její přítomnost často vzbuzuje strach nebo úctu, "
+"podle toho kdo je její přítel či nepřítel. Těmi co Impu neznají je často viděna jako "
+"chladná zabijačka bez emocí, což možná způsobuje její věk a vzdálenost od společnosti. "
+"Ve skutečnosti je velice mateřská figura těm co ji mají v životě, možná ozvěna života "
+"který mohla kdysi žít."
 
 #: simulation/data/civs/sheikah.json:AINames[4]
 #: simulation/data/civs/sheikah.json:Factions[0].Heroes[2].Name
@@ -2414,6 +2438,11 @@ msgid ""
 "disconnected from the rest of his kind after centuries of isolation, and none know his "
 "true motives."
 msgstr ""
+"Nejstarší z Nirvatských Mnichů a nejobávanější čaroděj Kádru, Maz Košia dlouho vládl nad "
+"radou Stařešin a po staletí Kádr ovlivňoval. S vyjímkou svých krátkých výstupů na srazech "
+"koncilu, Maz Košia žije v naprosté samotě hluboko pod zemí, a shromažďuje temné síly. "
+"Je naprosto odloučen od zbytku svého druhu po staletích osamění, a nikdo nezná jeho pravé "
+"motivy."
 
 #: simulation/data/civs/sheikah.json:AINames[5]
 #: simulation/data/civs/sheikah.json:Factions[0].Heroes[3].Name
@@ -2428,6 +2457,11 @@ msgid ""
 "extremely subversive and secretive methods: Spying, bribing, black mailing, and "
 "assassination to change the course of events rather than military or diplomatic might."
 msgstr ""
+"Kádr je vládnoucí orgán sedmi Hyronských Šejkských Klanů. Cíle Kádru nejdou jasné "
+"cizincům, ale celkově se zdá že se snaží řídit historii a předejít kataklyzmickým "
+"pohromám a změnám. Aby toho dosáhli, Šejkové přijmuli extrémně podvratné a tajné "
+"metody: špehování, podplacování, vydírání, a vraždění ke změně průběhu událostí místo "
+"armádní nebo diplomatické moci."
 
 #: simulation/data/civs/sheikah.json:Name
 msgid "Sheikah Cadre"
@@ -2455,6 +2489,12 @@ msgid ""
 "appears as a large headless corpse with disembodied hands that follow it around as it "
 "goes."
 msgstr ""
+"Starověké monstrum které Kádr zapečetil pod vesnicí Kakariko před mnoha věky, tvor "
+"známý jako Bongo Bongo se stal pouze nejasnou legendou i ostatním Šejkům. Nirvatští "
+"Mniši se v minulosti občas pokoušeli ovládnout tohoto démona pro své vlastní účely. "
+"Mnoho pokusů selhalo, a Bongo Bongo působil zpoušť dokud nebyl znovu zapečetěn. "
+"Samotná příšera se objevune jako bezhlavá mrtvola s useknutými rukami které ji "
+"následují kam jde."
 
 #: simulation/data/civs/sheikah.json:Structures[1].Name
 msgid "Titan: Bongo Bongo"
@@ -2503,6 +2543,11 @@ msgid ""
 " seek to fill its ranks with mindless followers and to establish a kingdom of "
 "immortality that can stand against the supernatural forces of Hyrule."
 msgstr ""
+"Stvoření příšerné magie která byla zakázána a zapečetěna ve starověké minulosti Hyronu, "
+"Stalfosové jsou ohromná a vždy rostoucí armáda vzkřísených mrtvol. Vedena kruhem "
+"válčících a elitních nekromantů, moderní inkarnace Hyronských nemrtvých hodlá naplnit "
+"své řady nemyslícími následníky aby vytvořili království nesmrtelnosti schopné vystát "
+"proti nadpřirozeným silám Hyronu."
 
 #: simulation/data/civs/stalfos.json:Name
 msgid "Stalfos"
@@ -2526,7 +2571,7 @@ msgstr "Laruto, Střešinská Mudryně"
 
 #: simulation/data/civs/zora.json:CivBonuses[0].Description
 msgid "All land units can move through deep water."
-msgstr ""
+msgstr "Všechny jednotky mohou projít hlubokou vodou."
 
 #: simulation/data/civs/zora.json:CivBonuses[1].Description
 msgid ""
@@ -2536,7 +2581,7 @@ msgstr ""
 
 #: simulation/data/civs/zora.json:CivBonuses[1].Name
 msgid "Beacon of Culture"
-msgstr ""
+msgstr "Maják Kultury"
 
 #: simulation/data/civs/zora.json:CivBonuses[2].Description
 msgid "All garrisoned buildings can slowly heal units."
@@ -2544,7 +2589,7 @@ msgstr ""
 
 #: simulation/data/civs/zora.json:CivBonuses[2].Name
 msgid "Gift of Healing"
-msgstr ""
+msgstr "Dar Léčení"
 
 #: simulation/data/civs/zora.json:Factions[0].Heroes[0].History
 msgid ""
@@ -2555,6 +2600,12 @@ msgid ""
 "unlawfully married the half-breed Zora, Rutela, only to divorce her and thereby pollute"
 " the royal bloodline, and splinter the Dominion into two empires."
 msgstr ""
+"Nejnovější v dlouhé linii monarchů Dominia, Král Zora Farkos je poměrně nedůstojný "
+"vládce který zneužívá svého postavení. Je zodpovědný za několik nepotřebných kampaní "
+"expanze, jedna z kterých vedla k plné invazi Hory smrti. Král Farkos je známý jako velice "
+"sobecký jedinec vyhýbající se tradici. Nezákonně se oženil s polo-krevnou Zorou, Rutelou, "
+"jenom aby se s í rozvedl a poskvrnil královskou pokrevnou linii, a rozpůlil Dominium ve "
+"dvě impéria."
 
 #: simulation/data/civs/zora.json:AINames[0]
 #: simulation/data/civs/zora.json:Factions[0].Heroes[0].Name
@@ -2572,6 +2623,13 @@ msgid ""
 " demeanor, she withholds a lifelong sadness after the splitting of her parents, that "
 "she tries to cure by finding a husband; a venture she often spectacularly fails in."
 msgstr ""
+"Dcera Krále Farkose a Královny Rutely, Rutina pokrevní linie byla poskvrněna jejich "
+"sdružením, což je jí vidět na očích. Přesto si ponechala titul a dědictví trůnu "
+"Dominia po rozvodu jejích rodičů. Nehoda která ji skoro zabila v ranném dětství vedl "
+"k jejímu jmenování Mudrctví. Dodnes je jedna z nejmladších Mudryní co kdy žily. Ruto "
+"je známá svou divokou a agresivní povahou, a v některých případech je popisována jako "
+"naprostý spratek. Navzdory její povaze, v srdci nosí smutek po rozvodu jejích rodičů, "
+"který se snaží vyléčit nalezením manžela; dobrodružství ve kterém velkolepě selhává."
 
 #: simulation/data/civs/zora.json:AINames[1]
 #: simulation/data/civs/zora.json:Factions[0].Heroes[1].Name
@@ -2587,6 +2645,11 @@ msgid ""
 " and resulted in her adoption into Sagehood. Since then he has maintained emotional "
 "(and literal) distance from her and has grown antagonistic to her rise to the throne."
 msgstr ""
+"Po mnoho let, Zalin sloužil jako velvyslanec mezi Dominiem a jeho mnohými sousedy. Je "
+"možná nejčtenější v písmech a kulturách, částečně díky knihovně informací od jeho ženy. "
+"Zalin byl blízký přítel Ruto v jejím mládí, ale nehoda ve které byl zapleten ji málem "
+"zabila, a způsobila její přijmutí Mudrctví. Od té doby udržuje emocionální (a doslovnou) "
+"vzdálenost od ní a stal se antagonistický jejímu nástupu na trůn."
 
 #: simulation/data/civs/zora.json:AINames[2]
 #: simulation/data/civs/zora.json:Factions[0].Heroes[2].Name
@@ -2602,6 +2665,11 @@ msgid ""
 "is rather introverted and avoids appearing in public unless in the company of Zaleen or"
 " her library."
 msgstr ""
+"Původně trénovaná jako mág, Telara opustila společenství aby mohla žít bezpečnější život. "
+"Nakonec si vzala Zalina a stala se knihovnice v Zorčelonu, kde seskládávala historické "
+"dokumenty a zkompilovala většinu informací které byly později využity v Seresině Historii "
+"Hyronu. Telařina osobnost je známá jako tichá a ostýchavá. Je spíše introvertní a vyhýbá se "
+"výstupech na veřejnosti pokud není ve společnosti Zalina nebo její knihovny."
 
 #: simulation/data/civs/zora.json:AINames[3]
 #: simulation/data/civs/zora.json:Factions[0].Heroes[3].Name
@@ -2620,6 +2688,10 @@ msgid ""
 "prideful and arrogant in the eyes of their land-dwelling neighbors. When convincing "
 "others fails, the Dominion has both military and magic might on their side."
 msgstr ""
+"Rybí muži a ženy Hyronských vod dlouho vládnuli podvodním říším. Soustředící se na "
+"idál krásy a půvabu, vytvořili impérium rozhodnuté přetvořit jiné k jejim mimořádným "
+"standartům... Cíl který je udělal poměrně pyšné a arogantní v očích jejich pevninských "
+"sousedů. Když přesvědčování selže, Dominium má armádu i magii na své straně."
 
 #: simulation/data/civs/zora.json:Name
 msgid "Zora Dominion"
@@ -2647,6 +2719,12 @@ msgid ""
 "Many spending time near Lord Jabu Jabu have had wounds and sicknesses cured in short "
 "order."
 msgstr ""
+"Džabun, častěji známý jako Pán Džabu Džabu je druhý Mudrc Vody v Hyronu a zakladatel "
+"Zorského Dominia. Džabun je známý svou malicherností a přerostlým egem. Odmítá mluvit "
+"s kýmkoliv kromě svých sluhů nebo uctívatelů. Má nenasytnou chuť a je také znám pro "
+"svoji neotesanost a lenost. Jakožto starověký Ošunit má ohromnou magickou moc, konkrétně "
+"hojit maso. Mnohým kteří trávili čas u Pána Džabu Džabuho se zanedlouho vyléčily rány a "
+"nemoci."
 
 #: simulation/data/civs/zora.json:Structures[1].Name
 msgid "Titan: Lord Jabu Jabu"
@@ -2658,4 +2736,4 @@ msgstr ""
 
 #: simulation/data/civs/zora.json:TeamBonuses[0].Name
 msgid "Zora Medicine"
-msgstr ""
+msgstr "Torská Léčba"
