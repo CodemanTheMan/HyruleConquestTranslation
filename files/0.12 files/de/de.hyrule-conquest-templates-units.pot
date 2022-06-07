@@ -5785,8 +5785,8 @@ msgid ""
 msgstr "" 
 "Herren der nördlichen Kokiri Wälder, die sanftmütigen und zurückgezogenen Deku Bäume,"
 "verbringen die meisten schlafend schlafend und schauen dabei aus wie jeder andere"
-"Baum für das bloße Auge. Wenn sie gestört oder bedroht. Entwurzeln sie sich um eine "
-"vielbeinige Monstrosität zu enblößen"
+"Baum für das bloße Auge. Wenn sie gestört oder bedroht werden, entwurzeln sie sich um  "
+"eine vielbeinige Monstrosität zu enblößen"
 
 #: simulation/templates/units/kokiri/kokiri_dekutree_b.xml:87
 #: simulation/templates/units/kokiri/kokiri_dekutree_large_b.xml:88
@@ -7538,7 +7538,7 @@ msgid ""
 "battle. With such a large and unprofessional army they were invaluable for guiding "
 "troops and directing them in engagements."
 msgstr ""
-"Marshälle waren Soldate von Lanayru die tatsächliche akademische und militärische Ehrfahrung "
+"Marshälle waren Soldaten von Lanayru die tatsächliche akademische und militärische Ehrfahrung "
 "in Kampf hatten. Mit einer generell unprofessionellen Armee waren sie essentiell die Truppen"
 "im Gefecht anzuführen"
 
@@ -7714,6 +7714,11 @@ msgid ""
 "in the world, Vrylonacia's influence and symbols can be found throughout all of the "
 "Province's architecture and culture."
 msgstr ""
+"Ein ursprünglicher Lichtgeist nachdem die Lanayru Provinz benannt ist. Vrylonacia wurde "
+"vermutlich schonvor der Ankunft der Akkalaer von den Zora  verehrt. Leegenden besagen das "
+"Vrylonacia irgendwo in den Gewässern Hyrules schläft. Zwar agiert es nicht mehr in der Welt"
+"aber der Einfluss und Vrylonacia lässt sich noch in Symbole der Architektur und Kultur der "
+"Provinz finden."
 
 #: simulation/templates/units/lanayru/lanayru_titan_vrylonacia.xml:76
 msgid "Vrylonacia"
@@ -7721,11 +7726,11 @@ msgstr "Vrylonacia"
 
 #: simulation/templates/units/lanayru/lanayru_titan_vrylonacia.xml:77
 msgid "Lanayru Titan unit. Giant Melee unit that can slide over any terrain."
-msgstr ""
+msgstr "Lanayru Titan. Gigantischer Nahkampf einheit die sich über jedes Terrain schlängelt"
 
 #: simulation/templates/units/lanayru/lanayru_tridenteer_b.xml:39
 msgid "Lightscale Tridenteer"
-msgstr ""
+msgstr "Lichtschuppenlanzer"
 
 #: simulation/templates/units/lanayru/lanayru_tridenteer_b.xml:41
 msgid ""
@@ -7734,16 +7739,22 @@ msgid ""
 "exceptionally adept at killing creature units with their tridents, and when not in "
 "combat they could slowly heal their injuries."
 msgstr ""
+"Jäger von allen arten von Seegetier, von den Gyorgs der hohen See bis zu den Grozoctos"
+"des Nordens. Lichtscuppenlanzer waren mächtige Krieger im Wasser und waren gekonnt im "
+"bekämpfen von Kreaturen mit ihren Lichtschuppenlanzen und konnten an sich außerhalb eines  "
+"Kampfes heilen."
 
 #: simulation/templates/units/lanayru/lanayru_tridenteer_b.xml:46
 msgid ""
 "Mipha's Unique Unit. Fast moving Melee unit armed with a long reaching trident. Excells"
 " at combat against creatures and aquatic units."
 msgstr ""
+"Miphas einzigartige Einheit. Schnelle Infanterie mit einem Dreizack. Ausgezeichnet"
+"im Kampf gegen Kreaturen und Wassereinheiten."
 
 #: simulation/templates/units/lanayru/lanayru_wavewarrior_b.xml:33
 msgid "Wave Warrior"
-msgstr ""
+msgstr "Wellenkrieger"
 
 #: simulation/templates/units/lanayru/lanayru_wavewarrior_b.xml:34
 msgid ""
@@ -7751,10 +7762,14 @@ msgid ""
 " Lanayru Province's chief battle unit. They could go toe to toe with their enemies and "
 "quickly retreat back to the waters if need be."
 msgstr ""
+"Mit einem Silberschuppenpanzer und einem silbernen Zoraschwert, waren die Wellenkrieger "
+"die Standard Angriffstruppen. Sie konnten Kopf an Kopf mit ihren Gegnern kämpfen und  "
+"sich, falls nötig, schnell ins Wasser zurückziehen."
+""
 
 #: simulation/templates/units/lanayru/lanayru_wavewarrior_b.xml:39
 msgid "Moderate Melee unit armed with a Silver Sword."
-msgstr ""
+msgstr "mittlere Infanerie mit einem Zoraschwert."
 
 #: simulation/templates/units/lanayru_trader_b.xml:12
 msgid "Broker"
@@ -7770,7 +7785,7 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_aeralfire_b.xml:46
 msgid "Fiery Aeralfos"
-msgstr ""
+msgstr "Feuer-Aeralfos"
 
 #: simulation/templates/units/lizalfos/lizalfos_aeralfire_b.xml:48
 msgid ""
@@ -7778,14 +7793,17 @@ msgid ""
 "Aeralfos could attack and bombard enemies from a distance, making them extremely "
 "difficult to catch and kill without the proper ranged weaponry."
 msgstr ""
+"Ein spezieller Aeralfos der Feuerbälle spuckt. Ein Feueraeralfos kann Gegner aus "
+"der Distanz bombardieren, weshalb sie ohne richtige Distanzwaffen extrem schwer zu "
+"kriegen sind."
 
 #: simulation/templates/units/lizalfos/lizalfos_aeralfire_b.xml:53
 msgid "Vakat's Unique Unit. A Flying Mage unit that spits fireballs at their targets."
-msgstr ""
+msgstr "Vakats einzigartige Einheit. Fliegende Magische Einheit die Feuerbälle spuckt."
 
 #: simulation/templates/units/lizalfos/lizalfos_aeralfos_b.xml:37
 msgid "Aeralfos"
-msgstr ""
+msgstr "Aeralfos"
 
 #: simulation/templates/units/lizalfos/lizalfos_aeralfos_b.xml:38
 msgid ""
@@ -7798,7 +7816,7 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_aeralfos_b.xml:43
 msgid "Flying Melee unit wielding a sword and shield."
-msgstr ""
+msgstr "Fliegende Infanterie mit Schwert und Schild"
 
 #: simulation/templates/units/lizalfos/lizalfos_aeralpeonA.xml:70
 msgid "Aeralfos Peon"
@@ -7820,7 +7838,7 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_butcher_b.xml:33
 msgid "Dinolfos Butcher"
-msgstr ""
+msgstr "Dinodorus Schlächter"
 
 #: simulation/templates/units/lizalfos/lizalfos_butcher_b.xml:34
 msgid ""
@@ -7833,12 +7851,12 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_butcher_b.xml:39
 msgid "Swift Melee unit armed with a strong axe."
-msgstr ""
+msgstr "Schnelle Infanterie mit einer starken Axt"
 
 #: simulation/templates/units/lizalfos/lizalfos_capturetest_b.xml:44
 #: simulation/templates/units/lizalfos/lizalfos_predator_b.xml:40
 msgid "Predator"
-msgstr ""
+msgstr "Jäger"
 
 #: simulation/templates/units/lizalfos/lizalfos_capturetest_b.xml:45
 #: simulation/templates/units/lizalfos/lizalfos_predator_b.xml:41
@@ -7852,16 +7870,16 @@ msgstr ""
 #: simulation/templates/units/lizalfos/lizalfos_capturetest_b.xml:50
 #: simulation/templates/units/lizalfos/lizalfos_predator_b.xml:46
 msgid "A raiding Melee unit that has excellent dodge skill unit armed with a sword."
-msgstr ""
+msgstr "Plündernde Infanterie mit ausgezeichnete Ausweichrate und Schwert"
 
 #: simulation/templates/units/lizalfos/lizalfos_carcasslauncher_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Cow Corpse"
-msgstr ""
+msgstr "Kuhkadaver"
 
 #: simulation/templates/units/lizalfos/lizalfos_carcasslauncher_b.xml:56
 msgid "Carcass Launcher"
-msgstr ""
+msgstr "Kadaver Werfer"
 
 #: simulation/templates/units/lizalfos/lizalfos_carcasslauncher_b.xml:57
 msgid ""
@@ -7873,7 +7891,7 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_carcasslauncher_b.xml:60
 msgid "Support unit that launcher rotting corpses at its targets, spreading poison and disease."
-msgstr ""
+msgstr "Unterstützungseinheit die verrotende Kadaver auf ihre Ziele wirft und dabei Gift und Krankheit verbreitet"
 
 #: simulation/templates/units/lizalfos/lizalfos_civilianA.xml:8
 #: simulation/templates/units/lizalfos/lizalfos_peonA.xml:70
@@ -7883,11 +7901,11 @@ msgstr ""
 #: simulation/templates/units/lizalfos/lizalfos_cowcorpse.xml:38
 #: simulation/templates/units/moblin/moblin_dungpile.xml:37
 msgid "Moblin Dung Pile"
-msgstr ""
+msgstr "Moblin Kothaufen"
 
 #: simulation/templates/units/lizalfos/lizalfos_darkhammer_b.xml:53
 msgid "Darkhammer"
-msgstr ""
+msgstr "Armoralfos"
 
 #: simulation/templates/units/lizalfos/lizalfos_darkhammer_b.xml:54
 msgid ""
@@ -7899,11 +7917,11 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_darkhammer_b.xml:59
 msgid "Very powerful Siege unit armed with a huge ball and chain."
-msgstr ""
+msgstr "Sehr starke Belagerungseinheit mit Morgenstern"
 
 #: simulation/templates/units/lizalfos/lizalfos_dodongosnake_b.xml:39
 msgid "Dodongo Snake"
-msgstr ""
+msgstr "Dodongoschlange"
 
 #: simulation/templates/units/lizalfos/lizalfos_dodongosnake_b.xml:40
 msgid ""
@@ -7914,11 +7932,11 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_dodongosnake_b.xml:45
 msgid "Large Creature unit that deals progressively more damage to units smaller than its size."
-msgstr ""
+msgstr "Große Kreatur die mehr Schaden an kleineren Einheiten verursacht."
 
 #: simulation/templates/units/lizalfos/lizalfos_footman_b.xml:33
 msgid "Dinolfos Footman"
-msgstr ""
+msgstr "Dinodorus Fußtruppen"
 
 #: simulation/templates/units/lizalfos/lizalfos_footman_b.xml:34
 msgid ""
@@ -7930,11 +7948,11 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_footman_b.xml:39
 msgid "Heavily armored Melee unit carrying a sword and shield."
-msgstr ""
+msgstr "schwergepanzerte Infanterie mit Schwert und SChild"
 
 #: simulation/templates/units/lizalfos/lizalfos_hammarine_b.xml:36
 msgid "Hammarine"
-msgstr ""
+msgstr "Hammerzogin"
 
 #: simulation/templates/units/lizalfos/lizalfos_hammarine_b.xml:37
 msgid ""
@@ -7945,16 +7963,16 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_hammarine_b.xml:42
 msgid "Powerful Melee unit armed with a giant warhammer."
-msgstr ""
+msgstr "Mächtige Infanterie mit riesigen Kriegshammer"
 
 #: simulation/templates/units/lizalfos/lizalfos_heatoise_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Shell"
-msgstr ""
+msgstr "Panzer"
 
 #: simulation/templates/units/lizalfos/lizalfos_heatoise_b.xml:37
 msgid "Heatoise"
-msgstr ""
+msgstr "Schnapper"
 
 #: simulation/templates/units/lizalfos/lizalfos_heatoise_b.xml:38
 msgid ""
@@ -7966,29 +7984,31 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_heatoise_b.xml:43
 msgid "Slow but very durable Melee Creature that can cross lava and bodies of water."
-msgstr ""
+msgstr Langsame aber wiederspenstige Einheit die Lava und Gewässer überquert.""
 
 #: simulation/templates/units/lizalfos/lizalfos_helmbaby_b.xml:33
 msgid "Light Creature Unit"
-msgstr ""
+msgstr "Leichte Kreatur"
 
 #: simulation/templates/units/lizalfos/lizalfos_helmbaby_b.xml:34
 msgid ""
 "Helmasaur babies would often follow their mother for the first few months of their "
 "lived untle their skulls had begun to grow."
 msgstr ""
+"Helmasaurus Babys folgen ihrer Mutter in den ersten Monaten bis ihre Schädelpanzer"
+"anfingen zu wachsen."
 
 #: simulation/templates/units/lizalfos/lizalfos_helmbaby_b.xml:39
 msgid "Helmasaur Baby"
-msgstr ""
+msgstr "Helmasaurus Baby"
 
 #: simulation/templates/units/lizalfos/lizalfos_helmbaby_b.xml:40
 msgid "Small Melee Creature that bites and bashes with its skull."
-msgstr ""
+msgstr "Kleine Kreatur die mit Bissen und ihren Schädel angreift"
 
 #: simulation/templates/units/lizalfos/lizalfos_helmqueen_b.xml:64
 msgid "Helmasaur Queen"
-msgstr ""
+msgstr "Helmasaurus Königin"
 
 #: simulation/templates/units/lizalfos/lizalfos_helmqueen_b.xml:65
 msgid ""
@@ -7996,21 +8016,24 @@ msgid ""
 " Helmasaurs were in charge of laying clutches of eggs and teaching the newborns to "
 "hunt. A Helmasaur Queen was large and slow, but she could spawn baby Helmasaurs to "
 "follow her around in battle."
-msgstr ""
+msgstr 
+"Eine der vielen Weibchen im Harem des König Helmasaur. Die Aufgabe dieser Helmasauren war "
+"es die Nester mit Eiern zu füllen und Neugeborenen das Jagen beizubringen. Eine Königin"
+"war groß und langsam, aber sie konnte Baby Helmasauren erzeugen und mits ich bringen "
 
 #: simulation/templates/units/lizalfos/lizalfos_helmqueen_b.xml:70
 msgid "Very large Melee Creature unit who spawns smaller babies to follow her into battle."
-msgstr ""
+msgstr "Sehr große Kreatur die kleine babys mit sich in die Schlacht führt."
 
 #: simulation/templates/units/lizalfos/lizalfos_helmram_b.xml:4
 #: simulation/templates/units/lizalfos/lizalfos_helmram_upg.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Skull"
-msgstr ""
+msgstr "Schädel"
 
 #: simulation/templates/units/lizalfos/lizalfos_helmram_b.xml:47
 msgid "Helmasaurus Ram"
-msgstr ""
+msgstr "Helmasaurus Rammbock"
 
 #: simulation/templates/units/lizalfos/lizalfos_helmram_b.xml:48
 msgid ""
@@ -8019,14 +8042,17 @@ msgid ""
 "buildings and walls. The Lizalfos did not hesitate to use them as living battering "
 "rams."
 msgstr ""
+""
+""
+""
 
 #: simulation/templates/units/lizalfos/lizalfos_helmram_b.xml:53
 msgid "Large Siege Creature that attacks by smashing its thick skull into targets."
-msgstr ""
+msgstr "Große Belagerungskreatur die mit ihren Dickschädel Gegner rammt."
 
 #: simulation/templates/units/lizalfos/lizalfos_helmtracker_b.xml:36
 msgid "Helmasaur Tracker"
-msgstr ""
+msgstr "Helmasaurus Verfolger"
 
 #: simulation/templates/units/lizalfos/lizalfos_helmtracker_b.xml:37
 msgid ""
@@ -8039,7 +8065,7 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_helmtracker_b.xml:42
 msgid "Durable Cavalry unit that chases down enemies with their axes in hand."
-msgstr ""
+msgstr "Wiederspenstige Kavallerie die Gegner mit Äxten niederstreckt."
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_nardu.xml:4
 #: simulation/templates/units/lizalfos/lizalfos_sneak_b.xml:4
@@ -8047,7 +8073,7 @@ msgstr ""
 #: simulation/templates/units/sheikah/sheikah_spy_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Dagger"
-msgstr ""
+msgstr "Dolch"
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_nardu.xml:34
 msgid "Queen of Faron"
@@ -8066,15 +8092,15 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_nardu.xml:40
 msgid "Nardu the White"
-msgstr ""
+msgstr "Nardu die Weiße"
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_nardu.xml:41
 msgid "Strong Support Hero that can convert enemy units to her cause."
-msgstr ""
+msgstr "Starke Unterstützungsheldin die Gegner auf ihre Seite zieht."
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_okakusha.xml:33
 msgid "Matron of Faron"
-msgstr ""
+msgstr "Schirmherrin von Phirone
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_okakusha.xml:35
 msgid ""
@@ -8089,7 +8115,7 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_okakusha.xml:39
 msgid "Okakusha the Green"
-msgstr ""
+msgstr "Okakusha die Grüne"
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_okakusha.xml:40
 msgid "Quick Hero with Stealth that uses her spear in battle."
@@ -8121,7 +8147,7 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_vakat.xml:33
 msgid "Lord of Aeralfos"
-msgstr ""
+msgstr "Fürst der Aeralfos"
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_vakat.xml:35
 msgid ""
@@ -8135,20 +8161,20 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_vakat.xml:39
 msgid "Vakat the Winged"
-msgstr ""
+msgstr "Vakat der Geflügelte"
 
 #: simulation/templates/units/lizalfos/lizalfos_hero_vakat.xml:40
 msgid "Flying Hero unit that attacks enemies with his sword."
-msgstr ""
+msgstr "Fliegender Held der Gegner mit seinen Schwert angreift"
 
 #: simulation/templates/units/lizalfos/lizalfos_iguanalfos_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Poison Breath"
-msgstr ""
+msgstr "Giftatem"
 
 #: simulation/templates/units/lizalfos/lizalfos_iguanalfos_b.xml:41
 msgid "Iguanalfos"
-msgstr ""
+msgstr "Leguanalfos"
 
 #: simulation/templates/units/lizalfos/lizalfos_iguanalfos_b.xml:43
 msgid ""
@@ -8161,12 +8187,12 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_iguanalfos_b.xml:48
 msgid "Okakusha's Unique Unit. Missile unit that sprays its enemies with poison globs."
-msgstr ""
+msgstr "Fernkämpfer die Giftbälle auf ihre Gegner spucken"
 
 #: simulation/templates/units/lizalfos/lizalfos_matron_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fire Sword"
-msgstr ""
+msgstr "Feuerschwert"
 
 #: simulation/templates/units/lizalfos/lizalfos_matron_b.xml:32
 msgid ""
@@ -8177,7 +8203,7 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_matron_b.xml:37
 msgid "Matron"
-msgstr ""
+msgstr "Schirmherrin"
 
 #: simulation/templates/units/lizalfos/lizalfos_matron_b.xml:38
 msgid "Talik's Unique Unit. Poweful Melee unit armed with a flaming sword."
@@ -8185,7 +8211,7 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_monitor_b.xml:33
 msgid "Monitor"
-msgstr ""
+msgstr "Waran"
 
 #: simulation/templates/units/lizalfos/lizalfos_monitor_b.xml:34
 msgid ""
@@ -8196,11 +8222,11 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_monitor_b.xml:39
 msgid "Commander unit that improves the performance of other Lizalfos."
-msgstr ""
+msgstr "Kommandantin die die Leistung anderer Echsalfoseinheiten verbessert."
 
 #: simulation/templates/units/lizalfos/lizalfos_rope_b.xml:32
 msgid "Rope"
-msgstr ""
+msgstr "Giftwurm"
 
 #: simulation/templates/units/lizalfos/lizalfos_rope_b.xml:33
 msgid ""
@@ -8211,18 +8237,18 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_rope_b.xml:38
 msgid "Small Melee Creature who can move over any terrain."
-msgstr ""
+msgstr "Kleine Kreatur die über sich über jedes Terrain bewegt"
 
 #: simulation/templates/units/lizalfos/lizalfos_shaman_b.xml:4
 #: simulation/templates/units/sheikah/sheikah_hero_paya.xml:4
 #: simulation/templates/units/sheikah/sheikah_protector_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Staff"
-msgstr ""
+msgstr "Stab"
 
 #: simulation/templates/units/lizalfos/lizalfos_shaman_b.xml:32
 msgid "Shaman"
-msgstr ""
+msgstr "Schamane"
 
 #: simulation/templates/units/lizalfos/lizalfos_shaman_b.xml:33
 msgid ""
@@ -8233,11 +8259,11 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_shaman_b.xml:38
 msgid "Support unit that can offer sacrifices at Altars for various benefits."
-msgstr ""
+msgstr "Unterstützungseinheit"
 
 #: simulation/templates/units/lizalfos/lizalfos_sneak_b.xml:33
 msgid "Chameleofos Skink"
-msgstr ""
+msgstr "Chamäleofos Skink"
 
 #: simulation/templates/units/lizalfos/lizalfos_sneak_b.xml:34
 msgid ""
@@ -8248,11 +8274,11 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_sneak_b.xml:39
 msgid "Stealthed Scout unit that can detect other Stealthed and Camouflaged units."
-msgstr ""
+msgstr "Getarnte Spähereinheit die andere getarnte einheiten erkennt."
 
 #: simulation/templates/units/lizalfos/lizalfos_songsayer_b.xml:32
 msgid "Songsayer"
-msgstr ""
+msgstr "Liederschreiberin"
 
 #: simulation/templates/units/lizalfos/lizalfos_songsayer_b.xml:34
 msgid ""
@@ -8266,16 +8292,16 @@ msgstr ""
 msgid ""
 "Nardu's Unique Unit. Support unit that can briefly turn enemy units against their "
 "masters."
-msgstr ""
+msgstr "Unterstützungseinheit die andere Einheiten kurzzeitig die Seitenwechseln lässt."
 
 #: simulation/templates/units/lizalfos/lizalfos_spearlauncher_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Spear Bolts"
-msgstr ""
+msgstr "Speerbolzen"
 
 #: simulation/templates/units/lizalfos/lizalfos_spearlauncher_b.xml:51
 msgid "Poison Spear Launcher"
-msgstr ""
+msgstr "Giftspeerwerfer"
 
 #: simulation/templates/units/lizalfos/lizalfos_spearlauncher_b.xml:52
 msgid ""
@@ -8286,11 +8312,11 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_spearlauncher_b.xml:55
 msgid "Siege engine that launches large poison bolts at its targets."
-msgstr ""
+msgstr "Belagerungswaffe die schwere Giftbolzen auf ihre Ziele wirft."
 
 #: simulation/templates/units/lizalfos/lizalfos_striker_b.xml:32
 msgid "Chameleofos Striker"
-msgstr ""
+msgstr "Chamäleofos Sturmtruppen"
 
 #: simulation/templates/units/lizalfos/lizalfos_striker_b.xml:33
 msgid ""
@@ -8300,16 +8326,16 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_striker_b.xml:38
 msgid "Armored Melee unit armed with a long reaching spear."
-msgstr ""
+msgstr "Gepanzerte Infanterie mit einem weitreichenden Speer"
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_helmking.xml:12
 msgctxt "Name of an attack, usually the weapon."
 msgid "Skull and Tail"
-msgstr ""
+msgstr "Schädel und Schwanz"
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_helmking.xml:70
 msgid "The Helmasaur King"
-msgstr ""
+msgstr "König Helmasaurus"
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_helmking.xml:71
 msgid ""
@@ -8322,7 +8348,7 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_helmking.xml:74
 msgid "Garnyle Og"
-msgstr ""
+msgstr "Garnyle Og"
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_helmking.xml:75
 msgid ""
