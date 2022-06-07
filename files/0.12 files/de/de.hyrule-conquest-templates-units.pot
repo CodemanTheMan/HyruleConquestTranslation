@@ -806,7 +806,7 @@ msgstr "Streitkolben"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_b.xml:54
 msgid "Doomknocker"
-msgstr "Streitklopfer"
+msgstr "Finstergarde"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_b.xml:55
 msgid ""
@@ -816,7 +816,7 @@ msgid ""
 "When in a melee they could pulverize and pummel just about any foe, even those with "
 "durable armor."
 msgstr ""
-"Streitklopfer waren große und Mächtige Nimbusgarden Krieger, mit vielen Jahren Ehrfahrung." 
+"Finstergarden  waren große und Mächtige Nimbusgarden Krieger, mit vielen Jahren Ehrfahrung." 
 "Mit einem mächtigen Streitkolben und starkem Schild in Hand marschieren sie unaufhaltsam"
 "auf ihre Gegner zu und ignorieren Pfeilregen ohne aus dem Gleichgewicht zu kommen. Im Zweikampf "
 "konnten sie so ziemlich Gegner pulverisieren, selbst jene mit starker Rüstung."
@@ -827,15 +827,15 @@ msgstr "Großer Kämpfer mit einem Rüstung zerstörenden Kämpfer"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_legendary.xml:47
 msgid "Legendary Doomknocker"
-msgstr "Legendärer Streitklopfer"
+msgstr "Legendäre Finstergarde"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_master.xml:43
 msgid "Master Doomknocker"
-msgstr "Meister Streitklopfer"
+msgstr "Meister Finstergarde"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_mighty.xml:44
 msgid "Mighty Doomknocker"
-msgstr "Mächtiger Streitklopfer"
+msgstr "Mächtige Finstergarde"
 
 #: simulation/templates/units/darknut/darknut_dux_b.xml:58
 msgid "Dux"
@@ -8358,7 +8358,7 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_trinexx.xml:84
 msgid "Lord of Turtle Rock"
-msgstr ""
+msgstr "Herr des Schildkrötenfelsen"
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_trinexx.xml:85
 msgid ""
@@ -8371,18 +8371,18 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_trinexx.xml:88
 msgid "Trinexx"
-msgstr ""
+msgstr "Trinexx"
 
 #: simulation/templates/units/lizalfos/lizalfos_titan_trinexx.xml:89
 msgid ""
 "Lizalfos Titan unit. Giant Missile unit that unleashes fire and ice projectiles at "
 "enemies."
-msgstr ""
+msgstr "Echsalfos Titan. Gigantische Fernkampfeinheit die feuer und eis entfesselt."
 
 #: simulation/templates/units/lizalfos/lizalfos_trapper_b.xml:41
 #: simulation/templates/units/lizalfos/lizalfos_trapper_garrison.xml:42
 msgid "Trapper"
-msgstr ""
+msgstr "Fänger"
 
 #: simulation/templates/units/lizalfos/lizalfos_trapper_b.xml:42
 #: simulation/templates/units/lizalfos/lizalfos_trapper_garrison.xml:43
@@ -8396,11 +8396,11 @@ msgstr ""
 #: simulation/templates/units/lizalfos/lizalfos_trapper_b.xml:46
 #: simulation/templates/units/lizalfos/lizalfos_trapper_garrison.xml:47
 msgid "Missile unit armed with a bow and poison arrows."
-msgstr ""
+msgstr "Bogenschützen mit Giftpfeilen"
 
 #: simulation/templates/units/lizalfos/lizalfos_treehopper_b.xml:39
 msgid "Treehopper"
-msgstr ""
+msgstr "Baumhüpfer"
 
 #: simulation/templates/units/lizalfos/lizalfos_treehopper_b.xml:40
 msgid ""
@@ -8413,7 +8413,7 @@ msgstr ""
 
 #: simulation/templates/units/lizalfos/lizalfos_treehopper_b.xml:45
 msgid "Fast moving Melee unit armed with a spear."
-msgstr ""
+msgstr "Schnelle Infanterie mit Speer"
 
 #: simulation/templates/units/lizalfos_trader_b.xml:12
 msgid "Sellsayer"
@@ -8430,11 +8430,11 @@ msgstr ""
 
 #: simulation/templates/units/mad/mad_underlingA.xml:19
 msgid "Mad Underling"
-msgstr ""
+msgstr "Wahnsiniger Unterkerl"
 
 #: simulation/templates/units/merc_daira_b.xml:39
 msgid "Daira Marauder"
-msgstr ""
+msgstr "Daira Plünderer"
 
 #: simulation/templates/units/merc_daira_b.xml:40
 msgid ""
@@ -8445,11 +8445,16 @@ msgid ""
 "are often hired as guides for travelers intending to pass through the Misery Mire. In "
 "recent times the Daira have begun to migrate south into the Gerudo Desert, where both "
 "the Gerudo and Darknuts have made uneasy pacts with them."
-msgstr ""
+msgstr 
+"Ein besonders wildes Völkchen, von denen angenommen wird das sie mit den Echsalfos verwandt sind."
+"Die Daira sind nach dem Exil vom Todesberg nach Süden in die Gohma Sümpfe und andere Moore"
+"gezogen. Sind eines der wenigen Völker das gegen die Gohma überlebt hat und werden oft als Wegweiser"
+"angeheuert. Ihre neueren Wanderungen hbaen sie in Konflikt mit anderen Völkern gebracht mit denen "
+"sie unsichere Bündnisse eingegangen sind."
 
 #: simulation/templates/units/merc_daira_b.xml:44
 msgid "Large axe wielding Melee unit that can cross bodies of water."
-msgstr ""
+msgstr "Große Axttragende Infanterie die Gewässer überqueren kann."
 
 #: simulation/templates/units/darknut/darknut_hero_alros.xml:66
 #: simulation/templates/units/darknut/darknut_hypaspist_b.xml:39
@@ -8480,7 +8485,7 @@ msgstr "Söldner"
 #: simulation/templates/units/merc_deadarm_b.xml:37
 #: simulation/templates/units/sheikah/sheikah_deadarm_b.xml:37
 msgid "Deadarm"
-msgstr ""
+msgstr "Armsauger"
 
 #: simulation/templates/units/merc_deadarm_b.xml:38
 #: simulation/templates/units/sheikah/sheikah_deadarm_b.xml:38
@@ -8489,16 +8494,19 @@ msgid ""
 " their prey, then slowly approach to decapitate them with one giant bite from their "
 "unhinged jaws."
 msgstr ""
+"Um ein Opfer zu stellen nutzen sie ihre vom Körper getrennten Arme um es zu greifen und "
+"danach langsam darauf hinzu zu marschieren und dann mit einem gewaltigen Biss den ganzen"
+"Kopf zu verschlingen."
 
 #: simulation/templates/units/merc_deadarm_b.xml:42
 #: simulation/templates/units/sheikah/sheikah_deadarm_b.xml:42
 msgid "Melee Creature unit that grabs and rips apart its enemies."
-msgstr ""
+msgstr "Nahkampfkreatur die ihre greift und in Stücke reißt"
 
 #: simulation/templates/units/merc_deadhand_b.xml:42
 #: simulation/templates/units/sheikah/sheikah_deadhand_b.xml:44
 msgid "Deadhand"
-msgstr ""
+msgstr "Hirnsauger"
 
 #: simulation/templates/units/merc_deadhand_b.xml:43
 msgid ""
@@ -8507,15 +8515,19 @@ msgid ""
 " ReDead, it's theorised these monsters were the product of unspeakable psychological "
 "trauma during their lifetime."
 msgstr ""
+"Ein enstellter Albtraum der von alten Dämonen geschaffen wurde. Hirnsauger waren zum Glück"
+"selten aber deswegen nicht weniger Furchterregend. Irgendwo zwischen den Lebenden und Toten,"
+"wie die Zombies, wird vermutet das diese Monster zu Lebzeiten unausprechlichen psychologischen"
+"Trauma ausgesetzt waren"
 
 #: simulation/templates/units/merc_deadhand_b.xml:47
 #: simulation/templates/units/sheikah/sheikah_deadhand_b.xml:51
 msgid "Large Creature unit that can summon hordes of disembodied arms to attack its targets."
-msgstr ""
+msgstr "Große Kreatur die Horden von Körperfreien Armen beschwört."
 
 #: simulation/templates/units/merc_forestthief_b.xml:42
 msgid "Forest Thief"
-msgstr ""
+msgstr "Wald Diebe"
 
 #: simulation/templates/units/merc_forestthief_b.xml:43
 msgid ""
@@ -8598,11 +8610,11 @@ msgstr ""
 #: simulation/templates/units/sheikah/sheikah_smokescreener_b.xml:62
 #: simulation/templates/units/zora/zora_boomeranger_b.xml:55
 msgid "Missile"
-msgstr ""
+msgstr "Fernkämpfer"
 
 #: simulation/templates/units/merc_geru_b.xml:38
 msgid "Geru Maceman"
-msgstr ""
+msgstr "Geru Keulenmänner"
 
 #: simulation/templates/units/merc_geru_b.xml:39
 msgid ""
@@ -8612,14 +8624,18 @@ msgid ""
 "rather, they roam the lands in groups and earn their living fighting in wars for "
 "others."
 msgstr ""
+"Einst Teil der Echsalfos, wanderten die Geru in flache Lande. Ihr Aussehen unterscheidet "
+"sich nur geringfügig von anderen Echsalfosgruppen aber ihre Kultur ist grundsätzlich anders."
+"Geru bauen und leben nicht in festen Siedlungen, sondern streifen durch die Lande und"
+"verdienen sich als bewaffnete Söldner."
 
 #: simulation/templates/units/merc_geru_b.xml:43
 msgid "Melee unit armed with a mace that can travel across bodies of water."
-msgstr ""
+msgstr "Infanterie mit einem Streitkolben, die Gewässer überqueren kann."
 
 #: simulation/templates/units/merc_gibdo_b.xml:36
 msgid "Gibdo"
-msgstr ""
+msgstr "Gibdo"
 
 #: simulation/templates/units/merc_gibdo_b.xml:37
 msgid ""
@@ -8627,14 +8643,17 @@ msgid ""
 "come to be scattered across Hyrule and serve in the armies of necromancers. They are "
 "capable for stunning their victims with a terrible screech."
 msgstr ""
+"Gibdos sind Mumienhafte untote Wesen. Sie sind über Hyrule verteilt un dienen in "
+"verschiedenen untoten Armeen. Sind in der Lage Gegner mit einem schreckenerregenden "
+"Schrei zu betäuben."
 
 #: simulation/templates/units/merc_gibdo_b.xml:41
 msgid "Support unit that stuns its enemies with a horrible screech."
-msgstr ""
+msgstr "Unterstützungseinheit die Gegner mit einem furchtbaren Schrei betäubt"
 
 #: simulation/templates/units/merc_gimos_b.xml:32
 msgid "Gimos"
-msgstr ""
+msgstr "Gimos"
 
 #: simulation/templates/units/merc_gimos_b.xml:33
 msgid ""
@@ -8642,16 +8661,19 @@ msgid ""
 "likeness can be found in ruins across Hyrule. To those old enough to know, Gimos can be"
 " found and hired to serve for Rupees."
 msgstr ""
+"Ein mysteriöses fliegendes Koboldwesen von der man dachte sie sei schon lange ausgestorben."
+"Viele Statuen in ihrem Aussehen können überall in Hyrules Ruinen gefunden werden. Die älteren"
+"Völker dienoch wissen wie sie funktionieren können sie mit Rubinen zum Kämpfen bewegen."
 
 #: simulation/templates/units/merc_gimos_b.xml:37
 msgid "Hovering Creature unit that carries a trident into battle."
-msgstr ""
+msgstr "Fliegende Kreatur die einen Dreizack in die Schlacht führt"
 
 #: simulation/templates/units/merc_gimos_b.xml:79
 msgid ""
 "Transform into Stone. (Becomes Stationary and can't attack, but gains massive health "
 "regeneration)"
-msgstr ""
+msgstr " Versteinern (Wird unbeweglich, aber regeneriert sich rasant.)"
 
 #: simulation/templates/units/boss/boss_madmanhandla.xml:29
 #: simulation/templates/units/boss/boss_moldarach.xml:29
@@ -8785,11 +8807,11 @@ msgstr ""
 #: simulation/templates/units/zora/zora_morphite_b.xml:25
 #: simulation/templates/units/zora/zora_sapwarden_upg.xml:15
 msgid "Circular"
-msgstr ""
+msgstr "Kreisflächig"
 
 #: simulation/templates/units/merc_goriya_b.xml:50
 msgid "Goriya"
-msgstr ""
+msgstr "Goriya"
 
 #: simulation/templates/units/merc_goriya_b.xml:51
 msgid ""
@@ -8798,10 +8820,14 @@ msgid ""
 "Boomerangs, which they use to stun their enemies and allow their employers to kill or "
 "take hostage."
 msgstr ""
+"Eine wilde Truppe von Söldnern die über Jahrhunderte verschiedenen Königreichen und"
+"Armeen arbeiteten. Sie haben den Umgang mit dem Bumerang gemeistert, welchen sie nutzen"
+"um ihre Gegner zu betäuben und ihren Auftraggeber die Möglichkeit geben zu töten oder"
+"Gefangene zu nehmen."
 
 #: simulation/templates/units/merc_goriya_b.xml:55
 msgid "Missile unit that tosses boomerangs at several targets simultaneously."
-msgstr ""
+msgstr "Distanzkämpfer der mehrere Gegner gleichzeitig mit einem Bumerang trifft"
 
 #: simulation/templates/units/merc_mago_b.xml:41
 msgid "Mago"
@@ -8851,7 +8877,7 @@ msgstr ""
 #: simulation/templates/units/zora/zora_sapwarden_b.xml:48
 #: simulation/templates/units/zora/zora_sparkmage_b.xml:51
 msgid "Mage"
-msgstr ""
+msgstr "Magier"
 
 #: simulation/templates/units/merc_meteo_b.xml:48
 msgid "Meteo Magician"
