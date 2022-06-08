@@ -976,35 +976,39 @@ msgstr "Div"
 
 #: simulation/templates/structures/deku/deku_barracks.xml:33
 msgid "Mustering Base"
-msgstr ""
+msgstr "Shromažďovací Základna"
 
 #: simulation/templates/structures/deku/deku_barracks.xml:34
 msgid ""
 "Mustering Bases trained Scrubs for battle, and within a short time the mob of thugs "
 "could be turned into neat rank and file soldiers."
 msgstr ""
+"Shromažďovací Základny trénovaly Rosti ba bitvu, a za krátká čas mohl být houf "
+"výtřžníků být proměněn na uspořádané řadové mužstvo."
 
 #: simulation/templates/structures/deku/deku_barracks.xml:36
 msgid "Trains basic Deku Scrub units."
-msgstr ""
+msgstr "Trénuje základní jednotky Deku Rostů."
 
 #: simulation/templates/structures/deku/deku_barracksB.xml:33
 msgid "Baba Patch"
-msgstr ""
+msgstr "Babská Zahrada"
 
 #: simulation/templates/structures/deku/deku_barracksB.xml:34
 msgid ""
 "A garden dedicated to growing and cultivating the violent Deku Babas. Scrubs had many "
 "uses for these creatures, from guard dog duty to augmenting their war efforts."
 msgstr ""
+"Zahrada postavená k sázení a kultivaci násilných Deku Bab. Rosti měli pro tato stvoření "
+"mnoho využití, od hlídání po nasazení k válečnému úsilí."
 
 #: simulation/templates/structures/deku/deku_barracksB.xml:36
 msgid "Trains Deku Babas and related units."
-msgstr ""
+msgstr "Trénuje Deku Baby a související jednotky."
 
 #: simulation/templates/structures/deku/deku_basin.xml:25
 msgid "Cleansing Basin"
-msgstr ""
+msgstr "Očisťovací Nádrž"
 
 #: simulation/templates/structures/deku/deku_basin.xml:26
 msgid ""
@@ -1013,14 +1017,18 @@ msgid ""
 "the disease. It was wise for the Scrubs to build such a place to help prevent an "
 "outbreak and heal Scrubs from their injuries."
 msgstr ""
+"Rozšíření Vzteklé Sněti byl pro Deku Rosty neustálým problémem. Přestože nebyla "
+"léčitelná, umývání v těchto vodách v hlubokých lesech se zdálo zpomalit šíření nemoci. "
+"Pro Rosty bylo moudré stavět takováto místa aby předešli nákaze a uzdravili Rosty z "
+"jejich zranění."
 
 #: simulation/templates/structures/deku/deku_basin.xml:29
 msgid "Researches abilities related to controlling Mad Scrub Disease."
-msgstr ""
+msgstr "Zkoumá schopnosti související s kontrolou nemoci Vzteklé Sněti."
 
 #: simulation/templates/structures/deku/deku_blacksmith.xml:30
 msgid "Loggery"
-msgstr ""
+msgstr "Dřevořez"
 
 #: simulation/templates/structures/deku/deku_blacksmith.xml:31
 msgid ""
@@ -1028,14 +1036,17 @@ msgid ""
 "crafted and painted logs. Scrubs had a knack for growing, cutting down, and using the "
 "forests around them rather efficiently to do just that."
 msgstr ""
+"Rosti byli pozoruhodní pro svá vysoce organizovaná a hranatá města postavena z dobře "
+"zpracovaných a nabarvených kmenů. Rosti měli talent pro pěstování, kácení, a využívání "
+"lesů kolem nich přesně k tomuto účelu."
 
 #: simulation/templates/structures/deku/deku_blacksmith.xml:34
 msgid "Builds Deku Siege units."
-msgstr ""
+msgstr "Staví obléhací jednotky Deku Rostů."
 
 #: simulation/templates/structures/deku/deku_blacksmithB.xml:30
 msgid "Nut Carvers"
-msgstr ""
+msgstr "Ořechořezbaři"
 
 #: simulation/templates/structures/deku/deku_blacksmithB.xml:31
 msgid ""
@@ -1044,44 +1055,49 @@ msgid ""
 "extraordinaily large Deku Nuts in order to create a firm defensive shell that could "
 "cover their entire bodies."
 msgstr ""
+"Deku ořechy byly skvělý zdroj jídla pro Rosty, ale jejich tvrdé pecky šly často do "
+"odpadu. Zdá se že Rosti si toho všimli, a schválně rostli neobyčejně velké Deku ořechy "
+"aby vytvořili tvrdou obranou skořápku která byla schopná pokrýt celá jejich těla."
 
 #: simulation/templates/structures/deku/deku_blacksmithB.xml:34
 msgid "Upgrades Deku Scrub armor and attack methods."
-msgstr ""
+msgstr "Vylepšuje formy brnění a útoku Deku Rostů."
 
 #: simulation/templates/structures/deku/deku_camp.xml:32
 msgid "Camp"
-msgstr ""
+msgstr "Tábor"
 
 #: simulation/templates/structures/deku/deku_camp.xml:35
 msgid "Center of a Deku Scrub Camp."
-msgstr ""
+msgstr "Centrum tábora Deku Rostů."
 
 #: simulation/templates/structures/deku/deku_civil_centre.xml:92
 msgid "Large Encampment"
-msgstr ""
+msgstr "Velké Ležení"
 
 #: simulation/templates/structures/deku/deku_civil_centre.xml:93
 msgid ""
 "A Large Encampment set up by Deku Scrubs, serving as a base of operations in this "
 "region. Its presence likely indicates that the Scrubs will expand into a city."
 msgstr ""
+"Velké ležení postaveno Deku Rosty, sloužící jako základna operací v regionu. Jeho "
+"přítomnost pravděpodobně znamená že Rosti se rozšíří v město."
 
 #: simulation/templates/structures/deku/deku_civil_centre.xml:95
 msgid ""
 "Center of a Deku Scrub Settlement. Summons Deku Scrub Heroes. Manned with Scrublings "
 "for defense."
-msgstr ""
+msgstr "Centrum osady Deku Rostů. Povolává jejich hrdiny. Obsazeno Podrosty pro obranu."
 
 #: simulation/templates/structures/deku/deku_civil_centreB.xml:11
 #: simulation/templates/structures/deku/deku_expander.xml:11
 #: simulation/templates/structures/gohma/gohma_temple_praetorian.xml:8
 msgid "CivilCentre"
-msgstr ""
+msgstr "Občanské Centrum."
 
 #: simulation/templates/structures/deku/deku_civil_centreB.xml:36
 msgid "Small Encampment"
-msgstr ""
+msgstr "Malé Ležení"
 
 #: simulation/templates/structures/deku/deku_civil_centreB.xml:37
 msgid ""
@@ -1094,10 +1110,12 @@ msgid ""
 "A smaller Civil Center that all Resources can be dropped off here. The Small Encampent "
 "is built with plots that structures can be added to."
 msgstr ""
+"Malé ležení postaveno Deku Rosty, sloužící jako základna operací v regionu. Jeho "
+"přítomnost pravděpodobně znamená že Rosti se rozšíří v město."
 
 #: simulation/templates/structures/deku/deku_defense_tower.xml:86
 msgid "Lookout Wards"
-msgstr ""
+msgstr "Hlídčí Věžička"
 
 #: simulation/templates/structures/deku/deku_defense_tower.xml:87
 msgid ""
@@ -1105,42 +1123,48 @@ msgid ""
 "They were always on patrol, always on guard, and always watching over their domains "
 "with vigiliance."
 msgstr ""
+"Rosti měli mnoho nepřátel, většinou kvůli jejich nepřátelských a neracionálních povahách. "
+"Byli vždy na hlídce, vždy na stráži, a vždy bděle sledovali své říše."
 
 #: simulation/templates/structures/deku/deku_defense_tower.xml:90
 msgid "Tower that spits out Deku Nuts at enemies."
-msgstr ""
+msgstr "Vež která plive na své nepřátele Deku ořechy."
 
 #: simulation/templates/structures/deku/deku_expander.xml:66
 msgid "Crossway"
-msgstr ""
+msgstr "Křižovatka"
 
 #: simulation/templates/structures/deku/deku_expander.xml:67
 msgid ""
 "A crossroads between other Deku Scrub buildings, this area allows for more buildings to"
 " be expanded from the Deku Scrub Settlement."
 msgstr ""
+"Křiovatka mezi jinými budovami Deku Rostů, toto prostranství umožňuje pro stavbu více "
+"budov a rozšíření z Deku Rostské osady."
 
 #: simulation/templates/structures/deku/deku_expander.xml:70
 msgid "Expands Deku Scrub base, allowing for more buildings."
-msgstr ""
+msgstr "Rozšiřuje osadu Deku Rostů, umožňující více budov."
 
 #: simulation/templates/structures/deku/deku_farmstead.xml:25
 msgid "Meganut Tree"
-msgstr ""
+msgstr "Megaořechový Strom"
 
 #: simulation/templates/structures/deku/deku_farmstead.xml:26
 msgid ""
 "A very large tree with even larger Deku Nuts. They are far too large for the Scrubs to "
 "eat, but their durability makes for excellent armor."
 msgstr ""
+"Velmi mohutný strom s ještě mohutnějšími Deku Ořechy. Jsou moc velké aby je jedli i Rosti, "
+"ale jejich odolnost z nich dělá excelentní brnění."
 
 #: simulation/templates/structures/deku/deku_farmstead.xml:28
 msgid "A large Meganut Tree that can be harvested for Ore."
-msgstr ""
+msgstr "Velký Megaořechový strom který může být sklizen pro rudu."
 
 #: simulation/templates/structures/deku/deku_field.xml:18
 msgid "Nut Lawn"
-msgstr ""
+msgstr "Ořechová Zahrada"
 
 #: simulation/templates/structures/deku/deku_field.xml:19
 msgid ""
@@ -1148,14 +1172,17 @@ msgid ""
 "could grow in just about any climate. Scrubs only needed to eat one a day, and a small "
 "plot of dirt set aside for their growth was enough to feed a small community."
 msgstr ""
+"Promární jídelníček Rostu se zdál být jistá odrůda Deku Rostů schopných růst v asi "
+"jakémkoliv klimatu. Rostům stačilo sníst jen jednu denně, a malá parcela hlíny stačila "
+"nakrmit celou komunitu."
 
 #: simulation/templates/structures/deku/deku_field.xml:21
 msgid "Grows Deku Nuts that can be harvested for Food."
-msgstr ""
+msgstr "Pěstuje Deku ořechy které mohou být sklizeny pro jídlo."
 
 #: simulation/templates/structures/deku/deku_fortress.xml:143
 msgid "Blockhouse"
-msgstr ""
+msgstr "Blokový Dům"
 
 #: simulation/templates/structures/deku/deku_fortress.xml:144
 msgid ""
@@ -1163,17 +1190,20 @@ msgid ""
 "Encampment. The Blockhouse itself is manned by Nut spitting Scrubs and can garrison "
 "batallions of units inside to bolster its attack power."
 msgstr ""
+Blokový Dům slouží jako odolná obranná platforma chránící ležení Deku Rostů. Samotný "
+"Blokový Dům je obsazen ořechy-plivajícími Rosty a je schopný pojmout čety jednotek "
+"k posílení své palebné síly."
 
 #: simulation/templates/structures/deku/deku_fortress.xml:147
 #: simulation/templates/structures/goron/goron_fortress.xml:114
 #: simulation/templates/structures/labrynna/labrynna_fortress.xml:164
 #: simulation/templates/structures/zora/zora_fortress.xml:101
 msgid "Giant Defense fortification that attacks many enemies and generates Territory."
-msgstr ""
+msgstr "Obří obranné opevnění které útočí na mnoho nepřátel a generuje teritorium."
 
 #: simulation/templates/structures/deku/deku_greenhouse.xml:30
 msgid "Greenhouse"
-msgstr ""
+msgstr "Skleník"
 
 #: simulation/templates/structures/deku/deku_greenhouse.xml:31
 msgid ""
@@ -1181,14 +1211,17 @@ msgid ""
 "ideal environment for new Scrubling seeds to grow and sprout. Some of the strongest and"
 " smartest Scrubs came about from being grown in this nurturing environment."
 msgstr ""
+"Velká komora postavena aby zachytila horko slunce, Skleník Deku Rostů byl ideální "
+"životní prostředí kde mohly nová semínka Rostů růst a vzkvétat. Někteří z nejsilnějších "
+"a nejchytřejších rostů vyrostli v tomto prostředí."
 
 #: simulation/templates/structures/deku/deku_greenhouse.xml:34
 msgid "Trains several Deku Scrub units."
-msgstr ""
+msgstr "Trénuje několik jednotek Deku Rostů."
 
 #: simulation/templates/structures/deku/deku_house.xml:35
 msgid "Slums"
-msgstr ""
+msgstr "Slumy"
 
 #: simulation/templates/structures/deku/deku_house.xml:36
 msgid ""
@@ -1197,6 +1230,10 @@ msgid ""
 "time, these living conditions tended to create a lot of conflict and breed a more thug-"
 "like population of Scrubs. Mad Scrub disease tended to break out in these districts."
 msgstr ""
+"Domov nejnižších tříd Rostů v jejich společnosti, Slumy nebyly nic víc než uzavřené "
+"sekce nacpané co nejvíce nevzdělanými občany co to šlo. Přestože na čas byly dobré, "
+"jejich životní prosstředí tvořila mnoho konfliktu a šlechtila výtržnictějští obyvatelsvo "
+"Rostů. Nemoc Vzteklé Sněti často vypukovala v těchto čtvrtích."
 
 #: simulation/templates/structures/deku/deku_lumber.xml:19
 #: simulation/templates/structures/gerudo/gerudo_lumber.xml:19
@@ -1207,7 +1244,7 @@ msgstr ""
 #: simulation/templates/structures/ordona/ordona_lumber.xml:19
 #: simulation/templates/structures/sheikah/sheikah_lumber.xml:19
 msgid "Lumbermill"
-msgstr ""
+msgstr "Dřevorubec"
 
 #: simulation/templates/structures/deku/deku_lumber.xml:20
 #: simulation/templates/structures/deku/deku_lumber.xml:22
@@ -1228,11 +1265,11 @@ msgstr ""
 #: simulation/templates/structures/sheikah/sheikah_lumber.xml:20
 #: simulation/templates/structures/sheikah/sheikah_lumber.xml:22
 msgid "A small Lumbermill for dropping off and processing wood."
-msgstr ""
+msgstr "Malá dřevorubecká stanice ke sběru a procesu dřeva."
 
 #: simulation/templates/structures/deku/deku_market.xml:35
 msgid "Deku Mart"
-msgstr ""
+msgstr "Deku Trh"
 
 #: simulation/templates/structures/deku/deku_market.xml:36
 msgid ""
@@ -1240,14 +1277,17 @@ msgid ""
 "Scrubs managed to set up a Deku Mart. Countless Business Scrubs would buy and sell "
 "their wares, and trade with foreign powers brought all manner of trinkets and Rupees."
 msgstr ""
+"Velká kolekce obchodů a stánků, komerce v lesech se zvýšila vždy když Rosti dokázali "
+"otevřít nový z těchto trhů. Nespočet Byznysrostů taky nakupovalo a prodávalo jejich "
+"zboží, a obchodování s cizími mocnostmi přineslo všelijaké tretky a Rupie."
 
 #: simulation/templates/structures/deku/deku_mercs.xml:25
 msgid "Boiling Cauldron"
-msgstr ""
+msgstr "Vařící Kotel"
 
 #: simulation/templates/structures/deku/deku_mercs.xml:26
 msgid "Allows the Deku Scrubs to hire Mercenary units."
-msgstr ""
+msgstr "Umožňuje Deku Rostům najímat žoldácké jednotky."
 
 #: simulation/templates/structures/deku/deku_mercs.xml:29
 msgid ""
@@ -1255,16 +1295,19 @@ msgid ""
 "those they deemed worthy of wrath, the Scrubs would boil alive before the entire "
 "community. All are welcome to watch the festivities."
 msgstr ""
+"Deku Rosti mohli být vyburcováni k pořádnému vzteku pro tak malé tvory. Ty které "
+"považovali za hodné jejich hněvu Rosti uvařili zaživa před celou komunitou. Všichni "
+"jsou vítáni pozorovat veselí."
 
 #: simulation/templates/structures/deku/deku_outpost.xml:58
 msgid "Encampment"
-msgstr ""
+msgstr "Ležení"
 
 #: simulation/templates/structures/deku/deku_outpost.xml:61
 msgid ""
 "Center of a Deku Scrub Outpost. Summons Deku Scrub Heroes. Manned with Scrublings for "
 "defense."
-msgstr ""
+msgstr "Centrum základny Deku Rostů. Povolává jejich hrdiny. Obsazeno podrosty pro obranu."
 
 #: simulation/templates/structures/deku/deku_plotA.xml:22
 #: simulation/templates/structures/deku/deku_plotB.xml:25
@@ -1273,7 +1316,7 @@ msgstr ""
 #: simulation/templates/structures/deku/deku_plot_wall.xml:25
 #: simulation/templates/structures/deku/deku_plot_walltower.xml:25
 msgid "Construction Plot"
-msgstr ""
+msgstr "Stavební Parcela"
 
 #: simulation/templates/structures/deku/deku_plotA.xml:23
 #: simulation/templates/structures/deku/deku_plotA.xml:25
@@ -1282,64 +1325,64 @@ msgstr ""
 #: simulation/templates/structures/deku/deku_plotC.xml:23
 #: simulation/templates/structures/deku/deku_plotC.xml:25
 msgid "Construct Deku Buildings on this space."
-msgstr ""
+msgstr "Na tomto prostoru vybudujte Deku budovy."
 
 #: simulation/templates/structures/deku/deku_plotA.xml:50
 msgid "Build Crossroads District on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Křižovatku."
 
 #: simulation/templates/structures/deku/deku_plotA.xml:59
 #: simulation/templates/structures/deku/deku_plotC.xml:50
 msgid "Build Slums on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Slumy."
 
 #: simulation/templates/structures/deku/deku_plotA.xml:68
 #: simulation/templates/structures/deku/deku_plotC.xml:59
 msgid "Build a Nut Lawn on this plot."
-msgstr ""
+msgstr "Postavit na této Parcele Ořechovou Zahradu."
 
 #: simulation/templates/structures/deku/deku_plotA.xml:77
 #: simulation/templates/structures/deku/deku_plotC.xml:68
 msgid "Build a Meganut Tree on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Meraořechový Strom."
 
 #: simulation/templates/structures/deku/deku_plotA.xml:86
 #: simulation/templates/structures/deku/deku_plotC.xml:77
 msgid "Build a Deku Mart on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Deku Trh."
 
 #: simulation/templates/structures/deku/deku_plotA.xml:95
 #: simulation/templates/structures/deku/deku_plotC.xml:86
 msgid "Build a Mustering Base on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Shromažďovací Základnu."
 
 #: simulation/templates/structures/deku/deku_plotA.xml:105
 #: simulation/templates/structures/deku/deku_plotC.xml:96
 msgid "Build a Beetle Barn on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Broučí Stáj."
 
 #: simulation/templates/structures/deku/deku_plotA.xml:115
 #: simulation/templates/structures/deku/deku_plotC.xml:106
 msgid "Build a Menagerie on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Zvěřinec."
 
 #: simulation/templates/structures/deku/deku_plotA.xml:127
 #: simulation/templates/structures/deku/deku_plotC.xml:118
 msgid "Build a Greenhouse on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Skleník."
 
 #: simulation/templates/structures/deku/deku_plotA.xml:138
 #: simulation/templates/structures/deku/deku_plotC.xml:129
 msgid "Build a Nut Carver on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Ořechořezbaře."
 
 #: simulation/templates/structures/deku/deku_plotB.xml:54
 msgid "Grow a Giant Deku Baba on this plot."
-msgstr ""
+msgstr "Zasadit na tuto parcelu Obří Deku Babu."
 
 #: simulation/templates/structures/deku/deku_plotB.xml:63
 msgid "Build a Lookout Wards on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Hlídčí Věžičku."
 
 #: simulation/templates/structures/deku/deku_plot_gate.xml:26
 #: simulation/templates/structures/deku/deku_plot_gate.xml:28
@@ -1348,7 +1391,7 @@ msgstr ""
 #: simulation/templates/structures/deku/deku_plot_walltower.xml:26
 #: simulation/templates/structures/deku/deku_plot_walltower.xml:28
 msgid "Construct Deku Walls on this space."
-msgstr ""
+msgstr "Postavit zde Deku zdi."
 
 #: simulation/templates/structures/deku/deku_plot_gate.xml:53
 #: simulation/templates/structures/deku/deku_plot_wall.xml:53
@@ -1356,11 +1399,11 @@ msgstr ""
 #: simulation/templates/structures/goron/goron_plot_walllong.xml:53
 #: simulation/templates/structures/goron/goron_plot_walltower.xml:53
 msgid "Build a Wall on this plot."
-msgstr ""
+msgstr "Postavit zde zeď."
 
 #: simulation/templates/structures/deku/deku_stables.xml:30
 msgid "Beetle Barn"
-msgstr ""
+msgstr "Broučí Stáj"
 
 #: simulation/templates/structures/deku/deku_stables.xml:31
 msgid ""
@@ -1368,14 +1411,17 @@ msgid ""
 "domesticated. They often treated the creatures like adopted cousins, building "
 "comfortable walled off barns for them to live in."
 msgstr ""
+"Rohlavové z Hlubokých lesů jsou jedni z mála tvorů které Rosti úspěšně domestikovali. "
+"Často se k těmto tvorům chovali jako k adoptovaným bratrancům, a stavěli jim pohodlné "
+"stáje aby v nich mohli žít."
 
 #: simulation/templates/structures/deku/deku_stables.xml:34
 msgid "Trains Orhat Bettle units."
-msgstr ""
+msgstr "Trénuje Rohlavské jednotly."
 
 #: simulation/templates/structures/deku/deku_stablesB.xml:30
 msgid "Menagerie"
-msgstr ""
+msgstr "Zvěřinec"
 
 #: simulation/templates/structures/deku/deku_stablesB.xml:31
 msgid ""
@@ -1383,14 +1429,17 @@ msgid ""
 "manner of monsterous forest creatures. While they were able to acheive some level of "
 "domestication, Deku Scrubs’ control over these creatures was limited at best."
 msgstr ""
+"Do vnitřků těchto čtvrtí často Deku Rosti chytali a zavírali mnohé odrůdy příšerných "
+"lesních tvorů. Přestože byli schopni dosáhnou nějaké úrovně domestiace, vláda Deku "
+"Rostů nad těmito tvory byla přinejlepším limitovaná."
 
 #: simulation/templates/structures/deku/deku_stablesB.xml:34
 msgid "Trains a variety of Creature units."
-msgstr ""
+msgstr "Trénuje různé tvory."
 
 #: simulation/templates/structures/deku/deku_stage.xml:38
 msgid "Stage"
-msgstr ""
+msgstr "Jeviště"
 
 #: simulation/templates/structures/deku/deku_stage.xml:39
 msgid ""
@@ -1398,10 +1447,13 @@ msgid ""
 "plays. The Stage often served as the heart of a Scrub community and many Hornlings "
 "would play and dance on the platform."
 msgstr ""
+"Cizincům byly o Rostech málo známé jejich propracované hudební divadelní představení. "
+"Jeviště často sloužily jako srdce Rostských komunit a mnozí Rosti hráli a tancovali "
+"na těchto platformách."
 
 #: simulation/templates/structures/deku/deku_stage.xml:42
 msgid "Cultural building that increases the range of Territory that Civil Centers generate."
-msgstr ""
+msgstr "Kulturní budova která zvyšuje rozsah teritoria generovaného občanskými centry."
 
 #: simulation/templates/structures/deku/deku_stage.xml:43
 #: simulation/templates/structures/gohma/gohma_temple_praetorian.xml:52
@@ -1409,7 +1461,7 @@ msgstr ""
 #: simulation/templates/structures/hylian/hylian_statue_knightA.xml:33
 #: simulation/templates/structures/zora/zora_temple.xml:33
 msgid "Culture"
-msgstr ""
+msgstr "Kulturní"
 
 #: simulation/templates/structures/deku/deku_storehouse.xml:32
 msgid "Supply Stores"
@@ -1429,7 +1481,7 @@ msgstr ""
 #: simulation/templates/structures/hylian/hylian_wood_wall_gate.xml:15
 #: simulation/templates/structures/sheikah/sheikah_wall_gate.xml:15
 msgid "Wooden Gate"
-msgstr ""
+msgstr "Dřevěá Brána"
 
 #: simulation/templates/structures/deku/deku_wall_gate.xml:16
 #: simulation/templates/structures/deku/deku_wall_long.xml:13
@@ -1438,7 +1490,7 @@ msgstr ""
 #: simulation/templates/structures/deku/deku_wall_tower.xml:13
 #: simulation/templates/structures/deku/deku_wallset.xml:5
 msgid "A makeshift wooden wall to keep the elements out of Deku territory."
-msgstr ""
+msgstr "Provizorní dřevená brána která drží nebezpečné elementy z Rostského teritoria."
 
 #: simulation/templates/structures/deku/deku_wall_gate.xml:18
 #: simulation/templates/structures/deku/deku_wall_long.xml:15
@@ -1516,7 +1568,7 @@ msgstr ""
 #: simulation/templates/structures/zora/zora_wall_tower.xml:15
 #: simulation/templates/structures/zora/zora_wallset.xml:7
 msgid "Protective Wall to hold off attackers."
-msgstr ""
+msgstr "Ochraná zeď která drží útočníky venku."
 
 #: simulation/templates/structures/deku/deku_wall_long.xml:12
 #: simulation/templates/structures/deku/deku_wall_medium.xml:12
@@ -1531,27 +1583,27 @@ msgstr ""
 #: simulation/templates/structures/sheikah/sheikah_wall_short.xml:12
 #: simulation/templates/structures/sheikah/sheikah_wallset.xml:8
 msgid "Wooden Wall"
-msgstr ""
+msgstr "Dřevěná zeď"
 
 #: simulation/templates/structures/deku/deku_wall_long.xml:27
 #: simulation/templates/structures/hylian/hylian_wood_wall_long.xml:36
 #: simulation/templates/structures/sheikah/sheikah_wall_long.xml:36
 msgid "Convert to Wooden Gate."
-msgstr ""
+msgstr "Konvertovat na dřevěnou bránu."
 
 #: simulation/templates/structures/deku/deku_wall_tower.xml:12
 #: simulation/templates/structures/hylian/hylian_wood_wall_tower.xml:12
 #: simulation/templates/structures/sheikah/sheikah_wall_tower.xml:12
 msgid "Wooden Wall Tower"
-msgstr ""
+msgstr "Dřevěná Hradební Věž"
 
 #: simulation/templates/structures/deku/deku_wall_tower.xml:35
 msgid "Man this tower with Scrublings."
-msgstr ""
+msgstr "Nasaďtě na tuto věž Podrosty."
 
 #: simulation/templates/structures/deku/deku_wonder.xml:12
 msgid "Wooded Temple"
-msgstr ""
+msgstr "Zarostlý Chrám"
 
 #: simulation/templates/structures/deku/deku_wonder.xml:13
 msgid ""
@@ -1560,54 +1612,60 @@ msgid ""
 "resemblence to their civilization. The massive temple is home to many Orhat Beetle "
 "nests and the structure seems to have sunken into the ground since its construction."
 msgstr ""
+"Velký a starověký chrám v Dekuho lesech. Rosti tvrdí že ho postavily před věky, ale "
+"navzdory jejich ikonografii vyryté do jeho kamene, konstrukce má málo podoby jejich "
+"civilizaci. Tento masivní chrám je domovem mnoha hnízd Rohlavů a zdá se že se celá "
+"budova od stavby ponořila do země."
 
 #: simulation/templates/structures/deku/deku_wonder.xml:16
 msgid "The Deku Scrub Wonder, allows you to summon Stagnox."
-msgstr ""
+msgstr "Div Deku Rostů."
 
 #: simulation/templates/structures/destructible_desert_rockA.xml:25
 msgid "Rocks"
-msgstr ""
+msgstr "Kameny"
 
 #: simulation/templates/structures/destructible_desert_rockA.xml:26
 #: simulation/templates/structures/destructible_desert_rockA.xml:29
 msgid "This rock formation looks like it can be destroyed."
-msgstr ""
+msgstr "Tato kamenná formace ze tdá být zničitelná."
 
 #: simulation/templates/structures/destructible_desert_rockA.xml:28
 msgid "Destructible Rocks"
-msgstr ""
+msgstr "Zničitelné Kameny"
 
 #: simulation/templates/structures/destructible_tarmgateA.xml:25
 #: simulation/templates/structures/destructible_vinewall_dekuA.xml:25
 msgid "Barrier"
-msgstr ""
+msgstr "Bariéra"
 
 #: simulation/templates/structures/destructible_tarmgateA.xml:26
 #: simulation/templates/structures/destructible_tarmgateA.xml:29
 msgid ""
 "Large gate baring passage into the Tarm Ruins. It seems like it might be vulnerable to "
 "siege weapons."
-msgstr ""
+msgstr 
+"Velká brána blokující cestu do Tarmských zřícenin. Zdá se že by mohla být zranitelná "
+"proti obléhacím zbraním."
 
 #: simulation/templates/structures/destructible_tarmgateA.xml:28
 msgid "Tarminian Gate"
-msgstr ""
+msgstr "Tarmská Brána"
 
 #: simulation/templates/structures/destructible_vinewall_dekuA.xml:26
 #: simulation/templates/structures/destructible_vinewall_dekuA.xml:29
 msgid "This cluster of vines looks like it can be destroyed."
-msgstr ""
+msgstr "Tento porost révy vypadá že by mohl být zničen."
 
 #: simulation/templates/structures/destructible_vinewall_dekuA.xml:28
 msgid "Vine Wall"
-msgstr ""
+msgstr "Vinná Zeď"
 
 #: simulation/templates/structures/dummy_wall.xml:22
 #: simulation/templates/structures/dummy_wallA.xml:22
 #: simulation/templates/structures/minor_lonlon/lonlon_plot_medium.xml:22
 msgid "Medium Construction Plot"
-msgstr ""
+msgstr "Střední Stavební Parcela"
 
 #: simulation/templates/structures/dummy_wall.xml:23
 #: simulation/templates/structures/dummy_wallA.xml:23
@@ -1638,7 +1696,7 @@ msgstr ""
 #: simulation/templates/structures/stalfos/stalfos_ruinsA_anc.xml:42
 #: simulation/templates/structures/stalfos/stalfos_temple.xml:35
 msgid "."
-msgstr ""
+msgstr "."
 
 #: simulation/templates/structures/dummy_wall.xml:25
 #: simulation/templates/structures/dummy_wallA.xml:25
@@ -1647,11 +1705,11 @@ msgstr ""
 #: simulation/templates/structures/hylian/hylian_plot_small.xml:25
 #: simulation/templates/structures/minor_lonlon/lonlon_plot_medium.xml:25
 msgid "Constructs Hylian Buildings on this space."
-msgstr ""
+msgstr "Na tomto místě staví Hyliánské budovy."
 
 #: simulation/templates/structures/fairy/fairy_barracks.xml:36
 msgid "Fairy Fountain"
-msgstr ""
+msgstr "Vílí Fontána"
 
 #: simulation/templates/structures/fairy/fairy_barracks.xml:37
 msgid ""
@@ -1660,14 +1718,18 @@ msgid ""
 "ruinous structure served that purpose is anyone’s guess. These remnants now serve as "
 "gathering places for smaller Fairies."
 msgstr ""
+"Účel Vílích fontán nebyl nikdy znám, ovšem mýty a legendy naznačují že byly jednoduše "
+"bysliště pro tyto magická stvoření. Jak tak otevřená a zřícená struktura mohla tomuto "
+"účelu sloužit je jesně nejasnější. Tyto zříceniny teď slouží jako shromažďovací místa "
+"pro menší víly."
 
 #: simulation/templates/structures/fairy/fairy_barracks.xml:40
 msgid "Trains basic Fairy units."
-msgstr ""
+msgstr "Trénuje základní Vílí jednotky."
 
 #: simulation/templates/structures/fairy/fairy_barracksB.xml:36
 msgid "Great Fairy Fountain"
-msgstr ""
+msgstr "Fontána Velkých Víl"
 
 #: simulation/templates/structures/fairy/fairy_barracksB.xml:37
 msgid ""
@@ -1676,14 +1738,18 @@ msgid ""
 "were often faught between factions to capture and steal the power residing in these "
 "waters. There is no account of success."
 msgstr ""
+"Tyto extrémně vzácné fontány byly prakticky legendou, ovšem pár obskurních zpráv o nich "
+"existuje v historii. Je domníváno že jsou domovy mocných Velkých víl, a války byly "
+"bojovány mezi frakcemi doufající obsadit a ukrást moc v těchto vodách. Nejsou žádné "
+"zprávy o úspěchu."
 
 #: simulation/templates/structures/fairy/fairy_barracksB.xml:40
 msgid "Trains large and powerful Fairy units."
-msgstr ""
+msgstr "Trénuje velké a mocné Vílí jednotky."
 
 #: simulation/templates/structures/fairy/fairy_barracksC.xml:33
 msgid "Tarm Dolmen"
-msgstr ""
+msgstr "Tarmský Dolmen"
 
 #: simulation/templates/structures/fairy/fairy_barracksC.xml:34
 #: simulation/templates/structures/fairy/fairy_outpost.xml:30
@@ -1693,14 +1759,17 @@ msgid ""
 "to mark the ground where Fairies had died. Time seems to stand still near these "
 "engimatic monuments as the inanimate rocks seem to speak and move about."
 msgstr ""
+"Podivná formace kamenů, mnozí se domnívali že Víly uspořádávaly tyto monolity aby "
+"označili zemi kde Víly umřely. Čas stál na místě v okolí těchto enigmatických monumentů "
+"zatímco tyto neživé kameny zdánlivě mluvily a hýbaly se."
 
 #: simulation/templates/structures/fairy/fairy_barracksC.xml:37
 msgid "Summons Fey units for the Fairies."
-msgstr ""
+msgstr "Povolává některé jednotky pro víly."
 
 #: simulation/templates/structures/fairy/fairy_blacksmith.xml:33
 msgid "Waters of Heaven"
-msgstr ""
+msgstr "Vody z Nebec"
 
 #: simulation/templates/structures/fairy/fairy_blacksmith.xml:34
 msgid ""
@@ -1709,14 +1778,17 @@ msgid ""
 "money and other doodads in hopes of receiving something in return from the Fairies who "
 "lorded over."
 msgstr ""
+"Legenda říká že tyto magické vodopády plnily příní komukoliv kdo poskytl dost velkou "
+"majetní oběť jejim vodám. Cestovatelé jim chodili nabízet peníze a jiné tretky v "
+"aději že za ně dostanou něco na oplátku od víl které vodopádům vládly."
 
 #: simulation/templates/structures/fairy/fairy_blacksmith.xml:37
 msgid "Improves various Fairy units."
-msgstr ""
+msgstr "Zlepšuje různé vílí jednotky."
 
 #: simulation/templates/structures/fairy/fairy_blacksmithB.xml:33
 msgid "Misthenge"
-msgstr ""
+msgstr "Mlžný Kruh"
 
 #: simulation/templates/structures/fairy/fairy_blacksmithB.xml:34
 msgid ""
@@ -1726,10 +1798,15 @@ msgid ""
 "magic too powerful to be known by the world was kept locked away under the stones of "
 "these ringed henges."
 msgstr ""
+"Možná jedno z nejvzácnějších Vílích míst ve všech psaných záznamech, Mlžný Kruh byl "
+"považován za nemožný najit pokud ho její Vílí paní nenechala na něj narazit. Bylo "
+"domníváno že jsou knihovny všeho druhu starověkých tajemství, a legendy říkají že "
+"magie moc mocná aby byla známa světem byla zapečetěna pod kameny těchto zahnutých "
+"kruhů."
 
 #: simulation/templates/structures/fairy/fairy_blacksmithB.xml:37
 msgid "Discovers Fairy secrets to improve various features."
-msgstr ""
+msgstr "Objevuje Vílí tajemství k vylepšení různých schopností."
 
 #: simulation/templates/structures/fairy/fairy_camp.xml:32
 #: simulation/templates/structures/fairy/fairy_camp_spring.xml:32
@@ -1739,7 +1816,7 @@ msgstr ""
 #: simulation/templates/structures/fairy/fairy_mining_spring.xml:19
 #: simulation/templates/structures/fairy/fairy_storehouse.xml:11
 msgid "Menhir"
-msgstr ""
+msgstr "Menhir"
 
 #: simulation/templates/structures/fairy/fairy_camp.xml:33
 #: simulation/templates/structures/fairy/fairy_camp_spring.xml:33
@@ -1754,30 +1831,33 @@ msgid ""
 "Fairies, the world around them would slowly change as food and material fed their "
 "being."
 msgstr ""
+"Malý ale podivný kámen tyčící v zemi, jenž je prý dílem Víl. Pro mnohé pozorovatele, "
+"tento kámen prostě trčel v zemi a nedělal nic. Pro Víly se svět kolem nich pomalu "
+"měnil zatímco se jídlo a materiál absorbovaly do jejich bytosti."
 
 #: simulation/templates/structures/fairy/fairy_camp.xml:35
 #: simulation/templates/structures/fairy/fairy_camp_spring.xml:35
 msgid "Absorbs resources at a Camp and provides population."
-msgstr ""
+msgstr "Absorbuje zdroje a poskytuje obyvatelstvo."
 
 #: simulation/templates/structures/fairy/fairy_civil_centre.xml:35
 msgid "Wishing Well"
-msgstr ""
+msgstr "Studna Přání"
 
 #: simulation/templates/structures/fairy/fairy_civil_centre.xml:38
 msgid "Center of a Fairy Settlement. Summons Fairy Heroes."
-msgstr ""
+msgstr "Centrum Vílích osad. Povolává Vílí hrdinky."
 
 #: simulation/templates/structures/fairy/fairy_lumber.xml:22
 #: simulation/templates/structures/fairy/fairy_lumber_spring.xml:22
 #: simulation/templates/structures/fairy/fairy_mining.xml:22
 #: simulation/templates/structures/fairy/fairy_mining_spring.xml:22
 msgid "Absorbs nearby resources and provides population."
-msgstr ""
+msgstr "Absorbuje blízké zdroje a poskytuje obyvateltvo."
 
 #: simulation/templates/structures/fairy/fairy_market.xml:28
 msgid "Meeting Spring"
-msgstr ""
+msgstr "Stdánka Setkání"
 
 #: simulation/templates/structures/fairy/fairy_market.xml:29
 msgid ""
@@ -1785,105 +1865,111 @@ msgid ""
 "outsiders. Many would flock to these springs in hope of gaining the favor of Fairies, "
 "bringing gifts and services as offerings."
 msgstr ""
+"Čas od času jsou příběhy ve kterých Víla odtají místo jejich domova cizincům. Mnozí se "
+"hrnuli k těmto studánkám v naději získat náklonnost Víl, a přinášeli dárky a služby jako "
+"oběti."
 
 #: simulation/templates/structures/fairy/fairy_market.xml:32
 msgid ""
 "Allows the trading of resources on the market or with your allies. Also allows the "
 "Fairies to hire Mercenaries."
 msgstr ""
+"Umožňuje obchod se zdroji na trhu nebo s vašimi spojenci. Také umožňuje Vílám "
+"verbovat žoldáky."
 
 #: simulation/templates/structures/fairy/fairy_market.xml:33
 msgid "Economig"
-msgstr ""
+msgstr "Ekonomická"
 
 #: simulation/templates/structures/fairy/fairy_outpost.xml:29
 #: simulation/templates/structures/fairy/fairy_outpost_spring.xml:29
 msgid "Dolmen"
-msgstr ""
+msgstr "Dolmen"
 
 #: simulation/templates/structures/fairy/fairy_outpost.xml:32
 #: simulation/templates/structures/fairy/fairy_outpost_spring.xml:32
 msgid "Absorbs resources at an Outpost and provides population."
-msgstr ""
+msgstr "Absorbuje zdroje a poskytuje obyvatelstvo."
 
 #: simulation/templates/structures/fairy/fairy_plot_medium_autumn.xml:22
 #: simulation/templates/structures/fairy/fairy_plot_medium_spring.xml:22
 #: simulation/templates/structures/fairy/fairy_plot_medium_summer.xml:22
 #: simulation/templates/structures/fairy/fairy_plot_medium_winter.xml:22
 msgid "Fairy Ring"
-msgstr ""
+msgstr "Vílí Kruh"
 
 #: simulation/templates/structures/fairy/fairy_plot_medium_autumn.xml:25
 #: simulation/templates/structures/fairy/fairy_plot_medium_spring.xml:25
 #: simulation/templates/structures/fairy/fairy_plot_medium_summer.xml:25
 #: simulation/templates/structures/fairy/fairy_plot_medium_winter.xml:25
 msgid "Constructs Fairy Buildings on this space."
-msgstr ""
+msgstr "Vybudovat na tomto místě Vílí budovy."
 
 #: simulation/templates/structures/fairy/fairy_plot_medium_autumn.xml:51
 #: simulation/templates/structures/fairy/fairy_plot_medium_spring.xml:51
 #: simulation/templates/structures/fairy/fairy_plot_medium_summer.xml:51
 #: simulation/templates/structures/fairy/fairy_plot_medium_winter.xml:51
 msgid "Build Meeting Spring on this plot."
-msgstr ""
+msgstr "Vybudovat na tomto místě Studánku Setkání."
 
 #: simulation/templates/structures/fairy/fairy_plot_medium_autumn.xml:62
 #: simulation/templates/structures/fairy/fairy_plot_medium_spring.xml:62
 #: simulation/templates/structures/fairy/fairy_plot_medium_summer.xml:62
 #: simulation/templates/structures/fairy/fairy_plot_medium_winter.xml:62
 msgid "Build Fairy Fountain on this plot."
-msgstr ""
+msgstr "Vybudovat na tomto místě Vílí Fontánu."
 
 #: simulation/templates/structures/fairy/fairy_plot_medium_autumn.xml:71
 #: simulation/templates/structures/fairy/fairy_plot_medium_spring.xml:71
 #: simulation/templates/structures/fairy/fairy_plot_medium_summer.xml:71
 #: simulation/templates/structures/fairy/fairy_plot_medium_winter.xml:71
 msgid "Build Great Fairy Fountain on this plot."
-msgstr ""
+msgstr "Vybudovat na tomto místě Fontánu Velkých Víl."
 
 #: simulation/templates/structures/fairy/fairy_plot_medium_autumn.xml:80
 #: simulation/templates/structures/fairy/fairy_plot_medium_spring.xml:80
 #: simulation/templates/structures/fairy/fairy_plot_medium_summer.xml:80
 #: simulation/templates/structures/fairy/fairy_plot_medium_winter.xml:80
 msgid "Build Maku Grove on this plot."
-msgstr ""
+msgstr "Vybudovat na tomto místě Maku Háj."
 
 #: simulation/templates/structures/fairy/fairy_plot_medium_autumn.xml:89
 #: simulation/templates/structures/fairy/fairy_plot_medium_spring.xml:89
 #: simulation/templates/structures/fairy/fairy_plot_medium_summer.xml:89
 #: simulation/templates/structures/fairy/fairy_plot_medium_winter.xml:89
 msgid "Build Misthenge on this plot."
-msgstr ""
+msgstr "Vybudovat na tomto místě Mlžný Kruh."
 
 #: simulation/templates/structures/fairy/fairy_plot_medium_autumn.xml:99
 #: simulation/templates/structures/fairy/fairy_plot_medium_spring.xml:99
 #: simulation/templates/structures/fairy/fairy_plot_medium_summer.xml:99
 #: simulation/templates/structures/fairy/fairy_plot_medium_winter.xml:99
 msgid "Build Waters of Heaven on this plot."
-msgstr ""
+msgstr "Vybudovat na tomto místě Vody z Nebes."
 
 #: simulation/templates/structures/fairy/fairy_smruinsA.xml:31
 msgid "Mystic Ruins"
-msgstr ""
+msgstr "Mystické Zříceniny"
 
 #: simulation/templates/structures/fairy/fairy_smruinsA.xml:35
 msgid ""
 "Ruins that have been populated by Fairies. Allows the construction of two additional "
 "structures."
 msgstr ""
+"Zříceniny které byly obydleny Vílami. Umožňuje stavbu dvou dalších budov."
 
 #: simulation/templates/structures/fairy/fairy_storehouse.xml:35
 msgid "Magic Menhir"
-msgstr ""
+msgstr "Kouzelný Menhir"
 
 #: simulation/templates/structures/fairy/fairy_storehouse.xml:38
 msgid "Gathers resources within its aura."
-msgstr ""
+msgstr "Sbírá zdroje ve své auře."
 
 #: simulation/templates/structures/fairy/fairy_sundial.xml:8
 #: simulation/templates/structures/fairy/fairy_sundial.xml:39
 msgid "Sundial"
-msgstr ""
+msgstr "Sluneční Hodiny"
 
 #: simulation/templates/structures/fairy/fairy_sundial.xml:40
 msgid ""
@@ -1891,46 +1977,49 @@ msgid ""
 "seasons. These giant sundials would glow with different colors reflecting the time and "
 "place, though in truth this connection might go the other way around."
 msgstr ""
+"Tajemné zříceniny jsou domněle nějak spojeny s mocí Víl nad ročním obdobím. Tyto obří "
+"sluneční hodiny zářily jinou barvou podle času a místa, ale ve skutečnosti to asi bylo "
+"naopak."
 
 #: simulation/templates/structures/fairy/fairy_sundial.xml:42
 msgid "Structure that allows the Fairies to change the Season that they operate under."
-msgstr ""
+msgstr "Struktura která umožňuje Vílám změnit roční období pod kterým operují."
 
 #: simulation/templates/structures/fairy/fairy_sundial.xml:81
 msgid "Choose Spring as your first Season."
-msgstr ""
+msgstr "Vybrat Jaro jako první roční období."
 
 #: simulation/templates/structures/fairy/fairy_sundial.xml:89
 msgid "Choose Summer as your first Season."
-msgstr ""
+msgstr "Vybrat Léto jako první roční období."
 
 #: simulation/templates/structures/fairy/fairy_sundial.xml:97
 msgid "Choose Autumn as your first Season."
-msgstr ""
+msgstr "Vybrat Podzim jako první roční období."
 
 #: simulation/templates/structures/fairy/fairy_sundial.xml:105
 msgid "Choose Winter as your first Season."
-msgstr ""
+msgstr "Vyybrat Zimu jako první roční období."
 
 #: simulation/templates/structures/fairy/fairy_sundial_autumn.xml:4
 msgid "Autumn Sundial"
-msgstr ""
+msgstr "Podzimní Sluneční Hodiny"
 
 #: simulation/templates/structures/fairy/fairy_sundial_spring.xml:4
 msgid "Spring Sundial"
-msgstr ""
+msgstr "Jarní Sluneční Hodiny"
 
 #: simulation/templates/structures/fairy/fairy_sundial_summer.xml:4
 msgid "Summer Sundial"
-msgstr ""
+msgstr "Letní Sluneční Hodiny"
 
 #: simulation/templates/structures/fairy/fairy_sundial_winter.xml:4
 msgid "Winter Sundial"
-msgstr ""
+msgstr "Zimní Sluneční Hodiny"
 
 #: simulation/templates/structures/fairy/fairy_wonder.xml:18
 msgid "Unicorn Fountain"
-msgstr ""
+msgstr "Fontána Jednorožce"
 
 #: simulation/templates/structures/fairy/fairy_wonder.xml:19
 msgid ""
@@ -1938,32 +2027,35 @@ msgid ""
 "for this fabled wonder, and none have found it. Legend says that only a Fairy may visit"
 " the Unicorn Fountain, and she may permit a mortal friend a glimpse in their sleep."
 msgstr ""
+"Mýtická fontána stále považována za fiktivní. Mnozi celé své životy hledali tenhle bájný "
+"div, a nikdo z nich ji nenašel. Legenda říká že pouze víla může navštívit Fontánu "
+"Jednorožce, a smrtelnému příteli může dovolit ji spatřit ve spánku."
 
 #: simulation/templates/structures/fairy/fairy_wonder.xml:22
 msgid "The Fairy Wonder, allows you to summon the Maku Tree of Horon."
-msgstr ""
+msgstr "Vílí Mýt."
 
 #: simulation/templates/structures/fence_long.xml:12
 #: simulation/templates/structures/fence_short.xml:12
 msgid "Fence"
-msgstr ""
+msgstr "Plot"
 
 #: simulation/templates/structures/fence_long.xml:13
 msgid "Long Wooden Fence"
-msgstr ""
+msgstr "Dlouhý Dřevěný Plot"
 
 #: simulation/templates/structures/fence_short.xml:13
 msgid "Short Wooden Fence"
-msgstr ""
+msgstr "Krátký Dřevný Plot"
 
 #: simulation/templates/structures/field_cabbage.xml:18
 msgid "Cabbage Field"
-msgstr ""
+msgstr "Pole Kedluben"
 
 #: simulation/templates/structures/field_cabbage.xml:19
 #: simulation/templates/structures/field_cabbage.xml:21
 msgid "A field of Cabbage to harvest."
-msgstr ""
+msgstr "Pole Kedluben na skizeň."
 
 #: simulation/templates/structures/darknut/darknut_field.xml:56
 #: simulation/templates/structures/darknut/darknut_jeweller.xml:30
@@ -2015,63 +2107,63 @@ msgstr ""
 #: simulation/templates/structures/zora/zora_field.xml:29
 #: simulation/templates/structures/zora/zora_market.xml:40
 msgid "Economic"
-msgstr ""
+msgstr "Ekonomické"
 
 #: simulation/templates/structures/field_lettuceA.xml:18
 msgid "Lettuce Field"
-msgstr ""
+msgstr "Pole Hlávek"
 
 #: simulation/templates/structures/field_lettuceA.xml:19
 #: simulation/templates/structures/field_lettuceA.xml:21
 msgid "A field of Lettuce to harvest."
-msgstr ""
+msgstr "Pole hlávek na sklizeň."
 
 #: simulation/templates/structures/field_melon.xml:18
 msgid "Melon Field"
-msgstr ""
+msgstr "Pole Melounů"
 
 #: simulation/templates/structures/field_melon.xml:19
 #: simulation/templates/structures/field_melon.xml:21
 msgid "A field of Melon to harvest."
-msgstr ""
+msgstr "Pole melounů na sklizeň."
 
 #: simulation/templates/structures/field_pepper.xml:18
 msgid "Pepper Field"
-msgstr ""
+msgstr "Pole Paprik"
 
 #: simulation/templates/structures/field_pepper.xml:19
 #: simulation/templates/structures/field_pepper.xml:21
 msgid "A field of Pepper to harvest."
-msgstr ""
+msgstr "Pole paprik na sklizeň."
 
 #: simulation/templates/structures/field_squash.xml:18
 msgid "Squash Field"
-msgstr ""
+msgstr "Pole Tykví"
 
 #: simulation/templates/structures/field_squash.xml:19
 #: simulation/templates/structures/field_squash.xml:21
 msgid "A field of Squash to harvest."
-msgstr ""
+msgstr "Pole tykví na sklizeň."
 
 #: simulation/templates/structures/field_strawberry.xml:18
 msgid "Strawberry Field"
-msgstr ""
+msgstr "Jahodové Pole"
 
 #: simulation/templates/structures/field_strawberry.xml:19
 #: simulation/templates/structures/field_strawberry.xml:21
 msgid "A field of Strawberry to harvest."
-msgstr ""
+msgstr "Pole jahod na sklzeň."
 
 #: simulation/templates/structures/field_wheat.xml:18
 #: simulation/templates/structures/generic_field.xml:8
 #: simulation/templates/structures/ordona/ordona_fieldB.xml:4
 msgid "Wheat Field"
-msgstr ""
+msgstr "Pole Pšenice"
 
 #: simulation/templates/structures/field_wheat.xml:19
 #: simulation/templates/structures/field_wheat.xml:21
 msgid "A field of Wheat to harvest."
-msgstr ""
+msgstr "Pole pšenice na sklizeň."
 
 #: simulation/templates/structures/deku/deku_fortress.xml:27
 #: simulation/templates/structures/deku/deku_fortress.xml:148
@@ -2097,7 +2189,7 @@ msgstr ""
 #: simulation/templates/structures/zora/zora_fortress.xml:27
 #: simulation/templates/structures/zora/zora_fortress.xml:102
 msgid "Fortress"
-msgstr ""
+msgstr "Pevnost"
 
 #: simulation/templates/structures/fortress_wallfixer.xml:39
 msgid "FORTRESS FOR WALL HOLDER"
@@ -2110,7 +2202,7 @@ msgstr ""
 
 #: simulation/templates/structures/gerudo/gerudo_bar.xml:65
 msgid "Civilian"
-msgstr ""
+msgstr "Civilní"
 
 #: simulation/templates/structures/gerudo/gerudo_bar.xml:66
 msgid ""
