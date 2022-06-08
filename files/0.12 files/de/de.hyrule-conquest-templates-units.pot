@@ -9254,7 +9254,7 @@ msgstr "Magier"
 
 #: simulation/templates/units/merc_meteo_b.xml:48
 msgid "Meteo Magician"
-msgstr ""
+msgstr "Meteor Magus"
 
 #: simulation/templates/units/merc_meteo_b.xml:49
 msgid ""
@@ -9262,14 +9262,18 @@ msgid ""
 "effortless across the sky. Their motives are lost amongst all, but the right number of "
 "rupees might convince them to rain down molted rocks on your foes."
 msgstr ""
+"Mysteriöser Magier aus einer lang vergessenen Zeiten. Meteor Magier lachen und Tanzen"
+"mühelos durch den Himmel und ihre Motive gerieten schon vor langer Zeit in Vergessenheit. "
+"Aber mit der richtigen Summe an Rubinen kann man sie vielleicht überzeugen Feuer und Stein"
+"auf seine Feinde niederregen zu lassen."
 
 #: simulation/templates/units/merc_meteo_b.xml:53
 msgid "Hovering Mage unit that hurls flaming rocks at their targets."
-msgstr ""
+msgstr "Schwebender Magier der brennende Felsen auf seine Ziele schleudert"
 
 #: simulation/templates/units/merc_pikku_b.xml:33
 msgid "Pikku"
-msgstr ""
+msgstr "Räuber"
 
 #: simulation/templates/units/merc_pikku_b.xml:34
 msgid ""
@@ -9278,14 +9282,17 @@ msgid ""
 "greater. For the right price they will be more than happy to aid you in the theft and "
 "death of your enemies."
 msgstr ""
+"Nomadische und Fuchshafte Kreaturen die generell in bewaldeten Gebieten leben. Bei den Pikku"
+"geht es nur um sich selbst. Ihnen geht es nur um materiellen Wohlstand und sie kämpfen für "
+"nichts anderes. Für den richtigen Preis helfen sie einem bei einem Diebstahl oder Mord."
 
 #: simulation/templates/units/merc_pikku_b.xml:38
 msgid "Stealthed Melee unit that has a high dodge chance."
-msgstr ""
+msgstr "Getarnte Infanterie mit hoher Ausweichrate"
 
 #: simulation/templates/units/merc_polsvoice_b.xml:32
 msgid "Pols Voice"
-msgstr ""
+msgstr "Polhasen"
 
 #: simulation/templates/units/merc_polsvoice_b.xml:33
 msgid ""
@@ -9295,16 +9302,20 @@ msgid ""
 "right price a Pols Voice can be hired to take on your enemies, latching on like a "
 "viscious leech with their giant gaping toothed maws."
 msgstr ""
+"Polhasen sind mysteriöse und zurückgezogene Fabelwesen die nur selten zum Vorschein treten."
+"Viele glauben das sie nichts mehr sind als ein Märchen, aber die mit antikem Wissen können "
+"finden und mit ihnen umgehen. Für den richtigen Preis können Polhasen Gegner angreifen an"
+"die sie sich wie Egel mit ihren riesigen Mäulern ansaugen "
 
 #: simulation/templates/units/merc_polsvoice_b.xml:37
 msgid "Strange Creature unit that hops right into their enemies to attack."
-msgstr ""
+msgstr "Seltsame Kreatur die zum Angriff auf ihre Gegner zuhoppelt."
 
 #: simulation/templates/units/merc_stalchild_b.xml:33
 #: simulation/templates/units/stalfos/stalfos_civilianA.xml:15
 #: simulation/templates/units/stalfos/stalfos_stalchildA.xml:30
 msgid "Stalchild"
-msgstr ""
+msgstr "Knochengänger"
 
 #: simulation/templates/units/merc_stalchild_b.xml:34
 msgid ""
@@ -9314,16 +9325,20 @@ msgid ""
 "some practitioners of raising the dead with enough ambition would not shy away from "
 "summoning these unholy abominations."
 msgstr ""
+"Zusammengewürfelte Überreste von Hyrules toten Kindern, gelten als die größte Abscheulichkeit"
+"die jeexistierten. Viele Totenbeschwörer vermeiden es diese Kreaturen zu erschaffen auch wenn"
+"das eher an der kleine größe und geringen haltbarkeit liegt. Nichtsdestotrotz beschwören jene"
+"die ambitioniert genug sind ohne zurückschrecken solche unheiligen Abscheulichkeiten."
 
 #: simulation/templates/units/merc_stalchild_b.xml:38
 msgid ""
 "Small and cheap Melee unit that can gang up on and swamr enemies, mauling them to death"
 " with their little claws."
-msgstr ""
+msgstr "Kleine und billige Infanterie die gegner in großen Massen mit ihren kleinen Klauen zerfleischt"
 
 #: simulation/templates/units/merc_taros_b.xml:58
 msgid "Taros"
-msgstr ""
+msgstr "Taros"
 
 #: simulation/templates/units/merc_taros_b.xml:59
 msgid ""
@@ -9332,14 +9347,18 @@ msgid ""
 "right pay they can convinced to fight as soldiers for hire and use their charging "
 "trident attacks to impale their targets."
 msgstr ""
+"Große bullige Stierwesen die in vielen Landen von hyrule leben. Die Taros bevorzugen "
+"es abseits der Zivilisation und an den Rändern der Welt zu leben. Für den richtigen "
+"Preis sind bereit sich als Söldner zu verdingen und Gegner mit ihren Dreizäcken "
+"aufzuspießen."
 
 #: simulation/templates/units/merc_taros_b.xml:63
 msgid "Fast charging Melee unit that rams into targets with its trident."
-msgstr ""
+msgstr "Schnelle stürmende Infanterie die ihren Dreizack in Ziele rammt."
 
 #: simulation/templates/units/merc_tinsuit_b.xml:40
 msgid "Tinsuit"
-msgstr ""
+msgstr "Zinnsoldat"
 
 #: simulation/templates/units/merc_tinsuit_b.xml:41
 msgid ""
@@ -9349,14 +9368,18 @@ msgid ""
 "pike and a suit of armor, the Tinsuits are especially favored for fighting against "
 "cavalry."
 msgstr ""
+"EIne wandernde Gruppe von großen Männern die sich Zinnsoldaten nennen. Es ist wenig bekannt"
+"über den Ursprung dieser Söldner. Was man weiß ist das sie exellente Soldaten sind die für "
+"jeden Kämpfen der richitg zahlt. Mit einer langen Lanze die eine Querstange unter der Spitze"
+"hat und einer guten RÜstung werden die Zinnsoldaten vorallem im Kampf gegen Kavallerie eingesetzt"
 
 #: simulation/templates/units/merc_tinsuit_b.xml:45
 msgid "Large and strong Melee unit armed with a spear."
-msgstr ""
+msgstr "Große Starke Infanteire mit Lanzen bewaffnet"
 
 #: simulation/templates/units/merc_wosu_b.xml:41
 msgid "Wosu Knight"
-msgstr ""
+msgstr "Wosu Ritter"
 
 #: simulation/templates/units/merc_wosu_b.xml:42
 msgid ""
@@ -9366,24 +9389,30 @@ msgid ""
 "themselves will deny such claims. They pledge their services to the highest bidder and "
 "are more than willing to fight anyone's war if the pay is right."
 msgstr ""
+"Edle Ritter die über die kalten Gebirge Hyrules siedelten. Wosu sind stattliche Krieger "
+"die eine goldene Rüstung und ein mächtiges Schwert ihr eigen nennen. Legenden besagen das"
+"sie von den Nimbusgarden des Westens abstammen aber sie selber leugnen solche Gerüchte."
+"Sie bieten ihre Dienste dem höchstbietenden Kämpfen in jeden Krieg so lange der Presi stimmt"
 
 #: simulation/templates/units/merc_wosu_b.xml:46
 msgid "Hulking Melee unit that deals Knockback Damage."
-msgstr ""
+msgstr "Stattliche Infanterie die Rückstoß verursacht."
 
 #: simulation/templates/units/moblin/moblin_baddyram_b.xml:47
 msgid "Bugblin Baddy Ram"
-msgstr ""
+msgstr "Schlankblin Schurken Ramm"
 
 #: simulation/templates/units/moblin/moblin_baddyram_b.xml:48
 msgid ""
 "Crafty little Bugblins they made a pretty cool big stick to knock down the gates! Get "
 "one of these beauty sticks out and take down them walls and houses!"
 msgstr ""
+"Clevere klaine Shlankblins, sie haben groß Stock genommen um Tore kaputten. Mach eins diesen"
+"Scönen Stock und mach Wälle und Hausis kaputt"
 
 #: simulation/templates/units/moblin/moblin_baddyram_b.xml:51
 msgid "Bangin Melee Siege unit goes a banging on the enemy doors to knock em down!"
-msgstr ""
+msgstr "Krachbummende Belagerwaffe die Blöditüren krachbummt und kaputtet."
 
 #: simulation/templates/units/moblin/moblin_bar_packed.xml:18
 msgid "Bestin' Bar n Drinks"
@@ -9405,7 +9434,7 @@ msgstr ""
 
 #: simulation/templates/units/moblin/moblin_barracksA_packed.xml:18
 msgid "Blin Base n' Camp"
-msgstr ""
+msgstr "Blin Basis un' Lager"
 
 #: simulation/templates/units/moblin/moblin_barracksA_packed.xml:19
 msgid ""
@@ -9413,19 +9442,23 @@ msgid ""
 "old camp the best place for us Moblins and bigger Blins of all types to get the sharp "
 "stick and nice armor to go fight the baddies!"
 msgstr ""
+"Blins immer bereit für Haue aber manchmal sind sie richtig bereit für Haue! Diese"
+"alte Lager sind beste Platz für uns Moblins und andere Großblins um spitz stock"
+"und gute pantzer gegen Blödis zu kriegen."
+
 
 #: simulation/templates/units/moblin/moblin_barracksA_packed.xml:21
 msgid "Makes the Moblins and lots of fighting Blin units!"
-msgstr ""
+msgstr "Macht Moblins und andere Haue Blins einheiten"
 
 #: simulation/templates/units/moblin/moblin_barracksA_packed.xml:58
 msgid "Unpack this Blin Base n' Camp."
-msgstr ""
+msgstr "Entpack dieses Blin Lager un' Camp"
 
 #: simulation/templates/units/moblin/moblin_barracksB_packed.xml:18
 #: simulation/templates/units/moblin/moblin_barracksD_packed.xml:18
 msgid "Big n' Best Blin Camp"
-msgstr ""
+msgstr "Größt und Best Blin Lager"
 
 #: simulation/templates/units/moblin/moblin_barracksB_packed.xml:19
 msgid ""
@@ -9433,19 +9466,22 @@ msgid ""
 "helps us fight down them ugly Hylians!  They real big and real scary! They can knock "
 "down a Moblin house just by bonking into it!"
 msgstr ""
+"JOOOOOOO der Schrankblin! Die sin so groß un gruselig! Moblins mögen groß unstark!"
+"Hilft uns dummi hylianer zu kloppen! Die sin wirklich groß un richtig gruselig!"
+"Die könn'n 'n Moblin hausi kaputtn nur durchs reinbonkn!"
 
 #: simulation/templates/units/moblin/moblin_barracksB_packed.xml:21
 msgid "Makes the biggest and bestest Blin units!"
-msgstr ""
+msgstr "Macht die größt'n un' die best'n Blin ainhaiten."
 
 #: simulation/templates/units/moblin/moblin_barracksB_packed.xml:58
 #: simulation/templates/units/moblin/moblin_barracksD_packed.xml:58
 msgid "Unpack this Big n' Best Blin Camp."
-msgstr ""
+msgstr "Entpack dieses Größt und Best Blin Lager"
 
 #: simulation/templates/units/moblin/moblin_barracksC_packed.xml:18
 msgid "Contraption Camp"
-msgstr ""
+msgstr "Gerät Lager"
 
 #: simulation/templates/units/moblin/moblin_barracksC_packed.xml:19
 msgid ""
@@ -9453,14 +9489,17 @@ msgid ""
 "awesome that they take the tree with em wherever they go! Smart little Bugblins! They "
 "also make smart contraptions to go knock downb the baddies houses! "
 msgstr ""
+"UI die Schlankblins habn tolles Bauhhausi! So kühl! Schlankblin Baumhausi ist so supi die"
+"es überall mitnehmn wo se gehn. Schlaui kleine Schlankblins. Die machn auch"
+"supi Geräte um blödi hausis zu kaputtn!"
 
 #: simulation/templates/units/moblin/moblin_barracksC_packed.xml:21
 msgid "Get the cool Siege units from here!"
-msgstr ""
+msgstr "Hol die kühlen Belagerwaffen von hier!"
 
 #: simulation/templates/units/moblin/moblin_barracksC_packed.xml:58
 msgid "Unpack this Contraption Cam."
-msgstr ""
+msgstr "Entpack dieses Geräte lager"
 
 #: simulation/templates/units/moblin/moblin_barracksD_packed.xml:19
 msgid ""
@@ -9468,28 +9507,34 @@ msgid ""
 "helps us fight down them ugly Hylians! Oh man and Uncle Gooma and Hinox! They real big "
 "and real scary! They can knock down a Moblin house just by bonking into it!"
 msgstr ""
+"JOOOOOOO der Schrankblin! Die sin so groß un gruselig! Moblins mögen groß un stark!"
+"Hilft uns dummi hylianer zu kloppen! Oh mann un ongle Guma! Die sin wirklich groß"
+"un richtig gruselig! Die könnn Moblin hausi kaputtn nur durchs reinbonkn!"
 
 #: simulation/templates/units/moblin/moblin_barracksD_packed.xml:21
 msgid "Moblins get really big guys from this camp!"
-msgstr ""
+msgstr "Moblins kriegen die richtigen Großen Kerlis von hier"
 
 #: simulation/templates/units/moblin/moblin_barracks_packed.xml:18
 msgid "Lil Blin Camp"
-msgstr ""
+msgstr "Klein Blin Lager"
 
 #: simulation/templates/units/moblin/moblin_barracks_packed.xml:19
 msgid ""
 "Ahhh some Blins cursed with being really small like! They small, and weak, and very "
 "dumb! But even small Blin can bash em on the head! Small Blins go here!"
 msgstr ""
+"Eieiei manche Blins sin vahflucht mit kleinsein. Die sin klein, und schwach, und supi dummi!"
+"Aber auch kline Blins könnn auf'n Kopp haun! Keine Blins sin hier! "
+""
 
 #: simulation/templates/units/moblin/moblin_barracks_packed.xml:21
 msgid "Makes small Blin units!"
-msgstr ""
+msgstr "Macht kleine Blin einheiten"
 
 #: simulation/templates/units/moblin/moblin_barracks_packed.xml:58
 msgid "Unpack this Lil Blin Camp Camp."
-msgstr ""
+msgstr "Entpack dieses kleine Blin Lager"
 
 #: simulation/templates/units/moblin/moblin_bigblin_b.xml:4
 #: simulation/templates/units/moblin/moblin_bullborider_b.xml:4
@@ -9497,11 +9542,11 @@ msgstr ""
 #: simulation/templates/units/moblin/moblin_thug_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Club"
-msgstr ""
+msgstr "Gnübbl"
 
 #: simulation/templates/units/moblin/moblin_bigblin_b.xml:60
 msgid "Bigblin"
-msgstr ""
+msgstr "Schrankblin"
 
 #: simulation/templates/units/moblin/moblin_bigblin_b.xml:61
 msgid ""
@@ -9509,14 +9554,17 @@ msgid ""
 " best! When a Bigblin comes out for the fun we all have fun! One Bigblin makes all the "
 "baddies go flying around all over, we get the biggest laugh outta that!"
 msgstr ""
+"Große obahkühle spasszait Blin, kusah von Moblins. Die Schrankblins sind die Größeßten und"
+"Besteßten! Wenn ein Schrankblin losgäht dann ist spasszait für alleh. Ein SChrankblin macht"
+"alle blödies Fögel, wir kriegen größte lacha."
 
 #: simulation/templates/units/moblin/moblin_bigblin_b.xml:65
 msgid "Big Creature with even bigger club to hit the baddies on the head!"
-msgstr ""
+msgstr "Große Kreatur mit noch größaren Gnübbel um Blödis auf Kopp zu hauen!"
 
 #: simulation/templates/units/moblin/moblin_blacksmithA_packed.xml:18
 msgid "Smart Science Makers"
-msgstr ""
+msgstr "kleveren wissen Schafter"
 
 #: simulation/templates/units/moblin/moblin_blacksmithA_packed.xml:19
 msgid ""
@@ -9524,14 +9572,17 @@ msgid ""
 "ones know how to read, and they read from the Olden Timey books and make super awersome"
 " weapons and armor for all the Blins! They the best!”"
 msgstr ""
+"Wir Moblins habn nicht Angst zu sagn wir sind nicht klügeßte... aber manchma sinmas!"
+"Die schlauis könn lesn  und lesn altzeitis bücha und machn supidupi waffn un Banzer "
+"für alle Blin! Die sind beßteßten!"
 
 #: simulation/templates/units/moblin/moblin_blacksmithA_packed.xml:21
 msgid "Moblins get smarter stuff from this place!"
-msgstr ""
+msgstr "Moblins machen klever zeugs von diesem Plat"
 
 #: simulation/templates/units/moblin/moblin_blacksmithA_packed.xml:58
 msgid "Unpack this Smart Science Makers."
-msgstr ""
+msgstr "Entpack diese kleveren wissen Schafter"
 
 #: simulation/templates/units/moblin/moblin_blacksmith_packed.xml:18
 msgid "Handmedown Armor Place"
@@ -9554,7 +9605,7 @@ msgstr ""
 
 #: simulation/templates/units/moblin/moblin_bokoblin_b.xml:33
 msgid "Bokoblin Rabble"
-msgstr ""
+msgstr "Bokblin Pöbler"
 
 #: simulation/templates/units/moblin/moblin_bokoblin_b.xml:34
 msgid ""
@@ -9562,14 +9613,18 @@ msgid ""
 " the fight, cause they listen and run right in! Sure they get beat up a lot because "
 "they are so small, but we can always find more of them to send in! Go Bokoblins!"
 msgstr ""
+"Bokblins sin viel laicht klein , aba die sin auch rictig muhtig! Moblins schicken se in"
+"die Hauerei denn die hörn un renn glaich rain! Die kriegn zwar selba aufs Maul weil se so"
+"klain sin aba wir findn imma wieda welche! Los Bokblin"
+""
 
 #: simulation/templates/units/moblin/moblin_bokoblin_b.xml:38
 msgid "Really cheap bunch of little Bokoblins! They got swords and shields!"
-msgstr ""
+msgstr "richtig klaine haufn bokblins! Die ham schwerd und schildt!"
 
 #: simulation/templates/units/moblin/moblin_bokonox_b.xml:38
 msgid "Bokonox"
-msgstr ""
+msgstr "Boknox"
 
 #: simulation/templates/units/moblin/moblin_bokonox_b.xml:40
 msgid ""
@@ -9578,12 +9633,18 @@ msgid ""
 "pretty good at takin the big bad beating from the baddies! Send em in first to get hit "
 "and we all come in after to hit back!"
 msgstr ""
+"Also an ainem Tag ham sich ain dumma Schlankblin un ain dumma Hinox geschieden ain Baby"
+"zu machen. So äkelig! Aba schau ma was se gemachten! Großer dummy Boknox! Die sind langsam"
+"aba die sin auch gut drinne aufs Maul zu kriegen von Blödis! Schick se zuerst damit se "
+"den arsten treffah kriegen und wir kommn dann für zurückhaue!"
+""
 
 #: simulation/templates/units/moblin/moblin_bokonox_b.xml:45
 msgid ""
 "Only cool boss Glutko can make these guys! Big bad Creature unit can take seriously "
 "lots of hits before he goes down!"
 msgstr ""
+"Nur kühler Boss Glutko kann se machen! Große Kreatur die supi vile hauis abkriegen kann"
 
 #: simulation/templates/units/moblin/moblin_bonepit_packed.xml:18
 msgid "Big Bone Pit"
@@ -9609,12 +9670,12 @@ msgstr ""
 #: simulation/templates/units/moblin/moblin_bugblin_upg.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Various"
-msgstr ""
+msgstr "Vahschiedenes"
 
 #: simulation/templates/units/moblin/moblin_bugblin_b.xml:32
 #: simulation/templates/units/moblin/moblin_bugblin_thrown_b.xml:29
 msgid "Bugblin Battler"
-msgstr ""
+msgstr "Schlankblin Kähmpfa"
 
 #: simulation/templates/units/moblin/moblin_bugblin_b.xml:33
 #: simulation/templates/units/moblin/moblin_bugblin_thrown_b.xml:30
@@ -9623,64 +9684,74 @@ msgid ""
 "crafty on their feet! Get a big enough rabble and they can go a bashing in the country "
 "side and get the nice loot!"
 msgstr ""
+"Mhm die Schlankblins sind ain lust und lustiga Haufen! Nich ganz so muhtig aber die "
+"sin schlau mit den Beinen! Großer haufen und die könnn die lan schäfte kaputtn und "
+"tolle bäute kriegen."
 
 #: simulation/templates/units/moblin/moblin_bugblin_b.xml:37
 #: simulation/templates/units/moblin/moblin_bugblin_thrown_b.xml:34
 msgid ""
 "Little Bugblins hit the baddies with their clubs and can get better weapons from dead "
 "guys!"
-msgstr ""
+msgstr "Kleina Schlankblin der Blödis aun kopp haut mitn Gnüppel"
 
 #: simulation/templates/units/moblin/moblin_builder_packed.xml:18
 msgid "Building Builder Camp"
-msgstr ""
+msgstr "Hausi hauser Lager"
 
 #: simulation/templates/units/moblin/moblin_builder_packed.xml:21
 msgid "Get new buildings from this place!"
-msgstr ""
+msgstr "Hol neue Hausis von diesn Ort"
 
 #: simulation/templates/units/moblin/moblin_builder_packed.xml:58
 msgid "Unpack this Building Builder Camp."
-msgstr ""
+msgstr "Entpack Hausi hauser Lager"
 
 #: simulation/templates/units/moblin/moblin_bullboram_b.xml:47
 msgid "Bullbo War Ram"
-msgstr ""
+msgstr "Bullbo Kriegsramm"
 
 #: simulation/templates/units/moblin/moblin_bullboram_b.xml:49
 msgid ""
 "Big Bullbo hit his dummy head on the wall and the wall comes falling down nice and "
 "fast! Big Bullbo not scared of baddies either, he can take all the hits!"
 msgstr ""
+"Großah Bullbo haut mit nah Kopp auf de Maua un schon isse schnell un schön unden!"
+"Großah Bullbo haht auch kaine Angst för blödis und kann alle treffah nehmn."
 
 #: simulation/templates/units/moblin/moblin_bullboram_b.xml:54
 msgid ""
 "Whoah really biiiiig Bullbo! I mean reaaaallly big one! So big that only King Bulblin "
 "can make these guys! Siege Creature knock down bad guy buildings with his head!"
 msgstr ""
+"Boah! richtig groooooßa Bullbo! Un zwa riiiiiiichtig großah! So groß das nur König Bulblin"
+"ihn machn kann! Belagerkreatur der blödi hausis haue gibt!"
 
 #: simulation/templates/units/moblin/moblin_bullborider_b.xml:53
 msgid "Bullbo Rider"
-msgstr ""
+msgstr "Bullbo Reider"
 
 #: simulation/templates/units/moblin/moblin_bullborider_b.xml:54
 msgid ""
 "Those smarty little Bulblins they tamed then piggy Bullbos! Now we gots some nice four "
 "legs to go against the horses! Send these fast guys in to trample the baddies and load "
 "em up with an extra Thug to let them know Blins are the best!"
-msgstr ""
+msgstr "
+"Die klugn klainn Bulblins ham die Bullbo schweinchen gezehmt! Nun ham wa vier Beene um  "
+"gegen de Pferdies zu galoppn! Schick se schnell rain um Blödis zu trampln und mit waitrn"
+"Bulblin Schurken um zu zaigen wer da beßte is."
 
 #: simulation/templates/units/moblin/moblin_bullborider_b.xml:58
 msgid "Great Melee Cavalry Bulblin go hit the bad guys with his awesome club!"
-msgstr ""
+msgstr "Tolle Kavallarie Bulbin um blödis mit tollen Gnüppel zu haun."
 
 #: simulation/templates/units/moblin/moblin_collector_b.xml:23
 msgid "Ugpug Cart"
-msgstr ""
+msgstr "Ugpug Karrn"
 
 #: simulation/templates/units/moblin/moblin_collector_b.xml:25
 msgid "Stalfos dropsite for resources."
-msgstr ""
+msgstr "Moblin Smmler"
 
 #: simulation/templates/units/moblin/moblin_defense_tower_packed.xml:18
 msgid "Watchin' You Tower"
@@ -9712,7 +9783,7 @@ msgstr ""
 
 #: simulation/templates/units/moblin/moblin_demonblight_b.xml:66
 msgid "Demonblight"
-msgstr ""
+msgstr "Dämonenbrand"
 
 #: simulation/templates/units/moblin/moblin_demonblight_b.xml:67
 msgid ""
