@@ -1896,7 +1896,10 @@ msgid ""
 "A giant and terrifying Deku Baba, the Scrubs would use these monsters to guard "
 "important locations. Once a Baba became this large it was extremely difficult and next "
 "to impossible to move them to a new location."
-msgstr "Eine riesige und furchteinflössende Dekurhana. Die Laubkerle nutzen diese Monster um wichtige Orte zu bewachen. Wenn eine Dekurhana erst so groß geworden war, war es extrem schwierig bis unmöglich sie von A nach B zu transportieren."
+msgstr ""
+"Eine riesige und furchteinflössende Dekurhana. Die Laubkerle nutzen diese Monster um"
+"wichtige Orte zu bewachen. Wenn eine Dekurhana erst so groß geworden war, war es "
+"extrem schwierig bis unmöglich sie von A nach B zu transportieren."
 
 #: simulation/templates/units/deku/deku_baba_giant_b.xml:71
 msgid "Large Defensive Creature unit that protects Deku Scrub bases."
@@ -1925,7 +1928,13 @@ msgid ""
 "difficult, and anything that attempted do was bound to take damage from its numerous "
 "thorns. Sometimes Baba Crawlers would mangle themselves with other Deku Babas and "
 "become a larger and more dangerous mass of thrashing vines and maws."
-msgstr "Der Rhana Krabbler ist eine langsame Monstrosität die sich über den Boden schleift und ihre Opfer mit ihren dornigen Armen einwickelt. Einem Rhana Krabbler im Nahkampf entgegenzutreten war schwierig da alles was es versuchen würde unweigerlich Schaden von den unzähligen Dornen erleiden würde. Manchmal würde ein Rhana Krabbler sich mit anderen Dakurhanas verbinden um eine noch größere und schrecklichere Masse aus Mäulern und Reben zu werden"
+msgstr """
+Der Rhana Krabbler ist eine langsame Monstrosität die sich über den Boden schleift und"
+"ihre Opfer mit ihren dornigen Armen einwickelt. Einem Rhana Krabbler im Nahkampf"
+"entgegenzutreten war schwierig da alles was es versuchen würde unweigerlich Schaden"
+"von den unzähligen Dornen erleiden würde. Manchmal würde ein Rhana Krabbler sich mit"
+"anderen Dakurhanas verbinden um eine noch größere und schrecklichere Masse aus Mäulern"
+"und Reben zu werden"
 
 #: simulation/templates/units/deku/deku_babacrawler_b.xml:73
 msgid "Slow moving Melee creature unit that can carry other Deku Babas around."
@@ -1946,13 +1955,19 @@ msgid ""
 "from its small engine, the attack could punch a hole in most targets with ease. Perhaps"
 " the nastiest trick of this weapon was the packs of Baba seeds attached to the bolts, "
 "which could then hatch and grow into Deku Babas shortly after landing on the mark."
-msgstr "Die Rhanalliste ist eine verrücktes Apperatur von Kado selbst konzipiert. Die kleine Maschine wirft einen großen Bolzen, der ein Loch durch die meisten Ziele schlagen kann. Der fieseste Trick der Waffe war eine Ladung Dekurhanasamen die an den Bolzen angebracht war welche kurz nach einem Treffer in Dekurhanas sprießten."
+msgstr ""
+"Die Rhanalliste ist eine verrücktes Apperatur von Kado selbst konzipiert. Die kleine Maschine"
+"wirft einen großen Bolzen, der ein Loch durch die meisten Ziele schlagen kann. Der fieseste"
+"Trick der Waffe war eine Ladung Dekurhanasamen die an den Bolzen angebracht war welche kurz"
+"nach einem Treffer in Dekurhanas sprießten."
 
 #: simulation/templates/units/deku/deku_baballista_b.xml:66
 msgid ""
 "Kado's Unique Unit. Siege unit that fires bolts laced with Deku Babas. Projectiles have"
 " a chance to spawn Deku Babas on impact."
-msgstr "Kados einzigartige Einheit. Belagerungswaffe die mit Dekurhanas umschnürt sind. Projektile haben eine Chance Dekurhanas zu erzeugen nach dem Einschlag."
+msgstr ""
+"Kados einzigartige Einheit. Belagerungswaffe die mit Dekurhanas umschnürt sind."
+"Projektile haben eine Chance Dekurhanas zu erzeugen nach dem Einschlag."
 
 #: simulation/templates/units/deku/deku_bubbling_b.xml:4
 #: simulation/templates/units/deku/deku_hero_dekuprincess.xml:4
@@ -1971,7 +1986,12 @@ msgid ""
 "everything around the area right to the ground. Such Deku were valued for their ability"
 " to knock down groups of enemies, and the Scrubs were always quick to add their rare "
 "talent to their armies."
-msgstr "Einige individuelle Deku Laubkerle haben die Fähigkeit eine seifige und wiederstandsfähige Blasen mit ihrem Mund zu erzeugen. Wenn diese Blase platzt erzeugt sie eine mächtige Druckwelle die alles in der Umbegung umwirft. Solche Dekus wurden geschätzt für ihre Fähigkeit Gruppen von Gegnern umzuwerfen und ihre seltenes Talent wurde schnell in den Armeen der Laubkerle eingesetzt"
+msgstr ""
+"Einige individuelle Deku Laubkerle haben die Fähigkeit eine seifige und wiederstandsfähige"
+"Blasen mit ihrem Mund zu erzeugen. Wenn diese Blase platzt erzeugt sie eine mächtige"
+"Druckwelle die alles in der Umbegung umwirft. Solche Dekus wurden geschätzt für ihre"
+"Fähigkeit Gruppen von Gegnern umzuwerfen und ihre seltenes Talent wurde schnell in"
+"den Armeen der Laubkerle eingesetzt"
 
 #: simulation/templates/units/deku/deku_bubbling_b.xml:82
 msgid "Missile unit that spits explosive bubbles at their enemies."
@@ -2018,7 +2038,12 @@ msgid ""
 "large Deku Nuts, the ammo of these siege engines could explode in a giant flash of "
 "light. Such bursts could punch a hole into an enemy gate, or holes into multiple enemy "
 "soldiers in the area."
-msgstr "Auch wenn sie etwas klein geraten sind wie die Deku Laubkerle selber, so waren diese Katapulte nicht weniger tödlich als die anderer Völker Hyrules. Sie werden beladen mit aussergewöhnlich großen Deku Nüssen, die beim Aufprall in einem gleißendem Licht explodieren. Eine solche Explosion schlägt nicht nur ein Loch in ein feindliches Tor sondern durchlöchert auch feindliche Soldaten."
+msgstr ""
+"Auch wenn sie etwas klein geraten sind wie die Deku Laubkerle selber, so waren diese Katapulte"
+"nicht weniger tödlich als die anderer Völker Hyrules. Sie werden beladen mit aussergewöhnlich"
+"großen Deku Nüssen, die beim Aufprall in einem gleißendem Licht explodieren. Eine solche"
+"Explosion schlägt nicht nur ein Loch in ein feindliches Tor sondern durchlöchert auch"
+"feindliche Soldaten."
 
 #: simulation/templates/units/deku/deku_dekupult_b.xml:63
 msgid "Ranged Siege unit that lobs explosive Deku Nuts at its targets."
@@ -2035,7 +2060,12 @@ msgid ""
 "simple patrol routes and told to not let anyone into the areas they guarded. During war"
 " the Scrubs would assemble them into columns on the front lines, hoping their pointy "
 "stick spears could halt the charge of their larger enemies."
-msgstr "Aufgrund ihrer Arme waren Wächterlinge knapp über den gemeinen Laublingen auf der sozialen Leiter und führten niedrige militärische Ränge für verschiedene Herrscher aus. Ihre meisten Aufgaben bestanden darin einfache Routen zu patroullieren und niemanden in die Orte reinzulassen die sie bewachen. Während eines Krieges würden die Deku Laubkerle die Wächterlinge an den Fronlinien aufreihen in der Hoffnung das sie einen feindlichen Angriff aufhalten können"
+msgstr ""
+"Aufgrund ihrer Arme waren Wächterlinge knapp über den gemeinen Laublingen auf der sozialen"
+"Leiter und führten niedrige militärische Ränge für verschiedene Herrscher aus. Ihre meisten"
+"Aufgaben bestanden darin einfache Routen zu patroullieren und niemanden in die Orte reinzulassen"
+"die sie bewachen. Während eines Krieges würden die Deku Laubkerle die Wächterlinge an den "
+"Fronlinien aufreihen in der Hoffnung das sie einen feindlichen Angriff aufhalten können"
 
 #: simulation/templates/units/deku/deku_guardling_b.xml:71
 msgid "Little Melee unit armed with a pointy stick for a spear."
@@ -2077,7 +2107,10 @@ msgid ""
 "Decci is one of the most famous Deku Scrub Miners; and one of the only Deku Scrub "
 "Miners. Decci pioneered the harvesting of Meganuts and has found many creative ways to "
 "turn them into weapons and armor for the Deku Scrubs."
-msgstr "Decci is einer der berühmteten Deku Laubkerl Bergarbeitern; und einer der einzigen Bergarbeitern. Decci war ein Vorreiter in der Ernte von Meganüssen und hat viele kreative Wege gefunden sie in Waffen und Rüstung und Panzerung für die Laubkerle zu formen."
+msgstr ""
+"Decci is einer der berühmteten Deku Laubkerl Bergarbeitern; und einer der einzigen Bergarbeitern."
+"Decci war ein Vorreiter in der Ernte von Meganüssen und hat viele kreative Wege gefunden sie in"
+"Waffen und Rüstung und Panzerung für die Laubkerle zu formen."
 
 #: simulation/templates/units/deku/deku_hero_decci.xml:55
 msgid "Decci"
@@ -2100,7 +2133,14 @@ msgid ""
 "angry demeanor, the King’s motivations seem to be rooted in his love for his daughter. "
 "Though kept secret, he had been struck with a case of Mad Scrub and wished for her to "
 "replace him on the throne after his passing."
-msgstr "Vielleicht der mächtigste Herrscher der Deku Laubkerle König Kud-Loh-Kan war the erste seine Art der jeden einzelnen Laubkerl unter seinem Banner vereinte, wenn auch nur temporär. Deser Erfolg resultierte allerdings nicht aus der Gunst der Massen ,denn er regierte wie ein Tyrann und drohte seinem Volk permanent mit Hinrichtungen. Trotz seines zornigen Verhaltens, scheinen seine Motive von der Zuneigung zu seiner Tochter herzurühren. Auch wenn er es geheim hielt, so war er mit dem Laubwahn befallen und wünschte hoffte das seine Tochter nach seinem Tode weiter regieren würde."
+msgstr ""
+"Vielleicht der mächtigste Herrscher der Deku Laubkerle König Kud-Loh-Kan war der erste "
+"seiner Art der jeden einzelnen Laubkerl unter seinem Banner vereinte, wenn auch nur temporär."
+"Deser Erfolg resultierte allerdings nicht aus der Gunst der Massen ,denn er regierte wie"
+"ein Tyrann und drohte seinem Volk permanent mit Hinrichtungen. Trotz seines zornigen "
+"Verhaltens, scheinen seine Motive von der Zuneigung zu seiner Tochter herzurühren. Auch wenn"
+"er es geheim hielt, so war er mit dem Laubwahn befallen und wünschte hoffte das seine Tochter"
+"nach seinem Tode weiter regieren würde."
 
 #: simulation/templates/units/deku/deku_hero_dekuking.xml:65
 msgid "Kud-Loh-Kan"
@@ -2123,7 +2163,14 @@ msgid ""
 "Kad-A-Kana was noted for her long bouts of sadness, punctuated by violent bursts of "
 "anger. When her father became a victim of the terminal Mad Scrub, her motivations and "
 "intentions turned to darker places elsewhere."
-msgstr "Die einzige Tochter des Königs Kud-Loh-Kan, Kad-A-Kana, war vielleicht nicht auf dem Thron aber war mit Sicherheit die jenige die den Ton angab. Ihr Vater konnte nicht ander als ihren Forderungen nachzugeben und viele Laubkerle fragten sich wer wirklich in Kontrolle war. Die Dinge änderten sich als ihr Vater mit dem Laubwahn diagnostiziert wurde war.Prinzessin Kad-A-Kana wurde auffällig für ihre langen Trauerphasen, die durch heftige Wutausbrüche unterbrochen wurden. Als ihr Vater endgültig dem Laubwhn erlag wanderten ihre Motive und Intentionen sich an dunklere Orte."
+msgstr ""
+"Die einzige Tochter des Königs Kud-Loh-Kan, Kad-A-Kana, war vielleicht nicht auf dem Thron"
+" aber war mit Sicherheit die jenige die den Ton angab. Ihr Vater konnte nicht ander als "
+"ihren Forderungen nachzugeben und viele Laubkerle fragten sich wer wirklich in Kontrolle war."
+" Die Dinge änderten sich als ihr Vater mit dem Laubwahn diagnostiziert wurde war. Prinzessin"
+" Kad-A-Kana wurde auffällig für ihre langen Trauerphasen, die durch heftige Wutausbrüche "
+"unterbrochen wurden. Als ihr Vater endgültig dem Laubwahn erlag wanderten ihre Motive und"
+" Intentionen sich an dunklere Orte."
 
 #: simulation/templates/units/deku/deku_hero_dekuprincess.xml:84
 msgid "Kad-A-Kana"
@@ -2166,7 +2213,15 @@ msgid ""
 "compensating with his clearly more exercised brain and ending up in the King’s favor, "
 "his lot in life changed quite considerably. He currently serves as an adviser to the "
 "Princess, and has grown concerned with her interest in ancient Odolwan rituals."
-msgstr "Als ein brillianter Ingineu, Sohn des Butlers Kuh-Do, und der einzige Freund der Prinzessin Kad-A-Kana, war Kado an der Spitze der Belagerungswaffenproduktion und anderer Vorrichtungen für die Laubkerle. Er hat einen unstillbare Faszination damit Dinge auf die Erde fallen zu sehen... normalerweise als ein Ergebnis einer seiner Katapult erfindungen. Kado war eher klein selbst für einen Laubkerl, und wurde oft für einen Witz gehalten die längste Zeit seines Lebens. Nachdem er das mit seinem eindeutig besser trainierterm Gehirn wettgemacht hat und in der Gunst des Königs fiel verbesserte sich sein Lot im Leben signifikant. Er dient zurzeit als Berater der Prinzessin, und beobachtet besrogt ihre Faszination mit Odolwaischen Ritualen."
+msgstr ""
+"Als ein brillianter Ingineur, Sohn des Butlers Kuh-Do, und der einzige Freund der Prinzessin"
+"Kad-A-Kana, war Kado an der Spitze der Belagerungswaffenproduktion und anderer Vorrichtungen"
+"für die Dekukerle. Er hat einen unstillbare Faszination damit Dinge auf die Erde fallen zu"
+"sehen... normalerweise als ein Ergebnis einer seiner Katapult erfindungen. Kado war eher klein "
+"selbst für einen Dekukerl, und wurde oft für einen Witz gehalten die längste Zeit seines Lebens."
+"Nachdem er das mit seinem eindeutig besser trainierterm Gehirn wettgemacht hat und in die Gunst"
+"des Königs fiel verbesserte sich sein Lot im Leben signifikant. Er dient zurzeit als Berater der"
+"Prinzessin, und beobachtet besrogt ihre Faszination mit Odolwaischen Ritualen."
 
 #: simulation/templates/units/deku/deku_hero_kado.xml:69
 msgid "Kado"
@@ -2187,7 +2242,12 @@ msgid ""
 "commands to the soldiers under their commands. Although the horns sounded confusing and"
 " obnoxious to outsiders, its bass utterance carried with it the unfolding plans of a "
 "Scrub army."
-msgstr "Das musikalischen Zirpen und die Klänge der Laubkerl Sprache lieferten ihnen gute Dienste auf dem Schlachtfeld. Hornistenkerle brachten ihre Deku Hörner mit denen sie laute und deutliche Befehle an die Soldaten unter ihrem Kommando geben konnten. Auch wenn der Klang Hörner verwirrend und unausstehlich für Außenstehende war so gab der Bass die sich entfaltenden Pläne der Armee an."
+msgstr ""
+"Das musikalischen Zirpen und die Klänge der Laubkerl Sprache lieferten ihnen gute Dienste"
+"auf dem Schlachtfeld. Hornistenkerle brachten ihre Deku Hörner mit denen sie laute und "
+"deutliche Befehle an die Soldaten unter ihrem Kommando geben konnten. Auch wenn der Klang"
+"der Hörner verwirrend und unausstehlich für Außenstehende war so gab der Bass die sich "
+"entfaltenden Pläne der Armee an."
 
 #: simulation/templates/units/deku/deku_hornling_b.xml:49
 #: simulation/templates/units/goron/goron_drummer_b.xml:32
@@ -2218,7 +2278,13 @@ msgid ""
 "Manhandla is actually a symbiotic collection of multiple plants; a large flower-like "
 "creature provides locomotion while up to four smaller Baba-like serpents tear apart "
 "victims to feed to themselves and their ride."
-msgstr "Ein furchterregender Schrecken der in den dunkelsten Tiefen des Kokiri Waldes zu finden ist. Die Manhandla ist eine riesiger unermüdlicher Wirbel aus Zerstörung wenn sie auf ein Schlachtfeld losgelassen wird. Die Manhandla ist bei genauerer Betrachtung tatsächlich eine Symbiose aus meheren Pflanzen; eine sich Mobilität bietende blumeartige Kreatur in der Mitte und vier kleinere wyrmartige Dekurhanas ihre Opfer zerreißen und sich selber und ihre Mitfahrgelengenheit versorgen"
+msgstr ""
+"Ein furchterregender Schrecken der in den dunkelsten Tiefen des Kokiri Waldes zu finden ist."
+"Die Manhandla ist eine riesiger unermüdlicher Wirbel aus Zerstörung wenn sie auf ein "
+"Schlachtfeld losgelassen wird. Die Manhandla ist bei genauerer Betrachtung tatsächlich eine "
+"Symbiose aus meheren Pflanzen; eine sich Mobilität bietende blumeartige Kreatur in der Mitte "
+"und vier kleinere wyrmartige Dekurhanas ihre Opfer zerreißen und sich selber und ihre "
+"Mitfahrgelengenheit versorgen"
 
 #: simulation/templates/units/deku/deku_manhandla_b.xml:76
 msgid "Huge lumbering Creature unit that can attack many enemies around itself at once."
@@ -2252,11 +2318,16 @@ msgid ""
 "some of the largest Scrubs to live and were considered by their people to be the apex "
 "of their race. In a battle they would relentlessly maul victims with their two clawed "
 "arms."
-msgstr "Diese großen Deku Laubkerle dienten sehr wenigen Zwecken außer in ihrer Kultur außer die Schädel ihrer Feinde einzuschlagen. Auch wenn sie kaum größer waren als ein durchschnittlicher Hylianer, gehörten sie zu den größten Laubkerlen die jemals gelebt haben und galten von vielen Dekus als die Besten ihrer Art. In der Schlacht zerfleischen sie ihre Gegner mit ihren zwei bekrallten Armen."
+msgstr ""
+"Diese großen Dekukerle dienten sehr wenigen Zwecken außer in ihrer Kultur außer die Schädel"
+" ihrer Feinde einzuschlagen. Auch wenn sie kaum größer waren als ein durchschnittlicher"
+"Hylianer, gehörten sie zu den größten Laubkerlen die jemals gelebt haben und galten von vielen"
+"Dekus als die Besten ihrer Art. In der Schlacht zerfleischen sie ihre Gegner mit ihren zwei"
+"bekrallten Händen."
 
 #: simulation/templates/units/deku/deku_megascrub_b.xml:63
 msgid "Large Deku Scrub warrior that attacks enemies with their sharp clawed hands."
-msgstr "Großer Deku Laubkerl Krieger der mit seinen zwei scharfen Klauenhänden angreift"
+msgstr "Großer Dekukerl Krieger der mit seinen zwei scharfen Klauenhänden angreift"
 
 #: simulation/templates/units/deku/deku_nutling_b.xml:4
 #: simulation/templates/units/deku/deku_underlingA.xml:4
@@ -2277,7 +2348,12 @@ msgid ""
 "a trait the Deku Scrubs used to protect narrow passages and bottlenecks. Nutlings were "
 "also small enough to hide under their head growth, making them invisible to casual "
 "observers."
-msgstr "Diese Brut der Laubkerle haben eine Nussschale die auf ihrem Kopf wächst im Gegensatz zu den üblichen Blättern und Blumen. Solch ein Schutz machte die Nusslinge sehr Wiederstandsfähig gegen konventionelle Waffen, ein Merkmal das die Dekus in Engpässen nutzen. Nusslinge waren auch klein genug dass sie sich unter ihren Kopfwuchs verstecken konnten, was sie unsichtbar gegenüber unachtsamen Passanten machte."
+msgstr ""
+"Diese Brut der Laubkerle haben eine Nussschale die auf ihrem Kopf wächst im Gegensatz zu den"
+"üblichen Blättern und Blumen. Solch ein Schutz machte die Nusslinge sehr Wiederstandsfähig"
+"gegen konventionelle Waffen, ein Merkmal das die Dekus in Engpässen nutzen. Nusslinge waren"
+"auch klein genug dass sie sich unter ihren Kopfwuchs verstecken konnten, was sie unsichtbar"
+"gegenüber unachtsamen Passanten machte."
 
 #: simulation/templates/units/deku/deku_nutling_b.xml:44
 msgid "Small but sturdy defensive unit that has resistant non-magic armor."
@@ -2298,7 +2374,7 @@ msgstr "Mandibeln"
 
 #: simulation/templates/units/deku/deku_orhat_b.xml:47
 msgid "Orhat Beetle"
-msgstr "Nashornkäfer"
+msgstr "Nashornschröter"
 
 #: simulation/templates/units/deku/deku_orhat_b.xml:48
 msgid ""
@@ -2306,7 +2382,12 @@ msgid ""
 " although even that is a bit of a stretch considering the hard time they had riding "
 "them. In battle the Orhats could skitter by enemies with frighting speed, and could be "
 "mounted a large variety of Deku Scrubs and Babas on their backs."
-msgstr "Die Nashornkäfer waren eine der wenigen Kreaturen die die Laubkerle domestizieren konnten, wobei "domestizieren" etwas weit gegriffen ist wenn man sich anschaut wie schwer es den Dekus fiel sie zu reiten. In der Schlacht konnten die Nashornkäfer mit furchterregenden Geschwindigkeit auf ihre Gegner hin krabbeln und von einer großen Anzahl an Laubkerlen und Dekurhanas beritten werden."
+msgstr ""
+"Die käfrigen Nashornschröter waren eine der wenigen Kreaturen die die Dekukerle domestizieren"
+"konnten, wobei "domestizieren" etwas weit gegriffen ist wenn man sich anschaut wie schwer es"
+"den Dekus fiel sie zu reiten. In der Schlacht konnten die Nashornkäfer mit furchterregenden"
+"Geschwindigkeit auf ihre Gegner hin krabbeln und von einer großen Anzahl an Laubkerlen und"
+"Dekurhanas beritten werden."
 
 #: simulation/templates/units/deku/deku_orhat_b.xml:52
 msgid "Quick moving Melee Creature unit that can be mounted by a Deku Scrub rider."
@@ -2324,7 +2405,7 @@ msgstr "Horn"
 
 #: simulation/templates/units/deku/deku_orhatgiant_b.xml:58
 msgid "Giant Orhat"
-msgstr "NashornKäfer Gigant"
+msgstr "Nashornschröter Gigant"
 
 #: simulation/templates/units/deku/deku_orhatgiant_b.xml:59
 msgid ""
@@ -2334,7 +2415,13 @@ msgid ""
 "and directing the giant insects in battle. Giant Orhats were used as living battering "
 "rams and they could be upgraded with a carrying platform on their backs to ferry Deku "
 "Scrubs around."
-msgstr "Wenn es ihnen Möglich war wuchsen die Nashornkäfer zu einer alles überagenden Größe und entwickelten ein dickes und hartes Exoskelett. Zwar war es unmöglich so einen erwachsenen Käfer in der Wildnis zu zähmen, hatten Laubkerle die sie seit ihrer Geburt aufgezogen hatten kein Problem diese riesigen Insekten in der Schlacht zu führen und zu reiten. Nashornkäfer Giganten wurden oft als Rammböcke verwendet und konnten mit einer Transportplattform verbessert werden die Truppen von Dekus aufnehmen konnten."
+msgstr ""
+"Wenn es ihnen Möglich war wuchsen die Nashornkäfer zu einer alles überagenden Größe und"
+"entwickelten ein dickes und hartes Exoskelett. Zwar war es unmöglich so einen erwachsenen"
+"Käfer in der Wildnis zu zähmen, doch hatten Laubkerle die sie seit ihrer Geburt aufgezogen"
+"hatten kein Problem diese riesigen Insekten in der Schlacht zu führen und zu reiten. "
+"Nashornschröter Giganten wurden oft als Rammböcke verwendet und konnten mit einer"
+"Transportplattform verbessert werden die Truppen von Dekus aufnehmen konnten."
 
 #: simulation/templates/units/deku/deku_orhatgiant_b.xml:63
 msgid "Giant Siege Creature that rips apart targets with its huge horn."
@@ -2342,11 +2429,11 @@ msgstr "Gigantische Belagerungskreatur die Ziele mit ihren Riesigem Horn zerlegt
 
 #: simulation/templates/units/deku/deku_orhatgiant_upgA.xml:50
 msgid "Giant Orhat (Platform Mount)"
-msgstr "Nashornkäfer Gigant (Truppenplattform)"
+msgstr "Nashornschröter Gigant (Truppenplattform)"
 
 #: simulation/templates/units/deku/deku_orhatgiant_upgB.xml:19
 msgid "Giant Orhat (Engine Mount)"
-msgstr "Nashornkäfer Gigant (Belagerungsplattform)"
+msgstr "Nashornschröter Gigant (Belagerungsplattform)"
 
 #: simulation/templates/units/deku/deku_peahat.xml:4
 #: simulation/templates/units/deku/deku_peahatmama.xml:4
@@ -2362,7 +2449,10 @@ msgstr "Killerana Larve"
 msgid ""
 "These strange flying predatory plants live in flatlands such as Hyrule Field, lying in "
 "wait for prey and hurtling at it at high speeds with their razor-sharp leaves."
-msgstr "Diese seltsamen fliegenden räuberischen Pflanzen leben in Flachlanden wie der Hyrule Ebene. Dor liegen sie auf der Lauer und schleudern sich selbst auf Opfer mit ihren rasiermesserscharfen Blättern."
+msgstr ""
+"Diese seltsamen fliegenden räuberischen Pflanzen leben in Flachlanden wie der Hyrule"
+"Ebene. Dor liegen sie auf der Lauer und schleudern sich selbst auf Opfer mit ihren "
+"rasiermesserscharfen Blättern."
 
 #: simulation/templates/units/deku/deku_peahat.xml:45
 msgid "Small hovering Creature unit that attacks with its razor blades."
@@ -2378,13 +2468,19 @@ msgid ""
 "Scrubs to serve as pets and wards. They would often use them to monitor the perimeter "
 "of their territory or explore dangerous areas. Drifting Peahats could not be given "
 "direct orders and would automatically move around with the wind, hence their name."
-msgstr "Uncharakteristisch passive Killerana die von den Deku als Haustiere gezüchtet wurden. Sie werden oft eingesetzt um das Territorium in einen gewissen Bereich zu beobachten oder um gefährliche Orte zu erforschen. Die Streifenden Kileranas konnten keine direktenBefehle erteilt werden sondern sie trieben im Wind woher ihr Name herrührt."
+msgstr ""
+"Uncharakteristisch passive Killerana die von den Deku als Haustiere gezüchtet wurden."
+"Sie werden oft eingesetzt um das Territorium in einen gewissen Bereich zu beobachten"
+"oder um gefährliche Orte zu erforschen. Die Streifenden Kileranas konnten keine direkten"
+"Befehle erteilt werden sondern sie trieben im Wind woher ihr Name herrührt."
 
 #: simulation/templates/units/deku/deku_peahatdrift_b.xml:22
 msgid ""
 "Creature Scout unit that cannot be given orders, it automatically explores the map at "
 "its own pace. Can detect Camouflaged and Stealthed units."
-msgstr "Späherkreatur der keine Befehle erteilt werden können. Sie erforscht die Karte auf eigene Faust und kann versteckte und getarnte Einheiten erspähen"
+msgstr ""
+"Späherkreatur der keine Befehle erteilt werden können. Sie erforscht die Karte auf eigene"
+" Faust und kann versteckte und getarnte Einheiten erspähen"
 
 #: simulation/templates/units/deku/deku_peahatmama.xml:63
 msgid "Peahat Mother"
@@ -2399,13 +2495,21 @@ msgid ""
 "the roots of their bodies, of which they use to decapitate and slice apart intruders. "
 "On rare occasions the Scrubs managed to domesticate a Brood Mother who would hover "
 "about and continually spawn Peahat Larva to follow her around. "
-msgstr "Ein häufiger Anblick in den Ebenen von Hyrule, die sehr aggresiv und territorial veranlagt ist. Diese Biester sind in der Lage in der Luft zu sschweben indem sie sich sehr schnell auf der Stelle drehen und dabei von den gelben Säcken unterstützt werden die mit einer Art Gas gefüllt sind. Riesige Klingen befinden sich knapp über ihren Wurzeln mit denen sie Eindringlinge köpfen und zerhäckseln. Ab und zu schafften es die Dekus eine Brutmutter zu zähmen die kontinuierlich kleine Larven zeugte die ihr folgen würden."
+msgstr ""
+"Ein häufiger Anblick in den Ebenen von Hyrule, die sehr aggresiv und territorial veranlagt ist."
+"Diese Biester sind in der Lage in der Luft zu sschweben indem sie sich sehr schnell auf der Stelle "
+"drehen und dabei von den gelben Säcken unterstützt werden die mit einer Art Gas gefüllt sind."
+"Riesige Klingen befinden sich knapp über ihren Wurzeln mit denen sie Eindringlinge köpfen und"
+"zerhäckseln. Ab und zu schafften es die Dekus eine Brutmutter zu zähmen die kontinuierlich kleine"
+"Larven zeugte die ihr folgen würden."
 
 #: simulation/templates/units/deku/deku_peahatmama.xml:68
 msgid ""
 "King Kud-Loh-Kan's Unique unit. Hover Creature unit that can shred surrounding enemies "
 "with its many blades. She spawns swarms of her larva to protect her."
-msgstr "König Kud-Loh-Kans einzigartige Einheit. Schwebende Kreatur die umlegende Gegner mit ihren vielen Klingen schreddert. Sie zeugt einen Schwarm aus Larven um sich zu schützen."
+msgstr ""
+"König Kud-Loh-Kans einzigartige Einheit. Schwebende Kreatur die umlegende Gegner mit ihren vielen"
+"Klingen schreddert. Sie zeugt einen Schwarm aus Larven um sich zu schützen."
 
 #: simulation/templates/units/deku/deku_pikit_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
@@ -2452,7 +2556,13 @@ msgid ""
 "Mad Scrub blights, and often they were the first to succumb to outbreaks. During "
 "invasions the Deku Scrubs would often rile up the anger of huge swarms of Scrublings "
 "before sending them to their doom."
-msgstr " Diese armlosen individueen waren eine der niedrigsten Klassen der Dekukerle und wurden von ihren Vorgesetzten oft als Rüpel und Schläger eingesetzt. Laubkerle hatten oft keine Bildung, waren geistig recht beschränkt und ließen sich von ihren starken Emotionsschwankungen beherrschen. Dies machte sie besonders anfällig für den Laubwahn und sie waren bei Ausbrüchen die ersten die ebenjenem erlagen. Vor einer Invasion würden die Deku Kerle die Wut von Horden von Laubkerlen entfachen bevor sie in ihr Verderben geschickt wurden."
+msgstr ""
+"Diese armlosen individueen waren eine der niedrigsten Klassen der Dekukerle und wurden von "
+"ihren Vorgesetzten oft als Rüpel und Schläger eingesetzt. Laubkerle hatten oft keine Bildung,"
+"waren geistig recht beschränkt und ließen sich von ihren starken Emotionsschwankungen beherrschen."
+"Dies machte sie besonders anfällig für den Laubwahn und sie waren bei Ausbrüchen die ersten die"
+"ebenjenem erlagen. Vor einer Invasion würden die Deku Kerle die Wut von Horden von Laubkerlen "
+"entfachen bevor sie in ihr Verderben geschickt wurden."
 
 #: simulation/templates/units/deku/deku_scrubling_b.xml:69
 #: simulation/templates/units/deku/deku_scrubling_garrison.xml:55
@@ -2463,7 +2573,9 @@ msgstr "Kleiner Fernkämpfer der Nüsse auf seine Gegner spuckt."
 msgid ""
 "While its tiny size hardly made it an impressive siege weapon, a huge swarm of these "
 "rams could wear down gates and walls bit by bit until they finally broke down."
-msgstr "Weil ihre geringe Größe kaum eine beeindruckende Belagerungswaffe abgab, so konnte ein großer Schwarm Rammböcke feindliche Befestigungen stück um stück zermürben bis sie endgültig einbrachen."
+msgstr ""
+"Weil ihre geringe Größe kaum eine beeindruckende Belagerungswaffe abgab, so konnte ein großer"
+"Schwarm Rammböcke feindliche Befestigungen stück um stück zermürben bis sie endgültig einbrachen."
 
 #: simulation/templates/units/deku/deku_scrubram_b.xml:55
 msgid "Scrubram"
@@ -2483,7 +2595,10 @@ msgid ""
 "even to their own Scrub captors. These creatures hopped around with their viney "
 "appendages and rapidly gobbled up whatever they could get their two tentacled arms "
 "unto."
-msgstr "Eine schnelles ungeheurlich gewalttätiges pflanzenhaftes Monster. Die Löwenmäuler waren selbst für ihre Deku Fänger extrem gefährlich. Diese Kreaturen hoppelten mit ihren Rebengliedern herum und verschlangen alles was sie mit ihren zwei tentakelarmen erfassten."
+msgstr ""
+"Eine schnelles ungeheurlich gewalttätiges pflanzenhaftes Monster. Die Löwenmäuler waren"
+"selbst für ihre Deku Fänger extrem gefährlich. Diese Kreaturen hoppelten mit ihren "
+"Rebengliedern herum und verschlangen alles was sie mit ihren zwei tentakelarmen erfassten."
 
 #: simulation/templates/units/deku/deku_snapdragon_b.xml:53
 msgid "Faster moving Melee Creature unit with a rapdi attack rate."
@@ -2500,7 +2615,12 @@ msgid ""
 "only spin when in the hand of a Scrub. Flower Thopters were slow but could drop large "
 "Deku Nuts from above on to armies below, causes quite a flash and stunning everyone in "
 "the blast. "
-msgstr "Ein königlicher Kerl der hoch über den Boden mit einem Paar an drehenden Blumen fliegt. Was diese Blumen antrieb war selbst den Deku Kerlen ein Mysterium und sie schienen nur zu fliegen wenn ein Deku Kerl sie hielt. Blütenschrauber waren langsam aber sie konnten große Deku Nüsse auf ihre Gegner abwerfen die in einen Hellen Lichtblitz explodierten und und alle Gegner in der Umgebung betäubten"
+msgstr ""
+"Ein königlicher Kerl der hoch über den Boden mit einem Paar an drehenden Blumen fliegt."
+"Was diese Blumen antrieb war selbst den Deku Kerlen ein Mysterium und sie schienen nur zu"
+"fliegen wenn ein Deku Kerl sie hielt. Blütenschrauber waren langsam aber sie konnten große"
+"Deku Nüsse auf ihre Gegner abwerfen die in einen Hellen Lichtblitz explodierten und und 
+"alle Gegner in der Umgebung betäubten"
 
 #: simulation/templates/units/deku/deku_thopter_b.xml:68
 msgid ""
@@ -2517,7 +2637,9 @@ msgid ""
 "A fast hovering Deku Scrub that could burn down enemies with its candle. Tiffers seemed"
 " to be in the private service of Kuh-Do and were likely used by him as tax collectors "
 "and general bullies to maintain his profits."
-msgstr "Eine schnelle schwebende Deku Kerl Einheit die ihre Gegner mit Kerzen niederbrennt. Diese Erpresser waren augenscheinlich im Dienst von Kuh-Do und wurden vermutlich als seine persönlichen Steuereintreiber und Schläger benutzt um siene Profite zu sichern."
+msgstr "Eine schnelle schwebende Deku Kerl Einheit die ihre Gegner mit Kerzen niederbrennt. "
+"Diese Erpresser waren augenscheinlich im Dienst von Kuh-Do und wurden vermutlich als seine"
+"persönlichen Steuereintreiber und Schläger benutzt um siene Profite zu sichern."
 
 #: simulation/templates/units/deku/deku_tiffer_b.xml:61
 msgid ""
@@ -2536,7 +2658,12 @@ msgid ""
 "their behalf. The Stagnox may be slow, but his armor is some of the most impressive and"
 " durable in Hyrule. While the Stagnox has wings, his huge size makes his ability to fly"
 " very limited."
-msgstr "Dieser massige Nashornkäfer Gigant lauert schon lang in den östlichen Wäldern Hyrules. In manchen Fällen schafften es die Deku Kerle dieses große Monster dazu zu zwingen für sich kämpfen zu lassen. Der Gigakules ist zwar langsam aber seine Panzerung ist eine der beindruckendsten und stärksten im bekannten Hyrule. Zwar hat diser Käfer Flügel allerdings ist er so schwer das seine Flugfähigkeiten begrenzt sind."
+msgstr ""
+"Dieser massige Nashornkäfer Gigant lauert schon lang in den östlichen Wäldern Hyrules."
+"In manchen Fällen schafften es die Deku Kerle dieses große Monster dazu zu zwingen für"
+"sich kämpfen zu lassen. Der Gigakules ist zwar langsam aber seine Panzerung ist eine"
+"der beindruckendsten und stärksten im bekannten Hyrule. Zwar hat diser Käfer Flügel "
+"allerdings ist er so schwer das seine Flugfähigkeiten begrenzt sind."
 
 #: simulation/templates/units/deku/deku_titan_stagnox.xml:77
 msgid "Stagnox"
@@ -2913,7 +3040,7 @@ msgstr ""
 
 #: simulation/templates/units/fairy/fairy_hero_venus.xml:68
 msgid "Venus"
-msgstr ""
+msgstr "Venus"
 
 #: simulation/templates/units/fairy/fairy_hero_venus.xml:69
 msgid "Melee Hero who can whip many targets around her at once."
@@ -2923,7 +3050,7 @@ msgstr ""
 #: simulation/templates/units/fairy/fairy_wispice.xml:37
 #: simulation/templates/units/gerudo/gerudo_icepatch.xml:37
 msgid "Ice Patch"
-msgstr ""
+msgstr "Eisfläche"
 
 #: simulation/templates/units/fairy/fairy_madmystic_b.xml:37
 msgid "Mad Mystic"
@@ -2956,11 +3083,11 @@ msgstr ""
 #: simulation/templates/units/labrynna/labrynna_hero_ralph.xml:28
 #: simulation/templates/units/labrynna/labrynna_steamtank_b.xml:33
 msgid "Linear"
-msgstr ""
+msgstr "Linearer Flächenschaden"
 
 #: simulation/templates/units/fairy/fairy_mistwalker_b.xml:50
 msgid "Mistwalker"
-msgstr ""
+msgstr "Nebellwandler"
 
 #: simulation/templates/units/fairy/fairy_mistwalker_b.xml:52
 msgid ""
@@ -2979,11 +3106,11 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_eyesoar_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Bash"
-msgstr ""
+msgstr "Schlag"
 
 #: simulation/templates/units/fairy/fairy_stray_b.xml:41
 msgid "Stray Fairy"
-msgstr ""
+msgstr "Verlorene Fee"
 
 #: simulation/templates/units/fairy/fairy_stray_b.xml:42
 msgid ""
@@ -3018,7 +3145,7 @@ msgstr "Maku Baum von Horon"
 
 #: simulation/templates/units/fairy/fairy_titan_makuhoron.xml:89
 msgid "Fairy Titan unit. Support unit that continues to summon Fairy Droves into battle."
-msgstr ""
+msgstr "Feen Titan der Feen Schwärme in der Schlacht beschwört."
 
 #: simulation/templates/units/fairy_trader_b.xml:15
 msgid "Xana"
@@ -3053,7 +3180,11 @@ msgid ""
 "Ganondorf, seeing to the affairs of his desert Empire. All Gerudo fear them, and their "
 "arrival usually signals the coming of a great and deadly battle. Arbiters can "
 "dramatically improve the performance of all cavalry under their command."
-msgstr "Die Vollstrecker sind die rechte Hand des Gerudo Königs Ganondorf die als seine Richter und Henker in der Gerudo Wüste seine Angelegenheiten klären. Alle Gerudo fürchten sie und ihre Ankunft ist das Omen einer kommenden blutigen Schlacht. Die Gebieter können die Leistung der Kavallerie unter ihrem Kommando stark verbessern."
+msgstr ""
+"Die Vollstrecker sind die rechte Hand des Gerudo Königs Ganondorf die als seine Richter"
+"und Henker in der Gerudo Wüste seine Angelegenheiten klären. Alle Gerudo fürchten sie"
+"und ihre Ankunft ist das Omen einer kommenden blutigen Schlacht. Die Gebieter können"
+"die Leistung der Kavallerie unter ihrem Kommando stark verbessern."
 
 #: simulation/templates/units/gerudo/gerudo_arbiter_b.xml:39
 msgid ""
@@ -3092,7 +3223,11 @@ msgid ""
 "Empire. Incredibly athletic and acrobatic, they are able to weave and parry their way "
 "to the throats of even the most heavily-armored enemies. They are perhaps most notable "
 "for their ability to command other women in battle."
-msgstr "Die Ashion Hauptfrauen waren ein paar der am besten ausgebildesten Soldatinnen in der Geschichte des Gerudo Reichs. Sie waren ausgesprochen akrobatisch un athletisch und konnten sich selbst zu den Kehlen der am besten gepanzerten Gegner durchfechten und parieren. Ihre wichtigste Fähigkeit war hingegen die anderen Frauen anzuspornen."
+msgstr ""
+"Die Ashion Hauptfrauen waren ein paar der am besten ausgebildesten Soldatinnen in der "
+"Geschichte des Gerudo Reichs. Sie waren ausgesprochen akrobatisch un athletisch und konnten"
+"sich zu den Kehlen der am besten gepanzerten Gegner durchfechten und parieren."
+"Ihre wichtigste Fähigkeit war hingegen die anderen Frauen anzuspornen."
 
 #: simulation/templates/units/gerudo/gerudo_ashcap_b.xml:46
 msgid "Melee Commander unit that bolsters other Gerudo troops in battle."
@@ -3116,7 +3251,11 @@ msgid ""
 "reliable siege weapon for centuries. Made from the wood of Desert Palms, they are very "
 "easy to construct and maintain. The boulders launched by these engines can take down "
 "just about any stationary target, be it walls, gates, or enemy towers."
-msgstr "Die Gerudo nutzen Katapulte als verlässliche Belagerungswaffe schon seit Jahrhunderten um feindliche Städte zu attackieren. Sie waren einfach zu bauen und in Stand zu halten, da sie aus dem Holz von Palmen bestanden. Die katapultierten Felsbrocken zertrümmerten so gut wie jedes stationäres Ziel, sei Mauer, Tor oder Turm."
+msgstr 
+"Die Gerudo nutzen Katapulte als verlässliche Belagerungswaffe schon seit Jahrhunderten um"
+"feindliche Städte zu attackieren. Sie waren einfach zu bauen und in Stand zu halten, da"
+"sie aus dem Holz von Palmen bestanden. Die katapultierten Felsbrocken zertrümmerten so"
+"gut wie jedes stationäres Ziel, sei Mauer, Tor oder Turm."
 
 #: simulation/templates/units/gerudo/gerudo_catapult_b.xml:61
 msgid "Cheap but effective Siege unit with a ranged attack."
@@ -3133,7 +3272,9 @@ msgid ""
 "Armed with a curved Moonlight Scimitar and durable shield, they are feared by civilians"
 " across the desert. During times of war, they answer to Emperor Ganondorf and serve him"
 " without question."
-msgstr "Auf den Rücken der seltenen Gerudokamele überleben die Plünderinnen, eine loser Zusammenschluss, von Kriegerinnen, indem sie Dörfer am Rande des Reiches überfallen und brandschatzen."
+msgstr ""
+"Auf den Rücken der seltenen Gerudokamele überleben die Plünderinnen, eine loser Zusammenschluss,"
+"von Kriegerinnen, indem sie Dörfer am Rande des Reiches überfallen und brandschatzen."
 
 #: simulation/templates/units/gerudo/gerudo_despoiler_b.xml:49
 msgid "Cavalry Melee unit that excels at fighting other Cavalry and burning enemy buildings."
@@ -3180,7 +3321,12 @@ msgid ""
 "desert, Sandseal Dune Walkers may lack speed, but they are guaranteed to bring "
 "themselves and their riders to their destinations, even if they have to cross bodies of"
 " water. Mounted by an archer, they are excellent rear-line cavalry."
-msgstr "Die in der Gerudowüste heimischen Sandrobben sind schwer zu zähmen aber die Gerudo sind die Herrinnen dieser Bestien geworden. Langsam aber sicher schaffen es die Sandrobben sich selbst und ihre Reiter ans Ziel zu bringen sei es gegen  die tödlichen Sandstürme der Wüste oder tiefe Gewässer. Beritten von einer Bogenschützin bieten sie eine exellente Kavallerie in den hinteren Reihen."
+msgstr ""
+"Die in der Gerudowüste heimischen Sandrobben sind schwer zu zähmen aber die Gerudo sind die"
+"Herrinnen dieser Bestien geworden. Langsam aber sicher schaffen es die Sandrobben sich selbst"
+"und ihre Reiter ans Ziel zu bringen sei es gegen  die tödlichen Sandstürme der Wüste oder"
+"tiefe Gewässer. Beritten von einer Bogenschützin bieten sie eine exellente Kavallerie"
+"in den hinteren Reihen."
 
 #: simulation/templates/units/gerudo/gerudo_dunewalker_b.xml:50
 msgid ""
@@ -3197,13 +3343,18 @@ msgid ""
 "The reclusive Dust Sentinels are the stoic guardians of the desert borders. Capable of "
 "bunkering down, these Sandseal riders create a thick cloud of dust around themselves, "
 "which renders them invisible even while attacking, so long as they are stationary."
-msgstr "Die zurückgezogenen Wüstenstaub Hüterinnen sind die stoischen Wächterinnen der Wüstengrenzen. Sie sind fähig sich einzubunkern und dabei eine dicke Staubwolke um sich zu formen welche sie unsichtbar macht solange sie sich nicht bewegen beim angreifen."
+msgstr """
+Die zurückgezogenen Wüstenstaub Hüterinnen sind die stoischen Wächterinnen der Wüstengrenzen."
+"Sie sind fähig sich einzubunkern und dabei eine dicke Staubwolke um sich zu formen welche "
+"sie unsichtbar macht solange sie sich nicht bewegen beim angreifen."
 
 #: simulation/templates/units/gerudo/gerudo_dustsentinel_b.xml:52
 msgid ""
 "Princess Riju's Unique Unit. Mounted Missile Cavalry that can attack from afar and "
 "cloak nearbye units in a Sandstorm"
-msgstr "Einzigartige Einheit von Prinzessin Riju. Bogenschützin der Kavallerie die sich und einen Sandsturm erzeugen kann um sich und Verbündete zu tarnen."
+msgstr ""
+"Einzigartige Einheit von Prinzessin Riju. Bogenschützin der Kavallerie die um sich "
+"einen Sandsturm erzeugen kann um sich und Verbündete zu tarnen."
 
 #: simulation/templates/units/gerudo/gerudo_gerudadorf_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
@@ -3220,7 +3371,11 @@ msgid ""
 "masters. Well trained in the art of stealth, Gerudadorf take advantage of both their "
 "environment and the chaos of battle to slip through enemy ranks and kill high-priority "
 "targets."
-msgstr "Mit zwei Stoßdolchen bewaffnet, dienen die Gerudadorf als Schlachtfeldattentäter und für Meisterinnen des Hinterhalts. Gut trainiert in der Kunst sich Blicken zu entziehen, schlüpften die Gerudadorf mithilfe ihrer Umgebung und im Schlachtgetümmel durch die feindlichen Reihen um hochranginge Ziele auszuschalten."
+msgstr ""
+"Mit zwei Stoßdolchen bewaffnet, dienen die Gerudadorf als Schlachtfeldattentäter und "
+"Meisterinnen des Hinterhalts bekannt. Gut trainiert in der Kunst sich Blicken zu entziehen,"
+"schlüpften die Gerudadorf mithilfe ihrer Umgebung und im Schlachtgetümmel durch die "
+"feindlichen Reihen um hochranginge Ziele auszuschalten."
 
 #: simulation/templates/units/gerudo/gerudo_gerudadorf_b.xml:49
 msgid "Fast Melee unit with Camouflage, has a chance to deal Critical Hits to enemies."
@@ -3242,7 +3397,11 @@ msgid ""
 "the Empire's borders and keeping a vigilant watch for any incursion. Armed with the "
 "Gerudo's signature glaive, these women can halt charging enemies and keep cavalry at "
 "bay."
-msgstr "Dutzende von Glefen Lanzerinnen patrollierten die Militärbasen in der Gerudowüste, bewachen die Grenzen des Reiches und halten wachsam Ausschau für feindliche Überfälle. Bewaffnet mit der für die Gerudo typischen Glefe, bieten die Glefen Lanzerinnen feindlichen Angriffen und Kavallerie die Stirn."
+msgstr ""
+"Dutzende von Glefen Lanzerinnen patrollierten die Militärbasen in der Gerudowüste, bewachen"
+"die Grenzen des Reiches und halten wachsam Ausschau für feindliche Überfälle. Bewaffnet"
+"mit der für die Gerudo typischen Glefe, bieten die Glefen Lanzerinnen feindlichen"
+"Angriffen und Kavallerie die Stirn."
 
 #: simulation/templates/units/gerudo/gerudo_glaivegrunt_b.xml:45
 msgid "Light Melee unit armed with a spear."
@@ -3264,7 +3423,9 @@ msgid ""
 "and speed to overpower lesser enemies. They are swift on their feet, can dodge well in "
 "a melee, and their strength and weapon of choice allows them to crack open enemy armor "
 "with ease."
-msgstr "Mit ihrer großen Kraft und Geschwindigkeit überwältigen die Goldenen Gladiatrices mickrigere Gegner und mit dem mächtigen Gerudo Zweihänder knacken sie jede Rüstung.  "
+msgstr ""
+"Mit ihrer großen Kraft und Geschwindigkeit überwältigen die Goldenen Gladiatrices mickrigere"
+"Gegner und mit dem mächtigen Gerudo Zweihänder knacken sie jede Rüstung.  "
 
 #: simulation/templates/units/gerudo/gerudo_goldenglad_b.xml:39
 msgid "Urbosa's Unique Unit. Strong Melee unit that has a very high Dodge rate."
@@ -3286,7 +3447,10 @@ msgid ""
 "Aveil has long lived without any oversight and plundered many sea fareres across the "
 "Great Sea over the years. Now her power and resources have been turned to the Gerudo "
 "navy."
-msgstr "Die Herrin der Gerudo Piraten wurde durch Ganondorf wieder unter das Banner der Gerudo gebracht. Aveil hat schon lange ohne Aufsicht gelebt und hat schon viele Seefahrer über die Jahre hinweg ausgeraubt. Ihr Einfluss und ressourcen dienen jetzt der Gerudo Flotte. "
+msgstr ""
+"Die Herrin der Gerudo Piraten wurde durch Ganondorf wieder unter das Banner der Gerudo gebracht."
+"Aveil hat schon lange ohne Aufsicht gelebt und hat schon viele Seefahrer über die Jahre hinweg"
+"ausgeraubt. Ihr Einfluss und ressourcen dienen jetzt der Gerudo Flotte. "
 
 #: simulation/templates/units/gerudo/gerudo_hero_aveil.xml:46
 msgid "Aveil"
@@ -3304,7 +3468,9 @@ msgstr "Palastwache"
 msgid ""
 "The latest in a line of Gerudo who have guarded the throne. Buliara served as a "
 "personal bodyguard for Ganondorf and later his daughter Riju."
-msgstr "Bylla enstammt einer langen Linie von Gerudo die schon den thron bewachen. Sie diente als persönliche Leibwächterin für Ganondorf und später seiner Tochter Riju.."
+msgstr ""
+"Bylla enstammt einer langen Linie von Gerudo die schon den Thron bewachen. Sie diente"
+"schon als persönliche Leibwächterin für Ganondorf und später seiner Tochter Riju."
 
 #: simulation/templates/units/gerudo/gerudo_hero_buliara.xml:44
 msgid "Buliara"
@@ -3323,7 +3489,10 @@ msgid ""
 "The last male Gerudo, and only man to be born since the century of their curse, "
 "Ganondorf rules as the undisputed Emperor of his people. He is utterly ruthless, and "
 "harbors a burning hatred for the Hylians and their wealthy lands."
-msgstr "Der letzte männliche Gerudo und einziger Mann der ein Jahrhundert nach  ihrem Fluch geboren wurde. Ganondorf regiert als unangefochtener König seines Volkes. Er ist absolut ruchlos und hegt einen brennenden Hass gegenüber den Hylianern und ihren reichen Ländereien."
+msgstr ""
+"Der letzte männliche Gerudo und einziger Mann der ein Jahrhundert nach ihrem Fluch geboren"
+"wurde. Ganondorf regiert als unangefochtener König seines Volkes. Er ist absolut ruchlos"
+"und hegt einen brennenden Hass gegenüber den Hylianern und ihren reichen Ländereien."
 
 #: simulation/templates/units/gerudo/gerudo_hero_ganondorf.xml:43
 msgid "Ganondorf"
@@ -3342,7 +3511,10 @@ msgid ""
 "The legal wife of Ganondorf and Empress of the Gerudo, as well as the Sage of Spirits. "
 "Nabooru faces a struggle between loyalty to her husband, and her duty of Sagehood and "
 "to the greater safety of Hyrule."
-msgstr "Die rechtliche Frau von Ganondorf und Königin der Gerudo, als auch Weise der Geister. Naboru steht im Zwiespalt mit ihrer Loyalität zu ihrem Mann und ihren Pflichten als Weise und der allgemeinen Sicherheit von ganz Hyrule."
+msgstr ""
+"Die rechtliche Frau von Ganondorf und Königin der Gerudo, als auch Weise der Geister."
+"Naboru steht im Zwiespalt mit ihrer Loyalität zu ihrem Mann und ihren Pflichten als"
+"Weise und der allgemeinen Sicherheit von ganz Hyrule."
 
 #: simulation/templates/units/gerudo/gerudo_hero_nabooru.xml:50
 msgid "Empress Nabooru"
@@ -3353,7 +3525,9 @@ msgstr "Königin Naboru"
 msgid ""
 "Fast moving Assassin Hero who is Stealthed and can detect other Stealthed and "
 "Camouflaged units. High damage output against infantry and heroes."
-msgstr "Schnelle Attentäterin die getarnt ist und andere getarnte und versteckte Einheiten erspäht. Hoher Schaden gegen Infanterie und Helden."
+msgstr ""
+"Schnelle Attentäterin die getarnt ist und andere getarnte und versteckte Einheiten"
+"erspäht. Hoher Schaden gegen Infanterie und Helden."
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:44
 msgid "Princess of the Gerudo"
@@ -3364,7 +3538,10 @@ msgid ""
 "The daughter of Ganondorf and Nabooru and the legal heir to the Gerudo throne, Riju has"
 " a fondness for Sandseals, and seeks to rebuild the fallen Gerudo Empire through means "
 "other than conquest."
-msgstr "Die Tochter von Ganondorf und Naboru und die rechtmäßige Erbin des Gerudo Throns. Riju hat eine vorliebe for Sandrobben und versucht das gefallene Gerudo Reich wiederherzustellen abseits der Eroberung."
+msgstr ""
+"Die Tochter von Ganondorf und Naboru und die rechtmäßige Erbin des Gerudo Throns. Riju "
+"hat eine vorliebe for Sandrobben und versucht das gefallene Gerudo Reich wiederherzustellen"
+"abseits der Eroberung."
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:50
 msgid "Makeela Riju"
@@ -3398,14 +3575,17 @@ msgstr "Distanz"
 
 #: simulation/templates/units/gerudo/gerudo_hero_urbosa.xml:34
 msgid "Ashinon General"
-msgstr "Ashinon General"
+msgstr "Ashinon Generalin"
 
 #: simulation/templates/units/gerudo/gerudo_hero_urbosa.xml:36
 msgid ""
 "One of Ganondorf's countless daughters, born to a lowly mother, Urbosa seeks the "
 "approval of her father, and religiously serves in his army and supports his campaign to"
 " conquer all of Hyrule."
-msgstr "Als eine von Ganondorfs zahllosen Töchtern und ausgetragen von einer einfachen Mutter, sucht Urbosa die anerkennung ihres Vater und dient ihm religiös in der armee und unterstützt sein Vorhaben ganz Hyrule zu unterwerfen."
+msgstr ""
+"Als eine von Ganondorfs zahllosen Töchtern und ausgetragen von einer einfachen Mutter,"
+"sucht Urbosa die anerkennung ihres Vater und dient ihm religiös in der Armee und "
+"unterstützt sein Vorhaben ganz Hyrule zu unterwerfen."
 
 #: simulation/templates/units/gerudo/gerudo_hero_urbosa.xml:40
 msgid "Urbosa"
@@ -3430,7 +3610,11 @@ msgid ""
 "infamous Gerudo Training Grounds. Should they survive, they emerge victorious. with Ice"
 " Arrows in hand. These ancient magical weapons can fire a deadly arrow coated in frost."
 " On contact. they explode and instantly freeze anything near their impact."
-msgstr "Nach Jahren von mühseligen Training wurde den Gerudo Frauen die Möglichkeit gegeben in die berüchtigten Gerudo Arenen einzutreten. Wer überlebt geht als Sieger mit Eispfeilen in den Händen hervor. Diese antiken magischen Waffen werfen einen mit Eis umhüllten Pfeil ab der beim Aufprall eine Explosion verursacht die alles in der Umgebung einfriert."
+msgstr ""
+"Nach Jahren von mühseligen Training wurde den Gerudo Frauen die Möglichkeit gegeben in"
+"die berüchtigten Gerudo Arenen einzutreten. Wer überlebt geht als Sieger mit Eispfeilen"
+"in den Händen hervor. Diese antiken magischen Waffen werfen einen mit Eis umhüllten "
+"Pfeil ab der beim Aufprall eine Explosion verursacht die alles in der Umgebung einfriert."
 
 #: simulation/templates/units/gerudo/gerudo_icearcher_b.xml:66
 msgid "Gerudo Missile unit that can slow enemy targets with her ranged Ice Arrows."
@@ -3447,7 +3631,12 @@ msgid ""
 "Empire. These massive and durable constructs wield huge Gerudo War Axes into battle. "
 "Having already died in the distant past, they know absolutely no fear and will engage "
 "even the most terrifying enemy head-on."
-msgstr "Mit den Geistern toter Gerudo Könige beseelte Rüstungen, die wieder in der Welt der Lebenden wandeln um Krieg gegen die Feinde des Reiches zu führen. Diese massiven und unverwüstlichen Rüstungen führen riesige Gerudo Kriegsäxte mit sich in die Schlacht. Da sie schon einmal gestorben sind fürchten sie nichts und niemanden und bieten selbst den furchterregendsten Gegnern die Stirn."
+msgstr ""
+"Mit den Geistern toter Gerudo Könige beseelte Rüstungen, die wieder in der Welt der Lebenden"
+"wandeln um Krieg gegen die Feinde des Reiches zu führen. Diese massiven und unverwüstlichen "
+"Rüstungen führen riesige Gerudo Kriegsäxte mit sich in die Schlacht. Da sie schon einmal "
+"gestorben sind fürchten sie nichts und niemanden und bieten selbst den furchterregendsten"
+"Gegnern die Stirn."
 
 #: simulation/templates/units/gerudo/gerudo_ironknuckle_b.xml:59
 msgid ""
@@ -3470,7 +3659,11 @@ msgid ""
 "out of training. With little armor to worry about, Marauders can sprint across the "
 "sands of their homeland with ease, and swiftly raid enemy settlements with their "
 "scimitar."
-msgstr "Gerudo Marodeurinnen bestehen aus den jüngsten Kriegerinnen des Reiches die gerade frisch aus dem Training kommen. Ausgerüstet mit wenig panzerung um die sie sich kümmern müssten können die Marodeurinnen mühelos über den Wüstensand sprinten und feindliche Siedlungen mit ihren Säbeln rasch überfallen."
+msgstr ""
+"Gerudo Marodeurinnen bestehen aus den jüngsten Kriegerinnen des Reiches die gerade frisch"
+"aus dem Training kommen. Ausgerüstet mit wenig panzerung um die sie sich kümmern müssten"
+"können die Marodeurinnen mühelos über den Wüstensand sprinten und feindliche Siedlungen"
+"mit ihren Säbeln rasch überfallen."
 
 #: simulation/templates/units/gerudo/gerudo_marauder_b.xml:38
 msgid "Light Infantry Melee unit that can raid enemies."
@@ -3485,7 +3678,10 @@ msgid ""
 "In the harsh desert, thievery is often the best means of survival, and the Gerudo are "
 "the undisputed champions. Master Thieves can sneak into just about any location and "
 "pickpocket, steal, murder, and engage in all-out melee."
-msgstr "In der harschen Wüste ist der Diebstahl of eine der besten Möglichkeiten zu Überleben und die Gerudo sind die unangefochtenen CHampions. Meistediebinnen can sich in so ziemlich jeden Ort reinschleichen um zu stehlen, rauben, morden oder gleich ein ganzes Gefecht vom Zeun zu brechen. "
+msgstr ""
+"In der harschen Wüste ist der Diebstahl oft eine der besten Möglichkeiten um zu Überleben und"
+"die Gerudo sind die unangefochtenen Champions. Meisterdiebinnen can sich in so ziemlich jeden"
+"Ort reinschleichen um zu stehlen, rauben, morden oder gleich ein ganzes Gefecht vom Zeun zu brechen. "
 
 #: simulation/templates/units/gerudo/gerudo_masterthief_b.xml:46
 msgid "Swift Melee unit that is Stealthed."
@@ -3502,7 +3698,12 @@ msgid ""
 "from a very young age in the art of the bow, Sand Snipers are infamous for their "
 "ability to hit their targets dead-on from extremely long ranges. There are few "
 "individuals in Hyrule who can best them from a distance. "
-msgstr "Die Gerudo Sand Scharfschützinnen repäsentieren ein paar der besten Bogenschützen in der gesamten Wüste. Schon von klein auf im umgang mit denm Bogen trainiert waren die Scharfschützinnen berüchtigt für ihre Fähigkeit Gegner aus einer extremen Entfernung zu treffen. Es gibt wenige Individuen in Hyrule die sie im Distanzkampf herauszufordern."
+msgstr ""
+"Die Gerudo Sand Scharfschützinnen repäsentieren ein paar der besten Bogenschützen in der"
+"gesamten Wüste. Schon von klein auf im umgang mit denm Bogen trainiert waren die"
+"Scharfschützinnen berüchtigt für ihre Fähigkeit Gegner aus einer extremen Entfernung zu"
+"treffen. Es gibt nur wenige Individuen in Hyrule die sie im Distanzkampf herauszufordern."
+"können."
 
 #: simulation/templates/units/gerudo/gerudo_sandsniper_b.xml:47
 #: simulation/templates/units/gerudo/gerudo_sandsniper_garrison.xml:48
@@ -3524,7 +3725,10 @@ msgid ""
 "Fitted with a giant head-mounted horn, the Sandseal Plower serves as a living battering"
 " ram for Gerudo armies. Capable of crossing harsh deserts as well as bodies of water, "
 "the Plower can charge into buildings and walls, tearing them apart brick-by-brick."
-msgstr "Sandrobben Pflüge sind lebende Rammböcke der Gerudo Armeen,denen ein riesiges Horn auf dem Kopf angebracht wurde. Mit der Fähigkeit sowohl die harsche Wüste als auch die Gewässer zu überqueren, können sie jede Mauer oder Gebäude stürmen und Stein um Stein einreißen."
+msgstr ""
+"Sandrobben Pflüge sind lebende Rammböcke der Gerudo Armeen,denen ein riesiges Horn auf dem "
+"Kopf angebracht wurde. Mit der Fähigkeit sowohl die harsche Wüste als auch die Gewässer zu "
+"überqueren, können sie jede Mauer oder Gebäude stürmen und Stein um Stein einreißen."
 
 #: simulation/templates/units/gerudo/gerudo_sealplower_b.xml:45
 msgid "Strong but slow moving Cavalry Siege unit."
@@ -3541,7 +3745,8 @@ msgid ""
 " Khopesh and the legendary Mirror Shield, they are completely immune to all elemental "
 "and magical attacks, making them excellent at killing mages and other mystical beasts "
 "in battle."
-msgstr "In zeremonieller goldener Rüstung gekleidet, der ersten Weise der Geister Kovaloo nachempfunden,  "
+msgstr ""
+"In zeremonieller goldener Rüstung gekleidet, der ersten Weise der Geister Kovaloo nachempfunden,  "
 "bewachen die Schlangetöterinnen die verborgenen Tiefen der in der Wüste verteilten Gerudo Grüfte. "
 "Mit Chepesch in der einen und dem legendärem Spiegeschild in der anderen Hand, "
 "sind sie immun gegen alle Angriffe von der Elemente und Magie, "
@@ -3568,9 +3773,10 @@ msgid ""
 "magically merging into a powerful and malevolent entity known as Twinrova. When "
 "combined, the witches are capable of unleashing devastating fire and ice magic against "
 "enemies."
-msgstr "Die Zwillingschwestern Koume und Kotake sind die Ziehmütter von Ganondorf"
-"und in der Lage magisch in eine mächtige und bösartige Entität bekannt als Twinrova "
-"zu verschmelzen. Wenn sie verschmolzen sind können sie vernichtende Feuer und Eis Magie"
+msgstr ""
+"Die Zwillingschwestern Koume und Kotake sind die Ziehmütter von Ganondorf und in"
+"der Lage magisch in eine mächtige und bösartige Entität bekannt als Twinrova zu "
+"verschmelzen. Wenn sie verschmolzen sind können sie vernichtende Feuer und Eis Magie"
 "auf ihre gegner niederregnen lassen."
 
 #: simulation/templates/units/gerudo/gerudo_titan_twinrova.xml:78
@@ -3603,9 +3809,11 @@ msgid ""
 "long-deceased Gerudo Kings, as well as the Royal Palace and other political centers. "
 "Armed with a Trident-Spear and shining Golden Shield, Tomb Guards can stand their "
 "ground and hold off almost any foe."
-msgstr "Hochrangige Soldatinnen des Gerudo Militärs, die sowohl über die Gräber der lang "  
-"verstobenen Könige als auch den Königlichen Palast und anderen politischen Zentren wachen. "
-"Mit einem Dreizack und einem goldenen Schild ausgerüstet können die Totenwachen sich gegen fast jeden Gegner behaupten.
+msgstr ""
+"Hochrangige Soldatinnen des Gerudo Militärs, die sowohl über die Gräber der lang verstobenen "  
+"Könige als auch den Königlichen Palast und anderen politischen Zentren wachen. Mit einem "
+"Dreizack und einem goldenen Schild ausgerüstet können die Totenwachen sich gegen fast"
+"jeden Gegner behaupten."
 
 #: simulation/templates/units/gerudo/gerudo_tombguard_b.xml:43
 msgid "Strong defensive Infantry unit armed with a spear and shield."
@@ -3620,8 +3828,9 @@ msgid ""
 "A scout and explorer, the Trailblazer spends most of her life on the borders of the "
 "Gerudo Desert or in foreign lands. During times of war, Trailblazers are called to "
 "track the movements of enemy forces, whom in most cases they can easily outrun."
-msgstr "Als Entdecker und Späherinnen verbringen die Voreiterinnen die meiste Zeit ihres Lebens "
-"and Grenzen der Gerudo Wüste oder in Fremden Ländern. In Kriegszeiten werden die Vorreiterinnen"
+msgstr ""
+"Als Entdecker und Späherinnen verbringen die Voreiterinnen die meiste Zeit ihres Lebens an den"
+"Grenzen der Gerudo Wüste oder in Fremden Ländern. In Kriegszeiten werden die Vorreiterinnen"
 "gerufen um die feindliche Truppenbewegungen zu überwachen denen sie einfach davonreiten können"
 
 #: simulation/templates/units/gerudo/gerudo_trailblazer_b.xml:46
@@ -3637,12 +3846,13 @@ msgid ""
 "Riding on the signature black horses of the Desert, the Vagrudanon fill the core of the"
 " Gerudo's military cavalry. They are some of the fastest riders in all of Hyrule, and "
 "can strike terror into their enemies with unrelenting raids."
-msgstr "Den Kern der Gerudo Kavallerie bilden die Vagrudanon auf den für die Wüste charakteristischen schwarzen Pferden reiten."
+msgstr ""
+"Den Kern der Gerudo Kavallerie bilden die Vagrudanon auf den für die Wüste charakteristischen schwarzen Pferden reiten."
 "Sie gehören zu den schnellsten Reiterinnen in Hyrule und lassen ihre Feinde in Furcht erzittern mit höufigen Überfällen"
 
 #: simulation/templates/units/gerudo/gerudo_vagrudanon_b.xml:39
 msgid "Fast and Light Cavalry unit geared towards raiding enemy targets."
-msgstr "SChnelle leichte Kavallerie die auf Überfälle spezialisiert ist."
+msgstr "Schnelle leichte Kavallerie die auf Überfälle spezialisiert ist."
 
 #: simulation/templates/units/gerudo/gerudo_windwitch_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
@@ -3659,9 +3869,10 @@ msgid ""
 "after their male kings became extinct. Dark magics of the ancient desert have given "
 "them extraordinarily long lives, as well as power over sand and wind. They are feared "
 "and revered by all Gerudo."
-msgstr "Ältere Matriarchen der Gerudo die an die Macht kamen nachdem die männlichen Könige ausstarben"
+msgstr ""
+"Ältere Matriarchen der Gerudo die an die Macht kamen nachdem die männlichen Könige ausstarben."
 "Dunkle Magie aus der alten Wüste hat ihnen ein außergewöhnlich langes Leben und die Macht über"
-"Saand und Wind geschenkt. Sie werden von allen Gerudo gefürchtet und verehrt."
+"Sand und Wind geschenkt. Sie werden von allen Gerudo gefürchtet und verehrt."
 
 #: simulation/templates/units/gerudo/gerudo_windwitch_b.xml:59
 msgid "Mage unit with powerful Wind attack that deals Knockback damage."
@@ -3778,7 +3989,8 @@ msgid ""
 "A small Gohma that the hive will use is desparate situations. These tiny nightmares "
 "seek out their targets and selflessly kill themselves by erupting into a burning green "
 "ooze."
-msgstr "Eine kleine Gohma die der Schwarm in verzweifelten Situationen einsetzt"
+msgstr ""
+"Eine kleine Gohma die der Schwarm in verzweifelten Situationen einsetzt"
 "Diese kleinen Albträume suchen sich ein Ziel und töten sich selbstlos "
 "indem sie in einer brennenden grünen Masse explodieren"
 
@@ -3971,7 +4183,7 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_hero_queenbaga.xml:49
 msgid "Queen Baga"
-msgstr ""
+msgstr "Königin Baga"
 
 #: simulation/templates/units/gohma/gohma_hero_queenbaga.xml:50
 msgid "A Support Hero that can spawn smaller Gohma behind enemy lines."
@@ -3993,7 +4205,7 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_hero_sulkaris.xml:55
 msgid "Sulkaris"
-msgstr ""
+msgstr "SKönigin Sulkaris"
 
 #: simulation/templates/units/gohma/gohma_hero_sulkaris.xml:56
 msgid "Very large Creature Hero that can rip apart enemies with her wicked claws."
@@ -4016,7 +4228,7 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_keeper_b.xml:52
 msgid "Mite Keeper"
-msgstr ""
+msgstr "Milben Meister"
 
 #: simulation/templates/units/gohma/gohma_keeper_b.xml:53
 msgid ""
@@ -4024,10 +4236,12 @@ msgid ""
 "Mites at enemies, which will then proceed to attack any hostile near where the creature"
 " lands."
 msgstr ""
+"Milbenmeister tragen einen Schwarm an Gohma Milben mit sich. Die Meister können diese Milben"
+"auf Gegner schleudern die dann von den Milben mitsamt jeden im umkreis angegriffen werden."
 
 #: simulation/templates/units/gohma/gohma_keeper_b.xml:56
 msgid "Ranged unit that hurls Mites at enemies."
-msgstr ""
+msgstr "Distanzeinheit die Milben wirft."
 
 #: simulation/templates/units/gohma/gohma_keeper_upg.xml:4
 msgctxt "Name of an attack, usually the weapon."
@@ -8368,6 +8582,9 @@ msgid ""
 "Their ability to traverse any terrain made them a very nasty surprise for enemies "
 "ambushed by them in unexpected locations."
 msgstr ""
+"Eine kleine Schlangenhafte Kreatur die zwar sehr fragil ist aber in großen Schwärmen gezüchtet"
+"wirdd. Ihre Fähigkeit jedes Terrain zu überqueren macht die Giftwürmer zu einer bösen Überraschung"
+"für Gegner die sie an unerwartteten Orten angreifen."
 
 #: simulation/templates/units/lizalfos/lizalfos_rope_b.xml:38
 msgid "Small Melee Creature who can move over any terrain."
@@ -8390,6 +8607,10 @@ msgid ""
 "religion. Day in and out they go about chanting and dancing, encouraging tithes and "
 "sacrifices in order to appease the various gods and prevent disaster."
 msgstr ""
+"Nachdem sie im Wald von Phirone siedelten wurden diese Schamanen zur dominatnen Sekte"
+"in der Chamäleos, damals noch Echsalfos, Religion. Tag ein und Tag aus verbringen sie"
+"damit zu tanzen und zu singen, um spenden und opfern zu ermutigen damit die Götter  "
+"besänftigt und Katastrophen abgewehrt werden."
 
 #: simulation/templates/units/lizalfos/lizalfos_shaman_b.xml:38
 msgid "Support unit that can offer sacrifices at Altars for various benefits."
@@ -8397,7 +8618,7 @@ msgstr "Unterstützungseinheit"
 
 #: simulation/templates/units/lizalfos/lizalfos_sneak_b.xml:33
 msgid "Chameleofos Skink"
-msgstr "Chamäleofos Skink"
+msgstr "Chamäleofos Schleicher"
 
 #: simulation/templates/units/lizalfos/lizalfos_sneak_b.xml:34
 msgid ""
@@ -8405,6 +8626,9 @@ msgid ""
 " to their natural Camouflage. A Sneak could hide just feet away from a target and "
 "remain completely invisible, so long as they stood still."
 msgstr ""
+"Die Chamäleofosaus dem Phirone Wlad sind für ihre natürliche Tarnung geschätzt. "
+"Ein Schleicher konnte sich nur ein paar meter von einem Ziel verstecken und komplett"
+"unsichtbar bleiben so lange sie still blieben."
 
 #: simulation/templates/units/lizalfos/lizalfos_sneak_b.xml:39
 msgid "Stealthed Scout unit that can detect other Stealthed and Camouflaged units."
@@ -8421,6 +8645,10 @@ msgid ""
 "Lizalfos men: the Whisper Song. When backed into a corner they could kill their "
 "assailant with a wicked dagger."
 msgstr ""
+"Die Liederschreiberinnen waren dazu auserkoren ihre männlichen gegenstücke zu kommandieren."
+"Zwar waren sie noch relativ jung doch die Liederschreiberinnen waren berüchtigt dafür"
+"die Kontrolle über Echsalfos Männer  mit dem Flüsterlied zu übernehmen. Falls sie in Bedrägnis"
+"kamen konnten sie sich mit einen Dolch wehren."
 
 #: simulation/templates/units/lizalfos/lizalfos_songsayer_b.xml:39
 msgid ""
@@ -8457,6 +8685,9 @@ msgid ""
 "A warrior class of the Faron Chameleofos, the Striker was suited in armor and carried a"
 " spear into battle. Their natural camouflage allowed them to hide and ambush enemies."
 msgstr ""
+"Eine Kriegerklasse der Phirone Chamäleofos. Die Sturmtruppen waren in einer Rüstung und"
+"mit einer Lanze bewaffnet. Ihre natürliche Tarnung ermöglichte es ihnen sich zu verstecken "
+"und Gegnern aufzulauern."
 
 #: simulation/templates/units/lizalfos/lizalfos_striker_b.xml:38
 msgid "Armored Melee unit armed with a long reaching spear."
@@ -8670,10 +8901,14 @@ msgid ""
 "mercy, Forest Thieves are more then willing to steal from anyone, and even more then "
 "willing to kill anyone if they are paid up front."
 msgstr ""
+"Kokiri die den Einfluss des Großen Deku Baums verließen und wieder anfingen zu altern und"
+"zur Kultur der ursprünglichen Kokiri Banditen wiederkehrten. Ruchlos und ohne Gnade, sind"
+"die Walddiebe bereit alles und jeden auszurauben und noch bereiter jemanden für bezahlung"
+"zu töten."
 
 #: simulation/templates/units/merc_forestthief_b.xml:46
 msgid "Missile unit that tosses knives at their victims from a distance."
-msgstr ""
+msgstr "Fernkämpfer die Messer werfen"
 
 #: simulation/templates/units/darknut/darknut_glasswitch_b.xml:51
 #: simulation/templates/units/darknut/darknut_hero_onon.xml:55
@@ -8965,7 +9200,7 @@ msgstr "Distanzkämpfer der mehrere Gegner gleichzeitig mit einem Bumerang triff
 
 #: simulation/templates/units/merc_mago_b.xml:41
 msgid "Mago"
-msgstr ""
+msgstr "Mago"
 
 #: simulation/templates/units/merc_mago_b.xml:42
 msgid ""
@@ -8974,10 +9209,14 @@ msgid ""
 "often losing their sanity as they attempt ever deadlier and crazier magics. A fair sum "
 "of Rupees might be enough to encourage one to torch your enemies with a fireball."
 msgstr ""
+"Einst praktizierende Hexen wurden sie selbst von den anderen Ausgestoßenen verbannt da sie"
+"etwas zu weit gingen mit ihren Zaubersprüchen. Viele Mago leben isoliert im tiefen Wald und"
+"die meisten verlieren ihren Verstand sich an noch wahnsinnigere und gefährlichere Magie wagen"
+""Eine gute Summe von Rubinen ermutigt sie dazu einem die Feinde mit Feuerbällen zu entledigen.
 
 #: simulation/templates/units/merc_mago_b.xml:46
 msgid "Small Mage unit that can hurl fireballs at their targets."
-msgstr ""
+msgstr "Kleine Magier die Feuerbälle schleudern."
 
 #: simulation/templates/units/darknut/darknut_immortal_b.xml:54
 #: simulation/templates/units/darknut/darknut_immortal_regen.xml:30
