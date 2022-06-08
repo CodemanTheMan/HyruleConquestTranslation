@@ -57,7 +57,7 @@ msgstr ""
 
 #: simulation/templates/structures/campaign/FS_01/gohma_civil_centre.xml:63
 msgid "Hive Core"
-msgstr ""
+msgstr "Jádro Úlu"
 
 #: simulation/templates/structures/campaign/FS_01/gohma_civil_centre.xml:64
 msgid ""
@@ -66,10 +66,13 @@ msgid ""
 "growth that can spawn new buildings. The Hive Core is needed to construct all Gohma "
 "buildings, and also serves as a resource drop off point."
 msgstr ""
+"Zdánlivé centrum Gómského Úlu, Jádro Úlu tvoří a vydechuje tajemnou zelenou mlhu "
+"arachnidů do okolí, a pokrývá ho pavučinami a rostem který tvoří další budovy. Jádro "
+"Úlu je nutné k tvorbě všech Gómských budov."
 
 #: simulation/templates/structures/campaign/FS_01/gohma_civil_centre.xml:66
 msgid "Gohma Civil Center: All Resources can be dropped off here."
-msgstr ""
+msgstr "Občanské Centrum Góm."
 
 #: simulation/templates/structures/campaign/FS_01/gohma_egg.xml:32
 #: simulation/templates/structures/gohma/eggs/gohma_egg_gohma_harvesterA.xml:37
@@ -171,7 +174,7 @@ msgstr ""
 
 #: simulation/templates/structures/darknut/darknut_apotheon.xml:30
 msgid "Apotheon"
-msgstr ""
+msgstr "Apotheon"
 
 #: simulation/templates/structures/darknut/darknut_apotheon.xml:31
 msgid ""
@@ -179,10 +182,13 @@ msgid ""
 "Apotheon to undergo a formal transition to godhood. Countless Darknuts would "
 "fanatically worship their chosen heroes at these altars of deification."
 msgstr ""
+"Když se stal Temnář tak slavný že začal být uctíván, byl přiveden do Apoteonu aby "
+"podstoupil formální přeměnu na božství. Nespočetní Temnáři fanaticky uctívali své "
+"hrdiny v těchto oltářích zbožštění."
 
 #: simulation/templates/structures/darknut/darknut_apotheon.xml:33
 msgid "Trains high level and powerful Darknut units."
-msgstr ""
+msgstr "Trénuje vysoce silné a mocné temnářské jednotky."
 
 #: simulation/templates/structures/darknut/darknut_apotheon.xml:34
 #: simulation/templates/structures/darknut/darknut_barracks.xml:37
@@ -252,21 +258,23 @@ msgstr ""
 #: simulation/templates/structures/zora/zora_healgallery.xml:30
 #: simulation/templates/structures/zora/zora_stables.xml:35
 msgid "Barracks"
-msgstr ""
+msgstr "Kasárny"
 
 #: simulation/templates/structures/darknut/darknut_auditorium.xml:25
 msgid "Auditorium"
-msgstr ""
+msgstr "Auditorium"
 
 #: simulation/templates/structures/darknut/darknut_auditorium.xml:26
 msgid ""
 "The Darknuts would mass at their Auditoriums to listen to, debate, and refine their "
 "proposals and treatises."
 msgstr ""
+"Temnáři se shromažďovali ve svých Auditoriích aby poslouchali, debatovali, a rafinovali "
+"své návrhy a pojednání."
 
 #: simulation/templates/structures/darknut/darknut_auditorium.xml:29
 msgid "Creates a variety of improvements for many Darknut features."
-msgstr ""
+msgstr "Tvoří různá vylepšení pro mnohé Temnářské schopnosti."
 
 #: simulation/templates/structures/darknut/darknut_auditorium.xml:30
 #: simulation/templates/structures/darknut/darknut_colosseum.xml:30
@@ -280,11 +288,11 @@ msgstr ""
 #: simulation/templates/structures/zora/zora_mercs.xml:35
 #: simulation/templates/structures/zora/zora_theater.xml:34
 msgid "Special"
-msgstr ""
+msgstr "Speciální"
 
 #: simulation/templates/structures/darknut/darknut_barracks.xml:33
 msgid "Gymnasia"
-msgstr ""
+msgstr "Gymnázium"
 
 #: simulation/templates/structures/darknut/darknut_barracks.xml:34
 msgid ""
@@ -293,14 +301,17 @@ msgid ""
 "Legion. The Gymnasia was a public location from which anyone could be trained to fight "
 "and defend."
 msgstr ""
+"Většina Temnářských měst udržovala armády vněj kódu cti Legie. Často to bývali "
+"civilisté nebo jedinci kteří doufali v přijmutí do Legie. Gymnázium bylo veřejné "
+"prostranství ve kterém mohl být kdokoliv trénován k boji."
 
 #: simulation/templates/structures/darknut/darknut_barracks.xml:36
 msgid "Trains basic Darknut units."
-msgstr ""
+msgstr "Trénuje základní Temnářské jednotky."
 
 #: simulation/templates/structures/darknut/darknut_blacksmith.xml:30
 msgid "Armorum"
-msgstr ""
+msgstr "Armorum"
 
 #: simulation/templates/structures/darknut/darknut_blacksmith.xml:31
 msgid ""
@@ -309,10 +320,14 @@ msgid ""
 "crafters worked at these sacred altars, creating only the finest armors for the "
 "soldiers of the Legion."
 msgstr ""
+"Podobně jako válečníci, někteří Temnářští kováři se stali tak slavnými že byli "
+"prakticky uctíváni jako bezchybní bozi pro svou práci. Nejlepší Temnářští tvůrci "
+"brnění pracovali u těchto svatých oltářů, tvořící pouze nejlepší brnění pro vojáky "
+"Legie."
 
 #: simulation/templates/structures/darknut/darknut_blacksmith.xml:34
 msgid "Improves armor and weaponry of Darknut units."
-msgstr ""
+msgstr "Vylepšuje brnění a zbraně Temnářských jednotek."
 
 #: simulation/templates/structures/darknut/darknut_blacksmith.xml:35
 #: simulation/templates/structures/deku/deku_blacksmithB.xml:35
@@ -350,7 +365,7 @@ msgstr ""
 #: simulation/templates/structures/zora/zora_blacksmith.xml:35
 #: simulation/templates/structures/zora/zora_blacksmithB.xml:35
 msgid "Research"
-msgstr ""
+msgstr "Výzkumné"
 
 #: simulation/templates/structures/darknut/darknut_camp.xml:32
 #: simulation/templates/structures/darknut/darknut_camp.xml:36
@@ -412,21 +427,22 @@ msgstr ""
 #: simulation/templates/structures/zora/zora_mining.xml:23
 #: simulation/templates/structures/zora/zora_storehouse.xml:29
 msgid "Storehouse"
-msgstr ""
+msgstr "Sklad"
 
 #: simulation/templates/structures/darknut/darknut_camp.xml:33
 msgid ""
 "A small yard for gathering, packing, storing, and hauling collected resources for the "
 "Darknut Legion."
 msgstr ""
+"Malý sklad pro sběr, balení, skladování, a nošení sesbíraných zdrojů Temnářské Legie."
 
 #: simulation/templates/structures/darknut/darknut_camp.xml:35
 msgid "Center of a Darknut Camp."
-msgstr ""
+msgstr "Centrum Temnářského tábora."
 
 #: simulation/templates/structures/darknut/darknut_civil_centre.xml:133
 msgid "Basilica"
-msgstr ""
+msgstr "Bazilika"
 
 #: simulation/templates/structures/darknut/darknut_civil_centre.xml:134
 msgid ""
@@ -435,18 +451,23 @@ msgid ""
 "agenda of the Legion. In addition it provided the structural foundation for many "
 "expansions as well as basic defenses, Thrall training, and storerooms for resources."
 msgstr ""
+"Veřejné centrum kteréhokoliv Temnářského města, Bazilika byla shromažďovací prostranství "
+"pro vojáky a šlechtice v Temnářkých zemích kde diskutovali a pracovali vůči jednání Legie. "
+"Navíc poskytovala kámen základu pro mnoho expanzí a také základních obran, trénink otroků, "
+"a sklad pro zdroje."
 
 #: simulation/templates/structures/darknut/darknut_civil_centre.xml:136
 msgid ""
 "Center of a Darknut Settlement. Summons Darknut Heroes. Manned with Peltasts for "
 "defense."
 msgstr ""
+"Centrum Temnářského města. Povolává Temnářské hrdiny. Obsazeno Peltasty pro obranu."
 
 #: simulation/templates/structures/darknut/darknut_civil_centre_ruin.xml:51
 #: simulation/templates/structures/darknut/darknut_civil_centre_tinyruin.xml:51
 #: simulation/templates/structures/darknut/darknut_outpost.xml:83
 msgid "Agora"
-msgstr ""
+msgstr "Agora"
 
 #: simulation/templates/structures/darknut/darknut_civil_centre_ruin.xml:52
 #: simulation/templates/structures/darknut/darknut_civil_centre_tinyruin.xml:52
@@ -469,11 +490,11 @@ msgstr ""
 #: simulation/templates/structures/ruins/ruins_baseA.xml:22
 #: simulation/templates/structures/ruins/ruins_baseB.xml:22
 msgid "Ruins"
-msgstr ""
+msgstr "Zříceniny"
 
 #: simulation/templates/structures/darknut/darknut_colosseum.xml:25
 msgid "Colosseum"
-msgstr ""
+msgstr "Koloseum"
 
 #: simulation/templates/structures/darknut/darknut_colosseum.xml:26
 msgid ""
@@ -481,10 +502,13 @@ msgid ""
 "ground. The best Darknut warriors were pitted against each other, sometimes solo and "
 "sometimes squad on squad."
 msgstr ""
+"Tyto obří arény často sloužily jako poslední trénink a testovací prostranství "
+"Temnářských vojáků. Nejlepší Temnářští válečníci byli postaveni proti sobě, občas sólo "
+"a občas četa proti četě."
 
 #: simulation/templates/structures/darknut/darknut_colosseum.xml:29
 msgid "Darknut units slowly gain experience points from here."
-msgstr ""
+msgstr ""Temnářské jednotky odsud pomalu získávají zkušenostní body."
 
 #: simulation/templates/structures/darknut/darknut_defense_tower.xml:27
 #: simulation/templates/structures/deku/deku_defense_tower.xml:27
@@ -514,21 +538,23 @@ msgstr ""
 #: simulation/templates/structures/sheikah/sheikah_defense_tower.xml:27
 #: simulation/templates/structures/zora/zora_defense_tower.xml:27
 msgid "DefenseTower"
-msgstr ""
+msgstr "Obraná Vež"
 
 #: simulation/templates/structures/darknut/darknut_defense_tower.xml:81
 msgid "Overwatch"
-msgstr ""
+msgstr "Turris"
 
 #: simulation/templates/structures/darknut/darknut_defense_tower.xml:82
 msgid ""
 "A very tall tower built along the rims of Darknut cities. Citizens manned the Overwatch"
 " day and night, tossing Javelins from above with thunderous force."
 msgstr ""
+"Velmi vysoká vež postavena na krajích Temnářských měst. Občané seděli v těchto věžích "
+"den i noc, a házeli kopí s ohromnou silou."
 
 #: simulation/templates/structures/darknut/darknut_defense_tower.xml:85
 msgid "Tower that attacks enemies wite javelins."
-msgstr ""
+msgstr "Věž která útočí na nepřátele vrháním kopí."
 
 #: simulation/templates/structures/darknut/darknut_defense_tower.xml:86
 #: simulation/templates/structures/deku/deku_defense_tower.xml:91
@@ -557,11 +583,11 @@ msgstr ""
 #: simulation/templates/structures/sheikah/sheikah_defense_tower.xml:65
 #: simulation/templates/structures/zora/zora_defense_tower.xml:62
 msgid "Tower"
-msgstr ""
+msgstr "Věž"
 
 #: simulation/templates/structures/darknut/darknut_field.xml:52
 msgid "Vineyard"
-msgstr ""
+msgstr "Vinice"
 
 #: simulation/templates/structures/darknut/darknut_field.xml:53
 msgid ""
@@ -569,14 +595,17 @@ msgid ""
 "imported vines as a main source for their diets. The cliffs along their cities were "
 "host to quite a variety of mounted vines."
 msgstr ""
+"Jelikož neměli moc rovin pro pěstování plodin, Temnáři kultivovali domorodé i "
+"importované révy jako hlavní zdroj jejich jídelníčků. Útesy kolem jejích měst byly "
+"oběšeny mnohými různými révami."
 
 #: simulation/templates/structures/darknut/darknut_field.xml:55
 msgid "Grows western grapes that can be harvested for Food."
-msgstr ""
+msgstr "Roste západní hrozny které mohou být sklizeny pro jídlo."
 
 #: simulation/templates/structures/darknut/darknut_house.xml:35
 msgid "Domus"
-msgstr ""
+msgstr "Domus"
 
 #: simulation/templates/structures/darknut/darknut_house.xml:36
 msgid ""
@@ -584,6 +613,9 @@ msgid ""
 "spartan and small. Little more than a bed and storage for personal items, many members "
 "of the Legion could live within the limited space of Darknut cities."
 msgstr ""
+"Přestože byli Temnáři velká svtoření, jejich obývací prostory a požadavky byly poměrně "
+"sparťanské a malé. O nic víc než postel a sklad pro osobní majetek, mnozí členové Legie "
+"mohli žít v limitovaném prostru Temnářských měst."
 
 #: simulation/templates/structures/darknut/darknut_house.xml:38
 #: simulation/templates/structures/deku/deku_house.xml:38
@@ -599,7 +631,7 @@ msgstr ""
 #: simulation/templates/structures/sheikah/sheikah_house.xml:28
 #: simulation/templates/structures/zora/zora_house.xml:39
 msgid "Housing that allows you to field larger armies."
-msgstr ""
+msgstr "Bydlení které umožňuje nasadit větší armády."
 
 #: simulation/templates/structures/darknut/darknut_house.xml:39
 #: simulation/templates/structures/deku/deku_house.xml:39
@@ -620,11 +652,11 @@ msgstr ""
 #: simulation/templates/structures/sheikah/sheikah_house.xml:29
 #: simulation/templates/structures/zora/zora_house.xml:40
 msgid "House"
-msgstr ""
+msgstr "Dům"
 
 #: simulation/templates/structures/darknut/darknut_jeweller.xml:25
 msgid "Jeweller"
-msgstr ""
+msgstr "Šperkařství"
 
 #: simulation/templates/structures/darknut/darknut_jeweller.xml:26
 msgid ""
@@ -632,15 +664,18 @@ msgid ""
 "Gemcraft among their people was reknown across all of Hyrule, and many would traverse "
 "the Gerudo Desert to seek out the products of these makers."
 msgstr ""
+"Šperky, zejména zlaté šperky byly extrémně ceněny mezi Temnářským lidem. Klenotnictví "
+"jejich lidu bylo proslaveno po celém Hyronu, a mnozí cestovali přes Gerudskou poušť aby "
+"vyhledali produkty těchto tvůrců."
 
 #: simulation/templates/structures/darknut/darknut_jeweller.xml:29
 #: simulation/templates/structures/lanayru/lanayru_bank.xml:39
 msgid "Automatically generates Rupees."
-msgstr ""
+msgstr "Automaticky generuje Rupie."
 
 #: simulation/templates/structures/darknut/darknut_legbarracks.xml:33
 msgid "Holosideros"
-msgstr ""
+msgstr "Holosideros"
 
 #: simulation/templates/structures/darknut/darknut_legbarracks.xml:34
 msgid ""
@@ -648,20 +683,25 @@ msgid ""
 "through quite an arduous and demanding course. Soldiers that came out the other end "
 "alive were molded into some of Hyrule’s deadliest warriors."
 msgstr ""
+"Stát se válečníkem Temnářské Legie nebyl lhký úkol, a všichni kteří se připojili "
+"porstoupili docela náročným tréninkem. Vojáci kteří se dostali na konec živí a zdraví "
+"byli proměněni v některé z nejsmrtelnějších válčníků Hyronu."
 
 #: simulation/templates/structures/darknut/darknut_legbarracks.xml:36
 msgid "Trains armored Legion units."
-msgstr ""
+msgstr "Trénuje obrněné jednotky Legie."
 
 #: simulation/templates/structures/darknut/darknut_market.xml:35
 msgid "Public Forums"
-msgstr ""
+msgstr "Večejné Fórum"
 
 #: simulation/templates/structures/darknut/darknut_market.xml:36
 msgid ""
 "Allowing foreign people and powers to set up shops and goods within the Public Forum "
 "brought forth many goods and services to the Legion’s people, not to mention Rupees."
 msgstr ""
+"Povolení cizím lidem a silám operovat obchody a prodávat zboží na Veřejném Fóru "
+"přineslo lidem Legie mnohé žboží a služby, nemluvě o Rupiích."
 
 #: simulation/templates/structures/darknut/darknut_market.xml:39
 #: simulation/templates/structures/deku/deku_market.xml:39
@@ -677,11 +717,11 @@ msgstr ""
 #: simulation/templates/structures/stalfos/stalfos_market.xml:40
 #: simulation/templates/structures/zora/zora_market.xml:39
 msgid "Allows the trading of resources on the market or with your allies."
-msgstr ""
+msgstr "Povoluje trénink zdrojů na trhu nebo s vašimi spojenci."
 
 #: simulation/templates/structures/darknut/darknut_mercs.xml:30
 msgid "Foreign Quarter"
-msgstr ""
+msgstr "Cizinecká Čtvrtka"
 
 #: simulation/templates/structures/darknut/darknut_mercs.xml:31
 msgid ""
@@ -690,10 +730,13 @@ msgid ""
 " dwelled in these halls, all seeking the Rupees that the Legion was more than happy to "
 "provide."
 msgstr ""
+"Cizinecká Čtvrtka byla založeny k najímání a ubytování žoldáků všech ras a vyznání pro "
+"Legii. Ohromující počet tvorů a válečníků prošli a žili v těchto halách, a všichni hledali "
+"Rupie která byla Legie více než ochotná dodat."
 
 #: simulation/templates/structures/darknut/darknut_mercs.xml:34
 msgid "Allows the Legion to hire Mercenary units."
-msgstr ""
+msgstr "Umožňuje Legii najímat žoldáky."
 
 #: simulation/templates/structures/darknut/darknut_mining.xml:19
 #: simulation/templates/structures/deku/deku_mining.xml:19
@@ -707,7 +750,7 @@ msgstr ""
 #: simulation/templates/structures/sheikah/sheikah_mining.xml:19
 #: simulation/templates/structures/zora/zora_mining.xml:19
 msgid "Mine"
-msgstr ""
+msgstr "Důl"
 
 #: simulation/templates/structures/darknut/darknut_mining.xml:20
 #: simulation/templates/structures/deku/deku_mining.xml:20
@@ -722,7 +765,7 @@ msgstr ""
 #: simulation/templates/structures/sheikah/sheikah_mining.xml:20
 #: simulation/templates/structures/zora/zora_mining.xml:20
 msgid "A small yard for miners to gather Stone and Ore."
-msgstr ""
+msgstr "Malé prostranství pro horníky ke sběru kamene a rud."
 
 #: simulation/templates/structures/darknut/darknut_mining.xml:22
 #: simulation/templates/structures/deku/deku_mining.xml:22
@@ -739,20 +782,22 @@ msgstr ""
 #: simulation/templates/structures/sheikah/sheikah_storehouse.xml:29
 #: simulation/templates/structures/zora/zora_mining.xml:22
 msgid "A drop-off site for collected resources."
-msgstr ""
+msgstr "Skladovací prostranství pro sesbírané zdroje."
 
 #: simulation/templates/structures/darknut/darknut_outpost.xml:84
 msgid ""
 "The Agora served as a gathering place for Darknuts in smaller settlements. From here "
 "the local officials could manage the Outpost's construction and production."
 msgstr ""
+"Agora sloužila jako shromažďovací místo pro Temnáře v menších osadách. Odsud mohli "
+"místní úředníci spravovat stavby a produkci základny."
 
 #: simulation/templates/structures/darknut/darknut_plotA.xml:22
 #: simulation/templates/structures/darknut/darknut_plotB.xml:22
 #: simulation/templates/structures/darknut/darknut_plotC.xml:22
 #: simulation/templates/structures/darknut/darknut_smallplotA.xml:22
 msgid "Darknut Building Plot"
-msgstr ""
+msgstr "Temnářská Stavební Parcela"
 
 #: simulation/templates/structures/darknut/darknut_plotA.xml:23
 #: simulation/templates/structures/darknut/darknut_plotA.xml:26
@@ -763,68 +808,56 @@ msgstr ""
 #: simulation/templates/structures/darknut/darknut_smallplotA.xml:23
 #: simulation/templates/structures/darknut/darknut_smallplotA.xml:26
 msgid "Construct an extension of the Darknut Agora."
-msgstr ""
+msgstr "Vybudovat tozšíření Temnářské Agory."
 
 #: simulation/templates/structures/darknut/darknut_plotA.xml:51
 #: simulation/templates/structures/darknut/darknut_plotB.xml:51
 #: simulation/templates/structures/darknut/darknut_plotC.xml:51
 msgid "Add a Domus to the Agora."
-msgstr ""
+msgstr "Přidat Domus k Agoře."
 
 #: simulation/templates/structures/darknut/darknut_plotA.xml:60
 #: simulation/templates/structures/darknut/darknut_plotB.xml:60
 #: simulation/templates/structures/darknut/darknut_plotC.xml:60
 #: simulation/templates/structures/darknut/darknut_smallplotA.xml:51
 msgid "Add a Vineyard to the Agora."
-msgstr ""
+msgstr "Přidat Vinici k Agoře."
 
 #: simulation/templates/structures/darknut/darknut_plotA.xml:69
 #: simulation/templates/structures/darknut/darknut_plotB.xml:69
 #: simulation/templates/structures/darknut/darknut_plotC.xml:69
 msgid "Add a Public Forum to the Agora."
-msgstr ""
+msgstr "Přidat Veřejné Fórum k Agoře."
 
 #: simulation/templates/structures/darknut/darknut_plotA.xml:78
 #: simulation/templates/structures/darknut/darknut_plotB.xml:78
 #: simulation/templates/structures/darknut/darknut_plotC.xml:78
 msgid "Add a Gymnasia to the Agora."
-msgstr ""
+msgstr "Přidat Gymnázium k Agoře."
 
 #: simulation/templates/structures/darknut/darknut_plotA.xml:88
 #: simulation/templates/structures/darknut/darknut_plotB.xml:88
 #: simulation/templates/structures/darknut/darknut_plotC.xml:88
 msgid "Add a Holosideros to the Agora."
-msgstr ""
-
-#: simulation/templates/structures/darknut/darknut_plotA.xml:99
-#: simulation/templates/structures/darknut/darknut_plotB.xml:99
-#: simulation/templates/structures/darknut/darknut_plotC.xml:99
-msgid "Add a Foreign Quarter to the Agora."
-msgstr ""
-
-#: simulation/templates/structures/darknut/darknut_plotA.xml:110
-#: simulation/templates/structures/darknut/darknut_plotB.xml:110
-#: simulation/templates/structures/darknut/darknut_plotC.xml:110
-msgid "Add am Apotheon to the Agora."
-msgstr ""
+msgstr "Přidat Holosideros k Agoře."
 
 #: simulation/templates/structures/darknut/darknut_plotA.xml:121
 #: simulation/templates/structures/darknut/darknut_plotB.xml:121
 #: simulation/templates/structures/darknut/darknut_plotC.xml:121
 msgid "Add a Summonere to the Agora."
-msgstr ""
+msgstr "Přidat Konvokatio k Agoře."
 
 #: simulation/templates/structures/darknut/darknut_plotA.xml:132
 #: simulation/templates/structures/darknut/darknut_plotB.xml:132
 #: simulation/templates/structures/darknut/darknut_plotC.xml:132
 msgid "Add a Honor Monument to the Agora."
-msgstr ""
+msgstr "Přidat Monnument Cti k Agoře."
 
 #: simulation/templates/structures/darknut/darknut_plotA.xml:143
 #: simulation/templates/structures/darknut/darknut_plotB.xml:143
 #: simulation/templates/structures/darknut/darknut_plotC.xml:143
 msgid "Add an Armorum to the Agora."
-msgstr ""
+msgstr "Přidat Armorum k Agoře."
 
 #: simulation/templates/structures/darknut/darknut_storehouse.xml:25
 msgid "Horreum"
@@ -845,7 +878,7 @@ msgstr ""
 
 #: simulation/templates/structures/darknut/darknut_summonere.xml:30
 msgid "Summonere"
-msgstr ""
+msgstr "Konvokatio"
 
 #: simulation/templates/structures/darknut/darknut_summonere.xml:31
 msgid ""
@@ -854,24 +887,29 @@ msgid ""
 "practitioners of magic, eccentric and secret convents, and exiled outcasts would be "
 "hired and put to use here."
 msgstr ""
+"Pokud se Legie potkala s vyjímečně smrtelnou misí, bylo vysláno předvolání těch z "
+"krajů jejich světa. Starověcí a zapomenutí praktikanti magie, ekcentrické a tajné kláštery, "
+"a vyhnaní psanci zde byli najmuti a využiti."
 
 #: simulation/templates/structures/darknut/darknut_summonere.xml:33
 msgid "Allows the training of exotic Darknut units."
-msgstr ""
+msgstr "Umožňuje trénink exotických Temnářských jednotek."
 
 #: simulation/templates/structures/darknut/darknut_temple.xml:33
 msgid "Honor Monument"
-msgstr ""
+msgstr "Monument Cti"
 
 #: simulation/templates/structures/darknut/darknut_temple.xml:34
 msgid ""
 "The Legion’s code centered largely around honor, and often they would erect monuments "
 "to instill this onto the Darknut people."
 msgstr ""
+"Kód Legie se točil především kromě cti, a Legie často vystavěla monumenty aby ji "
+"vštípili do Temnářského lidu."
 
 #: simulation/templates/structures/darknut/darknut_temple.xml:37
 msgid "Increases the range of Territory generated by Civil Centers."
-msgstr ""
+msgstr "Zvyšuje dosah teritoria generovaného občanskými centry."
 
 #: simulation/templates/structures/darknut/darknut_temple.xml:38
 #: simulation/templates/structures/gerudo/gerudo_temple.xml:35
@@ -884,11 +922,11 @@ msgstr ""
 #: simulation/templates/structures/sheikah/sheikah_temple.xml:39
 #: simulation/templates/structures/stalfos/stalfos_temple.xml:40
 msgid "Religious"
-msgstr ""
+msgstr "Náboženská"
 
 #: simulation/templates/structures/darknut/darknut_thermae.xml:29
 msgid "Thermae"
-msgstr ""
+msgstr "Thermae"
 
 #: simulation/templates/structures/darknut/darknut_thermae.xml:30
 msgid ""
@@ -896,14 +934,16 @@ msgid ""
 "Through their cities many Thermae would bring forth water dedicated to cleaning both "
 "their bodies and homes of desert filth."
 msgstr ""
+"Temnářské zdraví a čistota byla nejvyšší důležitostí pro mnohé z jejich lidu. V jejich "
+"městech mnohé Thermae vedly vodu určenou k očistě jejich těl i domovů od pouštní špíny."
 
 #: simulation/templates/structures/darknut/darknut_thermae.xml:33
 msgid "Improves the performance of all Darknut buildings attached to the Agora."
-msgstr ""
+msgstr "Zlepšuje výkon všech Temnářských budov připojených k Agoře."
 
 #: simulation/templates/structures/darknut/darknut_wonder.xml:26
 msgid "Tower of Hera"
-msgstr ""
+msgstr "Héřina Věž"
 
 #: simulation/templates/structures/darknut/darknut_wonder.xml:27
 msgid ""
@@ -917,15 +957,22 @@ msgid ""
 "serves as powerful Fortress and command center for those truely in power over the "
 "Legion."
 msgstr ""
+"Jedna z nejstarších budov na světě, Héřina Věž se už dlouho tyčí mezi horami západně "
+"od Gerudoské pouště, viditelná z mnohá míst po ní. Byla opuštěna Temnářským lidem "
+"mnohokrát v historii, ale vždy znovudobyta a použita pro nový účel. Původní účel věže "
+"je ztracen z historie, avšak mnozí věří že kdysi sloužila jako Apotheon pro Temnářské "
+"Krále a Královny. Během jejich různých znovudobytí téhle starověké věže sloužila jako "
+"žalář, doupě pro chycené bestie a příšery, a chrám pro bohoslužby. V moderních časech "
+"slouží jako mocná pevnost a štáb těch se skutečnou mocí nad Legií."
 
 #: simulation/templates/structures/darknut/darknut_wonder.xml:30
 msgid "The Darknut Wonder, allows you to summon Vaati. Continues to function as an Agora."
-msgstr ""
+msgstr "Temnářský Div, umožňuje povolat Vátiho."
 
 #: simulation/templates/structures/darknut/darknut_wonder.xml:31
 #: simulation/templates/structures/kokiri/kokiri_wonder.xml:12
 msgid "Wonder"
-msgstr ""
+msgstr "Div"
 
 #: simulation/templates/structures/deku/deku_barracks.xml:33
 msgid "Mustering Base"
