@@ -544,10 +544,15 @@ msgid ""
 "their rivals as their number dwindle over the ages. Pnly through the efforts of the "
 "Darknuts have these magestic but deadly monsters lived on."
 msgstr ""
+"Diese riesige Mordo ist letzte ihrer Art und Jahrhunderte alt. Einst ein kleiner Jäger"
+"in der Gerudo Wüste in der antiken Gerudo Wüste hat die Mordo Geira schon lange ihre"
+"Jäger überdauert und steht an der Spitze der Nahrungskette. Trotz dessen scheinen sie"
+"auf dem Pfad ihrer Fressfeinde zu gehen da ihren Zahlen schwinden. Nur durch die"
+"bemühungen der Nimbusgarden haben diese Majestätischen und tödlichen Monster überlebt."
 
 #: simulation/templates/units/boss/boss_molgera.xml:64
 msgid "Molgera"
-msgstr ""
+msgstr "Mordo Geira"
 
 #: simulation/templates/units/boss/boss_molgera.xml:65
 msgid "Boss monster that can burrow into the ground and surprise attack entire armies."
@@ -783,7 +788,12 @@ msgid ""
 "could challenge their master and escape their servitude. Those that did not remained "
 "lowly workers; gathering resources and building the impressive structures of the "
 "Legion."
-msgstr "Knechte waren der niedrigste rang in der Gesllschsft der Nimbusgarde und waren kaum mehr als Sklave.Trotz ihres niedrigen Statuses wurden sie gut versorgt, ob mit Essen oder Kleidung und konnten zu jeder Zeit ihren Meister für ihre Freiheit herausfordern. DIe dies nicht vollbrachte blieben einfache Arbeiter und sammelten weiter ressourcen und errichteten die großen Bauten der Legion"
+msgstr ""
+"Knechte waren der niedrigste rang in der Gesllschsft der Nimbusgarde und waren kaum"
+"mehr als Sklave.Trotz ihres niedrigen Statuses wurden sie gut versorgt, ob mit Essen"
+"oder Kleidung und konnten zu jeder Zeit ihren Meister für ihre Freiheit herausfordern."
+"Die dies nicht vollbrachte blieben einfache Arbeiter und sammelten weiter ressourcen und "
+"errichteten die großen Bauten der Legion"
 
 #: simulation/templates/units/darknut/darknut_civilianA.xml:13
 #: simulation/templates/units/darknut/darknut_thrallA.xml:49
@@ -806,7 +816,7 @@ msgstr "Streitkolben"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_b.xml:54
 msgid "Doomknocker"
-msgstr "Finstergarde"
+msgstr "Donnergarde"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_b.xml:55
 msgid ""
@@ -816,7 +826,7 @@ msgid ""
 "When in a melee they could pulverize and pummel just about any foe, even those with "
 "durable armor."
 msgstr ""
-"Finstergarden  waren große und Mächtige Nimbusgarden Krieger, mit vielen Jahren Ehrfahrung." 
+"Donnergarden waren große und Mächtige Nimbusgarden Krieger, mit vielen Jahren Ehrfahrung." 
 "Mit einem mächtigen Streitkolben und starkem Schild in Hand marschieren sie unaufhaltsam"
 "auf ihre Gegner zu und ignorieren Pfeilregen ohne aus dem Gleichgewicht zu kommen. Im Zweikampf "
 "konnten sie so ziemlich Gegner pulverisieren, selbst jene mit starker Rüstung."
@@ -827,15 +837,15 @@ msgstr "Großer Kämpfer mit einem Rüstung zerstörenden Kämpfer"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_legendary.xml:47
 msgid "Legendary Doomknocker"
-msgstr "Legendäre Finstergarde"
+msgstr "Nimbusdonnergarde"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_master.xml:43
 msgid "Master Doomknocker"
-msgstr "Meister Finstergarde"
+msgstr "Finsterdonnergarde"
 
 #: simulation/templates/units/darknut/darknut_doomknocker_mighty.xml:44
 msgid "Mighty Doomknocker"
-msgstr "Mächtige Finstergarde"
+msgstr "Schattendonnergarde"
 
 #: simulation/templates/units/darknut/darknut_dux_b.xml:58
 msgid "Dux"
@@ -847,7 +857,11 @@ msgid ""
 "raised generations of Darknut warriors. A lone Dux was often attached to scores of "
 "soldiers to not only to command them, but to show them how to become even better "
 "fighters."
-msgstr "Ehrfahrene Krieger und noch Ehrfahrerne Lehrmeister, Dux waren Kommandanten die mit guten Beispiel vorangingen und Generationen an Nimbusgarden Kriegern hervorbrachten. Ein einzelner Dux wurde oft Truppen von Soldaten zugewiesen nicht nur um sie anzuführen sondern auch um sie zu besseren Kämpfern zu machen."
+msgstr ""
+"Ehrfahrene Krieger und noch Ehrfahrerne Lehrmeister, Dux waren Kommandanten die mit"
+"guten Beispiel vorangingen und Generationen an Nimbusgarden Kriegern hervorbrachten."
+"Ein einzelner Dux wurde oft Truppen von Soldaten zugewiesen nicht nur um sie anzuführen"
+"sondern auch um sie zu besseren Kämpfern zu machen."
 
 #: simulation/templates/units/darknut/darknut_dux_b.xml:63
 msgid ""
@@ -877,15 +891,15 @@ msgstr "Kommandant"
 
 #: simulation/templates/units/darknut/darknut_dux_legendary.xml:43
 msgid "Legendary Dux"
-msgstr "Legendärer Dux"
+msgstr "Nimbusdux"
 
 #: simulation/templates/units/darknut/darknut_dux_master.xml:43
 msgid "Master Dux"
-msgstr "Meister Dux"
+msgstr "Finsterdux"
 
 #: simulation/templates/units/darknut/darknut_dux_mighty.xml:44
 msgid "Mighty Dux"
-msgstr "Mächtiger Dux"
+msgstr "Schattendux"
 
 #: simulation/templates/units/darknut/darknut_fokkalista_b.xml:4
 #: simulation/templates/units/hylian/hylian_crossbowman_b.xml:4
@@ -911,7 +925,11 @@ msgid ""
 "supplies across the canyons and cliffs of their homeland. It was later converted into a"
 " mobile siege weapon, lobbing rocks and boulders great distances to shatter enemy "
 "fortifications and defenses."
-msgstr "Die Fokkaliste wurde von den verbündenten Fokka entwickelt und diente ursprünglich Vorräte über Canyons und Klippenihrer Heimat zu schleudern. Es wurde später in eine mobile Belagerungswaffe umgewandelt die Steine und Brocken über große Entfernungen schleudern kann um feindliche Befestigungen und Gebäude zu zertrümmern"
+msgstr "
+""Die Fokkaliste wurde von den verbündenten Fokka entwickelt und diente ursprünglich Vorräte"
+"über Canyons und Klippenihrer Heimat zu schleudern. Sie wurde später in eine mobile"
+"Belagerungswaffe umgewandelt die Steine und Brocken über große Entfernungen schleudern"
+"kann um feindliche Befestigungen und Gebäude zu zertrümmern."
 
 #: simulation/templates/units/darknut/darknut_fokkalista_b.xml:47
 msgid "Ranged Siege weapon that launches boulders at its targets."
@@ -931,7 +949,11 @@ msgid ""
 "A fringe convent of lady Darknuts known for their unmatched crafting of all manner of "
 "jewelry and stained glass. In a battle the Glass Witches toss razor sharp bolts of "
 "crystal at their enemies, shredding their armor and knocking them off their feet."
-msgstr "Ein kleiner Orden bestehend aus weiblichen Nimbusgarden die für ihre unvergleichliche Handwerkskunst in jeglicher Art von Schmuck und Buntglas bekannt sind. In der Schlacht werfen die Glashexen rasiermesserscharfe Projektile aus Kristall, die Rüstungen schreddern und Feinde wegschleudern."
+msgstr ""
+"Ein kleiner Orden bestehend aus weiblichen Nimbusgarden die für ihre unvergleichliche"
+"Handwerkskunst in jeglicher Art von Schmuck und Buntglas bekannt sind. In der Schlacht"
+"werfen die Glashexen rasiermesserscharfe Projektile aus Kristall, die Rüstungen schreddern"
+" und Feinde wegschleudern."
 
 #: simulation/templates/units/darknut/darknut_glasswitch_b.xml:50
 msgid ""
@@ -956,7 +978,11 @@ msgid ""
 "These young and eager warriors had yet to become trained by the Legion, and therefore "
 "attempted to prove themselves as volunteer soldiers. Those that survived combat or "
 "showed exceptional skill would be adopted into the Legion without question."
-msgstr "Diese jungen und eifrigen Krieger haben es noch vor sich von der Legion aufgenommen und trainiert werden und verdingen sich deshalb als freiwillige Soldaten um sich zu beweisen. Diejenigen die den Kampf überlebten oder aussergewöhnliches Geschick bewiesen wurden ohne Frage in die Legion aufgenommen."
+msgstr ""
+"Diese jungen und eifrigen Krieger haben es noch vor sich von der Legion aufgenommen und"
+" trainiert werden und verdingen sich deshalb als freiwillige Soldaten um sich zu beweisen."
+"Diejenigen die den Kampf überlebten oder aussergewöhnliches Geschick bewiesen wurden ohne "
+"Frage in die Legion aufgenommen."
 
 #: simulation/templates/units/darknut/darknut_gymnatai_b.xml:38
 msgid "Fast Melee unit armed with a khopesh."
@@ -964,7 +990,7 @@ msgstr "Schnelle Nahkampf Einheit, mit einem Chepesch bewaffnet"
 
 #: simulation/templates/units/darknut/darknut_gymnatai_mighty.xml:19
 msgid "Mighty Gymnatai"
-msgstr "Mächtiger Gymnatai"
+msgstr "Schatten Gymnatai"
 
 #: simulation/templates/units/darknut/darknut_hero_alros.xml:58
 msgid "Prince of Mercenaries"
@@ -978,7 +1004,13 @@ msgid ""
 "outcasts. For years he has ravaged the desert with his fellow reavers; his ultimate "
 "goal is nothing short of taking the Darknut throne and replacing Zalunbar a﻿s the "
 "living god of the Legion."
-msgstr "Als ehemaliger Fanatiker des Zalunbar floh Alros in die Gerudo Wüste nach dem Sturz seines Idols und ließ den Kodex der Legion hinter sich. Nach Jahrzehnten der Trauer, gewann er seine Entschlossenheit wieder und begann eine Armee an Söldnern und weiteren verstoßenen Nimbusgarden anzuhäufen. Seit jahren wütet er durch die Wüste mit seinen folgsamen Plünderern. Sein Ziel ist nichts geringeres als den Thron der Nimbusgarden und Zalunbar als lebende Gottheit der Legion zu ersetzen"
+msgstr ""
+"Als ehemaliger Fanatiker des Zalunbar floh Alros in die Gerudo Wüste nach dem Sturz "
+"seines Idols und ließ den Kodex der Legion hinter sich. Nach Jahrzehnten der Trauer,"
+"gewann er seine Entschlossenheit wieder und begann eine Armee an Söldnern und weiteren"
+"verstoßenen Nimbusgarden anzuhäufen. Seit jahren wütet er durch die Wüste mit seinen"
+"folgsamen Plünderern. Sein Ziel ist nichts geringeres als den Thron der Nimbusgarden"
+"und Zalunbar als lebende Gottheit der Legion zu ersetzen"
 
 #: simulation/templates/units/darknut/darknut_hero_alros.xml:64
 msgid "Alros"
@@ -997,7 +1029,10 @@ msgid ""
 "A young Darknut commander who lead the reconquest of the southern Mesas. Militron is "
 "utterly ruthless and has resorted to tactics that some consider outside the Legion "
 "code."
-msgstr "Ein junger Nimbusgarden Kommandant der die wiedereroberung der südlichen Mesas anführt. Militron isabsolut ruchlos und hat auf Taktiken zurückgegriffen die manch einer außerhalb des Ehrencodex liegen."
+msgstr ""
+"Ein junger Nimbusgarden Kommandant der die wiedereroberung der südlichen Mesas anführt."
+"Militron isabsolut ruchlos und hat auf Taktiken zurückgegriffen die manch einer "
+"außerhalb des Ehrencodex liegen."
 
 #: simulation/templates/units/darknut/darknut_hero_militron.xml:64
 msgid "Militron"
@@ -1051,14 +1086,17 @@ msgstr "Speer"
 
 #: simulation/templates/units/darknut/darknut_hero_onon.xml:47
 msgid "The Darknut Prime"
-msgstr "Die Schattengarde"
+msgstr "Die Edelgarde"
 
 #: simulation/templates/units/darknut/darknut_hero_onon.xml:49
 msgid ""
 "Known as the Darknut Prime, Onon lead the successful defense of Ontheon and several "
 "other cities against the Gerudo. He has become a popular hero figure amongst the "
 "Darknut people despite him refusing to join the Legion proper."
-msgstr "Onon, die Schattengarde, führte die erfolgreiche Verteidigung  von Ontheon und meherer anderer Städte gegen die Gerudo. Er wurde eine berühmte Heldenfigur unter den Nimbusgarden trotz seiner Verweigerung der Legion richtig beizutreten."
+msgstr ""
+"Onon, die Edelgarde, führte die erfolgreiche Verteidigung von Ontheon und meherer"
+"anderer Städte gegen die Gerudo. Er wurde eine berühmte Heldenfigur unter den"
+"Nimbusgarden trotz seiner Verweigerung der Legion richtig beizutreten."
 
 #: simulation/templates/units/darknut/darknut_hero_onon.xml:53
 msgid "Onon"
@@ -1081,7 +1119,12 @@ msgid ""
 " name Senturon has been forgotten and the moniker of Black Knight has faded into "
 "legend. Still, there are some words spoken that this grim warrior still walks in the "
 "shadows of Hyrule and serves the Legion to this day."
-msgstr "Senturon diente als einer von Vaatis Vollstreckern während des antiken Zeitalters von Hyrule. Scheinbar unsterblich, Gerüchte, dass er von den Toten auferstehen konnte begannen zu brodeln. Nichtsdestotrotz führet er die Befehle der Legion gnadenlos aus und vertrieb das Volk des Windes vollständig aus Hyrule. Nach dreitausend jahren geriet der Name Senturon in Vergessenheit under Beinname Schwarzer Ritter ist nur noch eine Legende"
+msgstr ""
+"Senturon diente als einer von Vaatis Vollstreckern während des antiken Zeitalters von Hyrule."
+" Scheinbar unsterblich, Gerüchte, dass er von den Toten auferstehen konnte begannen zu brodeln."
+" Nichtsdestotrotz führet er die Befehle der Legion gnadenlos aus und vertrieb das Volk des Windes"
+" vollständig aus Hyrule. Nach dreitausend jahren geriet der Name Senturon in Vergessenheit und "
+"der Beinname Schwarzer Ritter ist nur noch eine Legende"
 
 #: simulation/templates/units/darknut/darknut_hero_senturon.xml:64
 msgid "Senturon"
@@ -1091,11 +1134,13 @@ msgstr "Senturon"
 msgid ""
 "Extremely durable Melee Hero with a heavy suit of armor. He can take tremendous "
 "punishment before falling in battle."
-msgstr "Extrem resistenter Schwertkämpfer mit schwerer Panzerung. Er kann enormen Schaden einstecken bevor er in der Schlacht fällt"
+msgstr ""
+"Extrem resistenter Schwertkämpfer mit schwerer Panzerung. Er kann enormen Schaden "
+"einstecken bevor er in der Schlacht fällt"
 
 #: simulation/templates/units/darknut/darknut_hero_yaraxonal.xml:58
 msgid "The Glass Sage"
-msgstr "Die Glas Weise"
+msgstr "Weise des Glases "
 
 #: simulation/templates/units/darknut/darknut_hero_yaraxonal.xml:60
 msgid ""
@@ -1107,7 +1152,15 @@ msgid ""
 "of the desert winds and would use them against enemies of the Legion. Despite her power"
 " and veneration as a god, Yaraxonal was rather humble and was responsible for expanding"
 " the Legion through diplomacy and assimilation rather than conquest."
-msgstr "Yaraxonal war sowohl eine ehemalige Weise von Hyrule als auch eine Anführerin und Hauptgöttin der Nimbusgarden Legion bevor Zalunbar. Dem Volk unbekannt war ihre versteinerung durch Vaati und Zalunbar. Während sie dreitausend jahre aus dem Sinn entschwand, nutzte sie ihre Fähigkeiten als Weise um Hilfe zu erreichen. Als eine Weise von Hyrule war sie eine Ausnahme gegenüber des gesetzlichen Magieverbots der Legion. Sie befehligte die Wüstenwinde und nutzte sie gegen die Feinde der Legion. Trotz ihrer Macht und Verhehrung als Göttin, war Yaraxonal eher bescheiden und dar verantwortlich für den Expansionkurs der Legion über Diplomatie und Assimilation anstatt durch Eroberung"
+msgstr ""
+"Yaraxonal war sowohl eine ehemalige Weise von Hyrule als auch eine Anführerin und Hauptgöttin"
+" der Nimbusgarden Legion bevor Zalunbar. Dem Volk unbekannt war ihre versteinerung durch "
+"Vaati und Zalunbar. Während sie dreitausend jahre aus dem Sinn entschwand, nutzte sie "
+"ihre Fähigkeiten als Weise um Hilfe zu erreichen. Als eine Weise von Hyrule war sie eine"
+"Ausnahme gegenüber des gesetzlichen Magieverbots der Legion. Sie befehligte die Wüstenwinde"
+"und nutzte sie gegen die Feinde der Legion. Trotz ihrer Macht und Verhehrung als Göttin, "
+"war Yaraxonal eher bescheiden und dar verantwortlich für den Expansionkurs der Legion über"
+"Diplomatie und Assimilation anstatt durch Eroberung"
 
 #: simulation/templates/units/darknut/darknut_hero_yaraxonal.xml:64
 msgid "Yaraxonal"
@@ -1147,7 +1200,14 @@ msgid ""
 "god. Zalunbar was utterly narcissistic and completely egocentric. Centuries of constant"
 " praise and worship has let his ego spiral completely out of control, and there are few"
 " who would dare question his godhood."
-msgstr "Ein mächtiger Nimbusgarden Krieger, Zalunbar wurde von seinen Leuten vergöttert und übernahm die Kontrolle der Legion vor nahezu dreitausend Jahren. Sein unnatürlich langes Leben undanscheinliche Unsterblichkeit enfachte eine tiefe Hingabe seines Volkes und überzeugte viele von seiner wahren Göttlichkeit. Zalunbar war vollkommen narzisstisch und absolut egozentrisch. Jahrhunderte von permanenten Lobpreisungen und Verehrung ließen sein Ego komplett ausser Kontrolle geraten, und es gibt kaum jemanden der es wagen würde seine Göttlichkeit in Frage zu stellen"
+msgstr ""
+"Ein mächtiger Nimbusgarden Krieger, Zalunbar wurde von seinen Leuten vergöttert "
+"und übernahm die Kontrolle der Legion vor nahezu dreitausend Jahren. Sein unnatürlich "
+"langes Leben undanscheinliche Unsterblichkeit enfachte eine tiefe Hingabe seines Volkes"
+"und überzeugte viele von seiner wahren Göttlichkeit. Zalunbar war vollkommen narzisstisch "
+"und absolut egozentrisch. Jahrhunderte von permanenten Lobpreisungen und Verehrung ließen"
+"sein Ego komplett ausser Kontrolle geraten, und es gibt kaum jemanden der es wagen würde"
+"seine Göttlichkeit in Frage zu stellen"
 
 #: simulation/templates/units/darknut/darknut_hero_zalunbar.xml:68
 msgid "Zalunbar"
@@ -1167,7 +1227,10 @@ msgid ""
 "oppossed to becoming a lifelong member of the Legion. Rather they served as city "
 "guards, national patrols, and emergency reinforcements to back up armies during "
 "wartime."
-msgstr "Nimbusgarden Hopliten waren niedrigrangige Soldaten die nur rudimentärem Training unterliefen im Gegensatz zum Lebenslangen Beitritt in die Legion. Stattdessen dienten sie als Stadtwachen, nationalen Pattroullien und Notfallverstärkung für Armeen während der Kriegszeit."
+msgstr ""
+"Nimbusgarden Hopliten waren niedrigrangige Soldaten die nur rudimentärem Training unterliefen"
+"im Gegensatz zum Lebenslangen Beitritt in die Legion. Stattdessen dienten sie als Stadtwachen,"
+"nationalen Pattroullien und Notfallverstärkung für Armeen während der Kriegszeit."
 
 #: simulation/templates/units/darknut/darknut_hoplite_b.xml:44
 msgid "Defensive Melee unit armed with a long spear."
@@ -1175,7 +1238,7 @@ msgstr "Defensiver Nahkämpfer mit einer langen Lanze bewaffnet"
 
 #: simulation/templates/units/darknut/darknut_hoplite_mighty.xml:25
 msgid "Mighty Hoplite"
-msgstr "Mächtiger Hoplit"
+msgstr "Schatten Hoplit"
 
 #: simulation/templates/units/darknut/darknut_hypaspist_b.xml:33
 msgid "Fokka Hypaspist"
@@ -1187,7 +1250,11 @@ msgid ""
 "their own breed of soldiers to the fray. The Fokka Hypaspist were extremely fast and "
 "could leap staggering distances. They were just as swift in a melee as well, swiping "
 "and countering enemy blows almost effortlessly."
-msgstr "Diese langjährigen Mitglieder der Legion die von der Nimbusgardenkultur assimilisiert wurden haben ihre eigene Brut an Soldaten beigesteuert. Die Fokka Hypapistes sind extrem schnell und können beeindruckende Distanzen überspringen. Im Nahkampf waren sie genauso gewandt, sowohl in ihren Hieben als auch im parieren gegnerischer Schläge nahezu mühelos"
+msgstr ""
+"Diese langjährigen Mitglieder der Legion die von der Nimbusgardenkultur assimilisiert wurden"
+"haben ihre eigene Brut an Soldaten beigesteuert. Die Fokka Hypapistes sind extrem schnell"
+"und können beeindruckende Distanzen überspringen. Im Nahkampf waren sie genauso gewandt, "
+"sowohl in ihren Hieben als auch im parieren gegnerischer Schläge nahezu mühelos"
 
 #: simulation/templates/units/darknut/darknut_hypaspist_b.xml:38
 msgid ""
@@ -1197,7 +1264,7 @@ msgstr "Sehr schnelle Infanterie die große Distanzen springen kann und Feinde m
 
 #: simulation/templates/units/darknut/darknut_hypaspist_mighty.xml:19
 msgid "Mighty Fokka Hypaspist"
-msgstr "Mächtiger Fokka Hypaspist"
+msgstr "Schatten Fokka Hypaspist"
 
 #: simulation/templates/units/darknut/darknut_idoldead.xml:38
 msgid "Dead Idol"
@@ -1212,13 +1279,19 @@ msgid ""
 "A seat of power for the most idolized heroes of the Legion, these giant thrones are "
 "carried around the warzone by a horde of zealous Fanatics. Like living gods on earth, "
 "soldiers of the Legion are inspired into bravery and a frenzy by their presense."
-msgstr "Ein Sitz der Macht für die am höchsten vergötterten Helden der Legion. Diese Riesigen Thröne werden in Kriegsgebieten von einer Horde eifriger Fanatiker herumgetragen. Angespornt durch ihre bloße Anwesenheit, kämpfen die Soldaten mit einem Mut und einer Raserei als ob die leibhaftigen Götter auf der Erde wandeln würden
+msgstr ""
+"Ein Sitz der Macht für die am höchsten vergötterten Helden der Legion. Diese riesigen"
+"Thröne werden in Kriegsgebieten von einer Horde eifriger Fanatiker herumgetragen."
+"Angespornt durch ihre bloße Anwesenheit, kämpfen die Soldaten mit einem Mut und "
+"einer Raserei als ob die leibhaftigen Götter auf der Erde wandeln würden"
 
 #: simulation/templates/units/darknut/darknut_idolthrone_b.xml:38
 msgid ""
 "Powerful Support Commander that dramatically increases the performance of all Darknuts,"
 " but creates negative effects when slain."
-msgstr "Mächtige Unterstützungseinheit die die Leistung aller Nimbusgarden verbessert aber negative Effekte erzeugt falls sie gefällt wird"
+msgstr ""
+"Mächtige Unterstützungseinheit die die Leistung aller Nimbusgarden verbessert aber negative"
+"Effekte erzeugt falls sie gefällt wird"
 
 #: simulation/templates/units/darknut/darknut_immortal_b.xml:4
 #: simulation/templates/units/labrynna/labrynna_hero_vire.xml:4
@@ -1238,7 +1311,12 @@ msgid ""
 "their doom in Darknut tombs, while a few fled into the depths of the Gerudo Desert. On "
 "rare occasions they show up in the Legion army, perhaps to earn a pardon by those in "
 "charge."
-msgstr "Einst geliebte und geschätzte Figuren in der Legion wurden diese Magier wurden eingesperrt und hingerichtet während Zalunbars Übernahme und seinem Verbot der Zauberei. Viele wurden bei lebendigen Leibe in ihren versiegelten Gräber gesperrt, während andere es schafften in die Gerudo Wüste zu fliehen. Zu seltenen Anlässen erscheinen sie in der Armee der Legion um sich die Gnade derer zu verdienen die Kontrolle sind"
+msgstr ""
+"Einst geliebte und geschätzte Figuren in der Legion wurden diese Magier wurden eingesperrt"
+"und hingerichtet während Zalunbars Übernahme und seinem Verbot der Zauberei. Viele wurden"
+"bei lebendigen Leibe in ihren versiegelten Gräber gesperrt, während andere es schafften in"
+"die Gerudo Wüste zu fliehen. Zu seltenen Anlässen erscheinen sie in der Armee der Legion"
+"um sich die Gnade derer zu verdienen die Kontrolle sind"
 
 #: simulation/templates/units/darknut/darknut_immortal_b.xml:53
 msgid "Hovering Mage unit that attacks her enemies with fireballs from a distance."
@@ -1255,14 +1333,17 @@ msgstr "Eine Nimbusgarde im Vorgang der Wiederbelebung"
 
 #: simulation/templates/units/darknut/darknut_jermafenser_b.xml:54
 msgid "Jermafenser"
-msgstr "Pickelfenser"
+msgstr "Pickelgarde"
 
 #: simulation/templates/units/darknut/darknut_jermafenser_b.xml:55
 msgid ""
 "Jermafensers were some of the tallest and largest Darknuts in service of the Legion. "
 "Standing at nearly ten feet tall, these hulking behemoths slowly mustered their way "
 "into combat, effortlessly slicing apart anything smaller than themselves."
-msgstr "Pickelfenser waren die höchsten und größten Nimbusgarden im Dienste der Legion. Mit fast 3 meter Körpergröße marschierten diese Goliaths langsam in die Schlacht und zerschnetzelten mühelos alles was kleiner als sie  selbst"
+msgstr ""
+"Pickelgarde waren die höchsten und größten Nimbusgarden im Dienste der Legion."
+"Mit fast 3 meter Körpergröße marschierten diese Goliaths langsam in die Schlacht"
+"und zerschnetzelten mühelos alles was kleiner als sie selbst"
 
 #: simulation/templates/units/darknut/darknut_jermafenser_b.xml:59
 msgid ""
@@ -1272,15 +1353,15 @@ msgstr "Großer und abgehärteter Schwertkämpfer der heftigen Rückstoß und Fl
 
 #: simulation/templates/units/darknut/darknut_jermafenser_legendary.xml:52
 msgid "Legendary Jermafenser"
-msgstr "Legänderer Pickelfenser"
+msgstr "Nimbuspickelgarde"
 
 #: simulation/templates/units/darknut/darknut_jermafenser_master.xml:52
 msgid "Master Jermafenser"
-msgstr "Meister Pickelfenser"
+msgstr "Finsterpickelgarde"
 
 #: simulation/templates/units/darknut/darknut_jermafenser_mighty.xml:44
 msgid "Mighty Jermafenser"
-msgstr "Mächtiger Pickelfenser"
+msgstr "Schattenpickelgarde"
 
 #: simulation/templates/units/darknut/darknut_legatus_b.xml:61
 #: simulation/templates/units/darknut/darknut_legatus_half.xml:61
@@ -1298,7 +1379,11 @@ msgid ""
 "the ranks of their forces after Zalunbar's takeover. A fair number of these powerful "
 "warriors can still be found hidden in retirement or isolation of ruins across the "
 "desert, waiting only for the Legion to request their services once again."
-msgstr "Einst hochrangige Generäle in der Armee der Legion. Nach der Übernahme Zalunbars wurde die Ausbildung zum Legatus abgeschafft, doch eine Ordentliche Anzahl von diesen mächtigen Krieger kann man noch in der Isolation von Ruinen oder im Ruhestand finden. Sie warten nur darauf das die Legion ihre Dienste wieder in Anspruch nimmt."
+msgstr ""
+"Einst hochrangige Generäle in der Armee der Legion. Nach der Übernahme Zalunbars wurde die "
+"Ausbildung zum Legatus abgeschafft, doch eine Ordentliche Anzahl von diesen mächtigen"
+"Krieger kann man noch in der Isolation von Ruinen oder im Ruhestand finden. Sie warten"
+"nur darauf das die Legion ihre Dienste wieder in Anspruch nimmt."
 
 #: simulation/templates/units/darknut/darknut_legatus_b.xml:68
 #: simulation/templates/units/darknut/darknut_legatus_half.xml:67
@@ -1307,7 +1392,9 @@ msgstr "Einst hochrangige Generäle in der Armee der Legion. Nach der Übernahme
 msgid ""
 "Senturon's Unique Unit. Powerful and heavily armored Melee unit that continues to fight"
 " as parts of its armor are damaged and broken."
-msgstr "Senturons Einzigartige Einheit. Starke und schwer gepanzerte Schwertkämpfereinheit die weiterkämpft während ihre Panzerung nach und nach zerstört wird"
+msgstr ""
+"Senturons Einzigartige Einheit. Starke und schwer gepanzerte Schwertkämpfereinheit"
+"die weiterkämpft während ihre Panzerung nach und nach zerstört wird"
 
 #: simulation/templates/units/darknut/darknut_legatus_half.xml:106
 #: simulation/templates/units/darknut/darknut_legatus_low.xml:106
@@ -1317,7 +1404,7 @@ msgstr "Reparieren der Legatus Panzerung"
 
 #: simulation/templates/units/darknut/darknut_legionary_b.xml:54
 msgid "Legionary"
-msgstr "Legionär"
+msgstr "Garde"
 
 #: simulation/templates/units/darknut/darknut_legionary_b.xml:55
 msgid ""
@@ -1325,7 +1412,11 @@ msgid ""
 " people by defending against and conquering all enemies. Despite their size and power, "
 "Legionaries were actually the lowest rank of soldier in the Legion’s Code and had only "
 "undergone a year of formal training."
-msgstr "Als das Aushängeschild der Nimbusgarden Armeen, vollstrecken die Legionäre unermüdlich den Willen des Nimbusgarden Volkes durch Eroberungfeldzüge und die Verteidung gegen Feinde. Trotz ihrer Größe und Kraft, waren die Legionäre der niedrigste Rang im Legionskodex und hatten nur eine einjährige Ausbildung hinter sich."
+msgstr ""
+"Als das Aushängeschild der Nimbusgarden Armeen, vollstrecken die Gardisten unermüdlich "
+"den Willen des Nimbusgarden Volkes durch Eroberungfeldzüge und die Verteidung gegen Feinde."
+"Trotz ihrer Größe und Kraft, waren die Legionäre der niedrigste Rang im Legionskodex und hatten"
+"nur eine einjährige Ausbildung hinter sich."
 
 #: simulation/templates/units/darknut/darknut_legionary_b.xml:59
 msgid "Powerful Melee unit in heavy armor."
@@ -1333,15 +1424,15 @@ msgstr "Starker schwergepanzerter Schwertkämpfer "
 
 #: simulation/templates/units/darknut/darknut_legionary_legendary.xml:43
 msgid "Legendary Legionary"
-msgstr "Legendärer Legionär"
+msgstr "Nimbusgarde"
 
 #: simulation/templates/units/darknut/darknut_legionary_master.xml:43
 msgid "Master Legionary"
-msgstr "Meister Legionär"
+msgstr "Finstergarde"
 
 #: simulation/templates/units/darknut/darknut_legionary_mighty.xml:44
 msgid "Mighty Legionary"
-msgstr "Mächtiger Legionär"
+msgstr "Schattengarde"
 
 #: simulation/templates/units/darknut/darknut_lynel_b.xml:33
 msgid "Lynel Pride"
@@ -1353,7 +1444,11 @@ msgid ""
 "people. In more modern ages, they were the Legion’s favorite mercenaries. So often were"
 " Lynels hired and deployed with Legion forces that many of the Darknut’s enemies "
 "assumed they were members of the same empire."
-msgstr "Die berüchtigt brutalen und blutrünstigen Leunen wurdden lange mit den Nimbusgarden in Verbinung gepracht. In modernen Zeiten sind sie die beliebtesten Söldner der Legion. Die Leunen wurden so oft angeheuert und zusammen mit Legionstruppen eingesetzt das viele Feinde der Legion sie als Teil des selben Reiches sahen"
+msgstr ""
+"Die berüchtigt brutalen und blutrünstigen Leunen wurdden lange mit den Nimbusgarden in"
+"Verbinung gepracht. In modernen Zeiten sind sie die beliebtesten Söldner der Legion."
+"Die Leunen wurden so oft angeheuert und zusammen mit Legionstruppen eingesetzt das "
+"viele Feinde der Legion sie als Teil des selben Reiches sahen"
 
 #: simulation/templates/units/darknut/darknut_lynel_b.xml:38
 msgid "Powerful Cavalry unit armed with a sword and shield."
@@ -1361,7 +1456,7 @@ msgstr "Mächtige Kavallerie, bewaffnet mit Schwert und Schild"
 
 #: simulation/templates/units/darknut/darknut_lynel_mighty.xml:19
 msgid "Mighty Lynel Pride"
-msgstr "Mächtiges Leunen Rudel"
+msgstr "Schatten Leunen Rudel"
 
 #: simulation/templates/units/darknut/darknut_mazura_b.xml:38
 msgid "Mazura Hippikon"
@@ -1373,7 +1468,11 @@ msgid ""
 "legion because of their speed. While not as fast as the swift Fokka or most other "
 "cavalry, a Mazura Hippikon could nonetheless plow into enemy forces and cause havoc "
 "with their maces."
-msgstr "Die wütenden und störrischen Mazura waren wie die Fokka, hoch geschätzte Soldaten in der Legion aufgrund ihrer Geschwindigkeit. Zwar waren sie nicht so schnell wie die geswandten Fokka oder die meisten anderen Kavallerien konnte ein Mazura Hippikon nichtsdestotrotz mit seinem Streitkolben durch gegnerische Reihen pflügen und wüten"
+msgstr ""
+"Die wütenden und störrischen Mazura waren wie die Fokka, hoch geschätzte Soldaten"
+"in der Legion aufgrund ihrer Geschwindigkeit. Zwar waren sie nicht so schnell wie"
+"die geswandten Fokka oder die meisten anderen Kavallerien konnte ein Mazura Hippikon"
+"nichtsdestotrotz mit seinem Streitkolben durch gegnerische Reihen pflügen und wüten"
 
 #: simulation/templates/units/darknut/darknut_mazura_b.xml:44
 msgid "Fast moving Melee unit that behaves as if it were Cavalry."
@@ -1381,11 +1480,11 @@ msgstr "Schnelle Nahkämpfer die sich wie Nahkämpfer verhalten"
 
 #: simulation/templates/units/darknut/darknut_mazura_mighty.xml:25
 msgid "Mighty Mazura Hippikon"
-msgstr "Mächtiger Mazura Hippikon"
+msgstr "Schatten Mazura Hippikon"
 
 #: simulation/templates/units/darknut/darknut_molgera_b.xml:33
 msgid "Molgera Grub"
-msgstr ""
+msgstr "Mordo Larve"
 
 #: simulation/templates/units/darknut/darknut_molgera_b.xml:34
 msgid ""
@@ -1397,6 +1496,12 @@ msgid ""
 "vibrations of anything around them, making it almost impossible to sneak up on one of "
 "these creatures."
 msgstr ""
+"Mordos waren Kreaturen von Legendärer Status; viele im Osten zweifelten sogar an ihrer"
+"Existens. Mit etwas Glück konnte die Legion einen Mordo zähmen wenn sie noch Larven waren"
+"und nutzten sie wie andere Wachhunde. Wenn diese Würmer zu alt wurden mussten die Nimbus-"
+"garden sie wieder in die Wüste entlassen: Eine erwachsene Mordo war viel zu groß um sie zu"
+"kontrollieren. Mordos hatten die unheimliche Fähigkeit schwingungen im Boden zu spüren was"
+"es nahezu unmöglich machte sich an sie anzuschleichen."
 
 #: simulation/templates/units/darknut/darknut_molgera_b.xml:38
 msgid "Small Scout Creature that can burrow into the ground and hide."
@@ -1422,18 +1527,21 @@ msgstr "Späher"
 
 #: simulation/templates/units/darknut/darknut_patra_b.xml:34
 msgid "Patra"
-msgstr ""
+msgstr "Patra"
 
 #: simulation/templates/units/darknut/darknut_patra_b.xml:36
 msgid ""
 "The spawn and servants of the demon Vaati, Patra serve as the eyes of those in power of"
 " the Legion. Despite their size, Patra are infamous for their ability to hide and "
 "strike at enemies from the shadows."
-msgstr "Ausgeburten und Diener des Dämon Vaatis dienen die Patras als Augen derer die das Sagen in der Legion haben. Trotz ihrer Größe, waren die Patra brüchtigt für ihre hinterhältigen Angriffe aus den Schatten heraus."
+msgstr ""
+"Ausgeburten und Diener des Dämon Vaatis dienen die Patras als Augen derer die das Sagen"
+"in der Legion haben. Trotz ihrer Größe, waren die Patra brüchtigt für ihre hinterhältigen"
+"Angriffe aus den Schatten heraus."
 
 #: simulation/templates/units/darknut/darknut_patra_b.xml:41
 msgid "Zalunbar's Unique Unit. Flying Scout Creature concealed with Camouflage."
-msgstr "Zalunbars einzigartige Einheit. Fliegender Späherkreatur die sich durch Camouflage tarnt"
+msgstr "Zalunbars einzigartige Einheit. Fliegender Späherkreatur die sich durch tarnt"
 
 #: simulation/templates/units/darknut/darknut_peltast_b.xml:4
 #: simulation/templates/units/darknut/darknut_peltast_garrison.xml:4
@@ -1455,7 +1563,11 @@ msgid ""
 "the civilian run garrisons and armies had no such taboo against attacking enemies from "
 "a distance. Peltast men and women were trained in lobbing javelins from incredible "
 "distances, serving as a powerful skirmisher."
-msgstr "Der Fernkampf war ausdrücklich verboten für jeden Krieger der der Legion beitratt. Glücklicherweise galt dieses Verbot nicht für die von den Bürgern organisierten Wachen und Armeen. Die Peltast Männer und Frauen wurden darauf trainiert Wurfspeere möglichst weit zu schleudern un dienten so als starke Plänkler"
+msgstr ""
+"Der Fernkampf war ausdrücklich verboten für jeden Krieger der der Legion beitratt."
+"Glücklicherweise galt dieses Verbot nicht für die von den Bürgern organisierten Wachen und Armeen."
+"Die Peltast Männer und Frauen wurden darauf trainiert Wurfspeere möglichst weit zu schleudern un "
+"dienten so als starke Plänkler"
 
 #: simulation/templates/units/darknut/darknut_peltast_b.xml:52
 #: simulation/templates/units/darknut/darknut_peltast_garrison.xml:52
@@ -1464,7 +1576,7 @@ msgstr "Distanzeinheit die Wurfspeere schleudert"
 
 #: simulation/templates/units/darknut/darknut_peltast_mighty.xml:33
 msgid "Mighty Peltast"
-msgstr "Mächtiger Peltast"
+msgstr "Schatten Peltast"
 
 #: simulation/templates/units/darknut/darknut_reaver_b.xml:33
 msgid "Reaver"
@@ -1476,7 +1588,11 @@ msgid ""
 "Desert. Reavers have abandoned the bulky armor of their brothers and instead rely on "
 "their incredible muscles and speed to survive. The Legion is willing to hire these "
 "warriors when the need arrises."
-msgstr "Ausgestoßene Nimbusgarden die durch Überfälle und Diebstahl in der Gerudowüste überleben. Die Plünderer haben ihre beschwerliche Rüstung ihrer Brüder abgelegt undvertrauen stattdessen auf ihre unglaubliche Muskulatur und Geschwindigkeit. Die Legion ist willig diese Krieger anzuheuern falls der Bedarf entsteht."
+msgstr ""
+"Ausgestoßene Nimbusgarden die durch Überfälle und Diebstahl in der Gerudowüste überleben."
+"Die Plünderer haben ihre beschwerliche Rüstung ihrer Brüder abgelegt undvertrauen "
+"stattdessen auf ihre unglaubliche Muskulatur und Geschwindigkeit. Die Legion ist willig"
+"diese Krieger anzuheuern falls der Bedarf entsteht."
 
 #: simulation/templates/units/darknut/darknut_reaver_b.xml:40
 msgid "Alros' Unique Unit. Quick Mercenary Melee unit that raids enemies with a huge sword."
@@ -1497,7 +1613,7 @@ msgstr "Lanze"
 
 #: simulation/templates/units/darknut/darknut_rebonack_b.xml:54
 msgid "Rebonack"
-msgstr "Rebonack"
+msgstr "Rittergarde"
 
 #: simulation/templates/units/darknut/darknut_rebonack_b.xml:55
 msgid ""
@@ -1506,7 +1622,12 @@ msgid ""
 "black horses that had for centuries been specially bred for size. Armed with a lance in"
 " one hand and a sword in the other, Rebonacks could knock down enemy soldiers with ease"
 " and lob the heads off of those that survived."
-msgstr " Nahezu Gottgleich waren die Rebonack als die ehrfahrensten Soldaten in der gesamten Legion und die wahrscheinlich ihre angsteinflößendsten Krieger. Die Rebonacks reiten auf gigantischen schwarzen Rössern die über Jahrhunderte hinweg auf Größe gezüchtet wurden. Mit der Lanze in der einen und dem Schwert in der anderen Hand konnten die Rebonacks ihre Feinde mühelos niederschlagen und den Überlebenden den Kopf abhacken."
+msgstr ""
+"Nahezu Gottgleich waren, die auch als Rebonack bekannten, Rittergarden als die ehrfahrensten"
+"Soldaten in der gesamten Legion und die wahrscheinlich ihre angsteinflößendsten Krieger."
+" Die Rebonacks reiten auf gigantischen schwarzen Rössern die über Jahrhunderte hinweg auf "
+"Größe gezüchtet wurden. Mit der Lanze in der einen und dem Schwert in der anderen Hand "
+"konnten die Rebonacks ihre Feinde mühelos niederschlagen und den Überlebenden den Kopf abhacken."
 
 #: simulation/templates/units/darknut/darknut_rebonack_b.xml:59
 msgid "Slow but extremely armored Cavalry unit carrying a huge lance."
@@ -1514,16 +1635,16 @@ msgstr "Langsame aber extrem schwer gepanzerte Kavallarie, bewaffnet mit einer r
 
 #: simulation/templates/units/darknut/darknut_rebonack_legendary.xml:43
 msgid "Legendary Rebonack"
-msgstr "Legendärer Rebonack"
+msgstr "Nimbusrittergarde"
 
 #: simulation/templates/units/darknut/darknut_rebonack_master.xml:43
 msgid "Master Rebonack"
-msgstr "Meister Rebonack"
+msgstr "Finsterrittergarde"
 
 #: simulation/templates/units/darknut/darknut_rebonack_mighty.xml:44
 #: simulation/templates/units/darknut/darknut_rebonack_mighty.xml:45
 msgid "Mighty Rebonack"
-msgstr "Mächtiger Rebonack"
+msgstr "Schattenrittergarde"
 
 #: simulation/templates/units/darknut/darknut_supplycart_b.xml:19
 #: simulation/templates/units/lizalfos/lizalfos_supplycart_b.xml:22
@@ -1595,7 +1716,14 @@ msgid ""
 "himself, the demon retained Vaati’s image, name, and personality as it set out to "
 "accomplish its goals in Hyrule. When exposed and under threat, the demon abandons his "
 "Vaati disguise and reveals his horrific bat-like form."
-msgstr "Vaati, einst ein Minish, begegnete einen Dämon aus alten Zeiten, der das ursprüngliche Hyrule verwüstete und formte einen Pakt mit der Bestie. Sie gewährte ihm unglaubliche Macht, doch verlor Vaati sich langsam durch seine Besessenheit des Biestes. Auch wenn er nicht mehr er selbst war, so bewahrte der Dämon das Aussehen, den Namen und die Persönlichkeit Vaatis, als er loszog um seine Ziele in Hyrule verwiklichen. Wenn konfrontiert oder unter Gefahr legt es die Hülle von Vaati ab und entblöst seine entsetzliche fledermausartige Form."
+msgstr ""
+"Vaati, einst ein Minish, begegnete einen Dämon aus alten Zeiten, der das ursprüngliche"
+"Hyrule verwüstete und formte einen Pakt mit der Bestie. Sie gewährte ihm unglaubliche"
+"Macht, doch verlor Vaati sich langsam durch seine Besessenheit des Biestes. Auch wenn"
+"er nicht mehr er selbst war, so bewahrte der Dämon das Aussehen, den Namen und die "
+"Persönlichkeit Vaatis, als er loszog um seine Ziele in Hyrule verwiklichen. Wenn "
+"konfrontiert oder unter Gefahr legt es die Hülle von Vaati ab und entblöst seine"
+"entsetzliche fledermausartige Form."
 
 #: simulation/templates/units/darknut/darknut_titan_vaati.xml:92
 msgid "Vaati"
@@ -1733,7 +1861,13 @@ msgid ""
 "on their own could do little more than protect their immediate area. They could be "
 "mounted on the heads of many Deku Scrubs and the backs of their Orhat Beetles however, "
 "giving whatever unit they were attached to a bonus melee attack."
-msgstr "Diese hinterlistigen Pflanzen wachsen wie Unkraut durch Hyrules verschiedene Wälder, aber waren recht freundlich den Deku Laubkerlen gegenüber. Viele Laubkerle nahmen sie als Hauspflanzen auf, aber sie wurden auch oft als Wachposten eingesetzt. Dekurhanas konnten sich nicht vom Fleck bewegen und mehr attackieren als das umliegende Gebiet. Sie konnten aber auf die Köpfe der Laubkerle und den Nashornkäfern gepflanzt werden was derjenigen Einheit eine weitere Angriff ermöglichte"
+msgstr ""
+"Diese hinterlistigen Pflanzen wachsen wie Unkraut durch Hyrules verschiedene Wälder,"
+"aber waren recht freundlich den Deku Laubkerlen gegenüber. Viele Laubkerle nahmen sie"
+"als Hauspflanzen auf, aber sie wurden auch oft als Wachposten eingesetzt. Dekurhanas"
+"konnten sich nicht vom Fleck bewegen und mehr attackieren als das umliegende Gebiet."
+"Sie konnten aber auf die Köpfe der Laubkerle und den Nashornkäfern gepflanzt werden "
+"was derjenigen Einheit eine weitere Angriff ermöglichte"
 
 #: simulation/templates/units/deku/deku_baba_b.xml:42
 msgid ""
