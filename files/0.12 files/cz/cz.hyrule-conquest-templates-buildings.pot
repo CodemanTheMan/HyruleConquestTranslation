@@ -2210,18 +2210,21 @@ msgid ""
 "of activity for Gerudo civilians. After a long day's work, a Bar went to great lengths "
 "to improve the populace's happiness."
 msgstr ""
+"Prodávající cokoliv od Kítonského Moštu po Lon Lonské Mléko, místní Bar byl často centrem "
+"aktivity pro Gerudské civilisty. Po  dlouhém dni práce, bar dost pomáhal zlepšit obyvatelstvu "
+"náladu."
 
 #: simulation/templates/structures/gerudo/gerudo_bar.xml:69
 msgid "Gerudo Bar"
-msgstr ""
+msgstr "Gerudský Bar"
 
 #: simulation/templates/structures/gerudo/gerudo_bar.xml:70
 msgid "Gerudo Bar that serves drinks to patrons."
-msgstr ""
+msgstr "Gerudský Bar který prodává zákazníkům pití."
 
 #: simulation/templates/structures/gerudo/gerudo_barracks.xml:80
 msgid "Security Compound"
-msgstr ""
+msgstr "Obranná Základna"
 
 #: simulation/templates/structures/gerudo/gerudo_barracks.xml:81
 msgid ""
@@ -2229,14 +2232,17 @@ msgid ""
 "trenches and outposts. Security Compounds can be built in Gerudo cities and serve as "
 "hubs for these networks, providing weapons, armor, and guards."
 msgstr ""
+"Pokročilé obranné sítě se rozléhají po Gerudské poušti, spojeny mílemi zákopů a "
+"základen. Obranné Základny mohou být postaveny v Gerudských městech a sloužit jako osy "
+"dění pro tyto sítě, poskytující zbraně, brnění, a stráž."
 
 #: simulation/templates/structures/gerudo/gerudo_barracks.xml:83
 msgid "Trains a variety of basic Gerudo units."
-msgstr ""
+msgstr "Trénuje základní Gerudské jednotky."
 
 #: simulation/templates/structures/gerudo/gerudo_barracksB.xml:30
 msgid "Gerudo Training Grounds"
-msgstr ""
+msgstr "Gerudské Cvičiště"
 
 #: simulation/templates/structures/gerudo/gerudo_barracksB.xml:31
 msgid ""
@@ -2245,28 +2251,34 @@ msgid ""
 "Ice Arrows or other treasures for battle. Those that fail come out the other end harder"
 " and with more experience... assuming they don't die in the process."
 msgstr ""
+"Nebezpečná a tvrdá překážková dráha, Gerudské Cvičiště je test k nelezení nejlepších z "
+"nejlepší. Ty které dokončí tuto výzvu jsou odměněny legendárními Ledovými šípy a jinými "
+"poklady pro bitvu. Ty co selžou vyjdou druhým koncem tvrdší a s více zkušenostmi... pokud "
+"přitom nezemřou."
 
 #: simulation/templates/structures/gerudo/gerudo_barracksB.xml:34
 msgid "Trains a variety of Gerudo units."
-msgstr ""
+msgstr "Trénuje různé Gerudské jednotky."
 
 #: simulation/templates/structures/gerudo/gerudo_blacksmith.xml:30
 msgid "Weapon Cache"
-msgstr ""
+msgstr "Skrýš Zbraní"
 
 #: simulation/templates/structures/gerudo/gerudo_blacksmith.xml:31
 msgid ""
 "Dotted throughout the Gerudo Desert are caches full of weaponry. Armies are never short"
 " of supply, and can easily replace broken or lost weaponry at these hidden locations."
 msgstr ""
+"Ukryté po Gerudské poušti jsou skrýše plné zbraní. Armády nikdy nemají nedostatek, a "
+"snadno mohou nahradit zničené či ztracené zbraně v těchle skrytých místech." 
 
 #: simulation/templates/structures/gerudo/gerudo_blacksmith.xml:34
 msgid "Improves Gerudo weapons and armor."
-msgstr ""
+msgstr "Zlepšuje Gerudské zbraně a brnění."
 
 #: simulation/templates/structures/gerudo/gerudo_blacksmithB.xml:58
 msgid "Tourney Field"
-msgstr ""
+msgstr "Turnajové Hřiště"
 
 #: simulation/templates/structures/gerudo/gerudo_blacksmithB.xml:59
 msgid ""
@@ -2281,7 +2293,7 @@ msgstr ""
 
 #: simulation/templates/structures/gerudo/gerudo_blacksmithC.xml:74
 msgid "Masonry"
-msgstr ""
+msgstr "Zednářství"
 
 #: simulation/templates/structures/gerudo/gerudo_blacksmithC.xml:75
 msgid ""
@@ -2289,15 +2301,17 @@ msgid ""
 " the foundation of all their cities. These Masons can work the Clay to improve their "
 "buildings in a variety of ways."
 msgstr ""
+"Jíl Gerudské pouště ze tajemstvím mnohým za její hranicí, ale pro Gerudy je základem "
+"všech jejich měst. Tato Zednářství mohou zpracovat jíl a různými způsoby vylepšit budovy."
 
 #: simulation/templates/structures/gerudo/gerudo_blacksmithC.xml:78
 msgid "Improves Gerudo buildings."
-msgstr ""
+msgstr "Zlepšuje Gerudské budovy."
 
 #: simulation/templates/structures/gerudo/gerudo_camp.xml:46
 #: simulation/templates/structures/gerudo/gerudo_storehouse.xml:49
 msgid "Supply Mill"
-msgstr ""
+msgstr "Zásobovací Mlýn"
 
 #: simulation/templates/structures/gerudo/gerudo_camp.xml:47
 #: simulation/templates/structures/gerudo/gerudo_storehouse.xml:50
@@ -2305,14 +2319,16 @@ msgid ""
 "The Windmills of the Gerudo Desert served as storage for food, wood, and all manner of "
 "resources. Within wood was chopped and refined, as well as stone and Rupees."
 msgstr ""
+"Mlýny Gerudské pouště sloužily jako sklad pro jídlo, dřevo, a všelijaké zdroje. Uvnitř "
+"bylo rozřezáno a rafinováno dřevo, ale také kamení a Rupie."
 
 #: simulation/templates/structures/gerudo/gerudo_camp.xml:49
 msgid "Center of a Gerudo Camp."
-msgstr ""
+msgstr "Centrum Gerudského tábora."
 
 #: simulation/templates/structures/gerudo/gerudo_civil_centre.xml:81
 msgid "Palace"
-msgstr ""
+msgstr "Palác"
 
 #: simulation/templates/structures/gerudo/gerudo_civil_centre.xml:82
 msgid ""
@@ -2320,16 +2336,19 @@ msgid ""
 "contains everything needed to run a growing Gerudo city, including training quarters "
 "for workers, soldiers, and resource production."
 msgstr ""
+"Trůn vybudován v Gerudském městě pro návštěvy od Císaře. Palác obsahuje vše nutné k "
+"fungování rostoucího Gerudského města, včetně cvičišť pro dělníky, vojáky, a produkce "
+"zdrojů."
 
 #: simulation/templates/structures/gerudo/gerudo_civil_centre.xml:84
 #: simulation/templates/structures/gerudo/gerudo_outpost.xml:84
 msgid "Center of a Gerudo Settlement. Summons Gerudo Heroes. Manned with archers for defense."
-msgstr ""
+msgstr "Centrum Gerudského města. Povolává Gerudské hrdiny. Obsazen lučištnicemi pro obranu."
 
 #: simulation/templates/structures/gerudo/gerudo_civil_centreB.xml:22
 #: simulation/templates/structures/gerudo/gerudo_outpost.xml:81
 msgid "Oasis"
-msgstr ""
+msgstr "Oáza"
 
 #: simulation/templates/structures/gerudo/gerudo_civil_centreB.xml:23
 #: simulation/templates/structures/gerudo/gerudo_outpost.xml:82
@@ -2338,17 +2357,19 @@ msgid ""
 "up in forward military bases or small villages. A single Oasis can advance the growth "
 "and expansion of the Gerudo."
 msgstr ""
+"Obsahující čerstvé vody hluboko z Gerudské pouště, Oáza je často postavena blízko armádních "
+"základen nebo malých vesnic. Jedinná Oáza dokáže posunout vývoj a rozšiřování Gerud."
 
 #: simulation/templates/structures/gerudo/gerudo_civil_centreB.xml:25
 msgid ""
 "Acts as a smaller Civil Center: Extends Territory, trains Worker units and all "
 "Resources can be dropped off here."
-msgstr ""
+msgstr "Centrum Gerudské základny."
 
 #: simulation/templates/structures/gerudo/gerudo_defense_tower.xml:94
 #: simulation/templates/structures/gerudo/gerudo_defense_towerB.xml:94
 msgid "Gerudo Guard Tower"
-msgstr ""
+msgstr "Gerudská Hradební Věž"
 
 #: simulation/templates/structures/gerudo/gerudo_defense_tower.xml:95
 #: simulation/templates/structures/gerudo/gerudo_defense_towerB.xml:95
@@ -2356,15 +2377,17 @@ msgid ""
 "The Guard Towers of the Gerudo dotted their larger cities, protecting them from "
 "invading armies with shots from archers."
 msgstr ""
+"Hradební věže Gerud strážily jejich větší města, a chránily je proti pronikajícím "
+"armádám střelami jejich lučištnic."
 
 #: simulation/templates/structures/gerudo/gerudo_defense_tower.xml:98
 #: simulation/templates/structures/gerudo/gerudo_defense_towerB.xml:98
 msgid "Defense Tower that attacks enemies with bows and arrows."
-msgstr ""
+msgstr "Obranná věz která útočí na nepřátele luky a šípy."
 
 #: simulation/templates/structures/gerudo/gerudo_field.xml:25
 msgid "Swine Farm"
-msgstr ""
+msgstr "Prasečinec"
 
 #: simulation/templates/structures/gerudo/gerudo_field.xml:26
 msgid ""
@@ -2372,14 +2395,17 @@ msgid ""
 "Gerudo for centuries. In particular, various porcine beasts thrive in the desert, and "
 "in turn the Gerudo grow hordes of pigs for food."
 msgstr ""
+"Protože rostliny byly v jejich domovině extrémně vzácné, maso bylo primárním jídlem "
+"Gerud po staletí. Zejména se s poušti dařilo různým prasatům, a tak je Gerudy začaly "
+"chovat ve stádech pro jídlo."
 
 #: simulation/templates/structures/gerudo/gerudo_field.xml:28
 msgid "Creature Gerudo Swine that can be harvested for Food."
-msgstr ""
+msgstr "Generuje jídlo."
 
 #: simulation/templates/structures/gerudo/gerudo_fortress.xml:167
 msgid "Gerudo Fortress"
-msgstr ""
+msgstr "Gerudská Pevnost"
 
 #: simulation/templates/structures/gerudo/gerudo_fortress.xml:168
 msgid ""
@@ -2387,6 +2413,9 @@ msgid ""
 "archers to attack from, as well as a maze of corridors within, only the largest armies "
 "can hope to take this bastion from the Gerudo."
 msgstr ""
+"Mocná Gerudská Pevnost je budova obtížná dobýt. S tolika platformami pro útočící "
+"lučištnice, a také bludiště koridorů uvnitř, pouze největší armády mohou doufat že "
+"dobudou tuto baštu od Gerud."
 
 #: simulation/templates/structures/gerudo/gerudo_fortress.xml:171
 msgid ""
@@ -2396,17 +2425,19 @@ msgstr ""
 
 #: simulation/templates/structures/gerudo/gerudo_house.xml:49
 msgid "Adobe Housing"
-msgstr ""
+msgstr "Kotovicové Obydlí"
 
 #: simulation/templates/structures/gerudo/gerudo_house.xml:50
 msgid ""
 "The Adobe houses of the Gerudo are quite clever, keeping a cool temperature and "
 "allowing the Gerudo to live in their harsh homelands in relative comfort."
 msgstr ""
+"Kotovicová obydlí Gerud jsou poměrně chytrá, jelikož si drží nízkou teplotu a "
+"umožňuje Gerudám žít v jejich drsným domovinám v relativním pohodlí."
 
 #: simulation/templates/structures/gerudo/gerudo_market.xml:35
 msgid "Barter Outlet"
-msgstr ""
+msgstr "Výměnný Obchod"
 
 #: simulation/templates/structures/gerudo/gerudo_market.xml:36
 msgid ""
@@ -2415,10 +2446,13 @@ msgid ""
 "the survial of the Gerudo, and without these markets the civilization would have "
 "certainly died out by now."
 msgstr ""
+"Řada obchodů prodávajících různé suroviny a služby uvnitř jejich města, címž zvyšuje "
+"jeho ekonomiku a spokojenost lidí uvnitř. Obchod byl nutný k přežití Gerud, a bez "
+"těchto trhů by jejich civilizace už dávno vymřela."
 
 #: simulation/templates/structures/gerudo/gerudo_mercs.xml:92
 msgid "Brothel"
-msgstr ""
+msgstr "Bordel"
 
 #: simulation/templates/structures/gerudo/gerudo_mercs.xml:93
 msgid ""
@@ -2428,11 +2462,16 @@ msgid ""
 "exchange for the next generation of Gerudo women. While the pollution of pure-blooded "
 "Gerudo lines is socially frowned upon, the dying people have few other options."
 msgstr ""
+"Přestože se většina Gerud drží své cti a důstojnosti, některé vydělaly velký zisk tím "
+"že ze svých domů udělaly tyto bordely pro cestovatele v jejich městech. Gerudy přitahovaly "
+"všelijaké partnery z celého Hyronu, a nabízely je potěšit výměnou za příští generaci "
+"Gerudských žen. Přestože je poskrvňování čistých Gerudských pokrevních linií odsuzováno, "
+"umírající lid má jen málo možností."
 
 #: simulation/templates/structures/gerudo/gerudo_mercs.xml:96
 #: simulation/templates/structures/hylian/hylian_mercs.xml:35
 msgid "Allows the hiring of Mercenary units."
-msgstr ""
+msgstr "Umožňuje najímání žoldáckých jednotek."
 
 #: simulation/templates/structures/gerudo/gerudo_plot_gate.xml:22
 #: simulation/templates/structures/gerudo/gerudo_plot_medium.xml:22
@@ -2505,46 +2544,46 @@ msgstr ""
 #: simulation/templates/structures/zora/zora_plot_wallmedium.xml:22
 #: simulation/templates/structures/zora/zora_plot_walltower.xml:22
 msgid "Building Plot"
-msgstr ""
+msgstr "Budovací Parcela"
 
 #: simulation/templates/structures/gerudo/gerudo_plot_gate.xml:25
 msgid "Constructs Gerudo Gates on this space."
-msgstr ""
+msgstr "Postavit zde Gerudské brány."
 
 #: simulation/templates/structures/gerudo/gerudo_plot_gate.xml:50
 #: simulation/templates/structures/ordona/ordona_plot_gate.xml:50
 msgid "Build Gatehouse on this plot."
-msgstr ""
+msgstr "Postavit zde bránu."
 
 #: simulation/templates/structures/gerudo/gerudo_plot_medium.xml:25
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumB.xml:25
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumC.xml:25
 msgid "Constructs Gerudo Buildings on this space."
-msgstr ""
+msgstr "Na tomto místě postavte Gerudské budovy."
 
 #: simulation/templates/structures/gerudo/gerudo_plot_medium.xml:50
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumB.xml:50
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumC.xml:50
 msgid "Build Adobe House on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Kotovicové Obydlí"
 
 #: simulation/templates/structures/gerudo/gerudo_plot_medium.xml:59
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumB.xml:59
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumC.xml:59
 msgid "Build Swine Farm on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Prasečinec."
 
 #: simulation/templates/structures/gerudo/gerudo_plot_medium.xml:68
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumB.xml:68
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumC.xml:68
 msgid "Build Barter Outlet on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Výměnný Obchod."
 
 #: simulation/templates/structures/gerudo/gerudo_plot_medium.xml:77
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumB.xml:77
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumC.xml:77
 msgid "Build Security Compound on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Obrannou Základnu."
 
 #: simulation/templates/structures/gerudo/gerudo_plot_medium.xml:86
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumB.xml:86
@@ -2552,44 +2591,44 @@ msgstr ""
 #: simulation/templates/structures/minor_lonlon/lonlon_plot_medium.xml:50
 #: simulation/templates/structures/ordona/ordona_plot_medium.xml:95
 msgid "Build Stables on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Stáje."
 
 #: simulation/templates/structures/gerudo/gerudo_plot_medium.xml:95
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumB.xml:95
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumC.xml:95
 msgid "Build Training Grounds on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Cvičiště."
 
 #: simulation/templates/structures/gerudo/gerudo_plot_medium.xml:105
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumB.xml:105
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumC.xml:105
 msgid "Build Sandseal Pen on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Ohradu Písečných Mrožů."
 
 #: simulation/templates/structures/gerudo/gerudo_plot_medium.xml:115
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumB.xml:115
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumC.xml:115
 msgid "Build Spirit Altar on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Oltář Duší."
 
 #: simulation/templates/structures/gerudo/gerudo_plot_medium.xml:125
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumB.xml:125
 #: simulation/templates/structures/gerudo/gerudo_plot_mediumC.xml:125
 msgid "Build Weapon Cache on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Skrýš Zbraní."
 
 #: simulation/templates/structures/gerudo/gerudo_plot_tower.xml:25
 #: simulation/templates/structures/gerudo/gerudo_plot_wall_longB.xml:25
 #: simulation/templates/structures/gerudo/gerudo_plot_wall_longC.xml:25
 #: simulation/templates/structures/gerudo/gerudo_plot_wall_verylong.xml:25
 msgid "Constructs Gerudo Walls on this space."
-msgstr ""
+msgstr "Postavit zde Gerudské zdi."
 
 #: simulation/templates/structures/gerudo/gerudo_plot_tower.xml:51
 #: simulation/templates/structures/hylian/hylian_plot_tower.xml:51
 #: simulation/templates/structures/labrynna/labrynna_plot_tower.xml:51
 msgid "Build Guard Tower on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Strážní Věž."
 
 #: simulation/templates/structures/gerudo/gerudo_plot_wall_longB.xml:50
 #: simulation/templates/structures/gerudo/gerudo_plot_wall_longC.xml:50
@@ -2609,11 +2648,11 @@ msgstr ""
 #: simulation/templates/structures/zora/zora_plot_wallcurved.xml:51
 #: simulation/templates/structures/zora/zora_plot_wallmedium.xml:51
 msgid "Build Wall on this plot."
-msgstr ""
+msgstr "Postavit na této parcele zeď."
 
 #: simulation/templates/structures/gerudo/gerudo_plot_walltower.xml:25
 msgid "Constructs Gerudo Wall on this space."
-msgstr ""
+msgstr "Na tomto místě se staví Gerudské zdi."
 
 #: simulation/templates/structures/gerudo/gerudo_plot_walltower.xml:50
 #: simulation/templates/structures/hylian/hylian_plot_walltower.xml:51
@@ -2625,27 +2664,29 @@ msgstr ""
 #: simulation/templates/structures/sheikah/sheikah_plot_gate.xml:51
 #: simulation/templates/structures/sheikah/sheikah_plot_walltower.xml:51
 msgid "Build Wall Tower on this plot."
-msgstr ""
+msgstr "Postavit na této parcele Hradební Věž."
 
 #: simulation/templates/structures/gerudo/gerudo_sentry_tower.xml:56
 msgid "Border Tower"
-msgstr ""
+msgstr "Hraniční Věž"
 
 #: simulation/templates/structures/gerudo/gerudo_sentry_tower.xml:57
 msgid ""
 "Gerudo borders are guarded with care. Many of these towers are built along the "
 "mountainous reaches of the Gerudo Desert to keep watch for invaders."
 msgstr ""
+"Gerudské hranice jsou ostře střeženy. Mnohé z těchto věží byly postaveny kolem "
+"horních svahů Gerudské pouště aby vyhlížely nepřátele."
 
 #: simulation/templates/structures/gerudo/gerudo_sentry_tower.xml:59
 #: simulation/templates/structures/hylian/hylian_sentry_tower.xml:57
 #: simulation/templates/structures/ordona/ordona_sentry_tower.xml:44
 msgid "Small Tower that can detect Camouflaged and Stealthed units."
-msgstr ""
+msgstr "Malá věž schopná detekovat jednotky s kamufláží a utajením."
 
 #: simulation/templates/structures/gerudo/gerudo_stables.xml:69
 msgid "Gerudo Stables"
-msgstr ""
+msgstr "Gerudské Stáje"
 
 #: simulation/templates/structures/gerudo/gerudo_stables.xml:70
 msgid ""
@@ -2653,14 +2694,17 @@ msgid ""
 "breeders all over Hyrule. The Gerudo themselves revere the animals, and have trained "
 "many brave warriors on their backs."
 msgstr ""
+"Ikonické černé koně Gerudské pouště byly ceněny trenéry koní a šlechtiteli po celém "
+"Hyronu. Gerudy samotné ctily tyto zvířata, a trénovali mnohé statečné válečnice na "
+"jejich zádech."
 
 #: simulation/templates/structures/gerudo/gerudo_stables.xml:72
 msgid "Allows the training of Gerudo Cavalry units."
-msgstr ""
+msgstr "Umožňuje trénink Gerudských jezdeckých jednotek."
 
 #: simulation/templates/structures/gerudo/gerudo_stablesB.xml:69
 msgid "Sandseal Pen"
-msgstr ""
+msgstr "Ohrada Písečných Mrožů"
 
 #: simulation/templates/structures/gerudo/gerudo_stablesB.xml:70
 msgid ""
@@ -2668,10 +2712,13 @@ msgid ""
 "fail to domesticate. The Gerudo somehow managed to tame the beasts, and house them in "
 "specialized stables."
 msgstr ""
+"Píseční Mroži domorodí Gerudské poušti jsou tvrdohlavá zvířata která mnohé civilizace "
+"selhaly domestikovat. Gerudy nějak tyto bestie dokázaly ochočit, a zabydlet je v těchto "
+"specializovaných stájích."
 
 #: simulation/templates/structures/gerudo/gerudo_stablesB.xml:73
 msgid "Trains Sandseal units for the Gerudo."
-msgstr ""
+msgstr "Trénuje Pouštní mrože pro Gerudy."
 
 #: simulation/templates/structures/gerudo/gerudo_storehouse.xml:52
 msgid "Serves as a dropoff point for collected Resources."
@@ -2679,7 +2726,7 @@ msgstr ""
 
 #: simulation/templates/structures/gerudo/gerudo_temple.xml:30
 msgid "Spirit Altar"
-msgstr ""
+msgstr "Oltář Duší"
 
 #: simulation/templates/structures/gerudo/gerudo_temple.xml:31
 msgid ""
@@ -2687,12 +2734,16 @@ msgid ""
 "allowed Gerudo Kings to plead to Kovaloo to speak with their dead ancestors. The Wind "
 "Witches have recently unearthed these secrets. and have begun recreating these shrines."
 msgstr ""
+"Ztraceny během starověkých dnů Gerudského impéria, Oltáře Duší byly spojení která "
+"umožňovala Gerudským králům mluvit s Kovalou a mluvit se svými mrtvými předky. Větrnné "
+"čarodejnice před nedávnem odtajily tyto tajemství a začaly znovu budovat tyto svatyně."
 
 #: simulation/templates/structures/gerudo/gerudo_temple.xml:34
 msgid ""
 "Religious building that increases the spread of your territory and allows the training "
 "of several units."
 msgstr ""
+"Náboženská budova která zvyšuje rozsah vašeho teritoria a umožňuje trénink několika jednotek."
 
 #: simulation/templates/structures/gerudo/gerudo_wall_gate.xml:15
 #: simulation/templates/structures/gerudo/gerudo_wall_long.xml:46
@@ -2703,7 +2754,7 @@ msgstr ""
 #: simulation/templates/structures/gerudo/gerudo_wall_verylong.xml:46
 #: simulation/templates/structures/gerudo/gerudo_wallset.xml:5
 msgid "Adobe Wall"
-msgstr ""
+msgstr "Kotovicová Zeď"
 
 #: simulation/templates/structures/gerudo/gerudo_wall_gate.xml:16
 #: simulation/templates/structures/gerudo/gerudo_wall_long.xml:47
@@ -2715,22 +2766,22 @@ msgstr ""
 #: simulation/templates/structures/gerudo/gerudo_wall_verylong.xml:47
 #: simulation/templates/structures/gerudo/gerudo_wallset.xml:6
 msgid "The Adobe walls of the Gerudo are quite durable, and help keep out invaders."
-msgstr ""
+msgstr "Kotovicové Zdi Gerud jsou docela odolné, a pomáhají držet nepřátele venku."
 
 #: simulation/templates/structures/gerudo/gerudo_wall_tower.xml:12
 msgid "Adobe Wall Tower"
-msgstr ""
+msgstr "Kotocivocá Hradební Věž"
 
 #: simulation/templates/structures/gerudo/gerudo_wall_tower.xml:35
 #: simulation/templates/structures/hylian/hylian_stone_wall_tower.xml:35
 #: simulation/templates/structures/lanayru/lanayru_wall_tower.xml:35
 #: simulation/templates/structures/ordona/ordona_wall_tower.xml:34
 msgid "Man this tower with Archers."
-msgstr ""
+msgstr "Obsaďte tuto zeď lučištníky."
 
 #: simulation/templates/structures/gerudo/gerudo_wonder.xml:21
 msgid "Desert Colossus"
-msgstr ""
+msgstr "Pouštní Kolos"
 
 #: simulation/templates/structures/gerudo/gerudo_wonder.xml:22
 msgid ""
@@ -2740,10 +2791,14 @@ msgid ""
 "Spirit Temple: a place of meditation, reflection, and communion with the souls of the "
 "deceased."
 msgstr ""
+"Tyčící se vysoko a odolávající proti tvrdým větrům Uštvané pustiny, Pouštní kolos je "
+"pravým majátek Gerudského kameniství a inženýrství. Postaven do podoby první mudryně "
+"duší, Kovaly, Pouštní kolos stráží vstup do Chrámu Duší: místa meditace, úvahy, a "
+"společenství s dušemi zesnulých."
 
 #: simulation/templates/structures/gerudo/gerudo_wonder.xml:25
 msgid "The Gerudo Wonder, allows you to summon Twinrova."
-msgstr ""
+msgstr "Gerudský Div."
 
 #: simulation/templates/structures/gohma/eggs/gohma_egg_gohma_burst_b.xml:37
 msgid "Gohma Egg - Burstgohma"
