@@ -9751,7 +9751,7 @@ msgstr "Ugpug Karrn"
 
 #: simulation/templates/units/moblin/moblin_collector_b.xml:25
 msgid "Stalfos dropsite for resources."
-msgstr "Moblin Smmler"
+msgstr "Moblin Sammler"
 
 #: simulation/templates/units/moblin/moblin_defense_tower_packed.xml:18
 msgid "Watchin' You Tower"
@@ -9780,6 +9780,10 @@ msgid ""
 "Demonblighty guy can take on fifty, no, one hundred shiny Hylian knights! That's right,"
 " one hundred!"
 msgstr ""
+"Groß düstre Gruselmagie macht groß düstre Gruselmoblin! Dämonbrand ist größa als wie alle andaren"
+"Blins, stärka als wie alle andaren Blins, Grusliga als wie alle andaren Blins in da ganzn Weld! Ein"
+"Dämonbrändli Typ kann ganze fünfschig, nein, Einhundat blinkande hylianische Ridder kaputtn!"
+"Da staunste wa, ganze einhundat!"
 
 #: simulation/templates/units/moblin/moblin_demonblight_b.xml:66
 msgid "Demonblight"
@@ -9790,10 +9794,12 @@ msgid ""
 "Only our Goddy Ukblinro's favorite servant Ghirahim can make these guys! Really tall "
 "doomy Melee Creature with big huge scary sword!"
 msgstr ""
+"Nur Girahim der Leiblingsdiena von unsram Gotti Grolon can diese Kerle machen! Supi Große unhailige"
+"Kreatur mit groß riesigem Gruselschwert."
 
 #: simulation/templates/units/moblin/moblin_dummyA.xml:65
 msgid "Dodoblin Dummy"
-msgstr ""
+msgstr "Dodoblin dummy"
 
 #: simulation/templates/units/moblin/moblin_dummyA.xml:66
 msgid ""
@@ -9814,7 +9820,7 @@ msgstr ""
 
 #: simulation/templates/units/moblin/moblin_dungflinger_b.xml:61
 msgid "Dungflinger"
-msgstr ""
+msgstr "Kotschleuder"
 
 #: simulation/templates/units/moblin/moblin_dungflinger_b.xml:62
 msgid ""
@@ -9824,6 +9830,11 @@ msgid ""
 "confused! They dance around all smelly while we go in an whack em all dead! Thanks "
 "smart science makers!"
 msgstr ""
+"Das beste was die schlaubi wissen Schafter der gsamten Blinhait machn konntn! Erseht"
+"die Kotschleuder! So ne supi Idee ich weeß nicht wwarum ich ned selber druffkam! Also "
+"man macht den Dung in die Schleuder und wird alls losgelassen und junge die blödis guckn"
+"da ganz schön in die Wäsche. Die tanzn rum ganz stinkned während wir sie tot haun! Danke"
+"schlaubi Wissen Schafter"
 
 #: simulation/templates/units/moblin/moblin_dungflinger_b.xml:65
 msgid "Big Moblin Support thing flings the dung at the baddies to slow them down!"
@@ -9831,7 +9842,7 @@ msgstr ""
 
 #: simulation/templates/units/moblin/moblin_durpyblin_b.xml:40
 msgid "Durpyblin Defender"
-msgstr ""
+msgstr "Fettkblin Ferteidiger"
 
 #: simulation/templates/units/moblin/moblin_durpyblin_b.xml:41
 msgid ""
@@ -9839,14 +9850,17 @@ msgid ""
 "dumber, they cant even do all the nice work! Instead we give em a big pointy stick and "
 "tell em to stay put or run that way!"
 msgstr ""
+"Das ainzige dümmer als ein Fettblin ist ein Dodoblin ! Wobei se vielleicht noch dümma sind,"
+"denn die könnn nicht mal die ganze tolleArbait machn.! Anstadt geben wir ihnn ainen großn"
+"spitzn stock und sagn ihnn das se wo stehn bleiben oder wohin gehn solln."
 
 #: simulation/templates/units/moblin/moblin_durpyblin_b.xml:45
 msgid "Big fat hard to kill Melee guy with a spear and shield!"
-msgstr ""
+msgstr "Große fette und schwer tot zu hauende Infantarie mit Speer und Schild!"
 
 #: simulation/templates/units/moblin/moblin_field_packed.xml:22
 msgid "Prey Breedin' Place"
-msgstr ""
+msgstr "Beute Brüter"
 
 #: simulation/templates/units/moblin/moblin_field_packed.xml:23
 msgid ""
@@ -9854,14 +9868,17 @@ msgid ""
 " like the neighbors breed the cows and the goats and the horseys?!” So we Moblins did "
 "just that and now we gots lots of food running around!"
 msgstr ""
+"Ein schlaubi Moblin hat sich ma gedacht ” Moment ma, was wenn ma die Beute zu Brüten wie"
+" die Nachbarn die Pferdis und Muhis und Ziegis brüten?!” Und so ham wa's gmacht und nun "
+"ham wa ganz viel Essen rumlaufen."
 
 #: simulation/templates/units/moblin/moblin_field_packed.xml:25
 msgid "We grow prey here to hunt and get some more food!"
-msgstr ""
+msgstr "We züchten Beute hier um Essen"
 
 #: simulation/templates/units/moblin/moblin_field_packed.xml:62
 msgid "Unpack this Prey Breedin' Place."
-msgstr ""
+msgstr "Entpack diesen Beute Brüter."
 
 #: simulation/templates/units/moblin/moblin_fortress_packed.xml:18
 msgid "Big Bad Battle Base"
@@ -9886,7 +9903,7 @@ msgstr ""
 
 #: simulation/templates/units/moblin/moblin_gooma_b.xml:57
 msgid "Gooma"
-msgstr ""
+msgstr "Guma"
 
 #: simulation/templates/units/moblin/moblin_gooma_b.xml:58
 msgid ""
@@ -9894,14 +9911,17 @@ msgid ""
 " Swinging around his biggo ball on a chain! Pretty great at crushing the baddies with "
 "that! Just keep in mind he's nice and slow!"
 msgstr ""
+"Guter alter guter Guma! He ist deer seltsame Kusar den man am Halbgeburtstag a hat. Er schwingt"
+"seine kuglige Kugel an einer Kette"! Er ist supi darin Blödis damit zu zermanschn. Man muss nur "
+"merkn das er langsam aber stetig geht."
 
 #: simulation/templates/units/moblin/moblin_gooma_b.xml:62
 msgid "Big Melee Siege unit with a biggo range!"
-msgstr ""
+msgstr "Großa Belagara mit großeaReichweite im Nahkampf!"
 
 #: simulation/templates/units/moblin/moblin_grunt_b.xml:39
 msgid "Moblin Grunt"
-msgstr ""
+msgstr "Moblin Lanza"
 
 #: simulation/templates/units/moblin/moblin_grunt_b.xml:40
 msgid ""
@@ -9909,14 +9929,17 @@ msgid ""
 "the nice sticks and armor and they go a stabbin away! Get good Grunts to make the army "
 "nice and good like the baddies! No, better than the baddies!"
 msgstr ""
+"Moblins sin gut im Kämpfn aber manche Moblins sin besser als die andern! Die bestn Moblins"
+"kriegn ein schön Stock un Rüstung und schon stechn se los! Holt die Lanza um die Armee so toll"
+"und stark wie der Blödis zu machen! Nein bessa als die da Blödis."
 
 #: simulation/templates/units/moblin/moblin_grunt_b.xml:44
 msgid "Good armor and good spear make this a good Melee unit for the Moblins!"
-msgstr ""
+msgstr "Gute Rüstung un Guter speer machen das zu ner Guten Einhait für die Moblins"
 
 #: simulation/templates/units/moblin/moblin_hero_ganon.xml:39
 msgid "King Warlord of the Blins"
-msgstr ""
+msgstr "König Feldsherr der Blins"
 
 #: simulation/templates/units/moblin/moblin_hero_ganon.xml:41
 msgid ""
@@ -9930,15 +9953,15 @@ msgstr ""
 
 #: simulation/templates/units/moblin/moblin_hero_ganon.xml:45
 msgid "Ganon"
-msgstr ""
+msgstr "Ganon"
 
 #: simulation/templates/units/moblin/moblin_hero_ganon.xml:46
 msgid "Big Giant Hero with reaallly big Trident for stabbin the baddies!"
-msgstr ""
+msgstr "Großer Gigant mit riiiiichtig großen Dreizack um die Blödis zu stechen"
 
 #: simulation/templates/units/moblin/moblin_hero_ghirahim.xml:56
 msgid "Fallen Spirit"
-msgstr ""
+msgstr "Gefallener Geist"
 
 #: simulation/templates/units/moblin/moblin_hero_ghirahim.xml:58
 msgid ""
@@ -9947,18 +9970,22 @@ msgid ""
 " fear! There's a good reason Ukblinro, our great god blessed be his awesome name, made "
 "Ghirahim his most trusted servant... he's that good at killing!"
 msgstr ""
+"Uuiuiui grusliger Girahim, die tolle Waffen von großn Todbringer! Dieser gruslige Schwerdgaist"
+"kann seine Schwerter herumwirbeln lassen wie Fögel und dabei die Köpfe der Blödis abhacken"
+"und dabei die Hylianer vor Angst wegrennen lassen! Es gibt nen guten Grund warum Ukblinro,"
+"gelobt sai sain supi Name, ihn zu seinen vertrautesten Diener machte... si gut ist er im kaputtn! "
 
 #: simulation/templates/units/moblin/moblin_hero_ghirahim.xml:62
 msgid "Ghirahim"
-msgstr ""
+msgstr "Girahim"
 
 #: simulation/templates/units/moblin/moblin_hero_ghirahim.xml:63
 msgid "Powerful Hero Spirit goes attackin the baddies by making swords fly all over!"
-msgstr ""
+msgstr "Mächtiger Heldgeist der mit sainen Fliegenden Schwertan dei Blödis angreift "
 
 #: simulation/templates/units/moblin/moblin_hero_glutko.xml:39
 msgid "King of the Boxonoxes"
-msgstr ""
+msgstr "König der Boknoxe"
 
 #: simulation/templates/units/moblin/moblin_hero_glutko.xml:41
 msgid ""
@@ -9966,18 +9993,21 @@ msgid ""
 " and green! He rules the other bokonoxes and brings them to battle for big bad fun "
 "times! Ahhhhhhhhhhhhhh!"
 msgstr ""
+"Glutko der dicke, Glutko der häsliche, Glutko der haut dir in die Fresse! Glutko ist der"
+"dick, böse, häslich und grün! Er befehlt de andaren Boknoxe und bringt sie zur Haue für"
+"richtige böse spaßige Zaiten!  Ahhhhhhhhhhhhhh!"
 
 #: simulation/templates/units/moblin/moblin_hero_glutko.xml:45
 msgid "Glutko"
-msgstr ""
+msgstr "Glutko"
 
 #: simulation/templates/units/moblin/moblin_hero_glutko.xml:46
 msgid "Big ugly Glutko he the king of the Bokonoxes!"
-msgstr ""
+msgstr "Dicker häslicher Glutko da König der Boknoxe!"
 
 #: simulation/templates/units/moblin/moblin_hero_kingbulblin.xml:38
 msgid "Boss of the Bulblins"
-msgstr ""
+msgstr "Boss der Bulblins"
 
 #: simulation/templates/units/moblin/moblin_hero_kingbulblin.xml:40
 msgid ""
@@ -9986,18 +10016,22 @@ msgid ""
 " into battle to lop some heads off of the stinking Hylians and anyone who gets in the "
 "Moblin way!"
 msgstr ""
+"Ein Mmchtigerund grusliger ist König Bulblin, es haißt er er ist von ner Brücke gefallen"
+"und hat überlebt... Zweimal!! Er raitet auf dem Rückn des großen alten tollen Lord Bullbo"
+"und schwingt seine Axt um den dummen Hylianer die Köppe zu von den Schultern zu nehmen "
+"und jeden der den Blins im Weg steht."
 
 #: simulation/templates/units/moblin/moblin_hero_kingbulblin.xml:44
 msgid "King Bulblin"
-msgstr ""
+msgstr "König Bulblin"
 
 #: simulation/templates/units/moblin/moblin_hero_kingbulblin.xml:45
 msgid "Big bad Cavalry Hero who chops up the baddies with his big axe!"
-msgstr ""
+msgstr "Großer böser Held da Kavallarie der den Blödis mit sainer Axt zerhackt."
 
 #: simulation/templates/units/moblin/moblin_hero_kojaku.xml:42
 msgid "Can't Die Bugblin"
-msgstr ""
+msgstr "Unkaputbarer Schlankblin"
 
 #: simulation/templates/units/moblin/moblin_hero_kojaku.xml:44
 msgid ""
@@ -10005,18 +10039,21 @@ msgid ""
 "other Bugblins and even Moblins! Lose in eye in many fights, all his bones broken in "
 "many fights! But look he still alive!"
 msgstr ""
+"Kojaku der Schlankblin ist unkapputbar, nicht mehr un nicht weniger?! Er lebt länga all"
+"alle andaren SChlankblins und sogar Moblins!Verliert sain Auge in manchen Kämpfn, bricht"
+"sich alle Knochn in andaren! Aber er sieht noch lebendig aus!"
 
 #: simulation/templates/units/moblin/moblin_hero_kojaku.xml:48
 msgid "Kojaku"
-msgstr ""
+msgstr "Kojaku"
 
 #: simulation/templates/units/moblin/moblin_hero_kojaku.xml:49
 msgid "This Bugblin he can't die! He live longer than all other Bugblin!"
-msgstr ""
+msgstr "Dieser Schlankblin kann nich sterbn! Er lebt länga als alle andaren Schlankblins!"
 
 #: simulation/templates/units/moblin/moblin_hero_ogalon.xml:34
 msgid "Big Bad Baddy Commander"
-msgstr ""
+msgstr ""Großer blöd für blödis Kommandantin
 
 #: simulation/templates/units/moblin/moblin_hero_ogalon.xml:36
 msgid ""
@@ -10028,15 +10065,15 @@ msgstr ""
 
 #: simulation/templates/units/moblin/moblin_hero_ogalon.xml:40
 msgid "Ogalon"
-msgstr ""
+msgstr "Ogalon"
 
 #: simulation/templates/units/moblin/moblin_hero_ogalon.xml:41
 msgid "Ganon's best Hero lady! She stab the bad guys with her spear and has a big shield!"
-msgstr ""
+msgstr "Beste Helden Frauchen! Sie sticht die blödis mit ihrem Speer!"
 
 #: simulation/templates/units/moblin/moblin_hinox_b.xml:53
 msgid "Hinox"
-msgstr ""
+msgstr "Hinox"
 
 #: simulation/templates/units/moblin/moblin_hinox_b.xml:54
 msgid ""
@@ -10045,14 +10082,18 @@ msgid ""
 "Hinox are cool! They throw big boom bombs at the baddies and make everything go on "
 "fire! So fun! Hinox are the best!"
 msgstr ""
+"Boah junge wir ham keine Ahnung wo diese großen komischen Kerle herkamen! Manche dummi Blödis"
+"lügen und sagen die sind teil Moblin, teil Hylianer! Das ist ainfach dumm! Hylianer sind blöd"
+"und Hinox sind cool, die werfen große bummbomben und sorgen das alles in die Luft fliegt!"
+"Richtig lustig! Hinox sind die besten!"
 
 #: simulation/templates/units/moblin/moblin_hinox_b.xml:58
 msgid "Big Siege guy throw the boomy bombs at the bad guys base!"
-msgstr ""
+msgstr "Großer Belagarer dem bummbomben auf die Blödi Basis wirft!"
 
 #: simulation/templates/units/moblin/moblin_house_packed.xml:18
 msgid "Housin' Yurt"
-msgstr ""
+msgstr "Hausi Jurte"
 
 #: simulation/templates/units/moblin/moblin_house_packed.xml:19
 msgid ""
@@ -10060,24 +10101,27 @@ msgid ""
 "learn from us! Our houses only fall down maybe two or three times a season instead of "
 "five!"
 msgstr ""
+"Ahhhh, süßes Zuhause . Wir Moblins machn die bestn Hausis von den Blins! Die andaren können"
+"was von lernen! Unsere Hausis kippen nur ein-, zweimal in da Jahreszeit um,anstatt fünfmal!"
+""
 
 #: simulation/templates/units/moblin/moblin_house_packed.xml:21
 msgid "We live here!"
-msgstr ""
+msgstr "Hier leben wir!"
 
 #: simulation/templates/units/moblin/moblin_house_packed.xml:62
 #: simulation/templates/units/moblin/moblin_house_packed_upg.xml:12
 msgid "Unpack this Housin' Yurt."
-msgstr ""
+msgstr "Entpack diese Hausi Jurte"
 
 #: simulation/templates/units/moblin/moblin_lynelblin_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Spear."
-msgstr ""
+msgstr "Speer"
 
 #: simulation/templates/units/moblin/moblin_lynelblin_b.xml:36
 msgid "Lynelblin"
-msgstr ""
+msgstr "Leunenblin"
 
 #: simulation/templates/units/moblin/moblin_lynelblin_b.xml:38
 msgid ""
@@ -10085,16 +10129,22 @@ msgid ""
 "oopsie! Preeeettyyyy gross! But Lynelblins are pretty great if you ask me! They can run"
 " nice and fast and beat those dead horses!"
 msgstr ""
+"Wir denken der Leune war nich ganz richtig im Kopf und war Kindermachen mit einen Moblin"
+"und hatten ein upsie! Ziemlich ekelig! Aber Leunenblins sind ziemlich toll wenn de mich fragst"
+"Die rennen richtig schnell und schlagen und reitenauf den anderen Pferdies herum."
+""
 
 #: simulation/templates/units/moblin/moblin_lynelblin_b.xml:43
 msgid ""
 "Only the Great Ganon can make these guys! Half Moblin Half Lynel that run down the "
 "baddies with point spear stick!"
 msgstr ""
+"Nur der Große Ganon kann diese Kerle machen. Halb Moblin und Halb Leune die Blödis mit"
+"ihren spitzen stöckis niederreiten."
 
 #: simulation/templates/units/moblin/moblin_market_packed.xml:18
 msgid "Swap Meet n' Meat"
-msgstr ""
+msgstr "Fleisch und Freund Treffplatz."
 
 #: simulation/templates/units/moblin/moblin_market_packed.xml:19
 msgid ""
@@ -10102,14 +10152,17 @@ msgid ""
 "that shinies are a joke though, just a trick they Hylians made to make money on stuff! "
 "So smartest Moblins sell it to dumber Moblins and make lots of money!"
 msgstr ""
+"Oh junge, Wenn ein Moblin ein Glänzi bekommt dann ist er fast König! Die schlaubis Wissen"
+"das die Glänzis ein Witz sind und ein Trick der Hylianer ist um Rubine auf Dinge zu machen"
+"Also verkaufen die schlaubi Moblins es an die dümmeren Moblins und machen viele Rubine."
 
 #: simulation/templates/units/moblin/moblin_market_packed.xml:21
 msgid "Moblins trade the money here and make the trade with their big bad friends too!"
-msgstr ""
+msgstr "Moblins tauschen handeln hier und zwar auch mit ihren kühlen Freunden"
 
 #: simulation/templates/units/moblin/moblin_market_packed.xml:58
 msgid "Unpack this Swap Meet n' Meat."
-msgstr ""
+msgstr "Entpack diesen Fleisch und Freund Treffplatz"
 
 #: simulation/templates/units/moblin/moblin_mercs_packed.xml:18
 msgid "Cool Friend's Club"
@@ -10132,7 +10185,7 @@ msgstr ""
 
 #: simulation/templates/units/moblin/moblin_mob_b.xml:33
 msgid "Moblin Mob"
-msgstr ""
+msgstr "Moblin Mob"
 
 #: simulation/templates/units/moblin/moblin_mob_b.xml:34
 msgid ""
@@ -10140,28 +10193,34 @@ msgid ""
 "and we make nice big angry army! Just give us a nice big stick and we go a bashing on "
 "the heads!"
 msgstr ""
+"Ahhhh die guten alten Moblins sind immer noch die besten! Deswegen sind wir auch die Bestimmer!"
+"Mach uns wütend und wir machen ne richtige große wütende Armee. Gib uns nen dicken Stock und "
+"wir haun ihnen den Schädel kaputt!"
 
 #: simulation/templates/units/moblin/moblin_mob_b.xml:38
 msgid "Big Melee Moblin hit them on the head with mightly club!"
-msgstr ""
+msgstr "Große Moblin Infanterie die mit nem dicken Knüppel aufn Kopp haut."
 
 #: simulation/templates/units/moblin/moblin_picket_b.xml:41
 msgid "Bulblin Picket"
-msgstr ""
+msgstr "Bulblin Streiposten"
 
 #: simulation/templates/units/moblin/moblin_picket_b.xml:42
 msgid ""
 "Very sneaky arrow shooty Bulblin! Pickets are great, they can just get up places all "
 "sneaky like and fill enemies with arrows! Ahahahaha Pickets make us win!"
 msgstr ""
+"Sehr schleichi und pfeilschussi Bulbin! Streikpfosten sind toll den sie können sich überall"
+"hinschleichen und Blödis mit Pfeilen vollschießen. Die Streikpfosten machen uns den Sieg!"
+""
 
 #: simulation/templates/units/moblin/moblin_picket_b.xml:45
 msgid "Little Missile unit shoot the arrow at their heads! He also sneaky and hide when still!"
-msgstr ""
+msgstr "Kleine Bogenschützen die Pfeile auf Gegner schießen. Auch getarnt wenn se stillstehen."
 
 #: simulation/templates/units/moblin/moblin_squaddie_b.xml:32
 msgid "Dodoblin Squaddie"
-msgstr ""
+msgstr "Dodoblin Schwadronies"
 
 #: simulation/templates/units/moblin/moblin_squaddie_b.xml:33
 msgid ""
@@ -10170,10 +10229,14 @@ msgid ""
 " check out the new place before we go in an wreck it all up! Hahahah they will do any "
 "dumb job we tell them to do!"
 msgstr ""
+"Wir Moblins finden immer neue Leute zum kämpfen. Aber manchmal sind die neuen Leute "
+"stark! Manchmal finden wir statt neuen Leuten nen Drachen! Also schicken wir die "
+"dummen Dodoblins um zu gucken bevor wir reingehen und alles kapputn! Hahaha die machen"
+"alle dummen Sachen die ma ihnen sagen."
 
 #: simulation/templates/units/moblin/moblin_squaddie_b.xml:37
 msgid "Small sumb Dodoblin with a little sword and shield, send em in first to get beat up!"
-msgstr ""
+msgstr "Kleine dumme Dodoblins mit kleinem Schwert und Schild. Schick se zuerst damit sie was auf die Mütze kriegen"
 
 #: simulation/templates/units/moblin/moblin_storehouse_packed.xml:18
 msgid "Good Stuff Stockin'"
@@ -10197,11 +10260,11 @@ msgstr ""
 #: simulation/templates/units/moblin/moblin_tallblin_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Bugblins"
-msgstr ""
+msgstr "Schlankblin"
 
 #: simulation/templates/units/moblin/moblin_tallblin_b.xml:57
 msgid "Tallblin Tosser"
-msgstr ""
+msgstr "Rankblin Schleuderer"
 
 #: simulation/templates/units/moblin/moblin_tallblin_b.xml:58
 msgid ""
@@ -10209,14 +10272,17 @@ msgid ""
 "These guys throw the little bugblins at the baddies, nice and far and over the walls! "
 "Get a few of these guys and we can get past any nasty gate﻿﻿!"
 msgstr ""
+"Manchmal werden die Schlankblins richtig groß und wir nennen sie Rankblins! Cleverer Name!"
+"Diese Typen werfen die kleinen Schlankblins auf die Blödis, schön und weit über Mauern!"
+"Mit ein paar von diesen Kerlen können wir über jedes Tor."
 
 #: simulation/templates/units/moblin/moblin_tallblin_b.xml:62
 msgid "Big tall Tallblin a big tall Missile unit that throws Bugblins at the baddies!"
-msgstr ""
+msgstr "Großer langer Rankblin der mit Schlankblins als Projektile verwendet!"
 
 #: simulation/templates/units/moblin/moblin_thug_b.xml:36
 msgid "Bulblin Thug"
-msgstr ""
+msgstr "Bulblin Schurke"
 
 #: simulation/templates/units/moblin/moblin_thug_b.xml:37
 msgid ""
@@ -10224,19 +10290,22 @@ msgid ""
 "some shiny money and they can do the job pretty great! They're good with those clubs "
 "and attackin from sneaky places, we Moblins are braver than that!"
 msgstr ""
+"Oooooo diese Bulblins sind noch viel größere Schlaubis als alle anderen Blinvölker! Gib "
+"ihnen ein paar Rubine und sie machen jede Arbeit supi! Die sind gut mit ihren Knüppeln"
+"und von schleichorten angreifen, wir Moblins sind zu mutig dafür."
 
 #: simulation/templates/units/moblin/moblin_thug_b.xml:41
 msgid "Little Melee Bulblin bash them on the head with his club!"
-msgstr ""
+msgstr "Kleine Bulblin infanterie die Gegner mit ihren Knüppeln eins überzieht."
 
 #: simulation/templates/units/moblin/moblin_titan_demise.xml:12
 msgctxt "Name of an attack, usually the weapon."
 msgid "Sword of Demise"
-msgstr ""
+msgstr "Schwert des Todbringers"
 
 #: simulation/templates/units/moblin/moblin_titan_demise.xml:70
 msgid "Bringer of Demise"
-msgstr ""
+msgstr "Der Todbringer"
 
 #: simulation/templates/units/moblin/moblin_titan_demise.xml:71
 msgid ""
@@ -10245,22 +10314,26 @@ msgid ""
 "our God is best, so he survived and is back and better than ever! Goddy Ukblinro brings"
 " a biiiigggggg sword into the fight, and he goes and makes us win! All hail Ukblinro!"
 msgstr ""
+"Yeaaahhh unser Gott Ukblinro! Der besteste Gotti in ganz Hyrule und in anderen Orten!"
+"Vor langer Zeit wurde er böse von der dummen schickse Hylia verletzt! Aber unser Gott"
+"ist der beste also hat er überlebt und ist so gut zurücl wie noch nie! Gotti Ukblinro"
+"bringt ein groooooßes Schwert zur Haue und macht uns den Sieg! Hipp hipp hurra für Ukblinro!"
 
 #: simulation/templates/units/moblin/moblin_titan_demise.xml:74
 msgid "Ukblinro"
-msgstr ""
+msgstr "Ukblinro"
 
 #: simulation/templates/units/moblin/moblin_titan_demise.xml:75
 msgid "Moblin Titan unit! Big Moblin Goddy hit them all with biggest sword!"
-msgstr ""
+msgstr "Moblin Titan! Großer Moblin Gotti der mit dem größten Schwert"
 
 #: simulation/templates/units/moblin/moblin_titan_demise.xml:76
 msgid "Titan"
-msgstr ""
+msgstr "Titan"
 
 #: simulation/templates/units/moblin/moblin_titan_demise.xml:76
 msgid "Blunt"
-msgstr ""
+msgstr "Stumpf"
 
 #: simulation/templates/units/moblin/moblin_totem_packed.xml:18
 msgid "Moblin Totem"
@@ -10284,7 +10357,7 @@ msgstr ""
 
 #: simulation/templates/units/moblin/moblin_warlord_b.xml:38
 msgid "Moblin Warlord"
-msgstr ""
+msgstr "Moblin Kriegsherr"
 
 #: simulation/templates/units/moblin/moblin_warlord_b.xml:39
 msgid ""
@@ -10292,10 +10365,13 @@ msgid ""
 "super bossy! He has nice awesome axe and can eat other Moblins for breakfast! Ok that "
 "last part was made up, but still listen to him or else!"
 msgstr ""
+"Whooooaaaahhh großer böser Moblin Boss! Du höhrst besser auf ihm, die Kriegsherrn sind"
+"supi schlaubis und supi bestimmerig! Der hat ne ne supi tolle Axt und isst die anderen"
+"Moblins zum Frühstück! Ok der letzte Teil war ehrfunden aber du hörst trotzdem besser!"
 
 #: simulation/templates/units/moblin/moblin_warlord_b.xml:43
 msgid "Big bad bossy unit that can boss around other Blins!"
-msgstr ""
+msgstr "Große bossige Einheit die andere Blins herumkommandiert."
 
 #: simulation/templates/units/moblin_trader_b.xml:12
 msgid "Bargainer"
@@ -10313,7 +10389,7 @@ msgstr ""
 
 #: simulation/templates/units/npc_keaton/npc_kea_marksman_b.xml:45
 msgid "Keaton Marksman"
-msgstr ""
+msgstr "Keaton Schützen"
 
 #: simulation/templates/units/npc_keaton/npc_kea_marksman_b.xml:46
 msgid ""
@@ -10321,6 +10397,10 @@ msgid ""
 "intimidation and ambush, but when used properly, can take down some of the toughest "
 "armor with their bolts."
 msgstr ""
+"Sowohl hinterhältig als auch tödlich mit ihren Armbrüsten werden die Keaton Schützen "
+"hauptsächlich zur einschüchterung und Hinterhälte eingesetzt. Aber ihr Potenzial"
+"wird vor allem dann richtig ausgenutzt wenn sie selbst die stärkste Rüstung mit "
+"ihren Bolzen durchdringen."
 
 #: simulation/templates/units/npc_keaton/npc_kea_marksman_b.xml:50
 msgid "Camouflaged Missile unit that can snipe enemies with their crossbows."
@@ -10328,7 +10408,7 @@ msgstr ""
 
 #: simulation/templates/units/npc_lonlon/npc_lon_cowcart_b.xml:24
 msgid "Cow Cart"
-msgstr ""
+msgstr "Kuhkarren"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_cowcart_b.xml:25
 msgid ""
@@ -10336,14 +10416,17 @@ msgid ""
 "could return to this supply and refresh themselves, even healing some of their wound "
 "before returning to the frontlines."
 msgstr ""
+"Ein einfacher Karren der die berühmte Lon Lon Milch herumkutschiert. In der Hitze des"
+"Gefechts können Soldaten zu ihm gehen um sich zu erfrischen und ein paar ihrer Wunden"
+"heilen bevor sie an die Front zurückkehrten."
 
 #: simulation/templates/units/npc_lonlon/npc_lon_cowcart_b.xml:28
 msgid "Support unit that can heal nearby units."
-msgstr ""
+msgstr "Unterstützungseinheit die nahe Einheiten heilen kann"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_cowgirl_b.xml:41
 msgid "Cowgirl"
-msgstr ""
+msgstr "Kuhhirtin"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_cowgirl_b.xml:42
 msgid ""
@@ -10351,47 +10434,55 @@ msgid ""
 "safe from thieves and would be conquerors. Armed with a bow and arrow, Cowgirls could "
 "outride and snipe their targets."
 msgstr ""
+"Die Kuhirtinnen der Lonlon Ranch halfen die Herden einzurangeln und den Grund vor  "
+"Dieben und Möchtegerneroberern zu schützen. Mit Pfeil und Bogen konnten die Hirtinnen"
+"den Gegnern davonreiten und sie aus der Ferne ausschalten"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_cowgirl_b.xml:45
 msgid "Missile Cavalry unit that attacks with bow and arrow."
-msgstr ""
+msgstr "Bogenschützinnen der Kavallerie."
 
 #: simulation/templates/units/npc_lonlon/npc_lon_hand_b.xml:44
 msgid "Ranch Hand"
-msgstr ""
+msgstr "Rancharbeiter"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_hand_b.xml:45
 msgid ""
 "Ranch Hands helped maintain Lon Lon Ranch, doing some of the heavier dirty work and "
 "keeping wild animals away from their livestock."
 msgstr ""
+"Die Rancharbeiter halfen Lon Lon ranch instand zu halten, die etwas schwerere Schmutzarbeit"
+"zu verrichten und das Vieh vor Wildtieren zu schützen"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_hand_b.xml:48
 msgid "Light Melee unit that can help workers construct buildings and gather resources."
-msgstr ""
+msgstr "Leichte Infanterie "
 
 #: simulation/templates/units/npc_lonlon/npc_lon_hero_malon.xml:30
 msgid "Famous Rancher of Lon Lon"
-msgstr ""
+msgstr "Berühmte Rancherin von Lon Lon"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_hero_malon.xml:31
 msgid ""
 "Malon Lontha is the owner of Lon Lon Ranch and a renowned businesswoman in the Kingdom "
 "of Hyrule. Continuing her father's work, she runs and operates Lon Lon Ranch, raising "
 "the world's best horses and selling the most famous milk to countless customers."
-msgstr ""
+msgstr""
+"Malon Lontha ist die besitzerin von Lon Lon Ranch und eine bekannte Geschäftsfrau im "
+"Königreich. Sie führt die Arbeit ihres Vaters fort indem sie Lon Lon Ranch führt, die besten"
+"Pferde der bekannten Welt züchtet und die berühmte Milch an zahlreiche Kunden liefert."
 
 #: simulation/templates/units/npc_lonlon/npc_lon_hero_malon.xml:34
 msgid "Malon"
-msgstr ""
+msgstr "Malon"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_hero_malon.xml:35
 msgid "Missile Cavalry Hero that snipes her enemies with bow and arrows on horseback."
-msgstr ""
+msgstr "Bogenschützin der Kavallerie die Gegner vom Pferd aus mit Pfeil und Bogen erledigt."
 
 #: simulation/templates/units/npc_lonlon/npc_lon_rancherA.xml:23
 msgid "Rancher"
-msgstr ""
+msgstr "Rancher"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_rancherA.xml:24
 msgid ""
@@ -10408,11 +10499,11 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_stalmaster_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Swords"
-msgstr ""
+msgstr "Schwerter"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_riders_b.xml:38
 msgid "Ranch Riders"
-msgstr ""
+msgstr "Ranch Reiter"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_riders_b.xml:39
 msgid ""
@@ -10420,14 +10511,17 @@ msgid ""
 " Field with vigilance to protect the busienss and services of their employer. Nothing "
 "on foot could match their speed."
 msgstr ""
+"Auf den schnellsten Pferden in ganz Hyrule patrollieren die Ranch Reiter die Hyrule Ebene"
+"wachsam um die das Geschäft und die Dienste ihrer Arbeitgebers zu erfüllen. Nichts auf Füßen"
+"konnte mit ihrer Geschwindigkeit mithalten."
 
 #: simulation/templates/units/npc_lonlon/npc_lon_riders_b.xml:42
 msgid "Fast Melee Cavalry unit that can take on and best other cavalry units."
-msgstr ""
+msgstr "Schnelle Kavallerie die andere Kavallerie im Nahkampf bezwingt."
 
 #: simulation/templates/units/npc_lonlon/npc_lon_watch_b.xml:41
 msgid "Ranch Watch"
-msgstr ""
+msgstr "Ranch Wachen"
 
 #: simulation/templates/units/npc_lonlon/npc_lon_watch_b.xml:42
 msgid ""
@@ -10436,14 +10530,18 @@ msgid ""
 "of the property and keep an eye out for attackers. Should the situation turn bad they "
 "could defend the ranch with their bows and arrows."
 msgstr ""
+"Die Lon Lon Ranch war das Ziel vieler Möchtegern eroberer und viele Versuche wurden gemacht"
+"um die Lontha Familie als Besitzer zu ersetzen. Die Ranch Wachen wurden angeheuert um die "
+"Mauern zu schützen und ein Auge auf mögliche Angreifer zu werfen. Sollte die Situation "
+"kritisch werden konnten sie die Ranch mit Pfeil und Bogen verteidigen."
 
 #: simulation/templates/units/npc_lonlon/npc_lon_watch_b.xml:45
 msgid "Light Missile unit that can pelt enemies with their bow and arrows."
-msgstr ""
+msgstr "Leichte Bogenschützen"
 
 #: simulation/templates/units/npc_stormzora/npc_stz_viper_b.xml:33
 msgid "Storm Zora Viper"
-msgstr ""
+msgstr "Sturmzora Viper"
 
 #: simulation/templates/units/npc_stormzora/npc_stz_viper_b.xml:34
 msgid ""
@@ -10452,27 +10550,31 @@ msgid ""
 " the other. There are quite hostile, and can rip enemy shields away and pry off armor "
 "with their powerful claw, while blocking out attacks with their own."
 msgstr ""
+"Ihre Rüstung bestand aus den Schalen, Panzern und Carapax von unbekannten Tiefseekreaturen"
+"und die Vipern waren bewaffnet mir einer riesigen Greifschere in der einen und einem Schild"
+"in der anderen Hand. Sie sind recht feindselig und können feindliche Schilde und Rüstung mit "
+"ihren mächtigen Klaue dem Gegner entreißen."
 
 #: simulation/templates/units/npc_stormzora/npc_stz_viper_b.xml:38
 msgid "Durable Melee unit that can pry open armor with their razor claws."
-msgstr ""
+msgstr "WIederstandsfähige Infanterie die Rüstung knacken kann mit ihrern Klauen"
 
 #: simulation/templates/units/npc_tokay/npc_tok_aquajockey_b.xml:36
 msgid "Aquadongo Jockey"
-msgstr ""
+msgstr "Aquadongo Jockey"
 
 #: simulation/templates/units/npc_tokay/npc_tok_aquajockey_b.xml:41
 msgid "Melee Cavalry unit that can cross over bodies of water."
-msgstr ""
+msgstr "Nahkampfkavallerie die Gewässer überqueren kann"
 
 #: simulation/templates/units/npc_tokay/npc_tok_bonker_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Coconut"
-msgstr ""
+msgstr "Kokosnuss"
 
 #: simulation/templates/units/npc_tokay/npc_tok_bonker_b.xml:36
 msgid "Tokay Bonker"
-msgstr ""
+msgstr "Tokay Bonker"
 
 #: simulation/templates/units/npc_tokay/npc_tok_bonker_b.xml:37
 msgid ""
@@ -10480,14 +10582,17 @@ msgid ""
 "lines. They would ram into targets much larger than themselves, more often than not "
 "sending themselves and their foes staggering in opposite directions."
 msgstr ""
+"Mit einer Kokosnussschale auf dem Kopf, würden die Tokay Bonker Schädel voran in "
+"gegnerische Reihen rennen. Oft würden sie in Gegner viel Größer als sie selber rennen"
+"was sie selbst und ihren Feind in entgegengesetzte Richtungen schleudert."
 
 #: simulation/templates/units/npc_tokay/npc_tok_bonker_b.xml:41
 msgid "Fast moving Melee unit that rams into enemies and stunf them with their head."
-msgstr ""
+msgstr "Schnelle Infanterie die in Gegner rennt und sie mit ihren Kopf betäubt."
 
 #: simulation/templates/units/npc_tokay/npc_tok_hero_otaylo.xml:53
 msgid "Tokay Big Boss"
-msgstr ""
+msgstr "Tokay Oberboss"
 
 #: simulation/templates/units/npc_tokay/npc_tok_hero_otaylo.xml:54
 msgid ""
@@ -10496,18 +10601,22 @@ msgid ""
 " Labrynna duping most of her people into slavery, something she’s not all that proud "
 "of."
 msgstr ""
+"otaylo wurde der Oberboss der Tokay nicht durch Kraft, Intellekt oder Blutlinien..."
+"sondern weil sie ein blaues Hemd aus LAbrynna kaufte. Ihre Taten führten unabsichtlich"
+"dazu das der grossteil ihres Volkes in die Sklaverei kam, eine Tatsache auf die sie nicht"
+"so stolz ist."
 
 #: simulation/templates/units/npc_tokay/npc_tok_hero_otaylo.xml:57
 msgid "Otaylo"
-msgstr ""
+msgstr "Otaylo"
 
 #: simulation/templates/units/npc_tokay/npc_tok_hero_otaylo.xml:58
 msgid "Melee Hero unit that attacks with her hunting spear."
-msgstr ""
+msgstr "Heldin der Infanterie die mit einem Jagdspeer angreift."
 
 #: simulation/templates/units/npc_tokay/npc_tok_hunter_b.xml:42
 msgid "Tokay Hunter"
-msgstr ""
+msgstr "Tokay Jäger"
 
 #: simulation/templates/units/npc_tokay/npc_tok_hunter_b.xml:43
 msgid ""
@@ -10515,14 +10624,17 @@ msgid ""
 " and hunt the many large fish that roamed the sea. When threatened on land they could "
 "easily hold their ground as well."
 msgstr ""
+"Mit einem Speer in der Hand, würden die Tokay über Küste der Sichelinsel absuchen"
+"und viele große Fische jagen die im Meer weilten. Wenn sie auf dem Land bedroht werden"
+"können sie sich auch locker verteidigen."
 
 #: simulation/templates/units/npc_tokay/npc_tok_hunter_b.xml:47
 msgid "Melee unit armed with a hunting spear. Can hunt fish and wild animals for meat."
-msgstr ""
+msgstr "Infanterie mit einem Jagdspeer bewaffnet."
 
 #: simulation/templates/units/npc_tokay/npc_tok_noshirtA.xml:42
 msgid "Tokay No-Shirt"
-msgstr ""
+msgstr "Tokay Keinhemd"
 
 #: simulation/templates/units/npc_tokay/npc_tok_noshirtA.xml:43
 msgid ""
@@ -10538,11 +10650,11 @@ msgstr ""
 #: simulation/templates/units/npc_tokay/npc_tok_slinger_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Sling"
-msgstr ""
+msgstr "Steinschleuder"
 
 #: simulation/templates/units/npc_tokay/npc_tok_slinger_b.xml:41
 msgid "Tokay Slinger"
-msgstr ""
+msgstr "Tokay Schleuderer"
 
 #: simulation/templates/units/npc_tokay/npc_tok_slinger_b.xml:42
 msgid ""
@@ -10550,10 +10662,13 @@ msgid ""
 "up anyone who invaded. Large groups of Slingers could unleash a huge storm of stones "
 "with terrifying speed."
 msgstr ""
+"Tokay Schleuderer waren die Verteidiger ihrer Insel Heimat, die jeden die Lichter "
+"auspusten und ins Straucheln brachten der einfiel. Große Gruppen von Schleuderern "
+"konnten einen riesigen Hagel an Steinen niederregnen lassen."
 
 #: simulation/templates/units/npc_tokay/npc_tok_slinger_b.xml:45
 msgid "Missile unit that hurls stones from their slings."
-msgstr ""
+msgstr "Steinschleuder Schützen"
 
 #: simulation/templates/units/npc_zuna/npc_zun_craftsmanA.xml:42
 msgid "Craftsman"
@@ -10572,7 +10687,7 @@ msgstr ""
 
 #: simulation/templates/units/npc_zuna/npc_zun_hero_vorday.xml:44
 msgid "Vizier of Zunayus"
-msgstr ""
+msgstr "Visier von Zunayus"
 
 #: simulation/templates/units/npc_zuna/npc_zun_hero_vorday.xml:45
 msgid ""
@@ -10582,14 +10697,19 @@ msgid ""
 "lead to the Zuna becoming a giant merchant empire and biggest arms dealer in all of "
 "Hyrule."
 msgstr ""
+"Mester Vorday, der reichste und einflussreichste Zuna der je gelebt hat, verdiente sich"
+"seinen Reichtum indem er sich als ja-Mann und Einschleimer für die verschiedenen Reiche "
+"der Gerudo Wüste gutstellte. Er mag zwar wie ein totaler Feigling für Außensthende wirken"
+"doch sein Verhalten hat dazu geführt das die Zuna eines der größten Handelsimperien und"
+"größten Waffenhändler in Hyrule wurden."
 
 #: simulation/templates/units/npc_zuna/npc_zun_hero_vorday.xml:48
 msgid "Master Vorday"
-msgstr ""
+msgstr "Meister Vorday"
 
 #: simulation/templates/units/npc_zuna/npc_zun_hero_vorday.xml:49
 msgid "Melee Hero unit that uses his golden trident in battle."
-msgstr ""
+msgstr "Infanterie Held der seinen goldenen Dreizack in der Schlacht nutzt."
 
 #: simulation/templates/units/npc_zuna/npc_zun_merchantman_b.xml:19
 msgid "Zuna Merchantman"
@@ -10614,18 +10734,23 @@ msgid ""
 "they managed to break into the mighty Darknut fortress. The Siege Tower can "
 "effortlessly destroy the heaviest of fortifications and garrison troops inside."
 msgstr ""
+"Ein riesiger und mächtiger Rammbock mit dem die Zuna schon viel Burgen zerstörten"
+"Das historisch meistbekannte Beispiel der Geschichte war die Schlacht um Barals "
+"Widerstand, wo diese Türme es schafften in die mächtige Nimbusgarden Burg einzudringen."
+"Die Belagerungstürme selbst die stärksten Befestigungen durchbrechen und mehere Truppen"
+"aufnehmen"
 
 #: simulation/templates/units/npc_zuna/npc_zun_siegetower_b.xml:88
 msgid "Zunayun Siege Tower"
-msgstr ""
+msgstr "Zuna Belagerungsturm"
 
 #: simulation/templates/units/npc_zuna/npc_zun_siegetower_b.xml:89
 msgid "Large Siege tower that tears apart enemy structures up close."
-msgstr ""
+msgstr "Großer Belagerungsturm der feindliche Gebäude auseinandernimmt."
 
 #: simulation/templates/units/npc_zuna/npc_zun_triballista_b.xml:57
 msgid "Triballista"
-msgstr ""
+msgstr "Triballiste"
 
 #: simulation/templates/units/npc_zuna/npc_zun_triballista_b.xml:58
 msgid ""
@@ -10633,14 +10758,17 @@ msgid ""
 "three giant bolts at a time instead of one. A single Triballista could hurl these bolts"
 " at mutliple targets, potentially breaking open multiple holes in an enemy’s defense."
 msgstr ""
+"So wie ihre handlichen Armbrüste war auch die Zuna Triballiste in der Lage mit Drei Bolzen"
+"gleichzeitig geladen zu werden anstatt einem. Eine einzige Triballiste konnte diese Bolzen"
+"auf mehere Ziele abfeuern, was potenziell zu mehr Löchern in feindlichen Reihen führte."
 
 #: simulation/templates/units/npc_zuna/npc_zun_triballista_b.xml:60
 msgid "Ranged Siege unit that unleashes a triad of giant bolts at its targets."
-msgstr ""
+msgstr "Distanzbelagerungswaffe die eine Triade an Bolzen entfesselt."
 
 #: simulation/templates/units/npc_zuna/npc_zun_tribowman_b.xml:49
 msgid "Zuna Tribowman"
-msgstr ""
+msgstr "Zuna Tribrustscützen"
 
 #: simulation/templates/units/npc_zuna/npc_zun_tribowman_b.xml:50
 msgid ""
@@ -10649,14 +10777,18 @@ msgid ""
 "hold and store up to three bolts instead of one, giving them the chance to fire several"
 " shots before reloading."
 msgstr ""
+"Auf den Terassenen Mauern von Zunayus stehen dies tödlichen Schützen seit Generationen bereit"
+"die Hauptstadt zu verteidigen. Das seltsame Design der Zuna Armbrüste ermöglichte es ihnen"
+"bis zu drei Bolzen aufzubewahren was ihnen die Chance gab mehere Schüsse abzugeben bevor sie"
+"nachladen mussten"
 
 #: simulation/templates/units/npc_zuna/npc_zun_tribowman_b.xml:53
 msgid "Missile unit that looses a triad of projectiles from its crossbow."
-msgstr ""
+msgstr "Distanzkämpfer die eine Triade an Projektilen von ihren Armbrüsten abfeuern."
 
 #: simulation/templates/units/npc_zuna/npc_zun_tridenteer_b.xml:38
 msgid "Zuna Tridenteer"
-msgstr ""
+msgstr "Zuna Dreizacksoldat"
 
 #: simulation/templates/units/npc_zuna/npc_zun_tridenteer_b.xml:39
 msgid ""
@@ -10665,10 +10797,13 @@ msgid ""
 "these Zuna are sufficiently trained to defend against a full-scale invasion of their "
 "homeland."
 msgstr ""
+"Mit dem ikonischen Dreizäcken in der Hand patrollierten diese Zuna Soldaten die Grenzen"
+"der Händler Hauptstadt Zunayus. Zwar waren sie nicht mehr als Polizei aber diese Zuna waren"
+"ausreichend trainiert um gegen ganze Invasionen ihrer Heimat zu verteidigen."
 
 #: simulation/templates/units/npc_zuna/npc_zun_tridenteer_b.xml:43
 msgid "Melee unit carrying a far reaching trident."
-msgstr ""
+msgstr "Infanterie mit einem weitreichenden Dreizack"
 
 #: simulation/templates/units/ordona/ordona_attackgoat_b.xml:32
 msgid "Ordonian Goat"
