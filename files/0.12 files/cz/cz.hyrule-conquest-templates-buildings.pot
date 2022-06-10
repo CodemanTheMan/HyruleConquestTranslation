@@ -3317,7 +3317,7 @@ msgstr "Gómský Div."
 
 #: simulation/templates/structures/goron/goron_barracks.xml:33
 msgid "Battle Chambers"
-msgstr ""
+msgstr "Bitevní Komory"
 
 #: simulation/templates/structures/goron/goron_barracks.xml:34
 #: simulation/templates/structures/goron/goron_barracks.xml:36
@@ -3325,24 +3325,28 @@ msgid ""
 "Gorons love punching things and fighting. Battle Chambers give their warriors a chance "
 "to train and spar with their own kind in a variety of ways."
 msgstr ""
+"Goroni rádi mlátí do věcí a bojují. Bitevní Komory dávají jejich válečníkům šanci "
+"trénovat a přít se se svým vlastním druhem v různých způsobech."
 
 #: simulation/templates/structures/goron/goron_barracksA.xml:30
 msgid "Hall of Warriors"
-msgstr ""
+msgstr "Síň Válečníků"
 
 #: simulation/templates/structures/goron/goron_barracksA.xml:31
 msgid ""
 "Reserved for the best soldiers of the Goron people, a Hall of Warriors allows these "
 "fighters the chance to train in the most grueling battles yet."
 msgstr ""
+"Rezerována pro nejlepší válečníky Goronského lidu, Síň Válečníků dává těmto bojovníkům "
+"šanci trénovat v jejich dosud nejúmornějších bitvách."
 
 #: simulation/templates/structures/goron/goron_barracksA.xml:34
 msgid "Trains many Melee centric Goron units."
-msgstr ""
+msgstr "Trénuje mnohé na blízko bojující Goronské jednotky."
 
 #: simulation/templates/structures/goron/goron_barracksB.xml:30
 msgid "Salamander Den"
-msgstr ""
+msgstr "Doupě Salamandrů"
 
 #: simulation/templates/structures/goron/goron_barracksB.xml:31
 msgid ""
@@ -3350,14 +3354,17 @@ msgid ""
 "unless provoked. Gorons have tamed the beasts for a variety of uses, in particular as "
 "war beasts."
 msgstr ""
+"Plazí Salamandří dlouho pobývali pod zemí, a vzácně vycházeli na povrch pokud nebyli "
+"vyprovokováni. Goroni ochočili tyto bestie pro různá využití, konkrétně jako válečné "
+"bestie."
 
 #: simulation/templates/structures/goron/goron_barracksB.xml:34
 msgid "Allows the training of Salamander Creature units."
-msgstr ""
+msgstr "Umožňuje trénink Salamandřích jednotek."
 
 #: simulation/templates/structures/goron/goron_barracksC.xml:30
 msgid "Gladiator Ring"
-msgstr ""
+msgstr "Gladiátorský Kruh"
 
 #: simulation/templates/structures/goron/goron_barracksC.xml:31
 msgid ""
@@ -3365,28 +3372,32 @@ msgid ""
 "varieties against each other. Large and bulky Gorons exit the arena to do battle with "
 "enemies."
 msgstr ""
+"Gladiátorský Kruh proti sobě staví největší a nejzlejší Goronské válečníky všech typů. "
+"Velcí a rozměrní Goroni opouští arénu aby bojovali s nepřáteli."
 
 #: simulation/templates/structures/goron/goron_barracksC.xml:34
 msgid "Trains very large and powerful Goron units."
-msgstr ""
+msgstr "Trénuje velice velké a mocné Goroní jednotky."
 
 #: simulation/templates/structures/goron/goron_barracksD.xml:30
 msgid "Explosive Foundry"
-msgstr ""
+msgstr "Slévárna Výbušnin"
 
 #: simulation/templates/structures/goron/goron_barracksD.xml:31
 msgid ""
 "Test sites devoted to creating some of the most powerful explosive weaponry around, "
 "these Foundries are often lit up in a display of fireworks on a daily basis."
 msgstr ""
+"Testovací místa určená k výrobě některých z nejmocnějších výbušních zbraní, tyto "
+"slévárny jsou často osvíceny výstavou ohňostrojů na denním pořádku."
 
 #: simulation/templates/structures/goron/goron_barracksD.xml:34
 msgid "Trains explosive Goron units."
-msgstr ""
+msgstr "Trénuje výbušné Goronské jednotky."
 
 #: simulation/templates/structures/goron/goron_blacksmith.xml:30
 msgid "Lava Smithy"
-msgstr ""
+msgstr "Lávová Kovárna"
 
 #: simulation/templates/structures/goron/goron_blacksmith.xml:31
 msgid ""
@@ -3394,15 +3405,18 @@ msgid ""
 "secret. These forges are set up deep in the caverns of Death Mountain to craft and "
 "create the prized possessions of Goron warriors."
 msgstr ""
+"Mocná Megatunová kladiva a jiné mocné zbraně jsou vysoce střeženým Goroním tajemstvím. "
+"Tyto výhňě jsou posazeny hluboko v jeskyních Hory smrti aby tvořily a kovaly "
+"nejcennější majetky Goroních válečníků."
 
 #: simulation/templates/structures/goron/goron_blacksmith.xml:34
 msgid "Upgrades Goron weapon and armor."
-msgstr ""
+msgstr "Vylepšuje Goroní zbraně a brnění."
 
 #: simulation/templates/structures/goron/goron_camp.xml:23
 #: simulation/templates/structures/goron/goron_storehouse.xml:27
 msgid "Quarry"
-msgstr ""
+msgstr "Lom"
 
 #: simulation/templates/structures/goron/goron_camp.xml:24
 #: simulation/templates/structures/goron/goron_storehouse.xml:28
@@ -3411,14 +3425,16 @@ msgid ""
 "dot the Death Mountain landscape. A lone Goron Quarry can provide enough resources to "
 "constuct an entire city."
 msgstr ""
+"Goronské lomy jsou považovány za některé z nejvýnisnějších v celém Hyronu. Jedinný "
+"Goroní lom je schopen poskytnout dost zdrojů ke stavbě celého města."
 
 #: simulation/templates/structures/goron/goron_camp.xml:26
 msgid "Center of a Goron Camp."
-msgstr ""
+msgstr "Centrum Goronského tábora."
 
 #: simulation/templates/structures/goron/goron_civil_centre.xml:118
 msgid "Hall of Crowns"
-msgstr ""
+msgstr "Síň Korun"
 
 #: simulation/templates/structures/goron/goron_civil_centre.xml:119
 msgid ""
@@ -3426,28 +3442,33 @@ msgid ""
 "who have ruled and fallen in battle. From this palace of rock and metal the local Goron"
 " ruler manages his people and armies."
 msgstr ""
+"Trůn Goronských Králů, Síň Korun obsahuje relikvie mnohých Patriarchů kteří vládli a "
+"padli v bitvě. Z tohohle paláce kamene a oceli řídí místní Goronský vládce svůj lid a "
+"armádu."
 
 #: simulation/templates/structures/goron/goron_civil_centre.xml:121
 msgid "Center of a Goron Settlement. Summons Goron Heroes. Manned with Bombers for defense."
-msgstr ""
+msgstr "Centrum Goronského města. Povolává Goronské hrdiny. Obsazen Bombardéry pro obranu."
 
 #: simulation/templates/structures/goron/goron_defense_tower.xml:98
 msgid "Bomb Tower"
-msgstr ""
+msgstr "Bombová věž"
 
 #: simulation/templates/structures/goron/goron_defense_tower.xml:99
 msgid ""
 "Manned by a Bomb Thrower and placed along the borders of Goron lands, these towers can "
 "ward off and even halt approaching invaders with their explosive weaponry."
 msgstr ""
+"Obsazeny Bombardéry a posazeny kolem hranic Goroních zemí, tyto věže jsou schopny odrazit "
+"a dokonce zastavit blížící se útočníky svými výbušnými zbraněmi."
 
 #: simulation/templates/structures/goron/goron_defense_tower.xml:102
 msgid "Defensive Tower that hurls explosive bombs at enemies."
-msgstr ""
+msgstr "Obranná jednotka která vrhá výbušné bomby na nepřátele."
 
 #: simulation/templates/structures/goron/goron_field.xml:33
 msgid "Rock Sirloin Mine"
-msgstr ""
+msgstr "Důl Skalního Roštěnce"
 
 #: simulation/templates/structures/goron/goron_field.xml:34
 msgid ""
@@ -3455,10 +3476,13 @@ msgid ""
 "among their favorite diets. This primary food of the Goron people can be mined just "
 "under the surface of most landscapes."
 msgstr ""
+"Goroni jsou schopni jíst mnohé minerály, ale Skalní roštěnec je jedno z jejich "
+"oblíbených jídel. Toto hlavní jídlo Goronského lidu může být těženo těsně pod "
+"povrchem většiny krajin."
 
 #: simulation/templates/structures/goron/goron_field.xml:36
 msgid "Mine that can be garrisoned by additional Goron Miners to generate Rock Sirloin Food."
-msgstr ""
+msgstr "Důl který generuje jídlo."
 
 #: simulation/templates/structures/goron/goron_fortress.xml:110
 #: simulation/templates/structures/goron/goron_fortress_medigoron.xml:3
@@ -3477,20 +3501,20 @@ msgstr ""
 #: simulation/templates/structures/goron/goron_metal_wall_mediumA.xml:47
 #: simulation/templates/structures/goron/goron_metal_wall_shortA.xml:27
 msgid "Upgrade with Double Layer."
-msgstr ""
+msgstr "Vylepšit dvojitou vrstvou."
 
 #: simulation/templates/structures/goron/goron_fortress.xml:155
 #: simulation/templates/structures/goron/goron_metal_wall_longA.xml:76
 #: simulation/templates/structures/goron/goron_metal_wall_mediumA.xml:56
 #: simulation/templates/structures/goron/goron_metal_wall_shortA.xml:36
 msgid "Upgrade with Lava Moat."
-msgstr ""
+msgstr "Vylepšit lávovým příkopem."
 
 #: simulation/templates/structures/goron/goron_fortress.xml:165
 #: simulation/templates/structures/goron/goron_metal_wall_mediumA.xml:65
 #: simulation/templates/structures/goron/goron_metal_wall_shortA.xml:45
 msgid "Upgrade with Bulwark."
-msgstr ""
+msgstr "Vylepšit baštou."
 
 #: simulation/templates/structures/goron/goron_fortressB.xml:8
 msgid "Stronghold (Double Layer)"
@@ -3506,7 +3530,7 @@ msgstr ""
 
 #: simulation/templates/structures/goron/goron_hotspring.xml:30
 msgid "Hot Spring"
-msgstr ""
+msgstr "Horký Pramen"
 
 #: simulation/templates/structures/goron/goron_hotspring.xml:31
 msgid ""
@@ -3514,14 +3538,17 @@ msgid ""
 "cities around these natural formations. With a bit of clever digging, the Gorons can "
 "unearth and set up Hot Springs almost anywhere they please."
 msgstr ""
+"Odpočinek v horkých pramenech je populární Goronská kratochvíle, a často staví svá města "
+"kolem těchto přírodních formací. V trochou chytrého kopání, Goroni mohou vyhrabat a "
+"otevřít horké prameny skoro všude kde se jim zachce."
 
 #: simulation/templates/structures/goron/goron_hotspring.xml:34
 msgid "Structure that heals wounded Goron units."
-msgstr ""
+msgstr "Budova která léčí zraněné Goroní jednotky."
 
 #: simulation/templates/structures/goron/goron_house.xml:35
 msgid "Hovel"
-msgstr ""
+msgstr "Brloh"
 
 #: simulation/templates/structures/goron/goron_house.xml:36
 msgid ""
@@ -3529,30 +3556,37 @@ msgid ""
 "than enough. These small hovels dot the sides of the Death Mountain range, and are "
 "usually decorated with petty trinkets."
 msgstr ""
+"Goroní životní požadavky jsou spíše jednoduché: tichá díra na spaní je většinou více "
+"než dost. Tyto malé brlohy jsou rozptýleny po svazích Pohoří smrti, a jsou většinou "
+"ozdobeny drobnými tretkami."
 
 #: simulation/templates/structures/goron/goron_market.xml:34
 msgid "Goron Market Plaza"
-msgstr ""
+msgstr "Goroní Tržiště"
 
 #: simulation/templates/structures/goron/goron_market.xml:35
 msgid ""
 "A series of shops that sell various goods and services within their host settlement, "
 "increasing both its economy and the happiness of people within."
 msgstr ""
+"Řada obchodů prodávajících různé suroviny a služby uvnitř jejich města, címž zvyšuje "
+"jeho ekonomiku a spokojenost lidí uvnitř."
 
 #: simulation/templates/structures/goron/goron_mercs.xml:25
 msgid "Bazaar"
-msgstr ""
+msgstr "Bazar"
 
 #: simulation/templates/structures/goron/goron_mercs.xml:26
 msgid ""
 "A basic shop that can be set up early in a settlement's development, the Bazaar sells "
 "any extra supplies or items produced by its host settlement."
 msgstr ""
+"Základní obchod který může být postaven brzo do vývoje města, Bazar prodává jakékoliv "
+"přebytečné zdroje které město vyprodukuje.
 
 #: simulation/templates/structures/goron/goron_mercs.xml:29
 msgid "Allows the Gorons to hire Mercenary units."
-msgstr ""
+msgstr "Umožňuje Goronům najmout žoldácké jednoky."
 
 #: simulation/templates/structures/goron/goron_metal_wallA.xml:12
 #: simulation/templates/structures/goron/goron_metal_wall_gateA.xml:17
@@ -3573,24 +3607,26 @@ msgstr ""
 #: simulation/templates/structures/goron/goron_metal_wall_towerC.xml:34
 #: simulation/templates/structures/goron/goron_metal_wall_towerD.xml:35
 msgid "Defensive Wall to slow invaders."
-msgstr ""
+msgstr "Obranná zeď zpomalující útočníky."
 
 #: simulation/templates/structures/goron/goron_metal_wallA.xml:13
 msgid ""
 "Goron walls were some of the sturdiest defenses in all of Hyrule. It took quite a force"
 " to break through metal and stone."
 msgstr ""
+"Goroní zdi byli některé z nejpevnějších obran v Hyronu. Bylo zapotřebí pořádné síly "
+"probít se ocelá a kamenem."
 
 #: simulation/templates/structures/goron/goron_metal_wallA.xml:16
 #: simulation/templates/structures/goron/goron_metal_wall_longA.xml:42
 #: simulation/templates/structures/goron/goron_metal_wall_mediumA.xml:31
 #: simulation/templates/structures/goron/goron_metal_wall_shortA.xml:11
 msgid "Goron Wall"
-msgstr ""
+msgstr "Goroní Zeď"
 
 #: simulation/templates/structures/goron/goron_metal_wall_gateA.xml:14
 msgid "Goron Gate"
-msgstr ""
+msgstr "Goroní Brána"
 
 #: simulation/templates/structures/goron/goron_metal_wall_gateA.xml:15
 #: simulation/templates/structures/goron/goron_metal_wall_longA.xml:43
@@ -3614,84 +3650,88 @@ msgid ""
 "Goron Walls are some of the sturdiest defenses in all of Hyrule. It takes quite a force"
 " to break through metal and stone."
 msgstr ""
+"Goroní zdi byli některé z nejpevnějších obran v Hyronu. Bylo zapotřebí pořádné síly "
+"probít se ocelá a kamenem."
 
 #: simulation/templates/structures/goron/goron_metal_wall_longA.xml:58
 #: simulation/templates/structures/goron/goron_metal_wall_longB.xml:58
 #: simulation/templates/structures/goron/goron_metal_wall_longC.xml:62
 #: simulation/templates/structures/goron/goron_metal_wall_longD.xml:63
 msgid "Convert to Goron Gate."
-msgstr ""
+msgstr "Konvertovat na Goroní Bránu."
 
 #: simulation/templates/structures/goron/goron_metal_wall_longA.xml:85
 msgid "Upgrade wih Bulwark."
-msgstr ""
+msgstr "Vylepšit baštou."
 
 #: simulation/templates/structures/goron/goron_metal_wall_longB.xml:42
 #: simulation/templates/structures/goron/goron_metal_wall_mediumB.xml:32
 #: simulation/templates/structures/goron/goron_metal_wall_shortB.xml:12
 msgid "Goron Wall (Double Layer)"
-msgstr ""
+msgstr "Goroní Zeď (Dvojitá Vrstva)"
 
 #: simulation/templates/structures/goron/goron_metal_wall_longC.xml:46
 #: simulation/templates/structures/goron/goron_metal_wall_mediumC.xml:36
 #: simulation/templates/structures/goron/goron_metal_wall_shortC.xml:16
 msgid "Goron Wall (Lava Moat)"
-msgstr ""
+msgstr "Goroní Zeď (Lávový Příkop)"
 
 #: simulation/templates/structures/goron/goron_metal_wall_longD.xml:47
 #: simulation/templates/structures/goron/goron_metal_wall_mediumD.xml:37
 #: simulation/templates/structures/goron/goron_metal_wall_shortD.xml:12
 msgid "Goron Wall (Bulwark)"
-msgstr ""
+msgstr "Goroní Zeď (Bašta)"
 
 #: simulation/templates/structures/goron/goron_metal_wall_towerA.xml:27
 msgid "Goron Tower"
-msgstr ""
+msgstr "Goroní Věž"
 
 #: simulation/templates/structures/goron/goron_metal_wall_towerA.xml:43
 msgid "Garrison with Bomb Throwers."
-msgstr ""
+msgstr "Obsadit Bombardéry."
 
 #: simulation/templates/structures/goron/goron_metal_wall_towerB.xml:27
 msgid "Goron Tower (Double Layer)"
-msgstr ""
+msgstr "Goroní Věž (Dvojitá Vrstva)"
 
 #: simulation/templates/structures/goron/goron_metal_wall_towerC.xml:31
 msgid "Goron Tower (Lava Moat)"
-msgstr ""
+msgstr "Goroní Věž (Lávový Příkop)"
 
 #: simulation/templates/structures/goron/goron_metal_wall_towerD.xml:32
 msgid "Goron Tower (Bulwark)"
-msgstr ""
+msgstr "Goroní Věž (Bašta)"
 
 #: simulation/templates/structures/goron/goron_outpost.xml:112
 msgid "Hall of Brotherhood"
-msgstr ""
+msgstr "Sín Bratrství"
 
 #: simulation/templates/structures/goron/goron_outpost.xml:113
 msgid ""
 "Often built at the heart of Goron cities, Halls of Brotherhood serve as a town center "
 "and gathering points for outsiders whom enter Goron lands."
 msgstr ""
+"Často postavena v srdcích Goroních měst, Síně Bratrství slouží jako městská centra a "
+"shromažďovací body pro cizince teří vstoupí do Goroních zemí."
 
 #: simulation/templates/structures/goron/goron_outpost.xml:115
 msgid "Center of a Goron Outpost. Summons Goron Heroes. Manned with Bombers for defense."
-msgstr ""
+msgstr "Centrum Goroní základny. Povolává Goroní hrdiny. Obsazeno Bombardéry pro obranu."
 
 #: simulation/templates/structures/goron/goron_plot_gate.xml:26
 #: simulation/templates/structures/goron/goron_plot_large.xml:26
 #: simulation/templates/structures/goron/goron_plot_medium.xml:26
 #: simulation/templates/structures/goron/goron_plot_small.xml:26
 msgid "Constructs Goron Buildings on this space."
-msgstr ""
+msgstr "Na tomto místě staví Goroní budovy."
 
 #: simulation/templates/structures/goron/goron_plot_gate.xml:53
 msgid "Build a Gate on this plot."
-msgstr ""
+msgstr "Postavit Bránu na této parcele."
 
 #: simulation/templates/structures/goron/goron_plot_large.xml:22
 msgid "Large Construction Plot"
-msgstr ""
+msgstr "Velká Stavební Parcela"
 
 #: simulation/templates/structures/goron/goron_plot_large.xml:23
 #: simulation/templates/structures/goron/goron_plot_small.xml:23
@@ -3699,63 +3739,65 @@ msgid ""
 "Goron structures tended to be made from large hills and mountains. They would carve and"
 " build specialized areas to meet their needs."
 msgstr ""
+"Goroní budovy byly většinou vybudovány z velkých kopců a hor V nich vytesali a vybudovali "
+"specializované plochy ke službě jejich účelů."
 
 #: simulation/templates/structures/goron/goron_plot_large.xml:52
 #: simulation/templates/structures/goron/goron_plot_medium.xml:72
 msgid "Build a Market Plaza on this plot."
-msgstr ""
+msgstr "Postavit Tržiště na této parcele."
 
 #: simulation/templates/structures/goron/goron_plot_large.xml:63
 #: simulation/templates/structures/goron/goron_plot_medium.xml:93
 msgid "Build a Hall of Warriors on this plot."
-msgstr ""
+msgstr "Postavit Síň Válečníků na této parcele."
 
 #: simulation/templates/structures/goron/goron_plot_large.xml:74
 #: simulation/templates/structures/goron/goron_plot_medium.xml:103
 msgid "Build a Salamander Den on this plot."
-msgstr ""
+msgstr "Postavit Doupě Salamandrů na této parcele."
 
 #: simulation/templates/structures/goron/goron_plot_large.xml:85
 #: simulation/templates/structures/goron/goron_plot_medium.xml:114
 msgid "Build a Gladiator Ring on this plot."
-msgstr ""
+msgstr "Postavit Gladiátorský Kruh na této parcele."
 
 #: simulation/templates/structures/goron/goron_plot_large.xml:96
 #: simulation/templates/structures/goron/goron_plot_medium.xml:136
 msgid "Build an Explosive Foundary on this plot."
-msgstr ""
+msgstr "Postavit Slévárnu Výbušnin na této parcele."
 
 #: simulation/templates/structures/goron/goron_plot_medium.xml:52
 #: simulation/templates/structures/goron/goron_plot_small.xml:52
 msgid "Build a Hovel on this plot."
-msgstr ""
+msgstr "Postavit Brloh na této parcele."
 
 #: simulation/templates/structures/goron/goron_plot_medium.xml:62
 msgid "Build a Rock Sirloin Mine on this plot."
-msgstr ""
+msgstr "Postavit Důl Skalního Roštěnce na této parcele."
 
 #: simulation/templates/structures/goron/goron_plot_medium.xml:82
 msgid "Build Battle Chambers on this plot."
-msgstr ""
+msgstr "Postavit Bitevní Komory na této parcele."
 
 #: simulation/templates/structures/goron/goron_plot_medium.xml:125
 msgid "Build a Lava Smithy on this plot."
-msgstr ""
+msgstr "Postavit Lávovou Kovárnu na této parcele."
 
 #: simulation/templates/structures/goron/goron_plot_small.xml:22
 msgid "Small Construction Plot"
-msgstr ""
+msgstr "Malá Stavební Parcela"
 
 #: simulation/templates/structures/goron/goron_plot_small.xml:63
 #: simulation/templates/structures/goron/goron_plot_tower.xml:52
 msgid "Build Bomb Tower on this plot."
-msgstr ""
+msgstr "Postavit Bombovou Věž na této parcele."
 
 #: simulation/templates/structures/goron/goron_plot_tower.xml:26
 #: simulation/templates/structures/goron/goron_plot_walllong.xml:26
 #: simulation/templates/structures/goron/goron_plot_walltower.xml:26
 msgid "Constructs Goron Walls on this space."
-msgstr ""
+msgstr "Na tomto místě staví Goroní Zdi."
 
 #: simulation/templates/structures/goron/goron_storehouse.xml:30
 msgid ""
@@ -3765,11 +3807,11 @@ msgstr ""
 
 #: simulation/templates/structures/goron/goron_wallset_metalA.xml:5
 msgid "Metal Wall"
-msgstr ""
+msgstr "Ocelová Zeď"
 
 #: simulation/templates/structures/goron/goron_wonder.xml:15
 msgid "Urn of Maphaeus"
-msgstr ""
+msgstr "Mafaeina Urna"
 
 #: simulation/templates/structures/goron/goron_wonder.xml:16
 msgid ""
@@ -3778,10 +3820,14 @@ msgid ""
 "entices it to dance. Regardless of the source of its magical animation, the Gorons "
 "revere the urn as the greatest work of art their culture has produced."
 msgstr ""
+"Tajemná Obří Urna která se zdánlivě hýbe a tancuje sama od seve. Goroni tvrdí že duše "
+"Mafaeus, První Mudryně Ohně, ovládá tuto urnu a nutí ji tancovat. Bez ohledu na zdroj "
+"jejího magického tance, Goroni uctívají urnu jako největší umění které jejich kultura "
+"kdy vytvořila."
 
 #: simulation/templates/structures/goron/goron_wonder.xml:19
 msgid "The Goron Wonder, allows you to summon Biggoron."
-msgstr ""
+msgstr "Goroní Div."
 
 #: simulation/templates/structures/hylian/hylian_barracks.xml:33
 msgid "Kingdom Barracks"
