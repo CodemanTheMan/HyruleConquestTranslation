@@ -2887,31 +2887,33 @@ msgid ""
 "Various upgrades for the Gohma's main battle line can be found within these twisted "
 "halls."
 msgstr ""
+"Hnízdící Komory umožňují růst a vylepšování form z bojové kasty. Různá vylepšení pro "
+"hlavní bojové linie Góm mohou být nalezeny v těchto zkroucených halách."
 
 #: simulation/templates/structures/gohma/gohma_barracks.xml:53
 msgid "Larva Nest"
-msgstr ""
+msgstr "Hnízdo Larv"
 
 #: simulation/templates/structures/gohma/gohma_barracks.xml:54
 msgid "Creates Larva units."
-msgstr ""
+msgstr "Tvoří larvy."
 
 #: simulation/templates/structures/gohma/gohma_barracksA.xml:45
 msgid "Birthing Chambers"
-msgstr ""
+msgstr "Porodní Komory"
 
 #: simulation/templates/structures/gohma/gohma_barracksA.xml:46
 msgid "Creates Gohma units."
-msgstr ""
+msgstr "Tvoří Gómské jednotky."
 
 #: simulation/templates/structures/gohma/gohma_barracksB.xml:53
 msgid "Giant Incubator"
-msgstr ""
+msgstr "Obří Inkubátor"
 
 #: simulation/templates/structures/gohma/gohma_barracksB.xml:54
 #: simulation/templates/structures/gohma/gohma_temple.xml:51
 msgid "Creates giant Gohma units."
-msgstr ""
+msgstr "Tvoří obří Gómské jednotky."
 
 #: simulation/templates/structures/gohma/gohma_barrier_short.xml:44
 #: simulation/templates/structures/gohma/gohma_barrier_tower.xml:44
@@ -2941,7 +2943,7 @@ msgstr ""
 #: simulation/templates/structures/gohma/gohma_blacksmith.xml:47
 #: simulation/templates/structures/gohma/gohma_blacksmithD.xml:44
 msgid "Augmenter"
-msgstr ""
+msgstr "Posilovač"
 
 #: simulation/templates/structures/gohma/gohma_blacksmith.xml:48
 #: simulation/templates/structures/gohma/gohma_blacksmithD.xml:45
@@ -2950,51 +2952,58 @@ msgid ""
 "generations of Gohma. Through battle, experience, and learned knowledge, the Augmenter "
 "can adapt the Gohma's forces to match and counter changing enemy threats."
 msgstr ""
+"Posilovač kroutí a mění formy a vlastnosti přítomných i budoucích generací Góm. Bojem, "
+"zkušeností, a získanými vědomostmi, Posilovač je schopný adaptovat síly Góm aby se "
+"rovnaly a čelily měnící se nepřátelské hrozby."
 
 #: simulation/templates/structures/gohma/gohma_blacksmith.xml:51
 #: simulation/templates/structures/gohma/gohma_blacksmithD.xml:48
 msgid "Improves Gohma armor and attacks."
-msgstr ""
+msgstr "Zlepšuje Gómské brnění a útoky."
 
 #: simulation/templates/structures/gohma/gohma_blacksmithA.xml:64
 msgid "Nesting Chambers"
-msgstr ""
+msgstr "Hnízdící Komory"
 
 #: simulation/templates/structures/gohma/gohma_blacksmithA.xml:65
 msgid "Upgrades Soldier Gohma units."
-msgstr ""
+msgstr "Vylepšuje bojové Gómské jednotky."
 
 #: simulation/templates/structures/gohma/gohma_blacksmithB.xml:61
 msgid "Large Birthing Chamber"
-msgstr ""
+msgstr "Velká Porodní Komora"
 
 #: simulation/templates/structures/gohma/gohma_blacksmithB.xml:62
 msgid ""
 "These massive and oversized chambers allow for the growth of Giant Caste Gohma forms. "
 "Various improvements for these forms can be researched within this huge nest."
 msgstr ""
+"Tyto masivní a přerostlé komory umožňují růst forem Góm obří kasty. Různé vylepšení "
+"pro tyto formy mohou být vyzkoumány v těchto velkých hnízdech."
 
 #: simulation/templates/structures/gohma/gohma_blacksmithB.xml:65
 msgid "Upgrades Giant Gohma units."
-msgstr ""
+msgstr "Vylepšuje obří Gómské jednotky."
 
 #: simulation/templates/structures/gohma/gohma_blacksmithC.xml:61
 msgid "Royal Infirmary"
-msgstr ""
+msgstr "Královská Ošetřovna"
 
 #: simulation/templates/structures/gohma/gohma_blacksmithC.xml:62
 msgid ""
 "A resting place for the Gohma royals, these chambers allow for future generations of "
 "Royal Caste forms to be created and upgraded."
 msgstr ""
+"Odpočívárna pro Gómskou šlechtu, tyto komory umožňují tvorbu a vylepšení budoucích "
+"generací forem královské kasty."
 
 #: simulation/templates/structures/gohma/gohma_blacksmithC.xml:65
 msgid "Upgrades Royal Gohma units."
-msgstr ""
+msgstr "Vylepšuje královské Gómské jednotky."
 
 #: simulation/templates/structures/gohma/gohma_camp.xml:32
 msgid "Burrow"
-msgstr ""
+msgstr "Nora"
 
 #: simulation/templates/structures/gohma/gohma_camp.xml:33
 #: simulation/templates/structures/hylian/hylian_camp.xml:33
@@ -3006,31 +3015,34 @@ msgid ""
 "A small yard for gathering, packing, storing, and hauling collected resources for the "
 "Kingdom of Hyrule."
 msgstr ""
+"Malé prostranství pro sběr, balení, sklad, a nošení sesbíraných zdrojů."
 
 #: simulation/templates/structures/gohma/gohma_camp.xml:35
 msgid "Center of a Gohma Camp."
-msgstr ""
+msgstr "Centrum Gómského tábora."
 
 #: simulation/templates/structures/gohma/gohma_civil_centre.xml:98
 msgid "Gohma Hive"
-msgstr ""
+msgstr "Gómský Úl"
 
 #: simulation/templates/structures/gohma/gohma_civil_centre.xml:99
 msgid ""
 "The heart of of Gohma colony, the Hive stands at the center of many nests and tethers "
 "new ones to itself."
 msgstr ""
+"Srdce Gómské kolonie, Úl stojí ve středu mnohých hnízd a připojuje k sobě nové."
 
 #: simulation/templates/structures/gohma/gohma_civil_centre.xml:101
 msgid ""
 "Center of a Gohma Settlement. Summons Gohma Heroes. Manned with Spine Gohmas for "
 "defense."
 msgstr ""
+"Centrum Gómského města. Povolává Gómské hrdinky. Obsazeno Hřbetogómami po obranu."
 
 #: simulation/templates/structures/gohma/gohma_defense_tower.xml:78
 #: simulation/templates/structures/gohma/gohma_special_tower.xml:76
 msgid "Mite Mound"
-msgstr ""
+msgstr "Roztočí Hrouda"
 
 #: simulation/templates/structures/gohma/gohma_defense_tower.xml:79
 #: simulation/templates/structures/gohma/gohma_special_tower.xml:77
@@ -3039,11 +3051,14 @@ msgid ""
 "within the radius of the Mite Mound, its swarms will relentlessly tear apart anything "
 "they can get their tiny mouths unto."
 msgstr ""
+"Roztočí Hrouda plodí a ubytovává mohutné roje Gómských Roztočů. Pokud se nepřátelské "
+"síly přiblíží do okolí Roztočí Hroudy, její roj neúprosně roztrhá všechno na co dostane "
+"svá malá ústa."
 
 #: simulation/templates/structures/gohma/gohma_defense_tower.xml:82
 #: simulation/templates/structures/gohma/gohma_special_tower.xml:80
 msgid "Defensive Structure that spawns Gohma Mites."
-msgstr ""
+msgstr "Obranná budova která plodí Gómské Roztoče."
 
 #: simulation/templates/structures/gohma/gohma_defense_tower_upg.xml:68
 msgid "Acid Batch"
@@ -3064,7 +3079,7 @@ msgstr ""
 #: simulation/templates/structures/gohma/gohma_lumber.xml:19
 #: simulation/templates/structures/gohma/gohma_mining.xml:19
 msgid "Extractor"
-msgstr ""
+msgstr "Extraktor"
 
 #: simulation/templates/structures/gohma/gohma_farmstead.xml:41
 msgid ""
@@ -3072,14 +3087,17 @@ msgid ""
 " be stored for future consumption. This creepy and monsterous structure can improve the"
 " Gohma's ability to gather, hunt, and grow food."
 msgstr ""
+"Účel Extraktoru je svléknout maso z obětí Góm aby mohlo být uloženo pro budoucí spotřebu. "
+"Tato děsivá a příšerná struktura je schopna zlepšit Gómskou schopnost sbírat, lovit, a "
+"pěstovat jídlo."
 
 #: simulation/templates/structures/gohma/gohma_farmstead.xml:43
 msgid "Slowly drains Food within its aura."
-msgstr ""
+msgstr "Pomalu saje jídlo ve své auře."
 
 #: simulation/templates/structures/gohma/gohma_field.xml:22
 msgid "Bug Trap"
-msgstr ""
+msgstr "Mucholapka"
 
 #: simulation/templates/structures/gohma/gohma_field.xml:23
 msgid ""
@@ -3087,14 +3105,17 @@ msgid ""
 "Misery Mire, much like Hylians and Cows. When game is scarce the Gohma create and grow "
 "swarms of the Mire Flies as a supplimentary source of food."
 msgstr ""
+"Gómy si vybudovali jakýsi dobytčí vztah s obřími mouchami Bídných blat, podobně jako "
+"Hyliánci a krávy. Pokud je zvěř nedostatková, Gómy vytvoří a pěstují roje Blatných much "
+"jako dodatečný zdroj jídla."
 
 #: simulation/templates/structures/gohma/gohma_field.xml:25
 msgid "Traps giant flies that the Gohma can Harvest for Food."
-msgstr ""
+msgstr "Chytá obří mouchy které Gómy sbírají pro jídlo."
 
 #: simulation/templates/structures/gohma/gohma_house.xml:42
 msgid "Cell"
-msgstr ""
+msgstr "Doupě"
 
 #: simulation/templates/structures/gohma/gohma_house.xml:43
 msgid ""
@@ -3102,10 +3123,13 @@ msgid ""
 " eventually. Hive cells are dedicated spaces for various Gohma units to rest and "
 "consume food. They are needed to support any significant population numbers."
 msgstr ""
+"Navzdory jejich neúprosném a zdánlivě neúnavném postupu, i Gómy musí nakonec odpočívat a "
+"spát. Doupě v úlech jsou účelná místa pro různé Gómské jednotky kde mohou spát a jíst. "
+"Jsou nutny k podpoře jakéhokoliv výrazného obyvatelstva."
 
 #: simulation/templates/structures/gohma/gohma_market.xml:42
 msgid "Recycler"
-msgstr ""
+msgstr "Recyklátor"
 
 #: simulation/templates/structures/gohma/gohma_market.xml:43
 msgid ""
@@ -3115,14 +3139,18 @@ msgid ""
 "Regardless, this structure can save a Hive from doom if there is an abundance of one "
 "resource but dry spell of another."
 msgstr ""
+"Mocné drápy a žaludek Recyklátoru jsou schopny zničit a strávit různých materiálů, "
+"a konvertují je v jiné zdroje které mohou Gómy využít. Tento proces není perfektní, "
+"a část hodnoty původního zdroje je ztracena v trávení. Přesto, tato struktura může "
+"zachránit Úl od zkázy pokud je nadměr jednoho zdroje ale nedostatek jiného."
 
 #: simulation/templates/structures/gohma/gohma_market.xml:46
 msgid "Structure that can transform one resource into another."
-msgstr ""
+msgstr "Struktura schopná transformovat jeden zdroj na jiný."
 
 #: simulation/templates/structures/gohma/gohma_nursery.xml:47
 msgid "Solarium Nursery"
-msgstr ""
+msgstr "Solární Sádka"
 
 #: simulation/templates/structures/gohma/gohma_nursery.xml:48
 msgid ""
@@ -3131,6 +3159,8 @@ msgid ""
 "Nursery can garrison a Gohma Queen, allowing her to lay eggs in batches as opposed to "
 "one at a time."
 msgstr ""
+"Rozvinuté po Bídných blatech, tyto obří hnízda jsou otevřena slunci, proces který "
+"zdánlivě posiluje rychlost dospívání a sílu Gómských vajec."
 
 #: simulation/templates/structures/gohma/gohma_nursery.xml:50
 msgid "Nest that can lay Gohma Eggs to hatch into new units."
@@ -3138,75 +3168,75 @@ msgstr ""
 
 #: simulation/templates/structures/gohma/gohma_outpost.xml:73
 msgid "Nursery"
-msgstr ""
+msgstr "Sádka"
 
 #: simulation/templates/structures/gohma/gohma_outpost.xml:76
 msgid "Center of a Gohma Outpost. Summons Gohma Heroes. Manned with Spine Gohmas for defense."
-msgstr ""
+msgstr "Centrum Gómské základny. Povolává Gómské hrdinky. Obsazeno Hřbetogómami pro obranu."
 
 #: simulation/templates/structures/gohma/gohma_plot_medium.xml:25
 #: simulation/templates/structures/gohma/gohma_plot_medium_O.xml:25
 #: simulation/templates/structures/gohma/gohma_plot_medium_S.xml:25
 msgid "Constructs Gohma Buildings on this space."
-msgstr ""
+msgstr "Na tomto místě tvoří Gómské budovy."
 
 #: simulation/templates/structures/gohma/gohma_plot_medium.xml:50
 #: simulation/templates/structures/gohma/gohma_plot_medium_O.xml:50
 #: simulation/templates/structures/gohma/gohma_plot_medium_S.xml:50
 msgid "Build a Cell on this plot."
-msgstr ""
+msgstr "Postavit Doupě na této parcele."
 
 #: simulation/templates/structures/gohma/gohma_plot_medium.xml:59
 #: simulation/templates/structures/gohma/gohma_plot_medium_O.xml:59
 #: simulation/templates/structures/gohma/gohma_plot_medium_S.xml:59
 msgid "Build Bug Trap on this plot."
-msgstr ""
+msgstr "Postavit Mucholapku na této parcele."
 
 #: simulation/templates/structures/gohma/gohma_plot_medium.xml:68
 #: simulation/templates/structures/gohma/gohma_plot_medium_O.xml:68
 #: simulation/templates/structures/gohma/gohma_plot_medium_S.xml:68
 msgid "Build Recycler on this plot."
-msgstr ""
+msgstr "Postavit Recyklátor na této parcele."
 
 #: simulation/templates/structures/gohma/gohma_plot_medium.xml:77
 #: simulation/templates/structures/gohma/gohma_plot_medium_O.xml:77
 #: simulation/templates/structures/gohma/gohma_plot_medium_S.xml:77
 msgid "Build Larva Nest on this plot."
-msgstr ""
+msgstr "Postavit Hnízdo Larv na této parcele."
 
 #: simulation/templates/structures/gohma/gohma_plot_medium.xml:86
 #: simulation/templates/structures/gohma/gohma_plot_medium_O.xml:86
 #: simulation/templates/structures/gohma/gohma_plot_medium_S.xml:86
 msgid "Build Large Nest on this plot."
-msgstr ""
+msgstr "Postavit Velké Hnízdo na této parcele."
 
 #: simulation/templates/structures/gohma/gohma_plot_medium.xml:95
 #: simulation/templates/structures/gohma/gohma_plot_medium_O.xml:95
 #: simulation/templates/structures/gohma/gohma_plot_medium_S.xml:95
 msgid "Build Giant Birthing Chamber on this plot."
-msgstr ""
+msgstr "Postavit OBří Porodní Komoru na této parcele."
 
 #: simulation/templates/structures/gohma/gohma_plot_medium.xml:105
 #: simulation/templates/structures/gohma/gohma_plot_medium_O.xml:105
 #: simulation/templates/structures/gohma/gohma_plot_medium_S.xml:105
 msgid "Build Queen's Nest on this plot."
-msgstr ""
+msgstr "Postavit Hnízdo Královen na této parcele."
 
 #: simulation/templates/structures/gohma/gohma_plot_medium.xml:115
 #: simulation/templates/structures/gohma/gohma_plot_medium_O.xml:115
 #: simulation/templates/structures/gohma/gohma_plot_medium_S.xml:115
 msgid "Build Augmentor on this plot."
-msgstr ""
+msgstr "Postavit Posilovač na této parcele."
 
 #: simulation/templates/structures/gohma/gohma_plot_tower.xml:25
 #: simulation/templates/structures/gohma/gohma_plot_tower_S.xml:25
 msgid "Constructs Gohma Defenses on this space."
-msgstr ""
+msgstr "Postavit Gómské obrany na tomto místě."
 
 #: simulation/templates/structures/gohma/gohma_plot_tower.xml:50
 #: simulation/templates/structures/gohma/gohma_plot_tower_S.xml:50
 msgid "Build Mite Mound on this plot."
-msgstr ""
+msgstr "Postavit Roztočí Hnízdo na této parcele."
 
 #: simulation/templates/structures/gohma/gohma_sentry_tower.xml:36
 msgid "Defense Node"
@@ -3269,7 +3299,7 @@ msgstr ""
 
 #: simulation/templates/structures/gohma/gohma_wonder.xml:46
 msgid "Hollow Root Keep"
-msgstr ""
+msgstr "Pevnost z Dutého Kořene"
 
 #: simulation/templates/structures/gohma/gohma_wonder.xml:47
 msgid ""
@@ -3277,10 +3307,13 @@ msgid ""
 "ancient times. The spiders have transformed the corpse into a giant underground nest, "
 "where many dark and terrible secrets of the past rest."
 msgstr ""
+"Obří pozůstatek jednoho z Velkých Stromů který válčil proti Gómám ve starověkých časech "
+"Pavouci přeměnili tuto mrtvolu na obří podzemní místo, kde odpočívají mnohá temná "
+"a hrozná tajemství."
 
 #: simulation/templates/structures/gohma/gohma_wonder.xml:50
 msgid "The Gohma Wonder, allows you to summon Iemanis."
-msgstr ""
+msgstr "Gómský Div."
 
 #: simulation/templates/structures/goron/goron_barracks.xml:33
 msgid "Battle Chambers"
