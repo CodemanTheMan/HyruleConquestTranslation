@@ -3835,34 +3835,34 @@ msgstr ""
 
 #: simulation/templates/structures/hylian/hylian_barracks.xml:34
 msgid "An armory stocked with weapons and offering training for new soldier recruits."
-msgstr ""
+msgstr "Zbrojnice zásobená zbraněmi a poskytující trénink pro nové rekruty."
 
 #: simulation/templates/structures/hylian/hylian_barracks.xml:36
 msgid "Trains Melee centric Hylian units."
-msgstr ""
+msgstr "Trénuje pěší Hyliánské jednotky."
 
 #: simulation/templates/structures/hylian/hylian_barracks.xml:37
 #: simulation/templates/structures/hylian/hylian_barracksB.xml:37
 msgid "TrainsUnits"
-msgstr ""
+msgstr "Trénuje jednotky."
 
 #: simulation/templates/structures/hylian/hylian_barracksB.xml:33
 msgid "Archery Range"
-msgstr ""
+msgstr "Lukostřelnice"
 
 #: simulation/templates/structures/hylian/hylian_barracksB.xml:34
 msgid "Training ground for archery and the use of other Hylian ranged weapons."
-msgstr ""
+msgstr "Trénovací prostranství pro lukostřelectví a využití jiných Hyliánských střelných zbraní."
 
 #: simulation/templates/structures/hylian/hylian_barracksB.xml:36
 msgid "Trains Missile centric Hylian units."
-msgstr ""
+msgstr "Trénuje střelecké Hyliánské jednotky."
 
 #: simulation/templates/structures/hylian/hylian_bigcastle.xml:157
 #: simulation/templates/structures/hylian/hylian_fortress.xml:158
 #: simulation/templates/structures/hylian/hylian_naldariko.xml:165
 msgid "Castle"
-msgstr ""
+msgstr "Hrad"
 
 #: simulation/templates/structures/hylian/hylian_bigcastle.xml:158
 #: simulation/templates/structures/hylian/hylian_fortress.xml:159
@@ -3882,26 +3882,28 @@ msgstr ""
 
 #: simulation/templates/structures/hylian/hylian_blacksmith.xml:30
 msgid "Blacksmith"
-msgstr ""
+msgstr "Kovárna"
 
 #: simulation/templates/structures/hylian/hylian_blacksmith.xml:31
 msgid ""
 "A large barracks devoted entirely to the production and storage of armor, this "
 "structure creates all manner of improved weapons and armors for Hylian warriors."
 msgstr ""
+"Velké kasárny zcela určeny k produkci a skladu brnění, tato budova tvoří všechny "
+"druhy vylepšených zbraní a brnění pro Hyliánské válečníky."
 
 #: simulation/templates/structures/hylian/hylian_blacksmith.xml:34
 #: simulation/templates/structures/sheikah/sheikah_blacksmith.xml:34
 msgid "Researches and creates new and improved weapons and armor."
-msgstr ""
+msgstr "Vyzkoumává a tvoří nové a vylepšené zbraně a brnění."
 
 #: simulation/templates/structures/hylian/hylian_camp.xml:35
 msgid "Center of a Hylian Camp."
-msgstr ""
+msgstr "Centrum Hyliánského tábora."
 
 #: simulation/templates/structures/hylian/hylian_civil_centre.xml:89
 msgid "Town Hall"
-msgstr ""
+msgstr "Radnice"
 
 #: simulation/templates/structures/hylian/hylian_civil_centre.xml:90
 #: simulation/templates/structures/kokiri/kokiri_civil_centre.xml:150
@@ -3910,16 +3912,19 @@ msgid ""
 " growth of both civilian and military expansion. Able to train a workforce of Citizens "
 "for both labor and soldier duty as well as stock resources."
 msgstr ""
+"Centrum jakéhokoliv Hyliánského města, Radnice řídí a reguluje ekonomiku a růst občanské "
+"i armádní expanze. Schopná trénovat pracovní sílu civilistů pro dělnické i armádní služby, "
+"a také skladovat zdroje."
 
 #: simulation/templates/structures/hylian/hylian_civil_centre.xml:92
 msgid "Center of a Hylian Settlement. Summons Hylian Heroes. Manned with archers for defense."
-msgstr ""
+msgstr "Centrum Hyliánského města. Povolává Hyliánské hrdiny. Obsazeno lukostřelci pro obranu."
 
 #: simulation/templates/structures/hylian/hylian_defense_tower.xml:86
 #: simulation/templates/structures/hylian/hylian_defense_towerB.xml:87
 #: simulation/templates/structures/hylian/hylian_scorpio_tower.xml:54
 msgid "Kingdom Guard Tower"
-msgstr ""
+msgstr "Královská Hradební Věž"
 
 #: simulation/templates/structures/hylian/hylian_defense_tower.xml:87
 #: simulation/templates/structures/hylian/hylian_defense_towerB.xml:88
@@ -3928,20 +3933,22 @@ msgid ""
 "These giant guard towers protect the cities of Hyrule during sieges and invasions. "
 "Manned by Crossbowmen and able to garrison other soldiers for defense."
 msgstr ""
+"Tyto obří hradební věže chrání Hyliánská města během obléhání a invazí. Obsazeny "
+"kušiníky a schopny pobrat jiné vojáky pro obranu."
 
 #: simulation/templates/structures/hylian/hylian_defense_tower.xml:89
 #: simulation/templates/structures/hylian/hylian_defense_towerB.xml:90
 #: simulation/templates/structures/hylian/hylian_scorpio_tower.xml:57
 msgid "Defensive Tower that shoots arrows at approaching targets."
-msgstr ""
+msgstr "Obranná věž která střílí šípy na blížící se cíle."
 
 #: simulation/templates/structures/hylian/hylian_dock.xml:16
 msgid "Dock"
-msgstr ""
+msgstr "Přístav"
 
 #: simulation/templates/structures/hylian/hylian_field.xml:60
 msgid "Urban Farm"
-msgstr ""
+msgstr "Městská Farma"
 
 #: simulation/templates/structures/hylian/hylian_field.xml:61
 msgid ""
@@ -3950,12 +3957,16 @@ msgid ""
 "not yield as bountiful of harvest because of their limited space, but they provide "
 "enough food nonetheless."
 msgstr ""
+"S nepřáteli na všech stranách, a válce poměrně časté uvnitř hranic Království, Hyliánci "
+"za staletí začaly přesouvat svá pole uvnitř zdí. Nevydávají tak bohatou úrodu kvůli jejich "
+"omezeném prostoru, ale přesto poskytují dost jídla.
 
 #: simulation/templates/structures/hylian/hylian_field.xml:63
 msgid ""
 "Workers can harvest Food at this centralized location. Kingdom of Hyrule farms are also"
 " unique in that they provide a small amount of population."
 msgstr ""
+"Generuje jídlo a obyvatelstvo."
 
 #: simulation/templates/structures/hylian/hylian_hospital.xml:34
 msgid "Bimaristan"
@@ -3974,13 +3985,15 @@ msgstr ""
 
 #: simulation/templates/structures/hylian/hylian_house.xml:60
 msgid "Kingdom Housing"
-msgstr ""
+msgstr "Královské Obydlí"
 
 #: simulation/templates/structures/hylian/hylian_house.xml:61
 msgid ""
 "Hylian civilians lived in quite high standards for commonfolk. Their houses were often "
 "multi-leveled and quite comfortable even in harsher elements."
 msgstr ""
+"Hyliánští občané žili v poměrně vysokých standardech pro obyčejný lid. Jejich doby byly "
+"často vícepatrové a docela pohodlně i v drsnějších podmínkách."
 
 #: simulation/templates/structures/hylian/hylian_library.xml:25
 #: simulation/templates/structures/labrynna/labrynna_blacksmith.xml:30
@@ -3995,26 +4008,28 @@ msgstr ""
 
 #: simulation/templates/structures/hylian/hylian_market.xml:36
 msgid "Kingdom Market Plaza"
-msgstr ""
+msgstr "Královské Tržiště"
 
 #: simulation/templates/structures/hylian/hylian_market.xml:37
 msgid ""
 "The center of any Kingdom city's economy. Market Plazas are bustling with activity and "
 "engaged in trade with many foreign powers and neighbors."
 msgstr ""
+"Centrum ekonomiky jakéhokoliv Královského města. Tržiště byly rušné aktivitou a plné "
+"obchodu v mnohými cizími mocnostmi a sousedy."
 
 #: simulation/templates/structures/hylian/hylian_marketstall.xml:26
 msgid "Market Stall"
-msgstr ""
+msgstr "Tržní Stánek"
 
 #: simulation/templates/structures/hylian/hylian_marketstall.xml:27
 #: simulation/templates/structures/hylian/hylian_marketstall.xml:30
 msgid "A Small stall that sells various goods and services."
-msgstr ""
+msgstr "Malý stánek prodávající různé zboží a služby."
 
 #: simulation/templates/structures/hylian/hylian_mercs.xml:31
 msgid "Hylian Bar"
-msgstr ""
+msgstr "Hyliánský Bar"
 
 #: simulation/templates/structures/hylian/hylian_mercs.xml:32
 msgid ""
@@ -4023,58 +4038,62 @@ msgid ""
 "to improve the populace's happiness. Many potential Mercenaries gather at these "
 "hotspots and can be recruited for service."
 msgstr ""
+"Prodávající cokoliv od Kítonského Moštu po Lon Lonské Mléko, místní Bar byl často centrem "
+"aktivity pro Hyliánské civilisty. Po  dlouhém dni práce, bar dost pomáhal zlepšit obyvatelstvu "
+"náladu. Mnoýí potenciální žoldáci se schromažďují na těchto místech a mohou být najmuti pro "
+"své služby."
 
 #: simulation/templates/structures/hylian/hylian_outpost.xml:83
 #: simulation/templates/structures/labrynna/labrynna_civil_centre.xml:74
 #: simulation/templates/structures/labrynna/labrynna_outpost.xml:68
 msgid "Village Center"
-msgstr ""
+msgstr "Vesnické Centrum"
 
 #: simulation/templates/structures/hylian/hylian_outpost.xml:86
 msgid "Center of a Hylian Outpost. Summons Hylian Heroes. Manned with archers for defense."
-msgstr ""
+msgstr "Centrum Hyliánské základny. Povolává Hyliánské hrdiny. Obsazeny lukostřelci pro obranu."
 
 #: simulation/templates/structures/hylian/hylian_plot_medium.xml:50
 #: simulation/templates/structures/hylian/hylian_plot_medium_S.xml:50
 #: simulation/templates/structures/hylian/hylian_plot_small.xml:59
 msgid "Build Urban Farm on this plot."
-msgstr ""
+msgstr "Postavit Městskou Farmu na této parcele."
 
 #: simulation/templates/structures/hylian/hylian_plot_medium.xml:59
 #: simulation/templates/structures/hylian/hylian_plot_medium_S.xml:59
 #: simulation/templates/structures/hylian/hylian_plot_small.xml:68
 msgid "Build Kingdom Market Plaza on this plot."
-msgstr ""
+msgstr "Postavit Královské Tržiště na této parcele."
 
 #: simulation/templates/structures/hylian/hylian_plot_medium.xml:68
 #: simulation/templates/structures/hylian/hylian_plot_medium_S.xml:68
 #: simulation/templates/structures/hylian/hylian_plot_small.xml:95
 msgid "Build Kingdom Barracks on this plot."
-msgstr ""
+msgstr "Postavit Královskou Zbrojnici na této parcele."
 
 #: simulation/templates/structures/hylian/hylian_plot_medium.xml:77
 #: simulation/templates/structures/hylian/hylian_plot_medium_S.xml:77
 #: simulation/templates/structures/hylian/hylian_plot_small.xml:104
 msgid "Build Archery Range on this plot."
-msgstr ""
+msgstr "Postavit Lukostřelnici na této parcele."
 
 #: simulation/templates/structures/hylian/hylian_plot_medium.xml:86
 #: simulation/templates/structures/hylian/hylian_plot_medium_S.xml:86
 #: simulation/templates/structures/hylian/hylian_plot_small.xml:113
 msgid "Build Urban Stables on this plot."
-msgstr ""
+msgstr "Postavit Městské Stáje na této parcele."
 
 #: simulation/templates/structures/hylian/hylian_plot_medium.xml:95
 #: simulation/templates/structures/hylian/hylian_plot_medium_S.xml:95
 #: simulation/templates/structures/hylian/hylian_plot_small.xml:122
 msgid "Build Siegeworks on this plot."
-msgstr ""
+msgstr "Postavit Obléhací Řemeslnictví na této parcele."
 
 #: simulation/templates/structures/hylian/hylian_plot_medium.xml:105
 #: simulation/templates/structures/hylian/hylian_plot_medium_S.xml:105
 #: simulation/templates/structures/hylian/hylian_plot_small.xml:86
 msgid "Build Church of the Goddesses on this plot."
-msgstr ""
+msgstr "Postavit Kostel Bohynní na této parcele."
 
 #: simulation/templates/structures/hylian/hylian_plot_medium.xml:115
 #: simulation/templates/structures/hylian/hylian_plot_medium_S.xml:115
@@ -4083,11 +4102,11 @@ msgstr ""
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium_des.xml:80
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium_dm.xml:80
 msgid "Build Blacksmith on this plot."
-msgstr ""
+msgstr "Postavit Kovárnu na této parcele."
 
 #: simulation/templates/structures/hylian/hylian_plot_small.xml:50
 msgid "Build Kingdom Housing on this plot."
-msgstr ""
+msgstr "Postavit Královské Obydlí na této parcele."
 
 #: simulation/templates/structures/hylian/hylian_plot_small.xml:77
 msgid "Build Bimaristan on this plot."
@@ -4095,20 +4114,20 @@ msgstr ""
 
 #: simulation/templates/structures/hylian/hylian_plot_tower.xml:25
 msgid "Constructs Hylian Towers on this space."
-msgstr ""
+msgstr "Postavit Hyliánské Věže na tomto místě."
 
 #: simulation/templates/structures/hylian/hylian_plot_wallcurved.xml:25
 #: simulation/templates/structures/hylian/hylian_plot_wallcurvedB.xml:25
 #: simulation/templates/structures/hylian/hylian_plot_wallmedium.xml:25
 #: simulation/templates/structures/hylian/hylian_plot_walltower.xml:25
 msgid "Constructs Hylian Walls on this space."
-msgstr ""
+msgstr "Postavit Hyliánské zdi na tomto místě."
 
 #: simulation/templates/structures/hylian/hylian_plot_wallgate.xml:25
 #: simulation/templates/structures/labrynna/labrynna_plot_wallgate.xml:25
 #: simulation/templates/structures/lanayru/lanayru_plot_wallgate.xml:25
 msgid "Constructs Gates on this space."
-msgstr ""
+msgstr "Postavit Brány na tomto místě."
 
 #: simulation/templates/structures/hylian/hylian_plot_wallgate.xml:51
 #: simulation/templates/structures/kokiri/kokiri_plot_wallgate.xml:51
@@ -4116,56 +4135,62 @@ msgstr ""
 #: simulation/templates/structures/lanayru/lanayru_plot_wallgate.xml:51
 #: simulation/templates/structures/zora/zora_plot_wallgate.xml:51
 msgid "Build Gate on this plot."
-msgstr ""
+msgstr "Postavit Brány na této parcele."
 
 #: simulation/templates/structures/hylian/hylian_ruralfarm.xml:26
 msgid "Rural Farm"
-msgstr ""
+msgstr "Venkovská Farma"
 
 #: simulation/templates/structures/hylian/hylian_ruralfarm.xml:27
 #: simulation/templates/structures/hylian/hylian_ruralfarm.xml:29
 msgid "A Hylian farm."
-msgstr ""
+msgstr "Hyiánská farma."
 
 #: simulation/templates/structures/hylian/hylian_sentry_tower.xml:54
 #: simulation/templates/structures/kokiri/kokiri_defense_tower.xml:94
 #: simulation/templates/structures/kokiri/kokiri_defense_towerB.xml:94
 msgid "Watch Tower"
-msgstr ""
+msgstr "Strážní Věž"
 
 #: simulation/templates/structures/hylian/hylian_sentry_tower.xml:55
 msgid ""
 "With so many hostile neighbors, the Kingdom is wise to have posts along their vast "
 "borders to help forewarn of intrusions."
 msgstr ""
+"S tolika nepřátelskými sousedy, Království moudře staví věže kolem svých dlouhých "
+"hranic aby varovali proti vniknutím."
 
 #: simulation/templates/structures/hylian/hylian_siegeworks.xml:30
 msgid "Siegeworks"
-msgstr ""
+msgstr "Obléhací Řemeslnictví"
 
 #: simulation/templates/structures/hylian/hylian_siegeworks.xml:31
 msgid ""
 "The expansive Siege Workshop is capable of producing Rams and Trebuchets for the "
 "Kingdom of Hyrule, giving them city-destroying capabilities."
 msgstr ""
+"Rozlehlé Obléhací Řemeslnictví schopné vytvořit Beranidla a Trebuchety pro Hyliánské "
+"Království, čímž mu dává schopnost zničit města."
 
 #: simulation/templates/structures/hylian/hylian_siegeworks.xml:34
 msgid "Creates Siege units."
-msgstr ""
+msgstr "Tvoří obléhací jednotky."
 
 #: simulation/templates/structures/hylian/hylian_stables.xml:30
 msgid "Urban Stables"
-msgstr ""
+msgstr "Městské Stáje"
 
 #: simulation/templates/structures/hylian/hylian_stables.xml:31
 msgid ""
 "The Hylians prefer stalling their horses deep within their urban centers, and as such "
 "construct housing for cavalry inside city walls."
 msgstr ""
+"Hyliánci preferují ustajovat jejich koně hluboko v městských centrech, a proto budují "
+"obydlí pro jezdectvo uvnitř městských zdí."
 
 #: simulation/templates/structures/hylian/hylian_stables.xml:33
 msgid "Trains several Hylian Cavalry units."
-msgstr ""
+msgstr "Trénuje několik Hyliánských jezdeckých jednotek."
 
 #: simulation/templates/structures/hylian/hylian_stablesmall.xml:25
 msgid "Small Stable"
@@ -4208,7 +4233,7 @@ msgstr ""
 #: simulation/templates/structures/labrynna/labrynna_stone_wall_short.xml:12
 #: simulation/templates/structures/labrynna/labrynna_wallset_stone.xml:4
 msgid "Stone Wall"
-msgstr ""
+msgstr "Kamenná Zeď"
 
 #: simulation/templates/structures/hylian/hylian_stone_wall.xml:12
 #: simulation/templates/structures/hylian/hylian_stone_wall_curved.xml:42
@@ -4223,25 +4248,27 @@ msgid ""
 "The cities on the plains of Hyrule were vulnerable from many sides. The Hylians "
 "resorted to building durable stone walls to protect themselves."
 msgstr ""
+"Města v Hyliánských pláních byly zranitelné z mnohých stran. Hyliánci se uchýlili "
+"ke stavbě odolných kamenných zdí aby se ubránili."
 
 #: simulation/templates/structures/hylian/hylian_stone_wall_gate.xml:14
 #: simulation/templates/structures/labrynna/labrynna_stone_wall_gate.xml:15
 msgid "Stone Gate"
-msgstr ""
+msgstr "Kamenná Zeď"
 
 #: simulation/templates/structures/hylian/hylian_stone_wall_long.xml:57
 #: simulation/templates/structures/labrynna/labrynna_stone_wall_long.xml:56
 #: simulation/templates/structures/settle_malkariko/malkariko_wall_long.xml:16
 msgid "Convert to Stone Gate."
-msgstr ""
+msgstr "Konvertovat na Kamennou Bránu."
 
 #: simulation/templates/structures/hylian/hylian_stone_wall_tower.xml:11
 msgid "Stone Wall Tower"
-msgstr ""
+msgstr "Kamenná Hradební Věž"
 
 #: simulation/templates/structures/hylian/hylian_stone_wall_tower.xml:45
 msgid "Add Scorpios to this Tower."
-msgstr ""
+msgstr "Přidat Škorpióny k této Věži."
 
 #: simulation/templates/structures/hylian/hylian_temple.xml:52
 msgid ""
@@ -4250,23 +4277,29 @@ msgid ""
 "for Priests to speak of the Goddesses, they often serve as training grounds for future "
 "generations of religious preachers and missionaries."
 msgstr ""
+"Větší Hyliánská města jsou často plná různých Kostelů které slouží jako náboženská a "
+"komunální schromáždění pro místní obyvateltva. Nejen že jsou přívětivá místa kde mohou "
+"kněží mluvit s bohy, ale také slouží jako trénovací prostranství pro budoucí generace "
+"pro náboženské kazatele a misionáře."
 
 #: simulation/templates/structures/hylian/hylian_temple.xml:55
 msgid "Church of the Goddesses"
-msgstr ""
+msgstr "Kostel Bohyň"
 
 #: simulation/templates/structures/hylian/hylian_temple.xml:56
 msgid ""
 "Religious building that increases the spread of your territory and allows the training "
 "of Support units."
 msgstr ""
+"Náboženská budova která zvyšuje šíření vašeho teritoria a umožňuje trénink podpůrných "
+"jednotek."
 
 #: simulation/templates/structures/hylian/hylian_wallset_wood.xml:4
 #: simulation/templates/structures/labrynna/labrynna_defense_tower.xml:64
 #: simulation/templates/structures/labrynna/labrynna_defense_towerB.xml:68
 #: simulation/templates/structures/sheikah/sheikah_wallset.xml:4
 msgid "Defense"
-msgstr ""
+msgstr "Obrana"
 
 #: simulation/templates/structures/hylian/hylian_wallset_wood.xml:5
 #: simulation/templates/structures/hylian/hylian_wood_wall_gate.xml:16
@@ -4280,11 +4313,11 @@ msgstr ""
 #: simulation/templates/structures/sheikah/sheikah_wall_short.xml:13
 #: simulation/templates/structures/sheikah/sheikah_wall_tower.xml:13
 msgid "A makeshift wooden wall to keep the elements out of Hylian villages."
-msgstr ""
+msgstr "Provizorní dřevěná zeď která drží elementy z Šejkských vesnic."
 
 #: simulation/templates/structures/hylian/hylian_wonder.xml:21
 msgid "Temple of Time"
-msgstr ""
+msgstr "Chrám Času"
 
 #: simulation/templates/structures/hylian/hylian_wonder.xml:22
 msgid ""
@@ -4293,10 +4326,13 @@ msgid ""
 "its recesses, the Temple of Time is a shining wonder and revered structure across all "
 "of Hyrule."
 msgstr ""
+"Chrám Času, zázrak architektury designována Raurem, Mudrcem Světla, pověren Nebešťany. "
+"Sloužící jako kostel a chránící svatou Trojmoc hluboko v jeho zákroutí, Chrám Času je "
+"zářící div a uctívaná struktura v celém Hyliánsku."
 
 #: simulation/templates/structures/hylian/hylian_wonder.xml:25
 msgid "The Hylian Wonder, allows you to summon Fi, Spirit of the Master Sword."
-msgstr ""
+msgstr "Hyliánský Div."
 
 #: simulation/templates/structures/kokiri/kokiri_barracks.xml:32
 #: simulation/templates/structures/kokiri/kokiri_fightingyard.xml:25
