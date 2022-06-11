@@ -10734,11 +10734,10 @@ msgid ""
 "they managed to break into the mighty Darknut fortress. The Siege Tower can "
 "effortlessly destroy the heaviest of fortifications and garrison troops inside."
 msgstr ""
-"Ein riesiger und mächtiger Rammbock mit dem die Zuna schon viel Burgen zerstörten"
-"Das historisch meistbekannte Beispiel der Geschichte war die Schlacht um Barals "
-"Widerstand, wo diese Türme es schafften in die mächtige Nimbusgarden Burg einzudringen."
-"Die Belagerungstürme selbst die stärksten Befestigungen durchbrechen und mehere Truppen"
-"aufnehmen"
+"Ein riesiger und mächtiger Rammbock mit dem die Zuna schon viele Burgen zerstörten"
+"Das historisch bekannteste Beispiel war die Schlacht um Barals Widerstand, wo diese"
+"Türme es schafften in die mächtige Nimbusgarden Burg einzudringen. Die Belagerungstürme"
+"können selbst die stärksten Befestigungen durchbrechen und mehere Truppen aufnehmen"
 
 #: simulation/templates/units/npc_zuna/npc_zun_siegetower_b.xml:88
 msgid "Zunayun Siege Tower"
@@ -10758,9 +10757,9 @@ msgid ""
 "three giant bolts at a time instead of one. A single Triballista could hurl these bolts"
 " at mutliple targets, potentially breaking open multiple holes in an enemy’s defense."
 msgstr ""
-"So wie ihre handlichen Armbrüste war auch die Zuna Triballiste in der Lage mit Drei Bolzen"
+"So wie ihre handlichen Armbrüste war auch die Zuna Triballiste in der Lage mit drei Bolzen"
 "gleichzeitig geladen zu werden anstatt einem. Eine einzige Triballiste konnte diese Bolzen"
-"auf mehere Ziele abfeuern, was potenziell zu mehr Löchern in feindlichen Reihen führte."
+"auf mehere Ziele abfeuern, was potenziell zu mehr Lücken in feindlichen Reihen führte."
 
 #: simulation/templates/units/npc_zuna/npc_zun_triballista_b.xml:60
 msgid "Ranged Siege unit that unleashes a triad of giant bolts at its targets."
@@ -10777,9 +10776,9 @@ msgid ""
 "hold and store up to three bolts instead of one, giving them the chance to fire several"
 " shots before reloading."
 msgstr ""
-"Auf den Terassenen Mauern von Zunayus stehen dies tödlichen Schützen seit Generationen bereit"
-"die Hauptstadt zu verteidigen. Das seltsame Design der Zuna Armbrüste ermöglichte es ihnen"
-"bis zu drei Bolzen aufzubewahren was ihnen die Chance gab mehere Schüsse abzugeben bevor sie"
+"Auf den Terassenenmauern von Zunayus stehen diese tödlichen Schützen schon seit Generationen"
+"um die Hauptstadt zu verteidigen. Das seltsame Design der Zuna Armbrüste ermöglichte es ihnen"
+"bis zu drei Bolzen zu laden was ihnen die Chance gab mehere Schüsse abzugeben bevor sie"
 "nachladen mussten"
 
 #: simulation/templates/units/npc_zuna/npc_zun_tribowman_b.xml:53
@@ -10797,9 +10796,9 @@ msgid ""
 "these Zuna are sufficiently trained to defend against a full-scale invasion of their "
 "homeland."
 msgstr ""
-"Mit dem ikonischen Dreizäcken in der Hand patrollierten diese Zuna Soldaten die Grenzen"
-"der Händler Hauptstadt Zunayus. Zwar waren sie nicht mehr als Polizei aber diese Zuna waren"
-"ausreichend trainiert um gegen ganze Invasionen ihrer Heimat zu verteidigen."
+"Mit ihren ikonischen Dreizäcken in der Hand patrollierten diese Zuna Soldaten die Grenzen"
+"die Hauptstadt der Händler Zunayus. Zwar waren sie theoretisch nicht mehr als Polizei aber "
+"diese Zuna waren gut genug trainiert um ihrr Heimat gegen ganze Invasionen zu verteidigen."
 
 #: simulation/templates/units/npc_zuna/npc_zun_tridenteer_b.xml:43
 msgid "Melee unit carrying a far reaching trident."
@@ -10807,26 +10806,28 @@ msgstr "Infanterie mit einem weitreichenden Dreizack"
 
 #: simulation/templates/units/ordona/ordona_attackgoat_b.xml:32
 msgid "Ordonian Goat"
-msgstr ""
+msgstr "Ordoner Ziege"
 
 #: simulation/templates/units/ordona/ordona_attackgoat_b.xml:33
 msgid ""
 "The iconic blue Goats of Ordona are a stock source of meat, wool, and milk throughout "
 "much of Hyrule. Domesticated varieties could be traied to attack"
 msgstr ""
-
+"Die berühmten blauen Wollmilchziegen von Ordona sind eine grundlege Quelle für viele Ressourcen" 
+ "in Hyrule. Ordentlich abgerichtete Varianten wurden auch für Angriffe genutzt."
+ 
 #: simulation/templates/units/ordona/ordona_attackgoat_b.xml:37
 msgid "Melee Creature unit with a strong headbutt and kick."
-msgstr ""
+msgstr "Kreatur mit starken Tritten und Kopfnüssen"
 
 #: simulation/templates/units/ordona/ordona_beekeeper_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Beehives"
-msgstr ""
+msgstr "Bienenstöcke"
 
 #: simulation/templates/units/ordona/ordona_beekeeper_b.xml:69
 msgid "Beekeeper"
-msgstr ""
+msgstr "Imker"
 
 #: simulation/templates/units/ordona/ordona_beekeeper_b.xml:70
 msgid ""
@@ -10835,14 +10836,18 @@ msgid ""
 "to generate Food (and later Rupees) for Ordona Province. They can also carry sealed "
 "gourds full of angry bees, which they toss into a crowd of attacking enemies."
 msgstr ""
+"Honig ist ein wertvolles Geschäft in Ordon, da die Region eine Brutstätte für Bienen im"
+"Frühling ist. Die Imker können in der Imkerei quartiert werden wo sie Honig( später auch Runine)"
+"für die Ordon Provinz generieren. Sie können auch Verschlossene mit wütenden Bienen gefüllte "
+"Kürbisse die sie auf Gegner werfen."
 
 #: simulation/templates/units/ordona/ordona_beekeeper_b.xml:75
 msgid "Support unit that tosses Beehives at enemies, summoning swarms of the insects to attack."
-msgstr ""
+msgstr "Untersützungseinheit die Bienenstöcke auf Gegner wirft, deren Einwohner angreifen "
 
 #: simulation/templates/units/ordona/ordona_billybat_b.xml:37
 msgid "Billy Battler"
-msgstr ""
+msgstr "Ziegenbock Kämpfer"
 
 #: simulation/templates/units/ordona/ordona_billybat_b.xml:38
 msgid ""
@@ -10853,14 +10858,20 @@ msgid ""
 "with their axe. Like all of Ordona's goat cavalry, the Billy Battler can climb over "
 "mountainous terrain."
 msgstr ""
+"Ziegenbock Kämpfer sind das Aushängeschild der Ordon Armeee und vielleicht die zahlenreichste"
+"Militärtruppen der Provinz. Diese trainierten Krieger auf dem Rücken einer wütender Ordoner  "
+"Ziegen sind vielleicht nicht die schnellsten sind aber gut gepanzert und können ordentlich"
+"austeilen. Nachdem sie in Gegner mit ihren runden Horn geprescht sind Kann der Reiter den Gegnern"
+"mit seiner Axt rumhacken und sie köpfen. Wie alle Ordoner Ziegen können auch sie über bergiges"
+"Terrain klettern."
 
 #: simulation/templates/units/ordona/ordona_billybat_b.xml:43
 msgid "Medium Cavalry unit with a strong melee attack and Knockback damage."
-msgstr ""
+msgstr "Mittlere Kavallerie mit starken Nahkampfattacken und rückstoß"
 
 #: simulation/templates/units/ordona/ordona_catapult_b.xml:48
 msgid "Ordona Catapult"
-msgstr ""
+msgstr "Ordoner Katapult"
 
 #: simulation/templates/units/ordona/ordona_catapult_b.xml:49
 msgid ""
@@ -10869,16 +10880,20 @@ msgid ""
 "towers. Ordonian catapults could hurl boulders from safe behind their army's lines, "
 "busting open gates and taking out large targets with ease."
 msgstr ""
+"Mit Feinden an vielen Seiten, war Ordon oft mit seiner Verteidigung beschäftigt, In Fällen"
+"wo sich das Blatt gewendet hat dienen diese Katapulte als schwere Geschütze die feindliche "
+"Mauern und Türme ausschalten. Ordoner Katapulte werfen Felsen sicher aus den hinteren Ordoner"
+"Reihen um Tore und große Ziele auszuschalten."
 
 #: simulation/templates/units/ordona/ordona_catapult_b.xml:51
 msgid "Small but effective ranged Siege unit that can knock down enemy structures."
-msgstr ""
+msgstr "Kleine aber effektive Distanzbelagerungswaffe die Feindliche Gebäude zerstört"
 
 #: simulation/templates/units/ordona/ordona_civilianA.xml:8
 #: simulation/templates/units/ordona/ordona_civilianB.xml:8
 #: simulation/templates/units/ordona/ordona_serfA.xml:61
 msgid "Serf"
-msgstr ""
+msgstr "Leibeigener"
 
 #: simulation/templates/units/ordona/ordona_civilianA.xml:9
 #: simulation/templates/units/ordona/ordona_civilianB.xml:9
@@ -10900,11 +10915,11 @@ msgstr ""
 #: simulation/templates/units/ordona/ordona_drunkard_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Booze"
-msgstr ""
+msgstr "Schnaps"
 
 #: simulation/templates/units/ordona/ordona_drunkard_b.xml:55
 msgid "Drunkard"
-msgstr ""
+msgstr "Säufer"
 
 #: simulation/templates/units/ordona/ordona_drunkard_b.xml:56
 msgid ""
@@ -10913,10 +10928,15 @@ msgid ""
 "enemies and buildings aflame and are excellent at crowd control, but an Ordonian "
 "commander must be careful: friendly fire is guaranteed without careful coordination."
 msgstr ""
+"Mit billigen Schnaps und einer kleinen Flamme ausgerüstet warfen die Säufer ihre explosiven"
+"Flaschen auf ihre Ziele um sich am Spektakel zu erfreuen. Eine Gruppe an Säufern kann Feinde"
+"und Gebäude schnell in Flammen setzen und sind perfekt um großen Scharen Herr zu werden. "
+"Aber ein Kommandant muss aufpassen denn Feuer aus eigenen Reihen ist ohne sorgfältige Koordination"
+"garantiert."
 
 #: simulation/templates/units/ordona/ordona_drunkard_b.xml:60
 msgid "Support unit that tosses flaming bottles of booze at their targets."
-msgstr ""
+msgstr "Unterstützungseinheit die brennende Flaschen mit Schnaps auf ihre Gegner wirft."
 
 #: simulation/templates/units/ordona/ordona_fieflord_b.xml:33
 msgid "Fief Lord"
