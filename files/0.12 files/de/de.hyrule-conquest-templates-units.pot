@@ -10940,7 +10940,7 @@ msgstr "Unterstützungseinheit die brennende Flaschen mit Schnaps auf ihre Gegne
 
 #: simulation/templates/units/ordona/ordona_fieflord_b.xml:33
 msgid "Fief Lord"
-msgstr ""
+msgstr "Lehnsherr"
 
 #: simulation/templates/units/ordona/ordona_fieflord_b.xml:34
 msgid ""
@@ -10949,14 +10949,18 @@ msgid ""
 "a talent that when combined with their natural job of bossing people around made them "
 "excellent officers for managing Province troops."
 msgstr ""
+"Lehnsherrn von Ordon die rechtlich Land besaßen und oft ein dutzend Fraibauern in ihrerm Lehnen"
+"hatten. Lehnsherrn hatten auch eine rudimentäre  Militärerfahrung, eine Fähigkeit die"
+"gepaart mit ihrer natürlichen Aufgabe Leute herumzukommandieren ausgezeichnete Offiziere"
+"in der Armee der Provinz machte."
 
 #: simulation/templates/units/ordona/ordona_fieflord_b.xml:38
 msgid "Infantry Commander that improves upon other Infantry units."
-msgstr ""
+msgstr "Infanterie Kommandant der die Leistung anderer Infanterie verbessert."
 
 #: simulation/templates/units/ordona/ordona_goatlord_b.xml:34
 msgid "Goat Lord"
-msgstr ""
+msgstr "Ziegenfürst"
 
 #: simulation/templates/units/ordona/ordona_goatlord_b.xml:36
 msgid ""
@@ -10966,15 +10970,19 @@ msgid ""
 "hold their own in a melee. Like all of Ordona's goat cavalry, the Goat Lord can climb "
 "over mountainous terrain."
 msgstr ""
+"Eine mächtiger Ziegenältester der von einen von Ordons vielen Bürgermeistern beritten wird,"
+"welche die Bevölkerunng von Ordon in die Schlacht und in den Sieg führen. Mit Banner und"
+"Lanze in Hand kann ein Ziegenfürst feindliche Kavallerie niederstrecken und sich im"
+"Nahkampf behaupten.Wie alle Ordoner Ziegen können auch sie über bergiges Terrain klettern"
 
 #: simulation/templates/units/ordona/ordona_goatlord_b.xml:41
 msgid "Heavy Cavalry Commander unit armed with a large lance that improves other Cavalry units."
-msgstr ""
+msgstr "Schwerer Kommandant der Kavallerie mit einer großen Lanze die andere Kavallerie stärkt"
 
 #: simulation/templates/units/ordona/ordona_hawk_b.xml:30
 #: simulation/templates/units/ordona/ordona_hawk_b2.xml:31
 msgid "Ordona Hawk"
-msgstr ""
+msgstr "Ordon Falke"
 
 #: simulation/templates/units/ordona/ordona_hawk_b.xml:31
 #: simulation/templates/units/ordona/ordona_hawk_b2.xml:32
@@ -10983,6 +10991,9 @@ msgid ""
 "families to serve as messengers, hunting companions, and in times of war they could be "
 "deployed as scouts and unconventional battle units."
 msgstr ""
+"Diese großen Raubvögel sind in der Provinz heimisch und wurden oft von den Ordoner"
+"Familien als Brieffalken, Jagdgefährten und in Kriegszeiten as Späher und unkonventionelle"
+"Schlachttruppen"
 
 #: simulation/templates/units/ordona/ordona_hawk_b.xml:35
 #: simulation/templates/units/ordona/ordona_hawk_b2.xml:37
@@ -10990,11 +11001,11 @@ msgstr ""
 msgid ""
 "Flying Creature Scout unit that can cover much ground and detect Camouflaged and "
 "Stealthed units."
-msgstr ""
+msgstr "Fliegender Späher der viel Fläche abdeckt und getarnte Einheiten entdeckt."
 
 #: simulation/templates/units/ordona/ordona_hero_ashei_b.xml:34
 msgid "Master Mercenary"
-msgstr ""
+msgstr "Söldnermeisterin"
 
 #: simulation/templates/units/ordona/ordona_hero_ashei_b.xml:36
 msgid ""
@@ -11010,18 +11021,27 @@ msgid ""
 "learning a wide variety of combat techniques and sword fighting arts from various "
 "cultures."
 msgstr ""
+"Die Tochter eines Hylianischen Ritters, der aus seinem Orden ausgestoßen wurde da er ein"
+"Kind mit einer Ordoner Frau zeugte und damit die Blutlinie der Mitglieder mitverunreinigte.
+"Da er als Bauer in Ordon nicht geignet war zog er stattdessen nach Osten in Labrynnas Gebirge"
+"wo er später den Wiederstand gründete, eine pramilitärische Organisation, die Gefahren bekämpfte "
+"bevor sie zu Kriegen in Hyrule führten. Er erzog Ashley um wie er ein Ritter zu werden in der Hoffnung"
+"das sie irgendwann den Wiederstand übernahm. Ohne strikte Ordnung und einem herrischen Miltärstruktur"
+"über ihrem Training wurde Ashley zu einem Soldatin die stark von der Norm abwich. Ohne Bindung zu "
+"irgendeiner Land war sie mehr Söldner als Ritter und lernte eine Vielfalt an Kampftechniken von"
+"den vielen verschiedenen Kulturen"
 
 #: simulation/templates/units/ordona/ordona_hero_ashei_b.xml:40
 msgid "Ashei"
-msgstr ""
+msgstr "Ashley"
 
 #: simulation/templates/units/ordona/ordona_hero_ashei_b.xml:41
 msgid "Fast running Mercenary Hero armed with a sword."
-msgstr ""
+msgstr "Schnelle Söldner Heldin mit einem Schwert"
 
 #: simulation/templates/units/ordona/ordona_hero_beth_b.xml:42
 msgid "Lady of Ordon"
-msgstr ""
+msgstr "Dame von Ordon"
 
 #: simulation/templates/units/ordona/ordona_hero_beth_b.xml:44
 msgid ""
@@ -11030,19 +11050,23 @@ msgid ""
 " trade and hopes to keep the Province one of Hyrule's greatest market powers. While not"
 " skilled in fighting, she has enough training with a bow and arrows."
 msgstr ""
+"Als die Tochter von Zeira und die Nachfolgein ihres Geschäfts, leitet Betty eine der größten "
+"Handelsketten in Hyrule. Sie ist mitverantwortlich für Ordonas wirtschaftlichen Wohlstand und "
+"den Außenhandel und hofft die Provinz in Hyrule als Wirtschaftsmacht zu halten. Zwar ist sie nicht"
+"gut im Kämpfen aber sie hat genug Training mit Pfeil und Bogen."
 
 #: simulation/templates/units/ordona/ordona_hero_beth_b.xml:48
 msgid "Beth"
-msgstr ""
+msgstr "Betty"
 
 #: simulation/templates/units/ordona/ordona_hero_beth_b.xml:49
 #: simulation/templates/units/sheikah/sheikah_hero_purah.xml:49
 msgid "Ranged Hero carrying a bow and arrow."
-msgstr ""
+msgstr "Fernkämpfer Heldin mit Pfeil unf Bogen."
 
 #: simulation/templates/units/ordona/ordona_hero_colin_b.xml:34
 msgid "Squire of Ordon"
-msgstr ""
+msgstr "Knappe von Ordon"
 
 #: simulation/templates/units/ordona/ordona_hero_colin_b.xml:36
 msgid ""
@@ -11051,18 +11075,22 @@ msgid ""
 "a profession in his adulthood. He has since become a Squire in hopes of attaining "
 "Knighthood."
 msgstr ""
+"Colin der Sohn von Moe, wuchs als Knecht auf für die meiste Zeit seines Lebens. Sein Vater"
+"flößte in ihm einen Kampfgeist ein und lehrte ihm mit einem Schwert umzugehen, ein Talent"
+"das Colin mit sich bis ins Erwachsenenalter führte. Er wurde ein Knappe in der Hoffnung"
+"zum Ritter geschlagen zu werden."
 
 #: simulation/templates/units/ordona/ordona_hero_colin_b.xml:40
 msgid "Colin"
-msgstr ""
+msgstr "Colin"
 
 #: simulation/templates/units/ordona/ordona_hero_colin_b.xml:41
 msgid "Quick Melee Hero armed with a sword and shield."
-msgstr ""
+msgstr "Schneller Infanterie Held mit SChwert und SChild"
 
 #: simulation/templates/units/ordona/ordona_hero_ilia_b.xml:42
 msgid "Mayor's Daughter"
-msgstr ""
+msgstr "Tochter des Bürgermeisters"
 
 #: simulation/templates/units/ordona/ordona_hero_ilia_b.xml:44
 msgid ""
@@ -11076,18 +11104,28 @@ msgid ""
 "hopes to one day out-compete the famous horse breeder. In battle Ilia rides atop a "
 "horse, using a Ranger Crossbow to snipe down anyone who threatens the Province."
 msgstr ""
+"Ilya war die Tohter vom Bürgermeister Boro und eine Handelspartnerin von Moe in ihrer"
+"Jugend. Da sie in einem priviliegerten Stand aufwuchs hatte sie die Möglichkeit viele "
+"Berufe zu probieren bevor sie sich auf das Züchten und trainieren von Pferden konzentrierte."
+"Als junge Frau hatte sie schon einen guten Geschäftsinn in der Ordon Provinz, da sie es"
+"schaffte den Besitz über ein paar der besten Pferde zu bekommen  während sie gleichzeitig eine "
+"Holzfällerei betrieb um den Aufbau von Ställen in Hyrule zu fördern. Sie war für ihre Feierlaune"
+"bekannt und konnte ordentlich Bier abkonnte. Sie hat eine freundliche Rivalität mit Malon von"
+"der Lon Lon Ranch und hofft sie eines Tages den Titel als bekannteste Pferdezüchterin abzunhemen."
+"In der Schlacht reitet Ilya auf dem Rücken eines Pferdes und nutzt eine Waldläufer Armbrust um"
+"jeden abzuschießen der es wagt die Provinz zu bedrohen."
 
 #: simulation/templates/units/ordona/ordona_hero_ilia_b.xml:47
 msgid "Ilia"
-msgstr ""
+msgstr "Ilya"
 
 #: simulation/templates/units/ordona/ordona_hero_ilia_b.xml:48
 msgid "Fast Missile Cavalry Hero armed with an armor piercing Crossbow."
-msgstr ""
+msgstr "Schnelle Heldschützin der Kavallerie mit einer rüstungsdurchdringenden Armbrust "
 
 #: simulation/templates/units/ordona/ordona_hero_mayorbo_b.xml:38
 msgid "Lord Mayor of Ordona Province"
-msgstr ""
+msgstr "Oberbürgermeister von Ordona"
 
 #: simulation/templates/units/ordona/ordona_hero_mayorbo_b.xml:40
 msgid ""
@@ -11100,18 +11138,25 @@ msgid ""
 "Mayor Bo rides on top of his Elder Goat, swinging the family axe into the heads of his "
 "enemies."
 msgstr ""
+"Der Oberbürgermeister und Kopf der gesamten Ordon Provinz. Bürgermeister Boro ist schon länger"
+"im Amt als irgendein anderer Mann der Ordoner. Er ist Er ist beliebt für sein bescheidenes "
+"Auftreten und öfter mal niedere Arbeit zusammen mit den Leibeigenen der Provinz verrichtete."
+"Boro war ein unglaublich zäher Mann und sogar nahm an den Ringkämpfen der Goronen teil. Seine  "
+"Tochter Ilya behauptet das er das Horn von einem Moblin abriß mit dem er eine Wette einging,  "
+"aber er selbst bestreitet dies jemals getan zu haben. In der Schlacht reitet er auf einem "
+"Ziegenältesten, und schwingt die Familienaxt in die Köpfe seiner Feinde"
 
 #: simulation/templates/units/ordona/ordona_hero_mayorbo_b.xml:44
 msgid "Bo"
-msgstr ""
+msgstr "Boro"
 
 #: simulation/templates/units/ordona/ordona_hero_mayorbo_b.xml:45
 msgid "Slow but powerful Melee Cavalry Hero aramed with a lance."
-msgstr ""
+msgstr "Langsamer aber mächtiger Held der Kavallerie mit einer Axt"
 
 #: simulation/templates/units/ordona/ordona_hero_rusl_b.xml:34
 msgid "Knight of Ordon"
-msgstr ""
+msgstr "Ritter von Ordon"
 
 #: simulation/templates/units/ordona/ordona_hero_rusl_b.xml:36
 msgid ""
@@ -11124,18 +11169,26 @@ msgid ""
 "kindness and perhaps most importantly, calmness. Even in sticky situations he "
 "maintained a level head and never showed any signs of panic."
 msgstr ""
+"Für viele in der Ordon Provinz war Moe nur ein einfacher Händler der seine Runden über"
+"Hyrule und Lanayru zug. Diese die ihn persönlich kannten wussten wahrscheinlich über seinen"
+"kleinen militärischen Hintergrund. Anders als die meisten Ordoner wurde Moe an meherern"
+"Militärakademien trainiert und Gerüchten zufolge hat er sogar versucht der erste Ritter"
+"aus Ordona zu werden. Irgendwann hat er seine Studien abgebrochen und wurde zu dem Händler"
+"den jeder kannte. Moe war auch für seine Güte, und wichtiger noch, seine Ruhe bekannt. "
+"Selbst in brenzligen Situationen bewahrte er einen kühlen Kopf und verfiel nie in Panik."
+""
 
 #: simulation/templates/units/ordona/ordona_hero_rusl_b.xml:40
 msgid "Rusl"
-msgstr ""
+msgstr "Moe"
 
 #: simulation/templates/units/ordona/ordona_hero_rusl_b.xml:41
 msgid "Stalwart and durable Melee Hero armed with a sword and shield."
-msgstr ""
+msgstr "Standhafte und wiederspenstige Infeanterie held mit Schwert und Schild."
 
 #: simulation/templates/units/ordona/ordona_horseman_b.xml:33
 msgid "Horseman"
-msgstr ""
+msgstr "Pferdereiter"
 
 #: simulation/templates/units/ordona/ordona_horseman_b.xml:34
 msgid ""
@@ -11144,10 +11197,13 @@ msgid ""
 "shield and wielding a sword, these swift riders could decapitate just about any foe "
 "with a neck."
 msgstr ""
+"Ordona hat die mitunter beste Kavallerie in Hyrule gezüchtet, und diese Horden von berittenen"
+"Kriegern zeigten diesen Stolz such im Eifer des Gefechts. Mit Schwert und SChild bewaffnet, "
+"konnten diese wendigen Reiter so gut wie jeden Gegner mit einem Hals köpfen."
 
 #: simulation/templates/units/ordona/ordona_horseman_b.xml:39
 msgid "Fast moving Melee Cavalry unit armed with swords."
-msgstr ""
+msgstr "Schnelle Kavallerie mit Schwertern"
 
 #: simulation/templates/units/ordona/ordona_lumberjack_b.xml:32
 msgid "Worker Unit"
@@ -11164,7 +11220,7 @@ msgstr ""
 
 #: simulation/templates/units/ordona/ordona_lumberjack_b.xml:37
 msgid "Lumberjack"
-msgstr ""
+msgstr "Holzfäller"
 
 #: simulation/templates/units/ordona/ordona_lumberjack_b.xml:38
 msgid "Strong Melee unit armed with axes. They also excell at harvesting wood from trees."
@@ -11172,7 +11228,7 @@ msgstr ""
 
 #: simulation/templates/units/ordona/ordona_militia_b.xml:33
 msgid "Militia"
-msgstr ""
+msgstr "Miliz"
 
 #: simulation/templates/units/ordona/ordona_militia_b.xml:34
 msgid ""
@@ -11180,14 +11236,17 @@ msgid ""
 "wartime. Often they had basic military training, and while some had state-crafted armor"
 " and swords, just as many brought their own handmade weapons and shields to battle."
 msgstr ""
+"Millizen waren ursprünglich Zivilisten die eingezogen oder freiwillig in den Kriegsdienst"
+zogen Oft hatten sie nur grundlegendes Training und aauch wenn manchen von ihnen Schwert und"
+"Rüstung zur Verfügung gestellt wurde, so brachten viele auch ihre eigene Ausrüstung mit"
 
 #: simulation/templates/units/ordona/ordona_militia_b.xml:38
 msgid "Cheap but eager Melee units armed with a sword and shield."
-msgstr ""
+msgstr "Billige aber eifrige Infanterie mit Schwert und Schild"
 
 #: simulation/templates/units/ordona/ordona_parcher_b.xml:41
 msgid "Peasant Archer"
-msgstr ""
+msgstr "Bauernschützen"
 
 #: simulation/templates/units/ordona/ordona_parcher_b.xml:42
 msgid ""
@@ -11195,14 +11254,17 @@ msgid ""
 "food stocks. At least one member of a Farmer's household was trained in the use of the "
 "bow, and during snowfall would venture into Faron Woods to hunt game."
 msgstr ""
+"Wenn in Hyrules Wintern das Getreide nicht mehr wuchs wurde die Jagd ein Mittel um die "
+"Vorräte zu ergänzen. Mindestens ein Mitglied einer Familie war geübt im Umgang mit einem"
+"Bogen und zogen im Schnee los um im Phirone Wald zu jagen."
 
 #: simulation/templates/units/ordona/ordona_parcher_b.xml:45
 msgid "Cheap light Missile unit that attacks with a bow and arrows."
-msgstr ""
+msgstr "Billige Bogenschützen "
 
 #: simulation/templates/units/ordona/ordona_ranger_b.xml:42
 msgid "Ranger"
-msgstr ""
+msgstr "Waldläufer"
 
 #: simulation/templates/units/ordona/ordona_ranger_b.xml:43
 msgid ""
@@ -11213,19 +11275,26 @@ msgid ""
 "wilderness and take out almost any foe before they knew what hit them. They can snipe "
 "enemies with their Ranger Crossbows as well as switch to using battle axes in a melee."
 msgstr ""
+"Ordoner Waldläufer widmeten sich dem Schutz vor Angriffen über die Wilden Grenzen der "
+"Provinz. Ürsprünglich etablierten sie sich im Westen zum Schutz vor Echsalfos Invasionen"
+"doch mittlerweile sind sie an allen Grenzen Ordons zu finden, von Phirone über die Gerudo"
+"Grenzen und bis zum Hylia See. Diese schleichenden Soldaten wissen wie man in der Wildnis"
+"überlebt und können fast jeden Feind ausschalten bevor sie wissen was sie getroffen hat."
+"Sie können sowohl mit ihren Waldläuferarmbrüsten aus der Distanz als auch mit Streittäxten"
+"im Nahkampf angreifen"
 
 #: simulation/templates/units/ordona/ordona_ranger_b.xml:47
 msgid "Fast moving heavy Missile unit armed with a powerful crossbow."
-msgstr ""
+msgstr "SChnelle schwere Armbrustschützen"
 
 #: simulation/templates/units/ordona/ordona_reverend_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Effigy"
-msgstr ""
+msgstr "Bildnis"
 
 #: simulation/templates/units/ordona/ordona_reverend_b.xml:38
 msgid "Reverend"
-msgstr ""
+msgstr "Pastor"
 
 #: simulation/templates/units/ordona/ordona_reverend_b.xml:39
 msgid ""
@@ -11234,14 +11303,18 @@ msgid ""
 "Mudora and knowledge of the Goddesses to all of Hyrule. These Reverends will preach in "
 "just about any land, be they welcoming or hostile to their intent."
 msgstr ""
+"Zwar ist die Ordon Provinz nicht so Dogmatisch wie Hyrules religiöse Institutionen aber"
+"ihre Priester sind dafür umso passionierter und ausdrucksvoll und predigeen aus dem  "
+"Buch von Mudora und das Wissen der Göttinnen in ganz Hyrule. Diese Pastoren predigen"
+"in fast jedem Land ob sie willkommen geheißen werden oder auch nicht."
 
 #: simulation/templates/units/ordona/ordona_reverend_b.xml:44
 msgid "Support unit with several buffing abilities."
-msgstr ""
+msgstr "Unterstützungseinheit mit meheren stärkenden Fähigkeiten."
 
 #: simulation/templates/units/ordona/ordona_roughrider_b.xml:33
 msgid "Rough Rider"
-msgstr ""
+msgstr Zureiter"
 
 #: simulation/templates/units/ordona/ordona_roughrider_b.xml:35
 msgid ""
@@ -11252,16 +11325,22 @@ msgid ""
 "particularly durable, they swing a ferocious axe in a fight and can deal some serious "
 "damage. When things are too tough they can easily retreat before it's too late."
 msgstr ""
+"Ein spezielles Batttalion an von Pferdereitern das auf Überfälle spezialisiert ist."
+"Die Zureiter gehen voll und ganz auf Geschwindigkeit um es feindlichen Schützen zu erschweren"
+"sie zu treffen sei es Pfeile oder Kugeln. Sie sind die schnellste Kavallerie in der bekannten "
+"Welt und nichts und niemand kann darauf hoffen mit Ihnen mitzuhalten. Zwar sind sie nicht "
+"besonders wiederstandsfähig aber ein SChwung mit ihrer Axt kann im Gegenzug großen SChaden"
+"verursachen und falls die Situation brenzlig wird können sie sich schnell zurückziehen."
 
 #: simulation/templates/units/ordona/ordona_roughrider_b.xml:40
 msgid ""
 "Ilia's Unique Unit. Melee Cavalry unit armed with axes. The fastest Cavalry in all of "
 "Hyrule."
-msgstr ""
+msgstr "Ilyas einzigartige Einheit. Kavallerie mit Äxten. Die schnellste Kavallerie in ganz Hyrule"
 
 #: simulation/templates/units/ordona/ordona_sergeant_b.xml:38
 msgid "Sergeant"
-msgstr ""
+msgstr "Edelknechte"
 
 #: simulation/templates/units/ordona/ordona_sergeant_b.xml:39
 msgid ""
@@ -11273,15 +11352,21 @@ msgid ""
 "swordplay (as well as to keep costs down), Sergeants were outfitted with easy-to-use "
 "spears."
 msgstr ""
+"Zivilisten aus Familien von mittlerem Reichtum und Ansehen wurden aus der Ordon Provinz "
+"in den Militäardienst eingezogen, trainiert und als abrufbereite Arme bereit gestellt."
+"Die meiste Zeit gingen sie ihren alltäglichen Tätigkeiten nach würden aber im Ernstfall"
+"alles stehen und liegen lassen um nach den Waffen zugrefien. Die Edelknechte durchliefen"
+"nur ein grobes Training wie es in der Provinz übrig war und um Zeit (und Kosten) zu sparen "
+"wurden sie statt eines Schwertes mit einer einfach zu handhabenden Lanze ausgerüstet."
 
 #: simulation/templates/units/ordona/ordona_sergeant_b.xml:43
 msgid "Melee unit wearing decent armor and armed with a spear."
-msgstr ""
+msgstr "Infanterie mit ordentlicher Rüstung und einer Lanze"
 
 #: simulation/templates/units/ordona/ordona_shepherd_b.xml:27
 #: simulation/templates/units/ordona/ordona_shepherd_b.xml:33
 msgid "Shepherd"
-msgstr ""
+msgstr "Ziegenhirtin"
 
 #: simulation/templates/units/ordona/ordona_shepherd_b.xml:28
 msgid ""
@@ -11422,7 +11507,7 @@ msgstr ""
 
 #: simulation/templates/units/ordona/ordona_yeoman_b.xml:38
 msgid "Yeoman"
-msgstr ""
+msgstr "Freibauer"
 
 #: simulation/templates/units/ordona/ordona_yeoman_b.xml:39
 msgid ""
