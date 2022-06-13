@@ -4337,7 +4337,7 @@ msgstr "Hyliánský Div."
 #: simulation/templates/structures/kokiri/kokiri_barracks.xml:32
 #: simulation/templates/structures/kokiri/kokiri_fightingyard.xml:25
 msgid "Fighting Yard"
-msgstr ""
+msgstr "Bojiště"
 
 #: simulation/templates/structures/kokiri/kokiri_barracks.xml:33
 #: simulation/templates/structures/kokiri/kokiri_grove_barracks.xml:25
@@ -4346,32 +4346,35 @@ msgid ""
 "with simple swords, sticks, and kitchen tools so as to be ready to defend their "
 "villages from predators."
 msgstr ""
+"Jednoduchý hájek s bojovými figurínami, Kokiři zde občas chodili přít se s jendoduchými "
+"meči, klacky, a kuchyňským náčiním aby byli připraveni bránit své vesnice před predátory."
 
 #: simulation/templates/structures/kokiri/kokiri_barracks.xml:35
 msgid "Trains many Kokiri combat units."
-msgstr ""
+msgstr "Trénuje mnohé Kokirské bojové jednotky."
 
 #: simulation/templates/structures/kokiri/kokiri_barracksB.xml:32
 msgid "Korok Colony"
-msgstr ""
+msgstr "Korokská Kolonie"
 
 #: simulation/templates/structures/kokiri/kokiri_barracksB.xml:35
 msgid "Trains Korok and Deku Tree units."
-msgstr ""
+msgstr "Trénuje Korokské jednotky a Deku Stromy."
 
 #: simulation/templates/structures/kokiri/kokiri_blacksmith.xml:30
 msgid "Wood Carvers"
-msgstr ""
+msgstr "Řezbářství"
 
 #: simulation/templates/structures/kokiri/kokiri_blacksmith.xml:31
 msgid ""
 "Skilled Kokiri craftsman carve wood into many different forms for a wide variety of "
 "uses."
 msgstr ""
+"Zkušení Kokirští řemeslníci řežou dřevo do rýzných tvarů pro široká využití."
 
 #: simulation/templates/structures/kokiri/kokiri_blacksmith.xml:34
 msgid "Upgrades Kokiri armor and weapons."
-msgstr ""
+msgstr "Vylepšuje Kokirské brnění a zbraně."
 
 #: simulation/templates/structures/kokiri/kokiri_bridgeA.xml:9
 #: simulation/templates/structures/lanayru/lanayru_bridgeA.xml:20
@@ -4381,7 +4384,7 @@ msgstr ""
 #: simulation/templates/structures/zora/zora_bridgeA.xml:12
 #: simulation/templates/structures/zora/zora_bridgeB.xml:12
 msgid "Bridge"
-msgstr ""
+msgstr "Most"
 
 #: simulation/templates/structures/kokiri/kokiri_camp.xml:33
 msgid ""
@@ -4391,47 +4394,48 @@ msgstr ""
 
 #: simulation/templates/structures/kokiri/kokiri_camp.xml:35
 msgid "Center of a Kokiri Camp."
-msgstr ""
+msgstr "Centrum Kokirského tábora."
 
 #: simulation/templates/structures/kokiri/kokiri_civil_centre.xml:149
 msgid "Safehold"
-msgstr ""
+msgstr "Útočiště"
 
 #: simulation/templates/structures/kokiri/kokiri_civil_centre.xml:152
 msgid ""
 "Center of a Kokiri Settlement. Summons Kokiri Heroes. Manned with Slingshotters for "
 "defense."
 msgstr ""
+"Cntrum Kokirského města. Povolává Kokirské hrdiny. Obsazeno Střelci z Praku pro obranu."
 
 #: simulation/templates/structures/kokiri/kokiri_defense_tower.xml:98
 #: simulation/templates/structures/kokiri/kokiri_defense_towerB.xml:98
 msgid "Defensive Tower manned by Slingshotters."
-msgstr ""
+msgstr "Obranná věž obsazena Střelci z Praku."
 
 #: simulation/templates/structures/kokiri/kokiri_elkglade.xml:25
 msgid "Elk Glade"
-msgstr ""
+msgstr "Losí Mýtina"
 
 #: simulation/templates/structures/kokiri/kokiri_elkglade.xml:26
 msgid "A hidden glade that Kokiri Deer may graze at in peace."
-msgstr ""
+msgstr "Ukrytá mýtina kde se mohou Kokirští srnci v klidu pást."
 
 #: simulation/templates/structures/kokiri/kokiri_elkglade.xml:28
 msgid "Trains Kokiri Cavalry units."
-msgstr ""
+msgstr "Trénuje Kokirské jezdecké jednotky."
 
 #: simulation/templates/structures/kokiri/kokiri_fairyseclude.xml:25
 #: simulation/templates/structures/kokiri/kokiri_seclude.xml:29
 msgid "Forest Seclude"
-msgstr ""
+msgstr "Lesní Samotka"
 
 #: simulation/templates/structures/kokiri/kokiri_fairyseclude.xml:26
 msgid "A refuge for rogue Fairies that have fled deep into the forest."
-msgstr ""
+msgstr "Útočiště pro tulácké Víly které utekly hluboko do lesa."
 
 #: simulation/templates/structures/kokiri/kokiri_fairyseclude.xml:28
 msgid "Trains various ranged and Mage units."
-msgstr ""
+msgstr "Trénuje různé na dálku útočící a magické jednotk."
 
 #: simulation/templates/structures/kokiri/kokiri_farm.xml:22
 msgid "Kokiri Berry Bush"
@@ -4444,34 +4448,35 @@ msgstr ""
 #: simulation/templates/structures/kokiri/kokiri_farmstead.xml:34
 #: simulation/templates/structures/kokiri/kokiri_field.xml:26
 msgid "Berry Seeders"
-msgstr ""
+msgstr "Borůvková Zahrada"
 
 #: simulation/templates/structures/kokiri/kokiri_farmstead.xml:35
 msgid ""
 "A small farm that grows Berry Bushes for the Kokiri to Harvest. Periodically spawns a "
 "Berry Bush near the Community Grove, up to a maximum of seven."
 msgstr ""
+"Malá farma která pěstuje Borůvkové keře aby je Kokiři mohli sklízet."
 
 #: simulation/templates/structures/kokiri/kokiri_farmstead.xml:37
 #: simulation/templates/structures/kokiri/kokiri_field.xml:29
 msgid "Creates Berry Bushes that can be harvested for Food."
-msgstr ""
+msgstr "Generuje jídlo."
 
 #: simulation/templates/structures/kokiri/kokiri_field.xml:27
 msgid "A small farm that grows Berry Bushes for the Kokiri to Harvest."
-msgstr ""
+msgstr "Malá farma která pěstuje Borůvkové keře aby je Kokiři mohli sklízet."
 
 #: simulation/templates/structures/kokiri/kokiri_fightingyard.xml:26
 msgid "Yard set aside with combat dummies for training Kokiri fighters."
-msgstr ""
+msgstr "Hájek s bojovými figurínami pro trénink Kokirských bojovníků."
 
 #: simulation/templates/structures/kokiri/kokiri_fightingyard.xml:28
 msgid "Trains Kokiri Infantry units."
-msgstr ""
+msgstr "Trénuje Kokirské pěší jednotky."
 
 #: simulation/templates/structures/kokiri/kokiri_grove_barracks.xml:24
 msgid "Battle Grove"
-msgstr ""
+msgstr "Bojový Háj"
 
 #: simulation/templates/structures/kokiri/kokiri_grove_barracks.xml:27
 msgid "Grove that can build Barracks Add-Ons and train units."
@@ -4483,15 +4488,15 @@ msgstr ""
 #: simulation/templates/structures/kokiri/kokiri_grove_market.xml:29
 #: simulation/templates/structures/kokiri/kokiri_outpost.xml:75
 msgid "Grove"
-msgstr ""
+msgstr "Háj"
 
 #: simulation/templates/structures/kokiri/kokiri_grove_blacksmith.xml:25
 msgid "Crafting Grove"
-msgstr ""
+msgstr "Řemeslnický Háj"
 
 #: simulation/templates/structures/kokiri/kokiri_grove_blacksmith.xml:26
 msgid "A Grove dedicated to improving Kokiri buildings and units through crafting and training."
-msgstr ""
+msgstr "Háj určený k vylepšování Kokirských budov a jednotek řemeslnictvím a tréninkem."
 
 #: simulation/templates/structures/kokiri/kokiri_grove_blacksmith.xml:29
 msgid "Grove that can build Research Add-Ons."
@@ -4499,7 +4504,7 @@ msgstr ""
 
 #: simulation/templates/structures/kokiri/kokiri_grove_forest.xml:24
 msgid "Forest Grove"
-msgstr ""
+msgstr "Lesní Háj"
 
 #: simulation/templates/structures/kokiri/kokiri_grove_forest.xml:25
 #: simulation/templates/structures/kokiri/kokiri_seclude.xml:30
@@ -4528,35 +4533,39 @@ msgstr ""
 
 #: simulation/templates/structures/kokiri/kokiri_house.xml:35
 msgid "Community Homes"
-msgstr ""
+msgstr "Komunitní Domy"
 
 #: simulation/templates/structures/kokiri/kokiri_house.xml:36
 msgid "A nice and simple home that the Kokiri live in."
-msgstr ""
+msgstr "Pěkný a jednoduchý dům ve kterém žijí Kokiři."
 
 #: simulation/templates/structures/kokiri/kokiri_market.xml:35
 msgid "Fairgrounds"
-msgstr ""
+msgstr "Výstaviště"
 
 #: simulation/templates/structures/kokiri/kokiri_market.xml:36
 msgid ""
 "Plenty of shops, food, and fun for the entire community. Resources can be bartered and "
 "traded here."
 msgstr ""
+"Spoustu obchodů, jídla a zábavy pro celou komunitu. Zde se dá obchodovat a vyměňovat se "
+"zdroji."
 
 #: simulation/templates/structures/kokiri/kokiri_mercs.xml:25
 msgid "Forest Lodge"
-msgstr ""
+msgstr "Lesní Myslivna"
 
 #: simulation/templates/structures/kokiri/kokiri_mercs.xml:26
 msgid "Allows the Kokiri to hire Mercenary units."
-msgstr ""
+msgstr "Umožňuje Kokirům najímat žoldácké jednotky."
 
 #: simulation/templates/structures/kokiri/kokiri_mercs.xml:29
 msgid ""
 "Resting place, shop, and bar for travelers passing through the forest who are more than"
 " willing to help out for some Rupees."
 msgstr ""
+"Odpočívadlo, obchod a bar pro cestovatele procházející lesem kteří jsou více než ochotní "
+"pomoci za trochu Rupií."
 
 #: simulation/templates/structures/kokiri/kokiri_mudcolony.xml:25
 msgid "Mudmen Colony"
@@ -4574,15 +4583,15 @@ msgstr ""
 
 #: simulation/templates/structures/kokiri/kokiri_obstacle.xml:25
 msgid "Obstacle Course"
-msgstr ""
+msgstr "Překážková Dráha"
 
 #: simulation/templates/structures/kokiri/kokiri_obstacle.xml:26
 msgid "Rigorous training ground for improving the skill of Kokiri warriors."
-msgstr ""
+msgstr "Tvrdé cvičiště pro zlepšení dovedností Kokirských váečníků."
 
 #: simulation/templates/structures/kokiri/kokiri_obstacle.xml:29
 msgid "Improves many Kokiri Infantry units."
-msgstr ""
+msgstr "Zlepšuje mnohé Kokirké pěší jednotky."
 
 #: simulation/templates/structures/kokiri/kokiri_outpost.xml:76
 msgid ""
@@ -4590,12 +4599,17 @@ msgid ""
 "bring their concerns to their local Chief, and receive daily chores and orders in "
 "return."
 msgstr ""
+"Háje sloužící jako centra pro mného Kokirské komunity. Mnozí se zde často "
+"shromažďovali aby přednesli své starosti místním náčelníkům, a naopak zde dostali "
+"své denní práce a rozkazy."
 
 #: simulation/templates/structures/kokiri/kokiri_outpost.xml:78
 msgid ""
 "Center of a Kokiri Outpost. Summons Kokiri Heroes. Manned with Slingshotters for "
 "defense."
 msgstr ""
+"Centrum Kokirské základny. Povolává Kokirské jednotky. Obsazeny Střelci z Praků "
+"pro obranu."
 
 #: simulation/templates/structures/kokiri/kokiri_plot_medium.xml:25
 #: simulation/templates/structures/kokiri/kokiri_plot_medium_S.xml:25
@@ -4605,56 +4619,56 @@ msgstr ""
 #: simulation/templates/structures/kokiri/kokiri_plot_wallmedium.xml:25
 #: simulation/templates/structures/kokiri/kokiri_plot_walltower.xml:25
 msgid "Constructs Kokiri Buildings on this space."
-msgstr ""
+msgstr "Na tomto místě staví Kokirské budovy."
 
 #: simulation/templates/structures/kokiri/kokiri_plot_medium.xml:50
 #: simulation/templates/structures/kokiri/kokiri_plot_medium_S.xml:50
 msgid "Build Community Homes on this plot."
-msgstr ""
+msgstr "Postavit Komunitní Domy na této parcele."
 
 #: simulation/templates/structures/kokiri/kokiri_plot_medium.xml:59
 #: simulation/templates/structures/kokiri/kokiri_plot_medium_S.xml:59
 msgid "Build Berry Seeders on this plot."
-msgstr ""
+msgstr "Postavit Borůvkovou Zahradu na této parcele."
 
 #: simulation/templates/structures/kokiri/kokiri_plot_medium.xml:68
 #: simulation/templates/structures/kokiri/kokiri_plot_medium_S.xml:68
 msgid "Build Fairgrounds on this plot."
-msgstr ""
+msgstr "Postavit Výstaviště na této parcele."
 
 #: simulation/templates/structures/kokiri/kokiri_plot_medium.xml:77
 #: simulation/templates/structures/kokiri/kokiri_plot_medium_S.xml:77
 msgid "Build Fighting Yard on this plot."
-msgstr ""
+msgstr "Postavit Bojiště na této parcele."
 
 #: simulation/templates/structures/kokiri/kokiri_plot_medium.xml:86
 #: simulation/templates/structures/kokiri/kokiri_plot_medium_S.xml:86
 msgid "Build Forest Seclude on this plot."
-msgstr ""
+msgstr "Postavit Lesní Samotku na této parcele."
 
 #: simulation/templates/structures/kokiri/kokiri_plot_medium.xml:96
 #: simulation/templates/structures/kokiri/kokiri_plot_medium_S.xml:96
 msgid "Build Korok Colony on this plot."
-msgstr ""
+msgstr "Postavit Korokskou na této parcele."
 
 #: simulation/templates/structures/kokiri/kokiri_plot_medium.xml:106
 #: simulation/templates/structures/kokiri/kokiri_plot_medium_S.xml:106
 msgid "Build Forest Shrine on this plot."
-msgstr ""
+msgstr "Postavit Lesní Svatyni na této parcele."
 
 #: simulation/templates/structures/kokiri/kokiri_plot_medium.xml:116
 #: simulation/templates/structures/kokiri/kokiri_plot_medium_S.xml:116
 msgid "Build Wood Carvers on this plot."
-msgstr ""
+msgstr "Postavit Řezbařství na této parcele."
 
 #: simulation/templates/structures/kokiri/kokiri_plot_tower.xml:51
 #: simulation/templates/structures/sheikah/sheikah_plot_tower.xml:51
 msgid "Build Watch Tower on this plot."
-msgstr ""
+msgstr "Postavit Strážní Věž na této parcele."
 
 #: simulation/templates/structures/kokiri/kokiri_publichanging.xml:43
 msgid "Public Hangings"
-msgstr ""
+msgstr "Veřejné Věšení"
 
 #: simulation/templates/structures/kokiri/kokiri_publichanging.xml:44
 msgid ""
@@ -4662,14 +4676,17 @@ msgid ""
 " deal with these criminals they hang them publicly by their undergarments for all to "
 "point and laugh at. A crude and painful, but very effective means of punishment."
 msgstr ""
+"Kokirští zločinci jsou vzácní, ale existují. Kokiři jsou velice snadno zostuzeni, a aby "
+"se vypořádali s těmito zločinci, veřejně je pověsili za spodní prádlo aby na ně všichni "
+"ukazovali prsty a smáli se jim. Krutý a bolestný, ale velice eektivní způsob trestu."
 
 #: simulation/templates/structures/kokiri/kokiri_publichanging.xml:47
 msgid "Structure that boosts the performance of Kokiri Structures."
-msgstr ""
+msgstr "Budova která posiluje výkon jiných Kokirských budov."
 
 #: simulation/templates/structures/kokiri/kokiri_seclude.xml:33
 msgid "Trains Creature and Cavalry units."
-msgstr ""
+msgstr "Trénuje tvory a jezdecké jednotky."
 
 #: simulation/templates/structures/kokiri/kokiri_storehouse.xml:26
 msgid "A large shed and stash to keep equipment and gathered resources."
@@ -4681,36 +4698,37 @@ msgstr ""
 
 #: simulation/templates/structures/kokiri/kokiri_targetrange.xml:25
 msgid "Target Range"
-msgstr ""
+msgstr "Střelnice"
 
 #: simulation/templates/structures/kokiri/kokiri_targetrange.xml:26
 msgid "A testing ground for aim and skill of Slingshottery and Archery."
-msgstr ""
+msgstr "Střelnice pro testování míření a schopnost střelců z praků a lučištnictví."
 
 #: simulation/templates/structures/kokiri/kokiri_targetrange.xml:29
 msgid "Improves ranged units."
-msgstr ""
+msgstr "Vylepšuje jednotky na dálku."
 
 #: simulation/templates/structures/kokiri/kokiri_temple.xml:30
 msgid "Forest Shrine"
-msgstr ""
+msgstr "Lesní Svatyně"
 
 #: simulation/templates/structures/kokiri/kokiri_temple.xml:31
 msgid "A place of worship dedicated to Farore and other forgotten forest deities. "
-msgstr ""
+msgstr "Uctívací místo zasvěceno Farore a jiným zapomenutým lesním bohům."
 
 #: simulation/templates/structures/kokiri/kokiri_temple.xml:34
 msgid ""
 "Religious structure that increases the spread of territory. Trains various support "
 "units."
 msgstr ""
+"Náboženská budova která zlepšuje rozsah teritoria. Trénuje různé podpůrné jednotky."
 
 #: simulation/templates/structures/kokiri/kokiri_wall_curved.xml:49
 #: simulation/templates/structures/kokiri/kokiri_wall_long.xml:49
 #: simulation/templates/structures/kokiri/kokiri_wall_medium.xml:39
 #: simulation/templates/structures/kokiri/kokiri_wall_short.xml:15
 msgid "Kokiri Wall"
-msgstr ""
+msgstr "Kokirská Zeď"
 
 #: simulation/templates/structures/kokiri/kokiri_wall_curved.xml:50
 #: simulation/templates/structures/kokiri/kokiri_wall_gate.xml:19
@@ -4719,19 +4737,19 @@ msgstr ""
 #: simulation/templates/structures/kokiri/kokiri_wall_short.xml:16
 #: simulation/templates/structures/kokiri/kokiri_wall_tower.xml:17
 msgid "The wooden Kokiri walls were durable enough and served them well keeping out invaders."
-msgstr ""
+msgstr "Dřevěné Kokirské zdi byly dost odolné a dobře jim sloužily proti útočníkům."
 
 #: simulation/templates/structures/kokiri/kokiri_wall_gate.xml:18
 msgid "Kokiri Gate"
-msgstr ""
+msgstr "Kokirská Brána"
 
 #: simulation/templates/structures/kokiri/kokiri_wall_tower.xml:16
 msgid "Kokiri Wall Tower"
-msgstr ""
+msgstr "Kokirská Hradební Věž"
 
 #: simulation/templates/structures/kokiri/kokiri_wall_tower.xml:39
 msgid "Man this tower with Slingshotters."
-msgstr ""
+msgstr "Obsaďtě tuto věž Střelci z Praku."
 
 #: simulation/templates/structures/kokiri/kokiri_wonder.xml:13
 msgid ""
@@ -4740,14 +4758,18 @@ msgid ""
 "Kokiri Forest and Kasuto himself. The Kokiri come to this grove to give reverence to "
 "their master, and consider the ring sacred ground."
 msgstr ""
+"Odpočívadlo Kasuta, Velkého Deku Stromu, ze kterého hlídá svoje lesní impérium. Samotný "
+"háj je neuvěřitelně starověký, starší než většina stávajícího Kokirského lesa a samotný "
+"Kasuto. Kokiři chodili k tomuto háji vzdávat hold jejich pánovi, a považovali tento kruh "
+"za posvátnou půdu."
 
 #: simulation/templates/structures/kokiri/kokiri_wonder.xml:16
 msgid "Great Deku Tree's Grove"
-msgstr ""
+msgstr "Hájek Velkého Deku Stromu"
 
 #: simulation/templates/structures/kokiri/kokiri_wonder.xml:17
 msgid "The Kokiri Wonder, allows you to summon the Great Deku Tree."
-msgstr ""
+msgstr "Kokirský Div."
 
 #: simulation/templates/structures/labrynna/labrynna_barracks.xml:33
 msgid "Drill Hall"
