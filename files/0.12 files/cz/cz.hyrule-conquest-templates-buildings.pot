@@ -4773,7 +4773,7 @@ msgstr "Kokirský Div."
 
 #: simulation/templates/structures/labrynna/labrynna_barracks.xml:33
 msgid "Drill Hall"
-msgstr ""
+msgstr "Cvičná Hala"
 
 #: simulation/templates/structures/labrynna/labrynna_barracks.xml:34
 msgid ""
@@ -4781,14 +4781,16 @@ msgid ""
 "policies of the Kingdom. From these halls both the Homeguards and Borderguards were "
 "educated and released to defend the Kingdom."
 msgstr ""
+"Budoucí vojáci Labrynny podstupovali nejlepší možný trénink podle zákonů Království. "
+"V těchto halách byli Domobranci a Hraničáři vyškoleni a posláni bránit Království."
 
 #: simulation/templates/structures/labrynna/labrynna_barracks.xml:36
 msgid "Trains a variety of Labrynnian units."
-msgstr ""
+msgstr "Trénuje různé Labrynnské jednotky."
 
 #: simulation/templates/structures/labrynna/labrynna_barracksB.xml:34
 msgid "War Academy"
-msgstr ""
+msgstr "Válečná Akademie"
 
 #: simulation/templates/structures/labrynna/labrynna_barracksB.xml:35
 msgid ""
@@ -4796,10 +4798,13 @@ msgid ""
 "given rise to many of the Kingdom's most notable warriors. Often only those from "
 "nobility could afford to be educated at the Academy."
 msgstr ""
+"Považované za některé z nejlepších škol v Království Labrynnském, tyto akademie "
+"vyškolily mnohé z nejvýznamnějších válečníků Království. Často si mohli být vyučováni "
+"v akademii jen šlechtici."
 
 #: simulation/templates/structures/labrynna/labrynna_barracksB.xml:38
 msgid "Trains a variety of advanced Labrynnian units."
-msgstr ""
+msgstr "Trénuje různé pokročilé Labrynnské jednotky."
 
 #: simulation/templates/structures/labrynna/labrynna_blacksmith.xml:31
 msgid ""
