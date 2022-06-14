@@ -4812,10 +4812,12 @@ msgid ""
 "their scholars and proffessors could draw on the past to educate and bring forth new "
 "discoveries."
 msgstr ""
+"Labrynna byla známá svou sbírkou vědomostí v jejích mnohých knihovnách. Zde se mohli "
+"její učenci a profesoři pučit o minulosti aby mohli učit a dojít k novým objevům."
 
 #: simulation/templates/structures/labrynna/labrynna_blacksmith.xml:34
 msgid "Researches various technologies."
-msgstr ""
+msgstr "Zkoumá různé technologie."
 
 #: simulation/templates/structures/labrynna/labrynna_camp.xml:33
 msgid ""
@@ -4825,21 +4827,23 @@ msgstr ""
 
 #: simulation/templates/structures/labrynna/labrynna_camp.xml:35
 msgid "Center of a Labrynnian Camp."
-msgstr ""
+msgstr "Centrum Labrynnského tábora."
 
 #: simulation/templates/structures/labrynna/labrynna_circus.xml:30
 msgid "Circus"
-msgstr ""
+msgstr "Cirkus"
 
 #: simulation/templates/structures/labrynna/labrynna_circus.xml:31
 msgid ""
 "A collection of fauna that are trained for many purposes, from entertaining the "
 "citizens of Labrynna to participating in battle."
 msgstr ""
+"Sbírka fauny která je trénovaná pro různé účely, od pobavení Labrynnských občanů "
+"po účasti v boji."
 
 #: simulation/templates/structures/labrynna/labrynna_circus.xml:34
 msgid "Trains Cavalry and Creature units."
-msgstr ""
+msgstr "Trénuje jezdecké jednotky a tvory."
 
 #: simulation/templates/structures/labrynna/labrynna_civil_centre.xml:75
 msgid ""
@@ -4847,40 +4851,49 @@ msgid ""
 "provides Batches of slaves and storage for gathered resources; all that the Empire "
 "needs to begin expansion and train their forces."
 msgstr ""
+"Srdce ze kterého Labrynna řídí všechna svá řízení. Vesnické centrum poskytuje dělníky "
+"a sklad pro zdroje; všechno co království potřebuje k započnutí expanze a tréninku "
+"jejich sil."
 
 #: simulation/templates/structures/labrynna/labrynna_civil_centre.xml:77
 msgid ""
 "Center of a Labrynnian Settlement. Summons Labrynnian Heroes. Manned with archers for "
 "defense."
 msgstr ""
+"Centrum Labrynnského města. Povolává Labrynnské hrdiny. Obsazeno lukostřelci pro "
+"obranu."
 
 #: simulation/templates/structures/labrynna/labrynna_defense_tower.xml:59
 msgid "Guardpost"
-msgstr ""
+msgstr "Strážní Stanoviště"
 
 #: simulation/templates/structures/labrynna/labrynna_defense_tower.xml:60
 msgid ""
 "The Guardpost served as a defensive fortification for Labrynnian soldiers to use in "
 "holding off attackers."
 msgstr ""
+"Strážní Stanoviště sloužilo jako obranné opevnění pro Labrynnské vojáky které mohli "
+"využít k odražení útočníků."
 
 #: simulation/templates/structures/labrynna/labrynna_defense_tower.xml:63
 msgid "Defense Tower that attacks enemies with crossbow bolts."
-msgstr ""
+msgstr "Obranná věž která útočí na nepřátele šipkami z kuší."
 
 #: simulation/templates/structures/labrynna/labrynna_defense_towerB.xml:63
 msgid "Gunner Post"
-msgstr ""
+msgstr "Střelecké Stanoviště"
 
 #: simulation/templates/structures/labrynna/labrynna_defense_towerB.xml:64
 msgid ""
 "The Gunner Post served as a defensive fortification for Labrynnian Musketmen to use in "
 "holding off attackers."
 msgstr ""
+"Střelecké Stanoviště sloužilo jako obranné opevnění pro Labrynnské vojáky které mohli "
+"využít k odražení útočníků."
 
 #: simulation/templates/structures/labrynna/labrynna_defense_towerB.xml:67
 msgid "Defense Tower that attacks enemies with gunpowder bolts."
-msgstr ""
+msgstr "Obranná věž která útočí na nepřátele střelnými kulkami."
 
 #: simulation/templates/structures/labrynna/labrynna_field.xml:19
 msgid ""
@@ -4888,10 +4901,13 @@ msgid ""
 " conquest. Tokay Slaves would flood these fields to gather the ever increasing demands "
 "of the Labrynnian people."
 msgstr ""
+"Levná a snadno pěstovaná zelenina se stala mandátem království v jejich dobyvatelskou "
+"kampaní. Dělníci se hrnuli na tato pole aby sklidili stále se zvětšující poptávku "
+"Labrynnského lidu."
 
 #: simulation/templates/structures/labrynna/labrynna_field.xml:21
 msgid "Grows food that can be gathered by Worker units."
-msgstr ""
+msgstr "Generuje jídlo."
 
 #: simulation/templates/structures/labrynna/labrynna_fortress.xml:160
 msgid "Star Fort"
@@ -4907,7 +4923,7 @@ msgstr ""
 
 #: simulation/templates/structures/labrynna/labrynna_house.xml:25
 msgid "Villa"
-msgstr ""
+msgstr "Villa"
 
 #: simulation/templates/structures/labrynna/labrynna_house.xml:26
 msgid ""
@@ -4915,73 +4931,79 @@ msgid ""
 "generated from their expansion allowed for higher levels of living compared to before "
 "the Empire."
 msgstr ""
+"Labrynnské domy byly kvalitnější podle standartů jejich sousedů. Bohatství generováno "
+"jejich expanzí umožnilo vyšší životní úrovně v porovnání před královstvím."
 
 #: simulation/templates/structures/labrynna/labrynna_market.xml:25
 msgid "Bodega"
-msgstr ""
+msgstr "Bodega"
 
 #: simulation/templates/structures/labrynna/labrynna_market.xml:26
 msgid ""
 "A small but bustling center for trade and barter within Labrynna. These markets export "
 "Labrynnian goods and bring in valuables from foreign nations."
 msgstr ""
+"Malé ale rušné centrum pro výměnu a obchod v Labrynné. Tyto trhy exportovaly zboží a "
+"přinášely cennosti z cizích zemí."
 
 #: simulation/templates/structures/labrynna/labrynna_outpost.xml:71
 msgid ""
 "Center of a Labrynnian Outpost. Summons Labrynnian Heroes. Manned with archers for "
 "defense."
 msgstr ""
+"Centrum Labrynnské základny. Povolává Labrynnské hrdiny. Obsazeno lučištníky pro "
+"obranu."
 
 #: simulation/templates/structures/labrynna/labrynna_plot_medium.xml:25
 msgid "Constructs Labrynnian Buildings on this space."
-msgstr ""
+msgstr "Na tomto místě tvoří Labrynnské budovy."
 
 #: simulation/templates/structures/labrynna/labrynna_plot_medium.xml:50
 msgid "Build Villa on this plot."
-msgstr ""
+msgstr "Postavit Villu na této parcele."
 
 #: simulation/templates/structures/labrynna/labrynna_plot_medium.xml:59
 msgid "Build Farm on this plot."
-msgstr ""
+msgstr "Postavit Farmu na této parcele."
 
 #: simulation/templates/structures/labrynna/labrynna_plot_medium.xml:68
 msgid "Build Bodega on this plot."
-msgstr ""
+msgstr "Postavit Bodegu na této parcele."
 
 #: simulation/templates/structures/labrynna/labrynna_plot_medium.xml:78
 msgid "Build Drill Hall on this plot."
-msgstr ""
+msgstr "Postavit Cvičnou Halu na této parcele."
 
 #: simulation/templates/structures/labrynna/labrynna_plot_medium.xml:87
 msgid "Build Academy on this plot."
-msgstr ""
+msgstr "Postavit Válečnou Akademii na této parcele."
 
 #: simulation/templates/structures/labrynna/labrynna_plot_medium.xml:97
 msgid "Build Circus on this plot."
-msgstr ""
+msgstr "Postavit Cirkus na této parcele."
 
 #: simulation/templates/structures/labrynna/labrynna_plot_medium.xml:107
 msgid "Build Powder Maker on this plot."
-msgstr ""
+msgstr "Postavit Výrobnu Střelného Prachu na této parcele."
 
 #: simulation/templates/structures/labrynna/labrynna_plot_medium.xml:117
 msgid "Build Library on this plot."
-msgstr ""
+msgstr "Postavit Knihovnu na této parcele."
 
 #: simulation/templates/structures/labrynna/labrynna_plot_tower.xml:25
 msgid "Constructs Labrynnian Towers on this space."
-msgstr ""
+msgstr "Postavit Labrynnské Věže na tomto místě."
 
 #: simulation/templates/structures/labrynna/labrynna_plot_tower.xml:61
 #: simulation/templates/structures/labrynna/labrynna_stone_wall_tower.xml:45
 msgid "Man this tower with Musketmen."
-msgstr ""
+msgstr "Obsadit tuto věž Mušketýry"
 
 #: simulation/templates/structures/labrynna/labrynna_plot_wallcannon.xml:25
 #: simulation/templates/structures/labrynna/labrynna_plot_wallmedium.xml:25
 #: simulation/templates/structures/labrynna/labrynna_plot_walltower.xml:25
 msgid "Constructs Labrynnian Walls on this space."
-msgstr ""
+msgstr "Postavit na tomto místě Labrynnské zdi."
 
 #: simulation/templates/structures/labrynna/labrynna_sandbag_long.xml:18
 #: simulation/templates/structures/labrynna/labrynna_sandbag_medium.xml:18
@@ -4990,7 +5012,7 @@ msgstr ""
 #: simulation/templates/structures/labrynna/labrynna_wallset_sandbag.xml:4
 #: simulation/templates/structures/labrynna/labrynna_wallset_sandbag.xml:8
 msgid "Sandbags"
-msgstr ""
+msgstr "Pytle s Pískem"
 
 #: simulation/templates/structures/labrynna/labrynna_sandbag_long.xml:19
 #: simulation/templates/structures/labrynna/labrynna_sandbag_medium.xml:19
@@ -5002,6 +5024,9 @@ msgid ""
 "would create makeshift walls form them, allowing their Gunpowder units to take shots at"
 " Cavalry that could not charge into them."
 msgstr ""
+"Labrynnci využívali pytle naplněné pískem k širokým účelům. Pionýři z nich stavěli "
+"provizorní zdi, což umožňovalo jejim střelům střílet na jezdectvo které do nich nemohlo "
+"najet."
 
 #: simulation/templates/structures/labrynna/labrynna_sandbag_long.xml:21
 #: simulation/templates/structures/labrynna/labrynna_sandbag_medium.xml:21
@@ -5009,11 +5034,11 @@ msgstr ""
 #: simulation/templates/structures/labrynna/labrynna_sandbag_tower.xml:21
 #: simulation/templates/structures/labrynna/labrynna_wallset_sandbag.xml:9
 msgid "Pile of sandbags to halt enemy movement, especially Cavalry."
-msgstr ""
+msgstr "Hromada pytlů s pískem která zastavuje pohyb nepřátel, především jezdectva."
 
 #: simulation/templates/structures/labrynna/labrynna_siegeworks.xml:30
 msgid "Powder Maker"
-msgstr ""
+msgstr "Výrobna Střelného Prachu"
 
 #: simulation/templates/structures/labrynna/labrynna_siegeworks.xml:31
 msgid ""
@@ -5021,10 +5046,13 @@ msgid ""
 " Hyrule. While many other nations have used explosives of various sorts, Labrynna was "
 "the first to refine the idea into hand held portable weaponry."
 msgstr ""
+"Střelný prach byl možná největší objev pro armádní síly v historii Hyronu. Přestože mnohé "
+"jiné národy používaly různé druhy výbušnin, Labrynna byla první kdo rafinoval tento nápad "
+"do ručně přenosných zbraní."
 
 #: simulation/templates/structures/labrynna/labrynna_siegeworks.xml:34
 msgid "Trains a variety of Gunpowder and Siege units."
-msgstr ""
+msgstr "Trénue různé střelné a obléhací jednotky."
 
 #: simulation/templates/structures/labrynna/labrynna_stone_wall_cannon.xml:22
 #: simulation/templates/structures/labrynna/labrynna_stone_wall_gate.xml:16
@@ -5035,23 +5063,23 @@ msgstr ""
 #: simulation/templates/structures/labrynna/labrynna_stone_wall_tower.xml:13
 #: simulation/templates/structures/labrynna/labrynna_wallset_stone.xml:5
 msgid "A large stone wall to protect the Empire from any who dare invade Labrynna."
-msgstr ""
+msgstr "Velká kamenná zeď která chrání království od kohokoliv kdo by se odvážil napadnout Labrynnu."
 
 #: simulation/templates/structures/labrynna/labrynna_stone_wall_cannon.xml:53
 msgid "Upgrade Rampart with a Cannon."
-msgstr ""
+msgstr "Vylepšit hradbu Dělem."
 
 #: simulation/templates/structures/labrynna/labrynna_stone_wall_tower.xml:12
 msgid "Stone Tower"
-msgstr ""
+msgstr "Kamenná Věž"
 
 #: simulation/templates/structures/labrynna/labrynna_stone_wall_tower.xml:35
 msgid "Man this tower with Crossbowmen."
-msgstr ""
+msgstr "Obsadit tuto věž Kušiníky."
 
 #: simulation/templates/structures/labrynna/labrynna_wonder.xml:13
 msgid "The Black Tower"
-msgstr ""
+msgstr "Černá Věž"
 
 #: simulation/templates/structures/labrynna/labrynna_wonder.xml:14
 msgid ""
@@ -5060,10 +5088,14 @@ msgid ""
 "has been fueled by their aggressive expansion into all neighboring lands. In truth, "
 "there is more to the Black Tower's purpose then a mere show of ego."
 msgstr ""
+"Obří a tyčící se věž jejíž stavbu zorganizovala Veran jako nový trůn pro Královnu Ambi. "
+"Ohromující zdroje Labrynna získala k zbudování této masivní struktury byly získány "
+"jejich agresiví expanzí do všech sousedících zemí. Ve skutečnosti má ale Černá Věž "
+"větší účel než jen ukázka ega."
 
 #: simulation/templates/structures/labrynna/labrynna_wonder.xml:17
 msgid "The Labrynnian Wonder, allows you to summon the Maku Tree of Labrynna."
-msgstr ""
+msgstr "Labrynnský Div."
 
 #: simulation/templates/structures/lair/lair_arach_camp.xml:52
 #: simulation/templates/structures/lair/lair_arach_lumber.xml:44
@@ -5076,12 +5108,12 @@ msgstr ""
 #: simulation/templates/structures/lair/lair_skulltula_outpost.xml:68
 #: simulation/templates/structures/lair/lair_tektite_rock_camp.xml:52
 msgid "A Lair that serves as home for hostile wildlife."
-msgstr ""
+msgstr "Doupě sloužící jako domov pro nebezpečnou divou zvěř."
 
 #: simulation/templates/structures/lair/lair_dodongo_camp.xml:49
 #: simulation/templates/structures/lair/lair_dodongo_outpost.xml:65
 msgid "Dodongo Cavern"
-msgstr ""
+msgstr "Jeskyně Dodongů"
 
 #: simulation/templates/structures/lair/lair_dodongo_camp.xml:50
 #: simulation/templates/structures/lair/lair_dodongo_outpost.xml:66
@@ -5089,21 +5121,25 @@ msgid ""
 "A system of caves that has come to be home to a family of Dodongos. These fire "
 "breathing monsters will usually chase away anything that comes within their territory."
 msgstr ""
+"Systém jeskyní který se stal domovem rodiny Dodongů. Tyto oheň plivající příšery "
+"většinou odeženou cokoliv co vkročí na jejich teritorium.
 
 #: simulation/templates/structures/lair/lair_leever_camp.xml:49
 msgid "Leever Pit"
-msgstr ""
+msgstr "Listounská Díra"
 
 #: simulation/templates/structures/lair/lair_leever_camp.xml:50
 msgid ""
 "A giant pit that many Leevers have come to dwell near. In most cases the smaller "
 "Leevers themselves did not create these pits; something much larger dug into the sand."
 msgstr ""
+"Obří díra u které se usadili mnozí Listouni. Ve většině případů samotní malí Listouni "
+"nevytvořili tyto díry; něco o hodně většího se zahrabalo v písku."
 
 #: simulation/templates/structures/lair/lair_skulltula_camp.xml:49
 #: simulation/templates/structures/lair/lair_skulltula_outpost.xml:65
 msgid "Skulltula Nest"
-msgstr ""
+msgstr "Hnízko Lebkul"
 
 #: simulation/templates/structures/lair/lair_skulltula_camp.xml:50
 #: simulation/templates/structures/lair/lair_skulltula_outpost.xml:66
@@ -5111,16 +5147,20 @@ msgid ""
 "A large rock formation infested by a brood of Skulltulas. These arachnid monsters are "
 "notoriously difficult to rid of when they have settled into an area."
 msgstr ""
+"Velká kamená formace zamořena Lekbuly. Je pověstně obtížné se těchto pavoučích příšer "
+"zbavit pokud se usadili na místě."
 
 #: simulation/templates/structures/lair/lair_tektite_rock_camp.xml:49
 msgid "Rock Tektite Nest"
-msgstr ""
+msgstr "Hnízdo Kamenných Tektitů"
 
 #: simulation/templates/structures/lair/lair_tektite_rock_camp.xml:50
 msgid ""
 "A smokey pit full of Tektite Eggs. These jumping spiderlike creatures wait patiently "
 "and hunt down any targets that cross their path."
 msgstr ""
+"Zakouřená díra plná Tektitských vajec. Tito skákající pavoučí tvorové trpělivě čekají "
+"a loví jakékoliv cíle které jim zkříží cestu."
 
 #: simulation/templates/structures/lanayru/lanayru_bank.xml:35
 msgid "Bank"
