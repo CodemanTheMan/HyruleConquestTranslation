@@ -5530,31 +5530,35 @@ msgstr ""
 
 #: simulation/templates/structures/lizalfos/lizalfos_barracks.xml:33
 msgid "Hunter's Clutch"
-msgstr ""
+msgstr "Lovčí Snůška"
 
 #: simulation/templates/structures/lizalfos/lizalfos_barracks.xml:34
 msgid ""
 "Everything a hunter needed could be found within this clutch, and Lizalfos destined for"
 " such duty were raised within."
 msgstr ""
+"Vše co lovec potřebuje mohlo být nalezeno v této snůšce, a Ještěrfosové jejímž tato "
+"povinnost byla osudem zde byli vychováni."
 
 #: simulation/templates/structures/lizalfos/lizalfos_barracks.xml:36
 msgid "Trains basic Lizlafos units."
-msgstr ""
+msgstr "Trénuje základní Ještěrfoské jednotky."
 
 #: simulation/templates/structures/lizalfos/lizalfos_barracksB.xml:33
 msgid "Warrior's Clutch"
-msgstr ""
+msgstr "Válečnická Snůška"
 
 #: simulation/templates/structures/lizalfos/lizalfos_barracksB.xml:34
 msgid ""
 "From forth the Warrior's Clutch comes generations of Lizalfos soldiers, ready to do the"
 " bidding of their leaders and die for the wild gods."
 msgstr ""
+"Z Válečnické Snůšky pochází generace Ještěrfoských vojáků, připravených plnit rozkazy "
+"svých vůdců a umřít pro divoké bohy."
 
 #: simulation/templates/structures/lizalfos/lizalfos_barracksB.xml:36
 msgid "Trains many Lizalfos units."
-msgstr ""
+msgstr "Trénuje mnohé Ještěrfoské jednotky."
 
 #: simulation/templates/structures/lizalfos/lizalfos_barracksC.xml:30
 msgid "Crest"
@@ -5573,7 +5577,7 @@ msgstr ""
 
 #: simulation/templates/structures/lizalfos/lizalfos_blacksmith.xml:30
 msgid "Weapons Shack"
-msgstr ""
+msgstr "Zbrojní Chatrč"
 
 #: simulation/templates/structures/lizalfos/lizalfos_blacksmith.xml:31
 msgid ""
@@ -5581,52 +5585,59 @@ msgid ""
 "the old empire of Death Mountain. These highly praised Smiths create weaponry that can "
 "compete with the more proffesional armies of Hyrule."
 msgstr ""
+"Ještěrfoské zbraně jsou většinou jednoduché, ovšem někteří kováři si zachovali vědomosti "
+"z jejich starého impéria v Hory smrti. Tito vysoce cenění kováři tvoří zbraně schopné se "
+"rovnat profesionálnějším armádám Hyronu."
 
 #: simulation/templates/structures/lizalfos/lizalfos_blacksmith.xml:34
 msgid "Upgrades Lizalfos armor and weapons."
-msgstr ""
+msgstr "Vylepšuje Ještěrfoské brnění a zbraně."
 
 #: simulation/templates/structures/lizalfos/lizalfos_cave_settle.xml:72
 msgid "Lizalfos Cave"
-msgstr ""
+msgstr "Ještěrfoská Jeskyně"
 
 #: simulation/templates/structures/lizalfos/lizalfos_cave_settle.xml:73
 msgid ""
 "A cave dug up in an ideal location, some of these Lizalfos homes can be quite large. "
 "Several large Lizalfos familes often house up inside these caves."
 msgstr ""
+"Jeskyně vybudovaná v perfektní lokaci, některé z těchto Ještěrfoských domovů mohou "
+"být poměrně veliké. V těchto jeskyních často bydlí několik Ještěrfoských rodin."
 
 #: simulation/templates/structures/lizalfos/lizalfos_cave_settle.xml:75
 #: simulation/templates/structures/lizalfos/lizalfos_horde.xml:60
 msgid "Provides population and trains Helmasaur Supply Carts."
-msgstr ""
+msgstr "Poskytuje obyvatelstvo a trénuje Helmasauří Zásobovací Vozy."
 
 #: simulation/templates/structures/lizalfos/lizalfos_civil_centre.xml:85
 #: simulation/templates/structures/lizalfos/lizalfos_smruinsA_anc.xml:41
 msgid "Altar"
-msgstr ""
+msgstr "Oltář"
 
 #: simulation/templates/structures/lizalfos/lizalfos_civil_centre.xml:88
 msgid ""
 "Center of a Lizalfos Settlement. Summons Lizalfos Heroes. Manned with archers for "
 "defense."
 msgstr ""
+"Centrum Ještěrfoského města. Povolává Ještěrfoské hrdiny. Obsazeno lučištníky pro "
+"obranu."
 
 #: simulation/templates/structures/lizalfos/lizalfos_defense_tower.xml:47
 msgid "Lizalfos Guard Tower"
-msgstr ""
+msgstr "Ještěrfoská Hradební Věž"
 
 #: simulation/templates/structures/lizalfos/lizalfos_defense_tower.xml:48
 msgid "A lone tower built to stand watch and protect Lizalfos settlements from intruders."
-msgstr ""
+msgstr "Osamocená věž vybudována k držení stráže a obrany Ještěrfoských obcí před vetřelci."
 
 #: simulation/templates/structures/lizalfos/lizalfos_defense_tower.xml:50
 msgid "Defense Tower that attack enemies with arrows."
-msgstr ""
+msgstr "Obranná věž která útočí na nepřátele šípy."
 
 #: simulation/templates/structures/lizalfos/lizalfos_field.xml:25
 msgid "Grub Growers"
-msgstr ""
+msgstr "Ohrada Ponrav"
 
 #: simulation/templates/structures/lizalfos/lizalfos_field.xml:26
 #: simulation/templates/structures/lizalfos/lizalfos_grubcircle.xml:26
@@ -5635,45 +5646,55 @@ msgid ""
 "their kind are the grubs of all manner of insect. When hunts are low these handy "
 "creatures keep the reptiles eating."
 msgstr ""
+"Základa Ještěrfoského jídelníčku jsou všelijací brouci. Jedni z nejpěstovanějších "
+"jsou ponravy všelijakého hmyzu. Když lovy nevynášejí, tito učiteční tvorové krmí "
+"ještěry."
 
 #: simulation/templates/structures/lizalfos/lizalfos_field.xml:28
 #: simulation/templates/structures/lizalfos/lizalfos_grubcircle.xml:28
 msgid "Automatically generates Food."
-msgstr ""
+msgstr "Automaticky generuje jídlo."
 
 #: simulation/templates/structures/lizalfos/lizalfos_grubcircle.xml:25
 msgid "Grub Bowl"
-msgstr ""
+msgstr "Mísa Ponrav"
 
 #: simulation/templates/structures/lizalfos/lizalfos_horde.xml:57
 msgid "Horde"
-msgstr ""
+msgstr "Horda"
 
 #: simulation/templates/structures/lizalfos/lizalfos_horde.xml:58
 msgid ""
 "A cave dug up in an ideal location, some of these Lizalfos homes can be quite large and"
 " house much treasure. Several large Lizalfos familes often house up inside these caves."
 msgstr ""
+"Jeskyně vybudovaná v perfektní lokaci, některé z těchto Ještěrfoských domovů mohou "
+"být poměrně veliké a obsahovat mnoho pokladů. V těchto jeskyních často bydlí několik "
+"Ještěrfoských rodin."
 
 #: simulation/templates/structures/lizalfos/lizalfos_house.xml:35
 msgid "Hut"
-msgstr ""
+msgstr "Chartč"
 
 #: simulation/templates/structures/lizalfos/lizalfos_house.xml:36
 msgid ""
 "A small and simple hut with a single room is all the average Lizalfos family needed to "
 "dwell in."
 msgstr ""
+"Malá a jednoduchá chatrč s jednou místností je vše co obvyklá Ještěrfoská rodina "
+"potřebovala k ubytování."
 
 #: simulation/templates/structures/lizalfos/lizalfos_market.xml:35
 msgid "Treasure Trove"
-msgstr ""
+msgstr "Poklad"
 
 #: simulation/templates/structures/lizalfos/lizalfos_market.xml:36
 msgid ""
 "The beating heart of a Lizalfos community, this exchange sold many goods between their "
 "people and to the those that could befriend them."
 msgstr ""
+"Bušící srdce Ještěrfoské komunity, tato výměna prodávala mnohé zboží mezi jejich lidem "
+"a těm kteří se s ním dokázali spřátelit."
 
 #: simulation/templates/structures/lizalfos/lizalfos_plot_gate.xml:22
 #: simulation/templates/structures/lizalfos/lizalfos_plot_grubs.xml:22
@@ -5683,67 +5704,67 @@ msgstr ""
 #: simulation/templates/structures/stalfos/stalfos_plot_medium_des.xml:22
 #: simulation/templates/structures/stalfos/stalfos_plot_medium_dm.xml:22
 msgid "Unearthed Ruins"
-msgstr ""
+msgstr "Vykopaná Zřícenina"
 
 #: simulation/templates/structures/lizalfos/lizalfos_plot_gate.xml:25
 msgid "Constructs Lizalfos Walls on this ruin."
-msgstr ""
+msgstr "Postavit Ještěrfoské Zdi z této zříceniny."
 
 #: simulation/templates/structures/lizalfos/lizalfos_plot_gate.xml:50
 #: simulation/templates/structures/lizalfos/lizalfos_plot_gate_des.xml:9
 #: simulation/templates/structures/lizalfos/lizalfos_plot_gate_dm.xml:9
 msgid "Create makeshift wall from this ruin."
-msgstr ""
+msgstr "Postavit provizorní zeď z této zříceniny."
 
 #: simulation/templates/structures/lizalfos/lizalfos_plot_grubs.xml:25
 #: simulation/templates/structures/lizalfos/lizalfos_plot_tower.xml:25
 msgid "Constructs Lizalfos Towers on this ruin."
-msgstr ""
+msgstr "Postavit Ještěrfoské Věže z této zříceniny."
 
 #: simulation/templates/structures/lizalfos/lizalfos_plot_grubs.xml:50
 msgid "Set up a Grub Bowl in this rock pit."
-msgstr ""
+msgstr "Udělat Mísu Ponrav z této kamenné díry."
 
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium.xml:25
 msgid "Constructs Lizalfos Buildings on this space."
-msgstr ""
+msgstr "Postavit na tomto míste Ještěrfoské budovy."
 
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium.xml:50
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium_des.xml:10
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium_dm.xml:10
 #: simulation/templates/structures/sheikah/sheikah_plot_medium.xml:50
 msgid "Build Hut on this plot."
-msgstr ""
+msgstr "Postavit Chatrč na této parcele."
 
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium.xml:59
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium_des.xml:19
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium_dm.xml:19
 msgid "Build Grub Grower on this plot."
-msgstr ""
+msgstr "Postavit Ohradu Ponrav na této parcele."
 
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium.xml:68
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium_des.xml:28
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium_dm.xml:28
 msgid "Build Treasure Trove Plaza on this plot."
-msgstr ""
+msgstr "Postavit Tržiště Pokladů na této parcele."
 
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium.xml:80
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium_des.xml:40
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium_dm.xml:40
 msgid "Build Hunter's Cluch on this plot."
-msgstr ""
+msgstr "Postavit Lovčí Snůšku na této parcele."
 
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium.xml:89
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium_des.xml:49
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium_dm.xml:49
 msgid "Build Warrior's Clutch on this plot."
-msgstr ""
+msgstr "Postavit Válečnickou Snůšku na této parcele."
 
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium.xml:99
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium_des.xml:59
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium_dm.xml:59
 msgid "Build Monster Mound on this plot."
-msgstr ""
+msgstr "Postavit Kopec Příšer na této parcele."
 
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium.xml:109
 #: simulation/templates/structures/lizalfos/lizalfos_plot_medium_des.xml:69
@@ -5755,35 +5776,38 @@ msgstr ""
 #: simulation/templates/structures/lizalfos/lizalfos_plot_tower_des.xml:9
 #: simulation/templates/structures/lizalfos/lizalfos_plot_tower_dm.xml:9
 msgid "Set up an Archer Post on this ruin."
-msgstr ""
+msgstr "Postavit Lučištnický Post na této zřícenině."
 
 #: simulation/templates/structures/lizalfos/lizalfos_smruinsA_anc.xml:45
 msgid ""
 "Ruins that have been converted into an Altar. Allows the construction of two additional"
 " structures."
 msgstr ""
+"Zřícenina která byla konvertována na Oltář. Umožňuje stavbu dvou dalších budov."
 
 #: simulation/templates/structures/lizalfos/lizalfos_stables.xml:30
 msgid "Monster Mound"
-msgstr ""
+msgstr "Kopec Příšer"
 
 #: simulation/templates/structures/lizalfos/lizalfos_stables.xml:31
 msgid ""
 "An underground den that the Lizalfos would keep their monsterous pets. From here they "
 "could summon creatures to do battle in their hunts."
 msgstr ""
+"Podzemní nora ve které Ještěrfosové chovali své příšerné mazlíčky. Odtud povolávali "
+"tvory které s nimi bojovali v jejich lovech."
 
 #: simulation/templates/structures/lizalfos/lizalfos_stables.xml:33
 msgid "Trains Creature units."
-msgstr ""
+msgstr "Trénuje tvory."
 
 #: simulation/templates/structures/lizalfos/lizalfos_wall_gate.xml:34
 msgid "Ruin Wall"
-msgstr ""
+msgstr "Zeď Zříceniny"
 
 #: simulation/templates/structures/lizalfos/lizalfos_wall_gate.xml:35
 msgid "A makeshift wall made from unearthed ruins."
-msgstr ""
+msgstr "Provizorní zeď z vykopaných zřícenin."
 
 #: simulation/templates/structures/lizalfos/lizalfos_wonder_F.xml:15
 msgid "Eastern Palace"
@@ -5819,12 +5843,12 @@ msgstr ""
 
 #: simulation/templates/structures/mad_treeA.xml:33
 msgid "Mad Scrub Tree"
-msgstr ""
+msgstr "Strom Vzteklých Rostů"
 
 #: simulation/templates/structures/mad_treeA.xml:34
 #: simulation/templates/structures/mad_treeA.xml:36
 msgid "A sick and corrupted tree that seems to spread the Mad Scrub blight."
-msgstr ""
+msgstr "Nemocný a polomrtvý strom který zdánlivě šíří sněť Vzteklých rostů."
 
 #: simulation/templates/structures/merc_gimos_stone.xml:42
 msgid "Flying Attack Unit"
