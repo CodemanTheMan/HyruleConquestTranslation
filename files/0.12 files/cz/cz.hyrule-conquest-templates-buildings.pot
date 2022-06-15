@@ -5164,7 +5164,7 @@ msgstr ""
 
 #: simulation/templates/structures/lanayru/lanayru_bank.xml:35
 msgid "Bank"
-msgstr ""
+msgstr "Banka"
 
 #: simulation/templates/structures/lanayru/lanayru_bank.xml:36
 msgid ""
@@ -5173,10 +5173,14 @@ msgid ""
 "issue out loans and generate interest. Lanayru Banks were careful with this practice "
 "however, as mismanagement could lead to rapid inflation and economic collapse."
 msgstr ""
+"Jeden z klíčů k rapidnímu růstu a finančnímu úspěchu Lanajrijské Provincie, Banky mohly "
+"držet peníze občanů a využít je k investici do jiných obchodních podníků, a také vydávat "
+"úvěry a generovat úrok. Lanajrijské banky byly však s touto praktikou opartné, jelikož "
+"špatné řízení mohlo vést k rapidní inflaci a ekonomickému kolapsu."
 
 #: simulation/templates/structures/lanayru/lanayru_barracks.xml:33
 msgid "Conscription Dome"
-msgstr ""
+msgstr "Branná Kupole"
 
 #: simulation/templates/structures/lanayru/lanayru_barracks.xml:34
 msgid ""
@@ -5184,14 +5188,17 @@ msgid ""
 "Lanayru's army. Within were stocks of swords and casual uniforms, as well as teachers "
 "to bring up civilians on basic battlefield tactics."
 msgstr ""
+"Branná Kupole sloužila jako hlavní schromažďovací bod pro dobrovolnické vojáky s "
+"Lanajrijské armádě. Uvnitř byly zásoby mečů a uniforem, a také učitelé aby vyučili "
+"vojáky v základních bojových taktikách."
 
 #: simulation/templates/structures/lanayru/lanayru_barracks.xml:37
 msgid "Trains basic Lanayru combat units."
-msgstr ""
+msgstr "Trénuje základní Lanajrijské jednotky."
 
 #: simulation/templates/structures/lanayru/lanayru_barracksA.xml:33
 msgid "Silver Armory"
-msgstr ""
+msgstr "Stříbrná Zbrojnice"
 
 #: simulation/templates/structures/lanayru/lanayru_barracksA.xml:34
 msgid ""
@@ -5199,14 +5206,17 @@ msgid ""
 "the creation of Lanayru's signature tools. The Silver Armory can produce some of the "
 "Province's finest troops."
 msgstr ""
+"Schromažďovací místo pro válečníky kteří nesou stříbrné zbraně a také kovárna pro výrobu "
+"ikonických Lanajrijských náčiní. Stříbrná Zbrojnice je schopna vyprodukovat některé z "
+"nejlepších Lanajrijských vojáků."
 
 #: simulation/templates/structures/lanayru/lanayru_barracksA.xml:37
 msgid "Trains Silver Lanayru combat units."
-msgstr ""
+msgstr "Trénuje strříbrné bojové jednotky Lanajru."
 
 #: simulation/templates/structures/lanayru/lanayru_blacksmith.xml:30
 msgid "Silver Exchange"
-msgstr ""
+msgstr "Stříbrná Výměna"
 
 #: simulation/templates/structures/lanayru/lanayru_blacksmith.xml:31
 msgid ""
@@ -5214,18 +5224,21 @@ msgid ""
 "strange but sturdy alloy. They would use this material in many of their weapons and "
 "armor and the beauty of such prized creations was admired throughout all of Hyrule."
 msgstr ""
+"Provincie Lanajru byla známá pro svoje kombinování stříbra a korájílu aby vytvořila "
+"zvláštní ale odolnou slitinu. Tento materiál využila v mnohých ze svých zbraní a "
+"brnění a krása tohoto ceněného výtvoru byla obdivována v celém Hyronu."
 
 #: simulation/templates/structures/lanayru/lanayru_blacksmith.xml:34
 msgid "Upgrades Silver aspects of Lanayru units and structures."
-msgstr ""
+msgstr "Vylepšuje stříbrné aspekty Lanajrijských jednotek a budov."
 
 #: simulation/templates/structures/lanayru/lanayru_camp.xml:35
 msgid "Center of a Lanayru Camp."
-msgstr ""
+msgstr "Centrum Lanajrijského tábora."
 
 #: simulation/templates/structures/lanayru/lanayru_civil_centre.xml:77
 msgid "Royal Hub"
-msgstr ""
+msgstr "Královské Centrum"
 
 #: simulation/templates/structures/lanayru/lanayru_civil_centre.xml:78
 msgid ""
@@ -5234,14 +5247,18 @@ msgid ""
 " glorious as the Silver Throne of Airu, these nonetheless decorated structures could "
 "field Handmaidens and function as a gathering point for various resources."
 msgstr ""
+"Centrum mnoha armádních operací v Lanajrijské Provincii, Královské Centrum sloužilo jako "
+"shromažďovací místo a základna operací pro šlechtu i generály. Přestože nejsou tak "
+"proslulé jako Stříbrný trůn v Ajru, tyto nicméně ozdoběné budovy mohly pojmout dělníky a "
+"fungovaly jako shromažďovací místo pro různé zdroje."
 
 #: simulation/templates/structures/lanayru/lanayru_civil_centre.xml:80
 msgid "Center of a Lanayru Settlement. Summons Lanayru Heroes. Manned with archers for defense."
-msgstr ""
+msgstr "Centrum Lanajrijského města. Povolává Lanajrijské hrdiny. Obsazeno lučištníky pro obranu."
 
 #: simulation/templates/structures/lanayru/lanayru_defense_tower.xml:61
 msgid "Silver Tower"
-msgstr ""
+msgstr "Stříbrná Věž"
 
 #: simulation/templates/structures/lanayru/lanayru_defense_tower.xml:62
 msgid ""
@@ -5249,14 +5266,17 @@ msgid ""
 "and ther native wildlife. Many Province cities would erect a series of such towers "
 "throughout their grounds."
 msgstr ""
+"Vysoké a vždy strážící Stříbrné věže držely Lanajrijské pobřeží v bezpečí, proti "
+"vetřelcům i jejich domorodé zvěři. Mnohá města Provincie vztyčila řady těchto věží na "
+"svých pozemcích."
 
 #: simulation/templates/structures/lanayru/lanayru_defense_tower.xml:65
 msgid "Defensive Tower that attacks enemies with its arrows."
-msgstr ""
+msgstr "Obranná věž která útočí na nepřátele svými šípy."
 
 #: simulation/templates/structures/lanayru/lanayru_field.xml:25
 msgid "Shrimpery"
-msgstr ""
+msgstr "Krevetářství"
 
 #: simulation/templates/structures/lanayru/lanayru_field.xml:26
 msgid ""
@@ -5264,24 +5284,29 @@ msgid ""
 "well; so long as water was part of the mix. Prawns were usually the foundation of any "
 "Lanayru Zora's diet, and ponds of the creatures dotted their coastal cities."
 msgstr ""
+"Měkkýši byly hojní na Lanajrijském pobřeží a snadno se chovali i dál ve vnitrozemí; "
+"dokud měli přístup k vodě. Krevety byly většinou základ jídelníčku jakéhokoliv "
+"Lanajrijského Zory, a rybníků plné těchto tvorů bylo v jejich pobřežním městům bujno."
 
 #: simulation/templates/structures/lanayru/lanayru_field.xml:28
 msgid "Generates Shrimp that can be harvested for Food."
-msgstr ""
+msgstr "Generuje jídlo."
 
 #: simulation/templates/structures/lanayru/lanayru_house.xml:35
 msgid "Cove"
-msgstr ""
+msgstr "Byty"
 
 #: simulation/templates/structures/lanayru/lanayru_house.xml:36
 msgid ""
 "Like most Zora, the hybrids of Lanayru lived in small communities rather than familial "
 "households. These extra quarters could be added to house an additional family."
 msgstr ""
+"Jako většina Zorů, hybridi v Lanajru žili v malých komunitách místo rodinných domů. Tyto "
+"extra byty mohly být připojeny k ubytování další rodiny."
 
 #: simulation/templates/structures/lanayru/lanayru_market.xml:35
 msgid "Emporium"
-msgstr ""
+msgstr "Empórium"
 
 #: simulation/templates/structures/lanayru/lanayru_market.xml:36
 msgid ""
@@ -5289,14 +5314,17 @@ msgid ""
 "hot spot for economic activity across all of Hyrule. Traders and customers from across "
 "the land would venture here just to obtain of of Lanayru's high quality goods."
 msgstr ""
+"Empórium zásobovalo a prodávalo různé produkty vytvořené v Lanajrijské Provincii a bylo "
+"osou dění pro ekonomickou aktivitu v celém Hyronu. Obchodníci a zákazníci z celé země zde "
+"chodili aby se dostali k vysoce kvalitnímu Lanajrijskému zboží."
 
 #: simulation/templates/structures/lanayru/lanayru_outpost.xml:68
 msgid "Silver Keep"
-msgstr ""
+msgstr "Stříbrná Pevnost"
 
 #: simulation/templates/structures/lanayru/lanayru_outpost.xml:71
 msgid "Center of a Lanayru Outpost. Summons Lanayru Heroes. Manned with archers for defense."
-msgstr ""
+msgstr "Centrum Lanajrijské základny. Povolává Lanajrijské hrdiny. Obsazeno lučištníky pro obranu."
 
 #: simulation/templates/structures/lanayru/lanayru_plot_medium.xml:25
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_O.xml:25
@@ -5304,7 +5332,7 @@ msgstr ""
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SB.xml:25
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SC.xml:25
 msgid "Constructs Lanayru Buildings on this space."
-msgstr ""
+msgstr "Na tomto místě tvoří Lanajrijské budovy."
 
 #: simulation/templates/structures/lanayru/lanayru_plot_medium.xml:50
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_O.xml:50
@@ -5312,7 +5340,7 @@ msgstr ""
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SB.xml:50
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SC.xml:50
 msgid "Build Cove on this plot."
-msgstr ""
+msgstr "Postavit Byty na této parcele."
 
 #: simulation/templates/structures/lanayru/lanayru_plot_medium.xml:59
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_O.xml:59
@@ -5320,7 +5348,7 @@ msgstr ""
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SB.xml:59
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SC.xml:59
 msgid "Build Shrimpery on this plot."
-msgstr ""
+msgstr "Postavit Krevetářství na této parcele."
 
 #: simulation/templates/structures/lanayru/lanayru_plot_medium.xml:68
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_O.xml:68
@@ -5328,7 +5356,7 @@ msgstr ""
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SB.xml:68
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SC.xml:68
 msgid "Build Emporium on this plot."
-msgstr ""
+msgstr "Postavit Empórium na této parcele."
 
 #: simulation/templates/structures/lanayru/lanayru_plot_medium.xml:77
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_O.xml:77
@@ -5336,7 +5364,7 @@ msgstr ""
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SB.xml:77
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SC.xml:77
 msgid "Build Conscription Dome on this plot."
-msgstr ""
+msgstr "Postavit Brannou Kupoli na této parcele."
 
 #: simulation/templates/structures/lanayru/lanayru_plot_medium.xml:86
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_O.xml:86
@@ -5344,7 +5372,7 @@ msgstr ""
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SB.xml:86
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SC.xml:86
 msgid "Build Silver Barracks on this plot."
-msgstr ""
+msgstr "Postavit Stříbrné Kasárny na této parcele."
 
 #: simulation/templates/structures/lanayru/lanayru_plot_medium.xml:96
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_O.xml:96
@@ -5352,7 +5380,7 @@ msgstr ""
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SB.xml:96
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SC.xml:96
 msgid "Build Aquarium on this plot."
-msgstr ""
+msgstr "Postavit Akvárium na této parcele."
 
 #: simulation/templates/structures/lanayru/lanayru_plot_medium.xml:106
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_O.xml:106
@@ -5360,7 +5388,7 @@ msgstr ""
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SB.xml:106
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SC.xml:106
 msgid "Build Arach Den on this plot."
-msgstr ""
+msgstr "Postavit Noru Arachů na této parcele."
 
 #: simulation/templates/structures/lanayru/lanayru_plot_medium.xml:116
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_O.xml:116
@@ -5368,7 +5396,7 @@ msgstr ""
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SB.xml:116
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SC.xml:116
 msgid "Build Effigy on this plot."
-msgstr ""
+msgstr "Postavit Podobiznu na této parcele."
 
 #: simulation/templates/structures/lanayru/lanayru_plot_medium.xml:126
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_O.xml:126
@@ -5376,7 +5404,7 @@ msgstr ""
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SB.xml:126
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SC.xml:126
 msgid "Build Silversmith on this plot."
-msgstr ""
+msgstr "Postavit Stříbrnou Kovárnu na této parcele."
 
 #: simulation/templates/structures/lanayru/lanayru_plot_medium.xml:136
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_O.xml:136
@@ -5384,24 +5412,24 @@ msgstr ""
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SB.xml:136
 #: simulation/templates/structures/lanayru/lanayru_plot_medium_SC.xml:136
 msgid "Build Bank on this plot."
-msgstr ""
+msgstr "Postavit Banku na této parcele."
 
 #: simulation/templates/structures/lanayru/lanayru_plot_tower.xml:25
 msgid "Constructs Lanayru Towers on this space."
-msgstr ""
+msgstr "Na tomto místě tvoří Lanajrijské Věže."
 
 #: simulation/templates/structures/lanayru/lanayru_plot_tower.xml:51
 msgid "Build Silver Tower on this plot."
-msgstr ""
+msgstr "Postavit Stříbrnou Věž na této parcele."
 
 #: simulation/templates/structures/lanayru/lanayru_plot_wallcurved.xml:25
 #: simulation/templates/structures/lanayru/lanayru_plot_walltower.xml:25
 msgid "Constructs Lanayru Walls on this space."
-msgstr ""
+msgstr "Na tomto místě tvoří Lanajrijské zdi."
 
 #: simulation/templates/structures/lanayru/lanayru_stables.xml:30
 msgid "Prawn Pond"
-msgstr ""
+msgstr "Rybník Krevet"
 
 #: simulation/templates/structures/lanayru/lanayru_stables.xml:31
 msgid ""
@@ -5409,14 +5437,17 @@ msgid ""
 "unto land and set up nests in these remove water filled caves. With proper training "
 "Lanayru Province could turn the giant Prawns into battle mounts."
 msgstr ""
+"Krelové Krevety spíšezůstávaly v oceánech, ale mohly být nalákány k pohybu na pobřeží "
+"kde si postavili hnízda v těchto vodou naplněných jeskyních. Se správným tréninkem "
+"dokázala Lanajrijská Provincie proměnít tyto obří krevety v bojové jezdectvo."
 
 #: simulation/templates/structures/lanayru/lanayru_stables.xml:34
 msgid "Trains various Cavalry and Creature units."
-msgstr ""
+msgstr "Trénuje různé tvory a jezdecké jednotky."
 
 #: simulation/templates/structures/lanayru/lanayru_stablesA.xml:30
 msgid "Arach Den"
-msgstr ""
+msgstr "Nora Arachů"
 
 #: simulation/templates/structures/lanayru/lanayru_stablesA.xml:31
 msgid ""
@@ -5424,14 +5455,17 @@ msgid ""
 "impossible to domesticate. Setting up a den of newborn scorpions in remote locations "
 "allowed the Province to raise the creatures as beasts of war."
 msgstr ""
+"Arachové a Arurody byly extrémně častá podívaná v celé Provincii, ale dospělé bylo "
+"obtížné domestikovat. Výstavba nory novorozených štírů v odlehlých místech umožňovalo "
+"Provincii vychovat tyto tvory jako válečné bestie."
 
 #: simulation/templates/structures/lanayru/lanayru_stablesA.xml:34
 msgid "Trains various Creature and Cavalry units."
-msgstr ""
+msgstr "Trénuje různé tvory a jezdecké jednotky."
 
 #: simulation/templates/structures/lanayru/lanayru_temple.xml:43
 msgid "Lanayru Effigy"
-msgstr ""
+msgstr "Podobizna Lanajru"
 
 #: simulation/templates/structures/lanayru/lanayru_temple.xml:44
 msgid ""
@@ -5439,10 +5473,12 @@ msgid ""
 " of pacifist worshipers who practice the deification of Lanayru’s Spirit on a daily "
 "basis."
 msgstr ""
+"Přestože náboženský zápal není velice častý v Lanajrijské Provincii, existují malé kulty "
+"pacifistických ctitelů kteří denně praktikují zbožnování duše Lanajru.
 
 #: simulation/templates/structures/lanayru/lanayru_temple.xml:47
 msgid "Increases the Territory generated by Civil Centers."
-msgstr ""
+msgstr "Zvyšuje teritorium generováno občanskými centry."
 
 #: simulation/templates/structures/lanayru/lanayru_wall.xml:11
 #: simulation/templates/structures/lanayru/lanayru_wall_curved.xml:41
@@ -5452,7 +5488,7 @@ msgstr ""
 #: simulation/templates/structures/lanayru/lanayru_wall_tower.xml:12
 #: simulation/templates/structures/lanayru/lanayru_wallset.xml:4
 msgid "Silver Wall"
-msgstr ""
+msgstr "Stříbrná Zeď"
 
 #: simulation/templates/structures/lanayru/lanayru_wall.xml:12
 #: simulation/templates/structures/lanayru/lanayru_wall_curved.xml:42
@@ -5466,14 +5502,16 @@ msgid ""
 "The walls of Lanayru Province, while not as durable as those of other civilizations, "
 "were nonetheless impressive and served their defnesive purpose well."
 msgstr ""
+"Zdi Lanajrijské Provincie, přestože ne tak odolné jako ty jiných civilizací, byly "
+"působivé a dobře sloužily svému obrannému účelu."
 
 #: simulation/templates/structures/lanayru/lanayru_wall_gate.xml:14
 msgid "Silver Gate"
-msgstr ""
+msgstr "Stříbrná Brána"
 
 #: simulation/templates/structures/lanayru/lanayru_wall_long.xml:56
 msgid "Convert to Gate."
-msgstr ""
+msgstr "Konvertovat na Bránu."
 
 #: simulation/templates/structures/lanayru/lanayru_wonder.xml:15
 msgid "Rutala Dam"
