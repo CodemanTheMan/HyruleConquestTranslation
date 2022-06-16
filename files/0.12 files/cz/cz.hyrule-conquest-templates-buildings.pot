@@ -6473,25 +6473,25 @@ msgstr "Postavit malou základnu na této Táborové Ploše."
 
 #: simulation/templates/structures/node_campA.xml:195
 msgid "Set up a Grub Grower on this Camp Site."
-msgstr ""
+msgstr "Postavit Ohradu Ponrav na této Táborové Ploše."
 
 #: simulation/templates/structures/node_campA.xml:220
 #: simulation/templates/structures/node_miningA.xml:339
 #: simulation/templates/structures/node_woodA.xml:300
 msgid "Build a Menhir at this site."
-msgstr ""
+msgstr "Postavit zde Menhir."
 
 #: simulation/templates/structures/node_campA.xml:243
 msgid "Build Graves on this Camp Site."
-msgstr ""
+msgstr "Postavit Hroby na této Táborové Ploše."
 
 #: simulation/templates/structures/node_civcenterA.xml:19
 msgid "Settlement Site"
-msgstr ""
+msgstr "Městská Plocha"
 
 #: simulation/templates/structures/node_civcenterA.xml:20
 msgid "An ideal location to build a new base."
-msgstr ""
+msgstr "Ideální místo k postavení nové základny."
 
 #: simulation/templates/structures/node_civcenterA.xml:65
 #: simulation/templates/structures/node_civcenterA.xml:77
@@ -6508,84 +6508,84 @@ msgstr ""
 #: simulation/templates/structures/node_civcenterA.xml:270
 #: simulation/templates/structures/node_civcenterA.xml:282
 msgid "Build a base on this Settlement Site."
-msgstr ""
+msgstr "Postavit základnu na této Městské Ploše."
 
 #: simulation/templates/structures/node_civcenterA.xml:197
 msgid "Set up a Horde on this Settlement Site."
-msgstr ""
+msgstr "Postavit Hordu na této městské ploše."
 
 #: simulation/templates/structures/node_civcenterA.xml:221
 #: simulation/templates/structures/node_civcenterA.xml:233
 #: simulation/templates/structures/node_civcenterA.xml:245
 #: simulation/templates/structures/node_civcenterA.xml:257
 msgid "Build a Sundial on this Settlement Site."
-msgstr ""
+msgstr "Postavit Sluneční Hodiny na této Městské Ploše."
 
 #: simulation/templates/structures/node_civcenterA_placeholder.xml:22
 msgid "Village Site"
-msgstr ""
+msgstr "Vesnická Plocha"
 
 #: simulation/templates/structures/node_civcenterA_placeholder.xml:23
 #: simulation/templates/structures/node_civcenterA_placeholder.xml:25
 msgid "An ideal location to start a new village."
-msgstr ""
+msgstr "Ideální místo k postavení nové vesnice."
 
 #: simulation/templates/structures/node_civcenterA_placeholder.xml:67
 msgid "Build a Darknut Agora on this Village Site."
-msgstr ""
+msgstr "Postavit Agoru na této Vesnické Ploše."
 
 #: simulation/templates/structures/node_civcenterA_placeholder.xml:78
 msgid "Build a Large Encampment on this Village Site."
-msgstr ""
+msgstr "Postavit Velké Opevnění na této Vesnické Ploše."
 
 #: simulation/templates/structures/node_civcenterA_placeholder.xml:89
 msgid "Build a Wishing Well on this Village Site."
-msgstr ""
+msgstr "Postavit Fontánu Přání na této Vesnické Ploše."
 
 #: simulation/templates/structures/node_civcenterA_placeholder.xml:100
 msgid "Build a Palace on this Village Site."
-msgstr ""
+msgstr "Postavit Palác na této Vesnické Ploše."
 
 #: simulation/templates/structures/node_civcenterA_placeholder.xml:111
 msgid "Grow a Hive Core on this Village Site."
-msgstr ""
+msgstr "Postavit Jádro Úlu na této Vesnické Ploše."
 
 #: simulation/templates/structures/node_civcenterA_placeholder.xml:122
 msgid "Build a Hall of Brotherhood on this Village Site."
-msgstr ""
+msgstr "Postavit Síň Bratrství na této Vesnické Ploše."
 
 #: simulation/templates/structures/node_civcenterA_placeholder.xml:133
 #: simulation/templates/structures/node_civcenterA_placeholder.xml:155
 msgid "Build a Town Hall on this Village Site."
-msgstr ""
+msgstr "Postavit Radnici na této Vesnické Ploše."
 
 #: simulation/templates/structures/node_civcenterA_placeholder.xml:144
 msgid "Build a Community Grove on this Village Site."
-msgstr ""
+msgstr "Postavit Komunitní Hájek na této Vesnické Ploše."
 
 #: simulation/templates/structures/node_civcenterA_placeholder.xml:166
 msgid "Build a Ziggurat on this Village Site."
-msgstr ""
+msgstr "Postavit Zikkurat na této Vesnické Ploše."
 
 #: simulation/templates/structures/node_civcenterA_placeholder.xml:177
 msgid "Build an Ukblinro Totem on this Village Site."
-msgstr ""
+msgstr "Postavit Totem Ukblinra na této Vesnické Ploše."
 
 #: simulation/templates/structures/node_civcenterA_placeholder.xml:188
 msgid "Build a Manor on this Village Site."
-msgstr ""
+msgstr "Postavit Panství na této Vesnické Ploše."
 
 #: simulation/templates/structures/node_civcenterA_placeholder.xml:199
 msgid "Build a Ministry on this Village Site."
-msgstr ""
+msgstr "Postavit Ministerstvo na této Vesnické Ploše."
 
 #: simulation/templates/structures/node_dockA.xml:19
 msgid "Dock Site"
-msgstr ""
+msgstr "Dokovací Plocha"
 
 #: simulation/templates/structures/node_dockA.xml:20
 msgid "An ideal location to set up a Dock."
-msgstr ""
+msgstr "Ideální místo k postavení Doku."
 
 #: simulation/templates/structures/node_dockA.xml:63
 #: simulation/templates/structures/node_miningA.xml:68
@@ -6599,52 +6599,52 @@ msgstr ""
 #: simulation/templates/structures/node_rupeeA.xml:63
 #: simulation/templates/structures/node_woodA.xml:133
 msgid "Build Mine at this site."
-msgstr ""
+msgstr "Postavit na této ploše Důl."
 
 #: simulation/templates/structures/node_fishA.xml:19
 msgid "Fishing Site"
-msgstr ""
+msgstr "Rybářská Plocha"
 
 #: simulation/templates/structures/node_fishA.xml:20
 msgid "An ideal location to fish for food."
-msgstr ""
+msgstr "Ideální místo k rybaření."
 
 #: simulation/templates/structures/node_fishA.xml:63
 msgid "Build Fishing Pier at this site."
-msgstr ""
+msgstr "Postavit Rybářské Molo na této ploše."
 
 #: simulation/templates/structures/node_miningA.xml:19
 #: simulation/templates/structures/node_miningA_ore.xml:19
 #: simulation/templates/structures/node_miningA_stone.xml:19
 #: simulation/templates/structures/node_rupeeA.xml:19
 msgid "Mining Site"
-msgstr ""
+msgstr "Hornická Plocha"
 
 #: simulation/templates/structures/node_miningA.xml:20
 msgid "An ideal location to set up a Mine."
-msgstr ""
+msgstr "Ideální místo k postavení Dolu."
 
 #: simulation/templates/structures/node_miningA.xml:79
 #: simulation/templates/structures/node_woodA.xml:73
 msgid "Build Kingdom House at this site."
-msgstr ""
+msgstr "Postavit Královský Dům na této ploše."
 
 #: simulation/templates/structures/node_miningA.xml:103
 #: simulation/templates/structures/node_woodA.xml:97
 msgid "Build Adobe House at this site."
-msgstr ""
+msgstr "Postavit Kotovicový Dům na této ploše."
 
 #: simulation/templates/structures/node_miningA.xml:126
 #: simulation/templates/structures/node_woodA.xml:109
 msgid "Build Hovel at this site."
-msgstr ""
+msgstr "Postavit Brloh na této ploše."
 
 #: simulation/templates/structures/node_miningA.xml:149
 #: simulation/templates/structures/node_miningA.xml:172
 #: simulation/templates/structures/node_woodA.xml:121
 #: simulation/templates/structures/node_woodA.xml:144
 msgid "Build Commune at this site."
-msgstr ""
+msgstr "Postavit Komunu na této ploše."
 
 #: simulation/templates/structures/node_miningA.xml:184
 #: simulation/templates/structures/node_woodA.xml:156
@@ -6653,7 +6653,7 @@ msgstr ""
 #: simulation/templates/structures/node_woodA.xml:276
 #: simulation/templates/structures/node_woodA.xml:311
 msgid "Build Extractor at this site."
-msgstr ""
+msgstr "Postavit Extraktor na této ploše."
 
 #: simulation/templates/structures/node_miningA.xml:196
 #: simulation/templates/structures/node_woodA.xml:168
@@ -6662,58 +6662,58 @@ msgstr ""
 #: simulation/templates/structures/node_woodA.xml:288
 #: simulation/templates/structures/node_woodA.xml:323
 msgid "Build Cell at this site."
-msgstr ""
+msgstr "Postavit Doupě na této ploše."
 
 #: simulation/templates/structures/node_miningA.xml:208
 msgid "Build Harvest Mine at this site."
-msgstr ""
+msgstr "Postavit Sklízecí Důl na této ploše."
 
 #: simulation/templates/structures/node_miningA.xml:220
 msgid "Build Serf Stead at this site."
-msgstr ""
+msgstr "Postavit Nevolnickou Usedlost na této ploše."
 
 #: simulation/templates/structures/node_miningA.xml:244
 #: simulation/templates/structures/node_miningA.xml:279
 #: simulation/templates/structures/node_woodA.xml:204
 msgid "Build Cove at this site."
-msgstr ""
+msgstr "Postavit Byty na této ploše."
 
 #: simulation/templates/structures/node_miningA.xml:291
 msgid "Build Slums at this site."
-msgstr ""
+msgstr "Postavit Slumy na této ploše."
 
 #: simulation/templates/structures/node_miningA.xml:303
 #: simulation/templates/structures/node_woodA.xml:264
 msgid "Set up a Grub Grower on this Site."
-msgstr ""
+msgstr "Postavit Ohradu Ponrav na této ploše."
 
 #: simulation/templates/structures/node_miningA.xml:326
 #: simulation/templates/structures/node_miningA.xml:361
 msgid "Build Villa at this site."
-msgstr ""
+msgstr "Postavit Villu na této ploše."
 
 #: simulation/templates/structures/node_miningA.xml:373
 #: simulation/templates/structures/node_woodA.xml:335
 msgid "Build Graves on this Site."
-msgstr ""
+msgstr "Postavit Hroby na této ploše."
 
 #: simulation/templates/structures/node_miningA_ore.xml:20
 #: simulation/templates/structures/node_miningA_ore.xml:21
 msgid "An ideal location to set up a mine for Ore."
-msgstr ""
+msgstr "Ideální místo k postavení dolu pro rudy."
 
 #: simulation/templates/structures/node_miningA_stone.xml:20
 #: simulation/templates/structures/node_miningA_stone.xml:21
 msgid "An ideal location to set up a mine for Stone."
-msgstr ""
+msgstr "Ideální místo k postavení kamenného dolu."
 
 #: simulation/templates/structures/node_outpostA.xml:19
 msgid "Outpost Site"
-msgstr ""
+msgstr "Plocha Základny"
 
 #: simulation/templates/structures/node_outpostA.xml:20
 msgid "An ideal location to start a new base."
-msgstr ""
+msgstr "Ideální místo k postavení nové základny."
 
 #: simulation/templates/structures/node_outpostA.xml:63
 #: simulation/templates/structures/node_outpostA.xml:76
@@ -6729,27 +6729,27 @@ msgstr ""
 #: simulation/templates/structures/node_outpostA.xml:218
 #: simulation/templates/structures/node_outpostA.xml:242
 msgid "Build a base on this Outpost Site."
-msgstr ""
+msgstr "Postavit na této ploše základnu."
 
 #: simulation/templates/structures/node_outpostA.xml:206
 msgid "Set up a Grub Grower on this Outpost Site."
-msgstr ""
+msgstr "Postavit Ohradu Ponrav na této ploše základny."
 
 #: simulation/templates/structures/node_outpostA.xml:231
 msgid "Build a Dolmen at this site."
-msgstr ""
+msgstr "Postavit zde Dolmen."
 
 #: simulation/templates/structures/node_outpostA.xml:255
 msgid "Build a Graveyard on this Outpost Site."
-msgstr ""
+msgstr "Postavit Hřbitov na této ploše základny."
 
 #: simulation/templates/structures/node_rupeeA.xml:20
 msgid "An ideal location to set up a mine for Rupees."
-msgstr ""
+msgstr "Ideální místo k postavení dolu pro Rupie."
 
 #: simulation/templates/structures/node_wonderA.xml:19
 msgid "Wonder Site"
-msgstr ""
+msgstr "Plocha Divů"
 
 #: simulation/templates/structures/node_wonderA.xml:20
 msgid "An ideal location to build a Wonder."
@@ -6825,24 +6825,24 @@ msgstr ""
 
 #: simulation/templates/structures/node_woodA.xml:18
 msgid "Lumber Site"
-msgstr ""
+msgstr "Dřevorubecká Plocha"
 
 #: simulation/templates/structures/node_woodA.xml:19
 msgid "An ideal location to set up a Lumber camp."
-msgstr ""
+msgstr "Ideální místo k postavení Dřevorubeckého tábora."
 
 #: simulation/templates/structures/node_woodA.xml:62
 #: simulation/templates/structures/node_woodA.xml:86
 msgid "Build Lumber Mill at this site."
-msgstr ""
+msgstr "Postavit zde Dřevbařský Závod."
 
 #: simulation/templates/structures/node_woodA.xml:228
 msgid "Build a Domus on this Camp Site."
-msgstr ""
+msgstr "Postavit Domus na této ploše základny."
 
 #: simulation/templates/structures/ordona/ordona_apiary.xml:33
 msgid "Apiary"
-msgstr ""
+msgstr "Včelín"
 
 #: simulation/templates/structures/ordona/ordona_apiary.xml:34
 msgid ""
@@ -6851,28 +6851,34 @@ msgid ""
 "they know best: Food. Honey and other Bee products were part of daily life in the "
 "Province, and all the surplus was sold for a nice sum of Rupees."
 msgstr ""
+"Ordonská provincie se zdála být bohatá na včely. Mohlo zde být nalezeno více druhů než "
+"na jakémkoliv jiném místě v Hyronu, a Ordonci je využili jen tak jak uměli: jídlo. Med a "
+"jiné včelí produkty byly součástí denního života v Provincii, a všechen nadbytek byl "
+"prodán za pěknou sumu Rupií."
 
 #: simulation/templates/structures/ordona/ordona_apiary.xml:36
 msgid "Trains Beekeepers and provides a steady flow of Food."
-msgstr ""
+msgstr "Trénuje Včelaře a poskytuje stálý tok jídla."
 
 #: simulation/templates/structures/ordona/ordona_barracks.xml:33
 msgid "Militia Booth"
-msgstr ""
+msgstr "Bouda Milice"
 
 #: simulation/templates/structures/ordona/ordona_barracks.xml:34
 msgid ""
 "Milita Booths enlist and keep record of all manner of volunteers into the Ordonian "
 "Army, providing them with basic swords and armor should they have none of their own."
 msgstr ""
+"Boudy Milice odvádějí a zapisují všelijaké dobrovolníky do Ordonské armády, poskytujíce "
+"jim základní meče a brnění pokud nemají žádné vlastní."
 
 #: simulation/templates/structures/ordona/ordona_barracks.xml:37
 msgid "Trains many Ordonian units."
-msgstr ""
+msgstr "Trénuje mnohé Ordonské jednotky."
 
 #: simulation/templates/structures/ordona/ordona_blacksmith.xml:25
 msgid "Smithy"
-msgstr ""
+msgstr "Kovárna"
 
 #: simulation/templates/structures/ordona/ordona_blacksmith.xml:26
 msgid ""
@@ -6881,15 +6887,18 @@ msgid ""
 "near the finest in Hyrule, but they still did their best to provide soldiers with "
 "decent swords and armor."
 msgstr ""
+"Ordonci byli známi pro zemědělství, dobytek, pivo, a mnoho dalšich věcí... ale zbraně "
+"a brnění mezi nimi nebyly. Kováři provincie nebyly ani blízko těch nejlepších v Hyronu, "
+"ale přesto dělali co mohli aby poskytli vojákům decentní meče a brnění."
 
 #: simulation/templates/structures/ordona/ordona_blacksmith.xml:29
 msgid "Upgrades Ordonian armor and weapons."
-msgstr ""
+msgstr "Vylepšuje Ordonské brnění a zbraně."
 
 #: simulation/templates/structures/ordona/ordona_camp.xml:32
 #: simulation/templates/structures/ordona/ordona_farmstead.xml:25
 msgid "Plantation"
-msgstr ""
+msgstr "Plantáž"
 
 #: simulation/templates/structures/ordona/ordona_camp.xml:33
 #: simulation/templates/structures/ordona/ordona_farmstead.xml:26
@@ -6898,31 +6907,36 @@ msgid ""
 " A lone Plantation could provide quite a feast for its entire population after its "
 "crops had grown."
 msgstr ""
+"Plantáže byly zcela určeny k produkci nadbytečných zásob jídla. Jedna plantáž byla schopna "
+"poskytnou celému obyvatelstvu pořádné hody potom co vyrostly její plody."
 
 #: simulation/templates/structures/ordona/ordona_camp.xml:35
 msgid "Center of an Ordonian Camp. Generates bountiful Food."
-msgstr ""
+msgstr "Centrum Ordonského tábora. Generuje nadbytečné jídlo."
 
 #: simulation/templates/structures/ordona/ordona_civil_centre.xml:111
 msgid "Garrison"
-msgstr ""
+msgstr "Posádka"
 
 #: simulation/templates/structures/ordona/ordona_civil_centre.xml:112
 msgid ""
 "A wooden fort that are sometimes found as keeps in the larger cities of the Province. "
 "Mayors often use these forts as bases of operation and manors."
 msgstr ""
+"Dřevěná pevnost občas nalezena ve větších městech Provincie. Starostové používají tyto "
+"pevnosti jako základny operací a panství."
 
 #: simulation/templates/structures/ordona/ordona_civil_centre.xml:114
 msgid ""
 "Center of am Ordonian Settlement. Summons Ordonian Heroes. Manned with archers for "
 "defense."
 msgstr ""
+"Centrum Ordonského města. Povolává Ordonské hrdiny. Obsazeno lučištníky pro obranu."
 
 #: simulation/templates/structures/ordona/ordona_defense_tower.xml:82
 #: simulation/templates/structures/ordona/ordona_defense_towerB.xml:90
 msgid "Ordona Guard Tower"
-msgstr ""
+msgstr "Ordonská Strážní Věž"
 
 #: simulation/templates/structures/ordona/ordona_defense_tower.xml:83
 #: simulation/templates/structures/ordona/ordona_defense_towerB.xml:91
@@ -6930,16 +6944,18 @@ msgid ""
 "The Guard Towers of Ordona Province dotted their larger cities, protecting them from "
 "invading armies with shots from archers."
 msgstr ""
+"Strážní Věže Ordonské Provincie byly všude v jejich větších městech, a chránily je "
+"proti útočícím armádám výstřely z luků."
 
 #: simulation/templates/structures/ordona/ordona_defense_tower.xml:86
 #: simulation/templates/structures/ordona/ordona_defense_towerB.xml:94
 #: simulation/templates/structures/sheikah/sheikah_defense_tower.xml:64
 msgid "Defensive Tower that attacks enemies with arrows."
-msgstr ""
+msgstr "Obranná věž která útoží na nepřátele šípy."
 
 #: simulation/templates/structures/ordona/ordona_farmstead.xml:28
 msgid "Serves as a drop off point for Food and improves your Fields."
-msgstr ""
+msgstr "Zlepšuje pole."
 
 #: simulation/templates/structures/ordona/ordona_field.xml:18
 #: simulation/templates/structures/ordona/ordona_field_upg.xml:18
@@ -6949,16 +6965,20 @@ msgid ""
 "feed their families and pay tribute to their local Fief Lords. Pumpkins were perhaps "
 "Ordona's most famous crop, though many things were grown in their homeland."
 msgstr ""
+"Drtivá většina mírných pláních Ordonské Provincie byla pokryta bohatou a plodnou "
+"zemědělskou půdou. Nejnižší členové Ordonské společnosti opracovávali tyto země aby "
+"nakrmili své rodiny a vzdávali hold jejim místním Lenním Pánům. Dýně byly možná "
+"nejslavnější Ordonskou plodinou, ale mnoho věcí bylo pěstováno v jejich domovině."
 
 #: simulation/templates/structures/ordona/ordona_field.xml:20
 #: simulation/templates/structures/ordona/ordona_field_upg.xml:20
 #: simulation/templates/structures/sheikah/sheikah_field.xml:20
 msgid "Grows Food that can be harvested by Worker units."
-msgstr ""
+msgstr "Generuje jídlo."
 
 #: simulation/templates/structures/ordona/ordona_fortress.xml:125
 msgid "Ranger Garrison"
-msgstr ""
+msgstr "Střelná Posádka"
 
 #: simulation/templates/structures/ordona/ordona_fortress.xml:126
 msgid ""
@@ -6966,40 +6986,48 @@ msgid ""
 "Moblins and Lizalfos often approach. Ordonian Rangers often use these forts as bases of"
 " operation and young rangers are raised and trained here."
 msgstr ""
+"Dřevená pevnost která je občas nalezena va okrajích Ordonské Provincie kde vyčkávají na "
+"invaze od Ještěrfosů. Ordonští Lesníci využívají tyto pevnosti jako základny operací a "
+"trénují zde i mladé lesníky."
 
 #: simulation/templates/structures/ordona/ordona_fortress.xml:129
 msgid ""
 "Giant Defense fortification that attacks many enemies and generates Territory. Can also"
 " train Rangers."
 msgstr ""
+"Obří obrané opevnění které útočí na mnoho nepřátel a generuje teritorium. Také trénuje "
+"Lesníky."
 
 #: simulation/templates/structures/ordona/ordona_house.xml:43
 msgid "Serf Stead"
-msgstr ""
+msgstr "Nevolniská Usedlost"
 
 #: simulation/templates/structures/ordona/ordona_house.xml:44
 msgid ""
 "Ordonian homes were simple and to the point, with enough room to house a couple and a "
 "half dozen children."
 msgstr ""
+"Ordonské domy byly jednoduché a k věci, akorát velké aby pojmuly pár a půl tuctu dětí."
 
 #: simulation/templates/structures/ordona/ordona_market.xml:43
 msgid "Swap Meet"
-msgstr ""
+msgstr "Výměný Obchod"
 
 #: simulation/templates/structures/ordona/ordona_market.xml:44
 msgid ""
 "A series of shops that ssell various goods and services within its host settlement, "
 "increasing both its economy and the happiness of the people within."
 msgstr ""
+"Řada obchodů prodávajících různé suroviny a služby uvnitř jejich města, címž zvyšuje "
+"jeho ekonomiku a spokojenost lidí uvnitř."
 
 #: simulation/templates/structures/ordona/ordona_mercs.xml:29
 msgid "Tavern"
-msgstr ""
+msgstr "Hospoda"
 
 #: simulation/templates/structures/ordona/ordona_mercs.xml:30
 msgid "Allows Ordona Province to hire Mercenary units."
-msgstr ""
+msgstr "Umožňuje Ordonské Provincie najímat žoldácké jednotky."
 
 #: simulation/templates/structures/ordona/ordona_mercs.xml:33
 msgid ""
@@ -7007,10 +7035,13 @@ msgid ""
 "Hyrule for it. Many travellers would pass through the Province just to sample and "
 "partake at the parties that unfolded at these jovial (and often drunken) halls."
 msgstr ""
+"Ordonci vyráběli několik silných značek piva a medoviny a byli za to proslulí v Hyronu. "
+"Mnozí cestovatelé procházeli Provincií jen aby ochutnávali a účastnili se večírků které "
+"se pořádaly v těchto bodrých (a opilých) síních.
 
 #: simulation/templates/structures/ordona/ordona_outpost.xml:76
 msgid "Mayor's Manor"
-msgstr ""
+msgstr "Starostovo Panství"
 
 #: simulation/templates/structures/ordona/ordona_outpost.xml:77
 msgid ""
@@ -7020,50 +7051,55 @@ msgid ""
 "Hyrule, but by Province standards they were high class living. An Ordonian Mayor could "
 "manage an establishments's work force and labor from such a home."
 msgstr ""
+"Starostové a Starosti Pánové Ordonské Provincie často žili ve stylu, alespoň v porovnání "
+"s nižšími vrstvami pod jejich velením. Ordonská Panství byla přesto poněkud skromná v "
+"porovnání s přepychovými hrady a pevnostmi obsazenými šlechtou v Hyliánsku, ale na standart "
+"provincie byly obydlí vyšších vrstev. Ordonský Starosta z takového domu mohl řídit dělnictvo "
+"města."
 
 #: simulation/templates/structures/ordona/ordona_outpost.xml:79
 msgid "Center of an Ordonian Outpost. Summons Ordonian Heroes. Manned with archers for defense."
-msgstr ""
+msgstr "Centrum Ordonské Základny. Povolává Ordonské hrdiny. Obsazeno lučištníky pro obranu."
 
 #: simulation/templates/structures/ordona/ordona_plot_gate.xml:25
 msgid "Constructs Ordonian Gates on this space."
-msgstr ""
+msgstr "Zde staví Ordonské Brány."
 
 #: simulation/templates/structures/ordona/ordona_plot_medium.xml:25
 msgid "Constructs Ordonian Buildings on this space."
-msgstr ""
+msgstr "Zde staví Ordonské budovy."
 
 #: simulation/templates/structures/ordona/ordona_plot_medium.xml:50
 msgid "Build Serf Stead on this plot."
-msgstr ""
+msgstr "Postavit Nevolnickou Usedlost na této parcele."
 
 #: simulation/templates/structures/ordona/ordona_plot_medium.xml:59
 msgid "Build Field on this plot."
-msgstr ""
+msgstr "Postavit Pole na této parcele."
 
 #: simulation/templates/structures/ordona/ordona_plot_medium.xml:68
 msgid "Build Swap Meet on this plot."
-msgstr ""
+msgstr "Postavit Výměný Obchod na této parcele."
 
 #: simulation/templates/structures/ordona/ordona_plot_medium.xml:77
 msgid "Build Apiary on this plot."
-msgstr ""
+msgstr "Postavit Včelín na této parcele."
 
 #: simulation/templates/structures/ordona/ordona_plot_medium.xml:86
 msgid "Build Militia Booth on this plot."
-msgstr ""
+msgstr "Postavit Boudu Milice na této parcele."
 
 #: simulation/templates/structures/ordona/ordona_plot_medium.xml:105
 msgid "Build Carriage Barn on this plot."
-msgstr ""
+msgstr "Postavit Stáj pro Kočáry na této parcele."
 
 #: simulation/templates/structures/ordona/ordona_plot_medium.xml:115
 msgid "Build Chapel on this plot."
-msgstr ""
+msgstr "Postavit Kapli na této parcele."
 
 #: simulation/templates/structures/ordona/ordona_plot_medium.xml:125
 msgid "Build Smithy on this plot."
-msgstr ""
+msgstr "Postavit Kovárnu na této parcele."
 
 #: simulation/templates/structures/ordona/ordona_plot_tower.xml:25
 #: simulation/templates/structures/ordona/ordona_plot_wall_long.xml:25
@@ -7071,21 +7107,23 @@ msgstr ""
 #: simulation/templates/structures/ordona/ordona_plot_wall_longC.xml:25
 #: simulation/templates/structures/ordona/ordona_plot_walltower.xml:25
 msgid "Constructs Ordonian Walls on this space."
-msgstr ""
+msgstr "Zde staví Ordonské zdi."
 
 #: simulation/templates/structures/ordona/ordona_sentry_tower.xml:41
 msgid "Border Post"
-msgstr ""
+msgstr "Hraniční Post"
 
 #: simulation/templates/structures/ordona/ordona_sentry_tower.xml:42
 msgid ""
 "Border Posts dot the western and eastern borders of the Province, watching and warning "
 "of all incoming threats to the nation."
 msgstr ""
+"Hraniční Posty jsou všude po západní a východní hranici Provincie, hlídající a varující "
+"před všemi příchozími hrozbami národa."
 
 #: simulation/templates/structures/ordona/ordona_siegeworks.xml:27
 msgid "Carriage Barn"
-msgstr ""
+msgstr "Stáj pro Kočáry"
 
 #: simulation/templates/structures/ordona/ordona_siegeworks.xml:28
 msgid ""
@@ -7094,14 +7132,17 @@ msgid ""
 "happy to assemble their Catapults to help take down any fortifications halting their "
 "advance."
 msgstr ""
+"Ordonská Provincie pravidelně započínala protiútoky proti Ještěrfosům, a přinášela boj "
+"do nepřátelských vesnic a měst. Ordonci byli více než šťastní postavit své katapulty a "
+"pomoci zbořit jakékoliv opevnění které jim překáží v pochodu."
 
 #: simulation/templates/structures/ordona/ordona_siegeworks.xml:31
 msgid "Builds and trains various mechanical engines used by Ordona."
-msgstr ""
+msgstr "Staví a trénuje různé mechanické stroje využité Ordonou."
 
 #: simulation/templates/structures/ordona/ordona_stables.xml:30
 msgid "Goat Barn"
-msgstr ""
+msgstr "Kozí Stáj"
 
 #: simulation/templates/structures/ordona/ordona_stables.xml:31
 msgid ""
@@ -7109,14 +7150,17 @@ msgid ""
 "signature goats that roamed the southern plains. Shephards tend to flocks of the "
 "creatures, while Yeoman pick from the group their mounts into battle."
 msgstr ""
+"Ordonci byly známí tím že zasvěcovali značné části jejich zemědělské půdy ikonickým "
+"kozám které se toulali jižními pláněmi. Pastýři se starají o stáda těchto tvorů, "
+"zatímco Sedláci si ze skupin vybírají své oře do bitvy.
 
 #: simulation/templates/structures/ordona/ordona_stables.xml:34
 msgid "Trains Goat related Ordonian units."
-msgstr ""
+msgstr "Trénuje kozí Ordonské jednotky."
 
 #: simulation/templates/structures/ordona/ordona_stablesB.xml:9
 msgid "Ranch"
-msgstr ""
+msgstr "Ranč"
 
 #: simulation/templates/structures/ordona/ordona_stablesB.xml:10
 msgid ""
@@ -7124,10 +7168,12 @@ msgid ""
 "Goats as their beasts of burden, but Horses still supplement the backbone of their "
 "economy and military."
 msgstr ""
+"Ordonští koně jsou mezi nejlepšími v celém Hyronu. Ordonci samotní preferují kozly jako "
+"své válečné bestie, ale koně stále doplňují oporu jejich ekonomiky a armády."
 
 #: simulation/templates/structures/ordona/ordona_stablesB.xml:13
 msgid "Trains many Ordonian Cavalry units."
-msgstr ""
+msgstr "Trénuje mnohé Ordonské jezdecké jednotky."
 
 #: simulation/templates/structures/ordona/ordona_storehouse.xml:25
 msgid "Harvest Camp"
@@ -7146,7 +7192,7 @@ msgstr ""
 
 #: simulation/templates/structures/ordona/ordona_temple.xml:51
 msgid "Chapel"
-msgstr ""
+msgstr "Kaple"
 
 #: simulation/templates/structures/ordona/ordona_temple.xml:52
 msgid ""
@@ -7154,16 +7200,21 @@ msgid ""
 "relatively unopposed. Many Priests and Monks would flee and congregate in the southern "
 "lands, setting up small communities to study the various texts from the Book of Mudora."
 msgstr ""
+"Ordonská Provincie byla jedna z mála míst v Hyronu kde uctívání tří bohyň vzkvétalo "
+"relativně bez vzdoru. Mnozí knězí a mniši utíkali a shledávali se v jižních zemích, kde "
+"si tvořily malé komunity ke studiu různých náboženských textů."
 
 #: simulation/templates/structures/ordona/ordona_temple.xml:55
 msgid ""
 "Religious structure that improves the Territory generated by Ordonian Civil Centers. "
 "Also trains Reverends/"
 msgstr ""
+"Náboženská budova která zlepšuje teritorium generováno Ordonskými občanskými centry. "
+"Také trénuje Reverendy."
 
 #: simulation/templates/structures/ordona/ordona_wall_gate.xml:14
 msgid "Palisade Gate"
-msgstr ""
+msgstr "Kolová Brána"
 
 #: simulation/templates/structures/ordona/ordona_wall_gate.xml:15
 #: simulation/templates/structures/ordona/ordona_wall_long.xml:12
@@ -7174,7 +7225,7 @@ msgstr ""
 #: simulation/templates/structures/ordona/ordona_wall_tower.xml:12
 #: simulation/templates/structures/ordona/ordona_wallset.xml:5
 msgid "A makeshift wooden wall to keep the elements out of Ordonian villages."
-msgstr ""
+msgstr "Provizorní dřevěná zeď která drží živly z Ordonských vesnic."
 
 #: simulation/templates/structures/ordona/ordona_wall_long.xml:11
 #: simulation/templates/structures/ordona/ordona_wall_longB.xml:11
@@ -7184,13 +7235,13 @@ msgstr ""
 #: simulation/templates/structures/ordona/ordona_wall_tower.xml:11
 #: simulation/templates/structures/ordona/ordona_wallset.xml:4
 msgid "Palisade Wall"
-msgstr ""
+msgstr "Kolová Zeď"
 
 #: simulation/templates/structures/ordona/ordona_wall_long.xml:26
 #: simulation/templates/structures/ordona/ordona_wall_longB.xml:26
 #: simulation/templates/structures/ordona/ordona_wall_longC.xml:26
 msgid "Convert to Palisade Gate."
-msgstr ""
+msgstr "Konvertovat na Kolovou Bránu."
 
 #: simulation/templates/structures/ordona/ordona_wonder.xml:15
 msgid "Ordona Spring"
