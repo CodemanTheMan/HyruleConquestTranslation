@@ -7261,12 +7261,12 @@ msgstr ""
 
 #: simulation/templates/structures/ruin_getterA.xml:36
 msgid "Ruin Getter"
-msgstr ""
+msgstr "Zabírač Zřícenin"
 
 #: simulation/templates/structures/ruins/ruins_ancientA.xml:6
 #: simulation/templates/structures/ruins/ruins_ancientA_small.xml:6
 msgid "Ancient Ruins"
-msgstr ""
+msgstr "Starověké Zříceniny"
 
 #: simulation/templates/structures/ruins/ruins_ancientA.xml:7
 #: simulation/templates/structures/ruins/ruins_ancientA.xml:9
@@ -7289,7 +7289,7 @@ msgstr ""
 #: simulation/templates/structures/ruins/ruins_zoraA.xml:23
 #: simulation/templates/structures/ruins/ruins_zoraA.xml:25
 msgid "The long-abandoned remnants of a past culture."
-msgstr ""
+msgstr "Dávno opuštěné pozůstatky bývalé kultury."
 
 #: simulation/templates/structures/ruins/ruins_ancientA.xml:27
 #: simulation/templates/structures/ruins/ruins_ancientA_small.xml:27
@@ -7299,14 +7299,14 @@ msgstr ""
 #: simulation/templates/structures/ruins/ruins_dmA_small.xml:27
 #: simulation/templates/structures/ruins/ruins_tarmA.xml:27
 msgid "Restore these ruins into a Darknut Agora."
-msgstr ""
+msgstr "Zbudujte z těchto ruin Temnářskou Agoru."
 
 #: simulation/templates/structures/ruins/ruins_ancientA.xml:39
 #: simulation/templates/structures/ruins/ruins_desertA.xml:39
 #: simulation/templates/structures/ruins/ruins_dmA.xml:39
 #: simulation/templates/structures/ruins/ruins_tarmA.xml:39
 msgid "Restore these ruins into a Lizalfos Altar."
-msgstr ""
+msgstr "Zbudujte z těchto ruin Ještěrfoský Oltář."
 
 #: simulation/templates/structures/ruins/ruins_ancientA.xml:52
 #: simulation/templates/structures/ruins/ruins_ancientA.xml:64
@@ -7325,20 +7325,20 @@ msgstr ""
 #: simulation/templates/structures/ruins/ruins_tarmA.xml:77
 #: simulation/templates/structures/ruins/ruins_tarmA.xml:89
 msgid "Restore these ruins into a Wishing Well."
-msgstr ""
+msgstr "Zbudujte z těchto ruin Fontánu Přání."
 
 #: simulation/templates/structures/ruins/ruins_ancientA.xml:101
 #: simulation/templates/structures/ruins/ruins_desertA.xml:102
 #: simulation/templates/structures/ruins/ruins_dmA.xml:101
 #: simulation/templates/structures/ruins/ruins_tarmA.xml:103
 msgid "Convert ruins into a Crypt."
-msgstr ""
+msgstr "Konvertujte tuto zříceninu na Kryptu."
 
 #: simulation/templates/structures/ruins/ruins_ancientA_small.xml:38
 #: simulation/templates/structures/ruins/ruins_desertA_small.xml:38
 #: simulation/templates/structures/ruins/ruins_dmA_small.xml:38
 msgid "Convert these ruins into a Lizalfos Altar."
-msgstr ""
+msgstr "Konvertujte tuto zříceninu na Ještěrfoský Oltář."
 
 #: simulation/templates/structures/ruins/ruins_ancientA_small.xml:52
 #: simulation/templates/structures/ruins/ruins_ancientA_small.xml:64
@@ -7353,7 +7353,7 @@ msgstr ""
 #: simulation/templates/structures/ruins/ruins_dmA_small.xml:76
 #: simulation/templates/structures/ruins/ruins_dmA_small.xml:88
 msgid "Convert these ruins into a home for Fairies."
-msgstr ""
+msgstr "Konvertujte tuto zříceninu na domov pro Víly."
 
 #: simulation/templates/structures/ruins/ruins_ancientA_small.xml:94
 #: simulation/templates/structures/ruins/ruins_desertA_small.xml:93
@@ -7362,24 +7362,25 @@ msgid ""
 "Transform ruins into a Defiled Grave, which allows your to construct a small additional"
 " base."
 msgstr ""
+"Přeměňte tuto zříceninu na Poskvrněný Hrob, který vám umožňuje stavbu další malé základny."
 
 #: simulation/templates/structures/ruins/ruins_desertA.xml:6
 #: simulation/templates/structures/ruins/ruins_desertA_small.xml:6
 msgid "Desert Ruins"
-msgstr ""
+msgstr "Pouštní Zříceniny"
 
 #: simulation/templates/structures/ruins/ruins_dmA.xml:6
 #: simulation/templates/structures/ruins/ruins_dmA_small.xml:6
 msgid "Death Mountain Ruins"
-msgstr ""
+msgstr "Zříceniny Hory Smrtí"
 
 #: simulation/templates/structures/ruins/ruins_tarmA.xml:6
 msgid "Tarminian Ruins"
-msgstr ""
+msgstr "Tarmské Zříceniny"
 
 #: simulation/templates/structures/ruins/ruins_zoraA.xml:22
 msgid "Zora Ruins"
-msgstr ""
+msgstr "Zorské Zříceniny"
 
 #: simulation/templates/structures/settle_malkariko/malkariko_bighouse.xml:10
 msgid "Large Malkariko Housing"
@@ -7415,7 +7416,7 @@ msgstr ""
 
 #: simulation/templates/structures/sheikah/sheikah_barracks.xml:33
 msgid "Dojo"
-msgstr ""
+msgstr "Dodžo"
 
 #: simulation/templates/structures/sheikah/sheikah_barracks.xml:34
 msgid ""
@@ -7423,14 +7424,16 @@ msgid ""
 "settlement had at least one Dojo, which often functioned much like a temple for their "
 "warriors."
 msgstr ""
+"Cvičírna pro mladé i zkušené Šejkské válečníky. Každá Šejkská osada má alespoň jedno "
+"Dodžo, které sloužilo jako chrám pro jejich válečníky."
 
 #: simulation/templates/structures/sheikah/sheikah_barracks.xml:36
 msgid "Trains a selection of Sheikah units."
-msgstr ""
+msgstr "Trénuje některé Šejkské jednotky."
 
 #: simulation/templates/structures/sheikah/sheikah_barracksB.xml:33
 msgid "Cistern"
-msgstr ""
+msgstr "Cisterna"
 
 #: simulation/templates/structures/sheikah/sheikah_barracksB.xml:34
 msgid ""
@@ -7438,42 +7441,44 @@ msgid ""
 "crimes and sins into. All many of dark and shadowy beasts can be summoned from these "
 "Cisterns."
 msgstr ""
+"Studna která sahá hluboko do země, do které Šejkové rituálně smývají své zločiny a "
+"hříchy. Všlijaké temné a stinné příšery mohou být povolány z těchto Cistern."
 
 #: simulation/templates/structures/sheikah/sheikah_barracksB.xml:36
 msgid "Trains a selection of creature units."
-msgstr ""
+msgstr "Trénuje některé tvory."
 
 #: simulation/templates/structures/sheikah/sheikah_barracksC.xml:30
 msgid "Hideout"
-msgstr ""
+msgstr "Skrýš"
 
 #: simulation/templates/structures/sheikah/sheikah_barracksC.xml:31
 msgid "A hidden sanctuary where the most elite of Sheikah live and train for their craft."
-msgstr ""
+msgstr "Utajené útočiště kde nejelitnější z Šejků žijí a provozují svá umění."
 
 #: simulation/templates/structures/sheikah/sheikah_barracksC.xml:34
 msgid "Trains a selection of elite Sheikah units."
-msgstr ""
+msgstr "Trénuje některé Šejkské jednotky."
 
 #: simulation/templates/structures/sheikah/sheikah_blacksmith.xml:30
 msgid "Arsenal"
-msgstr ""
+msgstr "Arzenál"
 
 #: simulation/templates/structures/sheikah/sheikah_blacksmithB.xml:30
 msgid "Archive"
-msgstr ""
+msgstr "Archiv"
 
 #: simulation/templates/structures/sheikah/sheikah_blacksmithB.xml:34
 msgid "Researches and creates new and improved abilities."
-msgstr ""
+msgstr "Zkoumá a tvoří nové a vylepšené schopnosti."
 
 #: simulation/templates/structures/sheikah/sheikah_camp.xml:35
 msgid "Center of a Sheikah Camp."
-msgstr ""
+msgstr "Centrum Šejského tábora."
 
 #: simulation/templates/structures/sheikah/sheikah_civil_centre.xml:73
 msgid "Clan Hall"
-msgstr ""
+msgstr "Klanová Síň"
 
 #: simulation/templates/structures/sheikah/sheikah_civil_centre.xml:74
 msgid ""
@@ -7481,30 +7486,36 @@ msgid ""
 " activity within the region. It serves as a central drop off point for resources and "
 "can train new workers."
 msgstr ""
+"Shromažďovací místo pro hlavy Šejkských Klanů. Klanová Síň řídí všechnu Šejskou aktivitu "
+"v regionu."
 
 #: simulation/templates/structures/sheikah/sheikah_civil_centre.xml:76
 msgid "Center of a Sheikah Settlement. Summons Sheikah Heroes. Manned with archers for defense."
-msgstr ""
+msgstr "Centrum Šejského města. Povolává Šejské hrdiny. Obsazeno lučištníky pro obranu."
 
 #: simulation/templates/structures/sheikah/sheikah_defense_tower.xml:60
 msgid "Sheikah Watch Tower"
-msgstr ""
+msgstr "Šejská Strážní Vež"
 
 #: simulation/templates/structures/sheikah/sheikah_defense_tower.xml:61
 msgid ""
 "Sheikah Watch Towers often arrayed the borders of their lands and village walls, given "
 "them plenty of warning of oncoming attacks."
 msgstr ""
+"Šejkské strážní věže byly často postaveny na hranicích jejich zemí a vesnických zdí, což "
+"jim dávalo dost varování proti nepřátelským útokům."
 
 #: simulation/templates/structures/sheikah/sheikah_field.xml:17
 msgid "Rice Paddy"
-msgstr ""
+msgstr "Rýžové Pole"
 
 #: simulation/templates/structures/sheikah/sheikah_field.xml:18
 msgid ""
 "Rice was a staple of the Sheikah diet, largely due the ease with which it grew in the "
 "limited space of the lands that the Cadre held."
 msgstr ""
+"Rýže byla základem Šejkského jídelníčku díky snázi se kterou rostla v omezených prostorech "
+"které Kádr vlastnil."
 
 #: simulation/templates/structures/sheikah/sheikah_fortress.xml:166
 msgid "Shiro"
@@ -7523,17 +7534,18 @@ msgstr ""
 
 #: simulation/templates/structures/sheikah/sheikah_house.xml:25
 msgid "Hottatebashira"
-msgstr ""
+msgstr "Hottatebašira"
 
 #: simulation/templates/structures/sheikah/sheikah_house.xml:26
 msgid ""
 "Sheikah houses tended to be small and simple. Having little possessions helped one to "
 "be a nomad."
 msgstr ""
+"Šejkské domy bývaly malé a jednoduché. Málo majetku pomáhalo být nomádem."
 
 #: simulation/templates/structures/sheikah/sheikah_market.xml:26
 msgid "Black Market"
-msgstr ""
+msgstr "Černý Trh"
 
 #: simulation/templates/structures/sheikah/sheikah_market.xml:27
 msgid ""
@@ -7541,59 +7553,61 @@ msgid ""
 "oganizations across Hyrule. These networks brought in a great deal of Rupee wealth for "
 "the Sheikah people."
 msgstr ""
+"Kádr operoval celý černý trh s vybraným zbožím pro různé jiné skupiny a organizace v "
+"Hlyiánsku. Tyto sítě vynášely mnohé Rupie pro Šejkský lid."
 
 #: simulation/templates/structures/sheikah/sheikah_outpost.xml:78
 msgid "Clan Hut"
-msgstr ""
+msgstr "Klanská Chýše"
 
 #: simulation/templates/structures/sheikah/sheikah_outpost.xml:81
 msgid "Center of a Sheikah Outpost. Summons Sheikah Heroes. Manned with archers for defense."
-msgstr ""
+msgstr "Centrum Šejkské základny. Povolává Šejkské hrdiny. Obsazeno lučištníky pro obranu."
 
 #: simulation/templates/structures/sheikah/sheikah_plot_gate.xml:25
 msgid "Constructs a Gate on this space."
-msgstr ""
+msgstr "Zde buduje Bránu."
 
 #: simulation/templates/structures/sheikah/sheikah_plot_medium.xml:25
 msgid "Constructs Sheikah Buildings on this space."
-msgstr ""
+msgstr "Zde buduje Šejkské budovy."
 
 #: simulation/templates/structures/sheikah/sheikah_plot_medium.xml:59
 msgid "Build Rice Paddy on this plot."
-msgstr ""
+msgstr "Postavit Rýžové Pole na této parcele."
 
 #: simulation/templates/structures/sheikah/sheikah_plot_medium.xml:68
 msgid "Build Black Market on this plot."
-msgstr ""
+msgstr "Postavit Černý Trh na této parcele."
 
 #: simulation/templates/structures/sheikah/sheikah_plot_medium.xml:78
 msgid "Build Dojo on this plot."
-msgstr ""
+msgstr "Postavit Dodžo na této parcele."
 
 #: simulation/templates/structures/sheikah/sheikah_plot_medium.xml:87
 msgid "Build Cistern on this plot."
-msgstr ""
+msgstr "Postavit Cisternu na této parcele."
 
 #: simulation/templates/structures/sheikah/sheikah_plot_medium.xml:97
 msgid "Build Hideout on this plot."
-msgstr ""
+msgstr "Postavit Skrýš na této parcele."
 
 #: simulation/templates/structures/sheikah/sheikah_plot_medium.xml:107
 msgid "Build Monastery on this plot."
-msgstr ""
+msgstr "Postavit Klášter na této parcele."
 
 #: simulation/templates/structures/sheikah/sheikah_plot_medium.xml:117
 msgid "Build Arsenal on this plot."
-msgstr ""
+msgstr "Postavit Arzenál na této parcele."
 
 #: simulation/templates/structures/sheikah/sheikah_plot_tower.xml:25
 msgid "Constructs Sheikah Towers on this space."
-msgstr ""
+msgstr "Postavit zde Šejkské Věže."
 
 #: simulation/templates/structures/sheikah/sheikah_plot_walllong.xml:25
 #: simulation/templates/structures/sheikah/sheikah_plot_walltower.xml:25
 msgid "Constructs Sheikah Walls on this space."
-msgstr ""
+msgstr "Postavit zde Šejkské Zdi."
 
 #: simulation/templates/structures/sheikah/sheikah_storehouse.xml:26
 msgid "Kitchen"
@@ -7610,19 +7624,21 @@ msgid ""
 "A secluded temple where Sheikah Monks reside when they come from their isolation under "
 "the earth. Members of various clans may come here to seek an audience with these monks."
 msgstr ""
+"Ukrytý chrám kde Šejkští mniši přebývají když vyjdou ze své izolace pod zemí. Členové "
+"různých klanů zde chodí rozmlouvat s těmito mnichy."
 
 #: simulation/templates/structures/sheikah/sheikah_temple.xml:37
 msgid "Monastery"
-msgstr ""
+msgstr "Klášter"
 
 #: simulation/templates/structures/sheikah/sheikah_temple.xml:38
 #: simulation/templates/structures/stalfos/stalfos_temple.xml:39
 msgid "Religious building that increases the spread of your territory."
-msgstr ""
+msgstr "Náboženská budova která zvyšuje rozsah vašeho teritoria."
 
 #: simulation/templates/structures/sheikah/sheikah_wallset.xml:5
 msgid "A makeshift wooden wall to keep the elements out of Sheikah villages."
-msgstr ""
+msgstr "Provizorní dřevěná zeď která drží živly z Šejkských vesnic."
 
 #: simulation/templates/structures/sheikah/sheikah_wonder.xml:24
 msgid "Shadow Seal"
@@ -7642,33 +7658,33 @@ msgstr ""
 
 #: simulation/templates/structures/stalfos/stalfos_barracks.xml:43
 msgid "Haunted Ruins"
-msgstr ""
+msgstr "Strašidelná Zřícenina"
 
 #: simulation/templates/structures/stalfos/stalfos_barracks.xml:46
 msgid "Summons Poes and contains other unholy upgrades."
-msgstr ""
+msgstr "Povolává Ďasy a poskytuje jiná nepřirozená vylepšení."
 
 #: simulation/templates/structures/stalfos/stalfos_blacksmith.xml:43
 msgid "Soldier's Sepulcrum"
-msgstr ""
+msgstr "Sepulkrum Vojáků"
 
 #: simulation/templates/structures/stalfos/stalfos_blacksmith.xml:47
 msgid "Allows the raising of warrior Stalfos forms, as well as upgrades for them."
-msgstr ""
+msgstr "Umožňuje kříšení válečných forem Stalfosů, a také vylepšení pro ně."
 
 #: simulation/templates/structures/stalfos/stalfos_blacksmithB.xml:40
 msgid "Sacrificial Slab"
-msgstr ""
+msgstr "Obětovací Deska"
 
 #: simulation/templates/structures/stalfos/stalfos_blacksmithB.xml:44
 msgid "Allows the raising of creature Stalfos forms, as well as upgrades for them."
-msgstr ""
+msgstr "Umožňuje kříšení nemrtvých tvorů, a také vylepšení pro ně."
 
 #: simulation/templates/structures/stalfos/stalfos_camp.xml:28
 #: simulation/templates/structures/stalfos/stalfos_lumber.xml:38
 #: simulation/templates/structures/stalfos/stalfos_mining.xml:38
 msgid "Graves"
-msgstr ""
+msgstr "Hroby"
 
 #: simulation/templates/structures/stalfos/stalfos_camp.xml:31
 #: simulation/templates/structures/stalfos/stalfos_field.xml:37
@@ -7676,92 +7692,92 @@ msgstr ""
 #: simulation/templates/structures/stalfos/stalfos_lumber.xml:41
 #: simulation/templates/structures/stalfos/stalfos_mining.xml:41
 msgid "Contains bones that can be gathered by Stalchildren."
-msgstr ""
+msgstr "Osahuje kosti které sbírají Stalděti."
 
 #: simulation/templates/structures/stalfos/stalfos_civil_centre.xml:43
 msgid "Crypt"
-msgstr ""
+msgstr "Krypta"
 
 #: simulation/templates/structures/stalfos/stalfos_civil_centre.xml:46
 msgid "Center of a Stalfos Settlement. Summons Stalfos Heroes."
-msgstr ""
+msgstr "Centrum Stalfoské osady. Povolává Stalfoské hrdiny."
 
 #: simulation/templates/structures/stalfos/stalfos_civil_centreB.xml:3
 msgid "Tomb"
-msgstr ""
+msgstr "Kobka"
 
 #: simulation/templates/structures/stalfos/stalfos_civil_centreB_anc.xml:29
 #: simulation/templates/structures/stalfos/stalfos_civil_centreB_des.xml:29
 #: simulation/templates/structures/stalfos/stalfos_civil_centreB_dm.xml:29
 #: simulation/templates/structures/stalfos/stalfos_civil_centreB_tar.xml:29
 msgid "Upgrade into Tomb."
-msgstr ""
+msgstr "Vylepšit na Kobku."
 
 #: simulation/templates/structures/stalfos/stalfos_civil_centreC.xml:3
 msgid "Mausoleum"
-msgstr ""
+msgstr "Mauzoleum"
 
 #: simulation/templates/structures/stalfos/stalfos_defiled.xml:35
 #: simulation/templates/structures/stalfos/stalfos_ruinsA_anc.xml:41
 msgid "Defiled Grave"
-msgstr ""
+msgstr "Zneuctěný Hrob"
 
 #: simulation/templates/structures/stalfos/stalfos_defiled.xml:39
 #: simulation/templates/structures/stalfos/stalfos_ruinsA_anc.xml:45
 msgid "Creates Corpses that can be raised unto Undead units."
-msgstr ""
+msgstr "Tvoří mrtvoly které mohou být vkříseny do nemrtvých jednotek."
 
 #: simulation/templates/structures/stalfos/stalfos_field.xml:34
 msgid "Burial Site"
-msgstr ""
+msgstr "Pohřebiště"
 
 #: simulation/templates/structures/stalfos/stalfos_graveyard.xml:43
 msgid "Graveyard"
-msgstr ""
+msgstr "Hřbitov"
 
 #: simulation/templates/structures/stalfos/stalfos_market.xml:36
 msgid "Occult Peddlers"
-msgstr ""
+msgstr "Okultní Prodavači"
 
 #: simulation/templates/structures/stalfos/stalfos_plot_medium.xml:25
 #: simulation/templates/structures/stalfos/stalfos_plot_medium_des.xml:25
 #: simulation/templates/structures/stalfos/stalfos_plot_medium_dm.xml:25
 msgid "Constructs Stalfos Buildings on this space."
-msgstr ""
+msgstr "Zde tvoří Stalfoské budovy."
 
 #: simulation/templates/structures/stalfos/stalfos_plot_medium.xml:52
 #: simulation/templates/structures/stalfos/stalfos_plot_medium_des.xml:52
 #: simulation/templates/structures/stalfos/stalfos_plot_medium_dm.xml:52
 msgid "Build Occult Peddlers on this plot."
-msgstr ""
+msgstr "Postavit Okultní Prodavače na této parcele."
 
 #: simulation/templates/structures/stalfos/stalfos_plot_medium.xml:62
 #: simulation/templates/structures/stalfos/stalfos_plot_medium_des.xml:62
 #: simulation/templates/structures/stalfos/stalfos_plot_medium_dm.xml:62
 msgid "Build Haunted Ruins on this plot."
-msgstr ""
+msgstr "Postavit Strašidelné Zříceniny na této parcele."
 
 #: simulation/templates/structures/stalfos/stalfos_plot_medium.xml:71
 #: simulation/templates/structures/stalfos/stalfos_plot_medium_des.xml:71
 #: simulation/templates/structures/stalfos/stalfos_plot_medium_dm.xml:71
 msgid "Build Soldier's Sepulcrum on this plot."
-msgstr ""
+msgstr "Postavit Sepulkrum Vojáků na této parcele."
 
 #: simulation/templates/structures/stalfos/stalfos_plot_medium.xml:81
 #: simulation/templates/structures/stalfos/stalfos_plot_medium_des.xml:81
 #: simulation/templates/structures/stalfos/stalfos_plot_medium_dm.xml:81
 msgid "Build Sacrificial Slab on this plot."
-msgstr ""
+msgstr "Postavit Obětovací Desku na této parcele."
 
 #: simulation/templates/structures/stalfos/stalfos_plot_medium.xml:91
 #: simulation/templates/structures/stalfos/stalfos_plot_medium_des.xml:91
 #: simulation/templates/structures/stalfos/stalfos_plot_medium_dm.xml:91
 msgid "Build Dark Reliquary on this plot."
-msgstr ""
+msgstr "Postavit Temný Relikviář na této parcele."
 
 #: simulation/templates/structures/stalfos/stalfos_temple.xml:38
 msgid "Dark Reliquary"
-msgstr ""
+msgstr "Temný Relikviář"
 
 #: simulation/templates/structures/stalfos/stalfos_wonder.xml:18
 msgid "Arbiter's Grounds"
@@ -7773,7 +7789,7 @@ msgstr ""
 #: simulation/templates/structures/lair/lair_arach_outpost.xml:57
 #: simulation/templates/structures/wild_arach_cave.xml:25
 msgid "Arach Cave"
-msgstr ""
+msgstr "Jeskyně Arachů"
 
 #: simulation/templates/structures/lair/lair_arach_camp.xml:50
 #: simulation/templates/structures/lair/lair_arach_lumber.xml:42
@@ -7817,21 +7833,23 @@ msgstr ""
 
 #: simulation/templates/structures/zora/zora_barracks.xml:33
 msgid "Dormitory"
-msgstr ""
+msgstr "Konvikt"
 
 #: simulation/templates/structures/zora/zora_barracks.xml:34
 msgid ""
 "The best and brightest warriors of the Zora Dominion are present at these large "
 "schools, from which they can train dozens of soldiers to fill the ranks of their army."
 msgstr ""
+"Nejlepší a nejchytřejší válečníci Zorského Dominia žijí v těchto velkých školách, ve "
+"kterých mohou trénovat tucty vojáků aby zaplnili čety jejich armád."
 
 #: simulation/templates/structures/zora/zora_barracks.xml:37
 msgid "Trains the bulk of the Dominion's units."
-msgstr ""
+msgstr "Trénuje většinu jednotek Dominia."
 
 #: simulation/templates/structures/zora/zora_barracksB.xml:33
 msgid "Mage Chambers"
-msgstr ""
+msgstr "Magické Komory"
 
 #: simulation/templates/structures/zora/zora_barracksB.xml:34
 msgid ""
@@ -7839,48 +7857,57 @@ msgid ""
 "gather their magic and use it in battle. The teachers at a Crystal Chamber can even "
 "alter the nature of Zora magic, warping water into a freezing Blue Fire."
 msgstr ""
+"Shromáždění mladých Zorských žen mohou být učeny od útlého věku způsobům jak "
+"nashromáždit svoji magii a využít ji v bitvě. Učitelé v Magických Komorách mohou "
+"i upravit povahu Zorské magie, a proměnit vodu v mrznoucí Modrý Oheň."
 
 #: simulation/templates/structures/zora/zora_barracksB.xml:36
 msgid "Trains a variety of Mage units."
-msgstr ""
+msgstr "Trénuje různé magické jendotky."
 
 #: simulation/templates/structures/zora/zora_barracksC.xml:25
 msgid "Morpha Pool"
-msgstr ""
+msgstr "Morfská Cisterna"
 
 #: simulation/templates/structures/zora/zora_barracksC.xml:26
 msgid ""
 "These pools are a closly guarded secret of the Cult of Malkorbagia, who possess the "
 "magic to bring forth life from Water."
 msgstr ""
+"Tyto cisterny jsou blízce střeženým tajemstvím Kultu Malkorbagie, který vlastní "
+"magii schopnou vzkřísit život z vody."
 
 #: simulation/templates/structures/zora/zora_barracksC.xml:29
 msgid "Summons Kyameron Masters and Morphites."
-msgstr ""
+msgstr "Povolává Kjameronské Paní a Morfy."
 
 #: simulation/templates/structures/zora/zora_blacksmith.xml:30
 msgid "Coralmold Crafter"
-msgstr ""
+msgstr "Korájílové Řemeslnictví"
 
 #: simulation/templates/structures/zora/zora_blacksmith.xml:31
 msgid ""
 "Refining Coralmold is a difficult process, the few Zora that have mastered the "
 "technique can make some of the sturdiest and malleable armors in the known land."
 msgstr ""
+"Zpracování Korájílu je obtížný proces, a těch několik Zorů kteří zdokonalili "
+"techniku mohou vyrobit některá z nejodolnějších a nejohybnějších brnění na zemi."
 
 #: simulation/templates/structures/zora/zora_blacksmith.xml:34
 msgid "Upgrades Zora armor and weaponry."
-msgstr ""
+msgstr "Vylepšuje Zorské brnění a zbraně."
 
 #: simulation/templates/structures/zora/zora_blacksmithB.xml:31
 msgid ""
 "Some of Hyrule's longest standing libraries have been constructed by the Zora, and a "
 "vast majority of surviving history are found within them."
 msgstr ""
+"Některé z nejdéle stojících knihoven Hyronu byly postaveny Zory, a drtivá většina "
+"přežívající historie je nalezena v nich."
 
 #: simulation/templates/structures/zora/zora_blacksmithB.xml:34
 msgid "Researches a variety of upgrades."
-msgstr ""
+msgstr "Zkoumá různá vylepšení."
 
 #: simulation/templates/structures/zora/zora_bridgeA.xml:13
 #: simulation/templates/structures/zora/zora_bridgeB.xml:13
@@ -7890,15 +7917,15 @@ msgstr ""
 #: simulation/templates/structures/zora/zora_camp.xml:32
 #: simulation/templates/structures/zora/zora_storehouse.xml:25
 msgid "Depository"
-msgstr ""
+msgstr "Úschovna"
 
 #: simulation/templates/structures/zora/zora_camp.xml:35
 msgid "Center of a Dominion Camp."
-msgstr ""
+msgstr "Centrum tábora Dominia."
 
 #: simulation/templates/structures/zora/zora_civil_centre.xml:113
 msgid "Ministry"
-msgstr ""
+msgstr "Ministerstvo"
 
 #: simulation/templates/structures/zora/zora_civil_centre.xml:114
 msgid ""
@@ -7906,14 +7933,16 @@ msgid ""
 " growth of both civilian and military expansion. Able to train a workforce of Servants "
 "for both labor and soldier duty as well as stock resources."
 msgstr ""
+"Centrum jakéhokoliv Zorského města, Ministerstvo řídí a reguluje ekonomiku a růst civilní "
+"i armádní expanze."
 
 #: simulation/templates/structures/zora/zora_civil_centre.xml:116
 msgid "Center of a Dominion Settlement. Summons Zora Heroes. Manned with Mages for defense."
-msgstr ""
+msgstr "Centrum města Dominia. Povolává Zorské hrdiny. Obsazeno mágy pro obranu."
 
 #: simulation/templates/structures/zora/zora_defense_tower.xml:57
 msgid "Crystal Tower"
-msgstr ""
+msgstr "Krystalová Věž"
 
 #: simulation/templates/structures/zora/zora_defense_tower.xml:58
 msgid ""
@@ -7921,42 +7950,49 @@ msgid ""
 "channel their power. A team of Mages around a single Crystal can form a defensive "
 "battery strong enough to hold off a small army."
 msgstr ""
+"Ikonické modré Zorské krystaly v sobě drží magii ze které Zorští mágové berou "
+"svoji energii. Tým Zorských mágů kolem jednoho krystalu je schopen vytvořit obrannou "
+"četu schopnou odrazit malou armádu."
 
 #: simulation/templates/structures/zora/zora_defense_tower.xml:61
 msgid "Defense Tower that shocks enemies with lightning bolts."
-msgstr ""
+msgstr "Obranná vež která šokuje nepřátele blesky."
 
 #: simulation/templates/structures/zora/zora_farmstead.xml:33
 msgid "Coramold Bed"
-msgstr ""
+msgstr "Korájílová Nádrž"
 
 #: simulation/templates/structures/zora/zora_farmstead.xml:34
 msgid ""
 "A simple plot of land devoted to growing Coralmold, the malleable material used by the "
 "Zora for many aspects of their society"
 msgstr ""
+"Malé prostranství určeno k pěstování Korájílu, ohebného materiálu používaného Zory pro "
+"mnoha aspektů jejich společnosti."
 
 #: simulation/templates/structures/zora/zora_farmstead.xml:36
 msgid "A growth of Coralmold that can be harvested for Ore."
-msgstr ""
+msgstr "Generuje rudu."
 
 #: simulation/templates/structures/zora/zora_field.xml:25
 msgid "Fishery"
-msgstr ""
+msgstr "Rybolov"
 
 #: simulation/templates/structures/zora/zora_field.xml:26
 msgid ""
 "Entire Fish Farms will pop up in some larger bodies of water around Hyrule. These "
 "closed-off areas can breed a wide variety of fishlife for the Zora to eat and consume."
 msgstr ""
+"Celé rybolovy se občas objeví ve větších vodách Hyronu. Tyto uzavřené prostory mohou "
+"pěstovat různé odrůdy ryb které Zorové konzumují."
 
 #: simulation/templates/structures/zora/zora_field.xml:28
 msgid "A pool of fish that can be harvested for Food."
-msgstr ""
+msgstr "Nádrž ryb která generuje jídlo."
 
 #: simulation/templates/structures/zora/zora_fortress.xml:97
 msgid "Bastille"
-msgstr ""
+msgstr "Bastila"
 
 #: simulation/templates/structures/zora/zora_fortress.xml:98
 msgid ""
@@ -7983,13 +8019,15 @@ msgstr ""
 
 #: simulation/templates/structures/zora/zora_house.xml:36
 msgid "Commune"
-msgstr ""
+msgstr "Komuna"
 
 #: simulation/templates/structures/zora/zora_house.xml:37
 msgid ""
 "Citizens of the Dominion are housed in public Communes and subject to forced relocation"
 " should state interests require them elsewhere."
 msgstr ""
+"Občané Dominia jsou ubytování ve veřejných Komunách a silou přesunuti pokud je zájem "
+"státu vyžaduje jinde.
 
 #: simulation/templates/structures/zora/zora_incubator.xml:30
 msgid "Incubator"
