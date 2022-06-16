@@ -5852,32 +5852,32 @@ msgstr "Nemocný a polomrtvý strom který zdánlivě šíří sněť Vzteklých
 
 #: simulation/templates/structures/merc_gimos_stone.xml:42
 msgid "Flying Attack Unit"
-msgstr ""
+msgstr "Létající Útočná Jednotka"
 
 #: simulation/templates/structures/merc_gimos_stone.xml:47
 msgid "Gimos"
-msgstr ""
+msgstr "Gimos"
 
 #: simulation/templates/structures/merc_gimos_stone.xml:50
 msgid "Melee"
-msgstr ""
+msgstr "Na Blízko"
 
 #: simulation/templates/structures/merc_gimos_stone.xml:50
 msgid "Trident"
-msgstr ""
+msgstr "Trojzubec"
 
 #: simulation/templates/structures/merc_gimos_stone.xml:50
 msgid "Mercenary"
-msgstr ""
+msgstr "Žoldák"
 
 #: simulation/templates/structures/merc_gimos_stone.xml:134
 msgid "Become active. (Gimos becomes active again.)"
-msgstr ""
+msgstr "Aktivovat (Gimos se znovu stane aktivním.)"
 
 #: simulation/templates/structures/minor_lonlon/lonlon_civil_centre.xml:28
 #: simulation/templates/structures/npc_lonlon/npc_lon_civil_centre.xml:28
 msgid "Lon Lon Ranch"
-msgstr ""
+msgstr "Ranch Lon Lon"
 
 #: simulation/templates/structures/minor_lonlon/lonlon_civil_centre.xml:29
 #: simulation/templates/structures/npc_lonlon/npc_lon_civil_centre.xml:29
@@ -5886,6 +5886,9 @@ msgid ""
 "and growth of both civilian and military expansion. Able to train a workforce of "
 "Citizens for both labor and soldier duty as well as stock resources."
 msgstr ""
+"Centrum jakéhokoliv Hyliánského města, Radnice řídí a reguluje ekonomiku a růst občanské "
+"i armádní expanze. Schopná trénovat pracovní sílu civilistů pro dělnické i armádní služby, "
+"a také skladovat zdroje."
 
 #: simulation/templates/structures/minor_lonlon/lonlon_civil_centre.xml:31
 #: simulation/templates/structures/npc_lonlon/npc_lon_civil_centre.xml:31
@@ -5893,35 +5896,37 @@ msgid ""
 "Lon Lon Ranch Civil Center: trains all Lon Lon units and serves as a Resource drop off "
 "point."
 msgstr ""
+"Občanské centrum Lon Lonského Ranče: trénuje všechny Lon Lonské jednotky a slouží jako "
+"sklad pro zdroje."
 
 #: simulation/templates/structures/minor_lonlon/lonlon_defense_tower.xml:82
 #: simulation/templates/structures/npc_lonlon/npc_lon_defense_tower.xml:82
 msgid "Lon Lon Guard Tower"
-msgstr ""
+msgstr "Lon Lonská Strážní Věž"
 
 #: simulation/templates/structures/minor_lonlon/lonlon_defense_tower.xml:83
 #: simulation/templates/structures/minor_lonlon/lonlon_defense_tower.xml:86
 #: simulation/templates/structures/npc_lonlon/npc_lon_defense_tower.xml:83
 #: simulation/templates/structures/npc_lonlon/npc_lon_defense_tower.xml:86
 msgid "Defensive Tower that attacks with arrows."
-msgstr ""
+msgstr "Obranná Věž která útočí šípy."
 
 #: simulation/templates/structures/minor_lonlon/lonlon_stables.xml:24
 #: simulation/templates/structures/npc_lonlon/npc_lon_stables.xml:24
 msgid "Lon Lon Stables"
-msgstr ""
+msgstr "Lon Lonské Stáje"
 
 #: simulation/templates/structures/minor_lonlon/lonlon_stables.xml:25
 #: simulation/templates/structures/minor_lonlon/lonlon_stables.xml:28
 #: simulation/templates/structures/npc_lonlon/npc_lon_stables.xml:25
 #: simulation/templates/structures/npc_lonlon/npc_lon_stables.xml:28
 msgid "Trains Lon Lon Cavalry units."
-msgstr ""
+msgstr "Trénuje Lon Lonské jezdecké jednotky."
 
 #: simulation/templates/structures/minor_tokay/npc_tok_bighouse.xml:24
 #: simulation/templates/structures/npc_tokay/npc_tok_bighouse.xml:24
 msgid "Tokay Boss Chief Shack"
-msgstr ""
+msgstr "Plazounská Šéfovská Chatrč"
 
 #: simulation/templates/structures/minor_tokay/npc_tok_bighouse.xml:25
 #: simulation/templates/structures/npc_tokay/npc_tok_bighouse.xml:25
@@ -5929,16 +5934,18 @@ msgid ""
 "The Big Tokay Boss usually has a bigger and nicer shack to live in compared to other "
 "Tokay. Mostly bigger, not much nicer."
 msgstr ""
+"Velký Plazounský šéf bydlí většinou ve větší a pěknější chatrči v porovnání s "
+"ostatními Plazouny. Hlavně větší, ne moc pěknější."
 
 #: simulation/templates/structures/minor_tokay/npc_tok_bighouse.xml:27
 #: simulation/templates/structures/npc_tokay/npc_tok_bighouse.xml:27
 msgid "Tokay Civil Center: trains all Zuna units and serves as a Resource drop off point."
-msgstr ""
+msgstr "Plazounské občanské centrum: trénuje všechny plazounské jednotky."
 
 #: simulation/templates/structures/minor_tokay/npc_tok_civil_centre.xml:29
 #: simulation/templates/structures/npc_tokay/npc_tok_civil_centre.xml:29
 msgid "Maku Temple"
-msgstr ""
+msgstr "Maku Chrám"
 
 #: simulation/templates/structures/minor_tokay/npc_tok_civil_centre.xml:30
 #: simulation/templates/structures/npc_tokay/npc_tok_civil_centre.xml:30
@@ -5947,28 +5954,31 @@ msgid ""
 "Crescent Island. No one is quite sure the makeup of Tokay religion, not even the Tokay "
 "themselves."
 msgstr ""
+"Mohutný Plazounská hlava vytesána z obřího kmene mrtvého Maku stromu na plážích "
+"Půlměsíčního ostrova. Nikdo si není jistý složením Plazounského náboženství, ani "
+"samotní Plazouni."
 
 #: simulation/templates/structures/minor_tokay/npc_tok_civil_centre.xml:32
 #: simulation/templates/structures/npc_tokay/npc_tok_civil_centre.xml:32
 msgid "Tokay Religious structure that spreads their territory."
-msgstr ""
+msgstr "Plazounská náboženská budova která rozšiřuje jejich teritorium."
 
 #: simulation/templates/structures/minor_tokay/npc_tok_house.xml:25
 #: simulation/templates/structures/npc_tokay/npc_tok_house.xml:25
 msgid "Tokay Shack"
-msgstr ""
+msgstr "Plazounská Chatrč"
 
 #: simulation/templates/structures/minor_tokay/npc_tok_house.xml:26
 #: simulation/templates/structures/minor_tokay/npc_tok_house.xml:28
 #: simulation/templates/structures/npc_tokay/npc_tok_house.xml:26
 #: simulation/templates/structures/npc_tokay/npc_tok_house.xml:28
 msgid "Crude dwelling that Tokay live in."
-msgstr ""
+msgstr "Jednoduché obydlí ve kterém žijí Plazouni."
 
 #: simulation/templates/structures/minor_zuna/npc_zun_civil_centre.xml:28
 #: simulation/templates/structures/npc_zuna/npc_zun_civil_centre.xml:28
 msgid "Zunayan Weaponcrafters"
-msgstr ""
+msgstr "Zunská Zbrojnice"
 
 #: simulation/templates/structures/minor_zuna/npc_zun_civil_centre.xml:29
 #: simulation/templates/structures/npc_zuna/npc_zun_civil_centre.xml:29
@@ -5977,63 +5987,69 @@ msgid ""
 "their techniques for years, and many mercenaries from Hyrule would seek the Zuna out to"
 " purchase their fine weapons."
 msgstr ""
+"Zunové byli mistři v tvorbě zbraní. Temnáři si žádali a kradli jejich techniky po mnohé "
+"léta, a mnozí žoldáci z Hyronu vyhledávali Zuny aby si koupili jejich kvalitní zbraně."
 
 #: simulation/templates/structures/minor_zuna/npc_zun_civil_centre.xml:31
 #: simulation/templates/structures/npc_zuna/npc_zun_civil_centre.xml:31
 msgid "Zuna Civil Center: trains all Zuna units and serves as a Resource drop off point."
-msgstr ""
+msgstr "Zunské občanské centrum: Trénuje všechny Zunské jendotky."
 
 #: simulation/templates/structures/minor_zuna/npc_zun_house.xml:25
 #: simulation/templates/structures/npc_zuna/npc_zun_house.xml:25
 msgid "Zuna House"
-msgstr ""
+msgstr "Zunský Dům"
 
 #: simulation/templates/structures/minor_zuna/npc_zun_house.xml:26
 #: simulation/templates/structures/minor_zuna/npc_zun_house.xml:28
 #: simulation/templates/structures/npc_zuna/npc_zun_house.xml:26
 #: simulation/templates/structures/npc_zuna/npc_zun_house.xml:28
 msgid "Dwelling place for the Zuna people."
-msgstr ""
+msgstr "Obydlí pro Zunský Lid."
 
 #: simulation/templates/structures/moblin/moblin_bar.xml:32
 msgid "Bestin' Bar n Drinks"
-msgstr ""
+msgstr "Nejlepšejší Hospoda a Moky"
 
 #: simulation/templates/structures/moblin/moblin_bar.xml:33
 msgid ""
 "Oh man the Boko juice is the best! We Moblins when we are done fighting we gulp that "
 "stuff up real nice like! Makes us happy for the night and ready for more fighting!"
 msgstr ""
+"Tý vole, Broučí štáva je nejlepšejší! My Moblini když máme voraz vod boje to vypijem "
+"jak zvířata! Dělá nás to šťastný na spaní a připravený na víc bojování!"
 
 #: simulation/templates/structures/moblin/moblin_bar.xml:36
 msgid "Makes the Workers work even better!"
-msgstr ""
+msgstr "Nutí dělníky pracovat eště líp!"
 
 #: simulation/templates/structures/moblin/moblin_bar.xml:56
 msgid "Pack up this Bestin' Bar n Drinks."
-msgstr ""
+msgstr "Zabal už tudle Nejlepšejší Hospodu a Moky."
 
 #: simulation/templates/structures/moblin/moblin_barracks.xml:25
 msgid "Lil Blin Camp"
-msgstr ""
+msgstr "Kemp Malejch Blinů"
 
 #: simulation/templates/structures/moblin/moblin_barracks.xml:26
 msgid ""
 "Ahhh some Blins cursed with being really small like! They small, and weak, and very "
 "dumb! But even small Blin can bash em on the head! Small Blins go here!"
 msgstr ""
+"Ááá někteří Blini maj fakt smůlu a sou jako fakt malí! Malí, slabí, a fakt blbí. "
+"Ale i malí Blini můžou přetáhnout po hlavě. Jinak jdou sem!"
 
 #: simulation/templates/structures/moblin/moblin_barracks.xml:28
 msgid "Makes small Blin units!"
-msgstr ""
+msgstr "Dělá malý Blinský jednotky!"
 
 #: simulation/templates/structures/moblin/moblin_barracks.xml:74
 msgid "Pack up this Lil Blin Camp."
-msgstr ""
+msgstr "Zabal tudle Kemp Malejch Blinů."
 
 #: simulation/templates/structures/moblin/moblin_barracksA.xml:25
 msgid "Blin Base n' Camp"
-msgstr ""
+msgstr "Blinská Báze a Kemp"
 
 #: simulation/templates/structures/moblin/moblin_barracksA.xml:26
 msgid ""
@@ -6041,19 +6057,22 @@ msgid ""
 "old camp the best place for us Moblins and bigger Blins of all types to get the sharp "
 "stick and nice armor to go fight the baddies!"
 msgstr ""
+"Blini jsou dycky připravení bojovat! Ale občas se můžem bejt ještě připravenější bojovat! "
+"Tudle starej kemp je nejlepšejší místo pro nás Mobliny a větší Bliny všech typů kde si "
+"berem klacek a pěkný brnění a jsem bojovat se zlounama!"
 
 #: simulation/templates/structures/moblin/moblin_barracksA.xml:28
 msgid "Makes the Moblins and lots of fighting Blin units!"
-msgstr ""
+msgstr "Dělá Mobliny a spoustu bojujících Blinskejch jednotek!"
 
 #: simulation/templates/structures/moblin/moblin_barracksA.xml:78
 msgid "Pack up this Blin Base n' Camp."
-msgstr ""
+msgstr "Zabal už tudle Blinskou Bázi a Kemp."
 
 #: simulation/templates/structures/moblin/moblin_barracksB.xml:25
 #: simulation/templates/structures/moblin/moblin_barracksD.xml:29
 msgid "Big n' Best Blin Camp"
-msgstr ""
+msgstr "Velkej a suprovej Blinskej Kemp"
 
 #: simulation/templates/structures/moblin/moblin_barracksB.xml:26
 msgid ""
@@ -6061,20 +6080,22 @@ msgid ""
 "helps us fight down them ugly Hylians!  They real big and real scary! They can knock "
 "down a Moblin house just by bonking into it!"
 msgstr ""
+"Tyyyyyyy vole Velblini! Mám z nich naděláno do kalhot! Pomáhaj nám zabíjet ty blbý "
+"Hyliány! Jsou fakt velcí a sakra děsiví! Umí porazit barák tím že do něj narazí!"
 
 #: simulation/templates/structures/moblin/moblin_barracksB.xml:28
 #: simulation/templates/structures/moblin/moblin_barracksD.xml:32
 msgid "Makes the biggest and bestest Blin units!"
-msgstr ""
+msgstr "Dělá největší a nejlepšejší Blinský jednotky!"
 
 #: simulation/templates/structures/moblin/moblin_barracksB.xml:74
 #: simulation/templates/structures/moblin/moblin_barracksD.xml:77
 msgid "Pack up this Big n' Best Blin Camp."
-msgstr ""
+msgstr "Zabal tudle Velkej a suprovej Blinskej Kemp"
 
 #: simulation/templates/structures/moblin/moblin_barracksC.xml:25
 msgid "Contraption Camp"
-msgstr ""
+msgstr "Kemp Mašinek"
 
 #: simulation/templates/structures/moblin/moblin_barracksC.xml:26
 msgid ""
@@ -6082,14 +6103,17 @@ msgid ""
 "awesome that they take the tree with em wherever they go! Smart little Bugblins! They "
 "also make smart contraptions to go knock downb the baddies houses! "
 msgstr ""
+"Báááááájo tidle Broukblini mají nejsuprovější dům ve stromě! Bájo! Broukblinskej dům "
+"ve stromě je tak suprovej že si ho berou všude kam dou! Chytří mají Broukblini! Taky "
+"umí dělat chytrý mašinky který ničí těm blbcům domy!"
 
 #: simulation/templates/structures/moblin/moblin_barracksC.xml:28
 msgid "Get the cool Siege units from here!"
-msgstr ""
+msgstr "Tady si vem suprový oblíhací mašinky!"
 
 #: simulation/templates/structures/moblin/moblin_barracksC.xml:72
 msgid "Pack up this Contraption Camp."
-msgstr ""
+msgstr "Zabal tudle Kemp Mašinek"
 
 #: simulation/templates/structures/moblin/moblin_barracksD.xml:30
 msgid ""
@@ -6097,10 +6121,13 @@ msgid ""
 "helps us fight down them ugly Hylians! Oh man and Uncle Gooma and Hinox! They real big "
 "and real scary! They can knock down a Moblin house just by bonking into it!"
 msgstr ""
+"Tyyyyyyy vole Velblini! Mám z nich naděláno do kalhot! Pomáhaj nám zabíjet ty blbý "
+"Hyliány! Jo, a taky strejda Guma a Hinox! Jsou fakt velcí a sakra děsiví! Umí porazit "
+"barák tím že do něj narazí!"
 
 #: simulation/templates/structures/moblin/moblin_blacksmith.xml:25
 msgid "Handmedown Armor Place"
-msgstr ""
+msgstr "Brněný z Druhý Ruky"
 
 #: simulation/templates/structures/moblin/moblin_blacksmith.xml:26
 msgid ""
@@ -6108,18 +6135,21 @@ msgid ""
 " that there thing! When our armor gets all worn down, we put it on the shelf and sell "
 "it like new! Half the Blinys don't know the difference ahaahahah!"
 msgstr ""
+"Hyliáni dělaj věci pro ňáký Rupie. My sme v tom ale vychytralejší! Když je naše brnění "
+"už vobnosený, dáme to zpátky na polici a prodáme jako nový! Půlka Blinů to ani nepozná "
+"ahahahahaha!"
 
 #: simulation/templates/structures/moblin/moblin_blacksmith.xml:29
 msgid "Make the Moblins armor and weapons even better than they already are!"
-msgstr ""
+msgstr "Moblini vocaď dostávaj lepší brnění!"
 
 #: simulation/templates/structures/moblin/moblin_blacksmith.xml:73
 msgid "Pack up this Handmedown Armor Place."
-msgstr ""
+msgstr "Zabal tudle Brnění z Druhý Ruky."
 
 #: simulation/templates/structures/moblin/moblin_blacksmithA.xml:25
 msgid "Smart Science Makers"
-msgstr ""
+msgstr "Chytrý Vědátoři"
 
 #: simulation/templates/structures/moblin/moblin_blacksmithA.xml:26
 msgid ""
@@ -6127,22 +6157,25 @@ msgid ""
 "ones know how to read, and they read from the Olden Timey books and make super awersome"
 " weapons and armor for all the Blins! They the best!”"
 msgstr ""
+"Se nebojíme říct že Moblini nejsou nejchytřejší... ale vobčas jsme! Chytrý umí číst, a "
+"čtou ze starejch knížek a dělaj super a úžasný zbraně a brnění pro všechny Bliny! Jsou "
+"fakt nejlepšejší!"
 
 #: simulation/templates/structures/moblin/moblin_blacksmithA.xml:29
 msgid "Smart Moblins make new upgrades for all our stuff!”"
-msgstr ""
+msgstr "Moblini vocaď dostávaj chytřejší věci!"
 
 #: simulation/templates/structures/moblin/moblin_blacksmithA.xml:61
 msgid "Pack up this Smart Science Makers."
-msgstr ""
+msgstr "Vybal tudle Chytrý Vědátory."
 
 #: simulation/templates/structures/moblin/moblin_bonepit.xml:29
 msgid "Big Bone Pit"
-msgstr ""
+msgstr "Velká Hrouda Kostí"
 
 #: simulation/templates/structures/moblin/moblin_bonepit.xml:30
 msgid "Makes cool new weapons and junk!"
-msgstr ""
+msgstr "Dělá suprový nový věci a bordel!"
 
 #: simulation/templates/structures/moblin/moblin_bonepit.xml:33
 msgid ""
@@ -6150,38 +6183,41 @@ msgid ""
 "eaten ratty in the biggo pile of stink! That was a free meal! Moblins smart we look in "
 "all the junk and make great time!"
 msgstr ""
+"Moblini nacházej tolik věcí co jiní lidi vyhazujou jako bordel! Jsem jednou našel "
+"polosežranou krysu ve velký hromadě hnusu! To bylo jídlo zdarma! My Moblini jsme chytrý, "
+"hrabem se v bordelu a bavíme se!"
 
 #: simulation/templates/structures/moblin/moblin_bonepit.xml:64
 msgid "Pack up this Big Bone Pit."
-msgstr ""
+msgstr "Zabal tudle Velkou Hroudu Kostí."
 
 #: simulation/templates/structures/moblin/moblin_builder.xml:25
 msgid "Building Builder Camp"
-msgstr ""
+msgstr "Barák Baráků"
 
 #: simulation/templates/structures/moblin/moblin_builder.xml:28
 msgid "Get new buildings from this place!"
-msgstr ""
+msgstr "Tady si ber nový baráky!"
 
 #: simulation/templates/structures/moblin/moblin_builder.xml:79
 msgid "Pack up this Building Builder Camp."
-msgstr ""
+msgstr "Zabal tudle Barák Baráků."
 
 #: simulation/templates/structures/moblin/moblin_camp.xml:32
 msgid "Tiny Totem"
-msgstr ""
+msgstr "Malej Totem"
 
 #: simulation/templates/structures/moblin/moblin_camp.xml:33
 msgid "Small Totem make for small Moblin camp! Still better than no camp at all!"
-msgstr ""
+msgstr "Malej Totem dělá malej Moblinskej kemp! Furt lepší než žádnej kemp!"
 
 #: simulation/templates/structures/moblin/moblin_camp.xml:35
 msgid "Center of a Moblin Camp."
-msgstr ""
+msgstr "Centrum Moblinskýho kempu!"
 
 #: simulation/templates/structures/moblin/moblin_civil_centre.xml:84
 msgid "Giant Totem"
-msgstr ""
+msgstr "Vobří Totem"
 
 #: simulation/templates/structures/moblin/moblin_civil_centre.xml:85
 msgid ""
@@ -6189,14 +6225,17 @@ msgid ""
 "be pretty dumb! We may have had farms, and gardens, and nice houses that never fell "
 "down before he came around and made us smart, but now we has fighting! Hail Ukblinro!"
 msgstr ""
+"Ukblinro, bůh co nás udělal! Ukblinro je nejlepšejší! Bez něho bysme mi Moblini byli "
+"dost blbí! Měli jsme sice farmy, a zahrady, a pěkný baráky co kindy nepadaly před tím "
+"než přišel a udělal nás chytrý, ale teď máme boj! Sláva Ukblinrovi!"
 
 #: simulation/templates/structures/moblin/moblin_civil_centre.xml:87
 msgid "Center of a Moblin Settlement. Summons Moblin Heroes."
-msgstr ""
+msgstr "Centrum Moblinskýho města! Povolává Moblinský hrdiny!"
 
 #: simulation/templates/structures/moblin/moblin_defense_tower.xml:60
 msgid "Watchin' You Tower"
-msgstr ""
+msgstr "Hlejdací Věžička"
 
 #: simulation/templates/structures/moblin/moblin_defense_tower.xml:61
 msgid ""
@@ -6205,18 +6244,22 @@ msgid ""
 " we all eat and we all fight the real enemies over the hills! If we was not here, all "
 "Blins kill themselves! The world would be a sadder place!"
 msgstr ""
+"Blbí Blini, furt si chcou dělat co chcou dělat! Jsou moc blbí aby byli svobodní! Proto "
+"my Moblini je musíme furt sledovat a šéfovat jim! S náma jako šéfové, všici žerem a "
+"všici bojujem se skutečnejma nepřátelama přes kopce! Kdybysme tady nebejvali, všici "
+"Blini by se pozabíjeli navzájem! Svět by byl vo to smutnější!"
 
 #: simulation/templates/structures/moblin/moblin_defense_tower.xml:64
 msgid "Tower hits the baddies with arrows!"
-msgstr ""
+msgstr "Pěkný věžičky který střílej šípy na blbce v Moblinskejch místech!"
 
 #: simulation/templates/structures/moblin/moblin_defense_tower.xml:85
 msgid "Pack this Watchin' You Tower."
-msgstr ""
+msgstr "Zabal tudle Hlejdací Věžičku."
 
 #: simulation/templates/structures/moblin/moblin_field.xml:25
 msgid "Prey Breedin' Place"
-msgstr ""
+msgstr "Plac na Množení Kořisti"
 
 #: simulation/templates/structures/moblin/moblin_field.xml:26
 msgid ""
@@ -6224,18 +6267,21 @@ msgid ""
 " like the neighbors breed the cows and the goats and the horseys?!” So we Moblins did "
 "just that and now we gots lots of food running around!"
 msgstr ""
+"Jeden dost chytrej Moblin si jednou řekl, "Hej, co kdybysme množili kořist jako sousedi "
+"množí krávy a kozy a koně?! Tak mi Moblini udělali právě to a teď nám tady pochoduje "
+"spoustu jídla!"
 
 #: simulation/templates/structures/moblin/moblin_field.xml:28
 msgid "Makes the Ugpug Pigs that we can kill for Food!"
-msgstr ""
+msgstr "Tady množíme kořist a pak ji jdem lovit a máme z ní jídlo!"
 
 #: simulation/templates/structures/moblin/moblin_field.xml:54
 msgid "Pack this Prey Breedin' Place."
-msgstr ""
+msgstr "Zabal tudle Plac na Množení Kořisti."
 
 #: simulation/templates/structures/moblin/moblin_fortress.xml:110
 msgid "Big Bad Battle Base"
-msgstr ""
+msgstr "Velká Rvačská Základna"
 
 #: simulation/templates/structures/moblin/moblin_fortress.xml:111
 #: simulation/templates/structures/moblin/moblin_fortress.xml:114
@@ -6246,14 +6292,19 @@ msgid ""
 "arrows! So great! When we fast enough we can set up Big Bad Battle Base right at the "
 "baddy base! Base Battle times!"
 msgstr ""
+"Jóóóó Velká Rvačská Základna! Největší nejlepšejší nejsuprovější základna co kdy byla! "
+"Moblini dělaj Velkou Rvačskou Základnu aby přivezli boj k blbcům! Víc Moblinů než prsty "
+"napočítaj můžou stát ve velký rvačský základně a bojovat s blbcama šípy! Takt suprový! "
+"Když jsme dost rychlí můžem postavit Velkou Rvačskou Základnu hnedka u blbecký základny! "
+"Rvačka základen!"
 
 #: simulation/templates/structures/moblin/moblin_fortress.xml:142
 msgid "Pack this Big Bad Battle Base."
-msgstr ""
+msgstr "Zabal tudle Velkou Rvačskou Základnu."
 
 #: simulation/templates/structures/moblin/moblin_house.xml:25
 msgid "Housin' Yurt"
-msgstr ""
+msgstr "Vobytná Jurta"
 
 #: simulation/templates/structures/moblin/moblin_house.xml:26
 msgid ""
@@ -6261,19 +6312,22 @@ msgid ""
 "learn from us! Our houses only fall down maybe two or three times a season instead of "
 "five!"
 msgstr ""
+"Áááá domov sladkej domov! My Moblini děláme nejlepší domy pro náš druh! Jiní Blini by "
+"se vod nás mohli učit! Naše baráky padaj jenom dvakrát nebo třikrát za roční období "
+"místo pětkrát!"
 
 #: simulation/templates/structures/moblin/moblin_house.xml:28
 msgid "We live here!"
-msgstr ""
+msgstr "Tady žijem!"
 
 #: simulation/templates/structures/moblin/moblin_house.xml:50
 #: simulation/templates/structures/moblin/moblin_house_upg.xml:8
 msgid "Pack this Housin' Yurt."
-msgstr ""
+msgstr "Zabal tudle Vobytnou Jurtu."
 
 #: simulation/templates/structures/moblin/moblin_market.xml:25
 msgid "Swap Meet n' Meat"
-msgstr ""
+msgstr "Výměna Masa a Žrádla"
 
 #: simulation/templates/structures/moblin/moblin_market.xml:26
 msgid ""
@@ -6281,22 +6335,25 @@ msgid ""
 "that shinies are a joke though, just a trick they Hylians made to make money on stuff! "
 "So smartest Moblins sell it to dumber Moblins and make lots of money!"
 msgstr ""
+"Tý vole, když Moblin dostane nějakej šperk, je jako ňákej král! Nejchytřejší ale ví že "
+"šperky jsou blbiny, jenom trik co vymysleli Hyliánci aby na nich vydělali! Takže "
+"nejchytřejší Moblini je prodávaj blbejším Moblinům a dělaj spoustu peněz!"
 
 #: simulation/templates/structures/moblin/moblin_market.xml:29
 msgid "We can trade on the market or with our best friend allies!"
-msgstr ""
+msgstr "Moblini tady mění peníze a obchodují se svýma super kamarádama!"
 
 #: simulation/templates/structures/moblin/moblin_market.xml:84
 msgid "Pack this Swap Meet n' Meat."
-msgstr ""
+msgstr "Zabal tudle Výměnu Masa a Žrádla"
 
 #: simulation/templates/structures/moblin/moblin_mercs.xml:29
 msgid "Cool Friend's Club"
-msgstr ""
+msgstr "Supr Klub Prátel"
 
 #: simulation/templates/structures/moblin/moblin_mercs.xml:30
 msgid "Moblins hire Mercenary people from this place!"
-msgstr ""
+msgstr "Moblini vocaď najímaj super přátele aby bojovali za ně!"
 
 #: simulation/templates/structures/moblin/moblin_mercs.xml:33
 msgid ""
@@ -6304,14 +6361,17 @@ msgid ""
 "others! Like the doggydarknutys! Sometimes Skeleton-mans cause they scary! But not the "
 "Hylians! They is bad! That why Ukblinro made a peacey treaty with them! Oh wait..."
 msgstr ""
+"Jó, my víme že sme vobčas moc zlí! Vobčas musíme být s ostatníma kámoši! Jako s pejskama "
+"Temnáři! Nebo kostlivco-chlapama protože jsou děsiví! Ale ne Hyliánci! Jsou zlí! Proto s "
+"nima Ukblinro uzavřel mírovou dohodu! Jo počkat..."
 
 #: simulation/templates/structures/moblin/moblin_mercs.xml:81
 msgid "Pack this Cool Friend's Club."
-msgstr ""
+msgstr "Zabal tudle Supr Klub Přutel"
 
 #: simulation/templates/structures/moblin/moblin_outpost.xml:78
 msgid "Totem"
-msgstr ""
+msgstr "Totem"
 
 #: simulation/templates/structures/moblin/moblin_outpost.xml:79
 #: simulation/templates/structures/moblin/moblin_totem.xml:30
@@ -6321,18 +6381,22 @@ msgid ""
 "More Blins, more better the world is! When the land is bad we can pick up the Totem and"
 " move it to brand new best land! Moblins are smart!"
 msgstr ""
+"Tady todle je největší umění Moblinskýho druhu! Moblinskej totem voznačuje zemi co je "
+"naše! S Moblinským Totemem můžem postavit všecky velký baráka a základny abysme udělali "
+"víc Blinů! Čím víc Blinů, tím lepší je svět! Když je země na nic můžem sbalit Totel a "
+"posunout ho na novou nejpelšejší zemi! Moblini jsou chytrý!"
 
 #: simulation/templates/structures/moblin/moblin_outpost.xml:81
 msgid "Center of a Moblin Outpost. Summons Moblin Heroes."
-msgstr ""
+msgstr "Centrum Moblinský základny! Povolává Moblinský hrdiny!"
 
 #: simulation/templates/structures/moblin/moblin_popbonus.xml:27
 msgid "Moblin Population Bonus"
-msgstr ""
+msgstr "Moblinskej Obyvatelskej Bonus"
 
 #: simulation/templates/structures/moblin/moblin_storehouse.xml:25
 msgid "Good Stuff Stockin'"
-msgstr ""
+msgstr "Sklad Dobrejch Věcí"
 
 #: simulation/templates/structures/moblin/moblin_storehouse.xml:26
 msgid ""
@@ -6340,26 +6404,29 @@ msgid ""
 "gots the ding dang metal! We gots the shiny rupees! Them dumb Dodoblins they bring it "
 "all here, set it all down, and we take it all for ourselves! Hahaha stupid Dodo!"
 msgstr ""
+"My Moblini jsme skvělí, berem si všecko dobrý! Berem si maso! Berem si stromy! Berem si "
+"všecko lesklý brnění! Berem si leský Rupie! Ti blbí Dodoblini to sem všeckou přinášej, "
+"položí, a my si to berem pro sebe! Hahaha, blbí Dodové!"
 
 #: simulation/templates/structures/moblin/moblin_storehouse.xml:28
 msgid "We get to dropp off the Resources at this here place!"
-msgstr ""
+msgstr "Dodoblini sem berou všechny zdroje aby sme si to my Moblini vzali s sebou!"
 
 #: simulation/templates/structures/moblin/moblin_storehouse.xml:61
 msgid "Pack this Good Stuff Stockin'."
-msgstr ""
+msgstr "Zabal tudle Sklad Dobrejch Věcí"
 
 #: simulation/templates/structures/moblin/moblin_totem.xml:29
 msgid "Moblin Totem"
-msgstr ""
+msgstr "Moblinskej Totem"
 
 #: simulation/templates/structures/moblin/moblin_totem.xml:33
 msgid "Lets us Moblins get Territory and make more buildings! Yaaay!"
-msgstr ""
+msgstr "Dává nám Moblinům teritorium a dělá víc baráků! Žůžo!"
 
 #: simulation/templates/structures/moblin/moblin_totem.xml:62
 msgid "Pack up this Moblin Totem."
-msgstr ""
+msgstr "Zabal tudle Moblinskej Totem."
 
 #: simulation/templates/structures/moblin/moblin_wonder.xml:15
 msgid "Ganon's Castle"
@@ -6377,11 +6444,11 @@ msgstr ""
 
 #: simulation/templates/structures/node_campA.xml:19
 msgid "Camp Site"
-msgstr ""
+msgstr "Táborová Plocha"
 
 #: simulation/templates/structures/node_campA.xml:20
 msgid "An ideal location to build a small base."
-msgstr ""
+msgstr "Ideální místo k postavení malé základny."
 
 #: simulation/templates/structures/node_campA.xml:63
 #: simulation/templates/structures/node_campA.xml:75
@@ -6402,7 +6469,7 @@ msgstr ""
 #: simulation/templates/structures/node_miningA.xml:350
 #: simulation/templates/structures/node_woodA.xml:216
 msgid "Build a small base on this Camp Site."
-msgstr ""
+msgstr "Postavit malou základnu na této Táborové Ploše."
 
 #: simulation/templates/structures/node_campA.xml:195
 msgid "Set up a Grub Grower on this Camp Site."
