@@ -11050,10 +11050,10 @@ msgid ""
 " trade and hopes to keep the Province one of Hyrule's greatest market powers. While not"
 " skilled in fighting, she has enough training with a bow and arrows."
 msgstr ""
-"Als die Tochter von Zeira und die Nachfolgein ihres Geschäfts, leitet Betty eine der größten "
-"Handelsketten in Hyrule. Sie ist mitverantwortlich für Ordonas wirtschaftlichen Wohlstand und "
-"den Außenhandel und hofft die Provinz in Hyrule als Wirtschaftsmacht zu halten. Zwar ist sie nicht"
-"gut im Kämpfen aber sie hat genug Training mit Pfeil und Bogen."
+"Als die Tochter von Zeira und die Erbin ihres Geschäfts, leitet Betty eine der größten"
+"Handelsketten in Hyrule. Sie ist mitverantwortlich für Ordonas wirtschaftlichen Wohlstand"
+"und den Außenhandel und hofft die Provinz in Hyrule als Wirtschaftsmacht zu halten. Zwar"
+"ist sie nicht gut im Kämpfen aber sie hat genug Training mit Pfeil und Bogen."
 
 #: simulation/templates/units/ordona/ordona_hero_beth_b.xml:48
 msgid "Beth"
@@ -11176,7 +11176,6 @@ msgstr ""
 "aus Ordona zu werden. Irgendwann hat er seine Studien abgebrochen und wurde zu dem Händler"
 "den jeder kannte. Moe war auch für seine Güte, und wichtiger noch, seine Ruhe bekannt. "
 "Selbst in brenzligen Situationen bewahrte er einen kühlen Kopf und verfiel nie in Panik."
-""
 
 #: simulation/templates/units/ordona/ordona_hero_rusl_b.xml:40
 msgid "Rusl"
@@ -11184,7 +11183,7 @@ msgstr "Moe"
 
 #: simulation/templates/units/ordona/ordona_hero_rusl_b.xml:41
 msgid "Stalwart and durable Melee Hero armed with a sword and shield."
-msgstr "Standhafte und wiederspenstige Infeanterie held mit Schwert und Schild."
+msgstr "Standhafte und wiederspenstige Infanterie held mit Schwert und Schild."
 
 #: simulation/templates/units/ordona/ordona_horseman_b.xml:33
 msgid "Horseman"
@@ -11303,7 +11302,7 @@ msgid ""
 "Mudora and knowledge of the Goddesses to all of Hyrule. These Reverends will preach in "
 "just about any land, be they welcoming or hostile to their intent."
 msgstr ""
-"Zwar ist die Ordon Provinz nicht so Dogmatisch wie Hyrules religiöse Institutionen aber"
+"Zwar ist die Ordon Provinz nicht so dogmatisch wie Hyrules religiöse Oberschicht aber"
 "ihre Priester sind dafür umso passionierter und ausdrucksvoll und predigeen aus dem  "
 "Buch von Mudora und das Wissen der Göttinnen in ganz Hyrule. Diese Pastoren predigen"
 "in fast jedem Land ob sie willkommen geheißen werden oder auch nicht."
@@ -11375,14 +11374,18 @@ msgid ""
 "nearly sacred to the people of the province. A Shepherd can summon a small flock of "
 "Ordonian goats that follow their leader around, attacking any enemies that come near."
 msgstr ""
+"Die Ziegenhirtinnen versorgen und pflegen die in Ordon heimischen Ziegen. Sie geben Fleisch, "
+"Milch und geben gute Lasten und Reitertiere ab. Sie sind so wertvoll das sie unter den Ordonern "
+"schon fast als heilig gelten in der Provinz. Eine Hirtin kann eine kleine Herde an Ordonziegen"
+"beschwören die ihr überall hinfolgen und jeden angreifen der ihnen zu nahe kommt."
 
 #: simulation/templates/units/ordona/ordona_shepherd_b.xml:34
 msgid "Support unit that summons herds of Attack Goats to swarm their enemies."
-msgstr ""
+msgstr "Unterstützungseinheit die eine Herde von Angriffsziegen beschwört die Gegner umzingeln."
 
 #: simulation/templates/units/ordona/ordona_siegeram_b.xml:43
 msgid "Battering Ram"
-msgstr ""
+msgstr "Ziegenrammbock"
 
 #: simulation/templates/units/ordona/ordona_siegeram_b.xml:44
 msgid ""
@@ -11391,28 +11394,34 @@ msgid ""
 "Their capped roof makes them quite resistant to ranged attacks, forcing enemies to "
 "bombard them with fire or stop them in a melee."
 msgstr ""
+"Aus gutem Phirone Holz und mit einem großen metallenen Ziegenkopf, ermöglichen diese"
+"Belagerungswaffen" Mauern und Tore einzureißen um in geschützte Bereiche vorzudringen.
+"Das verstärkte Dach macht sie ziemlich resistent gegen Fernkampfangriffe was ihre Feinde"
+"dazu zwingt im Nahkampf oder mit Feuer dagegen vorzugehen."
 
 #: simulation/templates/units/ordona/ordona_siegeram_b.xml:46
 msgid "Cheap Melee Siege unit that can bash down walls and gates."
-msgstr ""
+msgstr "Billigre Belagerungswaffe die Mauern und Tore einrammt"
 
 #: simulation/templates/units/ordona/ordona_spiritgoat_b.xml:30
 msgid "Spirit Goat"
-msgstr ""
+msgstr "Ziegengeist"
 
 #: simulation/templates/units/ordona/ordona_spiritgoat_b.xml:31
 msgid ""
 "A mystical spirit of a long dead Elder Goat. It is said that the Spirit of Ordona will "
 "summon these beings to defend his lands in times of great peril."
 msgstr ""
+"Ein mysteriöse Schutzgeister längst verstorebener Ziegenältesten. Man munkelt das der Lichtgeist"
+"von Ordon diese zur Verteidigung des Landes beschwört."
 
 #: simulation/templates/units/ordona/ordona_spiritgoat_b.xml:35
 msgid "Spirit Creature unit that attacks enemies in close quarters."
-msgstr ""
+msgstr "Geist Kreatur die im Nahkampf angreift."
 
 #: simulation/templates/units/ordona/ordona_theresistance_b.xml:57
 msgid "The Resistance"
-msgstr ""
+msgstr "Die Wiederstandsgruppe"
 
 #: simulation/templates/units/ordona/ordona_theresistance_b.xml:59
 msgid ""
@@ -11435,14 +11444,34 @@ msgid ""
 "he charted on his many ventures into the wilderness and currently maintains its many "
 "supply routes."
 msgstr ""
+"Eine einzigartige Einheit nur für Ashley"
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
 
 #: simulation/templates/units/ordona/ordona_theresistance_b.xml:62
 msgid "A squad of secondary Support Heroes with multiple attacks and abilities."
-msgstr ""
+msgstr "Eine Truppe von sekundären Unterstützungshelden mit verschiedenen Angriffen und Fähigkeiten"
 
 #: simulation/templates/units/ordona/ordona_titan_latoan.xml:81
 msgid "The Spirit of Ordona"
-msgstr ""
+msgstr "Der Lichtgeist von Ordon"
 
 #: simulation/templates/units/ordona/ordona_titan_latoan.xml:82
 msgid ""
@@ -11456,18 +11485,26 @@ msgid ""
 "an eye, bring a healing rain forth from the sky, and summon a flock of ghostly goats to"
 " protect the borders of his land from enemies."
 msgstr ""
+"Ein antiker vielleicht schon ursprünglicher Lichtgeist, der von den antiken heidnischen"
+"Stämmen verehrt wurde bevor sie zum Glauben der Göttinnen bekehrt wurde. Latoans einfluss"
+"und Ikonografie hat die Provinz jedoch nie wirklich verlassen und der Lichtgeist gilt "
+"immer noch als Schutzpatron und Gottheit in der Provinz. Legenden besagen das Latoan in"
+"einen tiefen Schlaf unterhalb der Ordon Quelle fiel da er und seinesgleichen den Ordonern"
+"keine geistliche Führung mehr geben brauchten. Als er noch in der Welt weilte, so sagt man"
+"das Latoan große volle Ähren in einem Augenblick wachsen lassen könnte, einen heilenden Regen "
+"und eine Herde an Ziegengeistern zum Schutz des Landes beschwören könnte"
 
 #: simulation/templates/units/ordona/ordona_titan_latoan.xml:85
 msgid "Latoan"
-msgstr ""
+msgstr "Latoan"
 
 #: simulation/templates/units/ordona/ordona_titan_latoan.xml:86
 msgid "Ordonian Titan unit. Giant Melee unit that is followed by a herd of Spirit Goats."
-msgstr ""
+msgstr "Titan von Ordon. Riesiger Nahkampfeinheit die von einer Herde Ziegengeister begleitet wird"
 
 #: simulation/templates/units/ordona/ordona_valiant_b.xml:33
 msgid "Valiant"
-msgstr ""
+msgstr "Recken"
 
 #: simulation/templates/units/ordona/ordona_valiant_b.xml:35
 msgid ""
@@ -11478,16 +11515,22 @@ msgid ""
 " and enemy walls. They can also Camouflage into the wilderness, allowing them to set up"
 " ambushes."
 msgstr ""
+"Ein Ritterorden der von Moe gegründet und trainiert wurde um weitaus vielseitiger zu sein "
+"als die herkömmlichen Schwer gepanzerten Ritter von Hyrule. Mit einem einfachen Schwert "
+"und Schild in der Schlacht sind diese Recken auch mit vielen ungewöhnlichen Werkzeugen"
+"ausgestattet um ihnen in wilden und rauen Umgebungen einen Vorteil verschaf. So etwa "
+"ihr Enterhacken mit dem sie Klippen und feindliche Mauern erklimmen konnten. Sie konnten "
+"sich außerdem in der Wildnis tarnen  was es ihnen ermöglichte Hinterhalte vorzubereiten."
 
 #: simulation/templates/units/ordona/ordona_valiant_b.xml:40
 msgid ""
 "Rusl's Unique Unit. Medium Melee unit armed with a sword, they can climb over any "
 "terrain."
-msgstr ""
+msgstr "Moes einzigartige Einheit. Mittlere Infanterie mit Schwert, die jedes Terrain erklimmt."
 
 #: simulation/templates/units/ordona/ordona_warwagon_b.xml:60
 msgid "War Wagon"
-msgstr ""
+msgstr "Kriegswagen"
 
 #: simulation/templates/units/ordona/ordona_warwagon_b.xml:61
 msgid ""
@@ -11498,12 +11541,17 @@ msgid ""
 " order to drop off their combat load. Ranged units can also attack from the windows of "
 "the carriage, allowing War Wagons to become mobile attack platforms."
 msgstr ""
+"Die meiste Zeit dienten sie zwar als Transporter für Güter und Personen aber in Kriegsteiten"
+"wurden sie zum Truppentransport über die weiten Flächen Ordons umfunktioniert. Ein Wagen kann"
+"bis zu sechs  Soldaten mit sich üer große Landstrecken bringen was sie ideal macht um an Türmen"
+"und andere Verteidigungslinien vorbeizustürmen. Fernkämpfer greifen von den Fenstern des Wagens"
+"aus an was sie zu mobilen Angriffsplattformen macht."
 
 #: simulation/templates/units/ordona/ordona_warwagon_b.xml:66
 msgid ""
 "Cavalry Support unit that can transport other units to battle. Ranged units can attack "
 "from the Wagon while garrisoned."
-msgstr ""
+msgstr "Unterstützung und Schütze der Kavallerie"
 
 #: simulation/templates/units/ordona/ordona_yeoman_b.xml:38
 msgid "Yeoman"
@@ -11518,14 +11566,20 @@ msgid ""
 " match enemy cavalry. Like all of Ordona's goat cavalry, the Yeoman can climb over "
 "mountainous terrain."
 msgstr ""
+"Freibauern waren die Eigentümer eines Ordoner Hofes, oft mit meheren Familien an Bauern"
+"unter ihnen. Auch wenn sie etwas reicher waren als ihre Arbeiter so antworteten sie doch"
+"sofort wenn ihr Lehnsherr zu den Waffen ruf und sie zum Militärdienst verpflichtet wurden."
+"Die Freibauern ritten oft auf der Familien Ziege und einer Lanze in die Schlacht um es mit"
+"feindlicher Kavallerie aufzunehmen. Wie alle Ordoner Ziegen können auch sie über bergiges "
+"Terrain klettern"
 
 #: simulation/templates/units/ordona/ordona_yeoman_b.xml:44
 msgid "Light Melee Cavalry unit armed with a spear, ideal for attacking other Cavalry units."
-msgstr ""
+msgstr "Leichte Kavalleire mit Lanzen bewaffnet, ideal gegen andere Kavallerie"
 
 #: simulation/templates/units/ordona_trader_b.xml:8
 msgid "Salesman"
-msgstr ""
+msgstr "Verkäufer"
 
 #: simulation/templates/units/ordona_trader_b.xml:9
 msgid ""
@@ -11578,11 +11632,11 @@ msgstr ""
 #: simulation/templates/units/zora/zora_civilianA.xml:14
 #: simulation/templates/units/zora/zora_servantA.xml:68
 msgid "Worker"
-msgstr ""
+msgstr "Arbeiter"
 
 #: simulation/templates/units/plane.xml:66
 msgid "Arwing X-02"
-msgstr ""
+msgstr "Arwing X-02"
 
 #: simulation/templates/units/plane.xml:67
 msgid ""
@@ -11596,11 +11650,11 @@ msgstr ""
 #: simulation/templates/units/sheikah/sheikah_assassin_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Daggers"
-msgstr ""
+msgstr "Dolche"
 
 #: simulation/templates/units/sheikah/sheikah_assassin_b.xml:44
 msgid "Assassin"
-msgstr ""
+msgstr "Assassine"
 
 #: simulation/templates/units/sheikah/sheikah_assassin_b.xml:45
 msgid ""
@@ -11620,7 +11674,7 @@ msgstr ""
 #: simulation/templates/units/sheikah/sheikah_blademaster_b.xml:36
 #: simulation/templates/units/zora/zora_blademaster_b.xml:33
 msgid "Blademaster"
-msgstr ""
+msgstr "Schwertmeister"
 
 #: simulation/templates/units/sheikah/sheikah_blademaster_b.xml:37
 msgid ""
