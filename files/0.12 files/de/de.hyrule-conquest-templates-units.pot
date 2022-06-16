@@ -11666,10 +11666,17 @@ msgid ""
 "one of these skilled murderers, and even then the Cadre would only send in another to "
 "finish where the first failed."
 msgstr ""
+"Als ultimatives Instrument des Kaders vollstrecken die Assassinen das letzte Urteil der"
+"Cläne und haben schon lange die Geschichte von Hyrule gepraägt. Sollte ein König aus der"
+"Reihe tanzen, ein Adliger zu ambitioniert oder ein Zauberer etwas zu sehr mit der Magie "
+"der Dämonen vertraut machen würde ein Assassine den Willen des Kaders ausführen und"
+"denjenigen aus der Geschichte löschen. Sobald man von den Shiekah zum Abschuss freigegeben"
+"war gab es nur wenige die einen Anschlag von diesen fähigen Attentätern überlebten. Und"
+"falls der Erste scheiterte, dann schickte der Kader einfach einen Neuen."
 
 #: simulation/templates/units/sheikah/sheikah_assassin_b.xml:50
 msgid "Fast Melee unit with Stealth, has a chance to deal Critical Hits to enemies."
-msgstr ""
+msgstr "Schnelle getarnte Infanterie die Kritischen Schaden verursacht. "
 
 #: simulation/templates/units/sheikah/sheikah_blademaster_b.xml:36
 #: simulation/templates/units/zora/zora_blademaster_b.xml:33
@@ -11682,14 +11689,17 @@ msgid ""
 "Blademaster is unequaled in skill with a sword and their many decades in combat make "
 "them unmatched commanders."
 msgstr ""
+"Shiekah die ein Jahrhundert ihres Lebens dem Waffenkampf gewidmet haben. Die Schwertmeister"
+"sind unerreicht in ihren Fähigkeiten mit dem Schwert und ihre Dekaden an Kampfehrfahrung"
+"machen sie zu unerreichten Kommandanten."
 
 #: simulation/templates/units/sheikah/sheikah_blademaster_b.xml:42
 msgid "Infantry Commander unit. Leads other Sheikah into battle."
-msgstr ""
+msgstr "Infanteriekommandant"
 
 #: simulation/templates/units/sheikah/sheikah_crowling_b.xml:37
 msgid "Crowling"
-msgstr ""
+msgstr "Hornrabe/krähe"
 
 #: simulation/templates/units/sheikah/sheikah_crowling_b.xml:38
 msgid ""
@@ -11715,11 +11725,11 @@ msgstr ""
 #: simulation/templates/units/sheikah/sheikah_demoncarver_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Demon Carvers"
-msgstr ""
+msgstr "Dämonenring"
 
 #: simulation/templates/units/sheikah/sheikah_demoncarver_b.xml:39
 msgid "Demon Carver"
-msgstr ""
+msgstr "Dämonenschnetzler"
 
 #: simulation/templates/units/sheikah/sheikah_demoncarver_b.xml:41
 msgid ""
@@ -11904,7 +11914,7 @@ msgstr ""
 
 #: simulation/templates/units/sheikah/sheikah_hero_paya.xml:33
 msgid "Shadow Apprentice"
-msgstr ""
+msgstr "Schatten Lehrling"
 
 #: simulation/templates/units/sheikah/sheikah_hero_paya.xml:35
 msgid ""
@@ -11999,7 +12009,7 @@ msgstr ""
 #: simulation/templates/units/zora/zora_sparkmage_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Lightning"
-msgstr ""
+msgstr "Blitz"
 
 #: simulation/templates/units/sheikah/sheikah_nirvatamonk_b.xml:42
 msgid "Nirvata Monk"
@@ -12142,7 +12152,7 @@ msgstr ""
 
 #: simulation/templates/units/sheikah/sheikah_trainee_b.xml:34
 msgid "Trainee"
-msgstr ""
+msgstr "Lehrling"
 
 #: simulation/templates/units/sheikah/sheikah_trainee_b.xml:35
 msgid ""
