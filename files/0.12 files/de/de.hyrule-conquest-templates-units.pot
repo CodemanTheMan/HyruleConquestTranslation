@@ -11699,7 +11699,7 @@ msgstr "Infanteriekommandant"
 
 #: simulation/templates/units/sheikah/sheikah_crowling_b.xml:37
 msgid "Crowling"
-msgstr "Hornrabe/krähe"
+msgstr "Hornkrähe"
 
 #: simulation/templates/units/sheikah/sheikah_crowling_b.xml:38
 msgid ""
@@ -11708,10 +11708,15 @@ msgid ""
 "rare in modern Hyrule, though the Cadre still uses them to send messages, scout, and "
 "harass their enemies."
 msgstr ""
+"In Shiekah legenden wird besagt das diese Krähen die Wächter vom Totenreich sind und"
+"unwürdige Seelen  davon abhalten ihre Gräber und Gruften zu verlassen und nach Hyrule"
+"zurückzukehren. Im derzeitgen Hyrule sind sie selten zu sehen, aber der Kader nutzt"
+"sie immernoch als Boten, Späher und zum belästigen feindlicher Truppen."
+""
 
 #: simulation/templates/units/sheikah/sheikah_crowling_b.xml:42
 msgid "Flying Creature unit that is Camouflaged."
-msgstr ""
+msgstr "Fliegende getarnte Kreatur"
 
 #: simulation/templates/units/sheikah/sheikah_deadhand_b.xml:46
 msgid ""
@@ -11729,7 +11734,7 @@ msgstr "Dämonenring"
 
 #: simulation/templates/units/sheikah/sheikah_demoncarver_b.xml:39
 msgid "Demon Carver"
-msgstr "Dämonenschnetzler"
+msgstr "Dämonenjäger"
 
 #: simulation/templates/units/sheikah/sheikah_demoncarver_b.xml:41
 msgid ""
@@ -11738,14 +11743,18 @@ msgid ""
 "to such monsters of madness has made the Demon Carvers themselves somewhat insane, and "
 "they have been known to ritually bathe and drink the blood of those they defeat."
 msgstr ""
+"Schon in den ältesten Tagen der Shiekah wurden ausgewählte Krieger zu Dämonenjägern ausgebildet"
+"um die gefährlichsten Dämonen die nach Hyrule krochen zu bekämpfen und zu töten. Durch ihre "
+"permanente Aussetzung gegen diese dem Verstand fast unfassbaren Monster sind sie selber wahnsinnig"
+"geworden, und sind dafür bekannt rituell im Blut ihrer Opfer zu baden oder es zu trinken."
 
 #: simulation/templates/units/sheikah/sheikah_demoncarver_b.xml:46
 msgid "Swift Melee unit that siphons health with each attack."
-msgstr ""
+msgstr "Schnelle Infanterie die Leben mit jedem Angriff wiedergewinnt."
 
 #: simulation/templates/units/sheikah/sheikah_devoured_b.xml:42
 msgid "Devoured"
-msgstr ""
+msgstr "Verschlungene"
 
 #: simulation/templates/units/sheikah/sheikah_devoured_b.xml:43
 msgid ""
@@ -11754,14 +11763,18 @@ msgid ""
 "guides them unseen. The Sheikah have found ways to dominate these monsters and use them"
 " to fight against other demons that would threaten Hyrule."
 msgstr ""
+"Ein furchtbares Monster von dem gesagt wird das es ein Shiekah Mönch sei der von dunkler Magie"
+"verschlungen wurde. Die verschlungenen erscheinen zwar wie tollwütige Monster4, aber der Kader"
+"weiß das in ihnen ein böser Intellekt liegt der sie unsichtbar führt. Die Shiekah haben Wege"
+"gefunden sie zu kontrollieren und gegen andere Dämonen einzusetzen die Hyrule bedrohen."
 
 #: simulation/templates/units/sheikah/sheikah_devoured_b.xml:48
 msgid "Powerful Creature that stuns enemy units."
-msgstr ""
+msgstr "Mächtige Kreatur die Gegner betäubt"
 
 #: simulation/templates/units/sheikah/sheikah_executioner_b.xml:36
 msgid "Executioner"
-msgstr ""
+msgstr "Henker"
 
 #: simulation/templates/units/sheikah/sheikah_executioner_b.xml:38
 msgid ""
@@ -11770,14 +11783,18 @@ msgid ""
 " step out of line or fall too far into the darkness. In battle the Executioner can use "
 "their two handed sword to damage enemy armors."
 msgstr ""
+"Henker spielen eine wichtige Rolle in der Shiekah Kultur. Wie ihr Name schon sagt 
+"exekutieren kriminelle Individuen die zu sehr aus der Reihe tanzen oder sich zu sehr"
+"in Dunkelheit begaben. In der Schlacht führen sie ein Zweihändiges Schwert das "
+"feindliche Panzerung beschädigt"
 
 #: simulation/templates/units/sheikah/sheikah_executioner_b.xml:43
 msgid "Strong Melee unit that ingores and damages enemy armor."
-msgstr ""
+msgstr "Starke Infanterie die feindliche Panzerung ignoriert und schädigt"
 
 #: simulation/templates/units/sheikah/sheikah_floormaster_b.xml:41
 msgid "Floormaster"
-msgstr ""
+msgstr "Bodengrabscher"
 
 #: simulation/templates/units/sheikah/sheikah_floormaster_b.xml:42
 #: simulation/templates/units/sheikah/sheikah_floormaster_tiny.xml:33
@@ -11786,22 +11803,25 @@ msgid ""
 " around like some kind of arachnid and kills any living creature it happens upon. The "
 "Cadre will capture these monsters and use them against their enemies."
 msgstr ""
+"Kleinere aber nicht weniger tödliche Variation des Deckengrabschers. Die Bodengrabscher"
+"krabbeln spinnenhaft herum und töten jedes lebendiges Wesen was ihnen über den Weg läuft."
+"Der Kader fängt diese Monster und nutzt sie gegen seine Feinde."
 
 #: simulation/templates/units/sheikah/sheikah_floormaster_b.xml:46
 msgid "Camouflaged Melee Creature unit that splits into several smaller creatures when slain."
-msgstr ""
+msgstr "Getarnte Kreatur die sich in mehere kleinere Kreaturen aufteilt wenn sie stirbt"
 
 #: simulation/templates/units/sheikah/sheikah_floormaster_tiny.xml:32
 msgid "Tiny Floormaster"
-msgstr ""
+msgstr "Kleiner Bodengrabscher"
 
 #: simulation/templates/units/sheikah/sheikah_floormaster_tiny.xml:37
 msgid "Tiny Melee Creature unit."
-msgstr ""
+msgstr "Kleine Kreatur"
 
 #: simulation/templates/units/sheikah/sheikah_ghoulrat_b.xml:40
 msgid "Ghoul Rat"
-msgstr ""
+msgstr "Geisterratte"
 
 #: simulation/templates/units/sheikah/sheikah_ghoulrat_b.xml:41
 msgid ""
@@ -11810,14 +11830,18 @@ msgid ""
 "make them perfect at finding ways of sneaking into fortified areas, and legend says a "
 "Ghoul Rat can slip through even the most fortified of walls."
 msgstr ""
+"Ungeziefer das von Dämonenmagie verdorben wurde. Geisterratten werden vom Kader genutzt"
+"um Krankheiten zu verbreiten und Gebiete von Gegnern zu räumen. Die kleine größe der"
+"Geisterratte macht sie perfekt darin Wege in befestigte Anlagen zu finden und Legenden"
+"besagen das sie selbst durch die dicksten Mauern durchkommen."
 
 #: simulation/templates/units/sheikah/sheikah_ghoulrat_b.xml:45
 msgid "Camouflaged Creature unit that can pass through walls."
-msgstr ""
+msgstr "Getarnte Kreator die durch Mauern geht"
 
 #: simulation/templates/units/sheikah/sheikah_hawkeye_b.xml:43
 msgid "Hawkeye"
-msgstr ""
+msgstr "Falkenauge"
 
 #: simulation/templates/units/sheikah/sheikah_hawkeye_b.xml:44
 msgid ""
@@ -11826,16 +11850,20 @@ msgid ""
 "uncanny ability to hit exactly what they set out to hit, regardless of the chaos of "
 "battle."
 msgstr ""
+"Zwar gibt es viele Kulturen die beeindrucke Ergebnisse im Bogenschießen erzielen, aber"
+"die Shiekah haben Treffsicherheit mit dem Bogen zu einer Kunst an sich gemacht. Falkenaugen"
+"sind berüchtigt für ihre unheimliche Fähigkeit genau das zu treffen auf das sie es "
+"abgesehen haben, trotz jeglichem Schlachtgetümmel."
 
 #: simulation/templates/units/sheikah/sheikah_hawkeye_b.xml:47
 msgid ""
 "Archer unit armed with a bow and arrows. Deals moderate Piercing damage and has 100% "
 "accuracy."
-msgstr ""
+msgstr "Bogenschützen die noderaten Schaden verursachen un hundertprozent treffsicher sind"
 
 #: simulation/templates/units/sheikah/sheikah_hero_impa.xml:48
 msgid "Sage of Shadows"
-msgstr ""
+msgstr "Weise der Schatten"
 
 #: simulation/templates/units/sheikah/sheikah_hero_impa.xml:50
 msgid ""
@@ -11848,23 +11876,31 @@ msgid ""
 "She is in truth a very motherly figure to those that have her in their lives, perhaps "
 "an echo of a life she could have had in ages past."
 msgstr ""
+"Impa, Clanchefin der Kakari und Naldar als auch Weise der Schatten, hat eine beispielose "
+"politische Macht innerhalb des Kaders und dient schon lange den SChiekah und dem Königshaus "
+"von Hyrule. Vermutlich ist sie auch die beste Schwertkämpferin in der Geschichte von Hyrule"
+"wodurch Präsens oft mit Schrecken oder Ehrfurcht begrüßt wird je nachdem ob es sich um Freund"
+"oder Feind handelt. Diejenigen die sie nicht kennen halten sie oft für eine kalte emotionslose"
+"Mörderin, was vielleicht von ihrem extremen Alter und distanz zur Gesellschaft herrührt. In"
+"Wahrheit ist sie eine sehr bemutternde Figur für diejenigen die sie in ihren Leben haben, ein"
+"Echo eines Lebens das sie möglicherweise in längst vergangenen Zeiten geführt hat."
 
 #: simulation/templates/units/sheikah/sheikah_hero_impa.xml:54
 msgid "Impa"
-msgstr ""
+msgstr "Impa"
 
 #: simulation/templates/units/sheikah/sheikah_hero_impa.xml:55
 msgid "Stealthed Melee Hero that has a high chance to Critical Hit her targets."
-msgstr ""
+msgstr "Getarnte Heldin die eine hohe kritische Trefferrate hat."
 
 #: simulation/templates/units/sheikah/sheikah_hero_kohga.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Sickles"
-msgstr ""
+msgstr "Kopfsammler"
 
 #: simulation/templates/units/sheikah/sheikah_hero_kohga.xml:34
 msgid "Yiga Master"
-msgstr ""
+msgstr "Yiga Clanchef"
 
 #: simulation/templates/units/sheikah/sheikah_hero_kohga.xml:36
 msgid ""
@@ -11878,7 +11914,7 @@ msgstr ""
 
 #: simulation/templates/units/sheikah/sheikah_hero_kohga.xml:40
 msgid "Kohga"
-msgstr ""
+msgstr "Koga"
 
 #: simulation/templates/units/sheikah/sheikah_hero_kohga.xml:41
 msgid "Durable and hearty Infantry Melee Hero armed with a a pair of sickles."
