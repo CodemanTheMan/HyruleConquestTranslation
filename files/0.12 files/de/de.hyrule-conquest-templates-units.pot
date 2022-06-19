@@ -11911,6 +11911,12 @@ msgid ""
 "pride, though he often seeks to gain people on his side through lavish gifts, parties, "
 "and bribes."
 msgstr ""
+"Als Clanchef der Yiga Bande lebt Meister Koga schon lange an den Grenzen von Hyrule und"
+"ist ein brennender Befürworter für die Vorherrschaft seines Clans im Kader. Trotz seiner"
+"Anstrengungen hat der Kader die Yiga Bande aus ihrem Rat gedrängt, was zu einer gewissen"
+"Ernüchterung seinerseits mit den anderen Clanchefs führte . Koga selbst ist ausgelassen"
+"und voller Stolz, wobei er oft versucht Lete für seine Sache zu gewinnen durch Feiern,"
+"Bestechungen oder indem er sie reich beschenkt."
 
 #: simulation/templates/units/sheikah/sheikah_hero_kohga.xml:40
 msgid "Kohga"
@@ -11918,16 +11924,16 @@ msgstr "Koga"
 
 #: simulation/templates/units/sheikah/sheikah_hero_kohga.xml:41
 msgid "Durable and hearty Infantry Melee Hero armed with a a pair of sickles."
-msgstr ""
+msgstr "Wiederspenstiger und kräftiger Held der mit ein paar Kopfsammlern angreift"
 
 #: simulation/templates/units/sheikah/sheikah_hero_mazkoshia.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Lightning Sword"
-msgstr ""
+msgstr "Donnerschwert"
 
 #: simulation/templates/units/sheikah/sheikah_hero_mazkoshia.xml:47
 msgid "Ancient Monk"
-msgstr ""
+msgstr "Antiker Priester"
 
 #: simulation/templates/units/sheikah/sheikah_hero_mazkoshia.xml:49
 msgid ""
@@ -11938,15 +11944,20 @@ msgid ""
 "disconnected from the rest of his kind after centuries of isolation, and none know his "
 "true motives."
 msgstr ""
+"Der älteste der Nirvata Mönche und gefürchteste Zauberer des Kaders. Miz Kyoshia herrscht"
+"schon lange über den Ältestenrat und hat den Kader seit Jahrhunderten beeinflusst. Bis auf "
+"seine kurzen Erscheinungen bei Ratsversammlungen, lebt Miz Kyoshia in absoluter Isolation"
+"tief unter der Erde und sammelt dort unbegreifliche dunkle Mächte. Er ist mit dem Rest seiner"
+"Art absolut entfremdet nach Jahrhunderten der Isolation und niemand kennt seine wahren Ziele"
 
 #: simulation/templates/units/sheikah/sheikah_hero_mazkoshia.xml:53
 msgid "Maz Koshia"
-msgstr ""
+msgstr "Miz Kyoshia"
 
 #: simulation/templates/units/sheikah/sheikah_hero_mazkoshia.xml:54
 #: simulation/templates/units/zora/zora_hero_telara.xml:45
 msgid "Melee Hero that can shock and Stun enemies with her attacks."
-msgstr ""
+msgstr "Nahkampf Held der Feinde schocken und betäuben kann"
 
 #: simulation/templates/units/sheikah/sheikah_hero_paya.xml:33
 msgid "Shadow Apprentice"
@@ -11959,18 +11970,23 @@ msgid ""
 "information and secrets from those that let their guard down around her. She is skilled"
 " in the art of drunken monkey and fighting with a quarterstaff."
 msgstr ""
+"Paya ist ein junger Lehrling von Impa und lebt ein bescheidenes Leben in Kakariko. Für"
+"andere mag sie zwar wie ein kleinlauter und unbeholfener Tollpatsch wirken aber das ist "
+"nur ihre Art Informationen und Geheimnisse von denen zu sammeln die ihre Deckung um sie"
+"hvernachlässigen. Sie ist fähig mit einem langen Schlagstock zu kämpfen, besonders im Stil"
+"des betrunckenen Affen."
 
 #: simulation/templates/units/sheikah/sheikah_hero_paya.xml:39
 msgid "Paya"
-msgstr ""
+msgstr "Paya"
 
 #: simulation/templates/units/sheikah/sheikah_hero_paya.xml:40
 msgid "Melee Hero with countering abilities."
-msgstr ""
+msgstr "Nahkampfheldin mit Konterfähigkeiten"
 
 #: simulation/templates/units/sheikah/sheikah_hero_purah.xml:42
 msgid "Shadow Hermit"
-msgstr ""
+msgstr "Schatten Einsiedlerin"
 
 #: simulation/templates/units/sheikah/sheikah_hero_purah.xml:44
 msgid ""
@@ -11981,20 +11997,26 @@ msgid ""
 " and vain desires. Many other Sheikah find her unbearable to be around, something that "
 "Purah seems to approve of since she prefers to live as a hermit alone."
 msgstr ""
+"Purah ist die ältere Schwester von Impa und hat langer Zeit das Geheimnis ewiger Jugend"
+"gelüftet. Sie hat diese dunkle Kunst nie jemanden verraten und behält trotz ihrer über "
+"hundert Jahren ihre junges Aussehen bei. Trotz ihrem Alters scheint sie nicht die Weisheit"
+"ihrer jüngeren Schwester gesammelt zu haben. Sie ist wohlbekannt von belanglosen und eitelen"
+"Verlangen nachzugehen. Viele andere Shiekah finden sie unerträglich was Purah allerdins "
+"gutheißt da sie es bevorzugt alleine zu leben"
 
 #: simulation/templates/units/sheikah/sheikah_hero_purah.xml:48
 msgid "Purah"
-msgstr ""
+msgstr "Purah"
 
 #: simulation/templates/units/sheikah/sheikah_hero_sheik.xml:4
 #: simulation/templates/units/sheikah/sheikah_needler_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Needles"
-msgstr ""
+msgstr "Nadeln"
 
 #: simulation/templates/units/sheikah/sheikah_hero_sheik.xml:44
 msgid "The Lost Vagabond"
-msgstr ""
+msgstr "Verlorener Vagabund"
 
 #: simulation/templates/units/sheikah/sheikah_hero_sheik.xml:46
 msgid ""
@@ -12003,14 +12025,17 @@ msgid ""
 "a portent of a cataclysmic event about to transpire in Hyrule, and death is sure to "
 "follow."
 msgstr ""
+"Eine mysteriöse Person die anscheinend von keinem Shiekahclan kommt. Nur als Shiek bekannt,"
+"dient dieser Krieger den Nirvata Mönchem. Shiekhs Anwesenheit ist oft ein Omen für kataklysmische"
+"Ereignisse die in Hyrule bald eintreten und mit ihnen der Tod."
 
 #: simulation/templates/units/sheikah/sheikah_hero_sheik.xml:50
 msgid "Sheik"
-msgstr ""
+msgstr "Shiek"
 
 #: simulation/templates/units/sheikah/sheikah_moa_b.xml:38
 msgid "Moa"
-msgstr ""
+msgstr "Moa"
 
 #: simulation/templates/units/sheikah/sheikah_moa_b.xml:39
 msgid ""
@@ -12018,14 +12043,18 @@ msgid ""
 " the dark, cursed to wander the underworld. Some Sheikah Monks will use them as "
 "familiars or pets to help them see hidden things within the world."
 msgstr ""
+"Es wird angenommen das Moa die Seelen toter Shiekah sind die es nicht schafften die"
+"Kontrolle über die Dunkelhet zu erlangen und nun verflucht sind durch die Unterwelt"
+"zu wandeln. Manche Shiekah Mönche nutzen sie als Vertraute oder Haustiere um die"
+"versteckten Dinge der Welt zu sehen."
 
 #: simulation/templates/units/sheikah/sheikah_moa_b.xml:43
 msgid "Floating Mage Creature with Camouflage."
-msgstr ""
+msgstr "Fliegende magische Kreatur die getarnt ist"
 
 #: simulation/templates/units/sheikah/sheikah_needler_b.xml:44
 msgid "Needler"
-msgstr ""
+msgstr "Stachler"
 
 #: simulation/templates/units/sheikah/sheikah_needler_b.xml:45
 msgid ""
@@ -12049,7 +12078,7 @@ msgstr "Blitz"
 
 #: simulation/templates/units/sheikah/sheikah_nirvatamonk_b.xml:42
 msgid "Nirvata Monk"
-msgstr ""
+msgstr "Nirvata Mönch"
 
 #: simulation/templates/units/sheikah/sheikah_nirvatamonk_b.xml:43
 msgid ""
@@ -12811,7 +12840,7 @@ msgstr ""
 #: simulation/templates/units/zora/zora_shocktroop_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Sword"
-msgstr ""
+msgstr "Schwert"
 
 #: simulation/templates/units/test_unit.xml:36
 msgid "Test Knight of Hyrule"
