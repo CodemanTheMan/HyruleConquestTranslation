@@ -12089,14 +12089,20 @@ msgid ""
 "the earth, the Nirvata Monks are detached and distant even to their own kind. In battle"
 " they bring ancient magics to bear on their enemies."
 msgstr ""
+"Die ältesten lebenden Shiekah des Nirvata Clans schreiten auf der Grenze zwischen Leben"
+"und Tod. In antiken Zeiten glaubte man das sie als Boten zwischen Hyrule und den Kumulanern"
+"dienen und dieser Tätigkeit vielleicht immernoch nachgehen. Seit vielen Jahrzehnten schon"
+"betrachten und entdecken sie die dunkelen Geheimnissen der Erde  in kompletter Abschottung  "
+"und Dunkelheit was zu ihrer distanzierten und abwesenden Art der Mönche selbst ihrem eigenen"
+"Volk gegenüber führte. In der Schlacht bringen antike Magie mit sich in die Schlacht"
 
 #: simulation/templates/units/sheikah/sheikah_nirvatamonk_b.xml:47
 msgid "Sheikah mage unit that attacks with an electric shock and deals splash damage."
-msgstr ""
+msgstr "Shiekah magier die Gegner mit elektrischen Stößen angreifen und Flächenschaden verursachen"
 
 #: simulation/templates/units/sheikah/sheikah_protector_b.xml:34
 msgid "Protector"
-msgstr ""
+msgstr "Leibwache"
 
 #: simulation/templates/units/sheikah/sheikah_protector_b.xml:35
 msgid ""
@@ -12105,14 +12111,17 @@ msgid ""
 " of turning an enemy's attack against themselves and have been known to parry "
 "everything from arrows to magical attacks."
 msgstr ""
+"Leibwachen dienen als Wächter für wichtige Personen in ihren jeweiligen Clänen und des "
+"Kaders. Die Leibwachen sind Meister in der Kunst Angriffe auf Feinde zurückzulenken und"
+"können alles von Pfeilen bis Magischen Angriffen reflektieren."
 
 #: simulation/templates/units/sheikah/sheikah_protector_b.xml:39
 msgid "Counter melee unit with a high Dodge rate."
-msgstr ""
+msgstr "Konter Einheit mit hoher Ausweichrate"
 
 #: simulation/templates/units/sheikah/sheikah_saboteur_b.xml:57
 msgid "Saboteur"
-msgstr ""
+msgstr "Saboteur"
 
 #: simulation/templates/units/sheikah/sheikah_saboteur_b.xml:58
 msgid ""
@@ -12121,10 +12130,14 @@ msgid ""
 "carries with him an explosive contraption that can destroy a building's foundations "
 "with ease."
 msgstr ""
+"Manchmal ist eine Festung wirklich undurchdringbar egal ob man die Mauern erklimmt oder "
+"sich reinschleichen möchte. Die Sternstunde des Saboteurs, die weniger subtile Antwort "
+"der Shiekah auf Befestigungen. Ein Saboteur trägt explosive Kugeln mit sich die das "
+"Fundament eines Gebäude mit Einfachheit zerstört."
 
 #: simulation/templates/units/sheikah/sheikah_saboteur_b.xml:62
 msgid "Siege unit that can plant explosives on buildings."
-msgstr ""
+msgstr "Belagerungseinheit die explosionen an Gebäuden platziert"
 
 #: simulation/templates/units/sheikah/sheikah_shadowfolkA.xml:60
 msgid "Shadowfolk"
@@ -12145,7 +12158,7 @@ msgstr ""
 
 #: simulation/templates/units/sheikah/sheikah_sidewinder_b.xml:39
 msgid "Sidewinder"
-msgstr ""
+msgstr "Seitenwinder"
 
 #: simulation/templates/units/sheikah/sheikah_sidewinder_b.xml:40
 msgid ""
@@ -12522,11 +12535,11 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_poenecro_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Lantern"
-msgstr ""
+msgstr "Laterne"
 
 #: simulation/templates/units/stalfos/stalfos_poe_b.xml:39
 msgid "Poe"
-msgstr ""
+msgstr "Irrlicht"
 
 #: simulation/templates/units/stalfos/stalfos_poe_b.xml:40
 msgid ""
