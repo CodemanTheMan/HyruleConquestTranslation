@@ -12141,7 +12141,7 @@ msgstr "Belagerungseinheit die explosionen an Gebäuden platziert"
 
 #: simulation/templates/units/sheikah/sheikah_shadowfolkA.xml:60
 msgid "Shadowfolk"
-msgstr ""
+msgstr "Geheimes Volk"
 
 #: simulation/templates/units/sheikah/sheikah_shadowfolkA.xml:61
 msgid ""
@@ -12158,7 +12158,7 @@ msgstr ""
 
 #: simulation/templates/units/sheikah/sheikah_sidewinder_b.xml:39
 msgid "Sidewinder"
-msgstr "Seitenwinder"
+msgstr "Seitenwinde"
 
 #: simulation/templates/units/sheikah/sheikah_sidewinder_b.xml:40
 msgid ""
@@ -12166,18 +12166,20 @@ msgid ""
 "Despite the fact they ride on horses, many stories tell of the Sidewinders appearing "
 "suddenly without any warning of their approach."
 msgstr ""
+"Die legendären Seitenwinde dienen als Reiterei und für Überfälle ihren zugehörigen Clans. "
+"Obwohl sie auf Pferden reiten, erzählen viele Geschichten davon wie sie aus demn nichts auftauchen"
 
 #: simulation/templates/units/sheikah/sheikah_sidewinder_b.xml:45
 msgid "Fast moving Melee Cavalry unit armed with crescent spears."
-msgstr ""
+msgstr "SChnelle Kavallerie die mit Sichelförmigen Sanda Lanzen angreifen"
 
 #: simulation/templates/units/sheikah/sheikah_smoke.xml:37
 msgid "Sheikah Smoke"
-msgstr ""
+msgstr "Shiekah Rauch"
 
 #: simulation/templates/units/sheikah/sheikah_smokescreener_b.xml:55
 msgid "Smoke Screener"
-msgstr ""
+msgstr "Rauchbomber"
 
 #: simulation/templates/units/sheikah/sheikah_smokescreener_b.xml:56
 msgid ""
@@ -12186,14 +12188,17 @@ msgid ""
 "but they often use a traditional technique of throwing Deku Nuts that explode into "
 "smoke."
 msgstr ""
+"Ein Rauchbomber ist ein Meister im Entfesseln und verschwinden. Sie werden oftr vom KAder"
+"für Einbrüche, Entführungen oder Attentate benutzt. Ein Rauchbomber hat viele Werkzeuge zur Verfügung"
+"aber traditionell werfen sie oft Deku Nüsse die in Rauch aufgehen."
 
 #: simulation/templates/units/sheikah/sheikah_smokescreener_b.xml:61
 msgid "Support unit that disrupts enemy movement and accuracy."
-msgstr ""
+msgstr "Untterstützungseinheit die feindliche Bewegung und Präzison einschränkt."
 
 #: simulation/templates/units/sheikah/sheikah_spy_b.xml:33
 msgid "Spy"
-msgstr ""
+msgstr "Spion"
 
 #: simulation/templates/units/sheikah/sheikah_spy_b.xml:34
 msgid ""
@@ -12204,10 +12209,16 @@ msgid ""
 "The Spy is Stealthed and can only be seen by Detector units and buildings, they can "
 "however see other Stealthed units."
 msgstr ""
+"Information is das ein und alles der Shiekah Kultur und ihr umpfangreiches Netzwerk "
+"an Spionen ist der Weg mit dem sie diesen Dogma folgen. Die meisten Cläne haben ihre"
+"eigenen  Spione und ein ganzer Markt hat sich für handel mit Informationen zwischen "
+"den Clans entwickelt. Die Spione sind für den Kampf ausgebildet und mit einem Kurzschwert"
+"ausgeerüstet. Ein Spion ist getarnt und kann andere getarnte Einheiten erkennen."
+""
 
 #: simulation/templates/units/sheikah/sheikah_spy_b.xml:38
 msgid "Scout unit that can detect Camouflaged and Stealthed units. The Spy is stealthed."
-msgstr ""
+msgstr "Getarnte Spähereinheit die getarnte Einheiten erkennt."
 
 #: simulation/templates/units/sheikah/sheikah_titan_bongobongo.xml:69
 msgid ""
@@ -12219,14 +12230,20 @@ msgid ""
 "appears as a large headless corpse with disembodied hands that follow it around as it "
 "goes."
 msgstr ""
+"Ein antikes Monster, namens Bongo Bongo, das der Kader vor langer Zeit unterhalb von Kakariko"
+"einsperrte und das mittlerweile selbst unter den meisten Shiekah nur noch eine Legende ist."
+"Die Nirvata Mönche haben oft danach gestrebt diesem Dämon Herr und Meister zu werden um ihn "
+"für ihre eigenen Zwecke zu nutzen.Viele Versuche scheiterten was dazu führte dass Bongo Bongo"
+"Hyrule verwüstete bis es wieder gebannt werden konnte. Das Monstrum selbst schaut aus wie ein"
+"großer Kopfloser körper mit abgehackten Händen die ihm überall hinfolgen."
 
 #: simulation/templates/units/sheikah/sheikah_titan_bongobongo.xml:71
 msgid "Bongo Bongo"
-msgstr ""
+msgstr "Bongo Bongo"
 
 #: simulation/templates/units/sheikah/sheikah_titan_bongobongo.xml:72
 msgid "Camouflaged Legend unit that crushes enemies with its two massive hands."
-msgstr ""
+msgstr "Getarnte Titaneinheit die Gegner mit ihren zwei massiven Händen zerquetscht"
 
 #: simulation/templates/units/sheikah/sheikah_trainee_b.xml:34
 msgid "Trainee"
@@ -12240,19 +12257,25 @@ msgid ""
 "Spy or Assassin. Trainees are armed with weapons from their respective clans, such as "
 "Ninjatos for Kakari or Sickles for Yiga."
 msgstr ""
+"Lehrlinge sind junge Initianden des Kaders. Jeder Clan wählt aus ihrem geheimen Volk "
+"vielversprechende Individuen aus, die in den diversen Shiekah Kampfkünsten trainiert "
+"werden. Nach einem Jahrzehnt im Dienst wird ein Lehrling befördert und spezialisiert"
+"sich in einer besonderen Rolle wie zum Beispiel Spion oder Assassine. Lehrlinge werden"
+"mit Clanspezifischen Waffen ausgerüstet, wie die Ninjatos der Kakari oder den sichelförmigen"
+"Kopfsammlern der Yiga"
 
 #: simulation/templates/units/sheikah/sheikah_trainee_b.xml:39
 msgid "Light Infantry Melee unit."
-msgstr ""
+msgstr "Leichte Infanterie"
 
 #: simulation/templates/units/sheikah/sheikah_wallmaster_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fist"
-msgstr ""
+msgstr ""Faust
 
 #: simulation/templates/units/sheikah/sheikah_wallmaster_b.xml:47
 msgid "Wallmaster"
-msgstr ""
+msgstr "Deckengrabscher"
 
 #: simulation/templates/units/sheikah/sheikah_wallmaster_b.xml:48
 msgid ""
@@ -12261,14 +12284,18 @@ msgid ""
 "Cadre sometimes dominates these vile creatures and uses them to their own ends, be it "
 "pinning down enemy targets or smashing the walls of buildings."
 msgstr ""
+"Eine monströse abgehackte Hand der Leben eingeflößt wurde durch eine seltsame und böse Magie. "
+"Deckengrabscher verbringen die meiste Zeit für sich, versteckt in den tiefsten und abgelegensten "
+"Orten. Der Kader zwingt diese abscheulichen Kreaturen ihren Willen auf und lässt sie feindliche"
+"Gegner festsetzen oder Mauern und Geböude einreßen."
 
 #: simulation/templates/units/sheikah/sheikah_wallmaster_b.xml:53
 msgid "Siege Creature that rips buildings apart with its hand-like body."
-msgstr ""
+msgstr "Belagerungskreatur die Gebäude auseinandernimmt  mit ihrem Handgleichen Körper"
 
 #: simulation/templates/units/stalfos/stalfos_battleforged_b.xml:34
 msgid "Battleforged"
-msgstr ""
+msgstr "Schlachtgeschmiede"
 
 #: simulation/templates/units/stalfos/stalfos_battleforged_b.xml:35
 msgid ""
@@ -12278,14 +12305,18 @@ msgid ""
 "smashing them apart would only temporarily halt their advance as they assemble "
 "themselves back together."
 msgstr ""
+"Ein Schlachtgeschmiede ist das Produkt aus dem entstellten und kombinierten Teilen vieler Krieger."
+"Sie wurden in antiken Zeiten expliziet dazu hergestellt die Feinde ihrer Meister zu bekämpfen"
+"und zu zerstören. Sie haben den Ruf unzerstörbar zu sein; nachdem sie zerschmettert wurden, würde"
+"sich ihr Ansturm nur temporär ausfallen da sie sich selber wieder zusammensetzen würden."
 
 #: simulation/templates/units/stalfos/stalfos_battleforged_b.xml:38
 msgid "Melee unit armed with an armor crushing mace. Can reform itself after being destroyed."
-msgstr ""
+msgstr "Infanterie die mit einem Rüstungszerschmetternden Streitkolben ausgerüstet ist"
 
 #: simulation/templates/units/stalfos/stalfos_bluebubble_b.xml:43
 msgid "Blue Bubble"
-msgstr ""
+msgstr "Blaue Knochenfratze"
 
 #: simulation/templates/units/stalfos/stalfos_bluebubble_b.xml:44
 msgid ""
@@ -12294,22 +12325,26 @@ msgid ""
 "find themselves struggling to hit their targets, as if jinxed with poor aim and "
 "reflexes."
 msgstr ""
+"Geopferte Veriationen der fliegendenden Knochenfratzen. Diese nun blauen Monster tragen"
+"einen dunklen Fluch mit sich den sie an ihre Opfer verbreiten. Diejenigen die gebissen "
+"wurden von diesen Untoten sind mit schlechter Zielsicherheit und Reflexen gestraft."
+""
 
 #: simulation/templates/units/stalfos/stalfos_bluebubble_b.xml:49
 msgid "Small flying Creature unit that reduces the damage of enemy units it attacks."
-msgstr ""
+msgstr "Kleine fliegende Kreatur die den Schaden reduziert den ein Feind verursacht."
 
 #: simulation/templates/units/stalfos/stalfos_bonepileA.xml:13
 msgid "Corpse Pile"
-msgstr ""
+msgstr "Leichenhaufen"
 
 #: simulation/templates/units/stalfos/stalfos_bonepileA.xml:16
 msgid "Pile of dead bones that can gathered by Stalchildren."
-msgstr ""
+msgstr "Ein haufen kleiner Knochen"
 
 #: simulation/templates/units/stalfos/stalfos_bubble_b.xml:33
 msgid "Bubble"
-msgstr ""
+msgstr "Knochenfratze"
 
 #: simulation/templates/units/stalfos/stalfos_bubble_b.xml:34
 #: simulation/templates/units/stalfos/stalfos_eyesoar_b.xml:32
@@ -12318,10 +12353,13 @@ msgid ""
 "Sprouting wings from the sides of their desiccated heads, Bubbles are able to hover "
 "about and will viciously try to bite and tear the flesh from their victims."
 msgstr ""
+"KNochenfratzen sind kleine fliegende Schädel deren Körper mit der Zeit verloren ging."
+"Aus den Seiten ihrer ausgetrockneten Köpfe wachsen Flügel mit denen sie fähig sind "
+"umherzufliegen und gnadenlos versuchen das Fleisch von ohren Opfern zu beißen und reißen"
 
 #: simulation/templates/units/stalfos/stalfos_bubble_b.xml:38
 msgid "Small flying Creature unit."
-msgstr ""
+msgstr "Kleine fliegende Kreatur"
 
 #: simulation/templates/units/stalfos/stalfos_civilianA.xml:16
 #: simulation/templates/units/stalfos/stalfos_stalchildA.xml:31
@@ -12341,15 +12379,15 @@ msgstr ""
 
 #: simulation/templates/units/stalfos/stalfos_collector_b.xml:23
 msgid "Collector"
-msgstr ""
+msgstr "Sammler"
 
 #: simulation/templates/units/stalfos/stalfos_eyesoar_b.xml:31
 msgid "Eyesoar"
-msgstr ""
+msgstr "Fliegendes Auge"
 
 #: simulation/templates/units/stalfos/stalfos_hero_blind.xml:38
 msgid "The Thief"
-msgstr ""
+msgstr "Der Dieb"
 
 #: simulation/templates/units/stalfos/stalfos_hero_blind.xml:40
 msgid ""
@@ -12359,23 +12397,29 @@ msgid ""
 "and gained the power of undeath. Now Blind roams the western dunes and caves as a "
 "relentless Stalfos, killing and stealing anything of value he comes across."
 msgstr ""
+"Blind war ein legendärer Dieb zu seinen Lebzeiten. Gerüchten zufolge hat er es sogar"
+"geschafft die Shiekah von Kakariko zu infiltrieren und ihr Vermögen zu stibitzen. Aus"
+"Angst seine Schätze zu verlieren hat sich Blind mit einem halbwegs angesehen Totenbeschwörer"
+"eingelassenen und hat die Macht des Untodes erlangt. Nun durchstreift Blind die westlichen"
+"Dünen und Höhlen als ein gnadenloser Stalfos, der alles tötet oder sammelt was irgendeinen"
+"Wert hat."
 
 #: simulation/templates/units/stalfos/stalfos_hero_blind.xml:43
 msgid "Blind"
-msgstr ""
+msgstr "Blind"
 
 #: simulation/templates/units/stalfos/stalfos_hero_blind.xml:44
 msgid "Slithering Melee Hero with Camouflage."
-msgstr ""
+msgstr "SChlängelnder getarnter Held"
 
 #: simulation/templates/units/stalfos/stalfos_hero_dampe.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Shovel"
-msgstr ""
+msgstr "Schaufel"
 
 #: simulation/templates/units/stalfos/stalfos_hero_dampe.xml:34
 msgid "Gravedigger"
-msgstr ""
+msgstr "Totengräber"
 
 #: simulation/templates/units/stalfos/stalfos_hero_dampe.xml:36
 msgid ""
@@ -12388,7 +12432,7 @@ msgstr ""
 
 #: simulation/templates/units/stalfos/stalfos_hero_dampe.xml:39
 msgid "Dampe"
-msgstr ""
+msgstr "Dampe"
 
 #: simulation/templates/units/stalfos/stalfos_hero_dampe.xml:40
 msgid "Support Hero that summons swarms of Stalchidren."
@@ -12396,7 +12440,7 @@ msgstr ""
 
 #: simulation/templates/units/stalfos/stalfos_hero_deathsword.xml:59
 msgid "The Executioner"
-msgstr ""
+msgstr "Der Scharfrichter"
 
 #: simulation/templates/units/stalfos/stalfos_hero_deathsword.xml:61
 msgid ""
@@ -12879,7 +12923,7 @@ msgstr ""
 
 #: simulation/templates/units/wild_cuccoA.xml:13
 msgid "Chicken"
-msgstr ""
+msgstr "Huhn"
 
 #: simulation/templates/units/zora/zora_blademaster_b.xml:34
 msgid ""
