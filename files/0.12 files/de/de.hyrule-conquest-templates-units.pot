@@ -12271,7 +12271,7 @@ msgstr "Leichte Infanterie"
 #: simulation/templates/units/sheikah/sheikah_wallmaster_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fist"
-msgstr ""Faust
+msgstr "Faust"
 
 #: simulation/templates/units/sheikah/sheikah_wallmaster_b.xml:47
 msgid "Wallmaster"
@@ -12410,7 +12410,7 @@ msgstr "Blind"
 
 #: simulation/templates/units/stalfos/stalfos_hero_blind.xml:44
 msgid "Slithering Melee Hero with Camouflage."
-msgstr "SChlängelnder getarnter Held"
+msgstr "Schlängelnder getarnter Held"
 
 #: simulation/templates/units/stalfos/stalfos_hero_dampe.xml:4
 msgctxt "Name of an attack, usually the weapon."
@@ -12429,14 +12429,19 @@ msgid ""
 "Stalchildren around Hyrule. He denies these accusations... or at least the malevolent "
 "intentions implied in them."
 msgstr ""
+"Boris verblieb lange unbeachtet in Hyrule, und diente als Totengräber in Kakariko. Zwar"
+"waren seine Dienste geschätzt für die längste Zeit seines Lebens doch über die Jahrzehnte"
+"wurde er immer wieder verdächtigt und beschuldigt für die immer häufigeren Sichtungen von"
+"Knochengängern. Er leugntet diese Anschuldigungen... oder zumindest die bösen Absichten "
+"die mit ihnen einhergehen."
 
 #: simulation/templates/units/stalfos/stalfos_hero_dampe.xml:39
 msgid "Dampe"
-msgstr "Dampe"
+msgstr "Boris"
 
 #: simulation/templates/units/stalfos/stalfos_hero_dampe.xml:40
 msgid "Support Hero that summons swarms of Stalchidren."
-msgstr ""
+msgstr "Unterstützungsheld der SChwärme an Knochengängern beschwärt"
 
 #: simulation/templates/units/stalfos/stalfos_hero_deathsword.xml:59
 msgid "The Executioner"
@@ -12452,18 +12457,25 @@ msgid ""
 "destroyed from Hyrule. He is considered the father of all current Stalfos that haunt "
 "and torment the living of Hyrule."
 msgstr ""
+"Sein Name ging in der Geschichte unter und seine Herkunft als schwammmig zu bezeichnen"
+"ist großzügig. Manvermutet aus dass er einer der Gerudo Könige vor ihrem Fluch war."
+"Alles was von dieser berüchtigten Bestie verbleibt ist die Geschichte wie er in der  "
+"Wüstenburg eingekerkert wurde und bei der es unzählige Versionen und Mysterien gibt."
+"Die Todesklinge wurde angeklagt die abgeschaffte und ausgerottete Kunst des Totenbeschörens"
+"wiederbelebt und weitläufig eingeführt hat. Er wird als Urvater aller derzeitigen Stalfos"
+"angesehen die alles lebende in Hyrule heimuchen und quälen."
 
 #: simulation/templates/units/stalfos/stalfos_hero_deathsword.xml:64
 msgid "Death Sword"
-msgstr ""
+msgstr "Todesklinge"
 
 #: simulation/templates/units/stalfos/stalfos_hero_deathsword.xml:65
 msgid "Hovering Melee Hero that attacks with giant sword."
-msgstr ""
+msgstr "Schwebender Nahkampfheld der mit einem großen Schwert angreift"
 
 #: simulation/templates/units/stalfos/stalfos_hero_gabora.xml:38
 msgid "Dark Blacksmith"
-msgstr ""
+msgstr "Finsterer Waffenschmied"
 
 #: simulation/templates/units/stalfos/stalfos_hero_gabora.xml:40
 msgid ""
@@ -12473,14 +12485,19 @@ msgid ""
 "these famous blacksmiths. Many warriors have sought the lost knowledge of Gabora; few "
 "who did have returned from the dead as themselves."
 msgstr ""
+"Legenden besagen das Suchende eines perfekten Schwertes zu den Toten wandern müssen "
+"und dem größten jemals lebenden Waffenschmied tribut zollen müssen. Zu Lebzeiten"
+"hatten er und sein Partner Zubora einen Ruf erlangt der noch lange nach ihrem Ableben"
+"weiterhallte. Von den vielen Kriegern die nach der verlorenen Wissen von Gabora suchten "
+"kehrten nur wenige zurück und wenn doch, dann von den Toten."
 
 #: simulation/templates/units/stalfos/stalfos_hero_gabora.xml:43
 msgid "Gabora"
-msgstr ""
+msgstr "Gaabora"
 
 #: simulation/templates/units/stalfos/stalfos_hero_irene.xml:43
 msgid "Witch Disciple"
-msgstr ""
+msgstr "Hexenlehrling"
 
 #: simulation/templates/units/stalfos/stalfos_hero_irene.xml:45
 msgid ""
@@ -12490,23 +12507,28 @@ msgid ""
 "history, but this feisty young witch has been found working with the Stalfos and should"
 " be treated as such."
 msgstr ""
+"Irenen diente einst als eine von Rauru drei Diakonen. Nach vielen Meinungsverschiedenheiten"
+"mit ihrem Meister, wandte sie sich kurzerhand den dunklen Künsten von Hyrules Hexen zu."
+"Der Weg von Diakonin zu rebellischer Hexe bishin zur Verbündeten der Untoten ist nicht ganz "
+"klar für die annalen der Geschichte, aber diese kratzbürstige junge Hexe wurde gesichtet wie"
+"sie mit den Stalfos zusammenarbeitet und sollte als solche behandelt werden."
 
 #: simulation/templates/units/stalfos/stalfos_hero_irene.xml:48
 msgid "Irene"
-msgstr ""
+msgstr "Irene"
 
 #: simulation/templates/units/stalfos/stalfos_hero_irene.xml:49
 msgid "Flying mage unit that can lob fireballs from the sky."
-msgstr ""
+msgstr "Fliegende Magierin die Feuerbälle aus dem Himmel wirft"
 
 #: simulation/templates/units/stalfos/stalfos_hero_meg.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Torch"
-msgstr ""
+msgstr "Fackel"
 
 #: simulation/templates/units/stalfos/stalfos_hero_meg.xml:36
 msgid "Poe Sister"
-msgstr ""
+msgstr "Irrlichtschwester"
 
 #: simulation/templates/units/stalfos/stalfos_hero_meg.xml:38
 msgid ""
@@ -12516,18 +12538,22 @@ msgid ""
 " enigmatic ghost is foolish at best; seeking her service is dangerous beyond all "
 "reason."
 msgstr ""
+"Betti, ist eine der vier sagenumwobenen Irrlichtschwetern, deren Lebzeiten genauso mysteriös"
+"sind wie der Grund warum sie den Kokiri Wald heimsuchen. Wo aauch immer Meg haust steigen die"
+"Skelette längst vergessener Seelen aus ihren Gräbern und folgen ihr. Eine Audienz mit ihr zu "
+"suchen ist extrem gefährlich und geht gegen jede Vernunft."
 
 #: simulation/templates/units/stalfos/stalfos_hero_meg.xml:41
 msgid "Meg"
-msgstr ""
+msgstr "Betti"
 
 #: simulation/templates/units/stalfos/stalfos_hero_meg.xml:42
 msgid "Mage unit that can pass through any obstacle and torch enmies with fire."
-msgstr ""
+msgstr "Magierin die durch jede Hindernis schwebt und Feinde abfackelt."
 
 #: simulation/templates/units/stalfos/stalfos_knight_b.xml:36
 msgid "Stalknight"
-msgstr ""
+msgstr "Stalfos Ritter"
 
 #: simulation/templates/units/stalfos/stalfos_knight_b.xml:37
 msgid ""
@@ -12537,6 +12563,11 @@ msgid ""
 "Knight in combat: they have had centuries to hone their skills that were already "
 "formidable in life."
 msgstr ""
+"Stalfos Ritter waren einst hohe Adelige und Krieger im Austausch für Unsterblichkeit"
+"ihre Moral opferten. Sie haben zwar ihren Wusch erfüllt bekommen allerdings als Sklaven"
+"für ihre Totenbeschwörenden Meister. Jeder sollte sich vor einem Stalfos Ritter in Acht"
+"nehmen  denn sie hatten Jahrhunderte Zeit ihre schon zu Lebzeiten beeindruckenden"
+"Fertigkeiten zu prefektionieren"
 
 #: simulation/templates/units/stalfos/stalfos_lostsoul_b.xml:35
 msgid ""
