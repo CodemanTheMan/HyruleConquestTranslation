@@ -10601,7 +10601,7 @@ msgid ""
 " Labrynna duping most of her people into slavery, something she’s not all that proud "
 "of."
 msgstr ""
-"otaylo wurde der Oberboss der Tokay nicht durch Kraft, Intellekt oder Blutlinien..."
+"Otaylo wurde der Oberboss der Tokay nicht durch Kraft, Intellekt oder Blutlinien..."
 "sondern weil sie ein blaues Hemd aus LAbrynna kaufte. Ihre Taten führten unabsichtlich"
 "dazu das der grossteil ihres Volkes in die Sklaverei kam, eine Tatsache auf die sie nicht"
 "so stolz ist."
@@ -12669,7 +12669,7 @@ msgstr "Frost Nachtschwärmer"
 
 #: simulation/templates/units/stalfos/stalfos_poenecro_b.xml:39
 msgid "Poe Necromancer"
-msgstr "Wiedergänger Nekromant"
+msgstr "Nekromantenwiedergänger"
 
 #: simulation/templates/units/stalfos/stalfos_poenecro_b.xml:40
 msgid ""
@@ -12678,14 +12678,18 @@ msgid ""
 "to increase their number, the tall and lumbering Poe Necromancers will glide across the"
 " battlefield and animate the slain corpses of their victims."
 msgstr ""
+"Die Geister von verstorbenen antiken Totenbeschwörern. Diese phantomhaften Nachtschwärmer"
+"wissen um die Geheimnisse des ewigen Untodes und mehren die Zahlen von herumstreifenden "
+"Stalfos. Die großen und schwerfälligen Nekromantenwiedergänger schweben über das Schlachtfeld"
+"und erwecken die Körper ihrer getöteten Opfer."
 
 #: simulation/templates/units/stalfos/stalfos_poenecro_b.xml:43
 msgid "Ghost unit that can pass through any obstacle and raise the dead from corpses."
-msgstr ""
+msgstr "Gespenstereinheit die durch jedes Hindernis schwebt und Tote wiederauferstehen lässt"
 
 #: simulation/templates/units/stalfos/stalfos_redead_b.xml:37
 msgid "ReDead"
-msgstr ""
+msgstr "Zombie"
 
 #: simulation/templates/units/stalfos/stalfos_redead_b.xml:38
 msgid ""
@@ -12697,18 +12701,25 @@ msgid ""
 "all who look upon them... and their ghastly screams can completely paralize even the "
 "bravest of warriors."
 msgstr ""
+"Ein albrtraumhaftes abgemagerte Kreatur die tief unter der Erde herumschlurft. Es gibt"
+"vele Legenden über die Ursprünge der Zombies. Manche glauben das sie das Resultat von"
+"fehlgeschlagenen Unsterblichkeitsritualen sind, andere behaupten sie sind Wächter von"
+"Shiekah Gräberndie im für den Dienst von bösen Nekromanten entstellt wurden. Im Dienste"
+"der Stalfos werden sie dafür eingesetzt einen Feind komplett zu entmutigen. Ihre Fratzen"
+"des Bösen schaffen unmut in fast jedem der sie erblickt... und ihre grässlichen Schreie"
+"lassen selbst den tapfersten Krieger erstarren."
 
 #: simulation/templates/units/stalfos/stalfos_redead_b.xml:41
 msgid "Support unit that slows down and stuns enemies."
-msgstr ""
+msgstr "Unterstützungseinheit die Gegner verlangsamt"
 
 #: simulation/templates/units/stalfos/stalfos_redeadknight_b.xml:22
 msgid "ReDead Knight"
-msgstr ""
+msgstr "Zombie Ritter"
 
 #: simulation/templates/units/stalfos/stalfos_staldra_b.xml:51
 msgid "Staldra"
-msgstr ""
+msgstr "Stalydra"
 
 #: simulation/templates/units/stalfos/stalfos_staldra_b.xml:52
 msgid ""
@@ -12717,15 +12728,19 @@ msgid ""
 " surround them. They seem to also possess the ability to regenerate, making them very "
 "difficult to destroy."
 msgstr ""
+"Die wiederbelbten Überreste einer Kreatur die älter ist als jegliche Geschichte und Mythos.   "
+"Diese vielköpfigen Kreaturen sind in der Lage aus meheren Richtungen gleichzeitig zu attackieren"
+"was es unmöglich macht sie zu flankieren. Dem Anschein nach können sie sich auch regenerieren,"
+"was sie sehr schwer zu zerstören macht."
 
 #: simulation/templates/units/stalfos/stalfos_staldra_b.xml:55
 msgid "Melee Creature unit in that can attack multiple enemies at once. Has regeneration."
-msgstr ""
+msgstr "Nahkampf Kreatur die mehere Gegner gleichzeitig angreift und regeneriert."
 
 #: simulation/templates/units/stalfos/stalfos_stalgiant_b.xml:40
 #: simulation/templates/units/stalfos/stalfos_stalgiant_summon.xml:37
 msgid "Stalgiant"
-msgstr ""
+msgstr "Stalriese"
 
 #: simulation/templates/units/stalfos/stalfos_stalgiant_b.xml:41
 #: simulation/templates/units/stalfos/stalfos_stalgiant_summon.xml:38
@@ -12735,15 +12750,19 @@ msgid ""
 "skeleton, Stalgiants usually all behave the same way; mindlessly shuffling towards "
 "their targets and bashing at them with their large appendages."
 msgstr ""
+"Stalriese ist der name jeglicher Skeletkrieger die aus den Leichen von riesigen"
+"Feinden entstanden. Zwar ändert sich ihr Aussehen je nach Ursprungskörper aber "
+"Stalriesen verhalten sich generell alle gleich. Stumpf schlürfen sie auf ihr Ziel"
+"zu und zerschmettern es mit ihren riesigen Gliedmaßen"
 
 #: simulation/templates/units/stalfos/stalfos_stalgiant_b.xml:44
 #: simulation/templates/units/stalfos/stalfos_stalgiant_summon.xml:41
 msgid "Large skeletal creature that bashes enemies with its limbs."
-msgstr ""
+msgstr "Große Skelett Kreatur die g´Gegner mit ihren Gliedmaßen zerschmettert."
 
 #: simulation/templates/units/stalfos/stalfos_stalhorse_b.xml:36
 msgid "Stalhorse"
-msgstr ""
+msgstr "Stalpferd"
 
 #: simulation/templates/units/stalfos/stalfos_stalhorse_b.xml:37
 msgid ""
@@ -12752,14 +12771,17 @@ msgid ""
 "farmers and smaller targets to leave behind fresh corpses for the army to raise upon "
 "arrival."
 msgstr ""
+"Wiederbelebte Pferde die schnell Stalfos Krieger in die Schlacht bringen. Ihre Herren"
+"nutzen sie oft vor Invasionen um Bauernhöfe und andere Kleinere Orte zu überfallen damit "
+"die Armeen frische Leichen und somit Verstärkung bei ihrer Ankunft finden."
 
 #: simulation/templates/units/stalfos/stalfos_stalhorse_b.xml:40
 msgid "Lightly armored cavalry unit armed with a sword."
-msgstr ""
+msgstr "Leichte Kavallerie  mit einem Schwert bewaffnet"
 
 #: simulation/templates/units/stalfos/stalfos_stalhound_b.xml:41
 msgid "Stalhound"
-msgstr ""
+msgstr "Knochenhund"
 
 #: simulation/templates/units/stalfos/stalfos_stalhound_b.xml:42
 msgid ""
@@ -12769,15 +12791,19 @@ msgid ""
 "Stalhounds are one of the few undead abominations that are able to run swiftly as they "
 "did in life."
 msgstr ""
+"Knochenhunde sind die Leichen von Wachhunden die nun auch nach ihrem Ableben ihren Meistern"
+"dienen und Gräber bewachen und andere wichtige Orte zur Totenbeschwörung. Erpicht darauf ihren"
+"Meistern zu gefallen sind sie ein paar der wenigen untoten Abscheulichkeiten die auch im Tod"
+"so flink sind wie zu Lebzeiten."
 
 #: simulation/templates/units/stalfos/stalfos_stalhound_b.xml:45
 msgid "A swift moving creature unit that mauls victims with its claws."
-msgstr ""
+msgstr "Eine flinke Kreatur die ihre Opfer zerfleischt"
 
 #: simulation/templates/units/stalfos/stalfos_stalkin_b.xml:39
 #: simulation/templates/units/stalfos/stalfos_stalkin_summon.xml:37
 msgid "Stalkin"
-msgstr ""
+msgstr "Stalgänger"
 
 #: simulation/templates/units/stalfos/stalfos_stalkin_b.xml:40
 #: simulation/templates/units/stalfos/stalfos_stalkin_summon.xml:38
@@ -12787,17 +12813,21 @@ msgid ""
 "Stalkin usually all behave the same way; mindlessly shuffling towards their targets and"
 " stabbing them with any sharp instrument they can get their hands on."
 msgstr ""
+"Stalriese ist der name jeglicher Skelettkrieger die aus den Leichen von kleinen"
+"Feinden entstanden. Zwar ändert sich ihr Aussehen je nach Ursprungskörper aber "
+"Stalgänger verhalten sich generell alle gleich. Stumpf schlürfen sie auf ihr Ziel"
+"zu und zerschmettern es mit ihren riesigen Gliedmaßen"
 
 #: simulation/templates/units/stalfos/stalfos_stalkin_b.xml:43
 #: simulation/templates/units/stalfos/stalfos_stalkin_summon.xml:41
 msgid ""
 "Small spear unit that is raised from the corpses of Small sized creatures. Effective "
 "against cavalry."
-msgstr ""
+msgstr "Kleine Lanzenträger aus den Leichen kleiner Wesen. Effektiv gegen Kavallerie"
 
 #: simulation/templates/units/stalfos/stalfos_stalmaster_b.xml:55
 msgid "Stalmaster"
-msgstr ""
+msgstr "Stalmeister"
 
 #: simulation/templates/units/stalfos/stalfos_stalmaster_b.xml:56
 msgid ""
@@ -12806,20 +12836,24 @@ msgid ""
 "perfect their fighting skills with a wide variety of implements. The sight of a "
 "Stalmaster can only mean one thing: his large army is about to invade."
 msgstr ""
+"Die Krönung der untoten Schöpfung und der ganze Stolz ihrer Nekromantenfürsten."
+"Mit vier Waffen in ihren vielen Händen, konnten die Stalmeister ihre waffenkünste"
+"über Jahrjunderte perfektionieren mit vielen implemierten Tricks und Kniffen. Ihr"
+"Anblick kann nur eins bedeuten: Der Stalmeister führt seine Armeee in die Schlacht."
 
 #: simulation/templates/units/stalfos/stalfos_stalmaster_b.xml:59
 msgid "Heavily armored Infantry Commander unit. Leads other Stalfos into battle."
-msgstr ""
+msgstr "Schwer berüsteter Kommandant der Infanterie der Stalfos in die Schlacht führt"
 
 #: simulation/templates/units/stalfos/stalfos_stalreaper_b.xml:4
 #: simulation/templates/units/zora/zora_sapwarden_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Blue Fire"
-msgstr ""
+msgstr "Blaues Feuer"
 
 #: simulation/templates/units/stalfos/stalfos_stalreaper_b.xml:47
 msgid "Stalreaper"
-msgstr ""
+msgstr "Sensenmann"
 
 #: simulation/templates/units/stalfos/stalfos_stalreaper_b.xml:48
 msgid ""
@@ -12830,15 +12864,21 @@ msgid ""
 "about anything with their burning attacks, as well as defend themselves with their "
 "scythes in a melee."
 msgstr ""
+"In vielen Kulturen sind diese untoten Hexer auch als Todesklingen bekannt, aber in"
+"allen spielen sie diegleiche Rolle: Die Seelen der Lebenden zu ernten um sie ihren"
+"wachsenden hinzuzufügen. Die Sensenmänner sind wahrscheinlich mächtige Hexer die Herr"
+"über blaues Feuer sind, und vermutlich gut gelernte Kreigsmafier waren in ihren früheren"
+"Leben. Sie könner so gut wie jeden mit ihren Feuerangriffen einäschern und sich im"
+"Nahkampf mit ihren Sensen zu helfen wissen"
 
 #: simulation/templates/units/stalfos/stalfos_stalreaper_b.xml:52
 msgid "Hovering Mage unit that attacks enemies with blue fireballs from a distance."
-msgstr ""
+msgstr "Schwebender Magieeinheit die Gegner aus der Distanz mit Feuerbällen angreift."
 
 #: simulation/templates/units/stalfos/stalfos_staltroop_b.xml:36
 #: simulation/templates/units/stalfos/stalfos_staltroop_summon.xml:37
 msgid "Staltroop"
-msgstr ""
+msgstr "Staltrupp"
 
 #: simulation/templates/units/stalfos/stalfos_titan_stallord.xml:81
 msgid ""
@@ -12853,7 +12893,7 @@ msgstr ""
 
 #: simulation/templates/units/stalfos/stalfos_titan_stallord.xml:83
 msgid "Stallord"
-msgstr ""
+msgstr "Skeletulor"
 
 #: simulation/templates/units/stalfos/stalfos_titan_stallord.xml:84
 msgid ""
