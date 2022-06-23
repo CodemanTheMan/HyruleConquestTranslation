@@ -12578,19 +12578,25 @@ msgid ""
 "across. They attack with surprisingly skilled swordplay for an undead creature and are "
 "able to parry just about any blow."
 msgstr ""
+"Es gibt wenig Information über die Identität der Personen die zu diesen wandelnden Leichen"
+"wurden. Die maisten glauben das sie einst Soldaten im Dienste von Betti waren, die durch "
+"dunkle Mächte die tief im Wald lungern widerbelebt wurden. Wer auch immer sie waren, diese"
+"Verlorenen Seelen wandern durch die finsteren ecken der Waldes und fordern jeden heraus dem"
+"sie über den Weg laufen. Sie sind überraschend geschickt im Schwertkampf für Untote und"
+"können so ziemlichen jeden Hieb parieren."
 
 #: simulation/templates/units/stalfos/stalfos_lostsoul_b.xml:39
 msgid "Infantry Melee unit with very high skill at Dodging. Has Camouflage."
-msgstr ""
+msgstr "Infanterie die sehr gute Fähigkeiten im Ausweichenbesitzt. Sind Getarnt"
 
 #: simulation/templates/units/stalfos/stalfos_phantomrider_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Ghost Lance"
-msgstr ""
+msgstr "Geister Lanze"
 
 #: simulation/templates/units/stalfos/stalfos_phantomrider_b.xml:34
 msgid "Phantom Rider"
-msgstr ""
+msgstr "Phantom Ritter"
 
 #: simulation/templates/units/stalfos/stalfos_phantomrider_b.xml:35
 msgid ""
@@ -12599,10 +12605,14 @@ msgid ""
 "cull and reap unsuspecting populations. Normal weapons have little effect; perhaps some"
 " kind of magic must be used to banish these specters to the underworld."
 msgstr ""
+"Diese gespenstischen Ritter stammen aus längst vergessenen Zeiten und sind nun willenlose "
+"Sklaven ihrer Meister. Phantom Ritter weren im Schatten der Nacht ausgesandt um unvorbereitete"
+"Bevölkerungen auszumerzen und zu ernten. Normale Waffen zeigen wenig Wirkung; vermutlich"
+"muss man Magie nutzen um diese Gespenster zurück in die Unterwelt zu verbannen"
 
 #: simulation/templates/units/stalfos/stalfos_phantomrider_b.xml:38
 msgid "Ghost cavalry that can pass through any obstacle."
-msgstr ""
+msgstr "Gespenster Kavallerie die jedes Hindernis durchdringt"
 
 #: simulation/templates/units/stalfos/stalfos_poe_b.xml:4
 #: simulation/templates/units/stalfos/stalfos_poebig_b.xml:4
@@ -12623,14 +12633,18 @@ msgid ""
 "lanterns to attack their living foes. Many dark necromancers would seek out and bind "
 "these tortured souls to their causes."
 msgstr ""
+"Die Irrlichter sind Gesiter die die irdische Welt nie verließen und rastlos in ihren Gräbern"
+"weilen. Wenn ihre Grabunruhe gestört wird, erscheinen diese Geister und dreschen mit"
+"ihren Geisterlaternen auf jeden LEbenden Feind ein. Viele Dunkle Totenbeschwörer suchen"
+"diese gequälten Seelen auf um sie für ihre Ziele zu missbrauchen."
 
 #: simulation/templates/units/stalfos/stalfos_poe_b.xml:43
 msgid "Floating unit with Camouflage."
-msgstr ""
+msgstr "Schwebende getarnte Einheit "
 
 #: simulation/templates/units/stalfos/stalfos_poebig_b.xml:39
 msgid "Big Poe"
-msgstr ""
+msgstr "Nachtschwärmer"
 
 #: simulation/templates/units/stalfos/stalfos_poebig_b.xml:40
 msgid ""
@@ -12639,18 +12653,23 @@ msgid ""
 " Poes will relentlessly bash attackers with their lanterns. Their victims slain, the "
 "Big Poe will drag their spirits from their bodies and bring about more Poes."
 msgstr ""
+"Diese risiegen gespenstischen Schrecken haben es auf sich genommen ihr Leid und ihren Hass "
+"weit über ihre Gräber hinaus zu entfesseln und zerren andere ins Dasein als Gespenst."
+"Wie ihre kleineren Gegenstücke, die Irrlichter, schmetternsie ihre Laternen auf ihre "
+"Angeifer. Nachdem sie ihre Opfer erlegt haben, ziehen die Nachtschwärmer die Geister"
+"aus den Körpern um mehr Irrlichter zu erschaffen."
 
 #: simulation/templates/units/stalfos/stalfos_poebig_b.xml:43
 msgid "Floating unit with Camouflage. Can raise Poes from the corpses of fallen enemies."
-msgstr ""
+msgstr "Schwebende getarnte Einheit. Kann Irrlichter aus den Laichen von Feinden beschwören."
 
 #: simulation/templates/units/stalfos/stalfos_poeicy_b.xml:19
 msgid "Icy Big Poe"
-msgstr ""
+msgstr "Frost Nachtschwärmer"
 
 #: simulation/templates/units/stalfos/stalfos_poenecro_b.xml:39
 msgid "Poe Necromancer"
-msgstr ""
+msgstr "Wiedergänger Nekromant"
 
 #: simulation/templates/units/stalfos/stalfos_poenecro_b.xml:40
 msgid ""
