@@ -13104,7 +13104,7 @@ msgstr "Kommandant der die Leistung anderer Tora verbessert"
 #: simulation/templates/units/zora/zora_floodmaster_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Water Blast"
-msgstr "Wasserstoß"
+msgstr "Wasserschwall"
 
 #: simulation/templates/units/zora/zora_floodmaster_b.xml:59
 msgid "Floodmaster"
