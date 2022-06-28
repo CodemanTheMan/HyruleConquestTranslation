@@ -11052,7 +11052,7 @@ msgid ""
 msgstr ""
 "Als die Tochter von Zeira und die Erbin ihres Geschäfts, leitet Betty eine der größten"
 "Handelsketten in Hyrule. Sie ist mitverantwortlich für Ordonas wirtschaftlichen Wohlstand"
-"und den Außenhandel und hofft die Provinz in Hyrule als Wirtschaftsmacht zu halten. Zwar"
+"und Außenhandel und hofft die Provinz in Hyrule als Wirtschaftsmacht zu halten. Zwar"
 "ist sie nicht gut im Kämpfen aber sie hat genug Training mit Pfeil und Bogen."
 
 #: simulation/templates/units/ordona/ordona_hero_beth_b.xml:48
@@ -12890,6 +12890,13 @@ msgid ""
 "Stallord himself is a slow moving and crawling monstrosity that can vomit up dusty "
 "corpses and amass a following of Stalfos soldiers to follow him."
 msgstr ""
+"Ein gigantisches und unglaublich antikes Gerippe das tief in der Gerudo Wüste liegt. "
+"Man vermutet das der Skeletulor einst einer der altertümlichen Drachen war die Hyrule"
+"vor der Geschichtsschreibung heimsuchte. In der Gerudo Mythologie haben ihre Alten Götter"
+"den Drachen erlegt und aus dem Fleisch die Welt geschaffen und das Skeett tief in der Wüste"
+"vergraben. Die Gerudo glauben das die Welt untergeht ollte das Skelett von seinem Platz"
+"verschwinden. Der wiedebelebte Skeletulor selbst ist eine langsames kriechendes Monstrum "
+"das Staub und Leichen erbricht die ihm als Stalfossoldaten folgen."
 
 #: simulation/templates/units/stalfos/stalfos_titan_stallord.xml:83
 msgid "Stallord"
@@ -12900,6 +12907,8 @@ msgid ""
 "Legend unit that crushes enemies with its two massive hands and summons hordes of "
 "disposable undead."
 msgstr ""
+"Titaneneinheit die Gegner mit ihren zwei massigen Händen zerquetscht und eine Horde"
+"entbehrlicher Untote beschwört"
 
 #: simulation/templates/units/darknut/darknut_dux_b.xml:4
 #: simulation/templates/units/darknut/darknut_dux_legendary.xml:4
@@ -13002,6 +13011,10 @@ msgid ""
 "their armorial achievements and bear the icon of the holy Triforce as they answer the "
 "call of the Royal Family."
 msgstr ""
+"Die Ritter von Hyrule bestehen aus reichen Adeligen und fähigen Kämpfern aus dem ganzen Land"
+"die in Kriegszeiten autonome Krieger sind die sich selbst finanzieren, trainieren und bilden."
+"Falls Krieg ausbricht legen sie ihre eigenen Wappen ab und tragen das Zeichen des heiligen"
+"Triforce wenn sie dem Königshaus dienen."
 
 #: simulation/templates/units/hylian/hylian_knightofhyrule_b.xml:41
 #: simulation/templates/units/stalfos/stalfos_knight_b.xml:40
@@ -13010,6 +13023,8 @@ msgid ""
 "Heavily armored infantry unit. Very resistant to non-magic damage and Knockback. A "
 "powerful all-round late game unit."
 msgstr ""
+"Schwer gepanzerte Infanterie. Sehr resitent gegen Nichtmagische Angriffe und Rückstoß."
+"Eine mächtige Allzweckeinheit im späten Spielverlauf"
 
 #: simulation/templates/units/wild_cuccoA.xml:13
 msgid "Chicken"
@@ -13021,14 +13036,18 @@ msgid ""
 "invasion forces on many occasions. They emphasize speed and form over brute strength "
 "and durability, preferring to disarm their targets."
 msgstr ""
+"Mit einem gekrümmten Falchion marschierten die Zora Schwertmeister schon oft in den "
+"vordersten Reihen von Invasionstruppen. Sie legen einen besonderen Wert auf Geschwindigkeit"
+"und gute Technik anstatt purer Stärke und Wiederstandskraft und bevorzugen es Gegner zu "
+"entwaffnen"
 
 #: simulation/templates/units/zora/zora_blademaster_b.xml:39
 msgid "Medium Melee unit armed with a sword."
-msgstr ""
+msgstr "Mittlere Infanterie mit einem Schwert"
 
 #: simulation/templates/units/zora/zora_boomeranger_b.xml:49
 msgid "Boomeranger"
-msgstr ""
+msgstr "Bumerangwerfer"
 
 #: simulation/templates/units/zora/zora_boomeranger_b.xml:50
 msgid ""
@@ -13037,15 +13056,19 @@ msgid ""
 "and mages, but the wide arc of their attack can hit multiple enemies and deal quite a "
 "bit of splash damage."
 msgstr ""
+"Der Bumerang ist eine einzigartige Waffe der Zora und ihre Werfer wissen sie in der Schlacht"
+"zu nutzen. Ein Bumerangwerfer hat zwar nicht die Reichweite der meisten Bogenschützen und "
+"Magier, aber durch den großen Bogen den der Bumerang schlägt können mehere Gegner getroffen"
+"werden und guter Flächenschaden verursacht werden."
 
 #: simulation/templates/units/zora/zora_boomeranger_b.xml:54
 msgid "Light Ranged unit that can stun multiple enemies with each attack."
-msgstr ""
+msgstr "Leichte Fernkämpfer die mehere  Gegner mit ihren Angriff betäuben können"
 
 #: simulation/templates/units/zora/zora_civilianA.xml:8
 #: simulation/templates/units/zora/zora_servantA.xml:62
 msgid "Servant"
-msgstr ""
+msgstr "Diener"
 
 #: simulation/templates/units/zora/zora_civilianA.xml:9
 #: simulation/templates/units/zora/zora_servantA.xml:63
@@ -13062,7 +13085,7 @@ msgstr ""
 
 #: simulation/templates/units/zora/zora_domsupreme_b.xml:41
 msgid "Domain Supreme"
-msgstr ""
+msgstr "Zora Oberst"
 
 #: simulation/templates/units/zora/zora_domsupreme_b.xml:42
 msgid ""
@@ -13070,19 +13093,22 @@ msgid ""
 "commanders. A lone Domain Supreme can keep a unit functioning and morale high, while an"
 " entire legion of Supremes can dramatically improve the performance of an entire army."
 msgstr ""
+"Veteranen in der Armee des Zora Reichs. Die Zora Oberste sind fähige Krieger und Kommandanten"
+"und ein einziger kann eine ganze Gruppe zusammenhalten und die Moral aufrechterhalten "
+"während eine ganze legion an Obersten die Leistung einer ganzen Armee verbessert."
 
 #: simulation/templates/units/zora/zora_domsupreme_b.xml:46
 msgid "Commander unit that increases the performance of other Zora units."
-msgstr ""
+msgstr "Kommandant der die Leistung anderer Tora verbessert"
 
 #: simulation/templates/units/zora/zora_floodmaster_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Water Blast"
-msgstr ""
+msgstr "Wasserstoß"
 
 #: simulation/templates/units/zora/zora_floodmaster_b.xml:59
 msgid "Floodmaster"
-msgstr ""
+msgstr "Flutbändigerin"
 
 #: simulation/templates/units/zora/zora_floodmaster_b.xml:61
 msgid ""
@@ -13092,14 +13118,19 @@ msgid ""
 "summon forth a surge of rushing water, knocking back enemies much larger than the mage "
 "quite a distance."
 msgstr ""
+"Flutbändigerinnen stellen ein paar der besten Magierinnen nicht nur in Zoras Reich sondern"
+"in ganz Hyrule dar. Auch wenn es das ganze Leben beansprucht die Kontrolle über das Wasser"
+"zu meistern so stehen sie mit ihren Fähigkeiten der Weise des Waassers in nichts nach. Eine"
+"einzelne Flutbändigerin kann eine mächtigen Schwall an Wasser beschwören und sogar Gegner"
+"die viel Größer sind als die Magierin selber wegschwemmen."
 
 #: simulation/templates/units/zora/zora_floodmaster_b.xml:66
 msgid "Powerful Mage unit that knocks enemies around with waves of water."
-msgstr ""
+msgstr "Mächtige Magierin die Gegner mit Wasserwellen wegstößt"
 
 #: simulation/templates/units/zora/zora_halberdier_b.xml:39
 msgid "Halberdier"
-msgstr ""
+msgstr "Hellebardisten"
 
 #: simulation/templates/units/zora/zora_halberdier_b.xml:40
 msgid ""
@@ -13107,17 +13138,20 @@ msgid ""
 "centuries. Armed with their signature bladed polearms, Halberdiers are slow and clunky "
 "on land, but quite a force to face in the waters of their own cities."
 msgstr ""
+"Scharen an Zora Hellebardisten haben die Grenzen des Reiches schon seit Jahrhunderten "
+"verteidigt. Mit ihren ikonischen mit Klingen bestückten Lanzen, sind sie zwar langsam "
+"und etwas unbeholfen an Land aber ein ernstzunehmende Gefahr in den Gewässern ihrer Städte"
 
 #: simulation/templates/units/zora/zora_halberdier_b.xml:45
 msgid ""
 "Medium Melee unit that is armed with a halberd, capable of piercing armor and crushing "
 "enemy cavalry. Zora Halberdiers are available in the Town Phase, unlike most halberdier"
 " units."
-msgstr ""
+msgstr "Mittlere Infanterie mit einer Hellebarde. Zermalmt feindliche Kavallerie"
 
 #: simulation/templates/units/zora/zora_healer_b.xml:38
 msgid "Zora Healer"
-msgstr ""
+msgstr "Zorafeldarzt"
 
 #: simulation/templates/units/zora/zora_healer_b.xml:39
 msgid ""
@@ -13126,14 +13160,18 @@ msgid ""
 "talent to the frontlines, giving potions and magical aid to injured soldiers so they "
 "might fight on and survive longer."
 msgstr ""
+"Pflege und Heilung von verwundeten ist ein großer Forschungsbereich unter den Zora "
+"die auch auf dem Schlachtfeld praktische Anwendung findet. Zorafeldärzte bringen ihr "
+"medizinisches Talent an die Front, und verteilen Heiltränke und magische Hilfe an"
+"verletzte Soldaten sodass sie weiterkämpfen und besser überleben können."
 
 #: simulation/templates/units/zora/zora_healer_b.xml:44
 msgid "Support unit that can heal wounded soldiers with her magic."
-msgstr ""
+msgstr "Unterstützungseinheit die verwundete Soldaten mit ihrer Magie heilt"
 
 #: simulation/templates/units/zora/zora_healersupreme_b.xml:52
 msgid "Healer Supreme"
-msgstr ""
+msgstr "Oberstfeldarzt"
 
 #: simulation/templates/units/zora/zora_healersupreme_b.xml:53
 msgid ""
@@ -13142,21 +13180,25 @@ msgid ""
 "bandage them up before moving onto the next. They are trained in basic combat as well, "
 "allowing them to fight off aggressors."
 msgstr ""
+"Oberstfeldärzte sind für den schnellen Einsatz auf Schlachtfeldern trainiert. Ihre Hauptaufgabe"
+"besteht darin die Überlegenschancen eines verwundeten Soldaten zu beurteilen um ihn dann schnell "
+"zusammenzuflicken bevor sie zum nächsten übergehen. Sie haben eine Grundausbildung im Kampf um"
+"Aggresoren abzuwehren"
 
 #: simulation/templates/units/zora/zora_healersupreme_b.xml:57
 msgid "Zaleen's Unique Unit. Melee unit that can also heal wounded units."
-msgstr ""
+msgstr "Infanterie die auch Verwundete Einheiten heilt"
 
 #: simulation/templates/units/zora/zora_hero_debon.xml:4
 #: simulation/templates/units/zora/zora_hydrocanopy_b.xml:4
 #: simulation/templates/units/zora/zora_hydrodemolish_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Hooves"
-msgstr ""
+msgstr "Füße"
 
 #: simulation/templates/units/zora/zora_hero_debon.xml:71
 msgid "King of the Dominion"
-msgstr ""
+msgstr "König des Reiches"
 
 #: simulation/templates/units/zora/zora_hero_debon.xml:73
 msgid ""
@@ -13167,23 +13209,30 @@ msgid ""
 "unlawfully married the half-breed Zora, Rutela, only to divorce her and thereby pollute"
 " the royal bloodline, and splinter the Dominion into two empires."
 msgstr ""
+"Der derzeitige König aus einer langen Reihe von Monarchen des Reiches. König Farkos ist "
+"ein eher unrühmlicher Herrscher der seine Machtstellung missbraucht. Er war verantwortlich"
+"für mehere unnötige Militärische Expeditionen wovon eine eine komplette Invasion des Todes- "
+"berges war. König Farkos ist bekannt als ein Egoist der jeglicher Tradition ignoriert. Er "
+"hat unrechtmäßig die halbblütige Zora Rutela geheirattet, nur damit die Ehe zu Bruch ging"
+"und nach der Scheidung nicht nur die Königliche Blutlinie verunreint sondern auch noch das "
+"Reich in zwei Teile geteilt war."
 
 #: simulation/templates/units/zora/zora_hero_debon.xml:77
 msgid "Zora Farkos De Bon XVI"
-msgstr ""
+msgstr "Zora Farkos De Bon XVI "
 
 #: simulation/templates/units/zora/zora_hero_debon.xml:78
 msgid "Melee Cavalry Hero that attacks enemies with two dangerous claws."
-msgstr ""
+msgstr "Held der Kavallerie der mit seinem Hydrofanten angreift"
 
 #: simulation/templates/units/zora/zora_hero_jabun.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Head Lantern"
-msgstr ""
+msgstr "Kopflaterne"
 
 #: simulation/templates/units/zora/zora_hero_jabun.xml:43
 msgid "Spawn of Lord Jabu"
-msgstr ""
+msgstr "Brut von Lord Jabu Jabu"
 
 #: simulation/templates/units/zora/zora_hero_jabun.xml:45
 msgid ""
@@ -13191,24 +13240,27 @@ msgid ""
 "Princess Ruto's only loyal friends. Jabun spends most of his time in the Great Sea, but"
 " heeds any summon to the Domain when needed."
 msgstr ""
+"Jaboo, der einzig überlebende Nachkomme von Lord Jabu Jabu, ist eine der wenigen loyalen"
+"Freunde von Prinzessin Ruto. Jaboo verbringt die meiste Zeit auf hoher See, kehrt aber zum"
+"Reich zurück wenn er gebraucht wird."
 
 #: simulation/templates/units/zora/zora_hero_jabun.xml:49
 msgid "Jabun"
-msgstr ""
+msgstr "Jaboo"
 
 #: simulation/templates/units/zora/zora_hero_jabun.xml:50
 msgid "Flying Mage Hero that can attack with burning fireballs."
-msgstr ""
+msgstr "Fliegender Magischer Held der mit Feuerbällen angreift"
 
 #: simulation/templates/units/zora/zora_hero_laruto.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Sage Water"
-msgstr ""
+msgstr "Wasser der Weisen"
 
 #: simulation/templates/units/zora/zora_hero_laruto.xml:52
 #: simulation/templates/units/zora/zora_hero_ruto.xml:60
 msgid "Sage of Water"
-msgstr ""
+msgstr "Weise des Wassers"
 
 #: simulation/templates/units/zora/zora_hero_laruto.xml:54
 msgid ""
@@ -13216,19 +13268,23 @@ msgid ""
 "Dominion both as a priestess and advisor to royalty. Laruto's power over water is "
 "unmatched and she has defended her people without equal during her long service."
 msgstr ""
+"Lart ist die Mentorin von Prinzessin Ruto und eine der älteren Weisen und diente"
+"dem Zora Reich schon lange als Priesterin und königliche Beraterin. Larts Macht"
+"über das Wasser ist unerreicht und sie hat ihr Volk wie keine andere schon oft "
+"verteidigt während ihres langen Dienstes"
 
 #: simulation/templates/units/zora/zora_hero_laruto.xml:58
 msgid "Laruto"
-msgstr ""
+msgstr "Lart"
 
 #: simulation/templates/units/zora/zora_hero_laruto.xml:59
 msgid "Powerful Mage Hero that can attack many enemies with her water magic."
-msgstr ""
+msgstr "Mächtige Magieische Heldin die viele Gegner mit ihrer Wassermagie angreift"
 
 #: simulation/templates/units/zora/zora_hero_ruto.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Sage Ice"
-msgstr ""
+msgstr "Eis der Weisen"
 
 #: simulation/templates/units/zora/zora_hero_ruto.xml:62
 msgid ""
@@ -13241,20 +13297,28 @@ msgid ""
 " demeanor, she withholds a lifelong sadness after the splitting of her parents, that "
 "she tries to cure by finding a husband; a venture she often spectacularly fails in."
 msgstr ""
+"Als Tochter von König Farkos und Königin Rutela wurde Rutos Blut als verunreinigt angesehen"
+"was man an ihren Augen bemerkt. Nichtsdestotrotz behält sie ihren Titel und den Sitz auf dem"
+"Thron, nach der Scheidung ihrer Eltern. Durch einen fast tödlichen Unfall als als junge Erwachsene"
+"gelangte sie in den Rang als Weise was sie zu einer der jüngsten jemals lebenden Weisen machte."
+"Ruto ist bekannt für ihre Kratzbürstigkeit und aggresives Verhalten und wurde schon oft als"
+"verzogenes Balg bezeichnet. Trotz ihres Auftretens, hat sie eine tiefe Trauer über die Trennung"
+"ihrer Eltern inne, die sie zu heilen versucht indem sie sich einen Ehemann angelt. Ein Vorhaben"
+"in dem sie oft spektakulär versagt."
 
 #: simulation/templates/units/zora/zora_hero_ruto.xml:66
 msgid "Princess Ruto"
-msgstr ""
+msgstr "Prinzessin Ruto"
 
 #: simulation/templates/units/zora/zora_hero_ruto.xml:67
 msgid "Powerful Mage Hero that can attack many enemies with her icy magic."
-msgstr ""
+msgstr "Mächtige Magische Heldin die viele Gegner auf einmal mit ihrer Eismagie angreift."
 
 #: simulation/templates/units/zora/zora_hero_telara.xml:4
 #: simulation/templates/units/zora/zora_stormbolter_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Stormbolter"
-msgstr ""
+msgstr "Donnerkolben"
 
 #: simulation/templates/units/zora/zora_hero_telara.xml:38
 msgid "Headmaster Historian"
