@@ -7469,7 +7469,7 @@ msgstr "Ältere Meghads sind selten da sie nur in jungen Jahren gezähmt werden 
 "Kontrolle. Da sie aggressiv und schwer zu Kontrolieren sind kann der Reiter nicht angreifen"
 "und muss sich ganz auf das Tier konzentrieren. Der Meghad hat zwei scharfe Scheren und "
 "einen giftigen Stachel auf seinem Schwanz , was ihn zu einem der tödlichsten Kreaturen in "
-"Lanayrus Armee macht."
+"Lanayrus Armee machte."
 
 #: simulation/templates/units/lanayru/lanayru_arachdervish_b.xml:48
 msgid "Fast Melee Unit that attacks with poisonous stinger."
@@ -7488,10 +7488,10 @@ msgid ""
 "domesticated and used as beasts of war."
 msgstr ""
 "Diese skorpionhaften Medighads die in den Sanden von Lanayru beheimatet sind, gelten  "
-"überall in Hyrule als extrem gefährlichsten Schädlinge.Die Zora der Lanayru Provinz "
+"überall in Hyrule als extrem gefährlichsten Schädlinge. Die Zora der Lanayru Provinz "
 "haben Wege gefunden sich den gefährlichen Saisons anzupassen oder ihnen auszuweichen"
 "und haben selten Probleme mit den Kreaturen. Wenn sie jung genug als Minighad gefangen"
-"wurden konnten sie gezähmt und als Kriegsbestien eingesetzt werden"
+"wurden, konnten sie gezähmt und als Kriegsbestien eingesetzt werden"
 
 #: simulation/templates/units/lanayru/lanayru_aruroda_b.xml:44
 msgid "Light Melee Creature unit that can burrow to become Stealthed."
@@ -13318,11 +13318,11 @@ msgstr "Mächtige Magische Heldin die viele Gegner auf einmal mit ihrer Eismagie
 #: simulation/templates/units/zora/zora_stormbolter_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Stormbolter"
-msgstr "Donnerkolben"
+msgstr "Sturmkolben"
 
 #: simulation/templates/units/zora/zora_hero_telara.xml:38
 msgid "Headmaster Historian"
-msgstr ""
+msgstr "Leitende Historikerin"
 
 #: simulation/templates/units/zora/zora_hero_telara.xml:40
 msgid ""
@@ -13333,14 +13333,19 @@ msgid ""
 "is rather introverted and avoids appearing in public unless in the company of Zaleen or"
 " her library."
 msgstr ""
+"Ursprünglich als Magierin ausgebilt´det, verließ Telara diese Gemeinschaft um ein weniger feindselgies"
+"Leben zu führen. Irgendwann heiratete sie Zaleen und wurde Bibleothekarin im Hauptreich, wo sie viele"
+"Historische dokumente und Informationen sammelte die später in Midnas Buch Hyrules Historia verwendet"
+"wurden. Telara ist eine ruhige, schüchterne und introvertierte Persönlichkeit die es vermeidet in der"
+"Öffentlichkeit gesehen zu werden ohne ihren Mann Zaleen oder in ihrer Bibliothek."
 
 #: simulation/templates/units/zora/zora_hero_telara.xml:44
 msgid "Telara"
-msgstr ""
+msgstr "Telara"
 
 #: simulation/templates/units/zora/zora_hero_zaleen.xml:41
 msgid "Ambassador Supreme"
-msgstr ""
+msgstr "Oberster Botschafter"
 
 #: simulation/templates/units/zora/zora_hero_zaleen.xml:43
 msgid ""
@@ -13351,18 +13356,24 @@ msgid ""
 " and resulted in her adoption into Sagehood. Since then he has maintained emotional "
 "(and literal) distance from her and has grown antagonistic to her rise to the throne."
 msgstr ""
+"Über viele Jahre vermittelte Zaleen als Botschafter zwischen dem Zora Reich und seinen vielen"
+"Nachbarn. Er ist der vermutlich einer der am besten versierte Zora wenn es um Hyrules Geschichte"
+"und Kultur geht was auch der Bibliothek seiner Frau zugrunde liegt. Zaleen war ein enger Freund"
+"Rutos während ihrer JUgend, doch durch einen beinahe tödlichen Unfall Rutos, in den er verwickelt"
+"war, führte zu ihrer Aufnahme als Weise. Seitdem hält er emotionale (und geographische) Distanz"
+"zu ihr und steht ihrem Aufstieg auf dem Thrones immer kritischer gegenüber."
 
 #: simulation/templates/units/zora/zora_hero_zaleen.xml:47
 msgid "Zaleen"
-msgstr ""
+msgstr "Zaleen"
 
 #: simulation/templates/units/zora/zora_hero_zaleen.xml:48
 msgid "Strong Melee Hero who excells at fighting other enemy Heroes."
-msgstr ""
+msgstr "Starker Held der Infanterie der i Kampf gegen andere Helden herausragt"
 
 #: simulation/templates/units/zora/zora_hydrocanopy_b.xml:65
 msgid "Hydrophant Canopy"
-msgstr ""
+msgstr "Hydrofanten Turm"
 
 #: simulation/templates/units/zora/zora_hydrocanopy_b.xml:67
 msgid ""
@@ -13372,6 +13383,10 @@ msgid ""
 " attack and crush enemies in melee, though it has a difficult time against large mobs "
 "surrounding it."
 msgstr ""
+"Diese gigantischen Hydrofanten sin mit Türmen bestückt die eine Vielzahl an Zora aufnehmen"
+"kann. Distanzkämpfer wie Magierinnen können sicher und einfach vom Turm aus angreifen. Der"
+"Hydrofant selbst kann Gegner im Nahkampf angreifen und zerschmettern auch wenn ein großer "
+"Mob schwierigkeiten verursachen kann."
 
 #: simulation/templates/units/zora/zora_hydrocanopy_b.xml:72
 msgid ""
@@ -13382,10 +13397,16 @@ msgid ""
 "Hydrophant's offensive and disruptive capabilities. The Hydrophant itself can attack "
 "and crush enemies in melee as well, dealing both Knockback and Splash Damage."
 msgstr ""
+"König Du Bons Einzigartige Einheit. Große Kreatur die auf ihrem Turm verschiedene"
+"Zora Einheiten stationieren. Funkenmagierinnen können von einer sicheren Distanz"
+"greifen während eine Flutbändigerin die Flanken des Hydrofanten vor Infanterie schützt"
+"Zu guter letzt kann ein Kyameronmeisterin kleine Hydrofanten beschwören die die Offensive"
+"und disruptive Fähigkeiten erweitert. Der Hydrofant selber kann Gegner im Nahkampf mit"
+"hohen Rückstoß und Flächenschaden zerschmettern."
 
 #: simulation/templates/units/zora/zora_hydrodemolish_b.xml:37
 msgid "Hydrophant Demolisher"
-msgstr ""
+msgstr "Hydrofant Demolierer"
 
 #: simulation/templates/units/zora/zora_hydrodemolish_b.xml:38
 msgid ""
@@ -13395,14 +13416,19 @@ msgid ""
 "against smaller and mobile targets, seeing as Hydrophants have a difficult time "
 "focusing on movement below their heads."
 msgstr ""
+"Von einem Zora Reiter geführt, rammen diese riesigen erwachsenen Hydrofanten mit ihrer "
+"Masse in andere große Ziele. Zoras Reich nutzt die Demolierer oft um durch feindliche "
+"Mauern zu brechen  und Türme oder Gebäude niederzureißen. Gegen kleinere und wendigere "
+"Ziele sind sie weniger effektiv, da Hydrofanten Probleme haben Bewegungen unterhalb"
+"ihres Kopfes wahrzunehmen"
 
 #: simulation/templates/units/zora/zora_hydrodemolish_b.xml:42
 msgid "Large Cavalry Siege unit that excells at destroying enemy structures."
-msgstr ""
+msgstr "Große Belagerungskavallerie die feindliche Gebäude zerschmettert."
 
 #: simulation/templates/units/zora/zora_hydrolancer_b.xml:43
 msgid "Hydrophant Lancer"
-msgstr ""
+msgstr "Hydrofanten Lanzer"
 
 #: simulation/templates/units/zora/zora_hydrolancer_b.xml:44
 msgid ""
@@ -13410,14 +13436,17 @@ msgid ""
 " for the Dominion. While Hydrophants are slower on land compared to mounts used by "
 "other races of Hyrule, they have quite an advantage when crossing into bodies of water."
 msgstr ""
+"Auf dem Rücken jüngerer Hydrofanten dienen diese Lanzer als Kavallerie für Zoras Reich."
+"Zwar sind Hydrofanten auf dem Land langsamer als die meisten anderen Reittiere so haben"
+"sie dennoch den Vorteil Gewässer ohne Probleme überqueren zu können."
 
 #: simulation/templates/units/zora/zora_hydrolancer_b.xml:48
 msgid "Large Melee Cavalry unit armed with a lance, excellent to use against other Cavalry."
-msgstr ""
+msgstr "Große Kavallerie die mit Lanzen bewaffnet gut gegen andere Kavallerie sind"
 
 #: simulation/templates/units/zora/zora_infiltrator_b.xml:32
 msgid "Infiltrator"
-msgstr ""
+msgstr "Infiltrator"
 
 #: simulation/templates/units/zora/zora_infiltrator_b.xml:33
 msgid ""
@@ -13427,16 +13456,21 @@ msgid ""
 "skeleton can get through. Such talents are used by the Dominion to scout and spy on "
 "their neighboring lands."
 msgstr ""
+"Nach Jahren der extremen Körperformung, können Infiltratoren sich in so gut wie jeden "
+"Ort reinschleichen um benötigte Informationen zu ergattern. Ihre formbaren Körper"
+"ermöglichen es ihnen sich in jeglich erdenkliche Form zu biegen und durch die jeden"
+"ihrem Skelett möglichen Spalt zu quetschen. Diese Fähigkeiten werden von Zoras Reich"
+"zur Auklärung und Spionage genutzt."
 
 #: simulation/templates/units/zora/zora_infiltrator_b.xml:37
 msgid ""
 "Zora Scout unit that can detect Camouflaged and Stealthed units. The Infiltrator is "
 "stealthed."
-msgstr ""
+msgstr "Getarnte Zora Späher die selbst getarnte Einheiten aufdecken"
 
 #: simulation/templates/units/zora/zora_kyamaster_b.xml:28
 msgid "Kyameron Master"
-msgstr ""
+msgstr "Kyameronmeisterin"
 
 #: simulation/templates/units/zora/zora_kyamaster_b.xml:29
 msgid ""
@@ -13446,14 +13480,17 @@ msgid ""
 "the Dominion during times of war. A Kyameron Master can summon autonomous blobs of "
 "living water to go forth and attack enemy forces."
 msgstr ""
+"Eine seltene Truppe von Magiereinnen in Zoras Reich. Kyameronmeisterinnen haben die Macht"
+"Leben in Wasser einzuflössen. Ihre Methoden sind ein Geheimnis für Außenstehende ihrer Kultes,"
+"Aber sie sind willig Zoras Reich in Kriegszeiten Militärische Unterstützung zu leisten."
 
 #: simulation/templates/units/zora/zora_kyamaster_b.xml:35
 msgid "Support Mage that can summon swarms of Kyamerons to do her bidding."
-msgstr ""
+msgstr "Unterstützende Magierin die Schwärme an Kyamerons beschwört und kontrolliert"
 
 #: simulation/templates/units/zora/zora_kyameron_b.xml:43
 msgid "Kyameron"
-msgstr ""
+msgstr "Kyameron"
 
 #: simulation/templates/units/zora/zora_kyameron_b.xml:44
 msgid ""
@@ -13461,14 +13498,17 @@ msgid ""
 "that summoned it. Kyamerons are near useless in combat, but they can easily keep an "
 "enemy army distracted."
 msgstr ""
+"Ein belebter Wasserhaufen der einfache grundlegende Befehle von der Meisterin folgt"
+"die ihn beschworen hat. Kyameron sind nahezu nutzlos im Kampf, können eine feindliche"
+"Armeee aber einfach beschäftigen"
 
 #: simulation/templates/units/zora/zora_kyameron_b.xml:48
 msgid "Small Melee Creature unit with a weak Water attack."
-msgstr ""
+msgstr "Kleine Kreatur die eine schwachen Wassernahkampfattacke hat"
 
 #: simulation/templates/units/zora/zora_magecannon_b.xml:57
 msgid "Mage Cannon"
-msgstr ""
+msgstr "Magier Kanone"
 
 #: simulation/templates/units/zora/zora_magecannon_b.xml:58
 msgid ""
@@ -13477,14 +13517,18 @@ msgid ""
 "power. When reaching capacity, a Mage Cannon will explode with tremendous force and "
 "unleash a powerful electrical bolt that can incinerate just about anything it hits."
 msgstr ""
+"Durch einen abgebrochenen Splitter eines mächtigen Magie Kristalls der in einem mobilen"
+"Gestell gepackt wurde können Zora Magier diese Kanonen herumschieben und mit ihrer Macht "
+"aufladen. Wenn der Kristall seine Kapazität erreicht entlädt die Magier Kanone einen  "
+"gewaltigen elektrischen Bolzen,der alles einäschert was in seinem Weg steht."
 
 #: simulation/templates/units/zora/zora_magecannon_b.xml:60
 msgid "Very long ranged Siege unit that blasts and stuns enemies with bolts of electricity."
-msgstr ""
+msgstr "Weitreichende Belagerungswaffe die mit Elektrischen Bolzen Gegner betäubt und einäschert."
 
 #: simulation/templates/units/zora/zora_morphite_b.xml:55
 msgid "Morphite"
-msgstr ""
+msgstr "Morphit"
 
 #: simulation/templates/units/zora/zora_morphite_b.xml:56
 msgid ""
@@ -13492,16 +13536,19 @@ msgid ""
 "Masters. A Morphite can cause much havoc on the battlefield, flailing widely and "
 "dealing damage to anything around itself."
 msgstr ""
+"Ein großer und Monströser Tentakel aus Wasser, geschaffen von einer Gruppe mächtiger"
+"Kyameronmeisterinnen. Ein Morphit kann viel Unheil auf dem Schlchtfeld anrichten"
+"durch wildes Gedresche was Schaden an allem um ihn herum verursacht."
 
 #: simulation/templates/units/zora/zora_morphite_b.xml:60
 msgid ""
 "Large Creature unit that has a large Splash Damage attack. Spawns Kyamerons when slain "
 "in battle."
-msgstr ""
+msgstr "Große Kreatur die viel Flächenschaden verursacht. Erschafft Kyameron nach ihrem Ableben"
 
 #: simulation/templates/units/zora/zora_nayrublessed_b.xml:28
 msgid "Nayru's Blessed"
-msgstr ""
+msgstr "Nayrus Gesegnete"
 
 #: simulation/templates/units/zora/zora_nayrublessed_b.xml:30
 msgid ""
@@ -13509,16 +13556,19 @@ msgid ""
 " their staffs. These mages can use such an ability to create defenses around themselves"
 " and their brethren in battle."
 msgstr ""
+"Nayrus Gesegnete führen eine extrem seltene Macht die Kristalline Barrieren mit ihren"
+"Stäben erzeugt. Diese Magier nutzen diese Fähigkeit um Verteidigungen um sich und ihre"
+"Verbündeten zu schaffen"
 
 #: simulation/templates/units/zora/zora_nayrublessed_b.xml:36
 msgid ""
 "Princess Ruto's Unique Unit. Support Mage unit that increases both the non-magic and "
 "magic armor of units."
-msgstr ""
+msgstr "Rutos einzigartige Einheit die die Magische und Nicht-Magische Verteidigung steigert"
 
 #: simulation/templates/units/zora/zora_riverpatrol_b.xml:32
 msgid "River Patrol"
-msgstr ""
+msgstr "Fluss Patrouille"
 
 #: simulation/templates/units/zora/zora_riverpatrol_b.xml:33
 msgid ""
@@ -13526,14 +13576,18 @@ msgid ""
 "order within the Dominion. With their light spear and buckler, they are able to handle "
 "all sorts of minor threats, from bandits, to wild creatures, to criminal uprisings."
 msgstr ""
+"Diese Zora Polizei wird oft am Zora Fluss gesehen in ist dort auf geheiß des Reiches um"
+"für Recht und Rdnung zu sorgen. Mit ihren leichten Speeren und Faustschilden können sie"
+"die meisten kleinere Gefahren abwehren sei es Banditen, wilde Kreaturen oder kriminelle"
+"Aufstände"
 
 #: simulation/templates/units/zora/zora_riverpatrol_b.xml:37
 msgid "Light Melee unit armed with a spear. They can gather fish from bodies of water."
-msgstr ""
+msgstr "Leichte Infanterie mit Speeren"
 
 #: simulation/templates/units/zora/zora_sapwarden_b.xml:42
 msgid "Sapphire Warden"
-msgstr ""
+msgstr "Saphirmaid "
 
 #: simulation/templates/units/zora/zora_sapwarden_b.xml:43
 msgid ""
@@ -13542,14 +13596,18 @@ msgid ""
 "deadly weapon. Their attacks can dramatically slow the movement of approaching enemies,"
 " and the cold flames can persist for some time after landing on the ground."
 msgstr ""
+"Zora Magierinnen die sich schon lange dem Studium der Magie widmen. Eine Saphirmaid kann "
+"Wasser und Eis so modifizeren das sie Blaues Feuer erzeugen, Eine kühlende Flamme die als"
+"tödliche Waffe verwendet werden kann. Ihre Angrifee können einen Gegner dramatisch verlangsamen"
+"und die kalten Flammen bleiben noch eine ZEitlang bestehen nachdem sie Einschlagen."
 
 #: simulation/templates/units/zora/zora_sapwarden_b.xml:47
 msgid "Ranged Mage unit that can burn enemies with their Blue Fire attack."
-msgstr ""
+msgstr "Distanzmagier die Gegner mit ihren bleuen Flammen angreifen"
 
 #: simulation/templates/units/zora/zora_shocktroop_b.xml:33
 msgid "Shock Trooper"
-msgstr ""
+msgstr "Schocktruppen"
 
 #: simulation/templates/units/zora/zora_shocktroop_b.xml:34
 msgid ""
@@ -13557,16 +13615,20 @@ msgid ""
 "when enemy forces begin to pose a serious threat. Armed with a falchion and durable "
 "coralmold shield, Shock Troopers can serve a variety of roles in the Dominion army."
 msgstr ""
+"Die schwersten Soldaten im Dienst des Reiches. Die Schocktruppen werden in die Schlacht"
+"geschickt wenn der Feind eine ernstzunehmende Bedrohung darstellt. Mit einem Falchion"
+"und einem stabilen Korallenguss Schild, dienen Schocktruppen verschiedenen Rollen in der"
+"Armee des Reiches"
 
 #: simulation/templates/units/zora/zora_shocktroop_b.xml:39
 msgid ""
 "Heavy Infantry unit armed with a curved sword and a large shield, and that is also "
 "resistant to Knockback."
-msgstr ""
+msgstr "Schwere Infanterie mit Schwert und Schild die resistent gegen Rückstoß ist"
 
 #: simulation/templates/units/zora/zora_sparkmage_b.xml:45
 msgid "Spark Mage"
-msgstr ""
+msgstr "Funkenmagierin"
 
 #: simulation/templates/units/zora/zora_sparkmage_b.xml:46
 msgid ""
@@ -13575,14 +13637,18 @@ msgid ""
 "and sometimes instantly incinerate a target. Spark Mages need protection however; they "
 "are very vulnerable to damage and can do little to defend themselves in a melee."
 msgstr ""
+"Mit einem elektrischen Kristall in der Hand, können die mächtigen Funkenmagierinnen"
+"einen weißglühenden Blitz auf ihre Gegner schleudern. Ein einziger Blitz kann Gegner"
+"betäuben und manchmal soforteinäschern. Funkenmagierinnen brauchen allerdings Schutz"
+"da sie sehr verletzlich und können sich kaum im Nahkampf verteidigen."
 
 #: simulation/templates/units/zora/zora_sparkmage_b.xml:50
 msgid "Ranged Mage unit that hurls electic bolts at enemies from afar."
-msgstr ""
+msgstr "Distanzmagier die elektrische Bolzen auf Gegner schleudern"
 
 #: simulation/templates/units/zora/zora_stormbolter_b.xml:37
 msgid "Stormbolter"
-msgstr ""
+msgstr "Strummaid"
 
 #: simulation/templates/units/zora/zora_stormbolter_b.xml:38
 msgid ""
@@ -13591,16 +13657,20 @@ msgid ""
 "enemy units hit. They are decent for crowd control, with compliments of melee soldiers "
 "moving in behind them to attack stupefied enemies."
 msgstr ""
+"Auch wenn sie keine wahren Magierinnen sind, so tragen die Sturmmaiden einen Stab die mit"
+"mächtiger magische Magie aufgeladen wurden. Diese Stäbe können als Kolben im Nahkampf genutzt "
+"werden wo sie Gegner betäuben und elektrifizieren. Sie können in Tandem mit anderer Infanterie,"
+"die betäubten Feinden nachsetzt, gut Gruppen an Gegnern bewältigen."
 
 #: simulation/templates/units/zora/zora_stormbolter_b.xml:42
 msgid ""
 "Zora Melee unit that attacks with an electric shock, briefly stunning units. Partially "
 "cover the role of an early game swordman unit, which the Dominion lacks"
-msgstr ""
+msgstr "Zora Infanterie die mit elektrischen Schocks angreift und Gegner kurz betäubt."
 
 #: simulation/templates/units/zora/zora_titan_jabujabu.xml:41
 msgid "Founder of the Dominion"
-msgstr ""
+msgstr "Gründer von Zoras Reich"
 
 #: simulation/templates/units/zora/zora_titan_jabujabu.xml:42
 msgid ""
@@ -13612,18 +13682,24 @@ msgid ""
 "Many spending time near Lord Jabu Jabu have had wounds and sicknesses cured in short "
 "order."
 msgstr ""
+"Lord Jabu-Jabu ist ein Weise des Wassers von Hyrule und der Gründer von Zoras Reich und ist"
+"bekannt für seine Eitelkeit und und aufgeblasenes Ego. Er weigert sich mit irgendwem anderes "
+"zu reden als seinen Diener und Anbetern. Er hat einen unersättlichen Appetit und gilt der "
+"Völlerei und Faulheit verfallen. Als ein antiker Oshunit nennt er eine gewaltige magische Macht "
+"sein eigen, insbesondere die der Heilung von des Körpers. Viele die Zeit nahe von Lord Jabu-Jabu"
+"verbracht haben, wussten sich schon nach kurzer Zeit von jeglichen Wunden und Krankheiten geheilt"
 
 #: simulation/templates/units/zora/zora_titan_jabujabu.xml:45
 msgid "Lord Jabu Jabu"
-msgstr ""
+msgstr "Lord Jabu-Jabu"
 
 #: simulation/templates/units/zora/zora_titan_jabujabu.xml:46
 msgid "Zora Titan unit. Giant Support unit that can heal many injured Zora."
-msgstr ""
+msgstr "Zora Titan. Riesige Unterstützungseinheit die viele Zora heilen kann"
 
 #: simulation/templates/units/zora_trader_b.xml:18
 msgid "Vendor"
-msgstr ""
+msgstr "Verkäufer"
 
 #: simulation/templates/units/zora_trader_b.xml:19
 msgid ""
