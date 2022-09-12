@@ -2667,8 +2667,8 @@ msgid ""
 " durable in Hyrule. While the Stagnox has wings, his huge size makes his ability to fly"
 " very limited."
 msgstr ""
-"Dieser massige Nashornkäfer Gigant lauert schon lang in den östlichen Wäldern Hyrules."
-"In manchen Fällen schafften es die Deku Kerle dieses große Monster dazu zu zwingen für"
+"Dieser massige Nashornkäfer Gigant haust schon lange in den östlichen Wäldern Hyrules."
+"In manchen Fällen schafften es die Deku Kerle dieses große Monster dazu zu bringen für"
 "sich kämpfen zu lassen. Der Gigakules ist zwar langsam aber seine Panzerung ist eine"
 "der beindruckendsten und stärksten im bekannten Hyrule. Zwar hat diser Käfer Flügel "
 "allerdings ist er so schwer das seine Flugfähigkeiten begrenzt sind."
@@ -2695,7 +2695,7 @@ msgstr ""
 
 #: simulation/templates/units/dummy_unit.xml:33 simulation/templates/units/dummy_unit.xml:38
 msgid "If you can train this, it's a bug. Please report it."
-msgstr "Falls do das ausführen kannst, melde es bitte, es ist ein Fehler."
+msgstr "Falls man diese Einheit ausbilden kann melde es bitte, es ist ein Fehler."
 
 #: simulation/templates/units/fairy/fairy_banshee_autumn.xml:4
 #: simulation/templates/units/fairy/fairy_banshee_b.xml:4
@@ -2750,7 +2750,7 @@ msgstr ""
 #: simulation/templates/units/fairy/fairy_drove_all.xml:32
 #: simulation/templates/units/fairy/fairy_drove_b.xml:32
 msgid "Fairy Drove"
-msgstr ""
+msgstr "Feen Schwarm"
 
 #: simulation/templates/units/fairy/fairy_drove_all.xml:33
 #: simulation/templates/units/fairy/fairy_drove_b.xml:33
@@ -2759,11 +2759,14 @@ msgid ""
 "uncountable swarms of glittering Fairies. These massive droves could overwhelm just "
 "about any unprepared force through pure numbers."
 msgstr ""
+"Jeder der sich ungefragt auf Feen Territrium wagte wurde oft mit einer Unzahl an leuchtenden "
+"Feenschwärmen begrüßt. Diese unüberschaubaren Schwärmen konnten jeden unvorbereiteren Feind "
+"durch ihre bloße Zahlen überwältigen"
 
 #: simulation/templates/units/fairy/fairy_drove_all.xml:37
 #: simulation/templates/units/fairy/fairy_drove_b.xml:37
 msgid "A swarm of tiny Melee attackers that bite and prick their enemies to death."
-msgstr ""
+msgstr "Ein Schwarm aus kleinen Nahkämpfern die ihre zu Tode knabbern und stechen."
 
 #: simulation/templates/units/fairy/fairy_fey_b.xml:21
 #: simulation/templates/units/moblin/moblin_demonblight_b.xml:59
@@ -2861,7 +2864,7 @@ msgstr "Bumerang"
 
 #: simulation/templates/units/fairy/fairy_galeboomer_b.xml:33
 msgid "Gale Boomerang"
-msgstr ""
+msgstr "Sturmbumerang"
 
 #: simulation/templates/units/fairy/fairy_galeboomer_b.xml:35
 msgid ""
@@ -2870,14 +2873,18 @@ msgid ""
 " not in the hands of her chosen warriors, they would fly about and attack her enemies "
 "on their own."
 msgstr ""
+"Ein Sturmbumerang war von außen berachtet nur ein einfacher Bumerang der sich dennoch "
+"wie von Zauberhand selbst bewegte. Es wird gemunkelt das sie Geschenke von Sekaia an "
+"tapfere Helden sind die sich ihre Gunst erworben haben. Wenn sie nicht in der Hand von"
+"Ihren Helden waren flogen diese Bumerange von alleine zum Angriff auf ihre Gegner."
 
 #: simulation/templates/units/fairy/fairy_galeboomer_b.xml:40
 msgid "Sekaia's Unique Unit. Fast moving Melee unit that can travel over any terrain."
-msgstr ""
+msgstr "Sekaias einzigartige Einheit. Schnelee Nahkampf Einheit die über jegliches fliegt"
 
 #: simulation/templates/units/fairy/fairy_godmother_b.xml:57
 msgid "Godmother"
-msgstr ""
+msgstr "Patentante"
 
 #: simulation/templates/units/fairy/fairy_godmother_b.xml:58
 msgid ""
@@ -2885,14 +2892,17 @@ msgid ""
 "their reach. When one is on their good side, a Fairy Godmother may grant your deepest "
 "wishes. Make an enemy of the Fairy Godmothers and prepare for fates worse than death."
 msgstr ""
+"Wesen, mächtiger noch als die großen Feen, die alle in ihrer Umgebung befehligen und"
+"beeinflussen. Wer das Wohlwollen einer Feen Patentante genießt dem werden die tiefsten"
+"Wünsche erfüllt. Wer ihren Zorn erweckt dem erwartet ein Schicksal schlimmer als der Tod"
 
 #: simulation/templates/units/fairy/fairy_godmother_b.xml:62
 msgid "Large enigmatic Fairy unit that can tear her enemies apart."
-msgstr ""
+msgstr "Große rätselhafte Feeneinheit die Gegner in Stücke reißt."
 
 #: simulation/templates/units/fairy/fairy_great_b.xml:38
 msgid "Great Fairy"
-msgstr ""
+msgstr "Große Fee"
 
 #: simulation/templates/units/fairy/fairy_great_b.xml:39
 msgid ""
@@ -2903,6 +2913,10 @@ msgid ""
 "Fairies rather egocentric, arrogant, and in worse cases; power hungry. The risk of "
 "tyrannical Great Fairies trying to take over their kind was not unheard of. "
 msgstr ""
+"Große Feen gehörten zu den mächtigsten der sagenhaften Feen. Mit einem scharfen Intellekt"
+"und einem Arsenal an ungeheuerlichen Magie gesegnet, konnte eine einzelne Große Fee die"
+"Welt um sich herum mit purer Willenskraft formen."
+""
 
 #: simulation/templates/units/fairy/fairy_great_b.xml:43
 msgid ""
