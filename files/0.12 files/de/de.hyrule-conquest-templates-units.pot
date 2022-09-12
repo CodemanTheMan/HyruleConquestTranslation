@@ -2826,7 +2826,7 @@ msgstr ""
 #: simulation/templates/units/fairy/fairy_mistwalker_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fairy Magic"
-msgstr ""
+msgstr "Feen Magie"
 
 #: simulation/templates/units/fairy/fairy_fey_strider.xml:27
 msgid "Fey Strider"
@@ -2915,18 +2915,20 @@ msgid ""
 msgstr ""
 "Große Feen gehörten zu den mächtigsten der sagenhaften Feen. Mit einem scharfen Intellekt"
 "und einem Arsenal an ungeheuerlichen Magie gesegnet, konnte eine einzelne Große Fee die"
-"Welt um sich herum mit purer Willenskraft formen."
-""
+"Welt um sich herum mit purer Willenskraft formen. Viele Sagen erzählen das denjenigen die"
+"die Gunst einer großen Feen erlangten ein Wunsch gewährt wurde. So eine Macht erweckte in den "
+"Großen Feen Egoismus, Arroganz und im schlimsten Fall sogar Machtgier. Die Geschichten von "
+"tyrannischen Großen Feen die versuchen ihr Volk zu unterjochen waren nicht unerhört."
 
 #: simulation/templates/units/fairy/fairy_great_b.xml:43
 msgid ""
 "Very powerful ranged Mage unit who's method of attack changes its nature with each "
 "season."
-msgstr ""
+msgstr "Sehr mächtige Magie einheit deren Angriff sich mit der Jahreszeit ändert"
 
 #: simulation/templates/units/fairy/fairy_hero_ciela.xml:50
 msgid "Fairy of Islands"
-msgstr ""
+msgstr "Fee der Inseln"
 
 #: simulation/templates/units/fairy/fairy_hero_ciela.xml:52
 msgid ""
@@ -2937,7 +2939,7 @@ msgstr ""
 
 #: simulation/templates/units/fairy/fairy_hero_ciela.xml:56
 msgid "Ciela"
-msgstr ""
+msgstr "Ciela"
 
 #: simulation/templates/units/fairy/fairy_hero_ciela.xml:57
 msgid "Melee Hero who attacks with swarms of smaller Fairies."
@@ -3203,9 +3205,9 @@ msgid ""
 "arrival usually signals the coming of a great and deadly battle. Arbiters can "
 "dramatically improve the performance of all cavalry under their command."
 msgstr ""
-"Die Vollstrecker sind die rechte Hand des Gerudo Königs Ganondorf die als seine Richter"
-"und Henker in der Gerudo Wüste seine Angelegenheiten klären. Alle Gerudo fürchten sie"
-"und ihre Ankunft ist das Omen einer kommenden blutigen Schlacht. Die Gebieter können"
+"Die Vollstrecker sind die rechte Hand des Gerudo Königs Ganondorf die als Richter und"
+"Henker in der Gerudo Wüste seine Angelegenheiten klären. Alle Gerudo fürchten sie"
+"und dienen als Vorboten einer kommenden blutigen Schlacht. Die Gebieter können"
 "die Leistung der Kavallerie unter ihrem Kommando stark verbessern."
 
 #: simulation/templates/units/gerudo/gerudo_arbiter_b.xml:39
@@ -3237,7 +3239,7 @@ msgstr ""
 
 #: simulation/templates/units/gerudo/gerudo_ashcap_b.xml:41
 msgid "Ashinon Captain"
-msgstr "Ashion Hauptfrau"
+msgstr "Ashinon Offizier"
 
 #: simulation/templates/units/gerudo/gerudo_ashcap_b.xml:42
 msgid ""
@@ -3246,10 +3248,10 @@ msgid ""
 "to the throats of even the most heavily-armored enemies. They are perhaps most notable "
 "for their ability to command other women in battle."
 msgstr ""
-"Die Ashion Hauptfrauen waren ein paar der am besten ausgebildesten Soldatinnen in der "
-"Geschichte des Gerudo Reichs. Sie waren ausgesprochen akrobatisch un athletisch und konnten"
-"sich zu den Kehlen der am besten gepanzerten Gegner durchfechten und parieren."
-"Ihre wichtigste Fähigkeit war hingegen die anderen Frauen anzuspornen."
+"Die Ashion Offiziere waren ein paar der am besten ausgebildesten Soldatinnen in der "
+"Geschichte des Gerudo Reichs. Sie waren ausgesprochen akrobatisch und athletisch und konnten"
+"sich zu den Kehlen der am besten gepanzerten Gegner durchparieren und -fechten."
+"Ihre Hauptaufgabe bestand aber darin die anderen Frauen anzuspornen."
 
 #: simulation/templates/units/gerudo/gerudo_ashcap_b.xml:46
 msgid "Melee Commander unit that bolsters other Gerudo troops in battle."
@@ -3274,7 +3276,7 @@ msgid ""
 "easy to construct and maintain. The boulders launched by these engines can take down "
 "just about any stationary target, be it walls, gates, or enemy towers."
 msgstr 
-"Die Gerudo nutzen Katapulte als verlässliche Belagerungswaffe schon seit Jahrhunderten um"
+"Die Gerudo nutzen schon seit Jahrhunderten Katapulte als verlässliche Belagerungswaffe  um"
 "feindliche Städte zu attackieren. Sie waren einfach zu bauen und in Stand zu halten, da"
 "sie aus dem Holz von Palmen bestanden. Die katapultierten Felsbrocken zertrümmerten so"
 "gut wie jedes stationäres Ziel, sei Mauer, Tor oder Turm."
@@ -3285,7 +3287,7 @@ msgstr "Billige aber effektive Belagerungswaffe mit einem Distanzangriff"
 
 #: simulation/templates/units/gerudo/gerudo_despoiler_b.xml:43
 msgid "Despoiler"
-msgstr "Plünderin"
+msgstr "Wegelagerer"
 
 #: simulation/templates/units/gerudo/gerudo_despoiler_b.xml:44
 msgid ""
@@ -3295,8 +3297,10 @@ msgid ""
 " across the desert. During times of war, they answer to Emperor Ganondorf and serve him"
 " without question."
 msgstr ""
-"Auf den Rücken der seltenen Gerudokamele überleben die Plünderinnen, eine loser Zusammenschluss,"
-"von Kriegerinnen, indem sie Dörfer am Rande des Reiches überfallen und brandschatzen."
+"Auf den Rücken der seltenen Gerudokamele überleben die Wegelagerer, eine loser Zusammenschluss,"
+"von Kriegerinnen, indem sie Dörfer am Rande des Reiches überfallen und brandschatzen. Mit einem"
+"Mondsäbel und starken Schild bewaffnet verbreiten sie Angst und Schrecken unter den Wüstenvölkern."
+"Zu Kriegszeiten folgen sie dem Ruf von König Ganondorf dienen ihm ohne Wiederrede."
 
 #: simulation/templates/units/gerudo/gerudo_despoiler_b.xml:49
 msgid "Cavalry Melee unit that excels at fighting other Cavalry and burning enemy buildings."
@@ -3344,11 +3348,11 @@ msgid ""
 "themselves and their riders to their destinations, even if they have to cross bodies of"
 " water. Mounted by an archer, they are excellent rear-line cavalry."
 msgstr ""
-"Die in der Gerudowüste heimischen Sandrobben sind schwer zu zähmen aber die Gerudo sind die"
-"Herrinnen dieser Bestien geworden. Langsam aber sicher schaffen es die Sandrobben sich selbst"
-"und ihre Reiter ans Ziel zu bringen sei es gegen  die tödlichen Sandstürme der Wüste oder"
-"tiefe Gewässer. Beritten von einer Bogenschützin bieten sie eine exellente Kavallerie"
-"in den hinteren Reihen."
+"Die in der Gerudowüste heimischen Sandrobben sind schwer zu bändigen aber die Gerudo "
+"schafften es dennoch sie zu zähmen. Langsam aber sicher schaffen es die Sandrobben sich "
+"selbst und ihre Reiter ans Ziel zu bringen sei es gegen  die tödlichen Sandstürme der "
+"Wüste oder tiefe Gewässer. Beritten von einer Bogenschützin bieten sie eine exellente "
+"Kavallerie in den hinteren Reihen."
 
 #: simulation/templates/units/gerudo/gerudo_dunewalker_b.xml:50
 msgid ""
@@ -3366,9 +3370,9 @@ msgid ""
 "bunkering down, these Sandseal riders create a thick cloud of dust around themselves, "
 "which renders them invisible even while attacking, so long as they are stationary."
 msgstr """
-Die zurückgezogenen Wüstenstaub Hüterinnen sind die stoischen Wächterinnen der Wüstengrenzen."
+"Die zurückgezogenen Wüstenstaub Hüterinnen sind die stoischen Wachen der Wüstengrenzen."
 "Sie sind fähig sich einzubunkern und dabei eine dicke Staubwolke um sich zu formen welche "
-"sie unsichtbar macht solange sie sich nicht bewegen beim angreifen."
+"sie unsichtbar macht solange sie stillstehen."
 
 #: simulation/templates/units/gerudo/gerudo_dustsentinel_b.xml:52
 msgid ""
@@ -3376,7 +3380,7 @@ msgid ""
 "cloak nearbye units in a Sandstorm"
 msgstr ""
 "Einzigartige Einheit von Prinzessin Riju. Bogenschützin der Kavallerie die um sich "
-"einen Sandsturm erzeugen kann um sich und Verbündete zu tarnen."
+"herum einen Sandsturm erzeugen kann um sich und Verbündete zu tarnen."
 
 #: simulation/templates/units/gerudo/gerudo_gerudadorf_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
@@ -3394,10 +3398,10 @@ msgid ""
 "environment and the chaos of battle to slip through enemy ranks and kill high-priority "
 "targets."
 msgstr ""
-"Mit zwei Stoßdolchen bewaffnet, dienen die Gerudadorf als Schlachtfeldattentäter und "
-"Meisterinnen des Hinterhalts bekannt. Gut trainiert in der Kunst sich Blicken zu entziehen,"
-"schlüpften die Gerudadorf mithilfe ihrer Umgebung und im Schlachtgetümmel durch die "
-"feindlichen Reihen um hochranginge Ziele auszuschalten."
+"Mit zwei Stoßdolchen bewaffnet, dienen die Gerudadorf als Schlachtfeldattentäter und sind"
+"Meisterinnen des Hinterhalts berüchtigt.Sie sind Meisterinnen darin sich Blicken zu entziehen,"
+"wodurch die Gerudadorf mithilfe ihrer Umgebung und im Schlachtgetümmel durch die feindlichen"
+"Reihen schlüpfen um hochranginge Ziele auszuschalten."
 
 #: simulation/templates/units/gerudo/gerudo_gerudadorf_b.xml:49
 msgid "Fast Melee unit with Camouflage, has a chance to deal Critical Hits to enemies."
@@ -3420,10 +3424,10 @@ msgid ""
 "Gerudo's signature glaive, these women can halt charging enemies and keep cavalry at "
 "bay."
 msgstr ""
-"Dutzende von Glefen Lanzerinnen patrollierten die Militärbasen in der Gerudowüste, bewachen"
-"die Grenzen des Reiches und halten wachsam Ausschau für feindliche Überfälle. Bewaffnet"
-"mit der für die Gerudo typischen Glefe, bieten die Glefen Lanzerinnen feindlichen"
-"Angriffen und Kavallerie die Stirn."
+"Dutzende von Glefen Lanzerinnen patrollierten die Militärbasen in der Gerudowüste, "
+"bewachendie Grenzen des Reiches und halten wachsam Ausschau für feindliche Überfälle. "
+"Bewaffnet mit der für die Gerudo typischen Glefe, bieten die Glefen Lanzerinnen "
+"feindlichen Angriffen und Kavallerie die Stirn."
 
 #: simulation/templates/units/gerudo/gerudo_glaivegrunt_b.xml:45
 msgid "Light Melee unit armed with a spear."
@@ -3446,8 +3450,8 @@ msgid ""
 "a melee, and their strength and weapon of choice allows them to crack open enemy armor "
 "with ease."
 msgstr ""
-"Mit ihrer großen Kraft und Geschwindigkeit überwältigen die Goldenen Gladiatrices mickrigere"
-"Gegner und mit dem mächtigen Gerudo Zweihänder knacken sie jede Rüstung.  "
+"Mit ihrer großen Kraft und Geschwindigkeit überwältigen die Goldenen Gladiatrices mickrigere Gegner,"
+"weichen Angriffen im Schlachtgetümmel aus und knacken mit dem mächtigen Gerudo Zweihänder jede Rüstung."
 
 #: simulation/templates/units/gerudo/gerudo_goldenglad_b.xml:39
 msgid "Urbosa's Unique Unit. Strong Melee unit that has a very high Dodge rate."
@@ -3471,8 +3475,8 @@ msgid ""
 "navy."
 msgstr ""
 "Die Herrin der Gerudo Piraten wurde durch Ganondorf wieder unter das Banner der Gerudo gebracht."
-"Aveil hat schon lange ohne Aufsicht gelebt und hat schon viele Seefahrer über die Jahre hinweg"
-"ausgeraubt. Ihr Einfluss und ressourcen dienen jetzt der Gerudo Flotte. "
+"Aveil hat schon lange ohne höhere Gewalt gelebt und hat  über die Jahre hinweg schon viele "
+"Seefahrer ausgeraubt. Ihr Einfluss und Ressourcen dienen jetzt der Gerudo Flotte. "
 
 #: simulation/templates/units/gerudo/gerudo_hero_aveil.xml:46
 msgid "Aveil"
@@ -3491,7 +3495,7 @@ msgid ""
 "The latest in a line of Gerudo who have guarded the throne. Buliara served as a "
 "personal bodyguard for Ganondorf and later his daughter Riju."
 msgstr ""
-"Bylla enstammt einer langen Linie von Gerudo die schon den Thron bewachen. Sie diente"
+"Bylla enstammt einer langen Linie von Gerudo die den Thron bewachen. Sie diente"
 "schon als persönliche Leibwächterin für Ganondorf und später seiner Tochter Riju."
 
 #: simulation/templates/units/gerudo/gerudo_hero_buliara.xml:44
@@ -3522,7 +3526,7 @@ msgstr "Ganondorf"
 
 #: simulation/templates/units/gerudo/gerudo_hero_ganondorf.xml:44
 msgid "Powerful Cavalry Hero that tramples enemies and attacks with his scimitar."
-msgstr "Mächtiger Held der Kavallerie der Feinde niedertrampelt und säbelt."
+msgstr "Mächtiger Held der Kavallerie der Feinde niedertrampelt und zersäbelt."
 
 #: simulation/templates/units/gerudo/gerudo_hero_nabooru.xml:44
 msgid "Sage of Spirits"
@@ -3563,7 +3567,7 @@ msgid ""
 msgstr ""
 "Die Tochter von Ganondorf und Naboru und die rechtmäßige Erbin des Gerudo Throns. Riju "
 "hat eine vorliebe for Sandrobben und versucht das gefallene Gerudo Reich wiederherzustellen"
-"abseits der Eroberung."
+"durch Mittel abseits der militärischen Eroberung."
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:50
 msgid "Makeela Riju"
@@ -3605,17 +3609,17 @@ msgid ""
 "approval of her father, and religiously serves in his army and supports his campaign to"
 " conquer all of Hyrule."
 msgstr ""
-"Als eine von Ganondorfs zahllosen Töchtern und ausgetragen von einer einfachen Mutter,"
-"sucht Urbosa die anerkennung ihres Vater und dient ihm religiös in der Armee und "
+"Als eine von Ganondorfs zahllosen Töchtern und die von einer einfachen Mutter ausgetragen"
+"wurde, sucht Urbosa die Anerkennung ihres Vater und dient ihm fromm in seiner Armee und"
 "unterstützt sein Vorhaben ganz Hyrule zu unterwerfen."
 
 #: simulation/templates/units/gerudo/gerudo_hero_urbosa.xml:40
 msgid "Urbosa"
-msgstr "urbosa"
+msgstr "Urbosa"
 
 #: simulation/templates/units/gerudo/gerudo_hero_urbosa.xml:41
 msgid "Durable and hearty Infantry Melee Hero armed with a sword and shield."
-msgstr "Wiederstandsfähige und kräftige Heldin der infanterie mit Schwert und Schild ausgerüstet."
+msgstr "Wiederstandsfähige und kräftige Heldin der Infanterie mit Schwert und Schild ausgerüstet."
 
 #: simulation/templates/units/gerudo/gerudo_icearcher_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
@@ -3633,7 +3637,7 @@ msgid ""
 " Arrows in hand. These ancient magical weapons can fire a deadly arrow coated in frost."
 " On contact. they explode and instantly freeze anything near their impact."
 msgstr ""
-"Nach Jahren von mühseligen Training wurde den Gerudo Frauen die Möglichkeit gegeben in"
+"Nach Jahren von mühseligen Training wurde Gerudo Frauen die Möglichkeit gegeben in"
 "die berüchtigten Gerudo Arenen einzutreten. Wer überlebt geht als Sieger mit Eispfeilen"
 "in den Händen hervor. Diese antiken magischen Waffen werfen einen mit Eis umhüllten "
 "Pfeil ab der beim Aufprall eine Explosion verursacht die alles in der Umgebung einfriert."
@@ -3656,7 +3660,7 @@ msgid ""
 msgstr ""
 "Mit den Geistern toter Gerudo Könige beseelte Rüstungen, die wieder in der Welt der Lebenden"
 "wandeln um Krieg gegen die Feinde des Reiches zu führen. Diese massiven und unverwüstlichen "
-"Rüstungen führen riesige Gerudo Kriegsäxte mit sich in die Schlacht. Da sie schon einmal "
+"Rüstungen führen riesige Gerudo Kriegsäxte mit sich in die Schlacht. Da sie schon einmal"
 "gestorben sind fürchten sie nichts und niemanden und bieten selbst den furchterregendsten"
 "Gegnern die Stirn."
 
@@ -3702,8 +3706,8 @@ msgid ""
 "pickpocket, steal, murder, and engage in all-out melee."
 msgstr ""
 "In der harschen Wüste ist der Diebstahl oft eine der besten Möglichkeiten um zu Überleben und"
-"die Gerudo sind die unangefochtenen Champions. Meisterdiebinnen can sich in so ziemlich jeden"
-"Ort reinschleichen um zu stehlen, rauben, morden oder gleich ein ganzes Gefecht vom Zeun zu brechen. "
+"die Gerudo sind die unangefochtenen Champions. Diebinnen können sich in so ziemlich jeden"
+"Ort reinschleichen um zu stehlen, rauben, morden oder gleich ein ganzes Gefecht vom Zaun zu brechen."
 
 #: simulation/templates/units/gerudo/gerudo_masterthief_b.xml:46
 msgid "Swift Melee unit that is Stealthed."
@@ -3722,7 +3726,7 @@ msgid ""
 "individuals in Hyrule who can best them from a distance. "
 msgstr ""
 "Die Gerudo Sand Scharfschützinnen repäsentieren ein paar der besten Bogenschützen in der"
-"gesamten Wüste. Schon von klein auf im umgang mit denm Bogen trainiert waren die"
+"gesamten Wüste. Schon von klein auf im Umgang mit dem Bogen trainiert waren die"
 "Scharfschützinnen berüchtigt für ihre Fähigkeit Gegner aus einer extremen Entfernung zu"
 "treffen. Es gibt nur wenige Individuen in Hyrule die sie im Distanzkampf herauszufordern."
 "können."
@@ -3735,7 +3739,7 @@ msgstr "Getarnte Bogenschützinnen mit einer hohen Reichweite"
 #: simulation/templates/units/gerudo/gerudo_sandsniper_garrison.xml:42
 #: simulation/templates/units/hylian/hylian_soldier_archer_garrison.xml:42
 msgid "Garrison Archer"
-msgstr "Garnison Schützeninnen"
+msgstr "Garnison Schützin"
 
 #: simulation/templates/units/gerudo/gerudo_sealplower_b.xml:39
 msgid "Sandseal Plower"
