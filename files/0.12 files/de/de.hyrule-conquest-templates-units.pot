@@ -3370,7 +3370,7 @@ msgid ""
 "bunkering down, these Sandseal riders create a thick cloud of dust around themselves, "
 "which renders them invisible even while attacking, so long as they are stationary."
 msgstr """
-"Die zurückgezogenen Wüstenstaub Hüterinnen sind die stoischen Wachen der Wüstengrenzen."
+"Die zurückgezogenen Wüstenstaub Hüter sind die stoischen Wachen der Wüstengrenzen."
 "Sie sind fähig sich einzubunkern und dabei eine dicke Staubwolke um sich zu formen welche "
 "sie unsichtbar macht solange sie stillstehen."
 
@@ -3398,10 +3398,10 @@ msgid ""
 "environment and the chaos of battle to slip through enemy ranks and kill high-priority "
 "targets."
 msgstr ""
-"Mit zwei Stoßdolchen bewaffnet, dienen die Gerudadorf als Schlachtfeldattentäter und sind"
-"Meisterinnen des Hinterhalts berüchtigt.Sie sind Meisterinnen darin sich Blicken zu entziehen,"
-"wodurch die Gerudadorf mithilfe ihrer Umgebung und im Schlachtgetümmel durch die feindlichen"
-"Reihen schlüpfen um hochranginge Ziele auszuschalten."
+"Mit zwei Stoßdolchen bewaffnet, dienen die Gerudadorf als Schlachtfeldattentäter und sind "
+"berüchtigt für ihre meisterhafte Hinterhalte. Ihre gut trainierten Tarnkünste geben sich"
+"zum besten wenn sie mithilfe der Umwelt und dem Chaos des Schlachtgetümmels durch"
+"feindliche Reihen schlüpfen um hochranginge Ziele auszuschalten."
 
 #: simulation/templates/units/gerudo/gerudo_gerudadorf_b.xml:49
 msgid "Fast Melee unit with Camouflage, has a chance to deal Critical Hits to enemies."
@@ -3424,14 +3424,14 @@ msgid ""
 "Gerudo's signature glaive, these women can halt charging enemies and keep cavalry at "
 "bay."
 msgstr ""
-"Dutzende von Glefen Lanzerinnen patrollierten die Militärbasen in der Gerudowüste, "
-"bewachendie Grenzen des Reiches und halten wachsam Ausschau für feindliche Überfälle. "
-"Bewaffnet mit der für die Gerudo typischen Glefe, bieten die Glefen Lanzerinnen "
-"feindlichen Angriffen und Kavallerie die Stirn."
+"Dutzende von Glefen Lanzern patrollieren die Militärbasen in der Gerudowüste, "
+"bewachen die Grenzen des Reiches und halten wachsam Ausschau für feindliche Überfälle. "
+"Bewaffnet mit der für die Gerudo typischen Glefe, bieten sie feindlichen Angriffen"
+"und Kavallerie die Stirn."
 
 #: simulation/templates/units/gerudo/gerudo_glaivegrunt_b.xml:45
 msgid "Light Melee unit armed with a spear."
-msgstr "Leichte Lanzenkämpferinnen"
+msgstr "Leichte Infanterie mit Lanze bewaffnet"
 
 #: simulation/templates/units/gerudo/gerudo_goldenglad_b.xml:4
 #: simulation/templates/units/gerudo/gerudo_hero_buliara.xml:4
@@ -3450,12 +3450,13 @@ msgid ""
 "a melee, and their strength and weapon of choice allows them to crack open enemy armor "
 "with ease."
 msgstr ""
-"Mit ihrer großen Kraft und Geschwindigkeit überwältigen die Goldenen Gladiatrices mickrigere Gegner,"
-"weichen Angriffen im Schlachtgetümmel aus und knacken mit dem mächtigen Gerudo Zweihänder jede Rüstung."
+"Mit ihrer großen Kraft und Geschwindigkeit überwältigen die Goldenen Gladiatrixen "
+"mickrigere Gegner, weichen Angriffen im Schlachtgetümmel aus und knacken mit dem "
+"mächtigen Gerudo Zweihänder jede Rüstung."
 
 #: simulation/templates/units/gerudo/gerudo_goldenglad_b.xml:39
 msgid "Urbosa's Unique Unit. Strong Melee unit that has a very high Dodge rate."
-msgstr "Urbosas einzigartige Einheit. Starke Nahkämpferin die eine hohe Ausweichrate hat."
+msgstr "Urbosas einzigartige Einheit. Starke Infanterie die eine hohe Ausweichrate hat."
 
 #: simulation/templates/units/gerudo/gerudo_hero_aveil.xml:4
 #: simulation/templates/units/gerudo/gerudo_masterthief_b.xml:4
@@ -3474,9 +3475,9 @@ msgid ""
 "Great Sea over the years. Now her power and resources have been turned to the Gerudo "
 "navy."
 msgstr ""
-"Die Herrin der Gerudo Piraten wurde durch Ganondorf wieder unter das Banner der Gerudo gebracht."
-"Aveil hat schon lange ohne höhere Gewalt gelebt und hat  über die Jahre hinweg schon viele "
-"Seefahrer ausgeraubt. Ihr Einfluss und Ressourcen dienen jetzt der Gerudo Flotte. "
+"Die Herrin der Gerudo Piraten, durch Ganondorf wieder unter das Banner der Gerudo gebracht."
+"Aveil hat schon lange mit niemanden über ihr gelebt und hat über die Jahre hinweg schon"
+"viele Seefahrer ausgeraubt. Ihr Einfluss und Ressourcen dienen nun der Gerudo Flotte."
 
 #: simulation/templates/units/gerudo/gerudo_hero_aveil.xml:46
 msgid "Aveil"
@@ -3504,7 +3505,7 @@ msgstr "Bylla"
 
 #: simulation/templates/units/gerudo/gerudo_hero_buliara.xml:45
 msgid "Strong Infantry Melee Hero that can cleave enemies with her huge sword."
-msgstr "Starke Infanterie Heldin die Feinde mit ihrem großen Schwert zerteilt."
+msgstr "Starke Infanterie Heldin die Feinde mit ihrem riesigen Schwert zerteilt."
 
 #: simulation/templates/units/gerudo/gerudo_hero_ganondorf.xml:37
 msgid "Emperor of the Gerudo"
@@ -3538,7 +3539,7 @@ msgid ""
 "Nabooru faces a struggle between loyalty to her husband, and her duty of Sagehood and "
 "to the greater safety of Hyrule."
 msgstr ""
-"Die rechtliche Frau von Ganondorf und Königin der Gerudo, als auch Weise der Geister."
+"Die rechtliche Frau von Ganondorf und Königin der Gerudo, sowie auch Weise der Geister."
 "Naboru steht im Zwiespalt mit ihrer Loyalität zu ihrem Mann und ihren Pflichten als"
 "Weise und der allgemeinen Sicherheit von ganz Hyrule."
 
@@ -3565,9 +3566,9 @@ msgid ""
 " a fondness for Sandseals, and seeks to rebuild the fallen Gerudo Empire through means "
 "other than conquest."
 msgstr ""
-"Die Tochter von Ganondorf und Naboru und die rechtmäßige Erbin des Gerudo Throns. Riju "
-"hat eine vorliebe for Sandrobben und versucht das gefallene Gerudo Reich wiederherzustellen"
-"durch Mittel abseits der militärischen Eroberung."
+"Die Tochter von Ganondorf und Naboru und die rechtmäßige Erbin des Gerudo Throns."
+"Riju hat eine vorliebe for Sandrobben und versucht das gefallene Gerudo Reich"
+"wiederherzustellen durch Mittel abseits der militärischen Eroberung."
 
 #: simulation/templates/units/gerudo/gerudo_hero_riju.xml:50
 msgid "Makeela Riju"
@@ -3601,7 +3602,7 @@ msgstr "Distanz"
 
 #: simulation/templates/units/gerudo/gerudo_hero_urbosa.xml:34
 msgid "Ashinon General"
-msgstr "Ashinon Generalin"
+msgstr "Generalin von Ashinon"
 
 #: simulation/templates/units/gerudo/gerudo_hero_urbosa.xml:36
 msgid ""
@@ -3609,7 +3610,7 @@ msgid ""
 "approval of her father, and religiously serves in his army and supports his campaign to"
 " conquer all of Hyrule."
 msgstr ""
-"Als eine von Ganondorfs zahllosen Töchtern und die von einer einfachen Mutter ausgetragen"
+"Als eine von Ganondorfs zahllosen Töchtern, die von einer einfachen Mutter ausgetragen"
 "wurde, sucht Urbosa die Anerkennung ihres Vater und dient ihm fromm in seiner Armee und"
 "unterstützt sein Vorhaben ganz Hyrule zu unterwerfen."
 
@@ -3628,7 +3629,7 @@ msgstr "Eispfeile"
 
 #: simulation/templates/units/gerudo/gerudo_icearcher_b.xml:60
 msgid "Ice Archer"
-msgstr "Eisschützinnen"
+msgstr "Eisschützin"
 
 #: simulation/templates/units/gerudo/gerudo_icearcher_b.xml:61
 msgid ""
@@ -3686,8 +3687,8 @@ msgid ""
 "sands of their homeland with ease, and swiftly raid enemy settlements with their "
 "scimitar."
 msgstr ""
-"Gerudo Marodeurinnen bestehen aus den jüngsten Kriegerinnen des Reiches die gerade frisch"
-"aus dem Training kommen. Ausgerüstet mit wenig panzerung um die sie sich kümmern müssten"
+"Gerudo Marodeure bestehen aus den jüngsten Kriegerinnen des Reiches die gerade frisch"
+"aus dem Training kommen. Ausgerüstet mit wenig Panzerung um die sie sich kümmern müssten"
 "können die Marodeurinnen mühelos über den Wüstensand sprinten und feindliche Siedlungen"
 "mit ihren Säbeln rasch überfallen."
 
@@ -3706,8 +3707,8 @@ msgid ""
 "pickpocket, steal, murder, and engage in all-out melee."
 msgstr ""
 "In der harschen Wüste ist der Diebstahl oft eine der besten Möglichkeiten um zu Überleben und"
-"die Gerudo sind die unangefochtenen Champions. Diebinnen können sich in so ziemlich jeden"
-"Ort reinschleichen um zu stehlen, rauben, morden oder gleich ein ganzes Gefecht vom Zaun zu brechen."
+"die Gerudo sind die unangefochtenen Champions. Diebinnen können sich in so ziemlich jeden Ort"
+"reinschleichen um zu stehlen, rauben, morden oder gleich ein ganzes Gefecht vom Zaun zu brechen."
 
 #: simulation/templates/units/gerudo/gerudo_masterthief_b.xml:46
 msgid "Swift Melee unit that is Stealthed."
@@ -3715,7 +3716,7 @@ msgstr "Geschickte Nahkämpferinnen die getarnt sind."
 
 #: simulation/templates/units/gerudo/gerudo_sandsniper_b.xml:41
 msgid "Sand Sniper"
-msgstr "Sand Scharfschützin"
+msgstr "Sandscharfschützin"
 
 #: simulation/templates/units/gerudo/gerudo_sandsniper_b.xml:42
 #: simulation/templates/units/gerudo/gerudo_sandsniper_garrison.xml:43
@@ -3725,9 +3726,9 @@ msgid ""
 "ability to hit their targets dead-on from extremely long ranges. There are few "
 "individuals in Hyrule who can best them from a distance. "
 msgstr ""
-"Die Gerudo Sand Scharfschützinnen repäsentieren ein paar der besten Bogenschützen in der"
-"gesamten Wüste. Schon von klein auf im Umgang mit dem Bogen trainiert waren die"
-"Scharfschützinnen berüchtigt für ihre Fähigkeit Gegner aus einer extremen Entfernung zu"
+"Die Gerudo Sandscharfschützen repäsentieren ein paar der besten Bogenschützen in der"
+"gesamten Wüste. Schon von klein auf im Umgang mit dem Bogen trainiert, waren die"
+"Scharfschützien berüchtigt für ihre Fähigkeit Gegner aus einer extremen Entfernung zu"
 "treffen. Es gibt nur wenige Individuen in Hyrule die sie im Distanzkampf herauszufordern."
 "können."
 
