@@ -4232,7 +4232,7 @@ msgstr ""
 
 #: simulation/templates/units/gohma/gohma_hero_sulkaris.xml:55
 msgid "Sulkaris"
-msgstr "SKönigin Sulkaris"
+msgstr "Königin Sulkaris"
 
 #: simulation/templates/units/gohma/gohma_hero_sulkaris.xml:56
 msgid "Very large Creature Hero that can rip apart enemies with her wicked claws."
@@ -4541,13 +4541,13 @@ msgstr ""
 
 #: simulation/templates/units/goron/goron_battlebro_b.xml:40
 msgid "Battle Brother"
-msgstr "Kampfbrüder"
+msgstr "Schlachtbruder"
 
 #: simulation/templates/units/goron/goron_battlebro_b.xml:41
 msgid ""
 "Skilled in commanding Goron soldiers, Battle Brothers head Goron armies as captains to "
 "guide them into battle."
-msgstr "Fähig darin Goronen Soldaten anzuführen, dient als Kampfbruder als Kommandant von Armeen"
+msgstr "Schlachtbrüder sind fähige Goronenkommandanten, die mit den Goronenarmeen ins Feld ziehen"
 
 #: simulation/templates/units/goron/goron_battlebro_b.xml:45
 msgid "Commander unit that aids Gorons in battle."
@@ -4563,15 +4563,16 @@ msgid ""
 "frequently had to deal with packs of Dodongos and other strong monsters. Beastmasters "
 "were dedicated hunters of all manner of creatures, and were exceptionally adept at "
 "fighting any creature unit they came across."
-msgstr "Das Todesgebirge war die Heimat einer Vielzahl von Raubtieren und die Goronen "
-"mussten oft mit einer Herde Dodongos oder anderen starken Monstern klarkommen. Bestienzähmer"
-"waren berufliche Jäger von allen möglichen Kreaturen und waren gewandt darin sie zu bekämpfem."
+msgstr ""
+"Das Todesgebirge ist die Heimat einer Vielzahl von Raubtieren und die Goronen mussten"
+"sich oft gegen eine Herde Dodongos oder anderen starken Monstern wehren. Bestienzähmer"
+"sind beruflich Jäger von allen möglichen Kreaturen."
 
 #: simulation/templates/units/goron/goron_beastmaster_b.xml:48
 msgid ""
 "Multipurpose Melee unit that has a damage bonus when attacking both Creatures and "
 "Cavalry."
-msgstr "Vielseitiger Nahkämpfer die einen bonusschaden gegen Kreaturen und Kavallerie haben."
+msgstr "Vielseitige Nahkämpfer die Bonusschaden gegen Kreaturen und Kavallerie verursachen."
 
 #: simulation/templates/units/goron/goron_berserker_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
@@ -4589,9 +4590,9 @@ msgid ""
 "to lose control during fits of rage. On the battlefield this is less of a problem, and "
 "Berserkers can unleash quite a flurry of punches when worked up into a frenzy."
 msgstr ""
-"Berserker waren individuen die ihrem Leben dem der Hingabe und der Kontrolle ihres"
-"Ingrimms widmeten was von den Goronen lange verpönt wurde das sie in ihrer Wut oft"
-"die Beherrschung verlieren. Auf dem Schlachtfeld ist dies ein kleineres Problem"
+"Berserker waren Individuen die ihrem Leben dem der Hingabe und der Kontrolle ihres"
+"Zornes widmeten, was von den Goronen lange verpönt wurde da sie in ihrer Wut oft"
+"die Selbstbeherrschung verlieren. Auf dem Schlachtfeld ist dies ein kleineres Problem"
 "und die Berserker konnten einen ordentlichen Hagel von Schlägen entfesseln wenn sie"
 "sich zur Raserei trieben"
 
@@ -4622,9 +4623,9 @@ msgid ""
 "terrifying firepower to a warzone, decimating groups of enemy units in an incinerating "
 "blast of fire."
 msgstr ""
-"Die berüchtigten Donnerblumen wurden schon lange auf dem ihrem heimischen Todesberg"
-"kultiviert,geerntet und von den Goronen zu Sprengstoff verarbeitet. Bombenwerfe bringen"
-"furchterregende Feurerkraft ins Schlachtfeld und äschern Horden von Gegnern ein."
+"Die berüchtigten Donnerblumen wurden schon lange auf ihrem heimischen Todesberg"
+"kultiviert, geerntet und von den Goronen zu Sprengstoff verarbeitet. Bombenwerfer bringen"
+"furchterregende Feurerkraft aufs Schlachtfeld und äschern Horden von Gegnern ein."
 
 #: simulation/templates/units/goron/goron_bombthrower_b.xml:58
 #: simulation/templates/units/goron/goron_bombthrower_garrison.xml:58
@@ -4641,9 +4642,9 @@ msgid ""
 " of Death Mountain and fearless in the face of battle. Their long blades have a very "
 "huge attack arc, allowing them to cut through multiple foes with one swing."
 msgstr ""
-"Mit den berühmten Schwertern des Schmieds Biggoron verteidigen diese loyalen und"
+"Mit den berühmten Schwertern des Schmieds Biggoron verteidigen diese treuen und"
 "furchtlosen Waffenbrüder den Todesberg. Ihre langen Klingen treffen in einem großen Bogen"
-"mit dem sie in einem Hieb durch mehrere Gegner schneiden. "
+"mit dem sie in einem Hieb durch mehrere Gegner schneiden können. "
 
 #: simulation/templates/units/goron/goron_brotheratarms_b.xml:53
 msgid "Medigoron's Unique Unit. Swift Melee unit that deals a wide area of Splash Damage."
@@ -4677,9 +4678,10 @@ msgid ""
 "Gorons are famous drummers and dancers, and some of their most talented players will "
 "direct soldiers to battle with their beats. These drummers can keep Gorons in marching "
 "order and morale high as they enter into a warzone."
-msgstr "Goronen sind berühmte Trommler und Tänzer und einpaar ihrer besten spieler "
-"dirigieren Soldaten durch die Schlacht mit ihren Schlägen. Diese Trommler halten "
-"die Moral hoch und Marschordnung gerade wenn es in die Schlacht geht. "
+msgstr ""
+"Goronen sind berühmte Trommler und Tänzer und ein paar ihrer besten Spieler "
+"dirigieren Soldaten durch die Schlacht mit ihren Trommelschlägeen. Diese Trommler  "
+"halten die Moral hoch und Marschordnung gerade wenn es in die Schlacht geht. "
 
 #: simulation/templates/units/goron/goron_drummer_b.xml:34
 msgid "Support unit that increases the movement speed of other Gorons."
@@ -4707,8 +4709,8 @@ msgid ""
 msgstr ""
 "Die Feuerkrieger sind die ultimativen Goronen Soldaten und von Kopf bis Fuß in karmesiner"
 "Rüstung eingedeckt und bewaffnet mit einem mächtigen Stahlhammer. Ein Schwung von ihren"
-"Hämmern kann Gruppen an Soldaten das fliegen lehren und nur die stärksten Waffen können "
-"ihre Panzerung knacken."
+"Hämmern kann Gruppen an Soldaten das fliegen lehren und nur ein paar der stärksten Waffen"
+"in HYrule können ihre Panzerung knacken."
 
 #: simulation/templates/units/goron/goron_firewarrior_b.xml:55
 msgid "Slow moving but heavily armored Melee unit that deals tons of Splash Damage to enemies."
@@ -4723,7 +4725,8 @@ msgid ""
 "Some of the largest Gorons on record, these Giants were slow to move and even slower to"
 " bring to battle. In a fight they preferred to hurl giant boulders from impressive "
 "distances, bowling down groups of enemy soldiers or toppling over enemy buildings."
-msgstr "Diese Riesen gehören zu den größten Goronen der Geschichte und sind entsprechend"
+msgstr ""
+"Diese Riesen gehören zu den größten Goronen der Geschichte und sind entsprechend"
 "langsam. In einem Kampf bevorzugten sie es riesige Felsen aus beeindruckenden Entfernungen"
 "zu werfen die Soldaten und Gebäude zertümmerten."
 
@@ -4742,11 +4745,12 @@ msgid ""
 "are nonetheless rather durable and strong for their size, and can take on armored "
 "enemies. Lacking weapons and armor, the Guardians are able to curl themselves up and "
 "roll at fast speeds to reach critical areas much more swiftly than their brothers."
-msgstr "Wächter wurden aus der Zivilen Bevölkerung rekrutiert um während Kriegszeiten "
-"die Heimat ,den Todesberg, zu verteidigen. Nur mit ihren Fäusten ausgestattet waren"
-"die Goronen Wächter trotzdem sehr zäh und stark für ihre Größe und konnten es mit gepanzerten"
-"Gegner aufnehmen. Ohne Rüstung und Waffen konnten die Wächter sich einrollen und schneller"
-"kritische Orte  erreichen als ihre Brüder."
+msgstr ""
+"Wächter wurden aus der  Zivilbevölkerung rekrutiert um während Kriegszeiten ihre"
+"Heimat, den Todesberg, zu verteidigen. Zwar nur mit ihren Fäusten bewaffnet, waren"
+"die Goronen Wächter trotzdem sehr zäh und stark für ihre Größe und konnten es mit "
+"gepanzerten Gegner aufnehmen. Ohne Rüstung und Waffen konnten die Wächter sich "
+"einrollen und schneller kritische Orte  erreichen als ihre Brüder."
 
 #: simulation/templates/units/goron/goron_guardian_b.xml:38
 msgid "Light Infantry Melee unit that can roll up and zoom across the map at rapid speeds."
@@ -4800,7 +4804,7 @@ msgstr "Dangoro"
 
 #: simulation/templates/units/goron/goron_hero_dangoro.xml:50
 msgid "Large Goron Siege Hero that can decimate structures and units alike."
-msgstr ""
+msgstr "Großer Goronen Belagerungsheld"
 
 #: simulation/templates/units/goron/goron_hero_daruk.xml:38
 msgid "Goron Elder"
