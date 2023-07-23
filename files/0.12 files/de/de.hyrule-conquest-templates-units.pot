@@ -46,7 +46,7 @@ msgstr ""
 #: simulation/templates/units/stalfos/stalfos_stalhound_b.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Fangs"
-msgstr "Reißzähne"
+msgstr "Fangzähne"
 
 #: simulation/templates/template_unit_dog.xml:32
 msgid "War Dog"
@@ -394,7 +394,7 @@ msgstr ""
 
 #: simulation/templates/template_unit_scout.xml:14
 msgid "Melee Cavalry"
-msgstr "Nahkampf Kavallerie"
+msgstr "Kavallerie"
 
 #: simulation/templates/template_unit_unselectable.xml:46
 msgid "Unit"
@@ -411,8 +411,8 @@ msgid ""
 "guard passages and other important locations, as those found active will begin to "
 "rampage and defend the immediate area."
 msgstr"" 
-"Diese Statuen, die man normalerweise in Hyrules Waldruinen findet, sind wie ihre Schöpfer" 
-"bis zu diesem Tag ein Mysterium. Was allgemein vermutet wird ist das sie zum Schutze von Passagen"
+"Diese Statuen, die man normalerweise in Hyrules Waldruinen findet, sind, wie ihre Schöpfer" 
+"bis zum heutigen Tag ein Mysterium. Was allgemein vermutet wird ist das sie zum Schutze von Passagen"
 "und anderen wichtigen Orten eingesetzt wurden, da beobachtet wurde wie aktivierte Armos anfangen"
 "zu randalieren und das umliegende Gebiet zu verteidigen"
 
@@ -434,8 +434,8 @@ msgid ""
 "intended to guard passages and other important locations, as those found active will "
 "begin to rampage and defend the immediate area."
 msgstr "" 
-"Diese Statuen, die man normalerweise auf dem Todes Gebirge findet, sind wie ihre Schöpfer"
-"bis zu diesem Tag ein Mysterium. Was allgemein vermutet wird ist das sie zum Schutze von Passagen"
+"Diese Statuen, die man normalerweise auf dem Todes Gebirge findet, sind, wie ihre Schöpfer"
+"bis zum heutigen Tag ein Mysterium. Was allgemein vermutet wird ist das sie zum Schutze von Passagen"
 "und anderen wichtigen Orten eingesetzt wurden, da beobachtet wurde wie aktivierte Armos anfangen"
 "zu randalieren und das umliegende Gebiet zu verteidigen"
 
@@ -451,7 +451,7 @@ msgid ""
 " defend the immediate area."
 msgstr ""
 "Diese Statuen, die man normalerweise in Hyrules Wüsten findet, sind wie ihre Schöpfer"
-"bis zu diesem Tag ein Mysterium. Was allgemein vermutet wird ist das sie zum Schutze von Passagen"
+"bis zum heutigen Tag ein Mysterium. Was allgemein vermutet wird ist das sie zum Schutze von Passagen"
 "und anderen wichtigen Orten eingesetzt wurden, da beobachtet wurde wie aktivierte Armos anfangen"
 "zu randalieren und das umliegende Gebiet zu verteidigen"
 
@@ -467,23 +467,23 @@ msgid ""
 " defend the immediate area."
 msgstr ""
 " Diese Statuen, die man normalerweise in lang vetrgessenen Ruinen und mystischen Orten" 
-" findet sind wie ihre Schöpfer bis zu diesem Tag ein Mysterium. Was allgemein vermutet wird"
-" ist das sie zum Schutze von Passagen und anderen wichtigen Orten eingesetzt wurden,"
+" findet, sind, wie ihre Schöpfer bis zum heutigen Tag ein Mysterium. Was allgemein vermutet"
+" wird ist das sie zum Schutze von Passagen und anderen wichtigen Orten eingesetzt wurden,"
 " da beobachtet wurde wie aktivierte Armos anfangen zu randalieren und das umliegende"
 " Gebiet zu verteidigen"
 
 #: simulation/templates/units/boss/boss_madmanhandla.xml:4
 msgctxt "Name of an attack, usually the weapon."
 msgid "Teeth and Claws"
-msgstr "Fangzähne und Klauen"
+msgstr "Zähne und Klauen"
 
 #: simulation/templates/units/boss/boss_madmanhandla.xml:60
 msgid ""
 "Sometimes called the Sea of Trees, this oversized Manhandla has been infected by the "
 "Mad Scrub disease and has long gone on a rampage throughout the Deku Woods."
 msgstr""
-"Oft auch bekannt als Meer aus Bäumen, wurde diese übergroße Manhandla mit der"
-"Laubwut Krankheit infiziert und lief läuft schon lange Amok durch die Dekuwälder" 
+"Oft auch als Meer aus Bäumen betitelt, wurde diese übergroße Manhandla mit der"
+"Laubwahn Krankheit infiziert und läuft schon lange Amok durch die Dekuwälder" 
 
 #: simulation/templates/units/boss/boss_madmanhandla.xml:62
 msgid "Giant Mad Manhandla"
@@ -522,7 +522,7 @@ msgstr ""
 
 #: simulation/templates/units/boss/boss_moldarach.xml:62
 msgid "Moldarach"
-msgstr "Moldoghad "
+msgstr "Moldoghad"
 
 #: simulation/templates/units/boss/boss_moldarach.xml:63
 msgid "Giant Boss that destroys armies with its huge claws and venomous tail."
@@ -545,9 +545,9 @@ msgid ""
 "Darknuts have these magestic but deadly monsters lived on."
 msgstr ""
 "Diese riesige Mordo ist letzte ihrer Art und Jahrhunderte alt. Einst ein kleiner Jäger"
-"in der Gerudo Wüste in der antiken Gerudo Wüste hat die Mordo Geira schon lange ihre"
-"Jäger überdauert und steht an der Spitze der Nahrungskette. Trotz dessen scheinen sie"
-"auf dem Pfad ihrer Fressfeinde zu gehen da ihren Zahlen schwinden. Nur durch die"
+"in der antiken Gerudo Wüste hat die Mordo Geira schon lange ihre natürlichen Feinde"
+"überdauert und steht an der Spitze der Nahrungskette. Trotz dessen scheint es das sie"
+"auf dem Pfad ihrer Fressfeinde wandeln, da ihren Zahlen schwinden. Nur durch die"
 "bemühungen der Nimbusgarden haben diese Majestätischen und tödlichen Monster überlebt."
 
 #: simulation/templates/units/boss/boss_molgera.xml:64
@@ -560,7 +560,7 @@ msgstr "Boss Monster das sich vergraben kann und ganze Armeen aus dem Hinterhalt
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_giant_b.xml:29
 msgid "Giant Larva"
-msgstr ""
+msgstr "Riesen Larve"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_giant_b.xml:30
 msgid ""
@@ -571,16 +571,16 @@ msgstr ""
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_giant_b.xml:34
 msgid "A large and bloated larva that can grow into giant Gohma forms."
-msgstr ""
+msgstr "Eine große und aufgeblähte Larve"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_giant_b.xml:75
 msgid "Create Tank Gohma."
-msgstr ""
+msgstr "Lege Panzergohma"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_hive_b.xml:41
 #: simulation/templates/units/gohma/gohma_larva_hive_b.xml:53
 msgid "Hive Larva"
-msgstr ""
+msgstr "Schwarm Larve"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_hive_b.xml:42
 #: simulation/templates/units/gohma/gohma_larva_hive_b.xml:54
@@ -599,20 +599,20 @@ msgstr ""
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_hive_b.xml:89
 msgid "Create Hive Keeper."
-msgstr ""
+msgstr "Lege Aufseher"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_hive_b.xml:99
 msgid "Create Caretaker."
-msgstr ""
+msgstr "Lege Pfleger"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_hive_b.xml:110
 msgid "Create Shroud Walker."
-msgstr ""
+msgstr "Lege Nebelgägnger"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_royal_b.xml:29
 #: simulation/templates/units/gohma/gohma_larva_royal_b.xml:32
 msgid "Royal Larva"
-msgstr ""
+msgstr "Königinnenlarve"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_royal_b.xml:30
 #: simulation/templates/units/gohma/gohma_larva_royal_b.xml:33
@@ -629,12 +629,12 @@ msgstr ""
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_royal_b.xml:71
 msgid "Create Gohma Queen."
-msgstr ""
+msgstr "Gohmakönigin"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_soldier_b.xml:33
 #: simulation/templates/units/gohma/gohma_larva_soldier_b.xml:34
 msgid "Soldier Larva"
-msgstr ""
+msgstr "Soldatenlarve"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_soldier_b.xml:34
 #: simulation/templates/units/gohma/gohma_larva_soldier_b.xml:35
@@ -651,16 +651,16 @@ msgstr ""
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_soldier_b.xml:74
 msgid "Create Pincergohma."
-msgstr ""
+msgstr "Zangengohma"
 
 #: simulation/templates/units/campaign/FS_01/gohma_larva_soldier_b.xml:84
 msgid "Create Spinalgohma."
-msgstr ""
+msgstr "Wirbelgohma"
 
 #: simulation/templates/units/campaign/FS_01/gohma_queen_b.xml:40
 #: simulation/templates/units/gohma/gohma_queen_b.xml:38
 msgid "Gohma Queen"
-msgstr ""
+msgstr "Gohmakönigin"
 
 #: simulation/templates/units/campaign/FS_01/gohma_queen_b.xml:41
 #: simulation/templates/units/gohma/gohma_queen_b.xml:39
@@ -789,11 +789,11 @@ msgid ""
 "lowly workers; gathering resources and building the impressive structures of the "
 "Legion."
 msgstr ""
-"Knechte waren der niedrigste rang in der Gesllschsft der Nimbusgarde und waren kaum"
-"mehr als Sklave.Trotz ihres niedrigen Statuses wurden sie gut versorgt, ob mit Essen"
+"Knechte waren der niedrigste rang in der Gesellschaft der Nimbusgarde und waren kaum"
+"mehr als Sklaven.Trotz ihres niedrigen Statuses wurden sie gut versorgt, ob mit Essen"
 "oder Kleidung und konnten zu jeder Zeit ihren Meister für ihre Freiheit herausfordern."
-"Die dies nicht vollbrachte blieben einfache Arbeiter und sammelten weiter ressourcen und "
-"errichteten die großen Bauten der Legion"
+"Die dies nicht vollbrachte blieben einfache Arbeiter und sammelten weiter Ressourcen "
+"und errichteten weiterhin die großen Bauten der Legion"
 
 #: simulation/templates/units/darknut/darknut_civilianA.xml:13
 #: simulation/templates/units/darknut/darknut_thrallA.xml:49
@@ -858,16 +858,16 @@ msgid ""
 "soldiers to not only to command them, but to show them how to become even better "
 "fighters."
 msgstr ""
-"Ehrfahrene Krieger und noch Ehrfahrerne Lehrmeister, Dux waren Kommandanten die mit"
+"Als ehrfahrene Krieger und noch ehrfahrerne Lehrmeister waren Dux Kommandanten die mit"
 "guten Beispiel vorangingen und Generationen an Nimbusgarden Kriegern hervorbrachten."
-"Ein einzelner Dux wurde oft Truppen von Soldaten zugewiesen nicht nur um sie anzuführen"
+"Ein einzelner Dux wurde oft Truppen von Soldaten zugewiesen, nicht nur um sie anzuführen"
 "sondern auch um sie zu besseren Kämpfern zu machen."
 
 #: simulation/templates/units/darknut/darknut_dux_b.xml:63
 msgid ""
 "Commander unit that leads fellow soldiers into battle and improves their rate of "
 "gaining experience."
-msgstr "Kommandanten Einheit die Soldaten in den Kampf führt und ihren Ehrfahrungsgewinn steigert "
+msgstr "Kommandanten Einheit die Soldaten in den Kampf führt und ihren Ehrfahrungsgewinn steigert"
 
 #: simulation/templates/units/darknut/darknut_dux_b.xml:64
 #: simulation/templates/units/darknut/darknut_idolthrone_b.xml:39
@@ -926,8 +926,8 @@ msgid ""
 " mobile siege weapon, lobbing rocks and boulders great distances to shatter enemy "
 "fortifications and defenses."
 msgstr "
-""Die Fokkaliste wurde von den verbündenten Fokka entwickelt und diente ursprünglich Vorräte"
-"über Canyons und Klippenihrer Heimat zu schleudern. Sie wurde später in eine mobile"
+"Die Fokkaliste wurde von den verbündenten Fokka entwickelt und diente ursprünglich Vorräte"
+"über Schluchten und Klippen ihrer Heimat zu schleudern. Sie wurde später in eine mobile"
 "Belagerungswaffe umgewandelt die Steine und Brocken über große Entfernungen schleudern"
 "kann um feindliche Befestigungen und Gebäude zu zertrümmern."
 
@@ -950,8 +950,8 @@ msgid ""
 "jewelry and stained glass. In a battle the Glass Witches toss razor sharp bolts of "
 "crystal at their enemies, shredding their armor and knocking them off their feet."
 msgstr ""
-"Ein kleiner Orden bestehend aus weiblichen Nimbusgarden die weit und breit für ihr Geschick"
-"im Schmuck schmieden und Buntglaserei bekannt sind. In der Schlacht werfen die Glashexen"
+"Ein kleiner Orden bestehend aus weiblichen Nimbusgarden die weit und breit für ihre"
+"Handwerkskunstin Schmuck und Glas bekannt sind. In der Schlacht werfen die Glashexen"
 "rasiermesserscharfe Projektile aus Kristallglas, die Rüstungen schreddern und Feinde wegfegen."
 
 #: simulation/templates/units/darknut/darknut_glasswitch_b.xml:50
@@ -980,8 +980,8 @@ msgid ""
 msgstr ""
 "Diese jungen und eifrigen Krieger wurden noch nicht von der Legion aufgenommen und"
 "trainiert und verdingen sich deshalb als freiwillige Soldaten um sich zu beweisen."
-"Diejenigen die den Kampf überlebten oder aussergewöhnliches Geschick bewiesen werden"
-"ohne Nachfrage in die Legion aufgenommen."
+"Diejenigen die in der Schlacht überleben oder aussergewöhnliches Geschick bewiesen"
+"wurden ohne Nachfrage in die Legion aufgenommen."
 
 #: simulation/templates/units/darknut/darknut_gymnatai_b.xml:38
 msgid "Fast Melee unit armed with a khopesh."
@@ -1008,7 +1008,7 @@ msgstr ""
 "Wüste und ließ die Legion mitsamt ihrem Kodex hinter sich. Nach Jahrzehnten in Trauer,"
 "gewann er seine Lebenswillen wieder und begann eine Armee aus Söldnern und weiteren"
 "verstoßenen Nimbusgarden anzuhäufen. Seit jahren wütet er durch die Wüste mit seinen"
-"treuen Plünderern. Sein Ziel ist nichts geringeres als den Thron der Nimbusgarden"
+"treuen Plünderern mit keinem geringeren Ziel als den Thron der Nimbusgarden zu besteigen"
 "und Zalunbar als fleischgewordene Gottheit der Legion zu ersetzen"
 
 #: simulation/templates/units/darknut/darknut_hero_alros.xml:64
@@ -2582,8 +2582,8 @@ msgid ""
 "While its tiny size hardly made it an impressive siege weapon, a huge swarm of these "
 "rams could wear down gates and walls bit by bit until they finally broke down."
 msgstr ""
-"Weil ein einzelner Aufgrund seiner Größe keine gute Belagerungswaffe abgab, wurden große"
-"Schwärme an Rammböcken entsand um feindliche Befestigungen dennoch Stück für Stück einzureißen"
+"Da ein einzelner Ramm, aufgrund seiner Größe keine gute Belagerungswaffe abgab, wurden große"
+"Schwärme an Rammböcken entsand um feindliche Befestigungen, dennoch Stück für Stück einzureißen"
 
 #: simulation/templates/units/deku/deku_scrubram_b.xml:55
 msgid "Scrubram"
